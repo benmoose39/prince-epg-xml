@@ -25,10 +25,12 @@ if __name__ == '__main__':
         stop = datetime.datetime.strptime(stop, '%Y%m%d%H%M%S %z')
         title_tag = program.getElementsByTagName('title')
         title = title_tag[0].firstChild.data if title_tag.length > 0 else ''
+        sub_title_tag = program.getElementsByTagName('sub-title')
+        sub_title = sub_title_tag[0].firstChild.data if sub_title_tag.length > 0 else ''
         desc_tag = program.getElementsByTagName('desc')
         description = desc_tag[0].attributes['desc'].value if desc_tag.length > 0 else ''
         img_tag = program.getElementsByTagName('icon')
-        img_url = img_tag[0].attributes['src'].value if img_tag.length > 0 else ''
+        img_url = img_tag[0].attributes['src'].value if img_tag.length > 0 else 'https://commons.wikimedia.org/wiki/File:Image_not_available.png'
 
         # program_status
         # 1 => upcoming; 0 => now playing; -1 => finished
@@ -39,9 +41,11 @@ if __name__ == '__main__':
             program_status = 0
         
         master[channel].append({
-                'start': datetime.datetime.strftime(start, '%Y-%m-%d %I:%M%p %Z'),
-                'stop': datetime.datetime.strftime(stop, '%Y-%m-%d %I:%M%p %Z'),
+                'start': datetime.datetime.strftime(start, '%d %B %Y %I:%M%p %Z'),
+                #'start': datetime.datetime.strftime(start, '%Y-%m-%d %I:%M%p %Z'),
+                'stop': datetime.datetime.strftime(stop, '%d %B %Y %I:%M%p %Z'),
                 'title': title.encode('ascii', 'replace').decode('ascii'),
+                'sub_title': sub_title.encode('ascii', 'replace').decode('ascii'),
                 'description': description.encode('ascii', 'replace').decode('ascii'),
                 'img_url': img_url,
                 'program_status': program_status,
@@ -70,6 +74,16 @@ if __name__ == '__main__':
                 # Writing current program details
                 with open(f'{channel}/current_program.txt', 'w') as writer:
                     writer.write(f'{program["start"]}\n{program["title"]}\n{program["description"]}')
+
+                with open(f'{channel}/current_program.html', 'w') as writer:
+                    writer.write(f'''<!DOCTYPE html>
+<html>
+<body>
+<div class="row"><div class="col-sm-3"><img src="{program["img_url"]}" alt="" class="img-fluid"></div><div class="col-sm-9"><div class="program-details-datetime">{program["start"]} - {program["stop"]}</div><h4 class="title">{program["title"]}</h4><h5 class="subTitle">{program["sub_title"]}</h5><div class="description">{program["description"]}</div></div></div>
+</body>
+</html>
+''')
+
 
                 # Writing current program title
                 with open(f'{channel}/current_program_title.txt', 'w') as writer:
