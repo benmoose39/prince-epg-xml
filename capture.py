@@ -39,8 +39,8 @@ if __name__ == '__main__':
             program_status = 0
         
         master[channel].append({
-                'start': datetime.datetime.strftime(start, '%Y-%m-%d %I:%M%p %z'),
-                'stop': datetime.datetime.strftime(stop, '%Y-%m-%d %I:%M%p %z'),
+                'start': datetime.datetime.strftime(start, '%Y-%m-%d %I:%M%p %Z'),
+                'stop': datetime.datetime.strftime(stop, '%Y-%m-%d %I:%M%p %Z'),
                 'title': title.encode('ascii', 'replace').decode('ascii'),
                 'description': description.encode('ascii', 'replace').decode('ascii'),
                 'img_url': img_url,
