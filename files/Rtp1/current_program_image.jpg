@@ -1,1 +1,1 @@
-{"fault":{"faultstring":"Unable to identify proxy for host: tyr-prod.apigee.net:443 and url: \/v1\/nostv_mage\/Images","detail":{"errorcode":"messaging.adaptors.http.flow.ApplicationNotFound"}}}
+{"fault":{"faultstring":"Failed to resolve API Key variable request.queryparam.client_id","detail":{"errorcode":"steps.oauth.v2.FailedToResolveAPIKey"}}}
