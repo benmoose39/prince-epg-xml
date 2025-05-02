@@ -9,7 +9,7 @@ import sys
 if __name__ == '__main__':
     s = requests.session()
     
-    now = datetime.datetime.now(datetime.UTC) + datetime.timedelta(seconds=7200)
+    now = datetime.datetime.now(datetime.UTC) + datetime.timedelta(seconds=-3600)
     dom = minidom.parse('IPTV_tuner_epg.xml')
     channels = dom.getElementsByTagName('channel')
     programs = dom.getElementsByTagName('programme')
@@ -30,8 +30,10 @@ if __name__ == '__main__':
             master[channel] = []
         start = program.attributes['start'].value
         start = datetime.datetime.strptime(start, '%Y%m%d%H%M%S %z')
+        start += datetime.timedelta(seconds=-3600)
         stop = program.attributes['stop'].value
         stop = datetime.datetime.strptime(stop, '%Y%m%d%H%M%S %z')
+        stop += datetime.timedelta(seconds=-3600)
         title_tag = program.getElementsByTagName('title')
         title = title_tag[0].firstChild.data if title_tag.length > 0 else ''
         sub_title_tag = program.getElementsByTagName('sub-title')
