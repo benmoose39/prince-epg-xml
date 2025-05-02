@@ -2,10 +2,28 @@
 <tv>
   <channel>
     <name>SABC News ZA</name>
+    <title>Full View</title>
+    <desc>The show also features 30 minutes of market sense in-depth.</desc>
+    <image>https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/img/246905_FullView.jpg</image>
+    <start>05:00PM</start>
+    <finish>08:00PM</finish>
+    <date>02 May 2025</date>
+  </channel>
+  <channel>
+    <name>SABC News ZA</name>
     <title>The Late Edition</title>
     <desc>A 360 degree view of all the stories that made headlines through packages, features, and interviews.</desc>
     <image>https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/img/347703_The Late Edition.jpg</image>
-    <start>09:00PM</start>
+    <start>08:00PM</start>
+    <finish>10:00PM</finish>
+    <date>02 May 2025</date>
+  </channel>
+  <channel>
+    <name>SABC News ZA</name>
+    <title>Full View</title>
+    <desc>The show also features 30 minutes of market sense in-depth.</desc>
+    <image>https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/img/246905_FullView.jpg</image>
+    <start>10:00PM</start>
     <finish>11:00PM</finish>
     <date>02 May 2025</date>
   </channel>
@@ -15,25 +33,16 @@
     <desc>The show also features 30 minutes of market sense in-depth.</desc>
     <image>https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/img/246905_FullView.jpg</image>
     <start>11:00PM</start>
-    <finish>12:00AM</finish>
+    <finish>01:00AM</finish>
     <date>02 May 2025</date>
-  </channel>
-  <channel>
-    <name>SABC News ZA</name>
-    <title>Full View</title>
-    <desc>The show also features 30 minutes of market sense in-depth.</desc>
-    <image>https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/img/246905_FullView.jpg</image>
-    <start>12:00AM</start>
-    <finish>02:00AM</finish>
-    <date>03 May 2025</date>
   </channel>
   <channel>
     <name>SABC News ZA</name>
     <title>The Late Edition</title>
     <desc>A 360 degree view of all the stories that made headlines through packages, features, and interviews.</desc>
     <image>https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/img/347703_The Late Edition.jpg</image>
-    <start>02:00AM</start>
-    <finish>04:00AM</finish>
+    <start>01:00AM</start>
+    <finish>03:00AM</finish>
     <date>03 May 2025</date>
   </channel>
   <channel>
@@ -41,8 +50,8 @@
     <title>Morning Live Interviews</title>
     <desc>The show carries the Diary for the day, Market Sense, General News, Crime and Courts issues, Political issues, Sports News, Live weather and traffic reports.</desc>
     <image>https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/img/428203_Morning_Live.jpg</image>
-    <start>04:00AM</start>
-    <finish>04:30AM</finish>
+    <start>03:00AM</start>
+    <finish>03:30AM</finish>
     <date>03 May 2025</date>
   </channel>
   <channel>
@@ -50,8 +59,8 @@
     <title>SA Today Interviews</title>
     <desc>Through an interview-driven format, invited guests provide expert insights and analysis on major stories.</desc>
     <image>https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/img/428204_246906_SAToday.jpg</image>
-    <start>04:30AM</start>
-    <finish>05:00AM</finish>
+    <start>03:30AM</start>
+    <finish>04:00AM</finish>
     <date>03 May 2025</date>
   </channel>
   <channel>
@@ -59,8 +68,8 @@
     <title>Face The Nation</title>
     <desc>A hard-hitting show with the incomparable Clement Manyathela, where tough questions are tackled, and leaders will be held accountable.</desc>
     <image>https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/img/386199_FACE OF THE NATION Banner.jpg</image>
-    <start>05:00AM</start>
-    <finish>06:00AM</finish>
+    <start>04:00AM</start>
+    <finish>05:00AM</finish>
     <date>03 May 2025</date>
   </channel>
   <channel>
@@ -68,8 +77,8 @@
     <title>Morning Live</title>
     <desc>Before you start your day, we've got you covered with Traffic updates to help you navigate your commute.</desc>
     <image>https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/img/82884_leanne_082ap.jpg</image>
-    <start>06:00AM</start>
-    <finish>09:00AM</finish>
+    <start>05:00AM</start>
+    <finish>08:00AM</finish>
     <date>03 May 2025</date>
   </channel>
   <channel>
@@ -77,8 +86,8 @@
     <title>Trendz Live</title>
     <desc>The show also explores different cultures, unique neighborhoods and an array of the arts and culture.</desc>
     <image>https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/img/275383_TrendzLive.jpg</image>
-    <start>09:00AM</start>
-    <finish>10:00AM</finish>
+    <start>08:00AM</start>
+    <finish>09:00AM</finish>
     <date>03 May 2025</date>
   </channel>
   <channel>
@@ -86,8 +95,8 @@
     <title>The Agenda</title>
     <desc>Delve into thought-provoking discussions on The Agenda, where pressing societal issues are tackled through insightful interviews and in-depth conversations.</desc>
     <image>https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/img/307536_TheAgenda.jpg</image>
-    <start>10:00AM</start>
-    <finish>12:00PM</finish>
+    <start>09:00AM</start>
+    <finish>11:00AM</finish>
     <date>03 May 2025</date>
   </channel>
   <channel>
@@ -95,8 +104,8 @@
     <title>Week In Review</title>
     <desc>A review of the top headlines of the week with studio guests and subject matter specialists.</desc>
     <image>https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/img/346973_Week-In-Review.jpg</image>
-    <start>12:00PM</start>
-    <finish>03:00PM</finish>
+    <start>11:00AM</start>
+    <finish>02:00PM</finish>
     <date>03 May 2025</date>
   </channel>
   <channel>
@@ -104,8 +113,8 @@
     <title>SA Today</title>
     <desc>Invited guests give more depth on big provincial and regional stories that can be an issue of national importance. It also includes general news.</desc>
     <image>https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/img/246906_SAToday.jpg</image>
-    <start>03:00PM</start>
-    <finish>06:00PM</finish>
+    <start>02:00PM</start>
+    <finish>05:00PM</finish>
     <date>03 May 2025</date>
   </channel>
   <channel>
@@ -113,8 +122,8 @@
     <title>Full View</title>
     <desc>The show also features 30 minutes of market sense in-depth.</desc>
     <image>https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/img/246905_FullView.jpg</image>
-    <start>06:00PM</start>
-    <finish>09:00PM</finish>
+    <start>05:00PM</start>
+    <finish>08:00PM</finish>
     <date>03 May 2025</date>
   </channel>
   <channel>
@@ -122,7 +131,16 @@
     <title>The Late Edition</title>
     <desc>A 360 degree view of all the stories that made headlines through packages, features, and interviews.</desc>
     <image>https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/img/347703_The Late Edition.jpg</image>
-    <start>09:00PM</start>
+    <start>08:00PM</start>
+    <finish>10:00PM</finish>
+    <date>03 May 2025</date>
+  </channel>
+  <channel>
+    <name>SABC News ZA</name>
+    <title>Full View</title>
+    <desc>The show also features 30 minutes of market sense in-depth.</desc>
+    <image>https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/img/246905_FullView.jpg</image>
+    <start>10:00PM</start>
     <finish>11:00PM</finish>
     <date>03 May 2025</date>
   </channel>
@@ -132,25 +150,16 @@
     <desc>The show also features 30 minutes of market sense in-depth.</desc>
     <image>https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/img/246905_FullView.jpg</image>
     <start>11:00PM</start>
-    <finish>12:00AM</finish>
+    <finish>01:00AM</finish>
     <date>03 May 2025</date>
-  </channel>
-  <channel>
-    <name>SABC News ZA</name>
-    <title>Full View</title>
-    <desc>The show also features 30 minutes of market sense in-depth.</desc>
-    <image>https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/img/246905_FullView.jpg</image>
-    <start>12:00AM</start>
-    <finish>02:00AM</finish>
-    <date>04 May 2025</date>
   </channel>
   <channel>
     <name>SABC News ZA</name>
     <title>The Late Edition</title>
     <desc>A 360 degree view of all the stories that made headlines through packages, features, and interviews.</desc>
     <image>https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/img/347703_The Late Edition.jpg</image>
-    <start>02:00AM</start>
-    <finish>04:00AM</finish>
+    <start>01:00AM</start>
+    <finish>03:00AM</finish>
     <date>04 May 2025</date>
   </channel>
   <channel>
@@ -158,8 +167,8 @@
     <title>Face The Nation</title>
     <desc>A hard-hitting show with the incomparable Clement Manyathela, where tough questions are tackled, and leaders will be held accountable.</desc>
     <image>https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/img/386199_FACE OF THE NATION Banner.jpg</image>
-    <start>04:00AM</start>
-    <finish>05:00AM</finish>
+    <start>03:00AM</start>
+    <finish>04:00AM</finish>
     <date>04 May 2025</date>
   </channel>
   <channel>
@@ -167,8 +176,8 @@
     <title>Trendz Live</title>
     <desc>The show also explores different cultures, unique neighborhoods and an array of the arts and culture.</desc>
     <image>https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/img/275383_TrendzLive.jpg</image>
-    <start>05:00AM</start>
-    <finish>06:00AM</finish>
+    <start>04:00AM</start>
+    <finish>05:00AM</finish>
     <date>04 May 2025</date>
   </channel>
   <channel>
@@ -176,8 +185,8 @@
     <title>Morning Live</title>
     <desc>Before you start your day, we've got you covered with Traffic updates to help you navigate your commute.</desc>
     <image>https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/img/82884_leanne_082ap.jpg</image>
-    <start>06:00AM</start>
-    <finish>09:00AM</finish>
+    <start>05:00AM</start>
+    <finish>08:00AM</finish>
     <date>04 May 2025</date>
   </channel>
   <channel>
@@ -185,8 +194,8 @@
     <title>The Agenda</title>
     <desc>Delve into thought-provoking discussions on The Agenda, where pressing societal issues are tackled through insightful interviews and in-depth conversations.</desc>
     <image>https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/img/307536_TheAgenda.jpg</image>
-    <start>09:00AM</start>
-    <finish>12:00PM</finish>
+    <start>08:00AM</start>
+    <finish>11:00AM</finish>
     <date>04 May 2025</date>
   </channel>
   <channel>
@@ -194,8 +203,8 @@
     <title>The Week Ahead</title>
     <desc>Join us for a snapshot of what's likely to make headlines in the week ahead.</desc>
     <image>https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/img/241241_TheWeekAhead.jpg</image>
-    <start>12:00PM</start>
-    <finish>03:00PM</finish>
+    <start>11:00AM</start>
+    <finish>02:00PM</finish>
     <date>04 May 2025</date>
   </channel>
   <channel>
@@ -203,8 +212,8 @@
     <title>SA Today</title>
     <desc>Invited guests give more depth on big provincial and regional stories that can be an issue of national importance. It also includes general news.</desc>
     <image>https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/img/246906_SAToday.jpg</image>
-    <start>03:00PM</start>
-    <finish>06:00PM</finish>
+    <start>02:00PM</start>
+    <finish>05:00PM</finish>
     <date>04 May 2025</date>
   </channel>
   <channel>
@@ -212,45 +221,297 @@
     <title>Full View</title>
     <desc>The show also features 30 minutes of market sense in-depth.</desc>
     <image>https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/img/246905_FullView.jpg</image>
+    <start>05:00PM</start>
+    <finish>06:00PM</finish>
+    <date>04 May 2025</date>
+  </channel>
+  <channel>
+    <name>SABC News ZA</name>
+    <title>It's Topical</title>
+    <desc>It's Topical gives you a sense of the nation's mood. Digital, pacy, interactive and engaging journalism brought to the TV screen.</desc>
+    <image>https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/img/275385_ItsTopical.jpg</image>
     <start>06:00PM</start>
     <finish>07:00PM</finish>
     <date>04 May 2025</date>
   </channel>
   <channel>
     <name>SABC News ZA</name>
+    <title>Unwrap Africa</title>
+    <desc>A mix of topical news, cultural highlights and uplifting stories, with a special focus on groundbreaking technological achievements and success stories through live links to different countries and regions.</desc>
+    <image>https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/img/212287_1.jpg</image>
+    <start>07:00PM</start>
+    <finish>07:30PM</finish>
+    <date>04 May 2025</date>
+  </channel>
+  <channel>
+    <name>SABC News ZA</name>
+    <title>Trendz Travel</title>
+    <desc>We focus on the sights and scenery and celebrate experiences and locations in South Africa, Africa and abroad.</desc>
+    <image>https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/img/418396_Trendz Travel.jpg</image>
+    <start>07:30PM</start>
+    <finish>08:00PM</finish>
+    <date>04 May 2025</date>
+  </channel>
+  <channel>
+    <name>SABC News ZA</name>
+    <title>The Late Edition</title>
+    <desc>A 360 degree view of all the stories that made headlines through packages, features, and interviews.</desc>
+    <image>https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/img/347703_The Late Edition.jpg</image>
+    <start>08:00PM</start>
+    <finish>10:00PM</finish>
+    <date>04 May 2025</date>
+  </channel>
+  <channel>
+    <name>SABC News ZA</name>
+    <title>Full View</title>
+    <desc>The show also features 30 minutes of market sense in-depth.</desc>
+    <image>https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/img/246905_FullView.jpg</image>
+    <start>10:00PM</start>
+    <finish>11:00PM</finish>
+    <date>04 May 2025</date>
+  </channel>
+  <channel>
+    <name>SABC News ZA</name>
     <title>It's Topical</title>
     <desc>It's Topical gives you a sense of the nation's mood. Digital, pacy, interactive and engaging journalism brought to the TV screen.</desc>
     <image>https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/img/275385_ItsTopical.jpg</image>
+    <start>11:00PM</start>
+    <finish>12:00AM</finish>
+    <date>04 May 2025</date>
+  </channel>
+  <channel>
+    <name>SABC News ZA</name>
+    <title>Unwrap Africa</title>
+    <desc>A mix of topical news, cultural highlights and uplifting stories, with a special focus on groundbreaking technological achievements and success stories through live links to different countries and regions.</desc>
+    <image>https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/img/212287_1.jpg</image>
+    <start>12:00AM</start>
+    <finish>12:30AM</finish>
+    <date>05 May 2025</date>
+  </channel>
+  <channel>
+    <name>SABC News ZA</name>
+    <title>Trendz Travel</title>
+    <desc>We focus on the sights and scenery and celebrate experiences and locations in South Africa, Africa and abroad.</desc>
+    <image>https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/img/418396_Trendz Travel.jpg</image>
+    <start>12:30AM</start>
+    <finish>01:00AM</finish>
+    <date>05 May 2025</date>
+  </channel>
+  <channel>
+    <name>SABC News ZA</name>
+    <title>The Late Edition</title>
+    <desc>A 360 degree view of all the stories that made headlines through packages, features, and interviews.</desc>
+    <image>https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/img/347703_The Late Edition.jpg</image>
+    <start>01:00AM</start>
+    <finish>03:00AM</finish>
+    <date>05 May 2025</date>
+  </channel>
+  <channel>
+    <name>SABC News ZA</name>
+    <title>Face The Nation</title>
+    <desc>A hard-hitting show with the incomparable Clement Manyathela, where tough questions are tackled, and leaders will be held accountable.</desc>
+    <image>https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/img/386199_FACE OF THE NATION Banner.jpg</image>
+    <start>03:00AM</start>
+    <finish>04:00AM</finish>
+    <date>05 May 2025</date>
+  </channel>
+  <channel>
+    <name>SABC News ZA</name>
+    <title>Unwrap Africa</title>
+    <desc>A mix of topical news, cultural highlights and uplifting stories, with a special focus on groundbreaking technological achievements and success stories through live links to different countries and regions.</desc>
+    <image>https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/img/212287_1.jpg</image>
+    <start>04:00AM</start>
+    <finish>04:30AM</finish>
+    <date>05 May 2025</date>
+  </channel>
+  <channel>
+    <name>SABC News ZA</name>
+    <title>Trendz Travel</title>
+    <desc>We focus on the sights and scenery and celebrate experiences and locations in South Africa, Africa and abroad.</desc>
+    <image>https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/img/418396_Trendz Travel.jpg</image>
+    <start>04:30AM</start>
+    <finish>05:00AM</finish>
+    <date>05 May 2025</date>
+  </channel>
+  <channel>
+    <name>SABC News ZA</name>
+    <title>Morning Live</title>
+    <desc>Before you start your day, we've got you covered with Traffic updates to help you navigate your commute.</desc>
+    <image>https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/img/82884_leanne_082ap.jpg</image>
+    <start>05:00AM</start>
+    <finish>08:00AM</finish>
+    <date>05 May 2025</date>
+  </channel>
+  <channel>
+    <name>SABC News ZA</name>
+    <title>The Agenda</title>
+    <desc>Delve into thought-provoking discussions on The Agenda, where pressing societal issues are tackled through insightful interviews and in-depth conversations.</desc>
+    <image>https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/img/307536_TheAgenda.jpg</image>
+    <start>08:00AM</start>
+    <finish>11:00AM</finish>
+    <date>05 May 2025</date>
+  </channel>
+  <channel>
+    <name>SABC News ZA</name>
+    <title>On Point</title>
+    <desc>This is a blended segment with 2 hours of general news and markets segment for an hour.</desc>
+    <image>https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/img/216827_onpoint.jpg</image>
+    <start>11:00AM</start>
+    <finish>02:00PM</finish>
+    <date>05 May 2025</date>
+  </channel>
+  <channel>
+    <name>SABC News ZA</name>
+    <title>SA Today</title>
+    <desc>Invited guests give more depth on big provincial and regional stories that can be an issue of national importance. It also includes general news.</desc>
+    <image>https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/img/246906_SAToday.jpg</image>
+    <start>02:00PM</start>
+    <finish>05:00PM</finish>
+    <date>05 May 2025</date>
+  </channel>
+  <channel>
+    <name>SABC News ZA</name>
+    <title>Full View</title>
+    <desc>The show also features 30 minutes of market sense in-depth.</desc>
+    <image>https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/img/246905_FullView.jpg</image>
+    <start>05:00PM</start>
+    <finish>08:00PM</finish>
+    <date>05 May 2025</date>
+  </channel>
+  <channel>
+    <name>SABC News ZA</name>
+    <title>The Late Edition</title>
+    <desc>A 360 degree view of all the stories that made headlines through packages, features, and interviews.</desc>
+    <image>https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/img/347703_The Late Edition.jpg</image>
+    <start>08:00PM</start>
+    <finish>10:00PM</finish>
+    <date>05 May 2025</date>
+  </channel>
+  <channel>
+    <name>SABC News ZA</name>
+    <title>Full View</title>
+    <desc>The show also features 30 minutes of market sense in-depth.</desc>
+    <image>https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/img/246905_FullView.jpg</image>
+    <start>10:00PM</start>
+    <finish>11:00PM</finish>
+    <date>05 May 2025</date>
+  </channel>
+  <channel>
+    <name>SABC News ZA</name>
+    <title>Full View</title>
+    <desc>The show also features 30 minutes of market sense in-depth.</desc>
+    <image>https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/img/246905_FullView.jpg</image>
+    <start>11:00PM</start>
+    <finish>01:00AM</finish>
+    <date>05 May 2025</date>
+  </channel>
+  <channel>
+    <name>SABC News ZA</name>
+    <title>The Late Edition</title>
+    <desc>A 360 degree view of all the stories that made headlines through packages, features, and interviews.</desc>
+    <image>https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/img/347703_The Late Edition.jpg</image>
+    <start>01:00AM</start>
+    <finish>03:00AM</finish>
+    <date>06 May 2025</date>
+  </channel>
+  <channel>
+    <name>SABC News ZA</name>
+    <title>Morning Live Interviews</title>
+    <desc>The show carries the Diary for the day, Market Sense, General News, Crime and Courts issues, Political issues, Sports News, Live weather and traffic reports.</desc>
+    <image>https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/img/428203_Morning_Live.jpg</image>
+    <start>03:00AM</start>
+    <finish>03:30AM</finish>
+    <date>06 May 2025</date>
+  </channel>
+  <channel>
+    <name>SABC News ZA</name>
+    <title>SA Today Interviews</title>
+    <desc>Through an interview-driven format, invited guests provide expert insights and analysis on major stories.</desc>
+    <image>https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/img/428204_246906_SAToday.jpg</image>
+    <start>03:30AM</start>
+    <finish>04:00AM</finish>
+    <date>06 May 2025</date>
+  </channel>
+  <channel>
+    <name>SABC News ZA</name>
+    <title>It's Topical</title>
+    <desc>It's Topical gives you a sense of the nation's mood. Digital, pacy, interactive and engaging journalism brought to the TV screen.</desc>
+    <image>https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/img/275385_ItsTopical.jpg</image>
+    <start>04:00AM</start>
+    <finish>05:00AM</finish>
+    <date>06 May 2025</date>
+  </channel>
+  <channel>
+    <name>SABC News ZA</name>
+    <title>Morning Live</title>
+    <desc>Before you start your day, we've got you covered with Traffic updates to help you navigate your commute.</desc>
+    <image>https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/img/82884_leanne_082ap.jpg</image>
+    <start>05:00AM</start>
+    <finish>08:00AM</finish>
+    <date>06 May 2025</date>
+  </channel>
+  <channel>
+    <name>SABC News ZA</name>
+    <title>The Agenda</title>
+    <desc>Delve into thought-provoking discussions on The Agenda, where pressing societal issues are tackled through insightful interviews and in-depth conversations.</desc>
+    <image>https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/img/307536_TheAgenda.jpg</image>
+    <start>08:00AM</start>
+    <finish>11:00AM</finish>
+    <date>06 May 2025</date>
+  </channel>
+  <channel>
+    <name>SABC News ZA</name>
+    <title>On Point</title>
+    <desc>This is a blended segment with 2 hours of general news and markets segment for an hour.</desc>
+    <image>https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/img/216827_onpoint.jpg</image>
+    <start>11:00AM</start>
+    <finish>02:00PM</finish>
+    <date>06 May 2025</date>
+  </channel>
+  <channel>
+    <name>SABC News ZA</name>
+    <title>SA Today</title>
+    <desc>Invited guests give more depth on big provincial and regional stories that can be an issue of national importance. It also includes general news.</desc>
+    <image>https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/img/246906_SAToday.jpg</image>
+    <start>02:00PM</start>
+    <finish>05:00PM</finish>
+    <date>06 May 2025</date>
+  </channel>
+  <channel>
+    <name>SABC News ZA</name>
+    <title>Full View</title>
+    <desc>The show also features 30 minutes of market sense in-depth.</desc>
+    <image>https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/img/246905_FullView.jpg</image>
+    <start>05:00PM</start>
+    <finish>07:00PM</finish>
+    <date>06 May 2025</date>
+  </channel>
+  <channel>
+    <name>SABC News ZA</name>
+    <title>Face The Nation</title>
+    <desc>A hard-hitting show with the incomparable Clement Manyathela, where tough questions are tackled, and leaders will be held accountable.</desc>
+    <image>https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/img/386199_FACE OF THE NATION Banner.jpg</image>
     <start>07:00PM</start>
     <finish>08:00PM</finish>
-    <date>04 May 2025</date>
-  </channel>
-  <channel>
-    <name>SABC News ZA</name>
-    <title>Unwrap Africa</title>
-    <desc>A mix of topical news, cultural highlights and uplifting stories, with a special focus on groundbreaking technological achievements and success stories through live links to different countries and regions.</desc>
-    <image>https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/img/212287_1.jpg</image>
-    <start>08:00PM</start>
-    <finish>08:30PM</finish>
-    <date>04 May 2025</date>
-  </channel>
-  <channel>
-    <name>SABC News ZA</name>
-    <title>Trendz Travel</title>
-    <desc>We focus on the sights and scenery and celebrate experiences and locations in South Africa, Africa and abroad.</desc>
-    <image>https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/img/418396_Trendz Travel.jpg</image>
-    <start>08:30PM</start>
-    <finish>09:00PM</finish>
-    <date>04 May 2025</date>
+    <date>06 May 2025</date>
   </channel>
   <channel>
     <name>SABC News ZA</name>
     <title>The Late Edition</title>
     <desc>A 360 degree view of all the stories that made headlines through packages, features, and interviews.</desc>
     <image>https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/img/347703_The Late Edition.jpg</image>
-    <start>09:00PM</start>
+    <start>08:00PM</start>
+    <finish>10:00PM</finish>
+    <date>06 May 2025</date>
+  </channel>
+  <channel>
+    <name>SABC News ZA</name>
+    <title>Full View</title>
+    <desc>The show also features 30 minutes of market sense in-depth.</desc>
+    <image>https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/img/246905_FullView.jpg</image>
+    <start>10:00PM</start>
     <finish>11:00PM</finish>
-    <date>04 May 2025</date>
+    <date>06 May 2025</date>
   </channel>
   <channel>
     <name>SABC News ZA</name>
@@ -259,43 +520,43 @@
     <image>https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/img/246905_FullView.jpg</image>
     <start>11:00PM</start>
     <finish>12:00AM</finish>
-    <date>04 May 2025</date>
+    <date>06 May 2025</date>
   </channel>
   <channel>
     <name>SABC News ZA</name>
-    <title>It's Topical</title>
-    <desc>It's Topical gives you a sense of the nation's mood. Digital, pacy, interactive and engaging journalism brought to the TV screen.</desc>
-    <image>https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/img/275385_ItsTopical.jpg</image>
+    <title>Face The Nation</title>
+    <desc>A hard-hitting show with the incomparable Clement Manyathela, where tough questions are tackled, and leaders will be held accountable.</desc>
+    <image>https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/img/386199_FACE OF THE NATION Banner.jpg</image>
     <start>12:00AM</start>
     <finish>01:00AM</finish>
-    <date>05 May 2025</date>
-  </channel>
-  <channel>
-    <name>SABC News ZA</name>
-    <title>Unwrap Africa</title>
-    <desc>A mix of topical news, cultural highlights and uplifting stories, with a special focus on groundbreaking technological achievements and success stories through live links to different countries and regions.</desc>
-    <image>https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/img/212287_1.jpg</image>
-    <start>01:00AM</start>
-    <finish>01:30AM</finish>
-    <date>05 May 2025</date>
-  </channel>
-  <channel>
-    <name>SABC News ZA</name>
-    <title>Trendz Travel</title>
-    <desc>We focus on the sights and scenery and celebrate experiences and locations in South Africa, Africa and abroad.</desc>
-    <image>https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/img/418396_Trendz Travel.jpg</image>
-    <start>01:30AM</start>
-    <finish>02:00AM</finish>
-    <date>05 May 2025</date>
+    <date>07 May 2025</date>
   </channel>
   <channel>
     <name>SABC News ZA</name>
     <title>The Late Edition</title>
     <desc>A 360 degree view of all the stories that made headlines through packages, features, and interviews.</desc>
     <image>https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/img/347703_The Late Edition.jpg</image>
-    <start>02:00AM</start>
+    <start>01:00AM</start>
+    <finish>03:00AM</finish>
+    <date>07 May 2025</date>
+  </channel>
+  <channel>
+    <name>SABC News ZA</name>
+    <title>Morning Live Interviews</title>
+    <desc>The show carries the Diary for the day, Market Sense, General News, Crime and Courts issues, Political issues, Sports News, Live weather and traffic reports.</desc>
+    <image>https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/img/428203_Morning_Live.jpg</image>
+    <start>03:00AM</start>
+    <finish>03:30AM</finish>
+    <date>07 May 2025</date>
+  </channel>
+  <channel>
+    <name>SABC News ZA</name>
+    <title>SA Today Interviews</title>
+    <desc>Through an interview-driven format, invited guests provide expert insights and analysis on major stories.</desc>
+    <image>https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/img/428204_246906_SAToday.jpg</image>
+    <start>03:30AM</start>
     <finish>04:00AM</finish>
-    <date>05 May 2025</date>
+    <date>07 May 2025</date>
   </channel>
   <channel>
     <name>SABC News ZA</name>
@@ -304,312 +565,60 @@
     <image>https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/img/386199_FACE OF THE NATION Banner.jpg</image>
     <start>04:00AM</start>
     <finish>05:00AM</finish>
-    <date>05 May 2025</date>
-  </channel>
-  <channel>
-    <name>SABC News ZA</name>
-    <title>Unwrap Africa</title>
-    <desc>A mix of topical news, cultural highlights and uplifting stories, with a special focus on groundbreaking technological achievements and success stories through live links to different countries and regions.</desc>
-    <image>https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/img/212287_1.jpg</image>
-    <start>05:00AM</start>
-    <finish>05:30AM</finish>
-    <date>05 May 2025</date>
-  </channel>
-  <channel>
-    <name>SABC News ZA</name>
-    <title>Trendz Travel</title>
-    <desc>We focus on the sights and scenery and celebrate experiences and locations in South Africa, Africa and abroad.</desc>
-    <image>https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/img/418396_Trendz Travel.jpg</image>
-    <start>05:30AM</start>
-    <finish>06:00AM</finish>
-    <date>05 May 2025</date>
+    <date>07 May 2025</date>
   </channel>
   <channel>
     <name>SABC News ZA</name>
     <title>Morning Live</title>
     <desc>Before you start your day, we've got you covered with Traffic updates to help you navigate your commute.</desc>
     <image>https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/img/82884_leanne_082ap.jpg</image>
-    <start>06:00AM</start>
-    <finish>09:00AM</finish>
-    <date>05 May 2025</date>
-  </channel>
-  <channel>
-    <name>SABC News ZA</name>
-    <title>The Agenda</title>
-    <desc>Delve into thought-provoking discussions on The Agenda, where pressing societal issues are tackled through insightful interviews and in-depth conversations.</desc>
-    <image>https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/img/307536_TheAgenda.jpg</image>
-    <start>09:00AM</start>
-    <finish>12:00PM</finish>
-    <date>05 May 2025</date>
-  </channel>
-  <channel>
-    <name>SABC News ZA</name>
-    <title>On Point</title>
-    <desc>This is a blended segment with 2 hours of general news and markets segment for an hour.</desc>
-    <image>https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/img/216827_onpoint.jpg</image>
-    <start>12:00PM</start>
-    <finish>03:00PM</finish>
-    <date>05 May 2025</date>
-  </channel>
-  <channel>
-    <name>SABC News ZA</name>
-    <title>SA Today</title>
-    <desc>Invited guests give more depth on big provincial and regional stories that can be an issue of national importance. It also includes general news.</desc>
-    <image>https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/img/246906_SAToday.jpg</image>
-    <start>03:00PM</start>
-    <finish>06:00PM</finish>
-    <date>05 May 2025</date>
-  </channel>
-  <channel>
-    <name>SABC News ZA</name>
-    <title>Full View</title>
-    <desc>The show also features 30 minutes of market sense in-depth.</desc>
-    <image>https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/img/246905_FullView.jpg</image>
-    <start>06:00PM</start>
-    <finish>09:00PM</finish>
-    <date>05 May 2025</date>
-  </channel>
-  <channel>
-    <name>SABC News ZA</name>
-    <title>The Late Edition</title>
-    <desc>A 360 degree view of all the stories that made headlines through packages, features, and interviews.</desc>
-    <image>https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/img/347703_The Late Edition.jpg</image>
-    <start>09:00PM</start>
-    <finish>11:00PM</finish>
-    <date>05 May 2025</date>
-  </channel>
-  <channel>
-    <name>SABC News ZA</name>
-    <title>Full View</title>
-    <desc>The show also features 30 minutes of market sense in-depth.</desc>
-    <image>https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/img/246905_FullView.jpg</image>
-    <start>11:00PM</start>
-    <finish>12:00AM</finish>
-    <date>05 May 2025</date>
-  </channel>
-  <channel>
-    <name>SABC News ZA</name>
-    <title>Full View</title>
-    <desc>The show also features 30 minutes of market sense in-depth.</desc>
-    <image>https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/img/246905_FullView.jpg</image>
-    <start>12:00AM</start>
-    <finish>02:00AM</finish>
-    <date>06 May 2025</date>
-  </channel>
-  <channel>
-    <name>SABC News ZA</name>
-    <title>The Late Edition</title>
-    <desc>A 360 degree view of all the stories that made headlines through packages, features, and interviews.</desc>
-    <image>https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/img/347703_The Late Edition.jpg</image>
-    <start>02:00AM</start>
-    <finish>04:00AM</finish>
-    <date>06 May 2025</date>
-  </channel>
-  <channel>
-    <name>SABC News ZA</name>
-    <title>Morning Live Interviews</title>
-    <desc>The show carries the Diary for the day, Market Sense, General News, Crime and Courts issues, Political issues, Sports News, Live weather and traffic reports.</desc>
-    <image>https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/img/428203_Morning_Live.jpg</image>
-    <start>04:00AM</start>
-    <finish>04:30AM</finish>
-    <date>06 May 2025</date>
-  </channel>
-  <channel>
-    <name>SABC News ZA</name>
-    <title>SA Today Interviews</title>
-    <desc>Through an interview-driven format, invited guests provide expert insights and analysis on major stories.</desc>
-    <image>https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/img/428204_246906_SAToday.jpg</image>
-    <start>04:30AM</start>
-    <finish>05:00AM</finish>
-    <date>06 May 2025</date>
-  </channel>
-  <channel>
-    <name>SABC News ZA</name>
-    <title>It's Topical</title>
-    <desc>It's Topical gives you a sense of the nation's mood. Digital, pacy, interactive and engaging journalism brought to the TV screen.</desc>
-    <image>https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/img/275385_ItsTopical.jpg</image>
     <start>05:00AM</start>
-    <finish>06:00AM</finish>
-    <date>06 May 2025</date>
-  </channel>
-  <channel>
-    <name>SABC News ZA</name>
-    <title>Morning Live</title>
-    <desc>Before you start your day, we've got you covered with Traffic updates to help you navigate your commute.</desc>
-    <image>https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/img/82884_leanne_082ap.jpg</image>
-    <start>06:00AM</start>
-    <finish>09:00AM</finish>
-    <date>06 May 2025</date>
+    <finish>08:00AM</finish>
+    <date>07 May 2025</date>
   </channel>
   <channel>
     <name>SABC News ZA</name>
     <title>The Agenda</title>
     <desc>Delve into thought-provoking discussions on The Agenda, where pressing societal issues are tackled through insightful interviews and in-depth conversations.</desc>
     <image>https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/img/307536_TheAgenda.jpg</image>
-    <start>09:00AM</start>
-    <finish>12:00PM</finish>
-    <date>06 May 2025</date>
+    <start>08:00AM</start>
+    <finish>11:00AM</finish>
+    <date>07 May 2025</date>
   </channel>
   <channel>
     <name>SABC News ZA</name>
     <title>On Point</title>
     <desc>This is a blended segment with 2 hours of general news and markets segment for an hour.</desc>
     <image>https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/img/216827_onpoint.jpg</image>
-    <start>12:00PM</start>
-    <finish>03:00PM</finish>
-    <date>06 May 2025</date>
+    <start>11:00AM</start>
+    <finish>02:00PM</finish>
+    <date>07 May 2025</date>
   </channel>
   <channel>
     <name>SABC News ZA</name>
     <title>SA Today</title>
     <desc>Invited guests give more depth on big provincial and regional stories that can be an issue of national importance. It also includes general news.</desc>
     <image>https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/img/246906_SAToday.jpg</image>
-    <start>03:00PM</start>
-    <finish>06:00PM</finish>
-    <date>06 May 2025</date>
+    <start>02:00PM</start>
+    <finish>05:00PM</finish>
+    <date>07 May 2025</date>
   </channel>
   <channel>
     <name>SABC News ZA</name>
     <title>Full View</title>
     <desc>The show also features 30 minutes of market sense in-depth.</desc>
     <image>https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/img/246905_FullView.jpg</image>
-    <start>06:00PM</start>
+    <start>05:00PM</start>
     <finish>08:00PM</finish>
-    <date>06 May 2025</date>
+    <date>07 May 2025</date>
   </channel>
   <channel>
     <name>SABC News ZA</name>
-    <title>Face The Nation</title>
-    <desc>A hard-hitting show with the incomparable Clement Manyathela, where tough questions are tackled, and leaders will be held accountable.</desc>
-    <image>https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/img/386199_FACE OF THE NATION Banner.jpg</image>
+    <title>The Late Edition</title>
+    <desc>A 360 degree view of all the stories that made headlines through packages, features, and interviews.</desc>
+    <image>https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/img/347703_The Late Edition.jpg</image>
     <start>08:00PM</start>
-    <finish>09:00PM</finish>
-    <date>06 May 2025</date>
-  </channel>
-  <channel>
-    <name>SABC News ZA</name>
-    <title>The Late Edition</title>
-    <desc>A 360 degree view of all the stories that made headlines through packages, features, and interviews.</desc>
-    <image>https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/img/347703_The Late Edition.jpg</image>
-    <start>09:00PM</start>
-    <finish>11:00PM</finish>
-    <date>06 May 2025</date>
-  </channel>
-  <channel>
-    <name>SABC News ZA</name>
-    <title>Full View</title>
-    <desc>The show also features 30 minutes of market sense in-depth.</desc>
-    <image>https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/img/246905_FullView.jpg</image>
-    <start>11:00PM</start>
-    <finish>12:00AM</finish>
-    <date>06 May 2025</date>
-  </channel>
-  <channel>
-    <name>SABC News ZA</name>
-    <title>Full View</title>
-    <desc>The show also features 30 minutes of market sense in-depth.</desc>
-    <image>https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/img/246905_FullView.jpg</image>
-    <start>12:00AM</start>
-    <finish>01:00AM</finish>
-    <date>07 May 2025</date>
-  </channel>
-  <channel>
-    <name>SABC News ZA</name>
-    <title>Face The Nation</title>
-    <desc>A hard-hitting show with the incomparable Clement Manyathela, where tough questions are tackled, and leaders will be held accountable.</desc>
-    <image>https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/img/386199_FACE OF THE NATION Banner.jpg</image>
-    <start>01:00AM</start>
-    <finish>02:00AM</finish>
-    <date>07 May 2025</date>
-  </channel>
-  <channel>
-    <name>SABC News ZA</name>
-    <title>The Late Edition</title>
-    <desc>A 360 degree view of all the stories that made headlines through packages, features, and interviews.</desc>
-    <image>https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/img/347703_The Late Edition.jpg</image>
-    <start>02:00AM</start>
-    <finish>04:00AM</finish>
-    <date>07 May 2025</date>
-  </channel>
-  <channel>
-    <name>SABC News ZA</name>
-    <title>Morning Live Interviews</title>
-    <desc>The show carries the Diary for the day, Market Sense, General News, Crime and Courts issues, Political issues, Sports News, Live weather and traffic reports.</desc>
-    <image>https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/img/428203_Morning_Live.jpg</image>
-    <start>04:00AM</start>
-    <finish>04:30AM</finish>
-    <date>07 May 2025</date>
-  </channel>
-  <channel>
-    <name>SABC News ZA</name>
-    <title>SA Today Interviews</title>
-    <desc>Through an interview-driven format, invited guests provide expert insights and analysis on major stories.</desc>
-    <image>https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/img/428204_246906_SAToday.jpg</image>
-    <start>04:30AM</start>
-    <finish>05:00AM</finish>
-    <date>07 May 2025</date>
-  </channel>
-  <channel>
-    <name>SABC News ZA</name>
-    <title>Face The Nation</title>
-    <desc>A hard-hitting show with the incomparable Clement Manyathela, where tough questions are tackled, and leaders will be held accountable.</desc>
-    <image>https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/img/386199_FACE OF THE NATION Banner.jpg</image>
-    <start>05:00AM</start>
-    <finish>06:00AM</finish>
-    <date>07 May 2025</date>
-  </channel>
-  <channel>
-    <name>SABC News ZA</name>
-    <title>Morning Live</title>
-    <desc>Before you start your day, we've got you covered with Traffic updates to help you navigate your commute.</desc>
-    <image>https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/img/82884_leanne_082ap.jpg</image>
-    <start>06:00AM</start>
-    <finish>09:00AM</finish>
-    <date>07 May 2025</date>
-  </channel>
-  <channel>
-    <name>SABC News ZA</name>
-    <title>The Agenda</title>
-    <desc>Delve into thought-provoking discussions on The Agenda, where pressing societal issues are tackled through insightful interviews and in-depth conversations.</desc>
-    <image>https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/img/307536_TheAgenda.jpg</image>
-    <start>09:00AM</start>
-    <finish>12:00PM</finish>
-    <date>07 May 2025</date>
-  </channel>
-  <channel>
-    <name>SABC News ZA</name>
-    <title>On Point</title>
-    <desc>This is a blended segment with 2 hours of general news and markets segment for an hour.</desc>
-    <image>https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/img/216827_onpoint.jpg</image>
-    <start>12:00PM</start>
-    <finish>03:00PM</finish>
-    <date>07 May 2025</date>
-  </channel>
-  <channel>
-    <name>SABC News ZA</name>
-    <title>SA Today</title>
-    <desc>Invited guests give more depth on big provincial and regional stories that can be an issue of national importance. It also includes general news.</desc>
-    <image>https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/img/246906_SAToday.jpg</image>
-    <start>03:00PM</start>
-    <finish>06:00PM</finish>
-    <date>07 May 2025</date>
-  </channel>
-  <channel>
-    <name>SABC News ZA</name>
-    <title>Full View</title>
-    <desc>The show also features 30 minutes of market sense in-depth.</desc>
-    <image>https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/img/246905_FullView.jpg</image>
-    <start>06:00PM</start>
-    <finish>09:00PM</finish>
-    <date>07 May 2025</date>
-  </channel>
-  <channel>
-    <name>SABC News ZA</name>
-    <title>The Late Edition</title>
-    <desc>A 360 degree view of all the stories that made headlines through packages, features, and interviews.</desc>
-    <image>https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/img/347703_The Late Edition.jpg</image>
-    <start>09:00PM</start>
-    <finish>11:00PM</finish>
+    <finish>10:00PM</finish>
     <date>07 May 2025</date>
   </channel>
 </tv>

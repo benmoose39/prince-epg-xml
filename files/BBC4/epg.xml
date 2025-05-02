@@ -2,11 +2,20 @@
 <tv>
   <channel>
     <name>BBC4 UK</name>
+    <title>TOTP</title>
+    <desc>Zo? Ball presents the pop chart programme, first broadcast on 7 November 1997 and featuring Backstreet Boys, Natalie Imbruglia, Embrace, Peter Andre, Toni Braxton, Michael Bolton, Pulp and Aqua.</desc>
+    <image>https://images.metadata.sky.com/pd-image/2e766968-f19f-4f32-9c9d-c551c86ee6ff/16-9</image>
+    <start>07:30PM</start>
+    <finish>08:00PM</finish>
+    <date>02 May 2025</date>
+  </channel>
+  <channel>
+    <name>BBC4 UK</name>
     <title>Snooker</title>
     <desc>Semi-final action continues at Sheffield's Crucible Theatre.</desc>
     <image>https://images.metadata.sky.com/pd-image/0d45cb30-7045-41b5-a33c-00ed697bc012/16-9</image>
-    <start>09:00PM</start>
-    <finish>11:00PM</finish>
+    <start>08:00PM</start>
+    <finish>10:00PM</finish>
     <date>02 May 2025</date>
   </channel>
   <channel>
@@ -14,8 +23,8 @@
     <title>TOTP</title>
     <desc>With The Dooleys, Manhattan Transfer, John Paul Young, Ruby Winters and Tonight.</desc>
     <image>https://images.metadata.sky.com/pd-image/dc625ac9-bcbe-4f0a-9701-b4425598d089/16-9</image>
-    <start>11:00PM</start>
-    <finish>11:45PM</finish>
+    <start>10:00PM</start>
+    <finish>10:45PM</finish>
     <date>02 May 2025</date>
   </channel>
   <channel>
@@ -23,8 +32,8 @@
     <title>The Who at the Electric Proms</title>
     <desc>Pete Townshend and Roger Daltrey in a session recorded at the Roundhouse in north London. Contains some strong language.</desc>
     <image>https://images.metadata.sky.com/pd-image/1bb30572-80b4-3da8-8aba-7719d958d42b/16-9</image>
-    <start>11:45PM</start>
-    <finish>12:35AM</finish>
+    <start>10:45PM</start>
+    <finish>11:35PM</finish>
     <date>02 May 2025</date>
   </channel>
   <channel>
@@ -32,17 +41,17 @@
     <title>Jethro Tull - The Lively Arts</title>
     <desc>A film, first broadcast in 1980, that portrays the many-sided talents of hugely successful British rock group Jethro Tull - at home, in the recording studio and on tour in America.</desc>
     <image>https://images.metadata.sky.com/pd-image/ede8b0af-d45f-4018-8b51-c145d93b8fe3/16-9</image>
-    <start>12:35AM</start>
-    <finish>01:35AM</finish>
-    <date>03 May 2025</date>
+    <start>11:35PM</start>
+    <finish>12:35AM</finish>
+    <date>02 May 2025</date>
   </channel>
   <channel>
     <name>BBC4 UK</name>
     <title>TOTP</title>
     <desc>Mary Anne Hobbs presents the pop chart programme, first broadcast on 31 October 1997 and featuring 911, N-Trance feat. Rod Stewart, Dannii Minogue, Double 99 and Aqua.</desc>
     <image>https://images.metadata.sky.com/pd-image/266b8c53-a4c2-4d93-b31d-6005a88b567c/16-9</image>
-    <start>01:35AM</start>
-    <finish>02:00AM</finish>
+    <start>12:35AM</start>
+    <finish>01:00AM</finish>
     <date>03 May 2025</date>
   </channel>
   <channel>
@@ -50,8 +59,8 @@
     <title>TOTP</title>
     <desc>Zo? Ball presents the pop chart programme, first broadcast on 7 November 1997 and featuring Backstreet Boys, Natalie Imbruglia, Embrace, Peter Andre, Toni Braxton, Michael Bolton, Pulp and Aqua.</desc>
     <image>https://images.metadata.sky.com/pd-image/2e766968-f19f-4f32-9c9d-c551c86ee6ff/16-9</image>
-    <start>02:00AM</start>
-    <finish>02:30AM</finish>
+    <start>01:00AM</start>
+    <finish>01:30AM</finish>
     <date>03 May 2025</date>
   </channel>
   <channel>
@@ -59,8 +68,8 @@
     <title>The Who at the Electric Proms</title>
     <desc>Pete Townshend and Roger Daltrey in a session recorded at the Roundhouse in north London. Contains some strong language.</desc>
     <image>https://images.metadata.sky.com/pd-image/1bb30572-80b4-3da8-8aba-7719d958d42b/16-9</image>
-    <start>02:30AM</start>
-    <finish>03:20AM</finish>
+    <start>01:30AM</start>
+    <finish>02:20AM</finish>
     <date>03 May 2025</date>
   </channel>
   <channel>
@@ -68,8 +77,44 @@
     <title>Jethro Tull - The Lively Arts</title>
     <desc>A film, first broadcast in 1980, that portrays the many-sided talents of hugely successful British rock group Jethro Tull - at home, in the recording studio and on tour in America.</desc>
     <image>https://images.metadata.sky.com/pd-image/ede8b0af-d45f-4018-8b51-c145d93b8fe3/16-9</image>
+    <start>02:20AM</start>
+    <finish>03:20AM</finish>
+    <date>03 May 2025</date>
+  </channel>
+  <channel>
+    <name>BBC4 UK</name>
+    <title>This is BBC Four</title>
+    <desc>Programmes start at 7.00pm.</desc>
+    <image>https://images.metadata.sky.com/pd-image//16-9</image>
     <start>03:20AM</start>
-    <finish>04:20AM</finish>
+    <finish>05:30AM</finish>
+    <date>03 May 2025</date>
+  </channel>
+  <channel>
+    <name>BBC4 UK</name>
+    <title>..programmes start at 7.00pm</title>
+    <desc></desc>
+    <image>https://images.metadata.sky.com/pd-image//16-9</image>
+    <start>05:30AM</start>
+    <finish>11:30AM</finish>
+    <date>03 May 2025</date>
+  </channel>
+  <channel>
+    <name>BBC4 UK</name>
+    <title>..programmes start at 7.00pm</title>
+    <desc></desc>
+    <image>https://images.metadata.sky.com/pd-image//16-9</image>
+    <start>11:30AM</start>
+    <finish>05:30PM</finish>
+    <date>03 May 2025</date>
+  </channel>
+  <channel>
+    <name>BBC4 UK</name>
+    <title>..programmes start at 7.00pm</title>
+    <desc></desc>
+    <image>https://images.metadata.sky.com/pd-image//16-9</image>
+    <start>05:30PM</start>
+    <finish>06:58PM</finish>
     <date>03 May 2025</date>
   </channel>
   <channel>
@@ -77,44 +122,8 @@
     <title>This is BBC Four</title>
     <desc>Programmes start at 7.00pm.</desc>
     <image>https://images.metadata.sky.com/pd-image//16-9</image>
-    <start>04:20AM</start>
-    <finish>06:30AM</finish>
-    <date>03 May 2025</date>
-  </channel>
-  <channel>
-    <name>BBC4 UK</name>
-    <title>..programmes start at 7.00pm</title>
-    <desc></desc>
-    <image>https://images.metadata.sky.com/pd-image//16-9</image>
-    <start>06:30AM</start>
-    <finish>12:30PM</finish>
-    <date>03 May 2025</date>
-  </channel>
-  <channel>
-    <name>BBC4 UK</name>
-    <title>..programmes start at 7.00pm</title>
-    <desc></desc>
-    <image>https://images.metadata.sky.com/pd-image//16-9</image>
-    <start>12:30PM</start>
-    <finish>06:30PM</finish>
-    <date>03 May 2025</date>
-  </channel>
-  <channel>
-    <name>BBC4 UK</name>
-    <title>..programmes start at 7.00pm</title>
-    <desc></desc>
-    <image>https://images.metadata.sky.com/pd-image//16-9</image>
-    <start>06:30PM</start>
-    <finish>07:58PM</finish>
-    <date>03 May 2025</date>
-  </channel>
-  <channel>
-    <name>BBC4 UK</name>
-    <title>This is BBC Four</title>
-    <desc>Programmes start at 7.00pm.</desc>
-    <image>https://images.metadata.sky.com/pd-image//16-9</image>
-    <start>07:58PM</start>
-    <finish>08:00PM</finish>
+    <start>06:58PM</start>
+    <finish>07:00PM</finish>
     <date>03 May 2025</date>
   </channel>
   <channel>
@@ -122,8 +131,8 @@
     <title>Eider Duck Island</title>
     <desc>Each year, the eider ducklings of Inner Farne undertake a great trek across the island. Narrated by Simon King.</desc>
     <image>https://images.metadata.sky.com/pd-image/9b5cc839-d830-3bf9-b266-5053741b5af5/16-9</image>
-    <start>08:00PM</start>
-    <finish>08:10PM</finish>
+    <start>07:00PM</start>
+    <finish>07:10PM</finish>
     <date>03 May 2025</date>
   </channel>
   <channel>
@@ -131,8 +140,8 @@
     <title>All Creatures Great and Small</title>
     <desc>The Herriots lead a busy family life, and Tristan is aware that he may have entered the terminal stages of his bachelor status.</desc>
     <image>https://images.metadata.sky.com/pd-image/2ce67926-fb19-437d-a99b-5ef70ad31b05/16-9</image>
-    <start>08:10PM</start>
-    <finish>09:05PM</finish>
+    <start>07:10PM</start>
+    <finish>08:05PM</finish>
     <date>03 May 2025</date>
   </channel>
   <channel>
@@ -140,8 +149,8 @@
     <title>All Creatures Great and Small</title>
     <desc>James and Tristan examine a consignment of sheep for export to Russia, and for Tristan, the Russian woman vet is perfect confirmation of his prejudice.</desc>
     <image>https://images.metadata.sky.com/pd-image/8618ecbe-5f36-486b-a9e5-c27c57bca2a9/16-9</image>
-    <start>09:05PM</start>
-    <finish>10:00PM</finish>
+    <start>08:05PM</start>
+    <finish>09:00PM</finish>
     <date>03 May 2025</date>
   </channel>
   <channel>
@@ -149,8 +158,8 @@
     <title>Families Like Ours</title>
     <desc>Rapidly rising water levels mean Denmark needs to be evacuated soon. For 19-year-old student Laura and her family, the news will change their lives forever. Contains strong language.</desc>
     <image>https://images.metadata.sky.com/pd-image/1699eb5d-4f88-4754-aede-e225c2c30aa7/16-9</image>
-    <start>10:00PM</start>
-    <finish>10:50PM</finish>
+    <start>09:00PM</start>
+    <finish>09:50PM</finish>
     <date>03 May 2025</date>
   </channel>
   <channel>
@@ -158,8 +167,8 @@
     <title>Families Like Ours</title>
     <desc>Everything is in chaos. Everyone is relying on Jacob to find the money needed to relocate his extended family to Paris - except Fanny, who refuses to be a burden to anyone.</desc>
     <image>https://images.metadata.sky.com/pd-image/e651bddf-9ec0-40b7-b8ae-2edf9c8bcc51/16-9</image>
-    <start>10:50PM</start>
-    <finish>11:40PM</finish>
+    <start>09:50PM</start>
+    <finish>10:40PM</finish>
     <date>03 May 2025</date>
   </channel>
   <channel>
@@ -167,8 +176,8 @@
     <title>Wogan with Felicity Kendal</title>
     <desc>Felicity Kendal steps in as guest host, and her guests include former Good Life colleague Paul Eddington, who talks about Yes, Prime Minister and his dream of being an artist.</desc>
     <image>https://images.metadata.sky.com/pd-image/5e59580c-f523-4cd6-a181-04d3cb6c021d/16-9</image>
-    <start>11:40PM</start>
-    <finish>12:25AM</finish>
+    <start>10:40PM</start>
+    <finish>11:25PM</finish>
     <date>03 May 2025</date>
   </channel>
   <channel>
@@ -176,17 +185,17 @@
     <title>Parkinson</title>
     <desc>Michael Parkinson in conversation with Paul Daniels, William Rushton and Engelbert Humperdinck.</desc>
     <image>https://images.metadata.sky.com/pd-image/ef07f021-cfc0-3e73-bf6e-a94caae2e93c/16-9</image>
-    <start>12:25AM</start>
-    <finish>01:25AM</finish>
-    <date>04 May 2025</date>
+    <start>11:25PM</start>
+    <finish>12:25AM</finish>
+    <date>03 May 2025</date>
   </channel>
   <channel>
     <name>BBC4 UK</name>
     <title>All Creatures Great and Small</title>
     <desc>The Herriots lead a busy family life, and Tristan is aware that he may have entered the terminal stages of his bachelor status.</desc>
     <image>https://images.metadata.sky.com/pd-image/2ce67926-fb19-437d-a99b-5ef70ad31b05/16-9</image>
-    <start>01:25AM</start>
-    <finish>02:20AM</finish>
+    <start>12:25AM</start>
+    <finish>01:20AM</finish>
     <date>04 May 2025</date>
   </channel>
   <channel>
@@ -194,8 +203,8 @@
     <title>All Creatures Great and Small</title>
     <desc>James and Tristan examine a consignment of sheep for export to Russia, and for Tristan, the Russian woman vet is perfect confirmation of his prejudice.</desc>
     <image>https://images.metadata.sky.com/pd-image/8618ecbe-5f36-486b-a9e5-c27c57bca2a9/16-9</image>
-    <start>02:20AM</start>
-    <finish>03:15AM</finish>
+    <start>01:20AM</start>
+    <finish>02:15AM</finish>
     <date>04 May 2025</date>
   </channel>
   <channel>
@@ -203,8 +212,8 @@
     <title>Wogan with Felicity Kendal</title>
     <desc>Felicity Kendal steps in as guest host, and her guests include former Good Life colleague Paul Eddington, who talks about Yes, Prime Minister and his dream of being an artist.</desc>
     <image>https://images.metadata.sky.com/pd-image/5e59580c-f523-4cd6-a181-04d3cb6c021d/16-9</image>
-    <start>03:15AM</start>
-    <finish>04:00AM</finish>
+    <start>02:15AM</start>
+    <finish>03:00AM</finish>
     <date>04 May 2025</date>
   </channel>
   <channel>
@@ -212,8 +221,8 @@
     <title>This is BBC Four</title>
     <desc>Programmes start at 7.00pm.</desc>
     <image>https://images.metadata.sky.com/pd-image//16-9</image>
-    <start>04:00AM</start>
-    <finish>06:30AM</finish>
+    <start>03:00AM</start>
+    <finish>05:30AM</finish>
     <date>04 May 2025</date>
   </channel>
   <channel>
@@ -221,8 +230,8 @@
     <title>..programmes start at 7.00pm</title>
     <desc></desc>
     <image>https://images.metadata.sky.com/pd-image//16-9</image>
-    <start>06:30AM</start>
-    <finish>12:30PM</finish>
+    <start>05:30AM</start>
+    <finish>11:30AM</finish>
     <date>04 May 2025</date>
   </channel>
   <channel>
@@ -230,8 +239,8 @@
     <title>..programmes start at 7.00pm</title>
     <desc></desc>
     <image>https://images.metadata.sky.com/pd-image//16-9</image>
-    <start>12:30PM</start>
-    <finish>06:30PM</finish>
+    <start>11:30AM</start>
+    <finish>05:30PM</finish>
     <date>04 May 2025</date>
   </channel>
   <channel>
@@ -239,8 +248,8 @@
     <title>..programmes start at 7.00pm</title>
     <desc></desc>
     <image>https://images.metadata.sky.com/pd-image//16-9</image>
-    <start>06:30PM</start>
-    <finish>07:58PM</finish>
+    <start>05:30PM</start>
+    <finish>06:58PM</finish>
     <date>04 May 2025</date>
   </channel>
   <channel>
@@ -248,8 +257,8 @@
     <title>This is BBC Four</title>
     <desc>Programmes start at 7.00pm.</desc>
     <image>https://images.metadata.sky.com/pd-image//16-9</image>
-    <start>07:58PM</start>
-    <finish>08:00PM</finish>
+    <start>06:58PM</start>
+    <finish>07:00PM</finish>
     <date>04 May 2025</date>
   </channel>
   <channel>
@@ -257,8 +266,8 @@
     <title>Gary Wilmot Remembers... Showstoppers</title>
     <desc>Gary Wilmot looks back fondly on his time presenting Showstoppers, a 1995 series jam-packed with well-known hits from musical theatre.</desc>
     <image>https://images.metadata.sky.com/pd-image/82968b2d-b908-4328-9ecb-039c9a487c88/16-9</image>
-    <start>08:00PM</start>
-    <finish>08:15PM</finish>
+    <start>07:00PM</start>
+    <finish>07:15PM</finish>
     <date>04 May 2025</date>
   </channel>
   <channel>
@@ -266,8 +275,8 @@
     <title>Showstoppers</title>
     <desc>Gary Wilmot presents songs from stage and screen musicals. Featuring Tom Conti, Barbara Dickson and Michael Feinstein.</desc>
     <image>https://images.metadata.sky.com/pd-image/2c3482f3-58cf-4eb5-ad20-928fbdcda4b3/16-9</image>
-    <start>08:15PM</start>
-    <finish>09:00PM</finish>
+    <start>07:15PM</start>
+    <finish>08:00PM</finish>
     <date>04 May 2025</date>
   </channel>
   <channel>
@@ -275,8 +284,8 @@
     <title>Showstoppers</title>
     <desc>Gary Wilmot presents songs from stage and screen musicals. Featuring performances by Sarah Brightman, Brian Conley and Dennis Waterman.</desc>
     <image>https://images.metadata.sky.com/pd-image/ab89e7c4-7cf3-447c-88d4-740fda47ddf9/16-9</image>
-    <start>09:00PM</start>
-    <finish>09:50PM</finish>
+    <start>08:00PM</start>
+    <finish>08:50PM</finish>
     <date>04 May 2025</date>
   </channel>
   <channel>
@@ -284,8 +293,8 @@
     <title>Anything Goes</title>
     <desc>Filmed live at the Barbican in London, this major production of the classic musical comedy features an all-star cast led by renowned Broadway actress Sutton Foster.</desc>
     <image>https://images.metadata.sky.com/pd-image/820f6ac6-10b8-4b09-8bdd-0e4bcdc78a48/16-9</image>
-    <start>09:50PM</start>
-    <finish>12:10AM</finish>
+    <start>08:50PM</start>
+    <finish>11:10PM</finish>
     <date>04 May 2025</date>
   </channel>
   <channel>
@@ -293,17 +302,17 @@
     <title>Big Night of Musicals 2024 by the National Lottery</title>
     <desc>Jason Manford hosts a glittering musical celebration, with spectacular performances and special guests, including Beverley Knight and Alfie Boe.</desc>
     <image>https://images.metadata.sky.com/pd-image/dd122df1-41d8-3683-b51a-59ec1dba6593/16-9</image>
-    <start>12:10AM</start>
-    <finish>01:40AM</finish>
-    <date>05 May 2025</date>
+    <start>11:10PM</start>
+    <finish>12:40AM</finish>
+    <date>04 May 2025</date>
   </channel>
   <channel>
     <name>BBC4 UK</name>
     <title>Gershwin 's Summertime</title>
     <desc>Song That Conquered the World. Investigation into the extraordinary life of Gershwin's classic composition, Summertime.</desc>
     <image>https://images.metadata.sky.com/pd-image/e803ca24-b5ce-42a0-9faa-cb16af568bda/16-9</image>
-    <start>01:40AM</start>
-    <finish>02:40AM</finish>
+    <start>12:40AM</start>
+    <finish>01:40AM</finish>
     <date>05 May 2025</date>
   </channel>
   <channel>
@@ -311,8 +320,8 @@
     <title>Showstoppers</title>
     <desc>Gary Wilmot presents songs from stage and screen musicals. Featuring Tom Conti, Barbara Dickson and Michael Feinstein.</desc>
     <image>https://images.metadata.sky.com/pd-image/2c3482f3-58cf-4eb5-ad20-928fbdcda4b3/16-9</image>
-    <start>02:40AM</start>
-    <finish>03:30AM</finish>
+    <start>01:40AM</start>
+    <finish>02:30AM</finish>
     <date>05 May 2025</date>
   </channel>
   <channel>
@@ -320,8 +329,8 @@
     <title>Showstoppers</title>
     <desc>Gary Wilmot presents songs from stage and screen musicals. Featuring performances by Sarah Brightman, Brian Conley and Dennis Waterman.</desc>
     <image>https://images.metadata.sky.com/pd-image/ab89e7c4-7cf3-447c-88d4-740fda47ddf9/16-9</image>
-    <start>03:30AM</start>
-    <finish>04:20AM</finish>
+    <start>02:30AM</start>
+    <finish>03:20AM</finish>
     <date>05 May 2025</date>
   </channel>
   <channel>
@@ -329,8 +338,8 @@
     <title>This is BBC Four</title>
     <desc>Programmes start at 7.00pm.</desc>
     <image>https://images.metadata.sky.com/pd-image//16-9</image>
-    <start>04:20AM</start>
-    <finish>06:30AM</finish>
+    <start>03:20AM</start>
+    <finish>05:30AM</finish>
     <date>05 May 2025</date>
   </channel>
   <channel>
@@ -338,8 +347,8 @@
     <title>..programmes start at 7.00pm</title>
     <desc></desc>
     <image>https://images.metadata.sky.com/pd-image//16-9</image>
-    <start>06:30AM</start>
-    <finish>12:30PM</finish>
+    <start>05:30AM</start>
+    <finish>11:30AM</finish>
     <date>05 May 2025</date>
   </channel>
   <channel>
@@ -347,8 +356,8 @@
     <title>..programmes start at 7.00pm</title>
     <desc></desc>
     <image>https://images.metadata.sky.com/pd-image//16-9</image>
-    <start>12:30PM</start>
-    <finish>06:30PM</finish>
+    <start>11:30AM</start>
+    <finish>05:30PM</finish>
     <date>05 May 2025</date>
   </channel>
   <channel>
@@ -356,8 +365,8 @@
     <title>..programmes start at 7.00pm</title>
     <desc></desc>
     <image>https://images.metadata.sky.com/pd-image//16-9</image>
-    <start>06:30PM</start>
-    <finish>07:58PM</finish>
+    <start>05:30PM</start>
+    <finish>06:58PM</finish>
     <date>05 May 2025</date>
   </channel>
   <channel>
@@ -365,8 +374,8 @@
     <title>This is BBC Four</title>
     <desc>Programmes start at 7.00pm.</desc>
     <image>https://images.metadata.sky.com/pd-image//16-9</image>
-    <start>07:58PM</start>
-    <finish>08:00PM</finish>
+    <start>06:58PM</start>
+    <finish>07:00PM</finish>
     <date>05 May 2025</date>
   </channel>
   <channel>
@@ -374,8 +383,8 @@
     <title>Wainwright</title>
     <desc>Documentary recalling the life of Alfred Wainwright, the eccentric Lancastrian who created a series of iconic fell-walking books in the 1950s, and his love for the Lake District.</desc>
     <image>https://images.metadata.sky.com/pd-image/a54851b9-d0db-48af-9827-6d4bce1ff468/16-9</image>
-    <start>08:00PM</start>
-    <finish>09:00PM</finish>
+    <start>07:00PM</start>
+    <finish>08:00PM</finish>
     <date>05 May 2025</date>
   </channel>
   <channel>
@@ -383,8 +392,8 @@
     <title>David Attenborough</title>
     <desc>Michael Palin presents a profile of the television career of David Attenborough, from controller of BBC Two to his wildlife programmes such as Life on Earth and The Blue Planet.</desc>
     <image>https://images.metadata.sky.com/pd-image/55847a8e-1562-4fba-a256-d277ddcd6f73/16-9</image>
-    <start>09:00PM</start>
-    <finish>10:00PM</finish>
+    <start>08:00PM</start>
+    <finish>09:00PM</finish>
     <date>05 May 2025</date>
   </channel>
   <channel>
@@ -392,8 +401,8 @@
     <title>Attenborough and the Giant Dinosaur</title>
     <desc>Sir David Attenborough tells the story of the discovery in Argentina of the largest animal to ever walk the earth, a new species of the plant-eating titanosaur.</desc>
     <image>https://images.metadata.sky.com/pd-image/68a5cab2-5adb-4caf-9b9e-06dc23cc68e9/16-9</image>
-    <start>10:00PM</start>
-    <finish>11:00PM</finish>
+    <start>09:00PM</start>
+    <finish>10:00PM</finish>
     <date>05 May 2025</date>
   </channel>
   <channel>
@@ -401,8 +410,8 @@
     <title>Jonathan Dimbleby</title>
     <desc>Broadcaster Jonathan Dimbleby reflects on his father Richard's reporting on the liberation of the Belsen concentration camp.</desc>
     <image>https://images.metadata.sky.com/pd-image/1ec17859-2d8a-4ae3-9012-c74ae8d4c00d/16-9</image>
-    <start>11:00PM</start>
-    <finish>11:15PM</finish>
+    <start>10:00PM</start>
+    <finish>10:15PM</finish>
     <date>05 May 2025</date>
   </channel>
   <channel>
@@ -410,8 +419,8 @@
     <title>Richard Dimbleby at Belsen</title>
     <desc>In this film from 1965, broadcaster Richard Dimbleby returns to Belsen, 20 years after his first radio account of the liberation of the concentration camp.</desc>
     <image>https://images.metadata.sky.com/pd-image/54c0cc9c-755b-43a0-b663-1ad69aa59f96/16-9</image>
-    <start>11:15PM</start>
-    <finish>11:30PM</finish>
+    <start>10:15PM</start>
+    <finish>10:30PM</finish>
     <date>05 May 2025</date>
   </channel>
   <channel>
@@ -419,8 +428,8 @@
     <title>After the Battle</title>
     <desc>In the series following former war reporters as they return to past battlefields, Richard Dimbleby goes back to Germany.</desc>
     <image>https://images.metadata.sky.com/pd-image/276a069e-1652-4f89-849b-f2280f592668/16-9</image>
-    <start>11:30PM</start>
-    <finish>12:00AM</finish>
+    <start>10:30PM</start>
+    <finish>11:00PM</finish>
     <date>05 May 2025</date>
   </channel>
   <channel>
@@ -428,26 +437,26 @@
     <title>Belsen</title>
     <desc>A documentary directed by Sam Mendes, reliving the liberation of Bergen-Belsen. Contains scenes which some viewers may find disturbing.</desc>
     <image>https://images.metadata.sky.com/pd-image/89166168-c5d5-4068-af2d-40a6afbf23c9/16-9</image>
-    <start>12:00AM</start>
-    <finish>12:40AM</finish>
-    <date>06 May 2025</date>
+    <start>11:00PM</start>
+    <finish>11:40PM</finish>
+    <date>05 May 2025</date>
   </channel>
   <channel>
     <name>BBC4 UK</name>
     <title>Quentin Blake</title>
     <desc>The beloved illustrator and famous fans on Roald Dahl and other artistic adventures.</desc>
     <image>https://images.metadata.sky.com/pd-image/0d8e49b7-5c01-4513-abef-df99a45cb1b0/16-9</image>
-    <start>12:40AM</start>
-    <finish>01:40AM</finish>
-    <date>06 May 2025</date>
+    <start>11:40PM</start>
+    <finish>12:40AM</finish>
+    <date>05 May 2025</date>
   </channel>
   <channel>
     <name>BBC4 UK</name>
     <title>Wainwright</title>
     <desc>Documentary recalling the life of Alfred Wainwright, the eccentric Lancastrian who created a series of iconic fell-walking books in the 1950s, and his love for the Lake District.</desc>
     <image>https://images.metadata.sky.com/pd-image/a54851b9-d0db-48af-9827-6d4bce1ff468/16-9</image>
-    <start>01:40AM</start>
-    <finish>02:40AM</finish>
+    <start>12:40AM</start>
+    <finish>01:40AM</finish>
     <date>06 May 2025</date>
   </channel>
   <channel>
@@ -455,8 +464,8 @@
     <title>David Attenborough</title>
     <desc>Michael Palin presents a profile of the television career of David Attenborough, from controller of BBC Two to his wildlife programmes such as Life on Earth and The Blue Planet.</desc>
     <image>https://images.metadata.sky.com/pd-image/55847a8e-1562-4fba-a256-d277ddcd6f73/16-9</image>
-    <start>02:40AM</start>
-    <finish>03:40AM</finish>
+    <start>01:40AM</start>
+    <finish>02:40AM</finish>
     <date>06 May 2025</date>
   </channel>
   <channel>
@@ -464,8 +473,44 @@
     <title>Attenborough and the Giant Dinosaur</title>
     <desc>Sir David Attenborough tells the story of the discovery in Argentina of the largest animal to ever walk the earth, a new species of the plant-eating titanosaur.</desc>
     <image>https://images.metadata.sky.com/pd-image/68a5cab2-5adb-4caf-9b9e-06dc23cc68e9/16-9</image>
+    <start>02:40AM</start>
+    <finish>03:40AM</finish>
+    <date>06 May 2025</date>
+  </channel>
+  <channel>
+    <name>BBC4 UK</name>
+    <title>This is BBC Four</title>
+    <desc>Programmes start at 7.00pm.</desc>
+    <image>https://images.metadata.sky.com/pd-image//16-9</image>
     <start>03:40AM</start>
-    <finish>04:40AM</finish>
+    <finish>05:30AM</finish>
+    <date>06 May 2025</date>
+  </channel>
+  <channel>
+    <name>BBC4 UK</name>
+    <title>..programmes start at 7.00pm</title>
+    <desc></desc>
+    <image>https://images.metadata.sky.com/pd-image//16-9</image>
+    <start>05:30AM</start>
+    <finish>11:30AM</finish>
+    <date>06 May 2025</date>
+  </channel>
+  <channel>
+    <name>BBC4 UK</name>
+    <title>..programmes start at 7.00pm</title>
+    <desc></desc>
+    <image>https://images.metadata.sky.com/pd-image//16-9</image>
+    <start>11:30AM</start>
+    <finish>05:30PM</finish>
+    <date>06 May 2025</date>
+  </channel>
+  <channel>
+    <name>BBC4 UK</name>
+    <title>..programmes start at 7.00pm</title>
+    <desc></desc>
+    <image>https://images.metadata.sky.com/pd-image//16-9</image>
+    <start>05:30PM</start>
+    <finish>06:58PM</finish>
     <date>06 May 2025</date>
   </channel>
   <channel>
@@ -473,44 +518,8 @@
     <title>This is BBC Four</title>
     <desc>Programmes start at 7.00pm.</desc>
     <image>https://images.metadata.sky.com/pd-image//16-9</image>
-    <start>04:40AM</start>
-    <finish>06:30AM</finish>
-    <date>06 May 2025</date>
-  </channel>
-  <channel>
-    <name>BBC4 UK</name>
-    <title>..programmes start at 7.00pm</title>
-    <desc></desc>
-    <image>https://images.metadata.sky.com/pd-image//16-9</image>
-    <start>06:30AM</start>
-    <finish>12:30PM</finish>
-    <date>06 May 2025</date>
-  </channel>
-  <channel>
-    <name>BBC4 UK</name>
-    <title>..programmes start at 7.00pm</title>
-    <desc></desc>
-    <image>https://images.metadata.sky.com/pd-image//16-9</image>
-    <start>12:30PM</start>
-    <finish>06:30PM</finish>
-    <date>06 May 2025</date>
-  </channel>
-  <channel>
-    <name>BBC4 UK</name>
-    <title>..programmes start at 7.00pm</title>
-    <desc></desc>
-    <image>https://images.metadata.sky.com/pd-image//16-9</image>
-    <start>06:30PM</start>
-    <finish>07:58PM</finish>
-    <date>06 May 2025</date>
-  </channel>
-  <channel>
-    <name>BBC4 UK</name>
-    <title>This is BBC Four</title>
-    <desc>Programmes start at 7.00pm.</desc>
-    <image>https://images.metadata.sky.com/pd-image//16-9</image>
-    <start>07:58PM</start>
-    <finish>08:00PM</finish>
+    <start>06:58PM</start>
+    <finish>07:00PM</finish>
     <date>06 May 2025</date>
   </channel>
   <channel>
@@ -518,8 +527,8 @@
     <title>Pubs, Ponds and Power</title>
     <desc>Archaeologist Ben Robinson explores the history of the village of Cromford in Derbyshire.</desc>
     <image>https://images.metadata.sky.com/pd-image/d29fd42f-9cf2-4a32-9447-85c41d8e3ced/16-9</image>
-    <start>08:00PM</start>
-    <finish>08:30PM</finish>
+    <start>07:00PM</start>
+    <finish>07:30PM</finish>
     <date>06 May 2025</date>
   </channel>
   <channel>
@@ -527,8 +536,8 @@
     <title>Wainwright Walks</title>
     <desc>Julia Bradbury explores the work of Britain's well-known fell walker and author Alfred Wainwright. She is in the Western Lakes to walk to the summit of the Haystacks fell.</desc>
     <image>https://images.metadata.sky.com/pd-image/31e39af3-a35b-40a5-95dc-e137ff545adf/16-9</image>
-    <start>08:30PM</start>
-    <finish>09:00PM</finish>
+    <start>07:30PM</start>
+    <finish>08:00PM</finish>
     <date>06 May 2025</date>
   </channel>
   <channel>
@@ -536,8 +545,8 @@
     <title>Hidden History</title>
     <desc>The secrets of a lost archive of portrait photos showing the changing face of Bradford.</desc>
     <image>https://images.metadata.sky.com/pd-image/b5578230-6c3c-45f5-84cb-b7baff171cb3/16-9</image>
-    <start>09:00PM</start>
-    <finish>10:00PM</finish>
+    <start>08:00PM</start>
+    <finish>09:00PM</finish>
     <date>06 May 2025</date>
   </channel>
   <channel>
@@ -545,8 +554,8 @@
     <title>The Good Life</title>
     <desc>Seventies sitcom about a couple who decide to become self-sufficient. Margo is horrified when she hears of Tom and Barbara's decision to keep pigs in the garden.</desc>
     <image>https://images.metadata.sky.com/pd-image/f32d4e0c-0781-43b7-8b2c-4854a6f5182f/16-9</image>
-    <start>10:00PM</start>
-    <finish>10:30PM</finish>
+    <start>09:00PM</start>
+    <finish>09:30PM</finish>
     <date>06 May 2025</date>
   </channel>
   <channel>
@@ -554,8 +563,8 @@
     <title>Yes, Minister</title>
     <desc>First episode of the acclaimed sitcom about an apparently clueless British government minister and the advisers who surround him.</desc>
     <image>https://images.metadata.sky.com/pd-image/01e933aa-1116-45c0-a2c1-87f83893cc20/16-9</image>
-    <start>10:30PM</start>
-    <finish>11:00PM</finish>
+    <start>09:30PM</start>
+    <finish>10:00PM</finish>
     <date>06 May 2025</date>
   </channel>
   <channel>
@@ -563,8 +572,8 @@
     <title>David Hockney</title>
     <desc>Britain's most popular living artist David Hockney talks to Katie Razzall about why painting still makes him happy at 87, ahead of the opening of his biggest-ever show.</desc>
     <image>https://images.metadata.sky.com/pd-image/a0352804-5464-46bc-9b16-ec297b3ba2fd/16-9</image>
-    <start>11:00PM</start>
-    <finish>11:25PM</finish>
+    <start>10:00PM</start>
+    <finish>10:25PM</finish>
     <date>06 May 2025</date>
   </channel>
   <channel>
@@ -572,8 +581,8 @@
     <title>David Hockney</title>
     <desc>Documentary capturing the return from California of England's favourite living artist. As Hockney approaches the age of 70, he re-invents his painting from scratch.</desc>
     <image>https://images.metadata.sky.com/pd-image/e4bd84ac-c0c0-4bc1-8161-f7a739b24dc5/16-9</image>
-    <start>11:25PM</start>
-    <finish>12:20AM</finish>
+    <start>10:25PM</start>
+    <finish>11:20PM</finish>
     <date>06 May 2025</date>
   </channel>
   <channel>
@@ -581,17 +590,17 @@
     <title>Hockney</title>
     <desc>An intimate documentary profile of artist David Hockney as he returns to the theme of double portraits, three decades after his iconic Mr and Mrs Clark and Percy. From 2003.</desc>
     <image>https://images.metadata.sky.com/pd-image/0c719b69-c4b3-4c6e-be5c-1876cb116191/16-9</image>
-    <start>12:20AM</start>
-    <finish>01:10AM</finish>
-    <date>07 May 2025</date>
+    <start>11:20PM</start>
+    <finish>12:10AM</finish>
+    <date>06 May 2025</date>
   </channel>
   <channel>
     <name>BBC4 UK</name>
     <title>Face to Face with David Hockney</title>
     <desc>In an interview first broadcast in 1996, artist David Hockney talks to Jeremy Isaacs about painting, designing for the opera and his growing deafness.</desc>
     <image>https://images.metadata.sky.com/pd-image/7da40211-ec3e-4813-8a7b-2b41598182b0/16-9</image>
-    <start>01:10AM</start>
-    <finish>01:50AM</finish>
+    <start>12:10AM</start>
+    <finish>12:50AM</finish>
     <date>07 May 2025</date>
   </channel>
   <channel>
@@ -599,8 +608,8 @@
     <title>Wainwright Walks</title>
     <desc>Julia Bradbury explores the work of Britain's well-known fell walker and author Alfred Wainwright. She is in the Western Lakes to walk to the summit of the Haystacks fell.</desc>
     <image>https://images.metadata.sky.com/pd-image/31e39af3-a35b-40a5-95dc-e137ff545adf/16-9</image>
-    <start>01:50AM</start>
-    <finish>02:20AM</finish>
+    <start>12:50AM</start>
+    <finish>01:20AM</finish>
     <date>07 May 2025</date>
   </channel>
   <channel>
@@ -608,8 +617,8 @@
     <title>Pubs, Ponds and Power</title>
     <desc>Archaeologist Ben Robinson explores the history of the village of Cromford in Derbyshire.</desc>
     <image>https://images.metadata.sky.com/pd-image/d29fd42f-9cf2-4a32-9447-85c41d8e3ced/16-9</image>
-    <start>02:20AM</start>
-    <finish>02:50AM</finish>
+    <start>01:20AM</start>
+    <finish>01:50AM</finish>
     <date>07 May 2025</date>
   </channel>
   <channel>
@@ -617,8 +626,8 @@
     <title>Hockney</title>
     <desc>An intimate documentary profile of artist David Hockney as he returns to the theme of double portraits, three decades after his iconic Mr and Mrs Clark and Percy. From 2003.</desc>
     <image>https://images.metadata.sky.com/pd-image/0c719b69-c4b3-4c6e-be5c-1876cb116191/16-9</image>
-    <start>02:50AM</start>
-    <finish>03:40AM</finish>
+    <start>01:50AM</start>
+    <finish>02:40AM</finish>
     <date>07 May 2025</date>
   </channel>
   <channel>
@@ -626,8 +635,44 @@
     <title>Hidden History</title>
     <desc>The secrets of a lost archive of portrait photos showing the changing face of Bradford.</desc>
     <image>https://images.metadata.sky.com/pd-image/b5578230-6c3c-45f5-84cb-b7baff171cb3/16-9</image>
+    <start>02:40AM</start>
+    <finish>03:40AM</finish>
+    <date>07 May 2025</date>
+  </channel>
+  <channel>
+    <name>BBC4 UK</name>
+    <title>This is BBC Four</title>
+    <desc>Programmes start at 7.00pm.</desc>
+    <image>https://images.metadata.sky.com/pd-image//16-9</image>
     <start>03:40AM</start>
-    <finish>04:40AM</finish>
+    <finish>05:30AM</finish>
+    <date>07 May 2025</date>
+  </channel>
+  <channel>
+    <name>BBC4 UK</name>
+    <title>..programmes start at 7.00pm</title>
+    <desc></desc>
+    <image>https://images.metadata.sky.com/pd-image//16-9</image>
+    <start>05:30AM</start>
+    <finish>11:30AM</finish>
+    <date>07 May 2025</date>
+  </channel>
+  <channel>
+    <name>BBC4 UK</name>
+    <title>..programmes start at 7.00pm</title>
+    <desc></desc>
+    <image>https://images.metadata.sky.com/pd-image//16-9</image>
+    <start>11:30AM</start>
+    <finish>05:30PM</finish>
+    <date>07 May 2025</date>
+  </channel>
+  <channel>
+    <name>BBC4 UK</name>
+    <title>..programmes start at 7.00pm</title>
+    <desc></desc>
+    <image>https://images.metadata.sky.com/pd-image//16-9</image>
+    <start>05:30PM</start>
+    <finish>06:58PM</finish>
     <date>07 May 2025</date>
   </channel>
   <channel>
@@ -635,44 +680,8 @@
     <title>This is BBC Four</title>
     <desc>Programmes start at 7.00pm.</desc>
     <image>https://images.metadata.sky.com/pd-image//16-9</image>
-    <start>04:40AM</start>
-    <finish>06:30AM</finish>
-    <date>07 May 2025</date>
-  </channel>
-  <channel>
-    <name>BBC4 UK</name>
-    <title>..programmes start at 7.00pm</title>
-    <desc></desc>
-    <image>https://images.metadata.sky.com/pd-image//16-9</image>
-    <start>06:30AM</start>
-    <finish>12:30PM</finish>
-    <date>07 May 2025</date>
-  </channel>
-  <channel>
-    <name>BBC4 UK</name>
-    <title>..programmes start at 7.00pm</title>
-    <desc></desc>
-    <image>https://images.metadata.sky.com/pd-image//16-9</image>
-    <start>12:30PM</start>
-    <finish>06:30PM</finish>
-    <date>07 May 2025</date>
-  </channel>
-  <channel>
-    <name>BBC4 UK</name>
-    <title>..programmes start at 7.00pm</title>
-    <desc></desc>
-    <image>https://images.metadata.sky.com/pd-image//16-9</image>
-    <start>06:30PM</start>
-    <finish>07:58PM</finish>
-    <date>07 May 2025</date>
-  </channel>
-  <channel>
-    <name>BBC4 UK</name>
-    <title>This is BBC Four</title>
-    <desc>Programmes start at 7.00pm.</desc>
-    <image>https://images.metadata.sky.com/pd-image//16-9</image>
-    <start>07:58PM</start>
-    <finish>08:00PM</finish>
+    <start>06:58PM</start>
+    <finish>07:00PM</finish>
     <date>07 May 2025</date>
   </channel>
   <channel>
@@ -680,8 +689,8 @@
     <title>Pubs, Ponds and Power</title>
     <desc>Archaeologist Ben Robinson explores the rise, fall and rise of Lavenham in Suffolk, the best-preserved medieval village in the country.</desc>
     <image>https://images.metadata.sky.com/pd-image/b70f2e95-b0ba-4992-9e44-5b019feefa08/16-9</image>
-    <start>08:00PM</start>
-    <finish>08:30PM</finish>
+    <start>07:00PM</start>
+    <finish>07:30PM</finish>
     <date>07 May 2025</date>
   </channel>
   <channel>
@@ -689,8 +698,8 @@
     <title>Wainwright Walks</title>
     <desc>Series in which Julia Bradbury explores the work of Britain's greatest fell walker Alfred Wainwright. Julia climbs her first mountain, Blencathra, and tackles Sharp Edge.</desc>
     <image>https://images.metadata.sky.com/pd-image/9a3bafcf-ee59-41fa-826d-aca843b50aa7/16-9</image>
-    <start>08:30PM</start>
-    <finish>09:00PM</finish>
+    <start>07:30PM</start>
+    <finish>08:00PM</finish>
     <date>07 May 2025</date>
   </channel>
   <channel>
@@ -698,8 +707,8 @@
     <title>Atlantic</title>
     <desc>Documentary about the Atlantic Ocean. In the North Atlantic, massive whale pods, giant turtles and monstrous jellyfish ride the Gulf Stream, a huge ocean current.</desc>
     <image>https://images.metadata.sky.com/pd-image/232ee233-856d-4cb0-96af-e01748261197/16-9</image>
-    <start>09:00PM</start>
-    <finish>10:00PM</finish>
+    <start>08:00PM</start>
+    <finish>09:00PM</finish>
     <date>07 May 2025</date>
   </channel>
   <channel>
@@ -707,8 +716,8 @@
     <title>Shipwrecks</title>
     <desc>The story of the top-heavy Mary Rose, the wrecking of the Spanish Armada and the real-life sea disasters that inspired The Tempest and Robinson Crusoe.</desc>
     <image>https://images.metadata.sky.com/pd-image/44a5fc7e-f884-405a-97ef-7e3fd20727ad/16-9</image>
-    <start>10:00PM</start>
-    <finish>11:00PM</finish>
+    <start>09:00PM</start>
+    <finish>10:00PM</finish>
     <date>07 May 2025</date>
   </channel>
   <channel>
@@ -716,8 +725,8 @@
     <title>Jimmy McGovern Remembers... Common</title>
     <desc>Writer Jimmy McGovern looks back on his 2014 drama based on the UK's controversial joint enterprise law.</desc>
     <image>https://images.metadata.sky.com/pd-image/e02b2060-5260-4fd4-8195-1d313c6ecc6b/16-9</image>
-    <start>11:00PM</start>
-    <finish>11:15PM</finish>
+    <start>10:00PM</start>
+    <finish>10:15PM</finish>
     <date>07 May 2025</date>
   </channel>
   <channel>
@@ -725,8 +734,8 @@
     <title>Common</title>
     <desc>Writer Jimmy McGovern's drama based on the UK's controversial joint enterprise law. Contains very strong language and some violent scenes.</desc>
     <image>https://images.metadata.sky.com/pd-image/c3baf39f-71f2-30e0-97e4-1916a8b77371/16-9</image>
-    <start>11:15PM</start>
-    <finish>12:45AM</finish>
+    <start>10:15PM</start>
+    <finish>11:45PM</finish>
     <date>07 May 2025</date>
   </channel>
 </tv>

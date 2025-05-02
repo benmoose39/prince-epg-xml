@@ -2,11 +2,29 @@
 <tv>
   <channel>
     <name>Global News BC1 CA</name>
+    <title>BC 1 News</title>
+    <desc>Weather, sports and breaking news, led by a team of anchors.</desc>
+    <image>http://dshm.tmsimg.com/assets/p9826413_b_h10_aa.jpg</image>
+    <start>07:30PM</start>
+    <finish>08:00PM</finish>
+    <date>02 May 2025</date>
+  </channel>
+  <channel>
+    <name>Global News BC1 CA</name>
     <title>Global News at Noon</title>
     <desc>British Columbia's local news and information.</desc>
     <image>http://dshm.tmsimg.com/assets/p831438_b_h10_ac.jpg</image>
-    <start>10:00PM</start>
-    <finish>11:00PM</finish>
+    <start>08:00PM</start>
+    <finish>09:00PM</finish>
+    <date>02 May 2025</date>
+  </channel>
+  <channel>
+    <name>Global News BC1 CA</name>
+    <title>Global News at Noon</title>
+    <desc>British Columbia's local news and information.</desc>
+    <image>http://dshm.tmsimg.com/assets/p831438_b_h10_ac.jpg</image>
+    <start>09:00PM</start>
+    <finish>10:00PM</finish>
     <date>02 May 2025</date>
   </channel>
   <channel>
@@ -14,8 +32,8 @@
     <title>Focus BC</title>
     <desc>Highlights and discussions about the latest civic political issues and interviews with local leaders and candidates.</desc>
     <image>http://dshm.tmsimg.com/assets/p15931847_b_h8_ab.jpg</image>
-    <start>11:00PM</start>
-    <finish>11:30PM</finish>
+    <start>10:00PM</start>
+    <finish>10:30PM</finish>
     <date>02 May 2025</date>
   </channel>
   <channel>
@@ -23,7 +41,16 @@
     <title>Global National</title>
     <desc>The top stories from around the world.</desc>
     <image>http://dshm.tmsimg.com/assets/p185876_b_h8_ae.jpg</image>
-    <start>11:30PM</start>
+    <start>10:30PM</start>
+    <finish>11:00PM</finish>
+    <date>02 May 2025</date>
+  </channel>
+  <channel>
+    <name>Global News BC1 CA</name>
+    <title>BC 1 News</title>
+    <desc>Weather, sports and breaking news, led by a team of anchors.</desc>
+    <image>http://dshm.tmsimg.com/assets/p9826413_b_h10_aa.jpg</image>
+    <start>11:00PM</start>
     <finish>12:00AM</finish>
     <date>02 May 2025</date>
   </channel>
@@ -33,16 +60,7 @@
     <desc>Weather, sports and breaking news, led by a team of anchors.</desc>
     <image>http://dshm.tmsimg.com/assets/p9826413_b_h10_aa.jpg</image>
     <start>12:00AM</start>
-    <finish>01:00AM</finish>
-    <date>03 May 2025</date>
-  </channel>
-  <channel>
-    <name>Global News BC1 CA</name>
-    <title>BC 1 News</title>
-    <desc>Weather, sports and breaking news, led by a team of anchors.</desc>
-    <image>http://dshm.tmsimg.com/assets/p9826413_b_h10_aa.jpg</image>
-    <start>01:00AM</start>
-    <finish>01:30AM</finish>
+    <finish>12:30AM</finish>
     <date>03 May 2025</date>
   </channel>
   <channel>
@@ -50,8 +68,8 @@
     <title>Focus BC</title>
     <desc>Highlights and discussions about the latest civic political issues and interviews with local leaders and candidates.</desc>
     <image>http://dshm.tmsimg.com/assets/p15931847_b_h8_ab.jpg</image>
-    <start>01:30AM</start>
-    <finish>02:00AM</finish>
+    <start>12:30AM</start>
+    <finish>01:00AM</finish>
     <date>03 May 2025</date>
   </channel>
   <channel>
@@ -59,8 +77,8 @@
     <title>Global News at 5</title>
     <desc>British Columbia's local news and information.</desc>
     <image>http://dshm.tmsimg.com/assets/p661404_b_h10_ab.jpg</image>
-    <start>02:00AM</start>
-    <finish>02:30AM</finish>
+    <start>01:00AM</start>
+    <finish>01:30AM</finish>
     <date>03 May 2025</date>
   </channel>
   <channel>
@@ -68,8 +86,8 @@
     <title>Global National</title>
     <desc>The top stories from around the world.</desc>
     <image>http://dshm.tmsimg.com/assets/p185876_b_h8_ae.jpg</image>
-    <start>02:30AM</start>
-    <finish>02:59AM</finish>
+    <start>01:30AM</start>
+    <finish>01:59AM</finish>
     <date>03 May 2025</date>
   </channel>
   <channel>
@@ -77,17 +95,17 @@
     <title>Global News Hour</title>
     <desc>Evening news.</desc>
     <image>http://dshm.tmsimg.com/assets/p13159533_b_h10_ab.jpg</image>
-    <start>02:59AM</start>
+    <start>01:59AM</start>
+    <finish>03:00AM</finish>
+    <date>03 May 2025</date>
+  </channel>
+  <channel>
+    <name>Global News BC1 CA</name>
+    <title>Global News Hour</title>
+    <desc>Evening news.</desc>
+    <image>http://dshm.tmsimg.com/assets/p13159533_b_h10_ab.jpg</image>
+    <start>03:00AM</start>
     <finish>04:00AM</finish>
-    <date>03 May 2025</date>
-  </channel>
-  <channel>
-    <name>Global News BC1 CA</name>
-    <title>Global News Hour</title>
-    <desc>Evening news.</desc>
-    <image>http://dshm.tmsimg.com/assets/p13159533_b_h10_ab.jpg</image>
-    <start>04:00AM</start>
-    <finish>05:00AM</finish>
     <date>03 May 2025</date>
   </channel>
   <channel>
@@ -95,8 +113,8 @@
     <title>BC1 News Evening</title>
     <desc></desc>
     <image>http://dshm.tmsimg.com/assets/p13362594_b_h10_aa.jpg</image>
-    <start>05:00AM</start>
-    <finish>05:30AM</finish>
+    <start>04:00AM</start>
+    <finish>04:30AM</finish>
     <date>03 May 2025</date>
   </channel>
   <channel>
@@ -104,8 +122,8 @@
     <title>Focus BC</title>
     <desc>Highlights and discussions about the latest civic political issues and interviews with local leaders and candidates.</desc>
     <image>http://dshm.tmsimg.com/assets/p15931847_b_h8_ab.jpg</image>
-    <start>05:30AM</start>
-    <finish>06:00AM</finish>
+    <start>04:30AM</start>
+    <finish>05:00AM</finish>
     <date>03 May 2025</date>
   </channel>
   <channel>
@@ -113,8 +131,8 @@
     <title>Global National</title>
     <desc>The top stories from around the world.</desc>
     <image>http://dshm.tmsimg.com/assets/p185876_b_h8_ae.jpg</image>
-    <start>06:00AM</start>
-    <finish>06:30AM</finish>
+    <start>05:00AM</start>
+    <finish>05:30AM</finish>
     <date>03 May 2025</date>
   </channel>
   <channel>
@@ -122,35 +140,35 @@
     <title>Global News on BC1</title>
     <desc></desc>
     <image>http://dshm.tmsimg.com/assets/p12987183_b_h10_ac.jpg</image>
+    <start>05:30AM</start>
+    <finish>06:00AM</finish>
+    <date>03 May 2025</date>
+  </channel>
+  <channel>
+    <name>Global News BC1 CA</name>
+    <title>BC1 News Evening</title>
+    <desc></desc>
+    <image>http://dshm.tmsimg.com/assets/p13362594_b_h10_aa.jpg</image>
+    <start>06:00AM</start>
+    <finish>06:30AM</finish>
+    <date>03 May 2025</date>
+  </channel>
+  <channel>
+    <name>Global News BC1 CA</name>
+    <title>Focus BC</title>
+    <desc>Highlights and discussions about the latest civic political issues and interviews with local leaders and candidates.</desc>
+    <image>http://dshm.tmsimg.com/assets/p15931847_b_h8_ab.jpg</image>
     <start>06:30AM</start>
     <finish>07:00AM</finish>
     <date>03 May 2025</date>
   </channel>
   <channel>
     <name>Global News BC1 CA</name>
-    <title>BC1 News Evening</title>
-    <desc></desc>
-    <image>http://dshm.tmsimg.com/assets/p13362594_b_h10_aa.jpg</image>
-    <start>07:00AM</start>
-    <finish>07:30AM</finish>
-    <date>03 May 2025</date>
-  </channel>
-  <channel>
-    <name>Global News BC1 CA</name>
-    <title>Focus BC</title>
-    <desc>Highlights and discussions about the latest civic political issues and interviews with local leaders and candidates.</desc>
-    <image>http://dshm.tmsimg.com/assets/p15931847_b_h8_ab.jpg</image>
-    <start>07:30AM</start>
-    <finish>08:00AM</finish>
-    <date>03 May 2025</date>
-  </channel>
-  <channel>
-    <name>Global News BC1 CA</name>
     <title>Global News at 11</title>
     <desc>British Columbia's local news stories and weather.</desc>
     <image>http://dshm.tmsimg.com/assets/p12105349_b_h10_ab.jpg</image>
-    <start>08:00AM</start>
-    <finish>09:05AM</finish>
+    <start>07:00AM</start>
+    <finish>08:05AM</finish>
     <date>03 May 2025</date>
   </channel>
   <channel>
@@ -158,8 +176,8 @@
     <title>BC1 News Evening</title>
     <desc></desc>
     <image>http://dshm.tmsimg.com/assets/p13362594_b_h10_aa.jpg</image>
-    <start>09:05AM</start>
-    <finish>09:30AM</finish>
+    <start>08:05AM</start>
+    <finish>08:30AM</finish>
     <date>03 May 2025</date>
   </channel>
   <channel>
@@ -167,8 +185,8 @@
     <title>Focus BC</title>
     <desc>Highlights and discussions about the latest civic political issues and interviews with local leaders and candidates.</desc>
     <image>http://dshm.tmsimg.com/assets/p15931847_b_h8_ab.jpg</image>
-    <start>09:30AM</start>
-    <finish>10:00AM</finish>
+    <start>08:30AM</start>
+    <finish>09:00AM</finish>
     <date>03 May 2025</date>
   </channel>
   <channel>
@@ -176,24 +194,33 @@
     <title>Global News Hour</title>
     <desc>Evening news.</desc>
     <image>http://dshm.tmsimg.com/assets/p13159533_b_h10_ab.jpg</image>
+    <start>09:00AM</start>
+    <finish>10:00AM</finish>
+    <date>03 May 2025</date>
+  </channel>
+  <channel>
+    <name>Global News BC1 CA</name>
+    <title>Global News at 11</title>
+    <desc>British Columbia's local news stories and weather.</desc>
+    <image>http://dshm.tmsimg.com/assets/p12105349_b_h10_ab.jpg</image>
     <start>10:00AM</start>
     <finish>11:00AM</finish>
     <date>03 May 2025</date>
   </channel>
   <channel>
     <name>Global News BC1 CA</name>
-    <title>Global News at 11</title>
-    <desc>British Columbia's local news stories and weather.</desc>
-    <image>http://dshm.tmsimg.com/assets/p12105349_b_h10_ab.jpg</image>
+    <title>Global News Hour</title>
+    <desc>Evening news.</desc>
+    <image>http://dshm.tmsimg.com/assets/p13159533_b_h10_ab.jpg</image>
     <start>11:00AM</start>
     <finish>12:00PM</finish>
     <date>03 May 2025</date>
   </channel>
   <channel>
     <name>Global News BC1 CA</name>
-    <title>Global News Hour</title>
-    <desc>Evening news.</desc>
-    <image>http://dshm.tmsimg.com/assets/p13159533_b_h10_ab.jpg</image>
+    <title>Global News at 11</title>
+    <desc>British Columbia's local news stories and weather.</desc>
+    <image>http://dshm.tmsimg.com/assets/p12105349_b_h10_ab.jpg</image>
     <start>12:00PM</start>
     <finish>01:00PM</finish>
     <date>03 May 2025</date>
@@ -209,20 +236,11 @@
   </channel>
   <channel>
     <name>Global News BC1 CA</name>
-    <title>Global News at 11</title>
-    <desc>British Columbia's local news stories and weather.</desc>
-    <image>http://dshm.tmsimg.com/assets/p12105349_b_h10_ab.jpg</image>
-    <start>02:00PM</start>
-    <finish>03:00PM</finish>
-    <date>03 May 2025</date>
-  </channel>
-  <channel>
-    <name>Global News BC1 CA</name>
     <title>Global National</title>
     <desc>The top stories from around the world.</desc>
     <image>http://dshm.tmsimg.com/assets/p185876_b_h8_ae.jpg</image>
-    <start>03:00PM</start>
-    <finish>03:30PM</finish>
+    <start>02:00PM</start>
+    <finish>02:30PM</finish>
     <date>03 May 2025</date>
   </channel>
   <channel>
@@ -230,7 +248,16 @@
     <title>BC1 News Evening</title>
     <desc></desc>
     <image>http://dshm.tmsimg.com/assets/p13362594_b_h10_aa.jpg</image>
-    <start>03:30PM</start>
+    <start>02:30PM</start>
+    <finish>03:00PM</finish>
+    <date>03 May 2025</date>
+  </channel>
+  <channel>
+    <name>Global News BC1 CA</name>
+    <title>Global News Morning</title>
+    <desc>British Columbia's local news and information.</desc>
+    <image>http://dshm.tmsimg.com/assets/p808393_b_h10_ab.jpg</image>
+    <start>03:00PM</start>
     <finish>04:00PM</finish>
     <date>03 May 2025</date>
   </channel>
@@ -240,7 +267,7 @@
     <desc>British Columbia's local news and information.</desc>
     <image>http://dshm.tmsimg.com/assets/p808393_b_h10_ab.jpg</image>
     <start>04:00PM</start>
-    <finish>05:00PM</finish>
+    <finish>06:00PM</finish>
     <date>03 May 2025</date>
   </channel>
   <channel>
@@ -248,16 +275,16 @@
     <title>Global News Morning</title>
     <desc>British Columbia's local news and information.</desc>
     <image>http://dshm.tmsimg.com/assets/p808393_b_h10_ab.jpg</image>
-    <start>05:00PM</start>
-    <finish>07:00PM</finish>
+    <start>06:00PM</start>
+    <finish>08:00PM</finish>
     <date>03 May 2025</date>
   </channel>
   <channel>
     <name>Global News BC1 CA</name>
-    <title>Global News Morning</title>
+    <title>Global News at Noon</title>
     <desc>British Columbia's local news and information.</desc>
-    <image>http://dshm.tmsimg.com/assets/p808393_b_h10_ab.jpg</image>
-    <start>07:00PM</start>
+    <image>http://dshm.tmsimg.com/assets/p831438_b_h10_ac.jpg</image>
+    <start>08:00PM</start>
     <finish>09:00PM</finish>
     <date>03 May 2025</date>
   </channel>
@@ -272,10 +299,19 @@
   </channel>
   <channel>
     <name>Global News BC1 CA</name>
-    <title>Global News at Noon</title>
-    <desc>British Columbia's local news and information.</desc>
-    <image>http://dshm.tmsimg.com/assets/p831438_b_h10_ac.jpg</image>
+    <title>BC 1 News</title>
+    <desc>Weather, sports and breaking news, led by a team of anchors.</desc>
+    <image>http://dshm.tmsimg.com/assets/p9826413_b_h10_aa.jpg</image>
     <start>10:00PM</start>
+    <finish>10:30PM</finish>
+    <date>03 May 2025</date>
+  </channel>
+  <channel>
+    <name>Global News BC1 CA</name>
+    <title>Global National</title>
+    <desc>The top stories from around the world.</desc>
+    <image>http://dshm.tmsimg.com/assets/p185876_b_h8_ae.jpg</image>
+    <start>10:30PM</start>
     <finish>11:00PM</finish>
     <date>03 May 2025</date>
   </channel>
@@ -330,25 +366,7 @@
     <desc>The top stories from around the world.</desc>
     <image>http://dshm.tmsimg.com/assets/p185876_b_h8_ae.jpg</image>
     <start>01:30AM</start>
-    <finish>02:00AM</finish>
-    <date>04 May 2025</date>
-  </channel>
-  <channel>
-    <name>Global News BC1 CA</name>
-    <title>BC 1 News</title>
-    <desc>Weather, sports and breaking news, led by a team of anchors.</desc>
-    <image>http://dshm.tmsimg.com/assets/p9826413_b_h10_aa.jpg</image>
-    <start>02:00AM</start>
-    <finish>02:30AM</finish>
-    <date>04 May 2025</date>
-  </channel>
-  <channel>
-    <name>Global News BC1 CA</name>
-    <title>Global National</title>
-    <desc>The top stories from around the world.</desc>
-    <image>http://dshm.tmsimg.com/assets/p185876_b_h8_ae.jpg</image>
-    <start>02:30AM</start>
-    <finish>02:59AM</finish>
+    <finish>01:59AM</finish>
     <date>04 May 2025</date>
   </channel>
   <channel>
@@ -356,53 +374,53 @@
     <title>Global News Hour</title>
     <desc>Evening news.</desc>
     <image>http://dshm.tmsimg.com/assets/p13159533_b_h10_ab.jpg</image>
-    <start>02:59AM</start>
+    <start>01:59AM</start>
+    <finish>03:00AM</finish>
+    <date>04 May 2025</date>
+  </channel>
+  <channel>
+    <name>Global News BC1 CA</name>
+    <title>Global News Hour</title>
+    <desc>Evening news.</desc>
+    <image>http://dshm.tmsimg.com/assets/p13159533_b_h10_ab.jpg</image>
+    <start>03:00AM</start>
     <finish>04:00AM</finish>
     <date>04 May 2025</date>
   </channel>
   <channel>
     <name>Global News BC1 CA</name>
-    <title>Global News Hour</title>
-    <desc>Evening news.</desc>
-    <image>http://dshm.tmsimg.com/assets/p13159533_b_h10_ab.jpg</image>
+    <title>BC1 News Evening</title>
+    <desc></desc>
+    <image>http://dshm.tmsimg.com/assets/p13362594_b_h10_aa.jpg</image>
     <start>04:00AM</start>
+    <finish>04:30AM</finish>
+    <date>04 May 2025</date>
+  </channel>
+  <channel>
+    <name>Global News BC1 CA</name>
+    <title>Focus BC</title>
+    <desc>Highlights and discussions about the latest civic political issues and interviews with local leaders and candidates.</desc>
+    <image>http://dshm.tmsimg.com/assets/p15931847_b_h8_ab.jpg</image>
+    <start>04:30AM</start>
     <finish>05:00AM</finish>
     <date>04 May 2025</date>
   </channel>
   <channel>
     <name>Global News BC1 CA</name>
-    <title>BC1 News Evening</title>
-    <desc></desc>
-    <image>http://dshm.tmsimg.com/assets/p13362594_b_h10_aa.jpg</image>
+    <title>Global News Hour</title>
+    <desc>Evening news.</desc>
+    <image>http://dshm.tmsimg.com/assets/p13159533_b_h10_ab.jpg</image>
     <start>05:00AM</start>
-    <finish>05:30AM</finish>
-    <date>04 May 2025</date>
-  </channel>
-  <channel>
-    <name>Global News BC1 CA</name>
-    <title>Focus BC</title>
-    <desc>Highlights and discussions about the latest civic political issues and interviews with local leaders and candidates.</desc>
-    <image>http://dshm.tmsimg.com/assets/p15931847_b_h8_ab.jpg</image>
-    <start>05:30AM</start>
     <finish>06:00AM</finish>
     <date>04 May 2025</date>
   </channel>
   <channel>
     <name>Global News BC1 CA</name>
-    <title>Global News Hour</title>
-    <desc>Evening news.</desc>
-    <image>http://dshm.tmsimg.com/assets/p13159533_b_h10_ab.jpg</image>
-    <start>06:00AM</start>
-    <finish>07:00AM</finish>
-    <date>04 May 2025</date>
-  </channel>
-  <channel>
-    <name>Global News BC1 CA</name>
     <title>BC1 News Evening</title>
     <desc></desc>
     <image>http://dshm.tmsimg.com/assets/p13362594_b_h10_aa.jpg</image>
-    <start>07:00AM</start>
-    <finish>07:30AM</finish>
+    <start>06:00AM</start>
+    <finish>06:30AM</finish>
     <date>04 May 2025</date>
   </channel>
   <channel>
@@ -410,71 +428,71 @@
     <title>Focus BC</title>
     <desc>Highlights and discussions about the latest civic political issues and interviews with local leaders and candidates.</desc>
     <image>http://dshm.tmsimg.com/assets/p15931847_b_h8_ab.jpg</image>
-    <start>07:30AM</start>
+    <start>06:30AM</start>
+    <finish>07:00AM</finish>
+    <date>04 May 2025</date>
+  </channel>
+  <channel>
+    <name>Global News BC1 CA</name>
+    <title>Global News at 11</title>
+    <desc>British Columbia's local news stories and weather.</desc>
+    <image>http://dshm.tmsimg.com/assets/p12105349_b_h10_ab.jpg</image>
+    <start>07:00AM</start>
+    <finish>07:29AM</finish>
+    <date>04 May 2025</date>
+  </channel>
+  <channel>
+    <name>Global News BC1 CA</name>
+    <title>Global National</title>
+    <desc>The top stories from around the world.</desc>
+    <image>http://dshm.tmsimg.com/assets/p185876_b_h8_ae.jpg</image>
+    <start>07:29AM</start>
     <finish>08:00AM</finish>
     <date>04 May 2025</date>
   </channel>
   <channel>
     <name>Global News BC1 CA</name>
-    <title>Global News at 11</title>
-    <desc>British Columbia's local news stories and weather.</desc>
-    <image>http://dshm.tmsimg.com/assets/p12105349_b_h10_ab.jpg</image>
+    <title>Global News Hour</title>
+    <desc>Evening news.</desc>
+    <image>http://dshm.tmsimg.com/assets/p13159533_b_h10_ab.jpg</image>
     <start>08:00AM</start>
-    <finish>08:29AM</finish>
-    <date>04 May 2025</date>
-  </channel>
-  <channel>
-    <name>Global News BC1 CA</name>
-    <title>Global National</title>
-    <desc>The top stories from around the world.</desc>
-    <image>http://dshm.tmsimg.com/assets/p185876_b_h8_ae.jpg</image>
-    <start>08:29AM</start>
     <finish>09:00AM</finish>
     <date>04 May 2025</date>
   </channel>
   <channel>
     <name>Global News BC1 CA</name>
-    <title>Global News Hour</title>
-    <desc>Evening news.</desc>
-    <image>http://dshm.tmsimg.com/assets/p13159533_b_h10_ab.jpg</image>
+    <title>BC1 News Evening</title>
+    <desc></desc>
+    <image>http://dshm.tmsimg.com/assets/p13362594_b_h10_aa.jpg</image>
     <start>09:00AM</start>
+    <finish>09:30AM</finish>
+    <date>04 May 2025</date>
+  </channel>
+  <channel>
+    <name>Global News BC1 CA</name>
+    <title>Global National</title>
+    <desc>The top stories from around the world.</desc>
+    <image>http://dshm.tmsimg.com/assets/p185876_b_h8_ae.jpg</image>
+    <start>09:30AM</start>
     <finish>10:00AM</finish>
     <date>04 May 2025</date>
   </channel>
   <channel>
     <name>Global News BC1 CA</name>
-    <title>BC1 News Evening</title>
-    <desc></desc>
-    <image>http://dshm.tmsimg.com/assets/p13362594_b_h10_aa.jpg</image>
+    <title>Global News Hour</title>
+    <desc>Evening news.</desc>
+    <image>http://dshm.tmsimg.com/assets/p13159533_b_h10_ab.jpg</image>
     <start>10:00AM</start>
-    <finish>10:30AM</finish>
-    <date>04 May 2025</date>
-  </channel>
-  <channel>
-    <name>Global News BC1 CA</name>
-    <title>Global National</title>
-    <desc>The top stories from around the world.</desc>
-    <image>http://dshm.tmsimg.com/assets/p185876_b_h8_ae.jpg</image>
-    <start>10:30AM</start>
     <finish>11:00AM</finish>
     <date>04 May 2025</date>
   </channel>
   <channel>
     <name>Global News BC1 CA</name>
-    <title>Global News Hour</title>
-    <desc>Evening news.</desc>
-    <image>http://dshm.tmsimg.com/assets/p13159533_b_h10_ab.jpg</image>
-    <start>11:00AM</start>
-    <finish>12:00PM</finish>
-    <date>04 May 2025</date>
-  </channel>
-  <channel>
-    <name>Global News BC1 CA</name>
     <title>BC1 News Evening</title>
     <desc></desc>
     <image>http://dshm.tmsimg.com/assets/p13362594_b_h10_aa.jpg</image>
-    <start>12:00PM</start>
-    <finish>12:30PM</finish>
+    <start>11:00AM</start>
+    <finish>11:30AM</finish>
     <date>04 May 2025</date>
   </channel>
   <channel>
@@ -482,8 +500,8 @@
     <title>Global National</title>
     <desc>The top stories from around the world.</desc>
     <image>http://dshm.tmsimg.com/assets/p185876_b_h8_ae.jpg</image>
-    <start>12:30PM</start>
-    <finish>01:00PM</finish>
+    <start>11:30AM</start>
+    <finish>12:00PM</finish>
     <date>04 May 2025</date>
   </channel>
   <channel>
@@ -491,8 +509,8 @@
     <title>Global News Hour</title>
     <desc>Evening news.</desc>
     <image>http://dshm.tmsimg.com/assets/p13159533_b_h10_ab.jpg</image>
-    <start>01:00PM</start>
-    <finish>02:00PM</finish>
+    <start>12:00PM</start>
+    <finish>01:00PM</finish>
     <date>04 May 2025</date>
   </channel>
   <channel>
@@ -500,6 +518,24 @@
     <title>Global News at 11</title>
     <desc>British Columbia's local news stories and weather.</desc>
     <image>http://dshm.tmsimg.com/assets/p12105349_b_h10_ab.jpg</image>
+    <start>01:00PM</start>
+    <finish>01:30PM</finish>
+    <date>04 May 2025</date>
+  </channel>
+  <channel>
+    <name>Global News BC1 CA</name>
+    <title>BC1 News Evening</title>
+    <desc></desc>
+    <image>http://dshm.tmsimg.com/assets/p13362594_b_h10_aa.jpg</image>
+    <start>01:30PM</start>
+    <finish>02:00PM</finish>
+    <date>04 May 2025</date>
+  </channel>
+  <channel>
+    <name>Global News BC1 CA</name>
+    <title>Global National</title>
+    <desc>The top stories from around the world.</desc>
+    <image>http://dshm.tmsimg.com/assets/p185876_b_h8_ae.jpg</image>
     <start>02:00PM</start>
     <finish>02:30PM</finish>
     <date>04 May 2025</date>
@@ -515,19 +551,10 @@
   </channel>
   <channel>
     <name>Global News BC1 CA</name>
-    <title>Global National</title>
-    <desc>The top stories from around the world.</desc>
-    <image>http://dshm.tmsimg.com/assets/p185876_b_h8_ae.jpg</image>
+    <title>Global News Morning</title>
+    <desc>British Columbia's local news and information.</desc>
+    <image>http://dshm.tmsimg.com/assets/p808393_b_h10_ab.jpg</image>
     <start>03:00PM</start>
-    <finish>03:30PM</finish>
-    <date>04 May 2025</date>
-  </channel>
-  <channel>
-    <name>Global News BC1 CA</name>
-    <title>BC1 News Evening</title>
-    <desc></desc>
-    <image>http://dshm.tmsimg.com/assets/p13362594_b_h10_aa.jpg</image>
-    <start>03:30PM</start>
     <finish>04:00PM</finish>
     <date>04 May 2025</date>
   </channel>
@@ -537,7 +564,7 @@
     <desc>British Columbia's local news and information.</desc>
     <image>http://dshm.tmsimg.com/assets/p808393_b_h10_ab.jpg</image>
     <start>04:00PM</start>
-    <finish>05:00PM</finish>
+    <finish>06:00PM</finish>
     <date>04 May 2025</date>
   </channel>
   <channel>
@@ -545,16 +572,16 @@
     <title>Global News Morning</title>
     <desc>British Columbia's local news and information.</desc>
     <image>http://dshm.tmsimg.com/assets/p808393_b_h10_ab.jpg</image>
-    <start>05:00PM</start>
-    <finish>07:00PM</finish>
+    <start>06:00PM</start>
+    <finish>08:00PM</finish>
     <date>04 May 2025</date>
   </channel>
   <channel>
     <name>Global News BC1 CA</name>
-    <title>Global News Morning</title>
+    <title>Global News at Noon</title>
     <desc>British Columbia's local news and information.</desc>
-    <image>http://dshm.tmsimg.com/assets/p808393_b_h10_ab.jpg</image>
-    <start>07:00PM</start>
+    <image>http://dshm.tmsimg.com/assets/p831438_b_h10_ac.jpg</image>
+    <start>08:00PM</start>
     <finish>09:00PM</finish>
     <date>04 May 2025</date>
   </channel>
@@ -569,10 +596,19 @@
   </channel>
   <channel>
     <name>Global News BC1 CA</name>
-    <title>Global News at Noon</title>
-    <desc>British Columbia's local news and information.</desc>
-    <image>http://dshm.tmsimg.com/assets/p831438_b_h10_ac.jpg</image>
+    <title>BC 1 News</title>
+    <desc>Weather, sports and breaking news, led by a team of anchors.</desc>
+    <image>http://dshm.tmsimg.com/assets/p9826413_b_h10_aa.jpg</image>
     <start>10:00PM</start>
+    <finish>10:30PM</finish>
+    <date>04 May 2025</date>
+  </channel>
+  <channel>
+    <name>Global News BC1 CA</name>
+    <title>Global National</title>
+    <desc>The top stories from around the world.</desc>
+    <image>http://dshm.tmsimg.com/assets/p185876_b_h8_ae.jpg</image>
+    <start>10:30PM</start>
     <finish>11:00PM</finish>
     <date>04 May 2025</date>
   </channel>
@@ -627,25 +663,7 @@
     <desc>The top stories from around the world.</desc>
     <image>http://dshm.tmsimg.com/assets/p185876_b_h8_ae.jpg</image>
     <start>01:30AM</start>
-    <finish>02:00AM</finish>
-    <date>05 May 2025</date>
-  </channel>
-  <channel>
-    <name>Global News BC1 CA</name>
-    <title>BC 1 News</title>
-    <desc>Weather, sports and breaking news, led by a team of anchors.</desc>
-    <image>http://dshm.tmsimg.com/assets/p9826413_b_h10_aa.jpg</image>
-    <start>02:00AM</start>
-    <finish>02:30AM</finish>
-    <date>05 May 2025</date>
-  </channel>
-  <channel>
-    <name>Global News BC1 CA</name>
-    <title>Global National</title>
-    <desc>The top stories from around the world.</desc>
-    <image>http://dshm.tmsimg.com/assets/p185876_b_h8_ae.jpg</image>
-    <start>02:30AM</start>
-    <finish>02:59AM</finish>
+    <finish>01:59AM</finish>
     <date>05 May 2025</date>
   </channel>
   <channel>
@@ -653,53 +671,53 @@
     <title>Global News Hour</title>
     <desc>Evening news.</desc>
     <image>http://dshm.tmsimg.com/assets/p13159533_b_h10_ab.jpg</image>
-    <start>02:59AM</start>
+    <start>01:59AM</start>
+    <finish>03:00AM</finish>
+    <date>05 May 2025</date>
+  </channel>
+  <channel>
+    <name>Global News BC1 CA</name>
+    <title>Global News Hour</title>
+    <desc>Evening news.</desc>
+    <image>http://dshm.tmsimg.com/assets/p13159533_b_h10_ab.jpg</image>
+    <start>03:00AM</start>
     <finish>04:00AM</finish>
     <date>05 May 2025</date>
   </channel>
   <channel>
     <name>Global News BC1 CA</name>
-    <title>Global News Hour</title>
-    <desc>Evening news.</desc>
-    <image>http://dshm.tmsimg.com/assets/p13159533_b_h10_ab.jpg</image>
+    <title>BC1 News Evening</title>
+    <desc></desc>
+    <image>http://dshm.tmsimg.com/assets/p13362594_b_h10_aa.jpg</image>
     <start>04:00AM</start>
+    <finish>04:30AM</finish>
+    <date>05 May 2025</date>
+  </channel>
+  <channel>
+    <name>Global News BC1 CA</name>
+    <title>Focus BC</title>
+    <desc>Highlights and discussions about the latest civic political issues and interviews with local leaders and candidates.</desc>
+    <image>http://dshm.tmsimg.com/assets/p15931847_b_h8_ab.jpg</image>
+    <start>04:30AM</start>
     <finish>05:00AM</finish>
     <date>05 May 2025</date>
   </channel>
   <channel>
     <name>Global News BC1 CA</name>
-    <title>BC1 News Evening</title>
-    <desc></desc>
-    <image>http://dshm.tmsimg.com/assets/p13362594_b_h10_aa.jpg</image>
+    <title>Global News Hour</title>
+    <desc>Evening news.</desc>
+    <image>http://dshm.tmsimg.com/assets/p13159533_b_h10_ab.jpg</image>
     <start>05:00AM</start>
-    <finish>05:30AM</finish>
-    <date>05 May 2025</date>
-  </channel>
-  <channel>
-    <name>Global News BC1 CA</name>
-    <title>Focus BC</title>
-    <desc>Highlights and discussions about the latest civic political issues and interviews with local leaders and candidates.</desc>
-    <image>http://dshm.tmsimg.com/assets/p15931847_b_h8_ab.jpg</image>
-    <start>05:30AM</start>
     <finish>06:00AM</finish>
     <date>05 May 2025</date>
   </channel>
   <channel>
     <name>Global News BC1 CA</name>
-    <title>Global News Hour</title>
-    <desc>Evening news.</desc>
-    <image>http://dshm.tmsimg.com/assets/p13159533_b_h10_ab.jpg</image>
-    <start>06:00AM</start>
-    <finish>07:00AM</finish>
-    <date>05 May 2025</date>
-  </channel>
-  <channel>
-    <name>Global News BC1 CA</name>
     <title>BC1 News Evening</title>
     <desc></desc>
     <image>http://dshm.tmsimg.com/assets/p13362594_b_h10_aa.jpg</image>
-    <start>07:00AM</start>
-    <finish>07:30AM</finish>
+    <start>06:00AM</start>
+    <finish>06:30AM</finish>
     <date>05 May 2025</date>
   </channel>
   <channel>
@@ -707,7 +725,25 @@
     <title>Focus BC</title>
     <desc>Highlights and discussions about the latest civic political issues and interviews with local leaders and candidates.</desc>
     <image>http://dshm.tmsimg.com/assets/p15931847_b_h8_ab.jpg</image>
-    <start>07:30AM</start>
+    <start>06:30AM</start>
+    <finish>07:00AM</finish>
+    <date>05 May 2025</date>
+  </channel>
+  <channel>
+    <name>Global News BC1 CA</name>
+    <title>Global News at 11</title>
+    <desc>British Columbia's local news stories and weather.</desc>
+    <image>http://dshm.tmsimg.com/assets/p12105349_b_h10_ab.jpg</image>
+    <start>07:00AM</start>
+    <finish>07:32AM</finish>
+    <date>05 May 2025</date>
+  </channel>
+  <channel>
+    <name>Global News BC1 CA</name>
+    <title>The West Block</title>
+    <desc>Concerns of Canadians are brought to the politicians.</desc>
+    <image>http://dshm.tmsimg.com/assets/p8843295_b_h10_ah.jpg</image>
+    <start>07:32AM</start>
     <finish>08:00AM</finish>
     <date>05 May 2025</date>
   </channel>
@@ -717,7 +753,7 @@
     <desc>British Columbia's local news stories and weather.</desc>
     <image>http://dshm.tmsimg.com/assets/p12105349_b_h10_ab.jpg</image>
     <start>08:00AM</start>
-    <finish>08:32AM</finish>
+    <finish>08:30AM</finish>
     <date>05 May 2025</date>
   </channel>
   <channel>
@@ -725,44 +761,26 @@
     <title>The West Block</title>
     <desc>Concerns of Canadians are brought to the politicians.</desc>
     <image>http://dshm.tmsimg.com/assets/p8843295_b_h10_ah.jpg</image>
-    <start>08:32AM</start>
+    <start>08:30AM</start>
     <finish>09:00AM</finish>
     <date>05 May 2025</date>
   </channel>
   <channel>
     <name>Global News BC1 CA</name>
-    <title>Global News at 11</title>
-    <desc>British Columbia's local news stories and weather.</desc>
-    <image>http://dshm.tmsimg.com/assets/p12105349_b_h10_ab.jpg</image>
+    <title>BC1 News Evening</title>
+    <desc></desc>
+    <image>http://dshm.tmsimg.com/assets/p13362594_b_h10_aa.jpg</image>
     <start>09:00AM</start>
     <finish>09:30AM</finish>
     <date>05 May 2025</date>
   </channel>
   <channel>
     <name>Global News BC1 CA</name>
-    <title>The West Block</title>
-    <desc>Concerns of Canadians are brought to the politicians.</desc>
-    <image>http://dshm.tmsimg.com/assets/p8843295_b_h10_ah.jpg</image>
-    <start>09:30AM</start>
-    <finish>10:00AM</finish>
-    <date>05 May 2025</date>
-  </channel>
-  <channel>
-    <name>Global News BC1 CA</name>
-    <title>BC1 News Evening</title>
-    <desc></desc>
-    <image>http://dshm.tmsimg.com/assets/p13362594_b_h10_aa.jpg</image>
-    <start>10:00AM</start>
-    <finish>10:30AM</finish>
-    <date>05 May 2025</date>
-  </channel>
-  <channel>
-    <name>Global News BC1 CA</name>
     <title>Global National</title>
     <desc>The top stories from around the world.</desc>
     <image>http://dshm.tmsimg.com/assets/p185876_b_h8_ae.jpg</image>
-    <start>10:30AM</start>
-    <finish>11:00AM</finish>
+    <start>09:30AM</start>
+    <finish>10:00AM</finish>
     <date>05 May 2025</date>
   </channel>
   <channel>
@@ -770,8 +788,8 @@
     <title>Global News Hour</title>
     <desc>Evening news.</desc>
     <image>http://dshm.tmsimg.com/assets/p13159533_b_h10_ab.jpg</image>
-    <start>11:00AM</start>
-    <finish>12:00PM</finish>
+    <start>10:00AM</start>
+    <finish>11:00AM</finish>
     <date>05 May 2025</date>
   </channel>
   <channel>
@@ -779,34 +797,43 @@
     <title>BC1 News Evening</title>
     <desc></desc>
     <image>http://dshm.tmsimg.com/assets/p13362594_b_h10_aa.jpg</image>
+    <start>11:00AM</start>
+    <finish>11:30AM</finish>
+    <date>05 May 2025</date>
+  </channel>
+  <channel>
+    <name>Global News BC1 CA</name>
+    <title>Global National</title>
+    <desc>The top stories from around the world.</desc>
+    <image>http://dshm.tmsimg.com/assets/p185876_b_h8_ae.jpg</image>
+    <start>11:30AM</start>
+    <finish>12:00PM</finish>
+    <date>05 May 2025</date>
+  </channel>
+  <channel>
+    <name>Global News BC1 CA</name>
+    <title>The West Block</title>
+    <desc>Concerns of Canadians are brought to the politicians.</desc>
+    <image>http://dshm.tmsimg.com/assets/p8843295_b_h10_ah.jpg</image>
     <start>12:00PM</start>
     <finish>12:30PM</finish>
     <date>05 May 2025</date>
   </channel>
   <channel>
     <name>Global News BC1 CA</name>
-    <title>Global National</title>
-    <desc>The top stories from around the world.</desc>
-    <image>http://dshm.tmsimg.com/assets/p185876_b_h8_ae.jpg</image>
+    <title>BC1 News Evening</title>
+    <desc></desc>
+    <image>http://dshm.tmsimg.com/assets/p13362594_b_h10_aa.jpg</image>
     <start>12:30PM</start>
     <finish>01:00PM</finish>
     <date>05 May 2025</date>
   </channel>
   <channel>
     <name>Global News BC1 CA</name>
-    <title>The West Block</title>
-    <desc>Concerns of Canadians are brought to the politicians.</desc>
-    <image>http://dshm.tmsimg.com/assets/p8843295_b_h10_ah.jpg</image>
+    <title>Global News Morning</title>
+    <desc>British Columbia's local news and information.</desc>
+    <image>http://dshm.tmsimg.com/assets/p808393_b_h10_ab.jpg</image>
     <start>01:00PM</start>
-    <finish>01:30PM</finish>
-    <date>05 May 2025</date>
-  </channel>
-  <channel>
-    <name>Global News BC1 CA</name>
-    <title>BC1 News Evening</title>
-    <desc></desc>
-    <image>http://dshm.tmsimg.com/assets/p13362594_b_h10_aa.jpg</image>
-    <start>01:30PM</start>
     <finish>02:00PM</finish>
     <date>05 May 2025</date>
   </channel>
@@ -816,15 +843,24 @@
     <desc>British Columbia's local news and information.</desc>
     <image>http://dshm.tmsimg.com/assets/p808393_b_h10_ab.jpg</image>
     <start>02:00PM</start>
-    <finish>03:00PM</finish>
+    <finish>05:00PM</finish>
     <date>05 May 2025</date>
   </channel>
   <channel>
     <name>Global News BC1 CA</name>
-    <title>Global News Morning</title>
-    <desc>British Columbia's local news and information.</desc>
-    <image>http://dshm.tmsimg.com/assets/p808393_b_h10_ab.jpg</image>
-    <start>03:00PM</start>
+    <title>BC 1 News</title>
+    <desc>Weather, sports and breaking news, led by a team of anchors.</desc>
+    <image>http://dshm.tmsimg.com/assets/p9826413_b_h10_aa.jpg</image>
+    <start>05:00PM</start>
+    <finish>05:30PM</finish>
+    <date>05 May 2025</date>
+  </channel>
+  <channel>
+    <name>Global News BC1 CA</name>
+    <title>BC 1 News</title>
+    <desc>Weather, sports and breaking news, led by a team of anchors.</desc>
+    <image>http://dshm.tmsimg.com/assets/p9826413_b_h10_aa.jpg</image>
+    <start>05:30PM</start>
     <finish>06:00PM</finish>
     <date>05 May 2025</date>
   </channel>
@@ -866,19 +902,10 @@
   </channel>
   <channel>
     <name>Global News BC1 CA</name>
-    <title>BC 1 News</title>
-    <desc>Weather, sports and breaking news, led by a team of anchors.</desc>
-    <image>http://dshm.tmsimg.com/assets/p9826413_b_h10_aa.jpg</image>
+    <title>Global News at Noon</title>
+    <desc>British Columbia's local news and information.</desc>
+    <image>http://dshm.tmsimg.com/assets/p831438_b_h10_ac.jpg</image>
     <start>08:00PM</start>
-    <finish>08:30PM</finish>
-    <date>05 May 2025</date>
-  </channel>
-  <channel>
-    <name>Global News BC1 CA</name>
-    <title>BC 1 News</title>
-    <desc>Weather, sports and breaking news, led by a team of anchors.</desc>
-    <image>http://dshm.tmsimg.com/assets/p9826413_b_h10_aa.jpg</image>
-    <start>08:30PM</start>
     <finish>09:00PM</finish>
     <date>05 May 2025</date>
   </channel>
@@ -893,10 +920,19 @@
   </channel>
   <channel>
     <name>Global News BC1 CA</name>
-    <title>Global News at Noon</title>
-    <desc>British Columbia's local news and information.</desc>
-    <image>http://dshm.tmsimg.com/assets/p831438_b_h10_ac.jpg</image>
+    <title>BC 1 News</title>
+    <desc>Weather, sports and breaking news, led by a team of anchors.</desc>
+    <image>http://dshm.tmsimg.com/assets/p9826413_b_h10_aa.jpg</image>
     <start>10:00PM</start>
+    <finish>10:30PM</finish>
+    <date>05 May 2025</date>
+  </channel>
+  <channel>
+    <name>Global News BC1 CA</name>
+    <title>Global National</title>
+    <desc>The top stories from around the world.</desc>
+    <image>http://dshm.tmsimg.com/assets/p185876_b_h8_ae.jpg</image>
+    <start>10:30PM</start>
     <finish>11:00PM</finish>
     <date>05 May 2025</date>
   </channel>
@@ -906,15 +942,6 @@
     <desc>Weather, sports and breaking news, led by a team of anchors.</desc>
     <image>http://dshm.tmsimg.com/assets/p9826413_b_h10_aa.jpg</image>
     <start>11:00PM</start>
-    <finish>11:30PM</finish>
-    <date>05 May 2025</date>
-  </channel>
-  <channel>
-    <name>Global News BC1 CA</name>
-    <title>Global National</title>
-    <desc>The top stories from around the world.</desc>
-    <image>http://dshm.tmsimg.com/assets/p185876_b_h8_ae.jpg</image>
-    <start>11:30PM</start>
     <finish>12:00AM</finish>
     <date>05 May 2025</date>
   </channel>
@@ -925,15 +952,6 @@
     <image>http://dshm.tmsimg.com/assets/p9826413_b_h10_aa.jpg</image>
     <start>12:00AM</start>
     <finish>01:00AM</finish>
-    <date>06 May 2025</date>
-  </channel>
-  <channel>
-    <name>Global News BC1 CA</name>
-    <title>BC 1 News</title>
-    <desc>Weather, sports and breaking news, led by a team of anchors.</desc>
-    <image>http://dshm.tmsimg.com/assets/p9826413_b_h10_aa.jpg</image>
-    <start>01:00AM</start>
-    <finish>02:00AM</finish>
     <date>06 May 2025</date>
   </channel>
   <channel>
@@ -941,8 +959,8 @@
     <title>Global News at 5</title>
     <desc>British Columbia's local news and information.</desc>
     <image>http://dshm.tmsimg.com/assets/p661404_b_h10_ab.jpg</image>
-    <start>02:00AM</start>
-    <finish>02:30AM</finish>
+    <start>01:00AM</start>
+    <finish>01:30AM</finish>
     <date>06 May 2025</date>
   </channel>
   <channel>
@@ -950,8 +968,8 @@
     <title>Global National</title>
     <desc>The top stories from around the world.</desc>
     <image>http://dshm.tmsimg.com/assets/p185876_b_h8_ae.jpg</image>
-    <start>02:30AM</start>
-    <finish>02:59AM</finish>
+    <start>01:30AM</start>
+    <finish>01:59AM</finish>
     <date>06 May 2025</date>
   </channel>
   <channel>
@@ -959,17 +977,17 @@
     <title>Global News Hour</title>
     <desc>Evening news.</desc>
     <image>http://dshm.tmsimg.com/assets/p13159533_b_h10_ab.jpg</image>
-    <start>02:59AM</start>
+    <start>01:59AM</start>
+    <finish>03:00AM</finish>
+    <date>06 May 2025</date>
+  </channel>
+  <channel>
+    <name>Global News BC1 CA</name>
+    <title>Global News Hour</title>
+    <desc>Evening news.</desc>
+    <image>http://dshm.tmsimg.com/assets/p13159533_b_h10_ab.jpg</image>
+    <start>03:00AM</start>
     <finish>04:00AM</finish>
-    <date>06 May 2025</date>
-  </channel>
-  <channel>
-    <name>Global News BC1 CA</name>
-    <title>Global News Hour</title>
-    <desc>Evening news.</desc>
-    <image>http://dshm.tmsimg.com/assets/p13159533_b_h10_ab.jpg</image>
-    <start>04:00AM</start>
-    <finish>05:00AM</finish>
     <date>06 May 2025</date>
   </channel>
   <channel>
@@ -977,26 +995,26 @@
     <title>BC1 News Evening</title>
     <desc></desc>
     <image>http://dshm.tmsimg.com/assets/p13362594_b_h10_aa.jpg</image>
+    <start>04:00AM</start>
+    <finish>04:30AM</finish>
+    <date>06 May 2025</date>
+  </channel>
+  <channel>
+    <name>Global News BC1 CA</name>
+    <title>Global National</title>
+    <desc>The top stories from around the world.</desc>
+    <image>http://dshm.tmsimg.com/assets/p185876_b_h8_ae.jpg</image>
+    <start>04:30AM</start>
+    <finish>05:00AM</finish>
+    <date>06 May 2025</date>
+  </channel>
+  <channel>
+    <name>Global News BC1 CA</name>
+    <title>Global National</title>
+    <desc>The top stories from around the world.</desc>
+    <image>http://dshm.tmsimg.com/assets/p185876_b_h8_ae.jpg</image>
     <start>05:00AM</start>
     <finish>05:30AM</finish>
-    <date>06 May 2025</date>
-  </channel>
-  <channel>
-    <name>Global News BC1 CA</name>
-    <title>Global National</title>
-    <desc>The top stories from around the world.</desc>
-    <image>http://dshm.tmsimg.com/assets/p185876_b_h8_ae.jpg</image>
-    <start>05:30AM</start>
-    <finish>06:00AM</finish>
-    <date>06 May 2025</date>
-  </channel>
-  <channel>
-    <name>Global News BC1 CA</name>
-    <title>Global National</title>
-    <desc>The top stories from around the world.</desc>
-    <image>http://dshm.tmsimg.com/assets/p185876_b_h8_ae.jpg</image>
-    <start>06:00AM</start>
-    <finish>06:30AM</finish>
     <date>06 May 2025</date>
   </channel>
   <channel>
@@ -1004,35 +1022,35 @@
     <title>Global News on BC1</title>
     <desc></desc>
     <image>http://dshm.tmsimg.com/assets/p12987183_b_h10_ac.jpg</image>
+    <start>05:30AM</start>
+    <finish>06:00AM</finish>
+    <date>06 May 2025</date>
+  </channel>
+  <channel>
+    <name>Global News BC1 CA</name>
+    <title>BC1 News Evening</title>
+    <desc></desc>
+    <image>http://dshm.tmsimg.com/assets/p13362594_b_h10_aa.jpg</image>
+    <start>06:00AM</start>
+    <finish>06:30AM</finish>
+    <date>06 May 2025</date>
+  </channel>
+  <channel>
+    <name>Global News BC1 CA</name>
+    <title>Global National</title>
+    <desc>The top stories from around the world.</desc>
+    <image>http://dshm.tmsimg.com/assets/p185876_b_h8_ae.jpg</image>
     <start>06:30AM</start>
     <finish>07:00AM</finish>
     <date>06 May 2025</date>
   </channel>
   <channel>
     <name>Global News BC1 CA</name>
-    <title>BC1 News Evening</title>
-    <desc></desc>
-    <image>http://dshm.tmsimg.com/assets/p13362594_b_h10_aa.jpg</image>
-    <start>07:00AM</start>
-    <finish>07:30AM</finish>
-    <date>06 May 2025</date>
-  </channel>
-  <channel>
-    <name>Global News BC1 CA</name>
-    <title>Global National</title>
-    <desc>The top stories from around the world.</desc>
-    <image>http://dshm.tmsimg.com/assets/p185876_b_h8_ae.jpg</image>
-    <start>07:30AM</start>
-    <finish>08:00AM</finish>
-    <date>06 May 2025</date>
-  </channel>
-  <channel>
-    <name>Global News BC1 CA</name>
     <title>Global News at 11</title>
     <desc>British Columbia's local news stories and weather.</desc>
     <image>http://dshm.tmsimg.com/assets/p12105349_b_h10_ab.jpg</image>
-    <start>08:00AM</start>
-    <finish>09:05AM</finish>
+    <start>07:00AM</start>
+    <finish>08:05AM</finish>
     <date>06 May 2025</date>
   </channel>
   <channel>
@@ -1040,8 +1058,8 @@
     <title>BC1 News Evening</title>
     <desc></desc>
     <image>http://dshm.tmsimg.com/assets/p13362594_b_h10_aa.jpg</image>
-    <start>09:05AM</start>
-    <finish>09:30AM</finish>
+    <start>08:05AM</start>
+    <finish>08:30AM</finish>
     <date>06 May 2025</date>
   </channel>
   <channel>
@@ -1049,8 +1067,8 @@
     <title>Global National</title>
     <desc>The top stories from around the world.</desc>
     <image>http://dshm.tmsimg.com/assets/p185876_b_h8_ae.jpg</image>
-    <start>09:30AM</start>
-    <finish>10:00AM</finish>
+    <start>08:30AM</start>
+    <finish>09:00AM</finish>
     <date>06 May 2025</date>
   </channel>
   <channel>
@@ -1058,33 +1076,42 @@
     <title>Global News Hour</title>
     <desc>Evening news.</desc>
     <image>http://dshm.tmsimg.com/assets/p13159533_b_h10_ab.jpg</image>
+    <start>09:00AM</start>
+    <finish>10:00AM</finish>
+    <date>06 May 2025</date>
+  </channel>
+  <channel>
+    <name>Global News BC1 CA</name>
+    <title>Global News at 11</title>
+    <desc>British Columbia's local news stories and weather.</desc>
+    <image>http://dshm.tmsimg.com/assets/p12105349_b_h10_ab.jpg</image>
     <start>10:00AM</start>
     <finish>11:00AM</finish>
     <date>06 May 2025</date>
   </channel>
   <channel>
     <name>Global News BC1 CA</name>
-    <title>Global News at 11</title>
-    <desc>British Columbia's local news stories and weather.</desc>
-    <image>http://dshm.tmsimg.com/assets/p12105349_b_h10_ab.jpg</image>
+    <title>Global News Hour</title>
+    <desc>Evening news.</desc>
+    <image>http://dshm.tmsimg.com/assets/p13159533_b_h10_ab.jpg</image>
     <start>11:00AM</start>
     <finish>12:00PM</finish>
     <date>06 May 2025</date>
   </channel>
   <channel>
     <name>Global News BC1 CA</name>
-    <title>Global News Hour</title>
-    <desc>Evening news.</desc>
-    <image>http://dshm.tmsimg.com/assets/p13159533_b_h10_ab.jpg</image>
+    <title>Global News at 11</title>
+    <desc>British Columbia's local news stories and weather.</desc>
+    <image>http://dshm.tmsimg.com/assets/p12105349_b_h10_ab.jpg</image>
     <start>12:00PM</start>
     <finish>01:00PM</finish>
     <date>06 May 2025</date>
   </channel>
   <channel>
     <name>Global News BC1 CA</name>
-    <title>Global News at 11</title>
-    <desc>British Columbia's local news stories and weather.</desc>
-    <image>http://dshm.tmsimg.com/assets/p12105349_b_h10_ab.jpg</image>
+    <title>Global News Morning</title>
+    <desc>British Columbia's local news and information.</desc>
+    <image>http://dshm.tmsimg.com/assets/p808393_b_h10_ab.jpg</image>
     <start>01:00PM</start>
     <finish>02:00PM</finish>
     <date>06 May 2025</date>
@@ -1095,15 +1122,24 @@
     <desc>British Columbia's local news and information.</desc>
     <image>http://dshm.tmsimg.com/assets/p808393_b_h10_ab.jpg</image>
     <start>02:00PM</start>
-    <finish>03:00PM</finish>
+    <finish>05:00PM</finish>
     <date>06 May 2025</date>
   </channel>
   <channel>
     <name>Global News BC1 CA</name>
-    <title>Global News Morning</title>
-    <desc>British Columbia's local news and information.</desc>
-    <image>http://dshm.tmsimg.com/assets/p808393_b_h10_ab.jpg</image>
-    <start>03:00PM</start>
+    <title>BC 1 News</title>
+    <desc>Weather, sports and breaking news, led by a team of anchors.</desc>
+    <image>http://dshm.tmsimg.com/assets/p9826413_b_h10_aa.jpg</image>
+    <start>05:00PM</start>
+    <finish>05:30PM</finish>
+    <date>06 May 2025</date>
+  </channel>
+  <channel>
+    <name>Global News BC1 CA</name>
+    <title>BC 1 News</title>
+    <desc>Weather, sports and breaking news, led by a team of anchors.</desc>
+    <image>http://dshm.tmsimg.com/assets/p9826413_b_h10_aa.jpg</image>
+    <start>05:30PM</start>
     <finish>06:00PM</finish>
     <date>06 May 2025</date>
   </channel>
@@ -1145,19 +1181,10 @@
   </channel>
   <channel>
     <name>Global News BC1 CA</name>
-    <title>BC 1 News</title>
-    <desc>Weather, sports and breaking news, led by a team of anchors.</desc>
-    <image>http://dshm.tmsimg.com/assets/p9826413_b_h10_aa.jpg</image>
+    <title>Global News at Noon</title>
+    <desc>British Columbia's local news and information.</desc>
+    <image>http://dshm.tmsimg.com/assets/p831438_b_h10_ac.jpg</image>
     <start>08:00PM</start>
-    <finish>08:30PM</finish>
-    <date>06 May 2025</date>
-  </channel>
-  <channel>
-    <name>Global News BC1 CA</name>
-    <title>BC 1 News</title>
-    <desc>Weather, sports and breaking news, led by a team of anchors.</desc>
-    <image>http://dshm.tmsimg.com/assets/p9826413_b_h10_aa.jpg</image>
-    <start>08:30PM</start>
     <finish>09:00PM</finish>
     <date>06 May 2025</date>
   </channel>
@@ -1172,10 +1199,19 @@
   </channel>
   <channel>
     <name>Global News BC1 CA</name>
-    <title>Global News at Noon</title>
-    <desc>British Columbia's local news and information.</desc>
-    <image>http://dshm.tmsimg.com/assets/p831438_b_h10_ac.jpg</image>
+    <title>BC 1 News</title>
+    <desc>Weather, sports and breaking news, led by a team of anchors.</desc>
+    <image>http://dshm.tmsimg.com/assets/p9826413_b_h10_aa.jpg</image>
     <start>10:00PM</start>
+    <finish>10:30PM</finish>
+    <date>06 May 2025</date>
+  </channel>
+  <channel>
+    <name>Global News BC1 CA</name>
+    <title>Global National</title>
+    <desc>The top stories from around the world.</desc>
+    <image>http://dshm.tmsimg.com/assets/p185876_b_h8_ae.jpg</image>
+    <start>10:30PM</start>
     <finish>11:00PM</finish>
     <date>06 May 2025</date>
   </channel>
@@ -1185,15 +1221,6 @@
     <desc>Weather, sports and breaking news, led by a team of anchors.</desc>
     <image>http://dshm.tmsimg.com/assets/p9826413_b_h10_aa.jpg</image>
     <start>11:00PM</start>
-    <finish>11:30PM</finish>
-    <date>06 May 2025</date>
-  </channel>
-  <channel>
-    <name>Global News BC1 CA</name>
-    <title>Global National</title>
-    <desc>The top stories from around the world.</desc>
-    <image>http://dshm.tmsimg.com/assets/p185876_b_h8_ae.jpg</image>
-    <start>11:30PM</start>
     <finish>12:00AM</finish>
     <date>06 May 2025</date>
   </channel>
@@ -1204,15 +1231,6 @@
     <image>http://dshm.tmsimg.com/assets/p9826413_b_h10_aa.jpg</image>
     <start>12:00AM</start>
     <finish>01:00AM</finish>
-    <date>07 May 2025</date>
-  </channel>
-  <channel>
-    <name>Global News BC1 CA</name>
-    <title>BC 1 News</title>
-    <desc>Weather, sports and breaking news, led by a team of anchors.</desc>
-    <image>http://dshm.tmsimg.com/assets/p9826413_b_h10_aa.jpg</image>
-    <start>01:00AM</start>
-    <finish>02:00AM</finish>
     <date>07 May 2025</date>
   </channel>
   <channel>
@@ -1220,8 +1238,8 @@
     <title>Global News at 5</title>
     <desc>British Columbia's local news and information.</desc>
     <image>http://dshm.tmsimg.com/assets/p661404_b_h10_ab.jpg</image>
-    <start>02:00AM</start>
-    <finish>02:30AM</finish>
+    <start>01:00AM</start>
+    <finish>01:30AM</finish>
     <date>07 May 2025</date>
   </channel>
   <channel>
@@ -1229,8 +1247,8 @@
     <title>Global National</title>
     <desc>The top stories from around the world.</desc>
     <image>http://dshm.tmsimg.com/assets/p185876_b_h8_ae.jpg</image>
-    <start>02:30AM</start>
-    <finish>02:59AM</finish>
+    <start>01:30AM</start>
+    <finish>01:59AM</finish>
     <date>07 May 2025</date>
   </channel>
   <channel>
@@ -1238,17 +1256,17 @@
     <title>Global News Hour</title>
     <desc>Evening news.</desc>
     <image>http://dshm.tmsimg.com/assets/p13159533_b_h10_ab.jpg</image>
-    <start>02:59AM</start>
+    <start>01:59AM</start>
+    <finish>03:00AM</finish>
+    <date>07 May 2025</date>
+  </channel>
+  <channel>
+    <name>Global News BC1 CA</name>
+    <title>Global News Hour</title>
+    <desc>Evening news.</desc>
+    <image>http://dshm.tmsimg.com/assets/p13159533_b_h10_ab.jpg</image>
+    <start>03:00AM</start>
     <finish>04:00AM</finish>
-    <date>07 May 2025</date>
-  </channel>
-  <channel>
-    <name>Global News BC1 CA</name>
-    <title>Global News Hour</title>
-    <desc>Evening news.</desc>
-    <image>http://dshm.tmsimg.com/assets/p13159533_b_h10_ab.jpg</image>
-    <start>04:00AM</start>
-    <finish>05:00AM</finish>
     <date>07 May 2025</date>
   </channel>
   <channel>
@@ -1256,26 +1274,26 @@
     <title>BC1 News Evening</title>
     <desc></desc>
     <image>http://dshm.tmsimg.com/assets/p13362594_b_h10_aa.jpg</image>
+    <start>04:00AM</start>
+    <finish>04:30AM</finish>
+    <date>07 May 2025</date>
+  </channel>
+  <channel>
+    <name>Global News BC1 CA</name>
+    <title>Global National</title>
+    <desc>The top stories from around the world.</desc>
+    <image>http://dshm.tmsimg.com/assets/p185876_b_h8_ae.jpg</image>
+    <start>04:30AM</start>
+    <finish>05:00AM</finish>
+    <date>07 May 2025</date>
+  </channel>
+  <channel>
+    <name>Global News BC1 CA</name>
+    <title>Global National</title>
+    <desc>The top stories from around the world.</desc>
+    <image>http://dshm.tmsimg.com/assets/p185876_b_h8_ae.jpg</image>
     <start>05:00AM</start>
     <finish>05:30AM</finish>
-    <date>07 May 2025</date>
-  </channel>
-  <channel>
-    <name>Global News BC1 CA</name>
-    <title>Global National</title>
-    <desc>The top stories from around the world.</desc>
-    <image>http://dshm.tmsimg.com/assets/p185876_b_h8_ae.jpg</image>
-    <start>05:30AM</start>
-    <finish>06:00AM</finish>
-    <date>07 May 2025</date>
-  </channel>
-  <channel>
-    <name>Global News BC1 CA</name>
-    <title>Global National</title>
-    <desc>The top stories from around the world.</desc>
-    <image>http://dshm.tmsimg.com/assets/p185876_b_h8_ae.jpg</image>
-    <start>06:00AM</start>
-    <finish>06:30AM</finish>
     <date>07 May 2025</date>
   </channel>
   <channel>
@@ -1283,35 +1301,35 @@
     <title>Global News on BC1</title>
     <desc></desc>
     <image>http://dshm.tmsimg.com/assets/p12987183_b_h10_ac.jpg</image>
+    <start>05:30AM</start>
+    <finish>06:00AM</finish>
+    <date>07 May 2025</date>
+  </channel>
+  <channel>
+    <name>Global News BC1 CA</name>
+    <title>BC1 News Evening</title>
+    <desc></desc>
+    <image>http://dshm.tmsimg.com/assets/p13362594_b_h10_aa.jpg</image>
+    <start>06:00AM</start>
+    <finish>06:30AM</finish>
+    <date>07 May 2025</date>
+  </channel>
+  <channel>
+    <name>Global News BC1 CA</name>
+    <title>Global National</title>
+    <desc>The top stories from around the world.</desc>
+    <image>http://dshm.tmsimg.com/assets/p185876_b_h8_ae.jpg</image>
     <start>06:30AM</start>
     <finish>07:00AM</finish>
     <date>07 May 2025</date>
   </channel>
   <channel>
     <name>Global News BC1 CA</name>
-    <title>BC1 News Evening</title>
-    <desc></desc>
-    <image>http://dshm.tmsimg.com/assets/p13362594_b_h10_aa.jpg</image>
-    <start>07:00AM</start>
-    <finish>07:30AM</finish>
-    <date>07 May 2025</date>
-  </channel>
-  <channel>
-    <name>Global News BC1 CA</name>
-    <title>Global National</title>
-    <desc>The top stories from around the world.</desc>
-    <image>http://dshm.tmsimg.com/assets/p185876_b_h8_ae.jpg</image>
-    <start>07:30AM</start>
-    <finish>08:00AM</finish>
-    <date>07 May 2025</date>
-  </channel>
-  <channel>
-    <name>Global News BC1 CA</name>
     <title>Global News at 11</title>
     <desc>British Columbia's local news stories and weather.</desc>
     <image>http://dshm.tmsimg.com/assets/p12105349_b_h10_ab.jpg</image>
-    <start>08:00AM</start>
-    <finish>09:05AM</finish>
+    <start>07:00AM</start>
+    <finish>08:05AM</finish>
     <date>07 May 2025</date>
   </channel>
   <channel>
@@ -1319,8 +1337,8 @@
     <title>BC1 News Evening</title>
     <desc></desc>
     <image>http://dshm.tmsimg.com/assets/p13362594_b_h10_aa.jpg</image>
-    <start>09:05AM</start>
-    <finish>09:30AM</finish>
+    <start>08:05AM</start>
+    <finish>08:30AM</finish>
     <date>07 May 2025</date>
   </channel>
   <channel>
@@ -1328,8 +1346,8 @@
     <title>Global National</title>
     <desc>The top stories from around the world.</desc>
     <image>http://dshm.tmsimg.com/assets/p185876_b_h8_ae.jpg</image>
-    <start>09:30AM</start>
-    <finish>10:00AM</finish>
+    <start>08:30AM</start>
+    <finish>09:00AM</finish>
     <date>07 May 2025</date>
   </channel>
   <channel>
@@ -1337,33 +1355,42 @@
     <title>Global News Hour</title>
     <desc>Evening news.</desc>
     <image>http://dshm.tmsimg.com/assets/p13159533_b_h10_ab.jpg</image>
+    <start>09:00AM</start>
+    <finish>10:00AM</finish>
+    <date>07 May 2025</date>
+  </channel>
+  <channel>
+    <name>Global News BC1 CA</name>
+    <title>Global News at 11</title>
+    <desc>British Columbia's local news stories and weather.</desc>
+    <image>http://dshm.tmsimg.com/assets/p12105349_b_h10_ab.jpg</image>
     <start>10:00AM</start>
     <finish>11:00AM</finish>
     <date>07 May 2025</date>
   </channel>
   <channel>
     <name>Global News BC1 CA</name>
-    <title>Global News at 11</title>
-    <desc>British Columbia's local news stories and weather.</desc>
-    <image>http://dshm.tmsimg.com/assets/p12105349_b_h10_ab.jpg</image>
+    <title>Global News Hour</title>
+    <desc>Evening news.</desc>
+    <image>http://dshm.tmsimg.com/assets/p13159533_b_h10_ab.jpg</image>
     <start>11:00AM</start>
     <finish>12:00PM</finish>
     <date>07 May 2025</date>
   </channel>
   <channel>
     <name>Global News BC1 CA</name>
-    <title>Global News Hour</title>
-    <desc>Evening news.</desc>
-    <image>http://dshm.tmsimg.com/assets/p13159533_b_h10_ab.jpg</image>
+    <title>Global News at 11</title>
+    <desc>British Columbia's local news stories and weather.</desc>
+    <image>http://dshm.tmsimg.com/assets/p12105349_b_h10_ab.jpg</image>
     <start>12:00PM</start>
     <finish>01:00PM</finish>
     <date>07 May 2025</date>
   </channel>
   <channel>
     <name>Global News BC1 CA</name>
-    <title>Global News at 11</title>
-    <desc>British Columbia's local news stories and weather.</desc>
-    <image>http://dshm.tmsimg.com/assets/p12105349_b_h10_ab.jpg</image>
+    <title>Global News Morning</title>
+    <desc>British Columbia's local news and information.</desc>
+    <image>http://dshm.tmsimg.com/assets/p808393_b_h10_ab.jpg</image>
     <start>01:00PM</start>
     <finish>02:00PM</finish>
     <date>07 May 2025</date>
@@ -1374,15 +1401,24 @@
     <desc>British Columbia's local news and information.</desc>
     <image>http://dshm.tmsimg.com/assets/p808393_b_h10_ab.jpg</image>
     <start>02:00PM</start>
-    <finish>03:00PM</finish>
+    <finish>05:00PM</finish>
     <date>07 May 2025</date>
   </channel>
   <channel>
     <name>Global News BC1 CA</name>
-    <title>Global News Morning</title>
-    <desc>British Columbia's local news and information.</desc>
-    <image>http://dshm.tmsimg.com/assets/p808393_b_h10_ab.jpg</image>
-    <start>03:00PM</start>
+    <title>BC 1 News</title>
+    <desc>Weather, sports and breaking news, led by a team of anchors.</desc>
+    <image>http://dshm.tmsimg.com/assets/p9826413_b_h10_aa.jpg</image>
+    <start>05:00PM</start>
+    <finish>05:30PM</finish>
+    <date>07 May 2025</date>
+  </channel>
+  <channel>
+    <name>Global News BC1 CA</name>
+    <title>BC 1 News</title>
+    <desc>Weather, sports and breaking news, led by a team of anchors.</desc>
+    <image>http://dshm.tmsimg.com/assets/p9826413_b_h10_aa.jpg</image>
+    <start>05:30PM</start>
     <finish>06:00PM</finish>
     <date>07 May 2025</date>
   </channel>
@@ -1424,19 +1460,10 @@
   </channel>
   <channel>
     <name>Global News BC1 CA</name>
-    <title>BC 1 News</title>
-    <desc>Weather, sports and breaking news, led by a team of anchors.</desc>
-    <image>http://dshm.tmsimg.com/assets/p9826413_b_h10_aa.jpg</image>
+    <title>Global News at Noon</title>
+    <desc>British Columbia's local news and information.</desc>
+    <image>http://dshm.tmsimg.com/assets/p831438_b_h10_ac.jpg</image>
     <start>08:00PM</start>
-    <finish>08:30PM</finish>
-    <date>07 May 2025</date>
-  </channel>
-  <channel>
-    <name>Global News BC1 CA</name>
-    <title>BC 1 News</title>
-    <desc>Weather, sports and breaking news, led by a team of anchors.</desc>
-    <image>http://dshm.tmsimg.com/assets/p9826413_b_h10_aa.jpg</image>
-    <start>08:30PM</start>
     <finish>09:00PM</finish>
     <date>07 May 2025</date>
   </channel>
@@ -1451,10 +1478,19 @@
   </channel>
   <channel>
     <name>Global News BC1 CA</name>
-    <title>Global News at Noon</title>
-    <desc>British Columbia's local news and information.</desc>
-    <image>http://dshm.tmsimg.com/assets/p831438_b_h10_ac.jpg</image>
+    <title>BC 1 News</title>
+    <desc>Weather, sports and breaking news, led by a team of anchors.</desc>
+    <image>http://dshm.tmsimg.com/assets/p9826413_b_h10_aa.jpg</image>
     <start>10:00PM</start>
+    <finish>10:30PM</finish>
+    <date>07 May 2025</date>
+  </channel>
+  <channel>
+    <name>Global News BC1 CA</name>
+    <title>Global National</title>
+    <desc>The top stories from around the world.</desc>
+    <image>http://dshm.tmsimg.com/assets/p185876_b_h8_ae.jpg</image>
+    <start>10:30PM</start>
     <finish>11:00PM</finish>
     <date>07 May 2025</date>
   </channel>
@@ -1464,15 +1500,6 @@
     <desc>Weather, sports and breaking news, led by a team of anchors.</desc>
     <image>http://dshm.tmsimg.com/assets/p9826413_b_h10_aa.jpg</image>
     <start>11:00PM</start>
-    <finish>11:30PM</finish>
-    <date>07 May 2025</date>
-  </channel>
-  <channel>
-    <name>Global News BC1 CA</name>
-    <title>Global National</title>
-    <desc>The top stories from around the world.</desc>
-    <image>http://dshm.tmsimg.com/assets/p185876_b_h8_ae.jpg</image>
-    <start>11:30PM</start>
     <finish>12:00AM</finish>
     <date>07 May 2025</date>
   </channel>
@@ -1483,15 +1510,6 @@
     <image>http://dshm.tmsimg.com/assets/p9826413_b_h10_aa.jpg</image>
     <start>12:00AM</start>
     <finish>01:00AM</finish>
-    <date>08 May 2025</date>
-  </channel>
-  <channel>
-    <name>Global News BC1 CA</name>
-    <title>BC 1 News</title>
-    <desc>Weather, sports and breaking news, led by a team of anchors.</desc>
-    <image>http://dshm.tmsimg.com/assets/p9826413_b_h10_aa.jpg</image>
-    <start>01:00AM</start>
-    <finish>02:00AM</finish>
     <date>08 May 2025</date>
   </channel>
 </tv>

@@ -2,11 +2,38 @@
 <tv>
   <channel>
     <name>Hír TV</name>
+    <title>Napi aktu?lis</title>
+    <desc>A nap legfontosabb h?reir?l besz?lget?nk az ?gyek f?szerepl?ivel ?s szak?rt? vend?geinkkel.</desc>
+    <image>https://media.port.hu/images/000/682/540.jpg</image>
+    <start>07:00PM</start>
+    <finish>08:00PM</finish>
+    <date>02 May 2025</date>
+  </channel>
+  <channel>
+    <name>Hír TV</name>
+    <title>Vez?rcikk - Olvasunk a sorok k?z?tt</title>
+    <desc>Nincs le?r?s.</desc>
+    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
+    <start>08:00PM</start>
+    <finish>09:00PM</finish>
+    <date>02 May 2025</date>
+  </channel>
+  <channel>
+    <name>Hír TV</name>
+    <title>H?rad?</title>
+    <desc>Nincs le?r?s.</desc>
+    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
+    <start>09:00PM</start>
+    <finish>09:30PM</finish>
+    <date>02 May 2025</date>
+  </channel>
+  <channel>
+    <name>Hír TV</name>
     <title>C?lpont</title>
     <desc>Vesz?lyekt?l sem mentes oknyomoz? munk?nk sor?n az?rt dolgozunk, mert ?nnek joga van tudni azt, amir?l a politikai ?let szerepl?i azt akarj?k, hogy ?n ne tudja.</desc>
     <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
-    <start>10:30PM</start>
-    <finish>11:30PM</finish>
+    <start>09:30PM</start>
+    <finish>10:30PM</finish>
     <date>02 May 2025</date>
   </channel>
   <channel>
@@ -14,8 +41,8 @@
     <title>Napi aktu?lis</title>
     <desc>A nap legfontosabb h?reir?l besz?lget?nk az ?gyek f?szerepl?ivel ?s szak?rt? vend?geinkkel.</desc>
     <image>https://media.port.hu/images/000/682/540.jpg</image>
-    <start>11:30PM</start>
-    <finish>12:30AM</finish>
+    <start>10:30PM</start>
+    <finish>11:30PM</finish>
     <date>02 May 2025</date>
   </channel>
   <channel>
@@ -23,17 +50,17 @@
     <title>Telev?zi?s v?s?rl?si m?sorablak</title>
     <desc>Nincs le?r?s.</desc>
     <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
-    <start>12:30AM</start>
-    <finish>01:30AM</finish>
-    <date>03 May 2025</date>
+    <start>11:30PM</start>
+    <finish>12:30AM</finish>
+    <date>02 May 2025</date>
   </channel>
   <channel>
     <name>Hír TV</name>
     <title>Hazah?z?</title>
     <desc>Nincs le?r?s.</desc>
     <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
-    <start>01:30AM</start>
-    <finish>02:15AM</finish>
+    <start>12:30AM</start>
+    <finish>01:15AM</finish>
     <date>03 May 2025</date>
   </channel>
   <channel>
@@ -41,8 +68,8 @@
     <title>Radar +</title>
     <desc>A m?sor izgalmas t?m?kkal ?s megk?zel?t?ssel pr?b?l a h?tk?znapi embereknek seg?teni olyan probl?m?k felt?r?s?val ?s megold?s?val amely a nagyk?z?ns?get ?rinti. A m?sor h?zigazd?i Budai Ivett ?s Eper M?rton.</desc>
     <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
-    <start>02:15AM</start>
-    <finish>02:30AM</finish>
+    <start>01:15AM</start>
+    <finish>01:30AM</finish>
     <date>03 May 2025</date>
   </channel>
   <channel>
@@ -50,8 +77,8 @@
     <title>Radar</title>
     <desc>Nincs le?r?s.</desc>
     <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
-    <start>02:30AM</start>
-    <finish>03:00AM</finish>
+    <start>01:30AM</start>
+    <finish>02:00AM</finish>
     <date>03 May 2025</date>
   </channel>
   <channel>
@@ -59,13 +86,22 @@
     <title>Vet?t?</title>
     <desc>Rendez?: Papp G?bor Zsigmond K?lf?ld?n a legismertebb ?s legt?bbet ford?tott magyar ?r? Szab? Magda. M?veit t?bb mint 40 nyelvre ford?tott?k le, t?bbre, mint a Nobel-d?jas Kert?sz Imr?t, vagy a kor?bbi listavezet? M?rai S?ndort. A legnagyobb vil?gsiker az 1987-ben megjelent Az ajt? c?m? reg?ny lett. A Le Figaro kritikusa ezt ?rta: &quot;A magyar irodalom ?kk?ve, csak Flaubert-hez ?s Prousthoz m?rhet?.&quot;. A filmben neves magyar, angol, n?met, francia ?s olasz rendez?k, sz?n?szn?k, ?r?k, m?ford?t?k ?s k?nyvkiad?k besz?lnek Szab? Magda jelent?s?g?r?l.</desc>
     <image>https://media.port.hu/images/000/856/530.jpg</image>
+    <start>02:00AM</start>
+    <finish>03:00AM</finish>
+    <date>03 May 2025</date>
+  </channel>
+  <channel>
+    <name>Hír TV</name>
+    <title>Vez?rcikk - Olvasunk a sorok k?z?tt</title>
+    <desc>Nincs le?r?s.</desc>
+    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
     <start>03:00AM</start>
     <finish>04:00AM</finish>
     <date>03 May 2025</date>
   </channel>
   <channel>
     <name>Hír TV</name>
-    <title>Vez?rcikk - Olvasunk a sorok k?z?tt</title>
+    <title>Telev?zi?s v?s?rl?si m?sorablak</title>
     <desc>Nincs le?r?s.</desc>
     <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
     <start>04:00AM</start>
@@ -74,7 +110,7 @@
   </channel>
   <channel>
     <name>Hír TV</name>
-    <title>Telev?zi?s v?s?rl?si m?sorablak</title>
+    <title>Vez?rcikk - Olvasunk a sorok k?z?tt</title>
     <desc>Nincs le?r?s.</desc>
     <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
     <start>05:00AM</start>
@@ -83,20 +119,11 @@
   </channel>
   <channel>
     <name>Hír TV</name>
-    <title>Vez?rcikk - Olvasunk a sorok k?z?tt</title>
-    <desc>Nincs le?r?s.</desc>
-    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
-    <start>06:00AM</start>
-    <finish>07:00AM</finish>
-    <date>03 May 2025</date>
-  </channel>
-  <channel>
-    <name>Hír TV</name>
     <title>H?rad?</title>
     <desc>Nincs le?r?s.</desc>
     <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
-    <start>07:00AM</start>
-    <finish>07:30AM</finish>
+    <start>06:00AM</start>
+    <finish>06:30AM</finish>
     <date>03 May 2025</date>
   </channel>
   <channel>
@@ -104,8 +131,8 @@
     <title>Radar</title>
     <desc>Nincs le?r?s.</desc>
     <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
-    <start>07:30AM</start>
-    <finish>08:00AM</finish>
+    <start>06:30AM</start>
+    <finish>07:00AM</finish>
     <date>03 May 2025</date>
   </channel>
   <channel>
@@ -113,8 +140,8 @@
     <title>Trump</title>
     <desc>Az amerikai eln?kv?laszt?s egy maratoni k?zdelem, amely sor?n a jel?lteknek a felmer?l? v?laszt?si t?m?kra a v?laszt?k sz?m?ra elfogadhat? javaslatokat kell k?n?lniuk. A m?sor korunk legnagyobb politikai csat?j?nak minden fontos ?s ?rdekes r?szlet?re megpr?b?lja felh?vni a figyelmet.</desc>
     <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
-    <start>08:00AM</start>
-    <finish>09:00AM</finish>
+    <start>07:00AM</start>
+    <finish>08:00AM</finish>
     <date>03 May 2025</date>
   </channel>
   <channel>
@@ -122,8 +149,8 @@
     <title>C?lpont</title>
     <desc>Vesz?lyekt?l sem mentes oknyomoz? munk?nk sor?n az?rt dolgozunk, mert ?nnek joga van tudni azt, amir?l a politikai ?let szerepl?i azt akarj?k, hogy ?n ne tudja.</desc>
     <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
-    <start>09:00AM</start>
-    <finish>10:00AM</finish>
+    <start>08:00AM</start>
+    <finish>09:00AM</finish>
     <date>03 May 2025</date>
   </channel>
   <channel>
@@ -131,26 +158,26 @@
     <title>Telev?zi?s v?s?rl?si m?sorablak</title>
     <desc>Nincs le?r?s.</desc>
     <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
+    <start>09:00AM</start>
+    <finish>10:00AM</finish>
+    <date>03 May 2025</date>
+  </channel>
+  <channel>
+    <name>Hír TV</name>
+    <title>Vet?t?</title>
+    <desc>Dokumentumfilm rovatunk a h?t minden napj?n jelentkezik d?lel?tt 11 ?r?t?l ?s hajnali egy ?r?t?l. Magyar alkot?k magyar vonatkoz?s? dokumentumfilmjeit t?zz?k m?sorra, melyek k?z?tt megtal?lhat? portr?film ( Polg?r Judit 40 c. film ), ?letrajzi film ( Bart?k c. film ) t?rt?nelmi t?m?j? ( N?gy nap - K?d?r J?nos ?rul?sa c. film.), aktu?lis esem?nyeket feldolgoz? ( Tiltott kast?lyok - Marosv?csi kem?nyek c. film) alkot?s egyar?nt. Egy?ttm?k?d?nk a Magyar M?dia Mecenat?ra programban r?sztvev? filmesekkel, sok - a program t?mogat?s?val k?sz?l? - film n?lunk megy el?sz?r ad?sba.rnrn?lland? partnereink: Papp-G?bor Zsigmond, Katona Zsuzsa ?s Nyeste P?ter, Skrabski Fruzsina, Hal?sz Gl?ria, Csuk?s S?ndor - Ol?h Kata, Zsigmond Dezs?, Sz?les Tam?s.</desc>
+    <image>https://media.port.hu/images/000/856/530.jpg</image>
     <start>10:00AM</start>
+    <finish>10:30AM</finish>
+    <date>03 May 2025</date>
+  </channel>
+  <channel>
+    <name>Hír TV</name>
+    <title>Vet?t?</title>
+    <desc>Dokumentumfilm rovatunk a h?t minden napj?n jelentkezik d?lel?tt 11 ?r?t?l ?s hajnali egy ?r?t?l. Magyar alkot?k magyar vonatkoz?s? dokumentumfilmjeit t?zz?k m?sorra, melyek k?z?tt megtal?lhat? portr?film ( Polg?r Judit 40 c. film ), ?letrajzi film ( Bart?k c. film ) t?rt?nelmi t?m?j? ( N?gy nap - K?d?r J?nos ?rul?sa c. film.), aktu?lis esem?nyeket feldolgoz? ( Tiltott kast?lyok - Marosv?csi kem?nyek c. film) alkot?s egyar?nt. Egy?ttm?k?d?nk a Magyar M?dia Mecenat?ra programban r?sztvev? filmesekkel, sok - a program t?mogat?s?val k?sz?l? - film n?lunk megy el?sz?r ad?sba.rnrn?lland? partnereink: Papp-G?bor Zsigmond, Katona Zsuzsa ?s Nyeste P?ter, Skrabski Fruzsina, Hal?sz Gl?ria, Csuk?s S?ndor - Ol?h Kata, Zsigmond Dezs?, Sz?les Tam?s.</desc>
+    <image>https://media.port.hu/images/000/856/530.jpg</image>
+    <start>10:30AM</start>
     <finish>11:00AM</finish>
-    <date>03 May 2025</date>
-  </channel>
-  <channel>
-    <name>Hír TV</name>
-    <title>Vet?t?</title>
-    <desc>Dokumentumfilm rovatunk a h?t minden napj?n jelentkezik d?lel?tt 11 ?r?t?l ?s hajnali egy ?r?t?l. Magyar alkot?k magyar vonatkoz?s? dokumentumfilmjeit t?zz?k m?sorra, melyek k?z?tt megtal?lhat? portr?film ( Polg?r Judit 40 c. film ), ?letrajzi film ( Bart?k c. film ) t?rt?nelmi t?m?j? ( N?gy nap - K?d?r J?nos ?rul?sa c. film.), aktu?lis esem?nyeket feldolgoz? ( Tiltott kast?lyok - Marosv?csi kem?nyek c. film) alkot?s egyar?nt. Egy?ttm?k?d?nk a Magyar M?dia Mecenat?ra programban r?sztvev? filmesekkel, sok - a program t?mogat?s?val k?sz?l? - film n?lunk megy el?sz?r ad?sba.rnrn?lland? partnereink: Papp-G?bor Zsigmond, Katona Zsuzsa ?s Nyeste P?ter, Skrabski Fruzsina, Hal?sz Gl?ria, Csuk?s S?ndor - Ol?h Kata, Zsigmond Dezs?, Sz?les Tam?s.</desc>
-    <image>https://media.port.hu/images/000/856/530.jpg</image>
-    <start>11:00AM</start>
-    <finish>11:30AM</finish>
-    <date>03 May 2025</date>
-  </channel>
-  <channel>
-    <name>Hír TV</name>
-    <title>Vet?t?</title>
-    <desc>Dokumentumfilm rovatunk a h?t minden napj?n jelentkezik d?lel?tt 11 ?r?t?l ?s hajnali egy ?r?t?l. Magyar alkot?k magyar vonatkoz?s? dokumentumfilmjeit t?zz?k m?sorra, melyek k?z?tt megtal?lhat? portr?film ( Polg?r Judit 40 c. film ), ?letrajzi film ( Bart?k c. film ) t?rt?nelmi t?m?j? ( N?gy nap - K?d?r J?nos ?rul?sa c. film.), aktu?lis esem?nyeket feldolgoz? ( Tiltott kast?lyok - Marosv?csi kem?nyek c. film) alkot?s egyar?nt. Egy?ttm?k?d?nk a Magyar M?dia Mecenat?ra programban r?sztvev? filmesekkel, sok - a program t?mogat?s?val k?sz?l? - film n?lunk megy el?sz?r ad?sba.rnrn?lland? partnereink: Papp-G?bor Zsigmond, Katona Zsuzsa ?s Nyeste P?ter, Skrabski Fruzsina, Hal?sz Gl?ria, Csuk?s S?ndor - Ol?h Kata, Zsigmond Dezs?, Sz?les Tam?s.</desc>
-    <image>https://media.port.hu/images/000/856/530.jpg</image>
-    <start>11:30AM</start>
-    <finish>12:00PM</finish>
     <date>03 May 2025</date>
   </channel>
   <channel>
@@ -158,8 +185,8 @@
     <title>H?rad?</title>
     <desc>Nincs le?r?s.</desc>
     <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
-    <start>12:00PM</start>
-    <finish>12:30PM</finish>
+    <start>11:00AM</start>
+    <finish>11:30AM</finish>
     <date>03 May 2025</date>
   </channel>
   <channel>
@@ -167,8 +194,8 @@
     <title>Svenk</title>
     <desc>A Svenk c?m? m?sor a magyar filmekr?l, a magyar filmipar szerepl?ir?l, a moziba j?r?st n?pszer?s?t? tartalmakr?l ?s a haz?nkban egyre nagyobb sz?mban forgatott nemzetk?zi produkci?kr?l sz?l. A m?sor c?lja, hogy a nagyk?z?ns?ggel megismertesse a magyar filmipar m?ltj?t, jelen?t ?s j?v?j?t, emellett naprak?szen besz?moljon minden olyan t?rt?n?sr?l, amely az egyre sikeresebb hazai filmgy?rt?shoz kapcsol?dik.</desc>
     <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
-    <start>12:30PM</start>
-    <finish>01:00PM</finish>
+    <start>11:30AM</start>
+    <finish>12:00PM</finish>
     <date>03 May 2025</date>
   </channel>
   <channel>
@@ -176,8 +203,8 @@
     <title>Riaszt?s</title>
     <desc></desc>
     <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
-    <start>01:00PM</start>
-    <finish>02:00PM</finish>
+    <start>12:00PM</start>
+    <finish>01:00PM</finish>
     <date>03 May 2025</date>
   </channel>
   <channel>
@@ -185,8 +212,8 @@
     <title>Vez?rcikk - Olvasunk a sorok k?z?tt</title>
     <desc>Nincs le?r?s.</desc>
     <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
-    <start>02:00PM</start>
-    <finish>03:00PM</finish>
+    <start>01:00PM</start>
+    <finish>02:00PM</finish>
     <date>03 May 2025</date>
   </channel>
   <channel>
@@ -194,8 +221,8 @@
     <title>H?rad?</title>
     <desc>Nincs le?r?s.</desc>
     <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
-    <start>03:00PM</start>
-    <finish>03:30PM</finish>
+    <start>02:00PM</start>
+    <finish>02:30PM</finish>
     <date>03 May 2025</date>
   </channel>
   <channel>
@@ -203,8 +230,8 @@
     <title>Pal?ver</title>
     <desc>Nincs le?r?s.</desc>
     <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
-    <start>03:30PM</start>
-    <finish>05:00PM</finish>
+    <start>02:30PM</start>
+    <finish>04:00PM</finish>
     <date>03 May 2025</date>
   </channel>
   <channel>
@@ -212,8 +239,8 @@
     <title>H?rad?</title>
     <desc>Nincs le?r?s.</desc>
     <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
-    <start>05:00PM</start>
-    <finish>05:30PM</finish>
+    <start>04:00PM</start>
+    <finish>04:30PM</finish>
     <date>03 May 2025</date>
   </channel>
   <channel>
@@ -221,8 +248,8 @@
     <title>Radar r?ad?s</title>
     <desc>Nincs le?r?s.</desc>
     <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
-    <start>05:30PM</start>
-    <finish>06:00PM</finish>
+    <start>04:30PM</start>
+    <finish>05:00PM</finish>
     <date>03 May 2025</date>
   </channel>
   <channel>
@@ -230,8 +257,8 @@
     <title>Civil k?r</title>
     <desc>Ami megd?bbentett, ami sz?ven ?t?tt, elgondolkodtatott vagy ?ppen megmosolyogtatott, err?l csevegnek, vitatkoznak k?z?leti emberek a H?r TV m?sor?ban. A h?ten t?rt?nt legfontosabb, legnagyobb k?z?rdekl?d?sre sz?mot tart? esem?nyeket vitatj?k meg a h?rom megh?vott vend?ggel. A m?sor kiemelt c?lja, hogy egy-egy adott t?m?t a vend?gek szubjekt?v v?lem?ny?n kereszt?l dolgozzon fel, ak?r vita, moraliz?l?s, vagy kikarik?roz?s form?j?ban. M?sorvezet?: Gajdics Ott?.</desc>
     <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
-    <start>06:00PM</start>
-    <finish>07:00PM</finish>
+    <start>05:00PM</start>
+    <finish>06:00PM</finish>
     <date>03 May 2025</date>
   </channel>
   <channel>
@@ -239,8 +266,8 @@
     <title>H?rad?</title>
     <desc>Nincs le?r?s.</desc>
     <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
-    <start>07:00PM</start>
-    <finish>07:30PM</finish>
+    <start>06:00PM</start>
+    <finish>06:30PM</finish>
     <date>03 May 2025</date>
   </channel>
   <channel>
@@ -248,8 +275,8 @@
     <title>Pikk</title>
     <desc></desc>
     <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
-    <start>07:30PM</start>
-    <finish>08:00PM</finish>
+    <start>06:30PM</start>
+    <finish>07:00PM</finish>
     <date>03 May 2025</date>
   </channel>
   <channel>
@@ -257,8 +284,8 @@
     <title>Glob?l</title>
     <desc>A j?v? tal?n sosem volt olyan bizonytalan, mint a XXI. sz?zad elej?n. A t?rsadalmi, gazdas?gi, politikai jelens?gek v?gletesen bonyolultakk? v?ltak, a tiszt?nl?t?st pedig nem seg?ti, hogy a d?nt?shoz?k sokszor ideol?gia-vez?relt m?dszerekben gondolkodnak. ?gyekr?l, elvekr?l, d?nt?sekr?l besz?lget?nk szak?rt?kkel, politikusokkal, bennfentesekkel a H?r TV k?lpolitikai m?sor?ban.</desc>
     <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
-    <start>08:00PM</start>
-    <finish>09:00PM</finish>
+    <start>07:00PM</start>
+    <finish>08:00PM</finish>
     <date>03 May 2025</date>
   </channel>
   <channel>
@@ -266,8 +293,8 @@
     <title>Front</title>
     <desc>A h?t legfontosabb k?lpolitikai esem?nyeinek ?sszefoglal?ja h?tt?rinform?ci?kkal kieg?sz?tve, r?vid, magyar?z? felkonfer?l?sokkal. A Magyarorsz?g nemzetk?zi kapcsolatai ?s biztons?ga szempontj?b?l meghat?roz? jelent?s?g? t?m?k els?bbs?get ?lveznek, p?ld?ul az illeg?lis bev?ndorl?s, terrorizmus, biztons?gpolitika, fegyverkez?s.</desc>
     <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
-    <start>09:00PM</start>
-    <finish>10:00PM</finish>
+    <start>08:00PM</start>
+    <finish>09:00PM</finish>
     <date>03 May 2025</date>
   </channel>
   <channel>
@@ -275,13 +302,22 @@
     <title>Bakaruh?ban</title>
     <desc>Vilma csel?dl?ny Bodrogi?kn?l. Bodrogi Pirike udvarl?ja S?ndor, a helyi lap nagyrem?ny? ?js?g?r?ja, amolyan d?szkatona, aki csak vas?rnaponk?nt ?lti fel a bakaruh?t. Egy ilyen alkalommal ismerkedik meg azt?n Vilm?val. Ismerked?s?ket hamarosan szerelem k?veti, ?s Vilma elhiszi a f?rfi minden szav?t. ?szint?n szereti, ?s fenntart?sok n?lk?l elfogadja. ?m S?ndor, csak k?nny? vas?rnapi sz?rakoz?st akar.</desc>
     <image>https://media.port.hu/images/000/117/161.jpg</image>
-    <start>10:00PM</start>
-    <finish>12:00AM</finish>
+    <start>09:00PM</start>
+    <finish>11:00PM</finish>
     <date>03 May 2025</date>
   </channel>
   <channel>
     <name>Hír TV</name>
     <title>Telev?zi?s v?s?rl?si m?sorablak</title>
+    <desc>Nincs le?r?s.</desc>
+    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
+    <start>11:00PM</start>
+    <finish>12:00AM</finish>
+    <date>03 May 2025</date>
+  </channel>
+  <channel>
+    <name>Hír TV</name>
+    <title>Hazah?z?</title>
     <desc>Nincs le?r?s.</desc>
     <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
     <start>12:00AM</start>
@@ -290,20 +326,11 @@
   </channel>
   <channel>
     <name>Hír TV</name>
-    <title>Hazah?z?</title>
-    <desc>Nincs le?r?s.</desc>
-    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
-    <start>01:00AM</start>
-    <finish>02:00AM</finish>
-    <date>04 May 2025</date>
-  </channel>
-  <channel>
-    <name>Hír TV</name>
     <title>Radar r?ad?s</title>
     <desc>Nincs le?r?s.</desc>
     <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
-    <start>02:00AM</start>
-    <finish>02:20AM</finish>
+    <start>01:00AM</start>
+    <finish>01:20AM</finish>
     <date>04 May 2025</date>
   </channel>
   <channel>
@@ -311,31 +338,40 @@
     <title>H?tt?rk?p</title>
     <desc>Nincs le?r?s.</desc>
     <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
-    <start>02:20AM</start>
+    <start>01:20AM</start>
+    <finish>02:00AM</finish>
+    <date>04 May 2025</date>
+  </channel>
+  <channel>
+    <name>Hír TV</name>
+    <title>Vet?t?</title>
+    <desc>Dokumentumfilm rovatunk a h?t minden napj?n jelentkezik d?lel?tt 11 ?r?t?l ?s hajnali egy ?r?t?l. Magyar alkot?k magyar vonatkoz?s? dokumentumfilmjeit t?zz?k m?sorra, melyek k?z?tt megtal?lhat? portr?film ( Polg?r Judit 40 c. film ), ?letrajzi film ( Bart?k c. film ) t?rt?nelmi t?m?j? ( N?gy nap - K?d?r J?nos ?rul?sa c. film.), aktu?lis esem?nyeket feldolgoz? ( Tiltott kast?lyok - Marosv?csi kem?nyek c. film) alkot?s egyar?nt. Egy?ttm?k?d?nk a Magyar M?dia Mecenat?ra programban r?sztvev? filmesekkel, sok - a program t?mogat?s?val k?sz?l? - film n?lunk megy el?sz?r ad?sba.rnrn?lland? partnereink: Papp-G?bor Zsigmond, Katona Zsuzsa ?s Nyeste P?ter, Skrabski Fruzsina, Hal?sz Gl?ria, Csuk?s S?ndor - Ol?h Kata, Zsigmond Dezs?, Sz?les Tam?s.</desc>
+    <image>https://media.port.hu/images/000/856/530.jpg</image>
+    <start>02:00AM</start>
+    <finish>02:30AM</finish>
+    <date>04 May 2025</date>
+  </channel>
+  <channel>
+    <name>Hír TV</name>
+    <title>Vet?t?</title>
+    <desc>Dokumentumfilm rovatunk a h?t minden napj?n jelentkezik d?lel?tt 11 ?r?t?l ?s hajnali egy ?r?t?l. Magyar alkot?k magyar vonatkoz?s? dokumentumfilmjeit t?zz?k m?sorra, melyek k?z?tt megtal?lhat? portr?film ( Polg?r Judit 40 c. film ), ?letrajzi film ( Bart?k c. film ) t?rt?nelmi t?m?j? ( N?gy nap - K?d?r J?nos ?rul?sa c. film.), aktu?lis esem?nyeket feldolgoz? ( Tiltott kast?lyok - Marosv?csi kem?nyek c. film) alkot?s egyar?nt. Egy?ttm?k?d?nk a Magyar M?dia Mecenat?ra programban r?sztvev? filmesekkel, sok - a program t?mogat?s?val k?sz?l? - film n?lunk megy el?sz?r ad?sba.rnrn?lland? partnereink: Papp-G?bor Zsigmond, Katona Zsuzsa ?s Nyeste P?ter, Skrabski Fruzsina, Hal?sz Gl?ria, Csuk?s S?ndor - Ol?h Kata, Zsigmond Dezs?, Sz?les Tam?s.</desc>
+    <image>https://media.port.hu/images/000/856/530.jpg</image>
+    <start>02:30AM</start>
     <finish>03:00AM</finish>
     <date>04 May 2025</date>
   </channel>
   <channel>
     <name>Hír TV</name>
-    <title>Vet?t?</title>
-    <desc>Dokumentumfilm rovatunk a h?t minden napj?n jelentkezik d?lel?tt 11 ?r?t?l ?s hajnali egy ?r?t?l. Magyar alkot?k magyar vonatkoz?s? dokumentumfilmjeit t?zz?k m?sorra, melyek k?z?tt megtal?lhat? portr?film ( Polg?r Judit 40 c. film ), ?letrajzi film ( Bart?k c. film ) t?rt?nelmi t?m?j? ( N?gy nap - K?d?r J?nos ?rul?sa c. film.), aktu?lis esem?nyeket feldolgoz? ( Tiltott kast?lyok - Marosv?csi kem?nyek c. film) alkot?s egyar?nt. Egy?ttm?k?d?nk a Magyar M?dia Mecenat?ra programban r?sztvev? filmesekkel, sok - a program t?mogat?s?val k?sz?l? - film n?lunk megy el?sz?r ad?sba.rnrn?lland? partnereink: Papp-G?bor Zsigmond, Katona Zsuzsa ?s Nyeste P?ter, Skrabski Fruzsina, Hal?sz Gl?ria, Csuk?s S?ndor - Ol?h Kata, Zsigmond Dezs?, Sz?les Tam?s.</desc>
-    <image>https://media.port.hu/images/000/856/530.jpg</image>
+    <title>Vez?rcikk - Olvasunk a sorok k?z?tt</title>
+    <desc>Nincs le?r?s.</desc>
+    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
     <start>03:00AM</start>
-    <finish>03:30AM</finish>
-    <date>04 May 2025</date>
-  </channel>
-  <channel>
-    <name>Hír TV</name>
-    <title>Vet?t?</title>
-    <desc>Dokumentumfilm rovatunk a h?t minden napj?n jelentkezik d?lel?tt 11 ?r?t?l ?s hajnali egy ?r?t?l. Magyar alkot?k magyar vonatkoz?s? dokumentumfilmjeit t?zz?k m?sorra, melyek k?z?tt megtal?lhat? portr?film ( Polg?r Judit 40 c. film ), ?letrajzi film ( Bart?k c. film ) t?rt?nelmi t?m?j? ( N?gy nap - K?d?r J?nos ?rul?sa c. film.), aktu?lis esem?nyeket feldolgoz? ( Tiltott kast?lyok - Marosv?csi kem?nyek c. film) alkot?s egyar?nt. Egy?ttm?k?d?nk a Magyar M?dia Mecenat?ra programban r?sztvev? filmesekkel, sok - a program t?mogat?s?val k?sz?l? - film n?lunk megy el?sz?r ad?sba.rnrn?lland? partnereink: Papp-G?bor Zsigmond, Katona Zsuzsa ?s Nyeste P?ter, Skrabski Fruzsina, Hal?sz Gl?ria, Csuk?s S?ndor - Ol?h Kata, Zsigmond Dezs?, Sz?les Tam?s.</desc>
-    <image>https://media.port.hu/images/000/856/530.jpg</image>
-    <start>03:30AM</start>
     <finish>04:00AM</finish>
     <date>04 May 2025</date>
   </channel>
   <channel>
     <name>Hír TV</name>
-    <title>Vez?rcikk - Olvasunk a sorok k?z?tt</title>
+    <title>Telev?zi?s v?s?rl?si m?sorablak</title>
     <desc>Nincs le?r?s.</desc>
     <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
     <start>04:00AM</start>
@@ -344,7 +380,7 @@
   </channel>
   <channel>
     <name>Hír TV</name>
-    <title>Telev?zi?s v?s?rl?si m?sorablak</title>
+    <title>Vez?rcikk - Olvasunk a sorok k?z?tt</title>
     <desc>Nincs le?r?s.</desc>
     <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
     <start>05:00AM</start>
@@ -353,20 +389,11 @@
   </channel>
   <channel>
     <name>Hír TV</name>
-    <title>Vez?rcikk - Olvasunk a sorok k?z?tt</title>
-    <desc>Nincs le?r?s.</desc>
-    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
-    <start>06:00AM</start>
-    <finish>07:00AM</finish>
-    <date>04 May 2025</date>
-  </channel>
-  <channel>
-    <name>Hír TV</name>
     <title>H?rad?</title>
     <desc>Nincs le?r?s.</desc>
     <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
-    <start>07:00AM</start>
-    <finish>07:30AM</finish>
+    <start>06:00AM</start>
+    <finish>06:30AM</finish>
     <date>04 May 2025</date>
   </channel>
   <channel>
@@ -374,8 +401,8 @@
     <title>Svenk</title>
     <desc>Nincs le?r?s.</desc>
     <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
-    <start>07:30AM</start>
-    <finish>08:00AM</finish>
+    <start>06:30AM</start>
+    <finish>07:00AM</finish>
     <date>04 May 2025</date>
   </channel>
   <channel>
@@ -383,8 +410,8 @@
     <title>Glob?l</title>
     <desc>A j?v? tal?n sosem volt olyan bizonytalan, mint a XXI. sz?zad elej?n. A t?rsadalmi, gazdas?gi, politikai jelens?gek v?gletesen bonyolultakk? v?ltak, a tiszt?nl?t?st pedig nem seg?ti, hogy a d?nt?shoz?k sokszor ideol?gia-vez?relt m?dszerekben gondolkodnak. ?gyekr?l, elvekr?l, d?nt?sekr?l besz?lget?nk szak?rt?kkel, politikusokkal, bennfentesekkel a H?r TV k?lpolitikai m?sor?ban.</desc>
     <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
-    <start>08:00AM</start>
-    <finish>09:00AM</finish>
+    <start>07:00AM</start>
+    <finish>08:00AM</finish>
     <date>04 May 2025</date>
   </channel>
   <channel>
@@ -392,13 +419,22 @@
     <title>Front</title>
     <desc>A h?t legfontosabb k?lpolitikai esem?nyeinek ?sszefoglal?ja h?tt?rinform?ci?kkal kieg?sz?tve, r?vid, magyar?z? felkonfer?l?sokkal. A Magyarorsz?g nemzetk?zi kapcsolatai ?s biztons?ga szempontj?b?l meghat?roz? jelent?s?g? t?m?k els?bbs?get ?lveznek, p?ld?ul az illeg?lis bev?ndorl?s, terrorizmus, biztons?gpolitika, fegyverkez?s.</desc>
     <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
+    <start>08:00AM</start>
+    <finish>09:00AM</finish>
+    <date>04 May 2025</date>
+  </channel>
+  <channel>
+    <name>Hír TV</name>
+    <title>Telev?zi?s v?s?rl?si m?sorablak</title>
+    <desc>Nincs le?r?s.</desc>
+    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
     <start>09:00AM</start>
     <finish>10:00AM</finish>
     <date>04 May 2025</date>
   </channel>
   <channel>
     <name>Hír TV</name>
-    <title>Telev?zi?s v?s?rl?si m?sorablak</title>
+    <title>Sz?lesv?szn? t?rt?nelem</title>
     <desc>Nincs le?r?s.</desc>
     <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
     <start>10:00AM</start>
@@ -407,20 +443,11 @@
   </channel>
   <channel>
     <name>Hír TV</name>
-    <title>Sz?lesv?szn? t?rt?nelem</title>
-    <desc>Nincs le?r?s.</desc>
-    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
-    <start>11:00AM</start>
-    <finish>12:00PM</finish>
-    <date>04 May 2025</date>
-  </channel>
-  <channel>
-    <name>Hír TV</name>
     <title>H?rad?</title>
     <desc>Nincs le?r?s.</desc>
     <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
-    <start>12:00PM</start>
-    <finish>12:30PM</finish>
+    <start>11:00AM</start>
+    <finish>11:30AM</finish>
     <date>04 May 2025</date>
   </channel>
   <channel>
@@ -428,8 +455,8 @@
     <title>Pikk</title>
     <desc></desc>
     <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
-    <start>12:30PM</start>
-    <finish>01:00PM</finish>
+    <start>11:30AM</start>
+    <finish>12:00PM</finish>
     <date>04 May 2025</date>
   </channel>
   <channel>
@@ -437,8 +464,8 @@
     <title>Bakaruh?ban</title>
     <desc>Vilma csel?dl?ny Bodrogi?kn?l. Bodrogi Pirike udvarl?ja S?ndor, a helyi lap nagyrem?ny? ?js?g?r?ja, amolyan d?szkatona, aki csak vas?rnaponk?nt ?lti fel a bakaruh?t. Egy ilyen alkalommal ismerkedik meg azt?n Vilm?val. Ismerked?s?ket hamarosan szerelem k?veti, ?s Vilma elhiszi a f?rfi minden szav?t. ?szint?n szereti, ?s fenntart?sok n?lk?l elfogadja. ?m S?ndor, csak k?nny? vas?rnapi sz?rakoz?st akar.</desc>
     <image>https://media.port.hu/images/000/117/161.jpg</image>
-    <start>01:00PM</start>
-    <finish>03:00PM</finish>
+    <start>12:00PM</start>
+    <finish>02:00PM</finish>
     <date>04 May 2025</date>
   </channel>
   <channel>
@@ -446,8 +473,8 @@
     <title>H?rad?</title>
     <desc>Nincs le?r?s.</desc>
     <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
-    <start>03:00PM</start>
-    <finish>03:30PM</finish>
+    <start>02:00PM</start>
+    <finish>02:30PM</finish>
     <date>04 May 2025</date>
   </channel>
   <channel>
@@ -455,8 +482,8 @@
     <title>Pal?ver</title>
     <desc>Nincs le?r?s.</desc>
     <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
-    <start>03:30PM</start>
-    <finish>05:00PM</finish>
+    <start>02:30PM</start>
+    <finish>04:00PM</finish>
     <date>04 May 2025</date>
   </channel>
   <channel>
@@ -464,8 +491,8 @@
     <title>H?rad?</title>
     <desc>Nincs le?r?s.</desc>
     <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
-    <start>05:00PM</start>
-    <finish>05:30PM</finish>
+    <start>04:00PM</start>
+    <finish>04:30PM</finish>
     <date>04 May 2025</date>
   </channel>
   <channel>
@@ -473,13 +500,22 @@
     <title>Radar r?ad?s</title>
     <desc>Nincs le?r?s.</desc>
     <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
-    <start>05:30PM</start>
-    <finish>06:00PM</finish>
+    <start>04:30PM</start>
+    <finish>05:00PM</finish>
     <date>04 May 2025</date>
   </channel>
   <channel>
     <name>Hír TV</name>
     <title>C?lpont</title>
+    <desc>Nincs le?r?s.</desc>
+    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
+    <start>05:00PM</start>
+    <finish>06:00PM</finish>
+    <date>04 May 2025</date>
+  </channel>
+  <channel>
+    <name>Hír TV</name>
+    <title>Sajt?klub</title>
     <desc>Nincs le?r?s.</desc>
     <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
     <start>06:00PM</start>
@@ -488,7 +524,7 @@
   </channel>
   <channel>
     <name>Hír TV</name>
-    <title>Sajt?klub</title>
+    <title>Cs?rte - A nap vit?ja</title>
     <desc>Nincs le?r?s.</desc>
     <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
     <start>07:00PM</start>
@@ -497,7 +533,7 @@
   </channel>
   <channel>
     <name>Hír TV</name>
-    <title>Cs?rte - A nap vit?ja</title>
+    <title>Bayer show</title>
     <desc>Nincs le?r?s.</desc>
     <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
     <start>08:00PM</start>
@@ -506,20 +542,11 @@
   </channel>
   <channel>
     <name>Hír TV</name>
-    <title>Bayer show</title>
-    <desc>Nincs le?r?s.</desc>
-    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
-    <start>09:00PM</start>
-    <finish>10:00PM</finish>
-    <date>04 May 2025</date>
-  </channel>
-  <channel>
-    <name>Hír TV</name>
     <title>H?rad?</title>
     <desc>Nincs le?r?s.</desc>
     <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
-    <start>10:00PM</start>
-    <finish>10:30PM</finish>
+    <start>09:00PM</start>
+    <finish>09:30PM</finish>
     <date>04 May 2025</date>
   </channel>
   <channel>
@@ -527,8 +554,8 @@
     <title>Riaszt?s</title>
     <desc></desc>
     <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
-    <start>10:30PM</start>
-    <finish>11:30PM</finish>
+    <start>09:30PM</start>
+    <finish>10:30PM</finish>
     <date>04 May 2025</date>
   </channel>
   <channel>
@@ -536,13 +563,22 @@
     <title>Jard</title>
     <desc></desc>
     <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
-    <start>11:30PM</start>
-    <finish>12:00AM</finish>
+    <start>10:30PM</start>
+    <finish>11:00PM</finish>
     <date>04 May 2025</date>
   </channel>
   <channel>
     <name>Hír TV</name>
     <title>Telev?zi?s v?s?rl?si m?sorablak</title>
+    <desc>Nincs le?r?s.</desc>
+    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
+    <start>11:00PM</start>
+    <finish>12:00AM</finish>
+    <date>04 May 2025</date>
+  </channel>
+  <channel>
+    <name>Hír TV</name>
+    <title>Hazah?z?</title>
     <desc>Nincs le?r?s.</desc>
     <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
     <start>12:00AM</start>
@@ -551,7 +587,7 @@
   </channel>
   <channel>
     <name>Hír TV</name>
-    <title>Hazah?z?</title>
+    <title>Bayer show</title>
     <desc>Nincs le?r?s.</desc>
     <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
     <start>01:00AM</start>
@@ -560,8 +596,8 @@
   </channel>
   <channel>
     <name>Hír TV</name>
-    <title>Bayer show</title>
-    <desc>Nincs le?r?s.</desc>
+    <title>Civil k?r</title>
+    <desc>Ami megd?bbentett, ami sz?ven ?t?tt, elgondolkodtatott vagy ?ppen megmosolyogtatott, err?l csevegnek, vitatkoznak k?z?leti emberek a H?r TV m?sor?ban. A h?ten t?rt?nt legfontosabb, legnagyobb k?z?rdekl?d?sre sz?mot tart? esem?nyeket vitatj?k meg a h?rom megh?vott vend?ggel. A m?sor kiemelt c?lja, hogy egy-egy adott t?m?t a vend?gek szubjekt?v v?lem?ny?n kereszt?l dolgozzon fel, ak?r vita, moraliz?l?s, vagy kikarik?roz?s form?j?ban. M?sorvezet?: Gajdics Ott?.</desc>
     <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
     <start>02:00AM</start>
     <finish>03:00AM</finish>
@@ -569,8 +605,8 @@
   </channel>
   <channel>
     <name>Hír TV</name>
-    <title>Civil k?r</title>
-    <desc>Ami megd?bbentett, ami sz?ven ?t?tt, elgondolkodtatott vagy ?ppen megmosolyogtatott, err?l csevegnek, vitatkoznak k?z?leti emberek a H?r TV m?sor?ban. A h?ten t?rt?nt legfontosabb, legnagyobb k?z?rdekl?d?sre sz?mot tart? esem?nyeket vitatj?k meg a h?rom megh?vott vend?ggel. A m?sor kiemelt c?lja, hogy egy-egy adott t?m?t a vend?gek szubjekt?v v?lem?ny?n kereszt?l dolgozzon fel, ak?r vita, moraliz?l?s, vagy kikarik?roz?s form?j?ban. M?sorvezet?: Gajdics Ott?.</desc>
+    <title>Telev?zi?s v?s?rl?si m?sorablak</title>
+    <desc>Nincs le?r?s.</desc>
     <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
     <start>03:00AM</start>
     <finish>04:00AM</finish>
@@ -578,20 +614,11 @@
   </channel>
   <channel>
     <name>Hír TV</name>
-    <title>Telev?zi?s v?s?rl?si m?sorablak</title>
-    <desc>Nincs le?r?s.</desc>
-    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
-    <start>04:00AM</start>
-    <finish>05:00AM</finish>
-    <date>05 May 2025</date>
-  </channel>
-  <channel>
-    <name>Hír TV</name>
     <title>Komment</title>
     <desc>Kem?ny v?g?sok, ?gyes sz?r?sok jobbr?l ?s balr?l. A m?sorvezet? vend?geivel veszi sorra a legfontosabb, ?rdekl?d?sre legink?bb sz?mot tart? k?z?leti t?rt?n?seket, esem?nyeket. Mindenki elmondhatja ?s el is mondja ?ll?spontj?t, a m?sorvezet? moder?l?sa mellett a n?z?k kem?ny vit?kra sz?m?thatnak. ?sszecsaphat a st?di?ban jobb ?s bal, konzervat?v ?s liber?lis, itt nem a lovagiass?g, hanem a sz?kimond?s sz?m?t.</desc>
     <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
-    <start>05:00AM</start>
-    <finish>05:55AM</finish>
+    <start>04:00AM</start>
+    <finish>04:55AM</finish>
     <date>05 May 2025</date>
   </channel>
   <channel>
@@ -599,8 +626,8 @@
     <title>Napind?t?</title>
     <desc>Szak?rt?k elemzik az orosz-ukr?n h?bor? legfontosabb esem?nyeit. A m?sorban a kultur?lis ?let szerepl?i mellett a k?zszolg?lati t?m?k szerepelnek.</desc>
     <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
-    <start>05:55AM</start>
-    <finish>06:00AM</finish>
+    <start>04:55AM</start>
+    <finish>05:00AM</finish>
     <date>05 May 2025</date>
   </channel>
   <channel>
@@ -608,8 +635,8 @@
     <title>H?rad?</title>
     <desc>Nincs le?r?s.</desc>
     <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
-    <start>06:00AM</start>
-    <finish>06:25AM</finish>
+    <start>05:00AM</start>
+    <finish>05:25AM</finish>
     <date>05 May 2025</date>
   </channel>
   <channel>
@@ -617,8 +644,8 @@
     <title>Napind?t?</title>
     <desc>Szak?rt?k elemzik az orosz-ukr?n h?bor? legfontosabb esem?nyeit. A m?sorban a kultur?lis ?let szerepl?i mellett a k?zszolg?lati t?m?k szerepelnek.</desc>
     <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
-    <start>06:25AM</start>
-    <finish>09:00AM</finish>
+    <start>05:25AM</start>
+    <finish>08:00AM</finish>
     <date>05 May 2025</date>
   </channel>
   <channel>
@@ -626,8 +653,8 @@
     <title>Napind?t? +</title>
     <desc>A m?sorban ?letviteli tan?csok ?s a nagyk?z?ns?g sz?m?ra ?rdekes inform?ci?val rendelkez? megh?vott vend?gek szerepelnek.</desc>
     <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
-    <start>09:00AM</start>
-    <finish>09:30AM</finish>
+    <start>08:00AM</start>
+    <finish>08:30AM</finish>
     <date>05 May 2025</date>
   </channel>
   <channel>
@@ -635,8 +662,8 @@
     <title>Radar +</title>
     <desc>A m?sor izgalmas t?m?kkal ?s megk?zel?t?ssel pr?b?l a h?tk?znapi embereknek seg?teni olyan probl?m?k felt?r?s?val ?s megold?s?val amely a nagyk?z?ns?get ?rinti. A m?sor h?zigazd?i Budai Ivett ?s Eper M?rton.</desc>
     <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
-    <start>09:30AM</start>
-    <finish>10:00AM</finish>
+    <start>08:30AM</start>
+    <finish>09:00AM</finish>
     <date>05 May 2025</date>
   </channel>
   <channel>
@@ -644,8 +671,8 @@
     <title>Telev?zi?s v?s?rl?si m?sorablak</title>
     <desc>Nincs le?r?s.</desc>
     <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
-    <start>10:00AM</start>
-    <finish>11:00AM</finish>
+    <start>09:00AM</start>
+    <finish>10:00AM</finish>
     <date>05 May 2025</date>
   </channel>
   <channel>
@@ -653,8 +680,8 @@
     <title>Vet?t?</title>
     <desc>Dokumentumfilm rovatunk a h?t minden napj?n jelentkezik d?lel?tt 11 ?r?t?l ?s hajnali egy ?r?t?l. Magyar alkot?k magyar vonatkoz?s? dokumentumfilmjeit t?zz?k m?sorra, melyek k?z?tt megtal?lhat? portr?film ( Polg?r Judit 40 c. film ), ?letrajzi film ( Bart?k c. film ) t?rt?nelmi t?m?j? ( N?gy nap - K?d?r J?nos ?rul?sa c. film.), aktu?lis esem?nyeket feldolgoz? ( Tiltott kast?lyok - Marosv?csi kem?nyek c. film) alkot?s egyar?nt. Egy?ttm?k?d?nk a Magyar M?dia Mecenat?ra programban r?sztvev? filmesekkel, sok - a program t?mogat?s?val k?sz?l? - film n?lunk megy el?sz?r ad?sba.rnrn?lland? partnereink: Papp-G?bor Zsigmond, Katona Zsuzsa ?s Nyeste P?ter, Skrabski Fruzsina, Hal?sz Gl?ria, Csuk?s S?ndor - Ol?h Kata, Zsigmond Dezs?, Sz?les Tam?s.</desc>
     <image>https://media.port.hu/images/000/856/530.jpg</image>
-    <start>11:00AM</start>
-    <finish>12:00PM</finish>
+    <start>10:00AM</start>
+    <finish>11:00AM</finish>
     <date>05 May 2025</date>
   </channel>
   <channel>
@@ -662,8 +689,8 @@
     <title>H?rad?</title>
     <desc>Nincs le?r?s.</desc>
     <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
-    <start>12:00PM</start>
-    <finish>12:30PM</finish>
+    <start>11:00AM</start>
+    <finish>11:30AM</finish>
     <date>05 May 2025</date>
   </channel>
   <channel>
@@ -671,8 +698,8 @@
     <title>Napind?t?</title>
     <desc>Szak?rt?k elemzik az orosz-ukr?n h?bor? legfontosabb esem?nyeit. A m?sorban a kultur?lis ?let szerepl?i mellett a k?zszolg?lati t?m?k szerepelnek.</desc>
     <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
-    <start>12:30PM</start>
-    <finish>01:00PM</finish>
+    <start>11:30AM</start>
+    <finish>12:00PM</finish>
     <date>05 May 2025</date>
   </channel>
   <channel>
@@ -680,8 +707,8 @@
     <title>L?ncreakci?</title>
     <desc>Legfrissebb h?rek az orosz-ukr?n h?bor?r?l.</desc>
     <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
-    <start>01:00PM</start>
-    <finish>02:00PM</finish>
+    <start>12:00PM</start>
+    <finish>01:00PM</finish>
     <date>05 May 2025</date>
   </channel>
   <channel>
@@ -689,8 +716,8 @@
     <title>Sajt?klub</title>
     <desc>Aktu?lis k?rd?sek ?js?g?r?k szem?vel. M?sorvezet?: Bayer Zsolt.</desc>
     <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
-    <start>02:00PM</start>
-    <finish>03:00PM</finish>
+    <start>01:00PM</start>
+    <finish>02:00PM</finish>
     <date>05 May 2025</date>
   </channel>
   <channel>
@@ -698,8 +725,8 @@
     <title>H?rad?</title>
     <desc>Nincs le?r?s.</desc>
     <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
-    <start>03:00PM</start>
-    <finish>03:30PM</finish>
+    <start>02:00PM</start>
+    <finish>02:30PM</finish>
     <date>05 May 2025</date>
   </channel>
   <channel>
@@ -707,8 +734,8 @@
     <title>Pal?ver</title>
     <desc>Nincs le?r?s.</desc>
     <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
-    <start>03:30PM</start>
-    <finish>05:00PM</finish>
+    <start>02:30PM</start>
+    <finish>04:00PM</finish>
     <date>05 May 2025</date>
   </channel>
   <channel>
@@ -716,8 +743,8 @@
     <title>H?rad?</title>
     <desc>Nincs le?r?s.</desc>
     <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
-    <start>05:00PM</start>
-    <finish>05:30PM</finish>
+    <start>04:00PM</start>
+    <finish>04:30PM</finish>
     <date>05 May 2025</date>
   </channel>
   <channel>
@@ -725,8 +752,8 @@
     <title>Radar</title>
     <desc>Nincs le?r?s.</desc>
     <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
-    <start>05:30PM</start>
-    <finish>05:50PM</finish>
+    <start>04:30PM</start>
+    <finish>04:50PM</finish>
     <date>05 May 2025</date>
   </channel>
   <channel>
@@ -734,8 +761,8 @@
     <title>Komment</title>
     <desc>Kem?ny v?g?sok, ?gyes sz?r?sok jobbr?l ?s balr?l. A m?sorvezet? vend?geivel veszi sorra a legfontosabb, ?rdekl?d?sre legink?bb sz?mot tart? k?z?leti t?rt?n?seket, esem?nyeket. Mindenki elmondhatja ?s el is mondja ?ll?spontj?t, a m?sorvezet? moder?l?sa mellett a n?z?k kem?ny vit?kra sz?m?thatnak. ?sszecsaphat a st?di?ban jobb ?s bal, konzervat?v ?s liber?lis, itt nem a lovagiass?g, hanem a sz?kimond?s sz?m?t.</desc>
     <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
-    <start>05:50PM</start>
-    <finish>07:00PM</finish>
+    <start>04:50PM</start>
+    <finish>06:00PM</finish>
     <date>05 May 2025</date>
   </channel>
   <channel>
@@ -743,8 +770,8 @@
     <title>H?rad?</title>
     <desc>Nincs le?r?s.</desc>
     <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
-    <start>07:00PM</start>
-    <finish>08:00PM</finish>
+    <start>06:00PM</start>
+    <finish>07:00PM</finish>
     <date>05 May 2025</date>
   </channel>
   <channel>
@@ -752,8 +779,8 @@
     <title>Napi aktu?lis</title>
     <desc>A nap legfontosabb h?reir?l besz?lget?nk az ?gyek f?szerepl?ivel ?s szak?rt? vend?geinkkel.</desc>
     <image>https://media.port.hu/images/000/682/540.jpg</image>
-    <start>08:00PM</start>
-    <finish>09:00PM</finish>
+    <start>07:00PM</start>
+    <finish>08:00PM</finish>
     <date>05 May 2025</date>
   </channel>
   <channel>
@@ -761,8 +788,8 @@
     <title>Vez?rcikk - Olvasunk a sorok k?z?tt</title>
     <desc>Nincs le?r?s.</desc>
     <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
-    <start>09:00PM</start>
-    <finish>10:00PM</finish>
+    <start>08:00PM</start>
+    <finish>09:00PM</finish>
     <date>05 May 2025</date>
   </channel>
   <channel>
@@ -770,8 +797,8 @@
     <title>H?rad?</title>
     <desc>Nincs le?r?s.</desc>
     <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
-    <start>10:00PM</start>
-    <finish>10:30PM</finish>
+    <start>09:00PM</start>
+    <finish>09:30PM</finish>
     <date>05 May 2025</date>
   </channel>
   <channel>
@@ -779,8 +806,8 @@
     <title>Lel?t?</title>
     <desc>A m?sor els?dleges c?lja a sportol?s megszerettet?se.</desc>
     <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
-    <start>10:30PM</start>
-    <finish>11:30PM</finish>
+    <start>09:30PM</start>
+    <finish>10:30PM</finish>
     <date>05 May 2025</date>
   </channel>
   <channel>
@@ -788,8 +815,8 @@
     <title>Napi aktu?lis</title>
     <desc>A nap legfontosabb h?reir?l besz?lget?nk az ?gyek f?szerepl?ivel ?s szak?rt? vend?geinkkel.</desc>
     <image>https://media.port.hu/images/000/682/540.jpg</image>
-    <start>11:30PM</start>
-    <finish>12:30AM</finish>
+    <start>10:30PM</start>
+    <finish>11:30PM</finish>
     <date>05 May 2025</date>
   </channel>
   <channel>
@@ -797,17 +824,17 @@
     <title>Telev?zi?s v?s?rl?si m?sorablak</title>
     <desc>Nincs le?r?s.</desc>
     <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
-    <start>12:30AM</start>
-    <finish>01:30AM</finish>
-    <date>06 May 2025</date>
+    <start>11:30PM</start>
+    <finish>12:30AM</finish>
+    <date>05 May 2025</date>
   </channel>
   <channel>
     <name>Hír TV</name>
     <title>Hazah?z?</title>
     <desc>Nincs le?r?s.</desc>
     <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
-    <start>01:30AM</start>
-    <finish>02:15AM</finish>
+    <start>12:30AM</start>
+    <finish>01:15AM</finish>
     <date>06 May 2025</date>
   </channel>
   <channel>
@@ -815,8 +842,8 @@
     <title>Radar +</title>
     <desc>A m?sor izgalmas t?m?kkal ?s megk?zel?t?ssel pr?b?l a h?tk?znapi embereknek seg?teni olyan probl?m?k felt?r?s?val ?s megold?s?val amely a nagyk?z?ns?get ?rinti. A m?sor h?zigazd?i Budai Ivett ?s Eper M?rton.</desc>
     <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
-    <start>02:15AM</start>
-    <finish>02:30AM</finish>
+    <start>01:15AM</start>
+    <finish>01:30AM</finish>
     <date>06 May 2025</date>
   </channel>
   <channel>
@@ -824,8 +851,8 @@
     <title>Radar</title>
     <desc>Nincs le?r?s.</desc>
     <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
-    <start>02:30AM</start>
-    <finish>03:00AM</finish>
+    <start>01:30AM</start>
+    <finish>02:00AM</finish>
     <date>06 May 2025</date>
   </channel>
   <channel>
@@ -833,8 +860,8 @@
     <title>Vet?t?</title>
     <desc>Dokumentumfilm rovatunk a h?t minden napj?n jelentkezik d?lel?tt 11 ?r?t?l ?s hajnali egy ?r?t?l. Magyar alkot?k magyar vonatkoz?s? dokumentumfilmjeit t?zz?k m?sorra, melyek k?z?tt megtal?lhat? portr?film ( Polg?r Judit 40 c. film ), ?letrajzi film ( Bart?k c. film ) t?rt?nelmi t?m?j? ( N?gy nap - K?d?r J?nos ?rul?sa c. film.), aktu?lis esem?nyeket feldolgoz? ( Tiltott kast?lyok - Marosv?csi kem?nyek c. film) alkot?s egyar?nt. Egy?ttm?k?d?nk a Magyar M?dia Mecenat?ra programban r?sztvev? filmesekkel, sok - a program t?mogat?s?val k?sz?l? - film n?lunk megy el?sz?r ad?sba.rnrn?lland? partnereink: Papp-G?bor Zsigmond, Katona Zsuzsa ?s Nyeste P?ter, Skrabski Fruzsina, Hal?sz Gl?ria, Csuk?s S?ndor - Ol?h Kata, Zsigmond Dezs?, Sz?les Tam?s.</desc>
     <image>https://media.port.hu/images/000/856/530.jpg</image>
-    <start>03:00AM</start>
-    <finish>04:00AM</finish>
+    <start>02:00AM</start>
+    <finish>03:00AM</finish>
     <date>06 May 2025</date>
   </channel>
   <channel>
@@ -842,8 +869,8 @@
     <title>Telev?zi?s v?s?rl?si m?sorablak</title>
     <desc>Nincs le?r?s.</desc>
     <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
-    <start>04:00AM</start>
-    <finish>05:00AM</finish>
+    <start>03:00AM</start>
+    <finish>04:00AM</finish>
     <date>06 May 2025</date>
   </channel>
   <channel>
@@ -851,8 +878,8 @@
     <title>Komment</title>
     <desc>Kem?ny v?g?sok, ?gyes sz?r?sok jobbr?l ?s balr?l. A m?sorvezet? vend?geivel veszi sorra a legfontosabb, ?rdekl?d?sre legink?bb sz?mot tart? k?z?leti t?rt?n?seket, esem?nyeket. Mindenki elmondhatja ?s el is mondja ?ll?spontj?t, a m?sorvezet? moder?l?sa mellett a n?z?k kem?ny vit?kra sz?m?thatnak. ?sszecsaphat a st?di?ban jobb ?s bal, konzervat?v ?s liber?lis, itt nem a lovagiass?g, hanem a sz?kimond?s sz?m?t.</desc>
     <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
-    <start>05:00AM</start>
-    <finish>05:55AM</finish>
+    <start>04:00AM</start>
+    <finish>04:55AM</finish>
     <date>06 May 2025</date>
   </channel>
   <channel>
@@ -860,8 +887,8 @@
     <title>Napind?t?</title>
     <desc>Szak?rt?k elemzik az orosz-ukr?n h?bor? legfontosabb esem?nyeit. A m?sorban a kultur?lis ?let szerepl?i mellett a k?zszolg?lati t?m?k szerepelnek.</desc>
     <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
-    <start>05:55AM</start>
-    <finish>06:00AM</finish>
+    <start>04:55AM</start>
+    <finish>05:00AM</finish>
     <date>06 May 2025</date>
   </channel>
   <channel>
@@ -869,8 +896,8 @@
     <title>H?rad?</title>
     <desc>Nincs le?r?s.</desc>
     <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
-    <start>06:00AM</start>
-    <finish>06:25AM</finish>
+    <start>05:00AM</start>
+    <finish>05:25AM</finish>
     <date>06 May 2025</date>
   </channel>
   <channel>
@@ -878,8 +905,8 @@
     <title>Napind?t?</title>
     <desc>Szak?rt?k elemzik az orosz-ukr?n h?bor? legfontosabb esem?nyeit. A m?sorban a kultur?lis ?let szerepl?i mellett a k?zszolg?lati t?m?k szerepelnek.</desc>
     <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
-    <start>06:25AM</start>
-    <finish>09:00AM</finish>
+    <start>05:25AM</start>
+    <finish>08:00AM</finish>
     <date>06 May 2025</date>
   </channel>
   <channel>
@@ -887,8 +914,8 @@
     <title>Napind?t? +</title>
     <desc>A m?sorban ?letviteli tan?csok ?s a nagyk?z?ns?g sz?m?ra ?rdekes inform?ci?val rendelkez? megh?vott vend?gek szerepelnek.</desc>
     <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
-    <start>09:00AM</start>
-    <finish>09:30AM</finish>
+    <start>08:00AM</start>
+    <finish>08:30AM</finish>
     <date>06 May 2025</date>
   </channel>
   <channel>
@@ -896,8 +923,8 @@
     <title>Radar +</title>
     <desc>A m?sor izgalmas t?m?kkal ?s megk?zel?t?ssel pr?b?l a h?tk?znapi embereknek seg?teni olyan probl?m?k felt?r?s?val ?s megold?s?val amely a nagyk?z?ns?get ?rinti. A m?sor h?zigazd?i Budai Ivett ?s Eper M?rton.</desc>
     <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
-    <start>09:30AM</start>
-    <finish>10:00AM</finish>
+    <start>08:30AM</start>
+    <finish>09:00AM</finish>
     <date>06 May 2025</date>
   </channel>
   <channel>
@@ -905,8 +932,8 @@
     <title>Telev?zi?s v?s?rl?si m?sorablak</title>
     <desc>Nincs le?r?s.</desc>
     <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
-    <start>10:00AM</start>
-    <finish>11:00AM</finish>
+    <start>09:00AM</start>
+    <finish>10:00AM</finish>
     <date>06 May 2025</date>
   </channel>
   <channel>
@@ -914,8 +941,8 @@
     <title>Vet?t?</title>
     <desc>Dokumentumfilm rovatunk a h?t minden napj?n jelentkezik d?lel?tt 11 ?r?t?l ?s hajnali egy ?r?t?l. Magyar alkot?k magyar vonatkoz?s? dokumentumfilmjeit t?zz?k m?sorra, melyek k?z?tt megtal?lhat? portr?film ( Polg?r Judit 40 c. film ), ?letrajzi film ( Bart?k c. film ) t?rt?nelmi t?m?j? ( N?gy nap - K?d?r J?nos ?rul?sa c. film.), aktu?lis esem?nyeket feldolgoz? ( Tiltott kast?lyok - Marosv?csi kem?nyek c. film) alkot?s egyar?nt. Egy?ttm?k?d?nk a Magyar M?dia Mecenat?ra programban r?sztvev? filmesekkel, sok - a program t?mogat?s?val k?sz?l? - film n?lunk megy el?sz?r ad?sba.rnrn?lland? partnereink: Papp-G?bor Zsigmond, Katona Zsuzsa ?s Nyeste P?ter, Skrabski Fruzsina, Hal?sz Gl?ria, Csuk?s S?ndor - Ol?h Kata, Zsigmond Dezs?, Sz?les Tam?s.</desc>
     <image>https://media.port.hu/images/000/856/530.jpg</image>
-    <start>11:00AM</start>
-    <finish>12:00PM</finish>
+    <start>10:00AM</start>
+    <finish>11:00AM</finish>
     <date>06 May 2025</date>
   </channel>
   <channel>
@@ -923,8 +950,8 @@
     <title>H?rad?</title>
     <desc>Nincs le?r?s.</desc>
     <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
-    <start>12:00PM</start>
-    <finish>12:30PM</finish>
+    <start>11:00AM</start>
+    <finish>11:30AM</finish>
     <date>06 May 2025</date>
   </channel>
   <channel>
@@ -932,8 +959,8 @@
     <title>Napind?t?</title>
     <desc>Szak?rt?k elemzik az orosz-ukr?n h?bor? legfontosabb esem?nyeit. A m?sorban a kultur?lis ?let szerepl?i mellett a k?zszolg?lati t?m?k szerepelnek.</desc>
     <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
-    <start>12:30PM</start>
-    <finish>01:00PM</finish>
+    <start>11:30AM</start>
+    <finish>12:00PM</finish>
     <date>06 May 2025</date>
   </channel>
   <channel>
@@ -941,8 +968,8 @@
     <title>L?ncreakci?</title>
     <desc>Legfrissebb h?rek az orosz-ukr?n h?bor?r?l.</desc>
     <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
-    <start>01:00PM</start>
-    <finish>02:00PM</finish>
+    <start>12:00PM</start>
+    <finish>01:00PM</finish>
     <date>06 May 2025</date>
   </channel>
   <channel>
@@ -950,8 +977,8 @@
     <title>Vez?rcikk - Olvasunk a sorok k?z?tt</title>
     <desc>Nincs le?r?s.</desc>
     <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
-    <start>02:00PM</start>
-    <finish>03:00PM</finish>
+    <start>01:00PM</start>
+    <finish>02:00PM</finish>
     <date>06 May 2025</date>
   </channel>
   <channel>
@@ -959,8 +986,8 @@
     <title>H?rad?</title>
     <desc>Nincs le?r?s.</desc>
     <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
-    <start>03:00PM</start>
-    <finish>03:30PM</finish>
+    <start>02:00PM</start>
+    <finish>02:30PM</finish>
     <date>06 May 2025</date>
   </channel>
   <channel>
@@ -968,8 +995,8 @@
     <title>Pal?ver</title>
     <desc>Nincs le?r?s.</desc>
     <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
-    <start>03:30PM</start>
-    <finish>05:00PM</finish>
+    <start>02:30PM</start>
+    <finish>04:00PM</finish>
     <date>06 May 2025</date>
   </channel>
   <channel>
@@ -977,8 +1004,8 @@
     <title>H?rad?</title>
     <desc>Nincs le?r?s.</desc>
     <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
-    <start>05:00PM</start>
-    <finish>05:30PM</finish>
+    <start>04:00PM</start>
+    <finish>04:30PM</finish>
     <date>06 May 2025</date>
   </channel>
   <channel>
@@ -986,8 +1013,8 @@
     <title>Radar</title>
     <desc>Nincs le?r?s.</desc>
     <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
-    <start>05:30PM</start>
-    <finish>05:50PM</finish>
+    <start>04:30PM</start>
+    <finish>04:50PM</finish>
     <date>06 May 2025</date>
   </channel>
   <channel>
@@ -995,8 +1022,8 @@
     <title>Komment</title>
     <desc>Kem?ny v?g?sok, ?gyes sz?r?sok jobbr?l ?s balr?l. A m?sorvezet? vend?geivel veszi sorra a legfontosabb, ?rdekl?d?sre legink?bb sz?mot tart? k?z?leti t?rt?n?seket, esem?nyeket. Mindenki elmondhatja ?s el is mondja ?ll?spontj?t, a m?sorvezet? moder?l?sa mellett a n?z?k kem?ny vit?kra sz?m?thatnak. ?sszecsaphat a st?di?ban jobb ?s bal, konzervat?v ?s liber?lis, itt nem a lovagiass?g, hanem a sz?kimond?s sz?m?t.</desc>
     <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
-    <start>05:50PM</start>
-    <finish>07:00PM</finish>
+    <start>04:50PM</start>
+    <finish>06:00PM</finish>
     <date>06 May 2025</date>
   </channel>
   <channel>
@@ -1004,8 +1031,8 @@
     <title>H?rad?</title>
     <desc>Nincs le?r?s.</desc>
     <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
-    <start>07:00PM</start>
-    <finish>08:00PM</finish>
+    <start>06:00PM</start>
+    <finish>07:00PM</finish>
     <date>06 May 2025</date>
   </channel>
   <channel>
@@ -1013,8 +1040,8 @@
     <title>Napi aktu?lis</title>
     <desc>A nap legfontosabb h?reir?l besz?lget?nk az ?gyek f?szerepl?ivel ?s szak?rt? vend?geinkkel.</desc>
     <image>https://media.port.hu/images/000/682/540.jpg</image>
-    <start>08:00PM</start>
-    <finish>09:00PM</finish>
+    <start>07:00PM</start>
+    <finish>08:00PM</finish>
     <date>06 May 2025</date>
   </channel>
   <channel>
@@ -1022,8 +1049,8 @@
     <title>Vez?rcikk - Olvasunk a sorok k?z?tt</title>
     <desc>Nincs le?r?s.</desc>
     <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
-    <start>09:00PM</start>
-    <finish>10:00PM</finish>
+    <start>08:00PM</start>
+    <finish>09:00PM</finish>
     <date>06 May 2025</date>
   </channel>
   <channel>
@@ -1031,8 +1058,8 @@
     <title>H?rad?</title>
     <desc>Nincs le?r?s.</desc>
     <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
-    <start>10:00PM</start>
-    <finish>10:30PM</finish>
+    <start>09:00PM</start>
+    <finish>09:30PM</finish>
     <date>06 May 2025</date>
   </channel>
   <channel>
@@ -1040,8 +1067,8 @@
     <title>Trump</title>
     <desc>Az amerikai eln?kv?laszt?s egy maratoni k?zdelem, amely sor?n a jel?lteknek a felmer?l? v?laszt?si t?m?kra a v?laszt?k sz?m?ra elfogadhat? javaslatokat kell k?n?lniuk. A m?sor korunk legnagyobb politikai csat?j?nak minden fontos ?s ?rdekes r?szlet?re megpr?b?lja felh?vni a figyelmet.</desc>
     <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
-    <start>10:30PM</start>
-    <finish>11:30PM</finish>
+    <start>09:30PM</start>
+    <finish>10:30PM</finish>
     <date>06 May 2025</date>
   </channel>
   <channel>
@@ -1049,8 +1076,8 @@
     <title>Napi aktu?lis</title>
     <desc>A nap legfontosabb h?reir?l besz?lget?nk az ?gyek f?szerepl?ivel ?s szak?rt? vend?geinkkel.</desc>
     <image>https://media.port.hu/images/000/682/540.jpg</image>
-    <start>11:30PM</start>
-    <finish>12:30AM</finish>
+    <start>10:30PM</start>
+    <finish>11:30PM</finish>
     <date>06 May 2025</date>
   </channel>
   <channel>
@@ -1058,17 +1085,17 @@
     <title>Telev?zi?s v?s?rl?si m?sorablak</title>
     <desc>Nincs le?r?s.</desc>
     <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
-    <start>12:30AM</start>
-    <finish>01:30AM</finish>
-    <date>07 May 2025</date>
+    <start>11:30PM</start>
+    <finish>12:30AM</finish>
+    <date>06 May 2025</date>
   </channel>
   <channel>
     <name>Hír TV</name>
     <title>Hazah?z?</title>
     <desc>Nincs le?r?s.</desc>
     <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
-    <start>01:30AM</start>
-    <finish>02:15AM</finish>
+    <start>12:30AM</start>
+    <finish>01:15AM</finish>
     <date>07 May 2025</date>
   </channel>
   <channel>
@@ -1076,8 +1103,8 @@
     <title>Radar +</title>
     <desc>A m?sor izgalmas t?m?kkal ?s megk?zel?t?ssel pr?b?l a h?tk?znapi embereknek seg?teni olyan probl?m?k felt?r?s?val ?s megold?s?val amely a nagyk?z?ns?get ?rinti. A m?sor h?zigazd?i Budai Ivett ?s Eper M?rton.</desc>
     <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
-    <start>02:15AM</start>
-    <finish>02:30AM</finish>
+    <start>01:15AM</start>
+    <finish>01:30AM</finish>
     <date>07 May 2025</date>
   </channel>
   <channel>
@@ -1085,8 +1112,8 @@
     <title>Radar</title>
     <desc>Nincs le?r?s.</desc>
     <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
-    <start>02:30AM</start>
-    <finish>03:00AM</finish>
+    <start>01:30AM</start>
+    <finish>02:00AM</finish>
     <date>07 May 2025</date>
   </channel>
   <channel>
@@ -1094,8 +1121,8 @@
     <title>Vet?t?</title>
     <desc>Dokumentumfilm rovatunk a h?t minden napj?n jelentkezik d?lel?tt 11 ?r?t?l ?s hajnali egy ?r?t?l. Magyar alkot?k magyar vonatkoz?s? dokumentumfilmjeit t?zz?k m?sorra, melyek k?z?tt megtal?lhat? portr?film ( Polg?r Judit 40 c. film ), ?letrajzi film ( Bart?k c. film ) t?rt?nelmi t?m?j? ( N?gy nap - K?d?r J?nos ?rul?sa c. film.), aktu?lis esem?nyeket feldolgoz? ( Tiltott kast?lyok - Marosv?csi kem?nyek c. film) alkot?s egyar?nt. Egy?ttm?k?d?nk a Magyar M?dia Mecenat?ra programban r?sztvev? filmesekkel, sok - a program t?mogat?s?val k?sz?l? - film n?lunk megy el?sz?r ad?sba.rnrn?lland? partnereink: Papp-G?bor Zsigmond, Katona Zsuzsa ?s Nyeste P?ter, Skrabski Fruzsina, Hal?sz Gl?ria, Csuk?s S?ndor - Ol?h Kata, Zsigmond Dezs?, Sz?les Tam?s.</desc>
     <image>https://media.port.hu/images/000/856/530.jpg</image>
-    <start>03:00AM</start>
-    <finish>04:00AM</finish>
+    <start>02:00AM</start>
+    <finish>03:00AM</finish>
     <date>07 May 2025</date>
   </channel>
   <channel>
@@ -1103,8 +1130,8 @@
     <title>Telev?zi?s v?s?rl?si m?sorablak</title>
     <desc>Nincs le?r?s.</desc>
     <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
-    <start>04:00AM</start>
-    <finish>05:00AM</finish>
+    <start>03:00AM</start>
+    <finish>04:00AM</finish>
     <date>07 May 2025</date>
   </channel>
   <channel>
@@ -1112,8 +1139,8 @@
     <title>Komment</title>
     <desc>Kem?ny v?g?sok, ?gyes sz?r?sok jobbr?l ?s balr?l. A m?sorvezet? vend?geivel veszi sorra a legfontosabb, ?rdekl?d?sre legink?bb sz?mot tart? k?z?leti t?rt?n?seket, esem?nyeket. Mindenki elmondhatja ?s el is mondja ?ll?spontj?t, a m?sorvezet? moder?l?sa mellett a n?z?k kem?ny vit?kra sz?m?thatnak. ?sszecsaphat a st?di?ban jobb ?s bal, konzervat?v ?s liber?lis, itt nem a lovagiass?g, hanem a sz?kimond?s sz?m?t.</desc>
     <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
-    <start>05:00AM</start>
-    <finish>05:55AM</finish>
+    <start>04:00AM</start>
+    <finish>04:55AM</finish>
     <date>07 May 2025</date>
   </channel>
   <channel>
@@ -1121,8 +1148,8 @@
     <title>Napind?t?</title>
     <desc>Szak?rt?k elemzik az orosz-ukr?n h?bor? legfontosabb esem?nyeit. A m?sorban a kultur?lis ?let szerepl?i mellett a k?zszolg?lati t?m?k szerepelnek.</desc>
     <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
-    <start>05:55AM</start>
-    <finish>06:00AM</finish>
+    <start>04:55AM</start>
+    <finish>05:00AM</finish>
     <date>07 May 2025</date>
   </channel>
   <channel>
@@ -1130,8 +1157,8 @@
     <title>H?rad?</title>
     <desc>Nincs le?r?s.</desc>
     <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
-    <start>06:00AM</start>
-    <finish>06:25AM</finish>
+    <start>05:00AM</start>
+    <finish>05:25AM</finish>
     <date>07 May 2025</date>
   </channel>
   <channel>
@@ -1139,8 +1166,8 @@
     <title>Napind?t?</title>
     <desc>Szak?rt?k elemzik az orosz-ukr?n h?bor? legfontosabb esem?nyeit. A m?sorban a kultur?lis ?let szerepl?i mellett a k?zszolg?lati t?m?k szerepelnek.</desc>
     <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
-    <start>06:25AM</start>
-    <finish>09:00AM</finish>
+    <start>05:25AM</start>
+    <finish>08:00AM</finish>
     <date>07 May 2025</date>
   </channel>
   <channel>
@@ -1148,8 +1175,8 @@
     <title>Napind?t? +</title>
     <desc>A m?sorban ?letviteli tan?csok ?s a nagyk?z?ns?g sz?m?ra ?rdekes inform?ci?val rendelkez? megh?vott vend?gek szerepelnek.</desc>
     <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
-    <start>09:00AM</start>
-    <finish>09:30AM</finish>
+    <start>08:00AM</start>
+    <finish>08:30AM</finish>
     <date>07 May 2025</date>
   </channel>
   <channel>
@@ -1157,8 +1184,8 @@
     <title>Radar +</title>
     <desc>A m?sor izgalmas t?m?kkal ?s megk?zel?t?ssel pr?b?l a h?tk?znapi embereknek seg?teni olyan probl?m?k felt?r?s?val ?s megold?s?val amely a nagyk?z?ns?get ?rinti. A m?sor h?zigazd?i Budai Ivett ?s Eper M?rton.</desc>
     <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
-    <start>09:30AM</start>
-    <finish>10:00AM</finish>
+    <start>08:30AM</start>
+    <finish>09:00AM</finish>
     <date>07 May 2025</date>
   </channel>
   <channel>
@@ -1166,8 +1193,8 @@
     <title>Telev?zi?s v?s?rl?si m?sorablak</title>
     <desc>Nincs le?r?s.</desc>
     <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
-    <start>10:00AM</start>
-    <finish>11:00AM</finish>
+    <start>09:00AM</start>
+    <finish>10:00AM</finish>
     <date>07 May 2025</date>
   </channel>
   <channel>
@@ -1175,8 +1202,8 @@
     <title>Vet?t?</title>
     <desc>Dokumentumfilm rovatunk a h?t minden napj?n jelentkezik d?lel?tt 11 ?r?t?l ?s hajnali egy ?r?t?l. Magyar alkot?k magyar vonatkoz?s? dokumentumfilmjeit t?zz?k m?sorra, melyek k?z?tt megtal?lhat? portr?film ( Polg?r Judit 40 c. film ), ?letrajzi film ( Bart?k c. film ) t?rt?nelmi t?m?j? ( N?gy nap - K?d?r J?nos ?rul?sa c. film.), aktu?lis esem?nyeket feldolgoz? ( Tiltott kast?lyok - Marosv?csi kem?nyek c. film) alkot?s egyar?nt. Egy?ttm?k?d?nk a Magyar M?dia Mecenat?ra programban r?sztvev? filmesekkel, sok - a program t?mogat?s?val k?sz?l? - film n?lunk megy el?sz?r ad?sba.rnrn?lland? partnereink: Papp-G?bor Zsigmond, Katona Zsuzsa ?s Nyeste P?ter, Skrabski Fruzsina, Hal?sz Gl?ria, Csuk?s S?ndor - Ol?h Kata, Zsigmond Dezs?, Sz?les Tam?s.</desc>
     <image>https://media.port.hu/images/000/856/530.jpg</image>
-    <start>11:00AM</start>
-    <finish>12:00PM</finish>
+    <start>10:00AM</start>
+    <finish>11:00AM</finish>
     <date>07 May 2025</date>
   </channel>
   <channel>
@@ -1184,8 +1211,8 @@
     <title>H?rad?</title>
     <desc>Nincs le?r?s.</desc>
     <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
-    <start>12:00PM</start>
-    <finish>12:30PM</finish>
+    <start>11:00AM</start>
+    <finish>11:30AM</finish>
     <date>07 May 2025</date>
   </channel>
   <channel>
@@ -1193,8 +1220,8 @@
     <title>Napind?t?</title>
     <desc>Szak?rt?k elemzik az orosz-ukr?n h?bor? legfontosabb esem?nyeit. A m?sorban a kultur?lis ?let szerepl?i mellett a k?zszolg?lati t?m?k szerepelnek.</desc>
     <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
-    <start>12:30PM</start>
-    <finish>01:00PM</finish>
+    <start>11:30AM</start>
+    <finish>12:00PM</finish>
     <date>07 May 2025</date>
   </channel>
   <channel>
@@ -1202,8 +1229,8 @@
     <title>L?ncreakci?</title>
     <desc>Legfrissebb h?rek az orosz-ukr?n h?bor?r?l.</desc>
     <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
-    <start>01:00PM</start>
-    <finish>02:00PM</finish>
+    <start>12:00PM</start>
+    <finish>01:00PM</finish>
     <date>07 May 2025</date>
   </channel>
   <channel>
@@ -1211,8 +1238,8 @@
     <title>Vez?rcikk - Olvasunk a sorok k?z?tt</title>
     <desc>Nincs le?r?s.</desc>
     <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
-    <start>02:00PM</start>
-    <finish>03:00PM</finish>
+    <start>01:00PM</start>
+    <finish>02:00PM</finish>
     <date>07 May 2025</date>
   </channel>
   <channel>
@@ -1220,8 +1247,8 @@
     <title>H?rad?</title>
     <desc>Nincs le?r?s.</desc>
     <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
-    <start>03:00PM</start>
-    <finish>03:30PM</finish>
+    <start>02:00PM</start>
+    <finish>02:30PM</finish>
     <date>07 May 2025</date>
   </channel>
   <channel>
@@ -1229,8 +1256,8 @@
     <title>Pal?ver</title>
     <desc>Nincs le?r?s.</desc>
     <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
-    <start>03:30PM</start>
-    <finish>05:00PM</finish>
+    <start>02:30PM</start>
+    <finish>04:00PM</finish>
     <date>07 May 2025</date>
   </channel>
   <channel>
@@ -1238,8 +1265,8 @@
     <title>H?rad?</title>
     <desc>Nincs le?r?s.</desc>
     <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
-    <start>05:00PM</start>
-    <finish>05:30PM</finish>
+    <start>04:00PM</start>
+    <finish>04:30PM</finish>
     <date>07 May 2025</date>
   </channel>
   <channel>
@@ -1247,8 +1274,8 @@
     <title>Radar</title>
     <desc>Nincs le?r?s.</desc>
     <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
-    <start>05:30PM</start>
-    <finish>05:50PM</finish>
+    <start>04:30PM</start>
+    <finish>04:50PM</finish>
     <date>07 May 2025</date>
   </channel>
   <channel>
@@ -1256,8 +1283,8 @@
     <title>Komment</title>
     <desc>Kem?ny v?g?sok, ?gyes sz?r?sok jobbr?l ?s balr?l. A m?sorvezet? vend?geivel veszi sorra a legfontosabb, ?rdekl?d?sre legink?bb sz?mot tart? k?z?leti t?rt?n?seket, esem?nyeket. Mindenki elmondhatja ?s el is mondja ?ll?spontj?t, a m?sorvezet? moder?l?sa mellett a n?z?k kem?ny vit?kra sz?m?thatnak. ?sszecsaphat a st?di?ban jobb ?s bal, konzervat?v ?s liber?lis, itt nem a lovagiass?g, hanem a sz?kimond?s sz?m?t.</desc>
     <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
-    <start>05:50PM</start>
-    <finish>07:00PM</finish>
+    <start>04:50PM</start>
+    <finish>06:00PM</finish>
     <date>07 May 2025</date>
   </channel>
   <channel>
@@ -1265,8 +1292,8 @@
     <title>H?rad?</title>
     <desc>Nincs le?r?s.</desc>
     <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
-    <start>07:00PM</start>
-    <finish>08:00PM</finish>
+    <start>06:00PM</start>
+    <finish>07:00PM</finish>
     <date>07 May 2025</date>
   </channel>
   <channel>
@@ -1274,8 +1301,8 @@
     <title>Napi aktu?lis</title>
     <desc>A nap legfontosabb h?reir?l besz?lget?nk az ?gyek f?szerepl?ivel ?s szak?rt? vend?geinkkel.</desc>
     <image>https://media.port.hu/images/000/682/540.jpg</image>
-    <start>08:00PM</start>
-    <finish>09:00PM</finish>
+    <start>07:00PM</start>
+    <finish>08:00PM</finish>
     <date>07 May 2025</date>
   </channel>
   <channel>
@@ -1283,8 +1310,8 @@
     <title>Vez?rcikk - Olvasunk a sorok k?z?tt</title>
     <desc>Nincs le?r?s.</desc>
     <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
-    <start>09:00PM</start>
-    <finish>10:00PM</finish>
+    <start>08:00PM</start>
+    <finish>09:00PM</finish>
     <date>07 May 2025</date>
   </channel>
   <channel>
@@ -1292,8 +1319,8 @@
     <title>H?rad?</title>
     <desc>Nincs le?r?s.</desc>
     <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
-    <start>10:00PM</start>
-    <finish>10:30PM</finish>
+    <start>09:00PM</start>
+    <finish>09:30PM</finish>
     <date>07 May 2025</date>
   </channel>
   <channel>
@@ -1301,8 +1328,8 @@
     <title>Riaszt?s</title>
     <desc></desc>
     <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
-    <start>10:30PM</start>
-    <finish>11:30PM</finish>
+    <start>09:30PM</start>
+    <finish>10:30PM</finish>
     <date>07 May 2025</date>
   </channel>
   <channel>
@@ -1310,8 +1337,8 @@
     <title>Napi aktu?lis</title>
     <desc>A nap legfontosabb h?reir?l besz?lget?nk az ?gyek f?szerepl?ivel ?s szak?rt? vend?geinkkel.</desc>
     <image>https://media.port.hu/images/000/682/540.jpg</image>
-    <start>11:30PM</start>
-    <finish>12:30AM</finish>
+    <start>10:30PM</start>
+    <finish>11:30PM</finish>
     <date>07 May 2025</date>
   </channel>
   <channel>
@@ -1319,17 +1346,17 @@
     <title>Telev?zi?s v?s?rl?si m?sorablak</title>
     <desc>Nincs le?r?s.</desc>
     <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
-    <start>12:30AM</start>
-    <finish>01:30AM</finish>
-    <date>08 May 2025</date>
+    <start>11:30PM</start>
+    <finish>12:30AM</finish>
+    <date>07 May 2025</date>
   </channel>
   <channel>
     <name>Hír TV</name>
     <title>Hazah?z?</title>
     <desc>Nincs le?r?s.</desc>
     <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
-    <start>01:30AM</start>
-    <finish>02:15AM</finish>
+    <start>12:30AM</start>
+    <finish>01:15AM</finish>
     <date>08 May 2025</date>
   </channel>
   <channel>
@@ -1337,8 +1364,8 @@
     <title>Radar +</title>
     <desc>A m?sor izgalmas t?m?kkal ?s megk?zel?t?ssel pr?b?l a h?tk?znapi embereknek seg?teni olyan probl?m?k felt?r?s?val ?s megold?s?val amely a nagyk?z?ns?get ?rinti. A m?sor h?zigazd?i Budai Ivett ?s Eper M?rton.</desc>
     <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
-    <start>02:15AM</start>
-    <finish>02:30AM</finish>
+    <start>01:15AM</start>
+    <finish>01:30AM</finish>
     <date>08 May 2025</date>
   </channel>
   <channel>
@@ -1346,8 +1373,8 @@
     <title>Radar</title>
     <desc>Nincs le?r?s.</desc>
     <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
-    <start>02:30AM</start>
-    <finish>03:00AM</finish>
+    <start>01:30AM</start>
+    <finish>02:00AM</finish>
     <date>08 May 2025</date>
   </channel>
 </tv>
