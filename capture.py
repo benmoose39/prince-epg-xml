@@ -9,7 +9,7 @@ import sys
 if __name__ == '__main__':
     s = requests.session()
     
-    now = datetime.datetime.now(datetime.UTC)
+    now = datetime.datetime.now(datetime.UTC) + datetime.timedelta(seconds=7200)
     dom = minidom.parse('IPTV_tuner_epg.xml')
     channels = dom.getElementsByTagName('channel')
     programs = dom.getElementsByTagName('programme')
@@ -117,11 +117,7 @@ if __name__ == '__main__':
         for program in master[channel]:
             if program['program_status'] == -1:
                 continue
-            if program['program_status'] in [0,1]:
-                if program['program_status'] == 0:
-                    with open(f'{channel}/current_program_title.txt', 'w') as writer:
-                        writer.write(f'{program["title"]}')
-                    
+            if program['program_status'] in [0,1]:                    
                 ch = doc.createElement("channel")
                 root.appendChild(ch)
                 
@@ -159,6 +155,11 @@ if __name__ == '__main__':
                 date_text = doc.createTextNode(f'{program["start_date"]}')
                 date.appendChild(date_text)
                 ch.appendChild(date)
+
+                if program['program_status'] == 0:
+                    xml_current = doc.toprettyxml(indent='  ')
+                    with open (f'{channel}/current_program.xml', 'w', encoding='utf-8') as f:
+                        f.write(xml_current)
 
         
 
