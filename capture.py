@@ -107,12 +107,21 @@ if __name__ == '__main__':
                         file.write(img_response.content)
 
             now_and_upcoming += f'{program["start"]}\n{program["title"]}\n{program["description"]}\n\n'
+
+        # Writing now-and-next programs details
+        with open(f'{channel}/current_and_upcoming.txt', 'w') as writer:
+            writer.write(f'{now_and_upcoming}')
+
         '''
         
         for program in master[channel]:
             if program['program_status'] == -1:
                 continue
             if program['program_status'] in [0,1]:
+                if program['program_status'] == 0:
+                    with open(f'{channel}/current_program_title.txt', 'w') as writer:
+                        writer.write(f'{program["title"]}')
+                    
                 ch = doc.createElement("channel")
                 root.appendChild(ch)
                 
@@ -151,9 +160,7 @@ if __name__ == '__main__':
                 date.appendChild(date_text)
                 ch.appendChild(date)
 
-        # Writing now-and-next programs details
-        # with open(f'{channel}/current_and_upcoming.txt', 'w') as writer:
-        #     writer.write(f'{now_and_upcoming}')
+        
 
         xml_str = doc.toprettyxml(indent='  ')
         
