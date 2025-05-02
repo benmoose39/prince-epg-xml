@@ -53,7 +53,7 @@ if __name__ == '__main__':
                 'channel_name': channel_name,
                 'start_time': datetime.datetime.strftime(start, '%d %B %Y %I:%M%p %Z'),
                 'start': datetime.datetime.strftime(start, '%I:%M%p'),
-                'start_date': datetime.datetime.strftime(start, '%d %B %Y '),
+                'start_date': datetime.datetime.strftime(start, '%d %B %Y'),
                 'stop_time': datetime.datetime.strftime(stop, '%d %B %Y %I:%M%p %Z'),
                 'stop': datetime.datetime.strftime(stop, '%I:%M%p'),
                 'title': title.encode('ascii', 'replace').decode('ascii'),
@@ -145,6 +145,11 @@ if __name__ == '__main__':
                 finish_time = doc.createTextNode(f'{program["stop"]}')
                 finish.appendChild(finish_time)
                 ch.appendChild(finish)
+
+                date = doc.createElement('date')
+                date_text = doc.createTextNode(f'{program["start_date"]}')
+                date.appendChild(date_text)
+                ch.appendChild(date)
 
         # Writing now-and-next programs details
         # with open(f'{channel}/current_and_upcoming.txt', 'w') as writer:
