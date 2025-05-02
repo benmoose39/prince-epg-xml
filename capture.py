@@ -51,9 +51,11 @@ if __name__ == '__main__':
         
         master[channel].append({
                 'channel_name': channel_name,
-                'start': datetime.datetime.strftime(start, '%d %B %Y %I:%M%p %Z'),
-                #'start': datetime.datetime.strftime(start, '%Y-%m-%d %I:%M%p %Z'),
-                'stop': datetime.datetime.strftime(stop, '%d %B %Y %I:%M%p %Z'),
+                'start_time': datetime.datetime.strftime(start, '%d %B %Y %I:%M%p %Z'),
+                'start': datetime.datetime.strftime(start, '%I:%M%p'),
+                'start_date': datetime.datetime.strftime(start, '%d %B %Y '),
+                'stop_time': datetime.datetime.strftime(stop, '%d %B %Y %I:%M%p %Z'),
+                'stop': datetime.datetime.strftime(stop, '%I:%M%p'),
                 'title': title.encode('ascii', 'replace').decode('ascii'),
                 'sub_title': sub_title.encode('ascii', 'replace').decode('ascii'),
                 'description': description.encode('ascii', 'replace').decode('ascii'),
@@ -152,4 +154,5 @@ if __name__ == '__main__':
         
         with open (f'{channel}/epg.xml', 'w', encoding='utf-8') as f:
             f.write(xml_str)
-          
+        
+    
