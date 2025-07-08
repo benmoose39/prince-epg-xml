@@ -2,15 +2,6 @@
 <tv>
   <channel>
     <name>RTE News Now IE</name>
-    <title>EuroNews</title>
-    <desc>The latest International and European news.</desc>
-    <image>https://images.metadata.sky.com/pd-image/a8b40bad-f45c-40d9-9260-90158ad326d0/16-9</image>
-    <start>11:25PM</start>
-    <finish>07:00AM</finish>
-    <date>07 July 2025</date>
-  </channel>
-  <channel>
-    <name>RTE News Now IE</name>
     <title>Morning Ireland</title>
     <desc>Morning news programme.</desc>
     <image>https://images.metadata.sky.com/pd-image/5c1c843a-590a-4e75-b3cf-90c6ce6b3127/16-9</image>
@@ -274,8 +265,17 @@
     <name>RTE News Now IE</name>
     <title>Leaders' Questions</title>
     <desc>Coverage of Question Time in the Dail.</desc>
-    <image>https://images.metadata.sky.com/pd-image/8fd66409-d268-4cf9-b88a-cc0a3396b58e/16-9</image>
+    <image>https://images.metadata.sky.com/pd-image/8d5c4bc6-1782-4b39-a31c-7154d96e18ec/16-9</image>
     <start>11:50AM</start>
+    <finish>12:00PM</finish>
+    <date>09 July 2025</date>
+  </channel>
+  <channel>
+    <name>RTE News Now IE</name>
+    <title>Latest News and Weather</title>
+    <desc>The latest news from RT?. Followed by Weather.</desc>
+    <image>https://images.metadata.sky.com/pd-image/1b91ff02-331f-4332-b01a-9945b3433f05/16-9</image>
+    <start>12:00PM</start>
     <finish>01:00PM</finish>
     <date>09 July 2025</date>
   </channel>
@@ -373,53 +373,26 @@
     <name>RTE News Now IE</name>
     <title>Latest News and Weather</title>
     <desc>Latest News and Weather.</desc>
-    <image>https://images.metadata.sky.com/pd-image/3210e287-cc44-4eaa-bee9-ec07ef4b2a82/16-9</image>
+    <image>https://images.metadata.sky.com/pd-image/4fa1a734-07f7-4278-9fd1-2bd77a1656d4/16-9</image>
     <start>07:00PM</start>
-    <finish>08:00PM</finish>
+    <finish>07:30PM</finish>
+    <date>09 July 2025</date>
+  </channel>
+  <channel>
+    <name>RTE News Now IE</name>
+    <title>UEFA Women's EURO 2025 Live</title>
+    <desc>France v Wales (KO 8pm).</desc>
+    <image>https://images.metadata.sky.com/pd-image/613fceaf-b3dc-4293-87a8-9f584ec95b6c/16-9</image>
+    <start>07:30PM</start>
+    <finish>10:10PM</finish>
     <date>09 July 2025</date>
   </channel>
   <channel>
     <name>RTE News Now IE</name>
     <title>Latest News and Weather</title>
     <desc>Latest News and Weather.</desc>
-    <image>https://images.metadata.sky.com/pd-image/33323023-239c-43d0-8855-8f6af0c8b4f9/16-9</image>
-    <start>08:00PM</start>
-    <finish>08:30PM</finish>
-    <date>09 July 2025</date>
-  </channel>
-  <channel>
-    <name>RTE News Now IE</name>
-    <title>Nuacht RT?</title>
-    <desc>Pr?omhsc?alta an lae ? Nuacht RT?.</desc>
-    <image>https://images.metadata.sky.com/pd-image/01964113-7136-45c7-b7d7-1626e3bf9fc8/16-9</image>
-    <start>08:30PM</start>
-    <finish>09:00PM</finish>
-    <date>09 July 2025</date>
-  </channel>
-  <channel>
-    <name>RTE News Now IE</name>
-    <title>RT? News</title>
-    <desc>(And Weather).</desc>
-    <image>https://images.metadata.sky.com/pd-image/eefabf4f-99f1-459a-97e4-9f5ca7243234/16-9</image>
-    <start>09:00PM</start>
-    <finish>09:30PM</finish>
-    <date>09 July 2025</date>
-  </channel>
-  <channel>
-    <name>RTE News Now IE</name>
-    <title>Latest News and Weather</title>
-    <desc>Latest News and Weather.</desc>
-    <image>https://images.metadata.sky.com/pd-image/a3902ed3-f008-4e3b-91fc-3bfd0f083971/16-9</image>
-    <start>09:30PM</start>
-    <finish>10:00PM</finish>
-    <date>09 July 2025</date>
-  </channel>
-  <channel>
-    <name>RTE News Now IE</name>
-    <title>Latest News and Weather</title>
-    <desc>Latest News and Weather.</desc>
-    <image>https://images.metadata.sky.com/pd-image/c1c2ea98-fc2f-4bb6-82f2-cc5ddac0bfd9/16-9</image>
-    <start>10:00PM</start>
+    <image>https://images.metadata.sky.com/pd-image/40b81d28-9c8b-47f9-a0e1-fc58d59aae9c/16-9</image>
+    <start>10:10PM</start>
     <finish>11:00PM</finish>
     <date>09 July 2025</date>
   </channel>
@@ -562,8 +535,26 @@
     <name>RTE News Now IE</name>
     <title>Nuacht RT?</title>
     <desc>Pr?omhsc?alta an lae ? Nuacht RT?.</desc>
-    <image>https://images.metadata.sky.com/pd-image/32b1c2f1-cec2-4e20-8bd1-d7b9fe21fc49/16-9</image>
+    <image>https://images.metadata.sky.com/pd-image/62da9399-0dcc-4b52-a7c4-d73d0ca2ee54/16-9</image>
     <start>05:40PM</start>
+    <finish>05:50PM</finish>
+    <date>10 July 2025</date>
+  </channel>
+  <channel>
+    <name>RTE News Now IE</name>
+    <title>Latest News and Weather</title>
+    <desc>The latest news from RT?. Followed by Weather.</desc>
+    <image>https://images.metadata.sky.com/pd-image/cb15f222-a32e-4e29-b5a0-6cf0525f52da/16-9</image>
+    <start>05:50PM</start>
+    <finish>05:55PM</finish>
+    <date>10 July 2025</date>
+  </channel>
+  <channel>
+    <name>RTE News Now IE</name>
+    <title>RT? News with Signing</title>
+    <desc>National and international news.</desc>
+    <image>https://images.metadata.sky.com/pd-image/740bd836-be9a-4ce0-884e-0e7038dff19f/16-9</image>
+    <start>05:55PM</start>
     <finish>06:01PM</finish>
     <date>10 July 2025</date>
   </channel>
@@ -602,5 +593,842 @@
     <start>11:00PM</start>
     <finish>11:35PM</finish>
     <date>10 July 2025</date>
+  </channel>
+  <channel>
+    <name>RTE News Now IE</name>
+    <title>Nuacht RT?</title>
+    <desc>Pr?omhsc?alta an lae ? Nuacht RT?.</desc>
+    <image>https://images.metadata.sky.com/pd-image/88d4e849-7a37-4735-9b87-96ac9856d476/16-9</image>
+    <start>11:35PM</start>
+    <finish>12:00AM</finish>
+    <date>10 July 2025</date>
+  </channel>
+  <channel>
+    <name>RTE News Now IE</name>
+    <title>EuroNews</title>
+    <desc>The latest International and European news.</desc>
+    <image>https://images.metadata.sky.com/pd-image/42a4daf3-292d-48f8-ad84-2628e00fc810/16-9</image>
+    <start>12:00AM</start>
+    <finish>07:00AM</finish>
+    <date>11 July 2025</date>
+  </channel>
+  <channel>
+    <name>RTE News Now IE</name>
+    <title>Morning Ireland</title>
+    <desc>Morning news programme.</desc>
+    <image>https://images.metadata.sky.com/pd-image/8c20b7fd-7760-4e83-ab0a-0f3d6759908e/16-9</image>
+    <start>07:00AM</start>
+    <finish>09:00AM</finish>
+    <date>11 July 2025</date>
+  </channel>
+  <channel>
+    <name>RTE News Now IE</name>
+    <title>EuroNews</title>
+    <desc>Live news update from Euronews.</desc>
+    <image>https://images.metadata.sky.com/pd-image/50257d37-07ff-4030-939e-c32da02d65c9/16-9</image>
+    <start>09:00AM</start>
+    <finish>10:00AM</finish>
+    <date>11 July 2025</date>
+  </channel>
+  <channel>
+    <name>RTE News Now IE</name>
+    <title>Today with Claire Byrne</title>
+    <desc>The Today show live from RT? Radio 1.</desc>
+    <image>https://images.metadata.sky.com/pd-image/a78409cc-ca27-4747-bae2-99bf7cbff136/16-9</image>
+    <start>10:00AM</start>
+    <finish>10:30AM</finish>
+    <date>11 July 2025</date>
+  </channel>
+  <channel>
+    <name>RTE News Now IE</name>
+    <title>Mass</title>
+    <desc>Mass.</desc>
+    <image>https://images.metadata.sky.com/pd-image/59d20450-0d0b-4b8b-a9db-efc9983f6b02/16-9</image>
+    <start>10:30AM</start>
+    <finish>11:00AM</finish>
+    <date>11 July 2025</date>
+  </channel>
+  <channel>
+    <name>RTE News Now IE</name>
+    <title>Today with Claire Byrne</title>
+    <desc>The Today show live from RT? Radio 1.</desc>
+    <image>https://images.metadata.sky.com/pd-image/055a336c-11a7-4caf-9616-4a00ba65ea2a/16-9</image>
+    <start>11:00AM</start>
+    <finish>12:00PM</finish>
+    <date>11 July 2025</date>
+  </channel>
+  <channel>
+    <name>RTE News Now IE</name>
+    <title>Latest News and Weather</title>
+    <desc>The latest news from RT?. Followed by Weather.</desc>
+    <image>https://images.metadata.sky.com/pd-image/128fe8e0-dc94-47ed-b98a-e84b5c92baa8/16-9</image>
+    <start>12:00PM</start>
+    <finish>01:00PM</finish>
+    <date>11 July 2025</date>
+  </channel>
+  <channel>
+    <name>RTE News Now IE</name>
+    <title>RTE News</title>
+    <desc>(And Weather).</desc>
+    <image>https://images.metadata.sky.com/pd-image/61c32e74-4704-41e7-8581-37de30f47007/16-9</image>
+    <start>01:00PM</start>
+    <finish>01:30PM</finish>
+    <date>11 July 2025</date>
+  </channel>
+  <channel>
+    <name>RTE News Now IE</name>
+    <title>Latest News and Weather</title>
+    <desc>The latest news from RT?. Followed by Weather.</desc>
+    <image>https://images.metadata.sky.com/pd-image/ca5abfd0-9796-4395-92ce-f74b27ee270e/16-9</image>
+    <start>01:30PM</start>
+    <finish>02:00PM</finish>
+    <date>11 July 2025</date>
+  </channel>
+  <channel>
+    <name>RTE News Now IE</name>
+    <title>Latest News and Weather</title>
+    <desc>The latest news from RT?. Followed by Weather.</desc>
+    <image>https://images.metadata.sky.com/pd-image/028eec2c-7b73-4e2e-b335-0a34aecbba79/16-9</image>
+    <start>02:00PM</start>
+    <finish>03:00PM</finish>
+    <date>11 July 2025</date>
+  </channel>
+  <channel>
+    <name>RTE News Now IE</name>
+    <title>Latest News and Weather</title>
+    <desc>Latest News and Weather.</desc>
+    <image>https://images.metadata.sky.com/pd-image/49421d8f-45ed-4f5d-ba87-c148236e14ec/16-9</image>
+    <start>03:00PM</start>
+    <finish>03:45PM</finish>
+    <date>11 July 2025</date>
+  </channel>
+  <channel>
+    <name>RTE News Now IE</name>
+    <title>Latest News and Weather</title>
+    <desc>Latest News and Weather.</desc>
+    <image>https://images.metadata.sky.com/pd-image/954fad70-0d80-4551-b5a7-b103ac0ae857/16-9</image>
+    <start>03:45PM</start>
+    <finish>04:00PM</finish>
+    <date>11 July 2025</date>
+  </channel>
+  <channel>
+    <name>RTE News Now IE</name>
+    <title>Latest News and Weather</title>
+    <desc>The latest news from RT?. Followed by Weather.</desc>
+    <image>https://images.metadata.sky.com/pd-image/75dfa3a3-4880-4e19-8ece-03f063e30a01/16-9</image>
+    <start>04:00PM</start>
+    <finish>05:00PM</finish>
+    <date>11 July 2025</date>
+  </channel>
+  <channel>
+    <name>RTE News Now IE</name>
+    <title>Nuacht RT?</title>
+    <desc>Pr?omhsc?alta an lae ? Nuacht RT?.</desc>
+    <image>https://images.metadata.sky.com/pd-image/6349d6cb-e982-43d6-8245-3fec92554f1d/16-9</image>
+    <start>05:00PM</start>
+    <finish>05:10PM</finish>
+    <date>11 July 2025</date>
+  </channel>
+  <channel>
+    <name>RTE News Now IE</name>
+    <title>Latest News and Weather</title>
+    <desc>The latest news from RT?. Followed by Weather.</desc>
+    <image>https://images.metadata.sky.com/pd-image/e3516837-3284-4e0f-be5d-71a45269b610/16-9</image>
+    <start>05:10PM</start>
+    <finish>05:40PM</finish>
+    <date>11 July 2025</date>
+  </channel>
+  <channel>
+    <name>RTE News Now IE</name>
+    <title>Nuacht RT?</title>
+    <desc>Pr?omhsc?alta an lae ? Nuacht RT?.</desc>
+    <image>https://images.metadata.sky.com/pd-image/cb05d558-8f08-4f2d-ad8f-1280e0a92cfb/16-9</image>
+    <start>05:40PM</start>
+    <finish>05:50PM</finish>
+    <date>11 July 2025</date>
+  </channel>
+  <channel>
+    <name>RTE News Now IE</name>
+    <title>Latest News and Weather</title>
+    <desc>The latest news from RT?. Followed by Weather.</desc>
+    <image>https://images.metadata.sky.com/pd-image/1adb73cb-3821-47c9-93bd-5e9abc796a00/16-9</image>
+    <start>05:50PM</start>
+    <finish>05:55PM</finish>
+    <date>11 July 2025</date>
+  </channel>
+  <channel>
+    <name>RTE News Now IE</name>
+    <title>RT? News with Signing</title>
+    <desc>National and international news.</desc>
+    <image>https://images.metadata.sky.com/pd-image/09825d83-4faf-4fbc-85c5-7cfb757346fa/16-9</image>
+    <start>05:55PM</start>
+    <finish>06:01PM</finish>
+    <date>11 July 2025</date>
+  </channel>
+  <channel>
+    <name>RTE News Now IE</name>
+    <title>RT? News</title>
+    <desc>(And Weather).</desc>
+    <image>https://images.metadata.sky.com/pd-image/651e0a2e-27e0-4e53-b2c4-59a5457e3222/16-9</image>
+    <start>06:01PM</start>
+    <finish>07:00PM</finish>
+    <date>11 July 2025</date>
+  </channel>
+  <channel>
+    <name>RTE News Now IE</name>
+    <title>Latest News and Weather</title>
+    <desc>The latest news from RT?. Followed by Weather.</desc>
+    <image>https://images.metadata.sky.com/pd-image/25f782a9-a945-4d8f-9797-84f8edae8f07/16-9</image>
+    <start>07:00PM</start>
+    <finish>07:55PM</finish>
+    <date>11 July 2025</date>
+  </channel>
+  <channel>
+    <name>RTE News Now IE</name>
+    <title>UEFA Women's EURO 2025 Live</title>
+    <desc></desc>
+    <image>https://images.metadata.sky.com/pd-image/89a2d6bf-c9ed-41c6-ad95-27a7a431fd35/16-9</image>
+    <start>07:55PM</start>
+    <finish>10:00PM</finish>
+    <date>11 July 2025</date>
+  </channel>
+  <channel>
+    <name>RTE News Now IE</name>
+    <title>Latest News and Weather</title>
+    <desc>The latest news from RT?. Followed by Weather.</desc>
+    <image>https://images.metadata.sky.com/pd-image/ea93bb50-d9f6-4df3-b299-eda9b67fa4dd/16-9</image>
+    <start>10:00PM</start>
+    <finish>11:00PM</finish>
+    <date>11 July 2025</date>
+  </channel>
+  <channel>
+    <name>RTE News Now IE</name>
+    <title>Nuacht RT?</title>
+    <desc>Pr?omhsc?alta an lae ? Nuacht RT?.</desc>
+    <image>https://images.metadata.sky.com/pd-image/2a3c9e24-cc7d-40ff-bbd2-7959e37335ea/16-9</image>
+    <start>11:00PM</start>
+    <finish>11:25PM</finish>
+    <date>11 July 2025</date>
+  </channel>
+  <channel>
+    <name>RTE News Now IE</name>
+    <title>EuroNews</title>
+    <desc>The latest International and European news.</desc>
+    <image>https://images.metadata.sky.com/pd-image/396d22fc-03ce-47f2-bf2b-33789ba4930d/16-9</image>
+    <start>11:25PM</start>
+    <finish>08:00AM</finish>
+    <date>11 July 2025</date>
+  </channel>
+  <channel>
+    <name>RTE News Now IE</name>
+    <title>Current Affairs Round Up</title>
+    <desc>News and Current Affairs highlights from the past week.</desc>
+    <image>https://images.metadata.sky.com/pd-image/bf58bc18-57ec-4175-a4ef-de63e76b7bfc/16-9</image>
+    <start>08:00AM</start>
+    <finish>09:00AM</finish>
+    <date>12 July 2025</date>
+  </channel>
+  <channel>
+    <name>RTE News Now IE</name>
+    <title>Current Affairs Round Up</title>
+    <desc>News and Current Affairs highlights from the past week.</desc>
+    <image>https://images.metadata.sky.com/pd-image/91b45f7a-a561-4aff-bf95-67f2cfee5ff4/16-9</image>
+    <start>09:00AM</start>
+    <finish>10:00AM</finish>
+    <date>12 July 2025</date>
+  </channel>
+  <channel>
+    <name>RTE News Now IE</name>
+    <title>Current Affairs Round Up</title>
+    <desc>News and Current Affairs highlights from the past week.</desc>
+    <image>https://images.metadata.sky.com/pd-image/9eeec942-ad85-4b38-982b-43288a6886e0/16-9</image>
+    <start>10:00AM</start>
+    <finish>11:00AM</finish>
+    <date>12 July 2025</date>
+  </channel>
+  <channel>
+    <name>RTE News Now IE</name>
+    <title>Current Affairs Round Up</title>
+    <desc>News and Current Affairs highlights from the past week.</desc>
+    <image>https://images.metadata.sky.com/pd-image/24c76b22-4cc6-40be-912b-02fb229bf566/16-9</image>
+    <start>11:00AM</start>
+    <finish>12:00PM</finish>
+    <date>12 July 2025</date>
+  </channel>
+  <channel>
+    <name>RTE News Now IE</name>
+    <title>Current Affairs Round Up</title>
+    <desc>News and Current Affairs highlights from the past week.</desc>
+    <image>https://images.metadata.sky.com/pd-image/4ba98499-90a5-4cdf-8449-3e8a9e08f186/16-9</image>
+    <start>12:00PM</start>
+    <finish>01:05PM</finish>
+    <date>12 July 2025</date>
+  </channel>
+  <channel>
+    <name>RTE News Now IE</name>
+    <title>Saturday with Colm O'Mong?in</title>
+    <desc>Colm and guests discuss the issues of the week.</desc>
+    <image>https://images.metadata.sky.com/pd-image/7f737a95-671a-4e95-ba0e-a39ddcf498c0/16-9</image>
+    <start>01:05PM</start>
+    <finish>02:00PM</finish>
+    <date>12 July 2025</date>
+  </channel>
+  <channel>
+    <name>RTE News Now IE</name>
+    <title>Latest News and Weather</title>
+    <desc>Latest News and Weather.</desc>
+    <image>https://images.metadata.sky.com/pd-image/96edde5f-6739-4ace-9d37-87c0582052a4/16-9</image>
+    <start>02:00PM</start>
+    <finish>02:30PM</finish>
+    <date>12 July 2025</date>
+  </channel>
+  <channel>
+    <name>RTE News Now IE</name>
+    <title>Saturday Game Beo -</title>
+    <desc>This is RTE News.</desc>
+    <image>https://images.metadata.sky.com/pd-image/9fab4d6f-e7b8-4831-8c88-d10f1f37be93/16-9</image>
+    <start>02:30PM</start>
+    <finish>05:00PM</finish>
+    <date>12 July 2025</date>
+  </channel>
+  <channel>
+    <name>RTE News Now IE</name>
+    <title>Saturday Game Beo -</title>
+    <desc>This is RTE News.</desc>
+    <image>https://images.metadata.sky.com/pd-image/29b8fe0c-19eb-4671-a570-b0532e31ae41/16-9</image>
+    <start>05:00PM</start>
+    <finish>05:45PM</finish>
+    <date>12 July 2025</date>
+  </channel>
+  <channel>
+    <name>RTE News Now IE</name>
+    <title>Nuacht RT?</title>
+    <desc>Pr?omhsc?alta an lae ? Nuacht RT?.</desc>
+    <image>https://images.metadata.sky.com/pd-image/3504ca3a-e20f-4ed3-8f5e-970c7aca5970/16-9</image>
+    <start>05:45PM</start>
+    <finish>06:01PM</finish>
+    <date>12 July 2025</date>
+  </channel>
+  <channel>
+    <name>RTE News Now IE</name>
+    <title>RT? News</title>
+    <desc>National and international news from RT?.</desc>
+    <image>https://images.metadata.sky.com/pd-image/6c06fb62-0d65-49cd-8482-3f0f0e1d5d5c/16-9</image>
+    <start>06:01PM</start>
+    <finish>06:30PM</finish>
+    <date>12 July 2025</date>
+  </channel>
+  <channel>
+    <name>RTE News Now IE</name>
+    <title>Latest News and Weather</title>
+    <desc>Latest News and Weather.</desc>
+    <image>https://images.metadata.sky.com/pd-image/640cf770-fd6e-44ea-8c1e-d841afe6df6f/16-9</image>
+    <start>06:30PM</start>
+    <finish>07:00PM</finish>
+    <date>12 July 2025</date>
+  </channel>
+  <channel>
+    <name>RTE News Now IE</name>
+    <title>Latest News and Weather</title>
+    <desc>Latest News and Weather.</desc>
+    <image>https://images.metadata.sky.com/pd-image/72b8ea7f-d192-4396-9094-043378501754/16-9</image>
+    <start>07:00PM</start>
+    <finish>07:55PM</finish>
+    <date>12 July 2025</date>
+  </channel>
+  <channel>
+    <name>RTE News Now IE</name>
+    <title>UEFA Women's EURO 2025 Live</title>
+    <desc>This is RTE News.</desc>
+    <image>https://images.metadata.sky.com/pd-image/89a2d6bf-c9ed-41c6-ad95-27a7a431fd35/16-9</image>
+    <start>07:55PM</start>
+    <finish>10:00PM</finish>
+    <date>12 July 2025</date>
+  </channel>
+  <channel>
+    <name>RTE News Now IE</name>
+    <title>Saturday with Colm O'Mong?in</title>
+    <desc>Colm and guests discuss the issues of the week.</desc>
+    <image>https://images.metadata.sky.com/pd-image/6f2b307b-e463-4da6-9037-1783db03a6aa/16-9</image>
+    <start>10:00PM</start>
+    <finish>11:00PM</finish>
+    <date>12 July 2025</date>
+  </channel>
+  <channel>
+    <name>RTE News Now IE</name>
+    <title>Nuacht RT?</title>
+    <desc>Pr?omhsc?alta an lae ? Nuacht RT?.</desc>
+    <image>https://images.metadata.sky.com/pd-image/faf2a5ac-3429-41fc-b7a8-45f3551e716f/16-9</image>
+    <start>11:00PM</start>
+    <finish>11:15PM</finish>
+    <date>12 July 2025</date>
+  </channel>
+  <channel>
+    <name>RTE News Now IE</name>
+    <title>EuroNews</title>
+    <desc>The latest International and European news.</desc>
+    <image>https://images.metadata.sky.com/pd-image/3c2ee93a-36e9-4af5-a519-778391b59328/16-9</image>
+    <start>11:15PM</start>
+    <finish>08:00AM</finish>
+    <date>12 July 2025</date>
+  </channel>
+  <channel>
+    <name>RTE News Now IE</name>
+    <title>Current Affairs Round Up</title>
+    <desc>News and Current Affairs highlights from the past week.</desc>
+    <image>https://images.metadata.sky.com/pd-image/fc76756f-d57c-42ac-a6c9-e0326232a057/16-9</image>
+    <start>08:00AM</start>
+    <finish>09:00AM</finish>
+    <date>13 July 2025</date>
+  </channel>
+  <channel>
+    <name>RTE News Now IE</name>
+    <title>Current Affairs Round Up</title>
+    <desc>News and Current Affairs highlights from the past week.</desc>
+    <image>https://images.metadata.sky.com/pd-image/bda80cd3-676f-4d37-ac5b-e8c523fc9452/16-9</image>
+    <start>09:00AM</start>
+    <finish>10:00AM</finish>
+    <date>13 July 2025</date>
+  </channel>
+  <channel>
+    <name>RTE News Now IE</name>
+    <title>Current Affairs Round Up</title>
+    <desc>News and Current Affairs highlights from the past week.</desc>
+    <image>https://images.metadata.sky.com/pd-image/fc9be70b-2ae6-4ef5-ba9b-8f3de46b3845/16-9</image>
+    <start>10:00AM</start>
+    <finish>11:00AM</finish>
+    <date>13 July 2025</date>
+  </channel>
+  <channel>
+    <name>RTE News Now IE</name>
+    <title>National Day of Commemoration</title>
+    <desc>Live coverage from Collins Barracks, Cork of the annual military ceremony and multi-faith service. Introduced by Sin?ad Crowley and John Bowman.</desc>
+    <image>https://images.metadata.sky.com/pd-image/fe95a406-603c-45c8-9952-4fe9f9022897/16-9</image>
+    <start>11:00AM</start>
+    <finish>12:15PM</finish>
+    <date>13 July 2025</date>
+  </channel>
+  <channel>
+    <name>RTE News Now IE</name>
+    <title>The Week In Politics</title>
+    <desc>Reflections on the political week.</desc>
+    <image>https://images.metadata.sky.com/pd-image/f455d1da-c058-4f1f-bc5a-cec3ff370f5f/16-9</image>
+    <start>12:15PM</start>
+    <finish>01:00PM</finish>
+    <date>13 July 2025</date>
+  </channel>
+  <channel>
+    <name>RTE News Now IE</name>
+    <title>This Week</title>
+    <desc>Catch up on the events making the news in the past week.</desc>
+    <image>https://images.metadata.sky.com/pd-image/3874ac33-0713-4e66-b8c5-c00fd95c610d/16-9</image>
+    <start>01:00PM</start>
+    <finish>02:15PM</finish>
+    <date>13 July 2025</date>
+  </channel>
+  <channel>
+    <name>RTE News Now IE</name>
+    <title>Sunday Mass</title>
+    <desc>Sunday Mass.</desc>
+    <image>https://images.metadata.sky.com/pd-image/0a4fda1c-31e5-4ada-bee7-c444c5ae5446/16-9</image>
+    <start>02:15PM</start>
+    <finish>03:00PM</finish>
+    <date>13 July 2025</date>
+  </channel>
+  <channel>
+    <name>RTE News Now IE</name>
+    <title>The Week In Politics</title>
+    <desc>Reflections on the political week.</desc>
+    <image>https://images.metadata.sky.com/pd-image/eb14aab2-77f2-46de-872d-800d97ff88d7/16-9</image>
+    <start>03:00PM</start>
+    <finish>04:00PM</finish>
+    <date>13 July 2025</date>
+  </channel>
+  <channel>
+    <name>RTE News Now IE</name>
+    <title>Sunday Game Beo - D?n na nGall v Maigh Eo</title>
+    <desc>Craoladh ? Chraobh Peile na h?ireann i mbun tr?chtaireachta ? Ph?irc de h?de, Ros Com?in.</desc>
+    <image>https://images.metadata.sky.com/pd-image/69288a85-039e-4074-a393-a81a8b8d380e/16-9</image>
+    <start>04:00PM</start>
+    <finish>06:01PM</finish>
+    <date>13 July 2025</date>
+  </channel>
+  <channel>
+    <name>RTE News Now IE</name>
+    <title>RT? News</title>
+    <desc>(And Weather).</desc>
+    <image>https://images.metadata.sky.com/pd-image/a834b3f3-fea0-423b-bcde-7513d5a9172e/16-9</image>
+    <start>06:01PM</start>
+    <finish>06:30PM</finish>
+    <date>13 July 2025</date>
+  </channel>
+  <channel>
+    <name>RTE News Now IE</name>
+    <title>The Week In Politics</title>
+    <desc>Reflections on the political week.</desc>
+    <image>https://images.metadata.sky.com/pd-image/f5f8dbce-39a9-49fe-8a5c-12764cdc086b/16-9</image>
+    <start>06:30PM</start>
+    <finish>07:15PM</finish>
+    <date>13 July 2025</date>
+  </channel>
+  <channel>
+    <name>RTE News Now IE</name>
+    <title>Latest News and Weather</title>
+    <desc>Latest News and Weather.</desc>
+    <image>https://images.metadata.sky.com/pd-image/4e321106-1b51-490e-b00d-13843f37d24a/16-9</image>
+    <start>07:15PM</start>
+    <finish>07:55PM</finish>
+    <date>13 July 2025</date>
+  </channel>
+  <channel>
+    <name>RTE News Now IE</name>
+    <title>UEFA Women's EURO 2025 Live</title>
+    <desc>This is RTE News.</desc>
+    <image>https://images.metadata.sky.com/pd-image/89a2d6bf-c9ed-41c6-ad95-27a7a431fd35/16-9</image>
+    <start>07:55PM</start>
+    <finish>10:00PM</finish>
+    <date>13 July 2025</date>
+  </channel>
+  <channel>
+    <name>RTE News Now IE</name>
+    <title>The Week In Politics</title>
+    <desc>Reflections on the political week.</desc>
+    <image>https://images.metadata.sky.com/pd-image/c340d9ea-deb7-487a-ae8f-ab2c2f32d29b/16-9</image>
+    <start>10:00PM</start>
+    <finish>11:00PM</finish>
+    <date>13 July 2025</date>
+  </channel>
+  <channel>
+    <name>RTE News Now IE</name>
+    <title>Nuacht RT?</title>
+    <desc>Pr?omhsc?alta an lae ? Nuacht RT?.</desc>
+    <image>https://images.metadata.sky.com/pd-image/d6e42099-d3c6-402b-9345-1b7af638c115/16-9</image>
+    <start>11:00PM</start>
+    <finish>11:15PM</finish>
+    <date>13 July 2025</date>
+  </channel>
+  <channel>
+    <name>RTE News Now IE</name>
+    <title>EuroNews</title>
+    <desc>The latest International and European news.</desc>
+    <image>https://images.metadata.sky.com/pd-image/b689433b-72ca-4075-bae5-1b2b71790d7c/16-9</image>
+    <start>11:15PM</start>
+    <finish>06:00AM</finish>
+    <date>13 July 2025</date>
+  </channel>
+  <channel>
+    <name>RTE News Now IE</name>
+    <title>This is RTE News</title>
+    <desc>This is RTE News.</desc>
+    <image>https://images.metadata.sky.com/pd-image/6dc06fdf-e314-4e8a-9c8d-b2cf979b1c0c/16-9</image>
+    <start>06:00AM</start>
+    <finish>06:30AM</finish>
+    <date>14 July 2025</date>
+  </channel>
+  <channel>
+    <name>RTE News Now IE</name>
+    <title>This is RTE News</title>
+    <desc>This is RTE News.</desc>
+    <image>https://images.metadata.sky.com/pd-image/767719ac-7f38-42a4-b9d1-c902ac831cbe/16-9</image>
+    <start>06:30AM</start>
+    <finish>07:00AM</finish>
+    <date>14 July 2025</date>
+  </channel>
+  <channel>
+    <name>RTE News Now IE</name>
+    <title>This is RTE News</title>
+    <desc>This is RTE News.</desc>
+    <image>https://images.metadata.sky.com/pd-image/14178b91-ddef-46f1-9ff6-39ebf455e284/16-9</image>
+    <start>07:00AM</start>
+    <finish>07:30AM</finish>
+    <date>14 July 2025</date>
+  </channel>
+  <channel>
+    <name>RTE News Now IE</name>
+    <title>This is RTE News</title>
+    <desc>This is RTE News.</desc>
+    <image>https://images.metadata.sky.com/pd-image/fc2b932f-9225-4bb8-9973-aa7b8bbf7952/16-9</image>
+    <start>07:30AM</start>
+    <finish>08:00AM</finish>
+    <date>14 July 2025</date>
+  </channel>
+  <channel>
+    <name>RTE News Now IE</name>
+    <title>This is RTE News</title>
+    <desc>This is RTE News.</desc>
+    <image>https://images.metadata.sky.com/pd-image/ec9614ed-b02a-4a99-81ba-b7a43fa716f6/16-9</image>
+    <start>08:00AM</start>
+    <finish>08:30AM</finish>
+    <date>14 July 2025</date>
+  </channel>
+  <channel>
+    <name>RTE News Now IE</name>
+    <title>This is RTE News</title>
+    <desc>This is RTE News.</desc>
+    <image>https://images.metadata.sky.com/pd-image/bf14b560-b1d0-476a-b081-8d1e396e1256/16-9</image>
+    <start>08:30AM</start>
+    <finish>09:00AM</finish>
+    <date>14 July 2025</date>
+  </channel>
+  <channel>
+    <name>RTE News Now IE</name>
+    <title>This is RTE News</title>
+    <desc>This is RTE News.</desc>
+    <image>https://images.metadata.sky.com/pd-image/466d29a3-77f9-415b-90c6-35058c8dbfa5/16-9</image>
+    <start>09:00AM</start>
+    <finish>09:30AM</finish>
+    <date>14 July 2025</date>
+  </channel>
+  <channel>
+    <name>RTE News Now IE</name>
+    <title>This is RTE News</title>
+    <desc>This is RTE News.</desc>
+    <image>https://images.metadata.sky.com/pd-image/916f9bee-3b26-4f0f-8b17-968eb88bff3a/16-9</image>
+    <start>09:30AM</start>
+    <finish>10:00AM</finish>
+    <date>14 July 2025</date>
+  </channel>
+  <channel>
+    <name>RTE News Now IE</name>
+    <title>This is RTE News</title>
+    <desc>This is RTE News.</desc>
+    <image>https://images.metadata.sky.com/pd-image/03abee40-595f-48c4-af19-9f34dab74413/16-9</image>
+    <start>10:00AM</start>
+    <finish>10:30AM</finish>
+    <date>14 July 2025</date>
+  </channel>
+  <channel>
+    <name>RTE News Now IE</name>
+    <title>This is RTE News</title>
+    <desc>This is RTE News.</desc>
+    <image>https://images.metadata.sky.com/pd-image/c9eacfae-138c-421c-88f7-59979f3fe3f0/16-9</image>
+    <start>10:30AM</start>
+    <finish>11:00AM</finish>
+    <date>14 July 2025</date>
+  </channel>
+  <channel>
+    <name>RTE News Now IE</name>
+    <title>This is RTE News</title>
+    <desc>This is RTE News.</desc>
+    <image>https://images.metadata.sky.com/pd-image/6e6208e5-1c6b-4c90-9e4f-4eac5aeed152/16-9</image>
+    <start>11:00AM</start>
+    <finish>11:30AM</finish>
+    <date>14 July 2025</date>
+  </channel>
+  <channel>
+    <name>RTE News Now IE</name>
+    <title>This is RTE News</title>
+    <desc>This is RTE News.</desc>
+    <image>https://images.metadata.sky.com/pd-image/185220d3-0fb3-43bf-9f62-1e3d92f309cb/16-9</image>
+    <start>11:30AM</start>
+    <finish>12:00PM</finish>
+    <date>14 July 2025</date>
+  </channel>
+  <channel>
+    <name>RTE News Now IE</name>
+    <title>This is RTE News</title>
+    <desc>This is RTE News.</desc>
+    <image>https://images.metadata.sky.com/pd-image/762f10e4-55fb-4c7f-a729-3b5f7d0e2b2c/16-9</image>
+    <start>12:00PM</start>
+    <finish>12:30PM</finish>
+    <date>14 July 2025</date>
+  </channel>
+  <channel>
+    <name>RTE News Now IE</name>
+    <title>This is RTE News</title>
+    <desc>This is RTE News.</desc>
+    <image>https://images.metadata.sky.com/pd-image/6787b6a8-4c8d-4e98-858d-5e64180f0e3f/16-9</image>
+    <start>12:30PM</start>
+    <finish>01:00PM</finish>
+    <date>14 July 2025</date>
+  </channel>
+  <channel>
+    <name>RTE News Now IE</name>
+    <title>This is RTE News</title>
+    <desc>This is RTE News.</desc>
+    <image>https://images.metadata.sky.com/pd-image/aba63913-4841-4be9-907a-2be4e0574e70/16-9</image>
+    <start>01:00PM</start>
+    <finish>01:30PM</finish>
+    <date>14 July 2025</date>
+  </channel>
+  <channel>
+    <name>RTE News Now IE</name>
+    <title>This is RTE News</title>
+    <desc>This is RTE News.</desc>
+    <image>https://images.metadata.sky.com/pd-image/59d9aacb-3865-4d45-a24a-e3d1bb0b86cb/16-9</image>
+    <start>01:30PM</start>
+    <finish>02:00PM</finish>
+    <date>14 July 2025</date>
+  </channel>
+  <channel>
+    <name>RTE News Now IE</name>
+    <title>This is RTE News</title>
+    <desc>This is RTE News.</desc>
+    <image>https://images.metadata.sky.com/pd-image/1b82fb12-7c25-4ea8-aa68-abdf0c516307/16-9</image>
+    <start>02:00PM</start>
+    <finish>02:30PM</finish>
+    <date>14 July 2025</date>
+  </channel>
+  <channel>
+    <name>RTE News Now IE</name>
+    <title>This is RTE News</title>
+    <desc>This is RTE News.</desc>
+    <image>https://images.metadata.sky.com/pd-image/f9e7cef8-f7b0-4111-b64d-e1d56e4cbe73/16-9</image>
+    <start>02:30PM</start>
+    <finish>03:00PM</finish>
+    <date>14 July 2025</date>
+  </channel>
+  <channel>
+    <name>RTE News Now IE</name>
+    <title>This is RTE News</title>
+    <desc>This is RTE News.</desc>
+    <image>https://images.metadata.sky.com/pd-image/d1d3dc77-7e63-449d-b3bc-eb87692de441/16-9</image>
+    <start>03:00PM</start>
+    <finish>03:30PM</finish>
+    <date>14 July 2025</date>
+  </channel>
+  <channel>
+    <name>RTE News Now IE</name>
+    <title>This is RTE News</title>
+    <desc>This is RTE News.</desc>
+    <image>https://images.metadata.sky.com/pd-image/3188f011-ffe1-4c98-8b3c-aa99e65db4f9/16-9</image>
+    <start>03:30PM</start>
+    <finish>04:00PM</finish>
+    <date>14 July 2025</date>
+  </channel>
+  <channel>
+    <name>RTE News Now IE</name>
+    <title>This is RTE News</title>
+    <desc>This is RTE News.</desc>
+    <image>https://images.metadata.sky.com/pd-image/7e60a8fc-eec3-4ab0-aa68-9a45178fb8d9/16-9</image>
+    <start>04:00PM</start>
+    <finish>04:30PM</finish>
+    <date>14 July 2025</date>
+  </channel>
+  <channel>
+    <name>RTE News Now IE</name>
+    <title>This is RTE News</title>
+    <desc>This is RTE News.</desc>
+    <image>https://images.metadata.sky.com/pd-image/6155c798-bf6f-44e3-a07b-821ac88ea3bb/16-9</image>
+    <start>04:30PM</start>
+    <finish>05:00PM</finish>
+    <date>14 July 2025</date>
+  </channel>
+  <channel>
+    <name>RTE News Now IE</name>
+    <title>This is RTE News</title>
+    <desc>This is RTE News.</desc>
+    <image>https://images.metadata.sky.com/pd-image/14147c82-f159-48fb-abdc-32c29ffd2ebb/16-9</image>
+    <start>05:00PM</start>
+    <finish>05:30PM</finish>
+    <date>14 July 2025</date>
+  </channel>
+  <channel>
+    <name>RTE News Now IE</name>
+    <title>This is RTE News</title>
+    <desc>This is RTE News.</desc>
+    <image>https://images.metadata.sky.com/pd-image/2bea42a2-57bc-46d1-a47f-c552696d8d7d/16-9</image>
+    <start>05:30PM</start>
+    <finish>06:00PM</finish>
+    <date>14 July 2025</date>
+  </channel>
+  <channel>
+    <name>RTE News Now IE</name>
+    <title>This is RTE News</title>
+    <desc>This is RTE News.</desc>
+    <image>https://images.metadata.sky.com/pd-image/d930a51e-c552-445f-98c3-d339a4f3584b/16-9</image>
+    <start>06:00PM</start>
+    <finish>06:30PM</finish>
+    <date>14 July 2025</date>
+  </channel>
+  <channel>
+    <name>RTE News Now IE</name>
+    <title>This is RTE News</title>
+    <desc>This is RTE News.</desc>
+    <image>https://images.metadata.sky.com/pd-image/88ae39d3-b804-4b79-ba2e-ed635004da8e/16-9</image>
+    <start>06:30PM</start>
+    <finish>07:00PM</finish>
+    <date>14 July 2025</date>
+  </channel>
+  <channel>
+    <name>RTE News Now IE</name>
+    <title>This is RTE News</title>
+    <desc>This is RTE News.</desc>
+    <image>https://images.metadata.sky.com/pd-image/2e9217af-dd87-4f84-b531-88d462627bb1/16-9</image>
+    <start>07:00PM</start>
+    <finish>07:30PM</finish>
+    <date>14 July 2025</date>
+  </channel>
+  <channel>
+    <name>RTE News Now IE</name>
+    <title>This is RTE News</title>
+    <desc>This is RTE News.</desc>
+    <image>https://images.metadata.sky.com/pd-image/14705f18-105b-4e21-a9b0-5e0899499c4c/16-9</image>
+    <start>07:30PM</start>
+    <finish>08:00PM</finish>
+    <date>14 July 2025</date>
+  </channel>
+  <channel>
+    <name>RTE News Now IE</name>
+    <title>This is RTE News</title>
+    <desc>This is RTE News.</desc>
+    <image>https://images.metadata.sky.com/pd-image/9ac3ab55-486d-4040-a448-402b020b2569/16-9</image>
+    <start>08:00PM</start>
+    <finish>08:30PM</finish>
+    <date>14 July 2025</date>
+  </channel>
+  <channel>
+    <name>RTE News Now IE</name>
+    <title>This is RTE News</title>
+    <desc>This is RTE News.</desc>
+    <image>https://images.metadata.sky.com/pd-image/e600ec42-e6d7-48b9-9eb7-5e0335a5ef1a/16-9</image>
+    <start>08:30PM</start>
+    <finish>09:00PM</finish>
+    <date>14 July 2025</date>
+  </channel>
+  <channel>
+    <name>RTE News Now IE</name>
+    <title>This is RTE News</title>
+    <desc>This is RTE News.</desc>
+    <image>https://images.metadata.sky.com/pd-image/9d51136a-2d8e-4e45-a604-5e4fe284548c/16-9</image>
+    <start>09:00PM</start>
+    <finish>09:30PM</finish>
+    <date>14 July 2025</date>
+  </channel>
+  <channel>
+    <name>RTE News Now IE</name>
+    <title>This is RTE News</title>
+    <desc>This is RTE News.</desc>
+    <image>https://images.metadata.sky.com/pd-image/64791cd6-1c93-459d-9757-46cdc30ffcc3/16-9</image>
+    <start>09:30PM</start>
+    <finish>10:00PM</finish>
+    <date>14 July 2025</date>
+  </channel>
+  <channel>
+    <name>RTE News Now IE</name>
+    <title>This is RTE News</title>
+    <desc>This is RTE News.</desc>
+    <image>https://images.metadata.sky.com/pd-image/3791a01a-7617-45ce-abdd-688d61c1fe7f/16-9</image>
+    <start>10:00PM</start>
+    <finish>10:30PM</finish>
+    <date>14 July 2025</date>
+  </channel>
+  <channel>
+    <name>RTE News Now IE</name>
+    <title>This is RTE News</title>
+    <desc>This is RTE News.</desc>
+    <image>https://images.metadata.sky.com/pd-image/66c69540-e550-4b11-92cb-884c8d877ba3/16-9</image>
+    <start>10:30PM</start>
+    <finish>11:00PM</finish>
+    <date>14 July 2025</date>
+  </channel>
+  <channel>
+    <name>RTE News Now IE</name>
+    <title>This is RTE News</title>
+    <desc>This is RTE News.</desc>
+    <image>https://images.metadata.sky.com/pd-image/bb1a82d4-8f9d-468e-9c7d-b79985244061/16-9</image>
+    <start>11:00PM</start>
+    <finish>11:30PM</finish>
+    <date>14 July 2025</date>
   </channel>
 </tv>
