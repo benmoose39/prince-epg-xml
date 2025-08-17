@@ -131,7 +131,7 @@ if __name__ == '__main__':
 
                 ch_id = doc.createElement('id')
                 ch_id_text = doc.createTextNode(f'{program["channel_id"]}')
-                ch_name.appendChild(ch_id_text)
+                ch_id.appendChild(ch_id_text)
                 ch.appendChild(ch_id)
 
                 title = doc.createElement('title')
