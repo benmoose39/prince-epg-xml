@@ -16,7 +16,7 @@ if __name__ == '__main__':
 
     channel_dict = {}
     for channel in channels:
-        key = channel.attributes['id'].value.split('.')[0]
+        key = channel.attributes['id'].value #.split('.')[0]
         value_tag = channel.getElementsByTagName('display-name')
         value = value_tag[0].firstChild.data if value_tag.length > 0 else ''
         channel_dict[key] = value
@@ -24,7 +24,7 @@ if __name__ == '__main__':
     master = {}
     for program in programs:
         channel = program.attributes['channel'].value
-        channel = channel.split('.')[0]
+        channel = channel #.split('.')[0]
         channel_name = channel_dict.get(channel, channel)
         if channel not in master:
             master[channel] = []
@@ -53,6 +53,7 @@ if __name__ == '__main__':
         
         master[channel].append({
                 'channel_name': channel_name,
+                'channel_id': channel,
                 'start_time': datetime.datetime.strftime(start, '%d %B %Y %I:%M%p %Z'),
                 'start': datetime.datetime.strftime(start, '%I:%M%p'),
                 'start_date': datetime.datetime.strftime(start, '%d %B %Y'),
@@ -127,6 +128,11 @@ if __name__ == '__main__':
                 ch_name_text = doc.createTextNode(f'{program["channel_name"]}')
                 ch_name.appendChild(ch_name_text)
                 ch.appendChild(ch_name)
+
+                ch_id = doc.createElement('id')
+                ch_id_text = doc.createTextNode(f'{program["channel_id"]}')
+                ch_name.appendChild(ch_id_text)
+                ch.appendChild(ch_id)
 
                 title = doc.createElement('title')
                 title_text = doc.createTextNode(f'{program["title"]}')
