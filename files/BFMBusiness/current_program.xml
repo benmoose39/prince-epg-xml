@@ -1,12 +1,21 @@
 <?xml version="1.0" ?>
 <tv>
   <channel>
-    <name>BFM Business FR</name>
-    <title>OFF Air</title>
-    <desc>This channel is off air, or it has temporarily no EPG data yet. We are working on a fix.</desc>
-    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
-    <start>12:30AM</start>
-    <finish>01:00AM</finish>
-    <date>15 August 2025</date>
+    <name>BFM Business Fr</name>
+    <title>La France a tout pour r?ussir</title>
+    <desc>Un concentr? d'?conomie positive pr?sent? par J?r?me Tichit.</desc>
+    <image>https://resize.programme-television.org/landscape_1280_webp/images/imported/programs/383873663/fe3e72dbde1e4da891dc07f93bb5e18c</image>
+    <start>10:00AM</start>
+    <finish>10:30AM</finish>
+    <date>17 August 2025</date>
+  </channel>
+  <channel>
+    <name>BFM Business Fr</name>
+    <title>C'est votre argent !</title>
+    <desc></desc>
+    <image>http://static-cdn.tv.sfr.net/data/img/pl/8/3/2/5782238.jpg</image>
+    <start>10:00AM</start>
+    <finish>11:00AM</finish>
+    <date>17 August 2025</date>
   </channel>
 </tv>
