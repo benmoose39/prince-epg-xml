@@ -177,7 +177,7 @@ if __name__ == '__main__':
         with open (f'{channel}/epg.xml', 'w', encoding='utf-8') as f:
             f.write(xml_str)
 
-    current_program_master += '\n</tv>'
+    current_program_master += '</tv>'
     with open (f'now_playing.xml', 'w', encoding='utf-8') as f:
         f.write(current_program_master)
 
