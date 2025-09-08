@@ -70,6 +70,8 @@ if __name__ == '__main__':
         os.mkdir('files')
     os.chdir('files')
 
+    current_program_master = '<?xml version="1.0" ?>\n'
+
     count = 0
     total_channels = len(master)
     for channel in master:
@@ -86,8 +88,6 @@ if __name__ == '__main__':
         doc = minidom.Document()
         root = doc.createElement("tv")
         doc.appendChild(root)
-
-        current_program_master = '<?xml version="1.0" ?>\n'
 
         '''
         now_and_upcoming = ''
@@ -177,8 +177,8 @@ if __name__ == '__main__':
         with open (f'{channel}/epg.xml', 'w', encoding='utf-8') as f:
             f.write(xml_str)
             
-        with open (f'now_playing.xml', 'w', encoding='utf-8') as f:
-            f.write(current_program_master)
+    with open (f'now_playing.xml', 'w', encoding='utf-8') as f:
+        f.write(current_program_master)
 
 
 
