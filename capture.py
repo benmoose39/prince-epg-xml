@@ -70,7 +70,7 @@ if __name__ == '__main__':
         os.mkdir('files')
     os.chdir('files')
 
-    current_program_master = '<?xml version="1.0" ?>\n'
+    current_program_master = '<?xml version="1.0" ?>\n<tv>'
 
     count = 0
     total_channels = len(master)
@@ -170,13 +170,14 @@ if __name__ == '__main__':
                     xml_current = doc.toprettyxml(indent='  ')
                     with open (f'{channel}/current_program.xml', 'w', encoding='utf-8') as f:
                         f.write(xml_current)
-                    current_program_master += '\n'.join(xml_current.split('\n')[1:])
+                    current_program_master += '\n'.join(xml_current.split('\n')[2:-1])
 
         xml_str = doc.toprettyxml(indent='  ')
         
         with open (f'{channel}/epg.xml', 'w', encoding='utf-8') as f:
             f.write(xml_str)
-            
+
+    current_program_master += '\n</tv>'
     with open (f'now_playing.xml', 'w', encoding='utf-8') as f:
         f.write(current_program_master)
 
