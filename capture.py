@@ -87,6 +87,8 @@ if __name__ == '__main__':
         root = doc.createElement("tv")
         doc.appendChild(root)
 
+        current_program_master = '<?xml version="1.0" ?>\n'
+
         '''
         now_and_upcoming = ''
         for program in master[channel]:
@@ -168,12 +170,18 @@ if __name__ == '__main__':
                     xml_current = doc.toprettyxml(indent='  ')
                     with open (f'{channel}/current_program.xml', 'w', encoding='utf-8') as f:
                         f.write(xml_current)
-
-        
+                    current_program_master += '\n'.join(xml_current.split('\n')[1:])
 
         xml_str = doc.toprettyxml(indent='  ')
         
         with open (f'{channel}/epg.xml', 'w', encoding='utf-8') as f:
             f.write(xml_str)
+            
+        with open (f'now_playing.xml', 'w', encoding='utf-8') as f:
+            f.write(current_program_master)
+
+
+
+
         
     
