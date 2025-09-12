@@ -1,13 +1,23 @@
 <?xml version="1.0" ?>
 <tv>
   <channel>
-    <name>BFM Business FR</name>
+    <name>BFM Business Fr</name>
     <id>BFMBusiness.fr</id>
-    <title>BFM climat</title>
+    <title>Good Morning Market</title>
+    <desc></desc>
+    <image>http://static-cdn.tv.sfr.net/data/img/pl/6/8/9/12646986.jpg</image>
+    <start>08:00AM</start>
+    <finish>09:00AM</finish>
+    <date>12 September 2025</date>
+  </channel>
+  <channel>
+    <name>BFM Business Fr</name>
+    <id>BFMBusiness.fr</id>
+    <title>Tout pour investir</title>
     <desc>Pas de description disponible.</desc>
-    <image>https://resize.programme-television.org/landscape_1280_webp/images/imported/programs/386850560/abf41f61f4ac4d76a5e325d05ced69a5.jpg</image>
-    <start>07:30PM</start>
-    <finish>08:00PM</finish>
-    <date>08 September 2025</date>
+    <image>https://resize.programme-television.org/landscape_1280_webp/images/imported/programs/387239845/5a81e56cde7d4752b8c2c61c181bbbea</image>
+    <start>08:00AM</start>
+    <finish>09:00AM</finish>
+    <date>12 September 2025</date>
   </channel>
 </tv>
