@@ -26,8 +26,8 @@
     <title>This is Arise News</title>
     <desc>This is Arise News.</desc>
     <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
-    <start>10:00PM</start>
-    <finish>10:30PM</finish>
+    <start>10:30PM</start>
+    <finish>11:00PM</finish>
     <date>18 September 2025</date>
   </channel>
   <channel>
@@ -53,21 +53,21 @@
   <channel>
     <name>BBC News UK</name>
     <id>BBCNews.uk</id>
-    <title>BBC News at Ten</title>
-    <desc>The latest national and international news, with reports from BBC correspondents worldwide.</desc>
-    <image>https://images.metadata.sky.com/pd-image/a250c163-2358-400d-a68b-6df655d23055/16-9</image>
-    <start>10:00PM</start>
-    <finish>10:30PM</finish>
+    <title>Newsnight</title>
+    <desc>Insights and global interviews on the news stories of the day. With Victoria Derbyshire.</desc>
+    <image>https://images.metadata.sky.com/pd-image/6b2d88bd-da32-4946-9ae0-418f8ce4d462/16-9</image>
+    <start>10:30PM</start>
+    <finish>11:00PM</finish>
     <date>18 September 2025</date>
   </channel>
   <channel>
     <name>BBC One NL</name>
     <id>BBCOne.nl</id>
-    <title>BBC News at Ten</title>
-    <desc>The latest national and international news.</desc>
-    <image>https://staticqbr-nl-prod.prod.cdn.dmdsdp.com/image-service/ImagesEPG/EventImages/p8098033_bd_h8_ac.jpg</image>
-    <start>10:00PM</start>
-    <finish>10:30PM</finish>
+    <title>Question Time</title>
+    <desc>Features a studio audience quizzing top politicians on the events of the day. The panel surrounding presenter Fiona Bruce is composed of at least one member of the three major parties.</desc>
+    <image>https://staticqbr-nl-prod.prod.cdn.dmdsdp.com/image-service/ImagesEPG/EventImages/p279016_bd_h8_aa.jpg</image>
+    <start>10:40PM</start>
+    <finish>11:40PM</finish>
     <date>18 September 2025</date>
   </channel>
   <channel>
@@ -84,11 +84,11 @@
   <channel>
     <name>BBC Two NL</name>
     <id>BBCTwo.nl</id>
-    <title>Missing in Paradise: Searching for Sarm</title>
-    <desc>Tir meets with island police and is given CCTV footage that has never been released, showing Sarm's last known movements with her boyfriend, Ryan Bane.</desc>
-    <image>https://staticqbr-nl-prod.prod.cdn.dmdsdp.com/image-service/ImagesEPG/EventImages/g89_h10_aa.jpg</image>
-    <start>10:00PM</start>
-    <finish>10:30PM</finish>
+    <title>Newsnight</title>
+    <desc>Featuring extensive coverage of the day's top national and international news stories, along with explanations about the context and potential aftereffects.</desc>
+    <image>https://staticqbr-nl-prod.prod.cdn.dmdsdp.com/image-service/ImagesEPG/EventImages/p269693_bd_h8_ab.jpg</image>
+    <start>10:30PM</start>
+    <finish>10:58PM</finish>
     <date>18 September 2025</date>
   </channel>
   <channel>
@@ -124,11 +124,11 @@
   <channel>
     <name>EWTN UK</name>
     <id>EWTN.uk</id>
-    <title>The gospel of life vs. the culture of death</title>
-    <desc>Father Wade Menezes looks at twenty individuals whose political agendas have influenced modern culture.</desc>
+    <title>EWTN Bookmark</title>
+    <desc>Doug and Dr. Sri discuss what can make the initial efforts of evangelization successful and how sharing the details of doctrine, rules, and regulations of pract.</desc>
     <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
-    <start>10:00PM</start>
-    <finish>10:30PM</finish>
+    <start>10:30PM</start>
+    <finish>11:00PM</finish>
     <date>18 September 2025</date>
   </channel>
   <channel>
@@ -136,9 +136,9 @@
     <id>EuroNews.uk</id>
     <title>The European Debrief</title>
     <desc>Live headlines, breaking news, analysis and interviews from Europe's News Centre.</desc>
-    <image>https://images.metadata.sky.com/pd-image/5fe281ee-ee7a-4c45-8b7d-d8b98a23f2aa/16-9</image>
-    <start>10:15PM</start>
-    <finish>10:30PM</finish>
+    <image>https://images.metadata.sky.com/pd-image/d9b0d818-59ef-4606-a8f8-556673aa370c/16-9</image>
+    <start>10:30PM</start>
+    <finish>11:00PM</finish>
     <date>18 September 2025</date>
   </channel>
   <channel>
@@ -149,16 +149,6 @@
     <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
     <start>10:00PM</start>
     <finish>11:00PM</finish>
-    <date>18 September 2025</date>
-  </channel>
-  <channel>
-    <name>ITV 1 UK</name>
-    <id>ITV1.uk</id>
-    <title>ITV News at Ten</title>
-    <desc>ITV News provides a fresh perspective on the major stories of the day with national and international news with reports and analysis from ITV's Correspondents.</desc>
-    <image>https://images.metadata.sky.com/pd-image/b48cd561-a6cd-4424-a952-592aca05a57a/16-9</image>
-    <start>10:00PM</start>
-    <finish>10:30PM</finish>
     <date>18 September 2025</date>
   </channel>
   <channel>
@@ -174,11 +164,11 @@
   <channel>
     <name>La Otra ES</name>
     <id>LaOtra.es</id>
-    <title>?Qu? comemos!</title>
-    <desc>El programa pone el foco en que el aumento de la esperanza de vida en el siglo XX.</desc>
-    <image>https://www.movistarplus.es/recorte/n/caratulaH/MOTRAP3286075</image>
-    <start>09:36PM</start>
-    <finish>10:28PM</finish>
+    <title>Cine</title>
+    <desc></desc>
+    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
+    <start>10:28PM</start>
+    <finish>12:31AM</finish>
     <date>18 September 2025</date>
   </channel>
   <channel>
@@ -205,30 +195,20 @@
     <name>Nick Jr UK</name>
     <id>NickJunior.uk</id>
     <title>Peppa Pig</title>
-    <desc>Police Officer Panda and Police Officer Squirrel have come to teach Peppa and her friends all about bicycle safety.</desc>
-    <image>https://images.metadata.sky.com/pd-image/dd1ecf83-bf7f-4d84-8802-8214425f53da/16-9</image>
-    <start>10:20PM</start>
-    <finish>10:30PM</finish>
+    <desc>It is Molly Mole's first day at school and she quickly makes best friends with Peppa and Rebecca Rabbit.</desc>
+    <image>https://images.metadata.sky.com/pd-image/2a679861-9b5a-49e6-a111-c0f079b70ca2/16-9</image>
+    <start>10:45PM</start>
+    <finish>10:50PM</finish>
     <date>18 September 2025</date>
   </channel>
   <channel>
     <name>PTC Punjabi UK</name>
     <id>PTCPunjabi.uk</id>
-    <title>Family Guest House</title>
-    <desc>A comedy show in lovely punjabi language.</desc>
-    <image>https://images.metadata.sky.com/pd-image/cdc80baa-2298-4e63-b893-ed1a52eed87a/16-9</image>
-    <start>10:00PM</start>
-    <finish>10:30PM</finish>
-    <date>18 September 2025</date>
-  </channel>
-  <channel>
-    <name>Porto Canal PT</name>
-    <id>Porto.pt</id>
-    <title>Informa??o N?o Disponibilizada Pelo Canal</title>
-    <desc></desc>
-    <image>https://mage.stream.nos.pt/v1/nostv_mage/Images?sourceUri=http%3A%2F%2Fvip.pam.local.internal%2FPAM.Images%2FStore%2Ff8543781d3ba4a5d81701c6eb65a477e</image>
-    <start>04:30PM</start>
-    <finish>10:30PM</finish>
+    <title>Crazy Tabbar</title>
+    <desc>Members of a tight-knit family get into a series of comedic situations as they support each other through the ups and downs of life.</desc>
+    <image>https://images.metadata.sky.com/pd-image/41b2d9c1-087e-4c98-ab25-28c1fcb27c97/16-9</image>
+    <start>10:30PM</start>
+    <finish>11:00PM</finish>
     <date>18 September 2025</date>
   </channel>
   <channel>
@@ -274,11 +254,11 @@
   <channel>
     <name>RTP Internacional PT</name>
     <id>RTPInternacional.pt</id>
-    <title>Joker</title>
-    <desc>Um u00fanico concorrente, sem adversu00e1rios, usa todos os trunfos para ganhar o pru00e9mio mu00e1ximo de 50.000 euros.</desc>
-    <image>https://cdn-images.rtp.pt/EPG/imagens/44399_69730_86456.jpg</image>
-    <start>09:30PM</start>
-    <finish>10:30PM</finish>
+    <title>Amu00e1lia Hoje</title>
+    <desc>Celebrau00e7u00e3o da vida e obra da maior estrela da mu00fasica portuguesa, Amu00e1lia Rodrigues.</desc>
+    <image>https://cdn-images.rtp.pt/EPG/imagens/47854_77141_70682.jpg</image>
+    <start>10:30PM</start>
+    <finish>12:00AM</finish>
     <date>18 September 2025</date>
   </channel>
   <channel>
@@ -294,21 +274,21 @@
   <channel>
     <name>Rtp 1 PT</name>
     <id>Rtp1.pt</id>
-    <title>Joker</title>
-    <desc>Vasco Palmeirim apresenta o JOKER, o concurso favorito dos portugueses. Um concorrente, com a ajuda de 7 Jokers e do Super Joker, responde a 12 perguntas com um s? objetivo em mente: Conquistar os 50 000 euros do pr?mio m?ximo!</desc>
-    <image>https://mage.stream.nos.pt/v1/nostv_mage/Images?sourceUri=http%3A%2F%2Fvip.pam.local.internal%2FPAM.Images%2FStore%2Fd722441db8bc4c7fa578779b35bf97d5</image>
-    <start>09:30PM</start>
-    <finish>10:30PM</finish>
+    <title>Am?lia Hoje</title>
+    <desc>Concerto gravado no Coliseu Porto Ageas em mar?o de 2025. O projecto Am?lia Hoje regressou ? m?ticas sala do com um espet?culo singular, onde apresentaram novas can??es, reafirmando-se junto do seu p?blico com a mais aut?ntica homenagem alguma vez feita ? maior estrela Pop que Portugal j? teve.</desc>
+    <image>https://mage.stream.nos.pt/v1/nostv_mage/Images?sourceUri=http%3A%2F%2Fvip.pam.local.internal%2FPAM.Images%2FStore%2F22dfe2114df744a282753a54088563c0</image>
+    <start>10:30PM</start>
+    <finish>12:30AM</finish>
     <date>18 September 2025</date>
   </channel>
   <channel>
     <name>Rtp África PT</name>
     <id>RtpAfrica.pt</id>
-    <title>Miradouro da Lua</title>
-    <desc>Um jovem estudante de teatro recebe um convite de seu pai, que n?o conhece, para ir ter com ele a Angola. Na viagem, conhece uma estudante angolana que regressa ao seu pa?s. Quando se dirige ? morada do pai, depara-se com uma grande surpresa e a sua vida n?o ser? a mesma.</desc>
-    <image>https://mage.stream.nos.pt/v1/nostv_mage/Images?sourceUri=http%3A%2F%2Fvip.pam.local.internal%2FPAM.Images%2FStore%2Fe7941e5eebb3417494ccbda10dd89487</image>
-    <start>09:00PM</start>
-    <finish>10:30PM</finish>
+    <title>Filhos de Tuga</title>
+    <desc>Houve um tempo em que Fernando Hedgar da Silva pensou que o pai portugu?s se chamava Furriel. S? em adulto percebeu que, afinal, furriel n?o era nome e sim o posto do militar que esteve com a m?e durante a guerra. Pensou que era caso ?nico. Acabou por descobrir que havia muitos como ele.</desc>
+    <image>https://mage.stream.nos.pt/v1/nostv_mage/Images?sourceUri=http%3A%2F%2Fvip.pam.local.internal%2FPAM.Images%2FStore%2Fac8dad8bf39c4c6d908c43a6ed846ad6</image>
+    <start>10:30PM</start>
+    <finish>11:30PM</finish>
     <date>18 September 2025</date>
   </channel>
   <channel>
@@ -334,21 +314,21 @@
   <channel>
     <name>Sky News UK</name>
     <id>SkyNews.uk</id>
-    <title>News at 10 with Anna Botting</title>
-    <desc>A comprehensive round-up of the main news stories of the day from the UK and around the world.</desc>
-    <image>https://images.metadata.sky.com/pd-image/53c5bb12-afae-4f88-8838-cbe0b1b9b92f/16-9</image>
-    <start>10:00PM</start>
-    <finish>10:30PM</finish>
+    <title>Press Preview</title>
+    <desc>Lively debate and discussion with our panel of paper reviewers about the stories making tomorrow morning's newspapers.</desc>
+    <image>https://images.metadata.sky.com/pd-image/f237730b-976f-4c05-9226-8201d7b9e29c/16-9</image>
+    <start>10:30PM</start>
+    <finish>11:00PM</finish>
     <date>18 September 2025</date>
   </channel>
   <channel>
     <name>TG4 IE</name>
     <id>TG4.ie</id>
-    <title>Buildings Beo</title>
-    <desc>Feicfear teach geata Hope Castle ? iomp? isteach ina leabharlann sa gcl?r seo.</desc>
-    <image>https://images.metadata.sky.com/pd-image/33d2ba89-8ba3-4d8d-9324-763171e568fc/16-9</image>
-    <start>09:30PM</start>
-    <finish>10:30PM</finish>
+    <title>F?orsc?al</title>
+    <desc>T? eolaithe agus innealt?ir? i mbun oibre chun c?rais iompair inbhuanaithe a fhorbairt.</desc>
+    <image>https://images.metadata.sky.com/pd-image/f2dbfce0-1204-4ec2-823d-b80430088212/16-9</image>
+    <start>10:30PM</start>
+    <finish>11:28PM</finish>
     <date>18 September 2025</date>
   </channel>
 </tv>
