@@ -1,23 +1,13 @@
 <?xml version="1.0" ?>
 <tv>
   <channel>
-    <name>Al Jazeera English UK</name>
-    <id>AlJazeeraEnglish.uk</id>
-    <title>News</title>
-    <desc>Up-to-date news and analysis from around the world.</desc>
-    <image>https://staticqbr-prod-ch.gnp.cloud.sunrisetv.ch/image-service/ImagesEPG/EventImages/p28975004_i_h8_aa.jpg</image>
-    <start>12:00AM</start>
-    <finish>12:30AM</finish>
-    <date>19 September 2025</date>
-  </channel>
-  <channel>
     <name>BBC One NL</name>
     <id>BBCOne.nl</id>
-    <title>Joins BBC News</title>
-    <desc>BBC One joins the BBC's rolling news channel for a night of news.</desc>
-    <image>https://staticqbr-nl-prod.prod.cdn.dmdsdp.com/image-service/ImagesEPG/EventImages/p17324903_bd_h10_aa.jpg</image>
-    <start>12:15AM</start>
-    <finish>12:30AM</finish>
+    <title>Newscast</title>
+    <desc>Weekly analysis with Laura Kuenssberg, Adam Fleming and Chris Mason.</desc>
+    <image>https://staticqbr-nl-prod.prod.cdn.dmdsdp.com/image-service/ImagesEPG/EventImages/p30078221_bd_h8_aa.jpg</image>
+    <start>12:30AM</start>
+    <finish>01:00AM</finish>
     <date>19 September 2025</date>
   </channel>
   <channel>
@@ -64,41 +54,11 @@
   <channel>
     <name>CGTN French CN</name>
     <id>CGTNFrench.cn</id>
-    <title>?chos d'ailleurs</title>
+    <title>Cartoons</title>
     <desc></desc>
     <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
-    <start>12:15AM</start>
-    <finish>12:45AM</finish>
+    <start>12:45AM</start>
+    <finish>01:00AM</finish>
     <date>19 September 2025</date>
-  </channel>
-  <channel>
-    <name>Kuriakos Tv PT</name>
-    <id>KuriakosTv.pt</id>
-    <title>ABC da Fam?lia</title>
-    <desc>Programa destinado a todas as pessoas que desejem conhecer a vontade de Deus para a sua vida e fam?lia, incluindo temas diversificados que permitem a constru??o da familia baseada na palavra de Deus e tamb?m temas dedicados especialmente ?s mulheres.</desc>
-    <image>https://mage.stream.nos.pt/v1/nostv_mage/Images?sourceUri=http%3A%2F%2Fvip.pam.local.internal%2FPAM.Images%2FStore%2F33f0a175963b41d5a5c1a7f21ae19e35</image>
-    <start>12:00AM</start>
-    <finish>12:30AM</finish>
-    <date>19 September 2025</date>
-  </channel>
-  <channel>
-    <name>La Otra ES</name>
-    <id>LaOtra.es</id>
-    <title>Cine</title>
-    <desc></desc>
-    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
-    <start>10:28PM</start>
-    <finish>12:31AM</finish>
-    <date>18 September 2025</date>
-  </channel>
-  <channel>
-    <name>Rtp 1 PT</name>
-    <id>Rtp1.pt</id>
-    <title>Am?lia Hoje</title>
-    <desc>Concerto gravado no Coliseu Porto Ageas em mar?o de 2025. O projecto Am?lia Hoje regressou ? m?ticas sala do com um espet?culo singular, onde apresentaram novas can??es, reafirmando-se junto do seu p?blico com a mais aut?ntica homenagem alguma vez feita ? maior estrela Pop que Portugal j? teve.</desc>
-    <image>https://mage.stream.nos.pt/v1/nostv_mage/Images?sourceUri=http%3A%2F%2Fvip.pam.local.internal%2FPAM.Images%2FStore%2F22dfe2114df744a282753a54088563c0</image>
-    <start>10:30PM</start>
-    <finish>12:30AM</finish>
-    <date>18 September 2025</date>
   </channel>
 </tv>
