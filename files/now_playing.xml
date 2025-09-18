@@ -13,11 +13,11 @@
   <channel>
     <name>Al Jazeera English UK</name>
     <id>AlJazeeraEnglish.uk</id>
-    <title>News</title>
-    <desc>Up-to-date news and analysis from around the world.</desc>
-    <image>https://staticqbr-prod-ch.gnp.cloud.sunrisetv.ch/image-service/ImagesEPG/EventImages/p28975004_i_h8_aa.jpg</image>
-    <start>05:00AM</start>
-    <finish>05:30AM</finish>
+    <title>Studio B: Unscripted</title>
+    <desc>Musical innovator Brian Eno and economist Ha-Joon Chang on the dangers of accepting the status quo and creative tools for a fairer society.</desc>
+    <image>https://staticqbr-prod-ch.gnp.cloud.sunrisetv.ch/image-service/ImagesEPG/EventImages/p24433445_i_h10_aa.jpg</image>
+    <start>05:30AM</start>
+    <finish>06:00AM</finish>
     <date>18 September 2025</date>
   </channel>
   <channel>
@@ -26,8 +26,8 @@
     <title>This is Arise News</title>
     <desc>This is Arise News.</desc>
     <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
-    <start>05:00AM</start>
-    <finish>05:30AM</finish>
+    <start>05:30AM</start>
+    <finish>06:00AM</finish>
     <date>18 September 2025</date>
   </channel>
   <channel>
@@ -43,41 +43,42 @@
   <channel>
     <name>BBC4 UK</name>
     <id>BBC4.uk</id>
-    <title>This is BBC Four</title>
-    <desc>Programmes start at 7.00pm.</desc>
+    <title>..programmes start at 7.00pm</title>
+    <desc></desc>
     <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
-    <start>03:25AM</start>
-    <finish>05:30AM</finish>
+    <start>05:30AM</start>
+    <finish>11:30AM</finish>
     <date>18 September 2025</date>
   </channel>
   <channel>
     <name>BBC News UK</name>
     <id>BBCNews.uk</id>
-    <title>BBC News</title>
-    <desc>The latest news from the BBC.</desc>
-    <image>https://images.metadata.sky.com/pd-image/b0f8adef-5e58-4d77-8165-d5a077455068/16-9</image>
-    <start>05:00AM</start>
-    <finish>05:30AM</finish>
+    <title>Business Today</title>
+    <desc>Bringing the latest business news and up-to-date informed analysis from London and around the world.</desc>
+    <image>https://images.metadata.sky.com/pd-image/2ed9a7f2-8988-4905-abee-1ea13c3f1a38/16-9</image>
+    <start>05:30AM</start>
+    <finish>06:00AM</finish>
     <date>18 September 2025</date>
   </channel>
   <channel>
     <name>BBC One NL</name>
     <id>BBCOne.nl</id>
-    <title>BBC News</title>
-    <desc>A comprehensive compilation of the latest and the most important news stories, updates and developments from the UK and different parts of the world.</desc>
-    <image>https://staticqbr-nl-prod.prod.cdn.dmdsdp.com/image-service/ImagesEPG/EventImages/p8133775_bd_h8_aa.jpg</image>
-    <start>05:00AM</start>
-    <finish>05:30AM</finish>
+    <title>Business Today</title>
+    <desc>Bringing the latest business news and up to date informed analysis from London and around the world.</desc>
+    <image>https://staticqbr-nl-prod.prod.cdn.dmdsdp.com/image-service/ImagesEPG/EventImages/p27282827_i_h10_ac.jpg</image>
+    <start>05:30AM</start>
+    <finish>06:00AM</finish>
     <date>18 September 2025</date>
   </channel>
   <channel>
     <name>BBC Parliament UK</name>
     <id>BBCParliament.uk</id>
-    <title>Senedd Cymru - Welsh Parliament</title>
-    <desc>Coverage of proceedings in the Senedd, the Welsh Parliament, on Wednesday 17 September.</desc>
+    <title>Lords Questions</title>
+    <desc>Questions in the House of Lords to government ministers on Wednesday 17 September.
+ (R).</desc>
     <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
-    <start>04:00AM</start>
-    <finish>05:30AM</finish>
+    <start>05:30AM</start>
+    <finish>06:15AM</finish>
     <date>18 September 2025</date>
   </channel>
   <channel>
@@ -103,21 +104,21 @@
   <channel>
     <name>CBBC UK</name>
     <id>CBBC.uk</id>
-    <title>Blue Peter</title>
-    <desc>Abby attempts a dog agility course with pet expert Chloe and her super spaniel support dog.</desc>
-    <image>https://img.freeviewplay.tv/pe073ce18c50d7802cd1120007313a20f</image>
-    <start>06:50PM</start>
-    <finish>05:30AM</finish>
-    <date>17 September 2025</date>
+    <title>This is CBBC!</title>
+    <desc>Tune every day from 7.00am.</desc>
+    <image>https://img.freeviewplay.tv/pac6f5338cb209460533f978542c5195a</image>
+    <start>05:30AM</start>
+    <finish>07:00AM</finish>
+    <date>18 September 2025</date>
   </channel>
   <channel>
     <name>CBeebies UK</name>
     <id>CBeebies.uk</id>
-    <title>..programmes start at 6.00am</title>
-    <desc></desc>
+    <title>This Is CBeebies</title>
+    <desc>This Is CBeebies. Programmes start at 6.00am.</desc>
     <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
-    <start>12:58AM</start>
-    <finish>05:30AM</finish>
+    <start>05:30AM</start>
+    <finish>06:00AM</finish>
     <date>18 September 2025</date>
   </channel>
   <channel>
@@ -133,11 +134,11 @@
   <channel>
     <name>EWTN UK</name>
     <id>EWTN.uk</id>
-    <title>The Litany Of The Most Blessed Sacrament</title>
-    <desc>The Franciscan Missionaries of the Eternal Word as they recite a litany in honor of the Most Blessed Sacrament from the Shrine of the Most Blessed Sacrament.</desc>
+    <title>Chaplet Of St. Michael</title>
+    <desc>Mother Angelica and the Nuns of Our Lady of the Angels Monastery ask for the intercession of the Prince of the Heavenly Hosts and the nine Choirs of Angels.</desc>
     <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
-    <start>05:20AM</start>
-    <finish>05:30AM</finish>
+    <start>05:30AM</start>
+    <finish>06:00AM</finish>
     <date>18 September 2025</date>
   </channel>
   <channel>
@@ -145,9 +146,9 @@
     <id>EuroNews.uk</id>
     <title>The European Debrief</title>
     <desc>Live headlines, breaking news, analysis and interviews from Europe's News Centre.</desc>
-    <image>https://images.metadata.sky.com/pd-image/c769f855-50ac-426b-b5cf-96ac15468320/16-9</image>
-    <start>05:16AM</start>
-    <finish>05:30AM</finish>
+    <image>https://images.metadata.sky.com/pd-image/d0e3b5b3-120a-4c1f-84ee-b86189cd71ee/16-9</image>
+    <start>05:30AM</start>
+    <finish>06:00AM</finish>
     <date>18 September 2025</date>
   </channel>
   <channel>
@@ -183,11 +184,11 @@
   <channel>
     <name>La Otra ES</name>
     <id>LaOtra.es</id>
-    <title>Pongamos que hablo de Telemadrid</title>
-    <desc>Veintiocho a?os de historia audiovisual de Telemadrid ven la luz con este programa que rescata verdaderos tesoros que se conservan en el archivo gr?fico de la cadena. Todos forman parte de la historia propia de los espectadores madrile?os.</desc>
-    <image>https://www.movistarplus.es/recorte/n/caratulaH/MTELMADP1473241</image>
-    <start>05:17AM</start>
-    <finish>05:30AM</finish>
+    <title>Instinto animal</title>
+    <desc>Carolina Rueda y Amaya Rey rastrean la Comunidad de Madrid en busca de los animales que la habitan. Durante sus excursiones, el programa aporta datos curiosos sobre las diferentes especies de manera amable y cercana al espectador.</desc>
+    <image>https://www.movistarplus.es/recorte/n/caratulaH/MOTRAP798876</image>
+    <start>05:30AM</start>
+    <finish>06:12AM</finish>
     <date>18 September 2025</date>
   </channel>
   <channel>
@@ -216,18 +217,18 @@
     <title>Ng? Kapa Haka Kura Tuarua 2024</title>
     <desc>Highlights of the most prestigious M?ori kapa haka event on the school calendar. (R).</desc>
     <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
-    <start>05:00AM</start>
-    <finish>05:30AM</finish>
+    <start>05:30AM</start>
+    <finish>06:00AM</finish>
     <date>18 September 2025</date>
   </channel>
   <channel>
     <name>Metro TV ID</name>
     <id>MetroTV.id</id>
-    <title>Metro Sport</title>
+    <title>Metro Siang</title>
     <desc></desc>
     <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
-    <start>05:05AM</start>
-    <finish>05:30AM</finish>
+    <start>05:30AM</start>
+    <finish>06:00AM</finish>
     <date>18 September 2025</date>
   </channel>
   <channel>
@@ -236,28 +237,28 @@
     <title>Teleshopping</title>
     <desc>Teleshopping.</desc>
     <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
-    <start>05:00AM</start>
-    <finish>05:30AM</finish>
+    <start>05:30AM</start>
+    <finish>06:00AM</finish>
     <date>18 September 2025</date>
   </channel>
   <channel>
     <name>Nick Jr UK</name>
     <id>NickJunior.uk</id>
     <title>The Adventures of Paddington</title>
-    <desc>Paddington learns that seagulls love chips in 'Paddington vs the Seagulls', and in 'Paddington and the Light House', the lighthouse light is broken - can Paddington help save a boat at sea.</desc>
-    <image>https://images.metadata.sky.com/pd-image/919d7a4b-8455-3887-86d8-17cafadcde3c/16-9</image>
-    <start>05:00AM</start>
-    <finish>05:30AM</finish>
+    <desc>Paddington seeks Captain Green Beard's loot in 'Paddington's Pirate Treasure Hunt', then in 'Paddington's Sandcastle Showstopper', everyone is keen to win the sandcastle competition.</desc>
+    <image>https://images.metadata.sky.com/pd-image/fd231a8a-9a19-3f1e-8d2f-15f1bed09732/16-9</image>
+    <start>05:30AM</start>
+    <finish>06:00AM</finish>
     <date>18 September 2025</date>
   </channel>
   <channel>
     <name>TVNZ 1 NZ</name>
     <id>One.nz</id>
-    <title>Te Karere</title>
-    <desc>Te Karere brings you key events and stories of interest to M?ori as well as bringing a M?ori perspective to the day's news and current affairs.</desc>
+    <title>Deal Or No Deal Australia</title>
+    <desc>Join host Grant Denyer for a round of this high pressure and high stakes game show, where contestants face up to the Banker and must decide: is it deal or no deal.</desc>
     <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
-    <start>05:00AM</start>
-    <finish>05:30AM</finish>
+    <start>05:30AM</start>
+    <finish>06:00AM</finish>
     <date>18 September 2025</date>
   </channel>
   <channel>
@@ -323,11 +324,11 @@
   <channel>
     <name>RTP Internacional PT</name>
     <id>RTPInternacional.pt</id>
-    <title>Viola de Dois Corau00e7u00f5es</title>
-    <desc></desc>
-    <image>https://cdn-images.rtp.pt/EPG/imagens/33727_52155_57198.png</image>
-    <start>04:30AM</start>
-    <finish>05:30AM</finish>
+    <title>Palavra aos Diretores</title>
+    <desc>Os diretores dos jornais e.</desc>
+    <image>https://cdn-images.rtp.pt/EPG/imagens/43341_67724_85584.jpg</image>
+    <start>05:30AM</start>
+    <finish>06:00AM</finish>
     <date>18 September 2025</date>
   </channel>
   <channel>
@@ -446,8 +447,8 @@
     <title>Teleshopping</title>
     <desc>Teleshopping programming bringing you a selection of innovative products.</desc>
     <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
-    <start>05:00AM</start>
-    <finish>05:30AM</finish>
+    <start>05:30AM</start>
+    <finish>06:00AM</finish>
     <date>18 September 2025</date>
   </channel>
 </tv>
