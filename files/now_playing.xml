@@ -1,23 +1,13 @@
 <?xml version="1.0" ?>
 <tv>
   <channel>
-    <name>Afro Music Channel PT</name>
-    <id>AfroMusicChannel.pt</id>
-    <title>Fresh Music</title>
-    <desc>As m?sicas mais frescas do momento est?o no ?Fresh Music?.</desc>
-    <image>https://mage.stream.nos.pt/v1/nostv_mage/Images?sourceUri=http%3A%2F%2Fvip.pam.local.internal%2FPAM.Images%2FStore%2F995f98d90237478c8404a9498dbf4f92</image>
-    <start>10:10PM</start>
-    <finish>10:50PM</finish>
-    <date>18 September 2025</date>
-  </channel>
-  <channel>
     <name>Al Jazeera English UK</name>
     <id>AlJazeeraEnglish.uk</id>
-    <title>Newshour</title>
+    <title>News</title>
     <desc>Up-to-date news and analysis from around the world.</desc>
-    <image>https://staticqbr-prod-ch.gnp.cloud.sunrisetv.ch/image-service/ImagesEPG/EventImages/p28985214_i_h8_aa.jpg</image>
-    <start>10:00PM</start>
-    <finish>11:00PM</finish>
+    <image>https://staticqbr-prod-ch.gnp.cloud.sunrisetv.ch/image-service/ImagesEPG/EventImages/p28975004_i_h8_aa.jpg</image>
+    <start>11:00PM</start>
+    <finish>11:30PM</finish>
     <date>18 September 2025</date>
   </channel>
   <channel>
@@ -26,8 +16,8 @@
     <title>This is Arise News</title>
     <desc>This is Arise News.</desc>
     <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
-    <start>10:30PM</start>
-    <finish>11:00PM</finish>
+    <start>11:00PM</start>
+    <finish>11:30PM</finish>
     <date>18 September 2025</date>
   </channel>
   <channel>
@@ -38,26 +28,6 @@
     <image>https://mage.stream.nos.pt/v1/nostv_mage/Images?sourceUri=http%3A%2F%2Fvip.pam.local.internal%2FPAM.Images%2FStore%2F72203a64b7134011be0d9cc2165ed022</image>
     <start>04:00PM</start>
     <finish>12:00AM</finish>
-    <date>18 September 2025</date>
-  </channel>
-  <channel>
-    <name>BBC4 UK</name>
-    <id>BBC4.uk</id>
-    <title>The Great Gatsby</title>
-    <desc>Film drama. In the volatile era of the twenties, flamboyant millionaire Jay Gatsby pursues the seductive Daisy, the love he lost while serving in the First World War.</desc>
-    <image>https://images.metadata.sky.com/pd-image/22422f15-81d7-4622-b80d-4e32bd558090/16-9</image>
-    <start>09:45PM</start>
-    <finish>11:15PM</finish>
-    <date>18 September 2025</date>
-  </channel>
-  <channel>
-    <name>BBC News UK</name>
-    <id>BBCNews.uk</id>
-    <title>Newsnight</title>
-    <desc>Insights and global interviews on the news stories of the day. With Victoria Derbyshire.</desc>
-    <image>https://images.metadata.sky.com/pd-image/6b2d88bd-da32-4946-9ae0-418f8ce4d462/16-9</image>
-    <start>10:30PM</start>
-    <finish>11:00PM</finish>
     <date>18 September 2025</date>
   </channel>
   <channel>
@@ -77,18 +47,18 @@
     <desc>Coverage of proceedings in the House of Lords on Thursday 18 September.
  (R).</desc>
     <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
-    <start>10:20PM</start>
-    <finish>11:20PM</finish>
+    <start>11:20PM</start>
+    <finish>12:20AM</finish>
     <date>18 September 2025</date>
   </channel>
   <channel>
     <name>BBC Two NL</name>
     <id>BBCTwo.nl</id>
-    <title>Newsnight</title>
-    <desc>Featuring extensive coverage of the day's top national and international news stories, along with explanations about the context and potential aftereffects.</desc>
-    <image>https://staticqbr-nl-prod.prod.cdn.dmdsdp.com/image-service/ImagesEPG/EventImages/p269693_bd_h8_ab.jpg</image>
-    <start>10:30PM</start>
-    <finish>10:58PM</finish>
+    <title>UEFA Champions League Football</title>
+    <desc>Mark Chapman presents highlights from the opening match week of the 2025-26 Champions League. Newcastle take on Barcelona at St James' Park in a repeat of their 1997 Group Stage classic, and Manchester City host Italian champions Napoli.</desc>
+    <image>https://staticqbr-nl-prod.prod.cdn.dmdsdp.com/image-service/ImagesEPG/EventImages/p8218144_bd_h8_aa.jpg</image>
+    <start>11:00PM</start>
+    <finish>12:10AM</finish>
     <date>18 September 2025</date>
   </channel>
   <channel>
@@ -114,21 +84,11 @@
   <channel>
     <name>CGTN French CN</name>
     <id>CGTNFrench.cn</id>
-    <title>Feuilletons</title>
+    <title>Documentaire</title>
     <desc></desc>
     <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
-    <start>10:15PM</start>
-    <finish>11:00PM</finish>
-    <date>18 September 2025</date>
-  </channel>
-  <channel>
-    <name>EWTN UK</name>
-    <id>EWTN.uk</id>
-    <title>EWTN Bookmark</title>
-    <desc>Doug and Dr. Sri discuss what can make the initial efforts of evangelization successful and how sharing the details of doctrine, rules, and regulations of pract.</desc>
-    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
-    <start>10:30PM</start>
-    <finish>11:00PM</finish>
+    <start>11:00PM</start>
+    <finish>11:45PM</finish>
     <date>18 September 2025</date>
   </channel>
   <channel>
@@ -136,29 +96,19 @@
     <id>EuroNews.uk</id>
     <title>The European Debrief</title>
     <desc>Live headlines, breaking news, analysis and interviews from Europe's News Centre.</desc>
-    <image>https://images.metadata.sky.com/pd-image/d9b0d818-59ef-4606-a8f8-556673aa370c/16-9</image>
-    <start>10:30PM</start>
-    <finish>11:00PM</finish>
-    <date>18 September 2025</date>
-  </channel>
-  <channel>
-    <name>Gems TV UK</name>
-    <id>GemsTV.uk</id>
-    <title>Deal of the Day</title>
-    <desc>Tune in with Gemporia at 4:00pm to catch our unmissable Deal of the Dayl.</desc>
-    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
-    <start>10:00PM</start>
-    <finish>11:00PM</finish>
+    <image>https://images.metadata.sky.com/pd-image/9e23e398-23e4-4af1-ab36-4a4a519294ba/16-9</image>
+    <start>11:14PM</start>
+    <finish>11:30PM</finish>
     <date>18 September 2025</date>
   </channel>
   <channel>
     <name>Kuriakos Tv PT</name>
     <id>KuriakosTv.pt</id>
-    <title>Man? World - Temp.2</title>
-    <desc>Man? World ? um programa que pretende dar a conhecer quem ? a Igreja Man?, quem somos, o que fazemos e onde estamos, apresenta a biografia do Ap?stolo Jorge Tadeu, mostrando v?rios departamentos do Minist?rio Man?.</desc>
-    <image>https://mage.stream.nos.pt/v1/nostv_mage/Images?sourceUri=http%3A%2F%2Fvip.pam.local.internal%2FPAM.Images%2FStore%2F8def4ffe8b2f4bf28b4b87a25857a784</image>
-    <start>10:00PM</start>
-    <finish>11:00PM</finish>
+    <title>Isto ? o Povo a Falar - Temp. 9</title>
+    <desc>ISTO ? O POVO A FALAR\&quot; ? um programa de entrevista e reportagem que aborda assuntos controversos e atuais vividos na sociedade portuguesa. Trata-se de um programa feito a pensar no Povo Portugu?s, em prol da sua dignidade e da prote??o dos seus direitos enquanto cidad?os.\&quot;.</desc>
+    <image>https://mage.stream.nos.pt/v1/nostv_mage/Images?sourceUri=http%3A%2F%2Fvip.pam.local.internal%2FPAM.Images%2FStore%2F22dfe2114df744a282753a54088563c0</image>
+    <start>11:00PM</start>
+    <finish>12:00AM</finish>
     <date>18 September 2025</date>
   </channel>
   <channel>
@@ -172,83 +122,33 @@
     <date>18 September 2025</date>
   </channel>
   <channel>
-    <name>MTV UK</name>
-    <id>MTV.uk</id>
-    <title>Jersey Shore Family Vacation</title>
-    <desc>The gang plans their 15-year anniversary. An old friend is summoned. Ronnie and Sammi reunite at the shore house.</desc>
-    <image>https://images.metadata.sky.com/pd-image/6fd11d5d-8b49-4e26-82cf-55c707467556/16-9</image>
-    <start>10:00PM</start>
-    <finish>11:00PM</finish>
-    <date>18 September 2025</date>
-  </channel>
-  <channel>
-    <name>Movies 24 UK</name>
-    <id>Movies24.uk</id>
-    <title>Groundswell</title>
-    <desc>On the heels of a personal and professional setback, Chef Emma travels to Hawaii where she meets a handsome surf instructor whose lessons help her regain her footing.</desc>
-    <image>https://images.metadata.sky.com/pd-image/73c543ab-27e6-442a-aea3-e083b6a45576/16-9</image>
-    <start>09:00PM</start>
-    <finish>11:00PM</finish>
-    <date>18 September 2025</date>
-  </channel>
-  <channel>
     <name>Nick Jr UK</name>
     <id>NickJunior.uk</id>
-    <title>Peppa Pig</title>
-    <desc>It is Molly Mole's first day at school and she quickly makes best friends with Peppa and Rebecca Rabbit.</desc>
-    <image>https://images.metadata.sky.com/pd-image/2a679861-9b5a-49e6-a111-c0f079b70ca2/16-9</image>
-    <start>10:45PM</start>
-    <finish>10:50PM</finish>
+    <title>Ben &amp; Holly's Little Kingdom</title>
+    <desc>Lucy and her dad are having a relaxing day boating on the lake. They fish out an old glittery mirror from the bottom of the lake, but it belongs to a mermaid who would like it back.</desc>
+    <image>https://images.metadata.sky.com/pd-image/78fb58cb-fd21-459b-8284-db64caf2b0f6/16-9</image>
+    <start>11:15PM</start>
+    <finish>11:30PM</finish>
     <date>18 September 2025</date>
   </channel>
   <channel>
     <name>PTC Punjabi UK</name>
     <id>PTCPunjabi.uk</id>
-    <title>Crazy Tabbar</title>
-    <desc>Members of a tight-knit family get into a series of comedic situations as they support each other through the ups and downs of life.</desc>
-    <image>https://images.metadata.sky.com/pd-image/41b2d9c1-087e-4c98-ab25-28c1fcb27c97/16-9</image>
-    <start>10:30PM</start>
-    <finish>11:00PM</finish>
-    <date>18 September 2025</date>
-  </channel>
-  <channel>
-    <name>QVC UK</name>
-    <id>QVC.uk</id>
-    <title>Australian Bodycare</title>
-    <desc>This Australian Bodycare range is inspired by the ancient traditions of the Aborigines who discovered the effects of natural ingredients. Find cleansing and caring products for your skin.</desc>
-    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
-    <start>10:00PM</start>
-    <finish>11:00PM</finish>
-    <date>18 September 2025</date>
-  </channel>
-  <channel>
-    <name>QVC Beauty UK</name>
-    <id>QVCBeauty.uk</id>
-    <title>Best Of QVC Beauty</title>
-    <desc>All the highlights and star products.</desc>
-    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
-    <start>10:00PM</start>
-    <finish>11:00PM</finish>
-    <date>18 September 2025</date>
-  </channel>
-  <channel>
-    <name>QVC Style UK</name>
-    <id>QVCStyle.uk</id>
-    <title>Best of QVC Style</title>
-    <desc>Catch all the recent highlights from our sister channel with the Best of QVC Style.</desc>
-    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
-    <start>10:00PM</start>
-    <finish>11:00PM</finish>
+    <title>Punjabi Beats</title>
+    <desc>Punjabi Music.</desc>
+    <image>https://images.metadata.sky.com/pd-image/654975b8-e7f2-4031-b668-e0165e9d89d4/16-9</image>
+    <start>11:00PM</start>
+    <finish>11:30PM</finish>
     <date>18 September 2025</date>
   </channel>
   <channel>
     <name>RTE News Now IE</name>
     <id>RTENewsNow.ie</id>
-    <title>The Late Debate</title>
-    <desc>Live debate with the news and political stories of the day. Presented by Colm ? Mong?in.</desc>
-    <image>https://images.metadata.sky.com/pd-image/5cc2acdc-301c-4ae0-9c65-6c52e642879f/16-9</image>
-    <start>10:10PM</start>
-    <finish>11:00PM</finish>
+    <title>Prime Time</title>
+    <desc>An in-depth analysis of current issues and topical reports.</desc>
+    <image>https://images.metadata.sky.com/pd-image/c8e23805-e59c-4cb3-8f65-d3a0c1bb6ce4/16-9</image>
+    <start>11:00PM</start>
+    <finish>11:35PM</finish>
     <date>18 September 2025</date>
   </channel>
   <channel>
@@ -259,16 +159,6 @@
     <image>https://cdn-images.rtp.pt/EPG/imagens/47854_77141_70682.jpg</image>
     <start>10:30PM</start>
     <finish>12:00AM</finish>
-    <date>18 September 2025</date>
-  </channel>
-  <channel>
-    <name>Real Madrid TV ES</name>
-    <id>RealMadridTV.es</id>
-    <title>Real Madrid TV</title>
-    <desc>No hay descripci?n disponible.</desc>
-    <image>https://www.movistarplus.es/recorte/n/caratulaH/MREALMP1635667</image>
-    <start>07:00PM</start>
-    <finish>11:00PM</finish>
     <date>18 September 2025</date>
   </channel>
   <channel>
@@ -304,21 +194,21 @@
   <channel>
     <name>S4C UK</name>
     <id>S4C.uk</id>
-    <title>Y Llinell Las</title>
-    <desc>Mae Arwel a Chris ar drywydd ymwelwyr sy'n gyrru'n beryglus, a Jason yn arwain ymgyrch i annog beicwyr modur i yrru'n saff. The team focus on safe driving &amp; Gethin gets pushed to the max.</desc>
-    <image>https://images.metadata.sky.com/pd-image/466311fa-1b35-4469-9755-298901ef91bc/16-9</image>
-    <start>10:00PM</start>
-    <finish>11:00PM</finish>
+    <title>Arfordir Cymru</title>
+    <desc>Bedwyr Rees sydd ar drywydd rhai o enwau'r llefydd ar hyd arfordir M?n. Bedwyr Rees explores place names along the Anglesey coast.</desc>
+    <image>https://images.metadata.sky.com/pd-image/fa7da52a-b3b7-44ac-967b-cfb05c6c2810/16-9</image>
+    <start>11:00PM</start>
+    <finish>11:35PM</finish>
     <date>18 September 2025</date>
   </channel>
   <channel>
     <name>Sky News UK</name>
     <id>SkyNews.uk</id>
-    <title>Press Preview</title>
-    <desc>Lively debate and discussion with our panel of paper reviewers about the stories making tomorrow morning's newspapers.</desc>
-    <image>https://images.metadata.sky.com/pd-image/f237730b-976f-4c05-9226-8201d7b9e29c/16-9</image>
-    <start>10:30PM</start>
-    <finish>11:00PM</finish>
+    <title>News &amp; Press Preview</title>
+    <desc>The key stories of the day plus debate and discussion with our panel of reviewers on the stories making the morning newspapers in the extended press preview.</desc>
+    <image>https://images.metadata.sky.com/pd-image/8390caa8-0cab-412a-b322-d4668ab49138/16-9</image>
+    <start>11:00PM</start>
+    <finish>11:30PM</finish>
     <date>18 September 2025</date>
   </channel>
   <channel>
