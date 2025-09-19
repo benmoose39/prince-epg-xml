@@ -1,2 +1,1183 @@
 <?xml version="1.0" ?>
-<tv/>
+<tv>
+  <channel>
+    <name>MSNBC US</name>
+    <id>MSNBC.us</id>
+    <title>Live: Way Too Early With Ali Vitali</title>
+    <desc>Inside-the-beltway political news and critical stories shaping the national conversation.</desc>
+    <image>http://dshm.tmsimg.com/assets/p29075279_b_h8_aa.jpg</image>
+    <start>10:00AM</start>
+    <finish>11:00AM</finish>
+    <date>19 September 2025</date>
+  </channel>
+  <channel>
+    <name>MSNBC US</name>
+    <id>MSNBC.us</id>
+    <title>Live: Morning Joe</title>
+    <desc>Hosts Joe Scarborough, Mika Brzezinski and Willie Geist present in-depth and informed discussions that help drive the day's current political conversation.</desc>
+    <image>http://dshm.tmsimg.com/assets/p186220_b_h8_ae.jpg</image>
+    <start>11:00AM</start>
+    <finish>03:00PM</finish>
+    <date>19 September 2025</date>
+  </channel>
+  <channel>
+    <name>MSNBC US</name>
+    <id>MSNBC.us</id>
+    <title>Live: Ana Cabrera Reports</title>
+    <desc>The latest breaking news, reporting and coverage of the day's important stories.</desc>
+    <image>http://dshm.tmsimg.com/assets/p24490202_b_h8_af.jpg</image>
+    <start>03:00PM</start>
+    <finish>04:00PM</finish>
+    <date>19 September 2025</date>
+  </channel>
+  <channel>
+    <name>MSNBC US</name>
+    <id>MSNBC.us</id>
+    <title>Live: Ana Cabrera Reports</title>
+    <desc>The latest breaking news, reporting and coverage of the day's important stories.</desc>
+    <image>http://dshm.tmsimg.com/assets/p24490202_b_h8_af.jpg</image>
+    <start>04:00PM</start>
+    <finish>05:00PM</finish>
+    <date>19 September 2025</date>
+  </channel>
+  <channel>
+    <name>MSNBC US</name>
+    <id>MSNBC.us</id>
+    <title>Live: Chris Jansing Reports</title>
+    <desc>The latest breaking news, reporting and coverage of the day's important stories.</desc>
+    <image>http://dshm.tmsimg.com/assets/p22203124_b_h8_ag.jpg</image>
+    <start>05:00PM</start>
+    <finish>06:00PM</finish>
+    <date>19 September 2025</date>
+  </channel>
+  <channel>
+    <name>MSNBC US</name>
+    <id>MSNBC.us</id>
+    <title>Live: Chris Jansing Reports</title>
+    <desc>The latest breaking news, reporting and coverage of the day's important stories.</desc>
+    <image>http://dshm.tmsimg.com/assets/p22203124_b_h8_ag.jpg</image>
+    <start>06:00PM</start>
+    <finish>07:00PM</finish>
+    <date>19 September 2025</date>
+  </channel>
+  <channel>
+    <name>MSNBC US</name>
+    <id>MSNBC.us</id>
+    <title>Live: Katy Tur Reports</title>
+    <desc>The latest breaking news, reporting and coverage of the day's important stories.</desc>
+    <image>http://dshm.tmsimg.com/assets/p19714416_b_h8_af.jpg</image>
+    <start>07:00PM</start>
+    <finish>08:00PM</finish>
+    <date>19 September 2025</date>
+  </channel>
+  <channel>
+    <name>MSNBC US</name>
+    <id>MSNBC.us</id>
+    <title>Live: Katy Tur Reports</title>
+    <desc>The latest breaking news, reporting and coverage of the day's important stories.</desc>
+    <image>http://dshm.tmsimg.com/assets/p19714416_b_h8_af.jpg</image>
+    <start>08:00PM</start>
+    <finish>09:00PM</finish>
+    <date>19 September 2025</date>
+  </channel>
+  <channel>
+    <name>MSNBC US</name>
+    <id>MSNBC.us</id>
+    <title>Live: Deadline: White House</title>
+    <desc>In-depth reporting on political developments and dynamic discussions with leading newsmakers, with insights into complex issues.</desc>
+    <image>http://dshm.tmsimg.com/assets/p14124364_b_h8_ae.jpg</image>
+    <start>09:00PM</start>
+    <finish>11:00PM</finish>
+    <date>19 September 2025</date>
+  </channel>
+  <channel>
+    <name>MSNBC US</name>
+    <id>MSNBC.us</id>
+    <title>Live: The Beat With Ari Melber</title>
+    <desc>Attorney and journalist Ari Melber dives into political and news stories with interviews and original reporting from around the nation.</desc>
+    <image>http://dshm.tmsimg.com/assets/p28947784_b_h10_aa.jpg</image>
+    <start>11:00PM</start>
+    <finish>12:00AM</finish>
+    <date>19 September 2025</date>
+  </channel>
+  <channel>
+    <name>MSNBC US</name>
+    <id>MSNBC.us</id>
+    <title>Live: The Weeknight</title>
+    <desc>Alicia Menendez, Michael Steele, and Symone Sanders-Townsend's one-on-one conversations with politicians and newsmakers, and the breaking issues of the day.</desc>
+    <image>http://dshm.tmsimg.com/assets/p29964114_b_h8_aa.jpg</image>
+    <start>12:00AM</start>
+    <finish>01:00AM</finish>
+    <date>20 September 2025</date>
+  </channel>
+  <channel>
+    <name>MSNBC US</name>
+    <id>MSNBC.us</id>
+    <title>Live: All In With Chris Hayes</title>
+    <desc>Chris Hayes reports on some of the biggest news and political stories of the day with a commitment to in-depth reporting that seeks to hold the nation's leaders accountable for their actions.</desc>
+    <image>http://dshm.tmsimg.com/assets/p9882717_b_h8_af.jpg</image>
+    <start>01:00AM</start>
+    <finish>02:00AM</finish>
+    <date>20 September 2025</date>
+  </channel>
+  <channel>
+    <name>MSNBC US</name>
+    <id>MSNBC.us</id>
+    <title>Live: The Briefing with Jen Psaki</title>
+    <desc>Jen Psaki tackles the biggest issues of the week and features one-on-one interviews with newsmakers.</desc>
+    <image>http://dshm.tmsimg.com/assets/p29964097_b_h8_ad.jpg</image>
+    <start>02:00AM</start>
+    <finish>03:00AM</finish>
+    <date>20 September 2025</date>
+  </channel>
+  <channel>
+    <name>MSNBC US</name>
+    <id>MSNBC.us</id>
+    <title>Live: The Last Word With Lawrence O'Donnell</title>
+    <desc>In his signature style, Lawrence O'Donnell goes into depth on the latest news developments and offers his take on the political stories driving the national conversation.</desc>
+    <image>http://dshm.tmsimg.com/assets/p8306876_b_h8_ae.jpg</image>
+    <start>03:00AM</start>
+    <finish>04:00AM</finish>
+    <date>20 September 2025</date>
+  </channel>
+  <channel>
+    <name>MSNBC US</name>
+    <id>MSNBC.us</id>
+    <title>Live: The 11th Hour With Stephanie Ruhle</title>
+    <desc>Host Stephanie Ruhle brings her business acumen, hard-hitting interview style and original reporting, uncovering stories that affect everyone.</desc>
+    <image>http://dshm.tmsimg.com/assets/p21617497_b_h8_ag.jpg</image>
+    <start>04:00AM</start>
+    <finish>05:00AM</finish>
+    <date>20 September 2025</date>
+  </channel>
+  <channel>
+    <name>MSNBC US</name>
+    <id>MSNBC.us</id>
+    <title>The Briefing with Jen Psaki</title>
+    <desc>Jen Psaki tackles the biggest issues of the week and features one-on-one interviews with newsmakers.</desc>
+    <image>http://dshm.tmsimg.com/assets/p29964097_b_h8_ad.jpg</image>
+    <start>05:00AM</start>
+    <finish>06:00AM</finish>
+    <date>20 September 2025</date>
+  </channel>
+  <channel>
+    <name>MSNBC US</name>
+    <id>MSNBC.us</id>
+    <title>The Last Word With Lawrence O'Donnell</title>
+    <desc>In his signature style, Lawrence O'Donnell goes into depth on the latest news developments and offers his take on the political stories driving the national conversation.</desc>
+    <image>http://dshm.tmsimg.com/assets/p8306876_b_h8_ae.jpg</image>
+    <start>06:00AM</start>
+    <finish>07:00AM</finish>
+    <date>20 September 2025</date>
+  </channel>
+  <channel>
+    <name>MSNBC US</name>
+    <id>MSNBC.us</id>
+    <title>The 11th Hour With Stephanie Ruhle</title>
+    <desc>Host Stephanie Ruhle brings her business acumen, hard-hitting interview style and original reporting, uncovering stories that affect everyone.</desc>
+    <image>http://dshm.tmsimg.com/assets/p21617497_b_h8_ag.jpg</image>
+    <start>07:00AM</start>
+    <finish>08:00AM</finish>
+    <date>20 September 2025</date>
+  </channel>
+  <channel>
+    <name>MSNBC US</name>
+    <id>MSNBC.us</id>
+    <title>Dateline</title>
+    <desc>The residents of a glamorous resort town are shocked when a well-known woman from a prominent family is found dead in her home.</desc>
+    <image>http://dshm.tmsimg.com/assets/p13159645_b_h10_aa.jpg</image>
+    <start>08:00AM</start>
+    <finish>09:00AM</finish>
+    <date>20 September 2025</date>
+  </channel>
+  <channel>
+    <name>MSNBC US</name>
+    <id>MSNBC.us</id>
+    <title>Dateline</title>
+    <desc>The residents of a glamorous resort town are shocked when a well-known woman from a prominent family is found dead in her home.</desc>
+    <image>http://dshm.tmsimg.com/assets/p13159645_b_h10_aa.jpg</image>
+    <start>09:00AM</start>
+    <finish>10:00AM</finish>
+    <date>20 September 2025</date>
+  </channel>
+  <channel>
+    <name>MSNBC US</name>
+    <id>MSNBC.us</id>
+    <title>Dateline</title>
+    <desc>When an Ohio resident is offered $50,000 to kill someone hundreds of miles away, investigators set up an elaborate sting operation to bring down those behind the murder-for-hire plot.</desc>
+    <image>http://dshm.tmsimg.com/assets/p13159645_b_h10_aa.jpg</image>
+    <start>10:00AM</start>
+    <finish>11:00AM</finish>
+    <date>20 September 2025</date>
+  </channel>
+  <channel>
+    <name>MSNBC US</name>
+    <id>MSNBC.us</id>
+    <title>Morning Joe: Weekend</title>
+    <desc>Hosts Joe Scarborough, Mika Brzezinski and Willie Geist present in-depth and informed discussions that help drive the day's current political conversation.</desc>
+    <image>http://dshm.tmsimg.com/assets/p24026716_b_h8_ad.jpg</image>
+    <start>11:00AM</start>
+    <finish>12:00PM</finish>
+    <date>20 September 2025</date>
+  </channel>
+  <channel>
+    <name>MSNBC US</name>
+    <id>MSNBC.us</id>
+    <title>Live: The Weekend</title>
+    <desc>Jonathan Capehart, Eugene Daniels and Jackie Alemany set the agenda for Saturday, Sunday, and the week ahead; fresh analysis of the week's biggest events.</desc>
+    <image>http://dshm.tmsimg.com/assets/p29964183_b_h8_aa.jpg</image>
+    <start>12:00PM</start>
+    <finish>01:00PM</finish>
+    <date>20 September 2025</date>
+  </channel>
+  <channel>
+    <name>MSNBC US</name>
+    <id>MSNBC.us</id>
+    <title>Live: The Weekend</title>
+    <desc>Jonathan Capehart, Eugene Daniels and Jackie Alemany set the agenda for Saturday, Sunday, and the week ahead; fresh analysis of the week's biggest events.</desc>
+    <image>http://dshm.tmsimg.com/assets/p29964183_b_h8_aa.jpg</image>
+    <start>01:00PM</start>
+    <finish>02:00PM</finish>
+    <date>20 September 2025</date>
+  </channel>
+  <channel>
+    <name>MSNBC US</name>
+    <id>MSNBC.us</id>
+    <title>Live: The Weekend</title>
+    <desc>Jonathan Capehart, Eugene Daniels and Jackie Alemany set the agenda for Saturday, Sunday, and the week ahead; fresh analysis of the week's biggest events.</desc>
+    <image>http://dshm.tmsimg.com/assets/p29964183_b_h8_aa.jpg</image>
+    <start>02:00PM</start>
+    <finish>03:00PM</finish>
+    <date>20 September 2025</date>
+  </channel>
+  <channel>
+    <name>MSNBC US</name>
+    <id>MSNBC.us</id>
+    <title>Live: Velshi</title>
+    <desc>Current events and sharp analysis of top trending topics.</desc>
+    <image>http://dshm.tmsimg.com/assets/p17995816_b_h8_ag.jpg</image>
+    <start>03:00PM</start>
+    <finish>04:00PM</finish>
+    <date>20 September 2025</date>
+  </channel>
+  <channel>
+    <name>MSNBC US</name>
+    <id>MSNBC.us</id>
+    <title>Live: Velshi</title>
+    <desc>Current events and sharp analysis of top trending topics.</desc>
+    <image>http://dshm.tmsimg.com/assets/p17995816_b_h8_ag.jpg</image>
+    <start>04:00PM</start>
+    <finish>05:00PM</finish>
+    <date>20 September 2025</date>
+  </channel>
+  <channel>
+    <name>MSNBC US</name>
+    <id>MSNBC.us</id>
+    <title>Live: Velshi</title>
+    <desc>Current events and sharp analysis of top trending topics.</desc>
+    <image>http://dshm.tmsimg.com/assets/p17995816_b_h8_ag.jpg</image>
+    <start>05:00PM</start>
+    <finish>06:00PM</finish>
+    <date>20 September 2025</date>
+  </channel>
+  <channel>
+    <name>MSNBC US</name>
+    <id>MSNBC.us</id>
+    <title>Live: Alex Witt Reports</title>
+    <desc>The latest breaking news, reporting and live coverage of the day's important stories; hosted by trusted NBC News journalists, these dynamic hours offer discussions with newsmakers, journalists and politicians.</desc>
+    <image>http://dshm.tmsimg.com/assets/p19714451_b_h8_af.jpg</image>
+    <start>06:00PM</start>
+    <finish>07:00PM</finish>
+    <date>20 September 2025</date>
+  </channel>
+  <channel>
+    <name>MSNBC US</name>
+    <id>MSNBC.us</id>
+    <title>Live: Alex Witt Reports</title>
+    <desc>The latest breaking news, reporting and live coverage of the day's important stories; hosted by trusted NBC News journalists, these dynamic hours offer discussions with newsmakers, journalists and politicians.</desc>
+    <image>http://dshm.tmsimg.com/assets/p19714451_b_h8_af.jpg</image>
+    <start>07:00PM</start>
+    <finish>08:00PM</finish>
+    <date>20 September 2025</date>
+  </channel>
+  <channel>
+    <name>MSNBC US</name>
+    <id>MSNBC.us</id>
+    <title>Live: Alex Witt Reports</title>
+    <desc>The latest breaking news, reporting and live coverage of the day's important stories; hosted by trusted NBC News journalists, these dynamic hours offer discussions with newsmakers, journalists and politicians.</desc>
+    <image>http://dshm.tmsimg.com/assets/p19714451_b_h8_af.jpg</image>
+    <start>08:00PM</start>
+    <finish>09:00PM</finish>
+    <date>20 September 2025</date>
+  </channel>
+  <channel>
+    <name>MSNBC US</name>
+    <id>MSNBC.us</id>
+    <title>Live: The Beat: Weekend</title>
+    <desc>Highlights from &quot;The Beat With Ari Melber.&quot;.</desc>
+    <image>http://dshm.tmsimg.com/assets/p26444735_b_h8_ac.jpg</image>
+    <start>09:00PM</start>
+    <finish>10:00PM</finish>
+    <date>20 September 2025</date>
+  </channel>
+  <channel>
+    <name>MSNBC US</name>
+    <id>MSNBC.us</id>
+    <title>Live: PoliticsNation</title>
+    <desc>Sharpton approaches news stories with an eye toward equality and justice and brings to light the news and updates on under-reported issues that require a national platform.</desc>
+    <image>http://dshm.tmsimg.com/assets/p8820139_b_h8_ae.jpg</image>
+    <start>10:00PM</start>
+    <finish>11:00PM</finish>
+    <date>20 September 2025</date>
+  </channel>
+  <channel>
+    <name>MSNBC US</name>
+    <id>MSNBC.us</id>
+    <title>Live: The Weekend: Primetime</title>
+    <desc>Ayman Mohyeldin, Catherine Rampell, Antonia Hylton and Elise Jordan set the agenda for Saturday, Sunday, and the week ahead; fresh analysis of the week's biggest events.</desc>
+    <image>http://dshm.tmsimg.com/assets/p30071621_b_h8_aa.jpg</image>
+    <start>11:00PM</start>
+    <finish>12:00AM</finish>
+    <date>20 September 2025</date>
+  </channel>
+  <channel>
+    <name>MSNBC US</name>
+    <id>MSNBC.us</id>
+    <title>Live: The Weekend: Primetime</title>
+    <desc>Ayman Mohyeldin, Catherine Rampell, Antonia Hylton and Elise Jordan set the agenda for Saturday, Sunday, and the week ahead; fresh analysis of the week's biggest events.</desc>
+    <image>http://dshm.tmsimg.com/assets/p30071621_b_h8_aa.jpg</image>
+    <start>12:00AM</start>
+    <finish>01:00AM</finish>
+    <date>21 September 2025</date>
+  </channel>
+  <channel>
+    <name>MSNBC US</name>
+    <id>MSNBC.us</id>
+    <title>Live: The Weekend: Primetime</title>
+    <desc>Ayman Mohyeldin, Catherine Rampell, Antonia Hylton and Elise Jordan set the agenda for Saturday, Sunday, and the week ahead; fresh analysis of the week's biggest events.</desc>
+    <image>http://dshm.tmsimg.com/assets/p30071621_b_h8_aa.jpg</image>
+    <start>01:00AM</start>
+    <finish>02:00AM</finish>
+    <date>21 September 2025</date>
+  </channel>
+  <channel>
+    <name>MSNBC US</name>
+    <id>MSNBC.us</id>
+    <title>The Rachel Maddow Show</title>
+    <desc>Through her unique approach to storytelling, Rachel Maddow provides in-depth reporting to illuminate the current state of political affairs and reveals the importance of transparency and accountability from our leaders.</desc>
+    <image>http://dshm.tmsimg.com/assets/p188599_b_h10_ae.jpg</image>
+    <start>02:00AM</start>
+    <finish>03:00AM</finish>
+    <date>21 September 2025</date>
+  </channel>
+  <channel>
+    <name>MSNBC US</name>
+    <id>MSNBC.us</id>
+    <title>The Beat: Weekend</title>
+    <desc>Highlights from &quot;The Beat With Ari Melber.&quot;.</desc>
+    <image>http://dshm.tmsimg.com/assets/p26444735_b_h8_ac.jpg</image>
+    <start>03:00AM</start>
+    <finish>04:00AM</finish>
+    <date>21 September 2025</date>
+  </channel>
+  <channel>
+    <name>MSNBC US</name>
+    <id>MSNBC.us</id>
+    <title>The 11th Hour With Stephanie Ruhle</title>
+    <desc>Host Stephanie Ruhle brings her business acumen, hard-hitting interview style and original reporting, uncovering stories that affect everyone.</desc>
+    <image>http://dshm.tmsimg.com/assets/p21617497_b_h8_ag.jpg</image>
+    <start>04:00AM</start>
+    <finish>05:00AM</finish>
+    <date>21 September 2025</date>
+  </channel>
+  <channel>
+    <name>MSNBC US</name>
+    <id>MSNBC.us</id>
+    <title>The Weekend: Primetime</title>
+    <desc>Ayman Mohyeldin, Catherine Rampell, Antonia Hylton and Elise Jordan set the agenda for Saturday, Sunday, and the week ahead; fresh analysis of the week's biggest events.</desc>
+    <image>http://dshm.tmsimg.com/assets/p30071621_b_h8_aa.jpg</image>
+    <start>05:00AM</start>
+    <finish>06:00AM</finish>
+    <date>21 September 2025</date>
+  </channel>
+  <channel>
+    <name>MSNBC US</name>
+    <id>MSNBC.us</id>
+    <title>Dateline</title>
+    <desc>After young father Matthew Podolak dies from antifreeze poisoning, the manner of his death remains undetermined until his brother embarks on a quest for the truth.</desc>
+    <image>http://dshm.tmsimg.com/assets/p13159645_b_h10_aa.jpg</image>
+    <start>06:00AM</start>
+    <finish>07:00AM</finish>
+    <date>21 September 2025</date>
+  </channel>
+  <channel>
+    <name>MSNBC US</name>
+    <id>MSNBC.us</id>
+    <title>Dateline</title>
+    <desc>After young father Matthew Podolak dies from antifreeze poisoning, the manner of his death remains undetermined until his brother embarks on a quest for the truth.</desc>
+    <image>http://dshm.tmsimg.com/assets/p13159645_b_h10_aa.jpg</image>
+    <start>07:00AM</start>
+    <finish>08:00AM</finish>
+    <date>21 September 2025</date>
+  </channel>
+  <channel>
+    <name>MSNBC US</name>
+    <id>MSNBC.us</id>
+    <title>Dateline</title>
+    <desc>When a small-town Alabama resident is murdered in his home, rumors involving a local pastor begin to swirl as the truth ends up turning the community upside down.</desc>
+    <image>http://dshm.tmsimg.com/assets/p13159645_b_h10_aa.jpg</image>
+    <start>08:00AM</start>
+    <finish>09:00AM</finish>
+    <date>21 September 2025</date>
+  </channel>
+  <channel>
+    <name>MSNBC US</name>
+    <id>MSNBC.us</id>
+    <title>Dateline</title>
+    <desc>As detectives investigate a mother of two's sudden disappearance, her friends and family reveal she feared she was being stalked.</desc>
+    <image>http://dshm.tmsimg.com/assets/p13159645_b_h10_aa.jpg</image>
+    <start>09:00AM</start>
+    <finish>10:00AM</finish>
+    <date>21 September 2025</date>
+  </channel>
+  <channel>
+    <name>MSNBC US</name>
+    <id>MSNBC.us</id>
+    <title>Dateline</title>
+    <desc>Josh Mankiewicz reports on the mysterious disappearance of a Colorado rancher, whose friends think something isn't right and spend years fighting for answers.</desc>
+    <image>http://dshm.tmsimg.com/assets/p13159645_b_h10_aa.jpg</image>
+    <start>10:00AM</start>
+    <finish>11:00AM</finish>
+    <date>21 September 2025</date>
+  </channel>
+  <channel>
+    <name>MSNBC US</name>
+    <id>MSNBC.us</id>
+    <title>Morning Joe: Weekend</title>
+    <desc>Hosts Joe Scarborough, Mika Brzezinski and Willie Geist present in-depth and informed discussions that help drive the day's current political conversation.</desc>
+    <image>http://dshm.tmsimg.com/assets/p24026716_b_h8_ad.jpg</image>
+    <start>11:00AM</start>
+    <finish>12:00PM</finish>
+    <date>21 September 2025</date>
+  </channel>
+  <channel>
+    <name>MSNBC US</name>
+    <id>MSNBC.us</id>
+    <title>Live: The Weekend</title>
+    <desc>Jonathan Capehart, Eugene Daniels and Jackie Alemany set the agenda for Saturday, Sunday, and the week ahead; fresh analysis of the week's biggest events.</desc>
+    <image>http://dshm.tmsimg.com/assets/p29964183_b_h8_aa.jpg</image>
+    <start>12:00PM</start>
+    <finish>01:00PM</finish>
+    <date>21 September 2025</date>
+  </channel>
+  <channel>
+    <name>MSNBC US</name>
+    <id>MSNBC.us</id>
+    <title>Live: The Weekend</title>
+    <desc>Jonathan Capehart, Eugene Daniels and Jackie Alemany set the agenda for Saturday, Sunday, and the week ahead; fresh analysis of the week's biggest events.</desc>
+    <image>http://dshm.tmsimg.com/assets/p29964183_b_h8_aa.jpg</image>
+    <start>01:00PM</start>
+    <finish>02:00PM</finish>
+    <date>21 September 2025</date>
+  </channel>
+  <channel>
+    <name>MSNBC US</name>
+    <id>MSNBC.us</id>
+    <title>Live: The Weekend</title>
+    <desc>Jonathan Capehart, Eugene Daniels and Jackie Alemany set the agenda for Saturday, Sunday, and the week ahead; fresh analysis of the week's biggest events.</desc>
+    <image>http://dshm.tmsimg.com/assets/p29964183_b_h8_aa.jpg</image>
+    <start>02:00PM</start>
+    <finish>03:00PM</finish>
+    <date>21 September 2025</date>
+  </channel>
+  <channel>
+    <name>MSNBC US</name>
+    <id>MSNBC.us</id>
+    <title>Live: Velshi</title>
+    <desc>Current events and sharp analysis of top trending topics.</desc>
+    <image>http://dshm.tmsimg.com/assets/p17995816_b_h8_ag.jpg</image>
+    <start>03:00PM</start>
+    <finish>04:00PM</finish>
+    <date>21 September 2025</date>
+  </channel>
+  <channel>
+    <name>MSNBC US</name>
+    <id>MSNBC.us</id>
+    <title>Live: Velshi</title>
+    <desc>Current events and sharp analysis of top trending topics.</desc>
+    <image>http://dshm.tmsimg.com/assets/p17995816_b_h8_ag.jpg</image>
+    <start>04:00PM</start>
+    <finish>05:00PM</finish>
+    <date>21 September 2025</date>
+  </channel>
+  <channel>
+    <name>MSNBC US</name>
+    <id>MSNBC.us</id>
+    <title>Live: Velshi</title>
+    <desc>Current events and sharp analysis of top trending topics.</desc>
+    <image>http://dshm.tmsimg.com/assets/p17995816_b_h8_ag.jpg</image>
+    <start>05:00PM</start>
+    <finish>06:00PM</finish>
+    <date>21 September 2025</date>
+  </channel>
+  <channel>
+    <name>MSNBC US</name>
+    <id>MSNBC.us</id>
+    <title>Live: Alex Witt Reports</title>
+    <desc>The latest breaking news, reporting and live coverage of the day's important stories; hosted by trusted NBC News journalists, these dynamic hours offer discussions with newsmakers, journalists and politicians.</desc>
+    <image>http://dshm.tmsimg.com/assets/p19714451_b_h8_af.jpg</image>
+    <start>06:00PM</start>
+    <finish>07:00PM</finish>
+    <date>21 September 2025</date>
+  </channel>
+  <channel>
+    <name>MSNBC US</name>
+    <id>MSNBC.us</id>
+    <title>Live: Alex Witt Reports</title>
+    <desc>The latest breaking news, reporting and live coverage of the day's important stories; hosted by trusted NBC News journalists, these dynamic hours offer discussions with newsmakers, journalists and politicians.</desc>
+    <image>http://dshm.tmsimg.com/assets/p19714451_b_h8_af.jpg</image>
+    <start>07:00PM</start>
+    <finish>08:00PM</finish>
+    <date>21 September 2025</date>
+  </channel>
+  <channel>
+    <name>MSNBC US</name>
+    <id>MSNBC.us</id>
+    <title>Live: Alex Witt Reports</title>
+    <desc>The latest breaking news, reporting and live coverage of the day's important stories; hosted by trusted NBC News journalists, these dynamic hours offer discussions with newsmakers, journalists and politicians.</desc>
+    <image>http://dshm.tmsimg.com/assets/p19714451_b_h8_af.jpg</image>
+    <start>08:00PM</start>
+    <finish>09:00PM</finish>
+    <date>21 September 2025</date>
+  </channel>
+  <channel>
+    <name>MSNBC US</name>
+    <id>MSNBC.us</id>
+    <title>Deadline: White House: Weekend</title>
+    <desc>Highlights from &quot;Deadline: White House.&quot;.</desc>
+    <image>http://dshm.tmsimg.com/assets/p29300452_b_h8_aa.jpg</image>
+    <start>09:00PM</start>
+    <finish>10:00PM</finish>
+    <date>21 September 2025</date>
+  </channel>
+  <channel>
+    <name>MSNBC US</name>
+    <id>MSNBC.us</id>
+    <title>Live: PoliticsNation</title>
+    <desc>Sharpton approaches news stories with an eye toward equality and justice and brings to light the news and updates on under-reported issues that require a national platform.</desc>
+    <image>http://dshm.tmsimg.com/assets/p8820139_b_h8_ae.jpg</image>
+    <start>10:00PM</start>
+    <finish>11:00PM</finish>
+    <date>21 September 2025</date>
+  </channel>
+  <channel>
+    <name>MSNBC US</name>
+    <id>MSNBC.us</id>
+    <title>Live: The Weekend: Primetime</title>
+    <desc>Ayman Mohyeldin, Catherine Rampell, Antonia Hylton and Elise Jordan set the agenda for Saturday, Sunday, and the week ahead; fresh analysis of the week's biggest events.</desc>
+    <image>http://dshm.tmsimg.com/assets/p30071621_b_h8_aa.jpg</image>
+    <start>11:00PM</start>
+    <finish>12:00AM</finish>
+    <date>21 September 2025</date>
+  </channel>
+  <channel>
+    <name>MSNBC US</name>
+    <id>MSNBC.us</id>
+    <title>Live: The Weekend: Primetime</title>
+    <desc>Ayman Mohyeldin, Catherine Rampell, Antonia Hylton and Elise Jordan set the agenda for Saturday, Sunday, and the week ahead; fresh analysis of the week's biggest events.</desc>
+    <image>http://dshm.tmsimg.com/assets/p30071621_b_h8_aa.jpg</image>
+    <start>12:00AM</start>
+    <finish>01:00AM</finish>
+    <date>22 September 2025</date>
+  </channel>
+  <channel>
+    <name>MSNBC US</name>
+    <id>MSNBC.us</id>
+    <title>Live: The Weekend: Primetime</title>
+    <desc>Ayman Mohyeldin, Catherine Rampell, Antonia Hylton and Elise Jordan set the agenda for Saturday, Sunday, and the week ahead; fresh analysis of the week's biggest events.</desc>
+    <image>http://dshm.tmsimg.com/assets/p30071621_b_h8_aa.jpg</image>
+    <start>01:00AM</start>
+    <finish>02:00AM</finish>
+    <date>22 September 2025</date>
+  </channel>
+  <channel>
+    <name>MSNBC US</name>
+    <id>MSNBC.us</id>
+    <title>The Briefing with Jen Psaki: Weekend</title>
+    <desc>Jen Psaki tackles the biggest issues of the week and features one-on-one interviews with newsmakers.</desc>
+    <image>http://dshm.tmsimg.com/assets/p30145786_b_h8_aa.jpg</image>
+    <start>02:00AM</start>
+    <finish>03:00AM</finish>
+    <date>22 September 2025</date>
+  </channel>
+  <channel>
+    <name>MSNBC US</name>
+    <id>MSNBC.us</id>
+    <title>The Weekend: Primetime</title>
+    <desc>Ayman Mohyeldin, Catherine Rampell, Antonia Hylton and Elise Jordan set the agenda for Saturday, Sunday, and the week ahead; fresh analysis of the week's biggest events.</desc>
+    <image>http://dshm.tmsimg.com/assets/p30071621_b_h8_aa.jpg</image>
+    <start>03:00AM</start>
+    <finish>04:00AM</finish>
+    <date>22 September 2025</date>
+  </channel>
+  <channel>
+    <name>MSNBC US</name>
+    <id>MSNBC.us</id>
+    <title>The Weekend: Primetime</title>
+    <desc>Ayman Mohyeldin, Catherine Rampell, Antonia Hylton and Elise Jordan set the agenda for Saturday, Sunday, and the week ahead; fresh analysis of the week's biggest events.</desc>
+    <image>http://dshm.tmsimg.com/assets/p30071621_b_h8_aa.jpg</image>
+    <start>04:00AM</start>
+    <finish>05:00AM</finish>
+    <date>22 September 2025</date>
+  </channel>
+  <channel>
+    <name>MSNBC US</name>
+    <id>MSNBC.us</id>
+    <title>Deadline: White House: Weekend</title>
+    <desc>Highlights from &quot;Deadline: White House.&quot;.</desc>
+    <image>http://dshm.tmsimg.com/assets/p29300452_b_h8_aa.jpg</image>
+    <start>05:00AM</start>
+    <finish>06:00AM</finish>
+    <date>22 September 2025</date>
+  </channel>
+  <channel>
+    <name>MSNBC US</name>
+    <id>MSNBC.us</id>
+    <title>Dateline</title>
+    <desc>A daughter finds her father, a former FBI agent, murdered at his house; police dig into the man's past and begin to think the key to the mystery might be quite close to home.</desc>
+    <image>http://dshm.tmsimg.com/assets/p13159645_b_h10_aa.jpg</image>
+    <start>06:00AM</start>
+    <finish>07:00AM</finish>
+    <date>22 September 2025</date>
+  </channel>
+  <channel>
+    <name>MSNBC US</name>
+    <id>MSNBC.us</id>
+    <title>Dateline</title>
+    <desc>Ohio investigators search for answers in the decades-old murder of 10-year-old Amy Mihaljevic; a retracing of Amy's steps from the day of the kidnapping.</desc>
+    <image>http://dshm.tmsimg.com/assets/p13159645_b_h10_aa.jpg</image>
+    <start>07:00AM</start>
+    <finish>08:00AM</finish>
+    <date>22 September 2025</date>
+  </channel>
+  <channel>
+    <name>MSNBC US</name>
+    <id>MSNBC.us</id>
+    <title>Dateline</title>
+    <desc>An advocate for missing and murdered Indigenous women searches for answers in the disappearance of her niece and exposes cracks in law enforcement.</desc>
+    <image>http://dshm.tmsimg.com/assets/p13159645_b_h10_aa.jpg</image>
+    <start>08:00AM</start>
+    <finish>09:00AM</finish>
+    <date>22 September 2025</date>
+  </channel>
+  <channel>
+    <name>MSNBC US</name>
+    <id>MSNBC.us</id>
+    <title>The Briefing with Jen Psaki: Weekend</title>
+    <desc>Jen Psaki tackles the biggest issues of the week and features one-on-one interviews with newsmakers.</desc>
+    <image>http://dshm.tmsimg.com/assets/p30145786_b_h8_aa.jpg</image>
+    <start>09:00AM</start>
+    <finish>10:00AM</finish>
+    <date>22 September 2025</date>
+  </channel>
+  <channel>
+    <name>MSNBC US</name>
+    <id>MSNBC.us</id>
+    <title>Live: Way Too Early With Ali Vitali</title>
+    <desc>Inside-the-beltway political news and critical stories shaping the national conversation.</desc>
+    <image>http://dshm.tmsimg.com/assets/p29075279_b_h8_aa.jpg</image>
+    <start>10:00AM</start>
+    <finish>11:00AM</finish>
+    <date>22 September 2025</date>
+  </channel>
+  <channel>
+    <name>MSNBC US</name>
+    <id>MSNBC.us</id>
+    <title>Live: Morning Joe</title>
+    <desc>Hosts Joe Scarborough, Mika Brzezinski and Willie Geist present in-depth and informed discussions that help drive the day's current political conversation.</desc>
+    <image>http://dshm.tmsimg.com/assets/p186220_b_h8_ae.jpg</image>
+    <start>11:00AM</start>
+    <finish>03:00PM</finish>
+    <date>22 September 2025</date>
+  </channel>
+  <channel>
+    <name>MSNBC US</name>
+    <id>MSNBC.us</id>
+    <title>Live: Ana Cabrera Reports</title>
+    <desc>The latest breaking news, reporting and coverage of the day's important stories.</desc>
+    <image>http://dshm.tmsimg.com/assets/p24490202_b_h8_af.jpg</image>
+    <start>03:00PM</start>
+    <finish>04:00PM</finish>
+    <date>22 September 2025</date>
+  </channel>
+  <channel>
+    <name>MSNBC US</name>
+    <id>MSNBC.us</id>
+    <title>Live: Ana Cabrera Reports</title>
+    <desc>The latest breaking news, reporting and coverage of the day's important stories.</desc>
+    <image>http://dshm.tmsimg.com/assets/p24490202_b_h8_af.jpg</image>
+    <start>04:00PM</start>
+    <finish>05:00PM</finish>
+    <date>22 September 2025</date>
+  </channel>
+  <channel>
+    <name>MSNBC US</name>
+    <id>MSNBC.us</id>
+    <title>Live: Chris Jansing Reports</title>
+    <desc>The latest breaking news, reporting and coverage of the day's important stories.</desc>
+    <image>http://dshm.tmsimg.com/assets/p22203124_b_h8_ag.jpg</image>
+    <start>05:00PM</start>
+    <finish>06:00PM</finish>
+    <date>22 September 2025</date>
+  </channel>
+  <channel>
+    <name>MSNBC US</name>
+    <id>MSNBC.us</id>
+    <title>Live: Chris Jansing Reports</title>
+    <desc>The latest breaking news, reporting and coverage of the day's important stories.</desc>
+    <image>http://dshm.tmsimg.com/assets/p22203124_b_h8_ag.jpg</image>
+    <start>06:00PM</start>
+    <finish>07:00PM</finish>
+    <date>22 September 2025</date>
+  </channel>
+  <channel>
+    <name>MSNBC US</name>
+    <id>MSNBC.us</id>
+    <title>Live: Katy Tur Reports</title>
+    <desc>The latest breaking news, reporting and coverage of the day's important stories.</desc>
+    <image>http://dshm.tmsimg.com/assets/p19714416_b_h8_af.jpg</image>
+    <start>07:00PM</start>
+    <finish>08:00PM</finish>
+    <date>22 September 2025</date>
+  </channel>
+  <channel>
+    <name>MSNBC US</name>
+    <id>MSNBC.us</id>
+    <title>Live: Katy Tur Reports</title>
+    <desc>The latest breaking news, reporting and coverage of the day's important stories.</desc>
+    <image>http://dshm.tmsimg.com/assets/p19714416_b_h8_af.jpg</image>
+    <start>08:00PM</start>
+    <finish>09:00PM</finish>
+    <date>22 September 2025</date>
+  </channel>
+  <channel>
+    <name>MSNBC US</name>
+    <id>MSNBC.us</id>
+    <title>Live: Deadline: White House</title>
+    <desc>In-depth reporting on political developments and dynamic discussions with leading newsmakers, with insights into complex issues.</desc>
+    <image>http://dshm.tmsimg.com/assets/p14124364_b_h8_ae.jpg</image>
+    <start>09:00PM</start>
+    <finish>11:00PM</finish>
+    <date>22 September 2025</date>
+  </channel>
+  <channel>
+    <name>MSNBC US</name>
+    <id>MSNBC.us</id>
+    <title>Live: The Beat With Ari Melber</title>
+    <desc>Attorney and journalist Ari Melber dives into political and news stories with interviews and original reporting from around the nation.</desc>
+    <image>http://dshm.tmsimg.com/assets/p28947784_b_h10_aa.jpg</image>
+    <start>11:00PM</start>
+    <finish>12:00AM</finish>
+    <date>22 September 2025</date>
+  </channel>
+  <channel>
+    <name>MSNBC US</name>
+    <id>MSNBC.us</id>
+    <title>Live: The Weeknight</title>
+    <desc>Alicia Menendez, Michael Steele, and Symone Sanders-Townsend's one-on-one conversations with politicians and newsmakers, and the breaking issues of the day.</desc>
+    <image>http://dshm.tmsimg.com/assets/p29964114_b_h8_aa.jpg</image>
+    <start>12:00AM</start>
+    <finish>02:00AM</finish>
+    <date>23 September 2025</date>
+  </channel>
+  <channel>
+    <name>MSNBC US</name>
+    <id>MSNBC.us</id>
+    <title>Live: The Rachel Maddow Show</title>
+    <desc>Through her unique approach to storytelling, Rachel Maddow provides in-depth reporting to illuminate the current state of political affairs and reveals the importance of transparency and accountability from our leaders.</desc>
+    <image>http://dshm.tmsimg.com/assets/p188599_b_h10_ae.jpg</image>
+    <start>02:00AM</start>
+    <finish>03:00AM</finish>
+    <date>23 September 2025</date>
+  </channel>
+  <channel>
+    <name>MSNBC US</name>
+    <id>MSNBC.us</id>
+    <title>Live: The Last Word With Lawrence O'Donnell</title>
+    <desc>In his signature style, Lawrence O'Donnell goes into depth on the latest news developments and offers his take on the political stories driving the national conversation.</desc>
+    <image>http://dshm.tmsimg.com/assets/p8306876_b_h8_ae.jpg</image>
+    <start>03:00AM</start>
+    <finish>04:00AM</finish>
+    <date>23 September 2025</date>
+  </channel>
+  <channel>
+    <name>MSNBC US</name>
+    <id>MSNBC.us</id>
+    <title>Live: The 11th Hour With Stephanie Ruhle</title>
+    <desc>Host Stephanie Ruhle brings her business acumen, hard-hitting interview style and original reporting, uncovering stories that affect everyone.</desc>
+    <image>http://dshm.tmsimg.com/assets/p21617497_b_h8_ag.jpg</image>
+    <start>04:00AM</start>
+    <finish>05:00AM</finish>
+    <date>23 September 2025</date>
+  </channel>
+  <channel>
+    <name>MSNBC US</name>
+    <id>MSNBC.us</id>
+    <title>The Rachel Maddow Show</title>
+    <desc>Through her unique approach to storytelling, Rachel Maddow provides in-depth reporting to illuminate the current state of political affairs and reveals the importance of transparency and accountability from our leaders.</desc>
+    <image>http://dshm.tmsimg.com/assets/p188599_b_h10_ae.jpg</image>
+    <start>05:00AM</start>
+    <finish>06:00AM</finish>
+    <date>23 September 2025</date>
+  </channel>
+  <channel>
+    <name>MSNBC US</name>
+    <id>MSNBC.us</id>
+    <title>The Last Word With Lawrence O'Donnell</title>
+    <desc>In his signature style, Lawrence O'Donnell goes into depth on the latest news developments and offers his take on the political stories driving the national conversation.</desc>
+    <image>http://dshm.tmsimg.com/assets/p8306876_b_h8_ae.jpg</image>
+    <start>06:00AM</start>
+    <finish>07:00AM</finish>
+    <date>23 September 2025</date>
+  </channel>
+  <channel>
+    <name>MSNBC US</name>
+    <id>MSNBC.us</id>
+    <title>The 11th Hour With Stephanie Ruhle</title>
+    <desc>Host Stephanie Ruhle brings her business acumen, hard-hitting interview style and original reporting, uncovering stories that affect everyone.</desc>
+    <image>http://dshm.tmsimg.com/assets/p21617497_b_h8_ag.jpg</image>
+    <start>07:00AM</start>
+    <finish>08:00AM</finish>
+    <date>23 September 2025</date>
+  </channel>
+  <channel>
+    <name>MSNBC US</name>
+    <id>MSNBC.us</id>
+    <title>The Weeknight</title>
+    <desc>Alicia Menendez, Michael Steele, and Symone Sanders-Townsend's one-on-one conversations with politicians and newsmakers, and the breaking issues of the day.</desc>
+    <image>http://dshm.tmsimg.com/assets/p29964114_b_h8_aa.jpg</image>
+    <start>08:00AM</start>
+    <finish>09:00AM</finish>
+    <date>23 September 2025</date>
+  </channel>
+  <channel>
+    <name>MSNBC US</name>
+    <id>MSNBC.us</id>
+    <title>The Rachel Maddow Show</title>
+    <desc>Through her unique approach to storytelling, Rachel Maddow provides in-depth reporting to illuminate the current state of political affairs and reveals the importance of transparency and accountability from our leaders.</desc>
+    <image>http://dshm.tmsimg.com/assets/p188599_b_h10_ae.jpg</image>
+    <start>09:00AM</start>
+    <finish>10:00AM</finish>
+    <date>23 September 2025</date>
+  </channel>
+  <channel>
+    <name>MSNBC US</name>
+    <id>MSNBC.us</id>
+    <title>Live: Way Too Early With Ali Vitali</title>
+    <desc>Inside-the-beltway political news and critical stories shaping the national conversation.</desc>
+    <image>http://dshm.tmsimg.com/assets/p29075279_b_h8_aa.jpg</image>
+    <start>10:00AM</start>
+    <finish>11:00AM</finish>
+    <date>23 September 2025</date>
+  </channel>
+  <channel>
+    <name>MSNBC US</name>
+    <id>MSNBC.us</id>
+    <title>Live: Morning Joe</title>
+    <desc>Hosts Joe Scarborough, Mika Brzezinski and Willie Geist present in-depth and informed discussions that help drive the day's current political conversation.</desc>
+    <image>http://dshm.tmsimg.com/assets/p186220_b_h8_ae.jpg</image>
+    <start>11:00AM</start>
+    <finish>03:00PM</finish>
+    <date>23 September 2025</date>
+  </channel>
+  <channel>
+    <name>MSNBC US</name>
+    <id>MSNBC.us</id>
+    <title>Live: Ana Cabrera Reports</title>
+    <desc>The latest breaking news, reporting and coverage of the day's important stories.</desc>
+    <image>http://dshm.tmsimg.com/assets/p24490202_b_h8_af.jpg</image>
+    <start>03:00PM</start>
+    <finish>04:00PM</finish>
+    <date>23 September 2025</date>
+  </channel>
+  <channel>
+    <name>MSNBC US</name>
+    <id>MSNBC.us</id>
+    <title>Live: Ana Cabrera Reports</title>
+    <desc>The latest breaking news, reporting and coverage of the day's important stories.</desc>
+    <image>http://dshm.tmsimg.com/assets/p24490202_b_h8_af.jpg</image>
+    <start>04:00PM</start>
+    <finish>05:00PM</finish>
+    <date>23 September 2025</date>
+  </channel>
+  <channel>
+    <name>MSNBC US</name>
+    <id>MSNBC.us</id>
+    <title>Live: Chris Jansing Reports</title>
+    <desc>The latest breaking news, reporting and coverage of the day's important stories.</desc>
+    <image>http://dshm.tmsimg.com/assets/p22203124_b_h8_ag.jpg</image>
+    <start>05:00PM</start>
+    <finish>06:00PM</finish>
+    <date>23 September 2025</date>
+  </channel>
+  <channel>
+    <name>MSNBC US</name>
+    <id>MSNBC.us</id>
+    <title>Live: Chris Jansing Reports</title>
+    <desc>The latest breaking news, reporting and coverage of the day's important stories.</desc>
+    <image>http://dshm.tmsimg.com/assets/p22203124_b_h8_ag.jpg</image>
+    <start>06:00PM</start>
+    <finish>07:00PM</finish>
+    <date>23 September 2025</date>
+  </channel>
+  <channel>
+    <name>MSNBC US</name>
+    <id>MSNBC.us</id>
+    <title>Live: Katy Tur Reports</title>
+    <desc>The latest breaking news, reporting and coverage of the day's important stories.</desc>
+    <image>http://dshm.tmsimg.com/assets/p19714416_b_h8_af.jpg</image>
+    <start>07:00PM</start>
+    <finish>08:00PM</finish>
+    <date>23 September 2025</date>
+  </channel>
+  <channel>
+    <name>MSNBC US</name>
+    <id>MSNBC.us</id>
+    <title>Live: Katy Tur Reports</title>
+    <desc>The latest breaking news, reporting and coverage of the day's important stories.</desc>
+    <image>http://dshm.tmsimg.com/assets/p19714416_b_h8_af.jpg</image>
+    <start>08:00PM</start>
+    <finish>09:00PM</finish>
+    <date>23 September 2025</date>
+  </channel>
+  <channel>
+    <name>MSNBC US</name>
+    <id>MSNBC.us</id>
+    <title>Live: Deadline: White House</title>
+    <desc>In-depth reporting on political developments and dynamic discussions with leading newsmakers, with insights into complex issues.</desc>
+    <image>http://dshm.tmsimg.com/assets/p14124364_b_h8_ae.jpg</image>
+    <start>09:00PM</start>
+    <finish>11:00PM</finish>
+    <date>23 September 2025</date>
+  </channel>
+  <channel>
+    <name>MSNBC US</name>
+    <id>MSNBC.us</id>
+    <title>Live: The Beat With Ari Melber</title>
+    <desc>Attorney and journalist Ari Melber dives into political and news stories with interviews and original reporting from around the nation.</desc>
+    <image>http://dshm.tmsimg.com/assets/p28947784_b_h10_aa.jpg</image>
+    <start>11:00PM</start>
+    <finish>12:00AM</finish>
+    <date>23 September 2025</date>
+  </channel>
+  <channel>
+    <name>MSNBC US</name>
+    <id>MSNBC.us</id>
+    <title>Live: The Weeknight</title>
+    <desc>Alicia Menendez, Michael Steele, and Symone Sanders-Townsend's one-on-one conversations with politicians and newsmakers, and the breaking issues of the day.</desc>
+    <image>http://dshm.tmsimg.com/assets/p29964114_b_h8_aa.jpg</image>
+    <start>12:00AM</start>
+    <finish>01:00AM</finish>
+    <date>24 September 2025</date>
+  </channel>
+  <channel>
+    <name>MSNBC US</name>
+    <id>MSNBC.us</id>
+    <title>Live: All In With Chris Hayes</title>
+    <desc>Chris Hayes reports on some of the biggest news and political stories of the day with a commitment to in-depth reporting that seeks to hold the nation's leaders accountable for their actions.</desc>
+    <image>http://dshm.tmsimg.com/assets/p9882717_b_h8_af.jpg</image>
+    <start>01:00AM</start>
+    <finish>02:00AM</finish>
+    <date>24 September 2025</date>
+  </channel>
+  <channel>
+    <name>MSNBC US</name>
+    <id>MSNBC.us</id>
+    <title>Live: The Briefing with Jen Psaki</title>
+    <desc>Jen Psaki tackles the biggest issues of the week and features one-on-one interviews with newsmakers.</desc>
+    <image>http://dshm.tmsimg.com/assets/p29964097_b_h8_ad.jpg</image>
+    <start>02:00AM</start>
+    <finish>03:00AM</finish>
+    <date>24 September 2025</date>
+  </channel>
+  <channel>
+    <name>MSNBC US</name>
+    <id>MSNBC.us</id>
+    <title>Live: The Last Word With Lawrence O'Donnell</title>
+    <desc>In his signature style, Lawrence O'Donnell goes into depth on the latest news developments and offers his take on the political stories driving the national conversation.</desc>
+    <image>http://dshm.tmsimg.com/assets/p8306876_b_h8_ae.jpg</image>
+    <start>03:00AM</start>
+    <finish>04:00AM</finish>
+    <date>24 September 2025</date>
+  </channel>
+  <channel>
+    <name>MSNBC US</name>
+    <id>MSNBC.us</id>
+    <title>Live: The 11th Hour With Stephanie Ruhle</title>
+    <desc>Host Stephanie Ruhle brings her business acumen, hard-hitting interview style and original reporting, uncovering stories that affect everyone.</desc>
+    <image>http://dshm.tmsimg.com/assets/p21617497_b_h8_ag.jpg</image>
+    <start>04:00AM</start>
+    <finish>05:00AM</finish>
+    <date>24 September 2025</date>
+  </channel>
+  <channel>
+    <name>MSNBC US</name>
+    <id>MSNBC.us</id>
+    <title>The Briefing with Jen Psaki</title>
+    <desc>Jen Psaki tackles the biggest issues of the week and features one-on-one interviews with newsmakers.</desc>
+    <image>http://dshm.tmsimg.com/assets/p29964097_b_h8_ad.jpg</image>
+    <start>05:00AM</start>
+    <finish>06:00AM</finish>
+    <date>24 September 2025</date>
+  </channel>
+  <channel>
+    <name>MSNBC US</name>
+    <id>MSNBC.us</id>
+    <title>The Last Word With Lawrence O'Donnell</title>
+    <desc>In his signature style, Lawrence O'Donnell goes into depth on the latest news developments and offers his take on the political stories driving the national conversation.</desc>
+    <image>http://dshm.tmsimg.com/assets/p8306876_b_h8_ae.jpg</image>
+    <start>06:00AM</start>
+    <finish>07:00AM</finish>
+    <date>24 September 2025</date>
+  </channel>
+  <channel>
+    <name>MSNBC US</name>
+    <id>MSNBC.us</id>
+    <title>The 11th Hour With Stephanie Ruhle</title>
+    <desc>Host Stephanie Ruhle brings her business acumen, hard-hitting interview style and original reporting, uncovering stories that affect everyone.</desc>
+    <image>http://dshm.tmsimg.com/assets/p21617497_b_h8_ag.jpg</image>
+    <start>07:00AM</start>
+    <finish>08:00AM</finish>
+    <date>24 September 2025</date>
+  </channel>
+  <channel>
+    <name>MSNBC US</name>
+    <id>MSNBC.us</id>
+    <title>All In With Chris Hayes</title>
+    <desc>Chris Hayes reports on some of the biggest news and political stories of the day with a commitment to in-depth reporting that seeks to hold the nation's leaders accountable for their actions.</desc>
+    <image>http://dshm.tmsimg.com/assets/p9882717_b_h8_af.jpg</image>
+    <start>08:00AM</start>
+    <finish>09:00AM</finish>
+    <date>24 September 2025</date>
+  </channel>
+  <channel>
+    <name>MSNBC US</name>
+    <id>MSNBC.us</id>
+    <title>The Briefing with Jen Psaki</title>
+    <desc>Jen Psaki tackles the biggest issues of the week and features one-on-one interviews with newsmakers.</desc>
+    <image>http://dshm.tmsimg.com/assets/p29964097_b_h8_ad.jpg</image>
+    <start>09:00AM</start>
+    <finish>10:00AM</finish>
+    <date>24 September 2025</date>
+  </channel>
+  <channel>
+    <name>MSNBC US</name>
+    <id>MSNBC.us</id>
+    <title>Live: Way Too Early With Ali Vitali</title>
+    <desc>Inside-the-beltway political news and critical stories shaping the national conversation.</desc>
+    <image>http://dshm.tmsimg.com/assets/p29075279_b_h8_aa.jpg</image>
+    <start>10:00AM</start>
+    <finish>11:00AM</finish>
+    <date>24 September 2025</date>
+  </channel>
+  <channel>
+    <name>MSNBC US</name>
+    <id>MSNBC.us</id>
+    <title>Live: Morning Joe</title>
+    <desc>Hosts Joe Scarborough, Mika Brzezinski and Willie Geist present in-depth and informed discussions that help drive the day's current political conversation.</desc>
+    <image>http://dshm.tmsimg.com/assets/p186220_b_h8_ae.jpg</image>
+    <start>11:00AM</start>
+    <finish>03:00PM</finish>
+    <date>24 September 2025</date>
+  </channel>
+  <channel>
+    <name>MSNBC US</name>
+    <id>MSNBC.us</id>
+    <title>Live: Ana Cabrera Reports</title>
+    <desc>The latest breaking news, reporting and coverage of the day's important stories.</desc>
+    <image>http://dshm.tmsimg.com/assets/p24490202_b_h8_af.jpg</image>
+    <start>03:00PM</start>
+    <finish>04:00PM</finish>
+    <date>24 September 2025</date>
+  </channel>
+  <channel>
+    <name>MSNBC US</name>
+    <id>MSNBC.us</id>
+    <title>Live: Ana Cabrera Reports</title>
+    <desc>The latest breaking news, reporting and coverage of the day's important stories.</desc>
+    <image>http://dshm.tmsimg.com/assets/p24490202_b_h8_af.jpg</image>
+    <start>04:00PM</start>
+    <finish>05:00PM</finish>
+    <date>24 September 2025</date>
+  </channel>
+  <channel>
+    <name>MSNBC US</name>
+    <id>MSNBC.us</id>
+    <title>Live: Chris Jansing Reports</title>
+    <desc>The latest breaking news, reporting and coverage of the day's important stories.</desc>
+    <image>http://dshm.tmsimg.com/assets/p22203124_b_h8_ag.jpg</image>
+    <start>05:00PM</start>
+    <finish>06:00PM</finish>
+    <date>24 September 2025</date>
+  </channel>
+  <channel>
+    <name>MSNBC US</name>
+    <id>MSNBC.us</id>
+    <title>Live: Chris Jansing Reports</title>
+    <desc>The latest breaking news, reporting and coverage of the day's important stories.</desc>
+    <image>http://dshm.tmsimg.com/assets/p22203124_b_h8_ag.jpg</image>
+    <start>06:00PM</start>
+    <finish>07:00PM</finish>
+    <date>24 September 2025</date>
+  </channel>
+  <channel>
+    <name>MSNBC US</name>
+    <id>MSNBC.us</id>
+    <title>Live: Katy Tur Reports</title>
+    <desc>The latest breaking news, reporting and coverage of the day's important stories.</desc>
+    <image>http://dshm.tmsimg.com/assets/p19714416_b_h8_af.jpg</image>
+    <start>07:00PM</start>
+    <finish>08:00PM</finish>
+    <date>24 September 2025</date>
+  </channel>
+  <channel>
+    <name>MSNBC US</name>
+    <id>MSNBC.us</id>
+    <title>Live: Katy Tur Reports</title>
+    <desc>The latest breaking news, reporting and coverage of the day's important stories.</desc>
+    <image>http://dshm.tmsimg.com/assets/p19714416_b_h8_af.jpg</image>
+    <start>08:00PM</start>
+    <finish>09:00PM</finish>
+    <date>24 September 2025</date>
+  </channel>
+  <channel>
+    <name>MSNBC US</name>
+    <id>MSNBC.us</id>
+    <title>Live: Deadline: White House</title>
+    <desc>In-depth reporting on political developments and dynamic discussions with leading newsmakers, with insights into complex issues.</desc>
+    <image>http://dshm.tmsimg.com/assets/p14124364_b_h8_ae.jpg</image>
+    <start>09:00PM</start>
+    <finish>11:00PM</finish>
+    <date>24 September 2025</date>
+  </channel>
+  <channel>
+    <name>MSNBC US</name>
+    <id>MSNBC.us</id>
+    <title>Live: The Beat With Ari Melber</title>
+    <desc>Attorney and journalist Ari Melber dives into political and news stories with interviews and original reporting from around the nation.</desc>
+    <image>http://dshm.tmsimg.com/assets/p28947784_b_h10_aa.jpg</image>
+    <start>11:00PM</start>
+    <finish>12:00AM</finish>
+    <date>24 September 2025</date>
+  </channel>
+  <channel>
+    <name>MSNBC US</name>
+    <id>MSNBC.us</id>
+    <title>Live: The Weeknight</title>
+    <desc>Alicia Menendez, Michael Steele, and Symone Sanders-Townsend's one-on-one conversations with politicians and newsmakers, and the breaking issues of the day.</desc>
+    <image>http://dshm.tmsimg.com/assets/p29964114_b_h8_aa.jpg</image>
+    <start>12:00AM</start>
+    <finish>01:00AM</finish>
+    <date>25 September 2025</date>
+  </channel>
+</tv>
