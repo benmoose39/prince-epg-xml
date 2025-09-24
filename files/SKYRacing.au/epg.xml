@@ -1,2 +1,523 @@
 <?xml version="1.0" ?>
-<tv/>
+<tv>
+  <channel>
+    <name>SKY Racing AU</name>
+    <id>SKYRacing.au</id>
+    <title>Sky Racing 1 Raceday</title>
+    <desc>Thoroughbreds from Warwick Farm, Sandown, Eagle Farm, Balaklava, Belmont, Phar Lap, Horseshoe Indianapolis, Gavea; Greyhound Racing from Temora, Gunnedah, Healesville, Bendigo, Capalaba, Q1 Lakeside, Gawler, Ascot Park; Harness Racing from Bathurst, Bendigo.</desc>
+    <image>https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/73/25/62/732562_p18088932_b_h9_aa_360.jpg</image>
+    <start>03:00AM</start>
+    <finish>09:00AM</finish>
+    <date>24 September 2025</date>
+  </channel>
+  <channel>
+    <name>SKY Racing AU</name>
+    <id>SKYRacing.au</id>
+    <title>Sky Racing 1 Racenight</title>
+    <desc>Thoroughbreds from Belmont, Happy Valley, Istanbul; Greyhound Racing from Gunnedah, Taree, Richmond, Bendigo, Bendigo Extra, The Meadows, Sale, Rockhampton, Cannington, Monmore, Q1 Lakeside Extra; Harness Racing from Bathurst, Bendigo, Redcliffe.</desc>
+    <image>https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/73/25/64/732564_p18088933_b_h9_aa_360.jpg</image>
+    <start>09:00AM</start>
+    <finish>01:00PM</finish>
+    <date>24 September 2025</date>
+  </channel>
+  <channel>
+    <name>SKY Racing AU</name>
+    <id>SKYRacing.au</id>
+    <title>Sky Racing 1 Latenight</title>
+    <desc>Thoroughbreds from Happy Valley, Istanbul, Goodwood, Perth, Redcar, Listowel; Greyhound Racing from Taree, Richmond, The Meadows, Sale, Rockhampton, Cannington, Monmore, Hove, Newcastle; Harness Racing from Redcliffe.</desc>
+    <image>https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/73/25/66/732566_p18088936_b_h9_ab_360.jpg</image>
+    <start>01:00PM</start>
+    <finish>03:00PM</finish>
+    <date>24 September 2025</date>
+  </channel>
+  <channel>
+    <name>SKY Racing AU</name>
+    <id>SKYRacing.au</id>
+    <title>Sky Racing 1 Latenight</title>
+    <desc>Thoroughbreds from Happy Valley, Istanbul, Elazig, Goodwood, Perth, Redcar, Kempton, Listowel, Toulouse; Greyhound Racing from Cannington, Hove, Newcastle, Yarmouth, Romford, Dunstall Park.</desc>
+    <image>https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/73/25/66/732566_p18088936_b_h9_ab_360.jpg</image>
+    <start>03:00PM</start>
+    <finish>08:00PM</finish>
+    <date>24 September 2025</date>
+  </channel>
+  <channel>
+    <name>SKY Racing AU</name>
+    <id>SKYRacing.au</id>
+    <title>Racing Replay: Eagle Farm Thoroughbreds</title>
+    <desc>Highlights of Thoroughbred racing from Eagle Farm.</desc>
+    <image>https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/73/20/06/732006_p17165961_b_h9_aa_360.jpg</image>
+    <start>08:00PM</start>
+    <finish>08:30PM</finish>
+    <date>24 September 2025</date>
+  </channel>
+  <channel>
+    <name>SKY Racing AU</name>
+    <id>SKYRacing.au</id>
+    <title>Formline Extra Encore</title>
+    <desc>Know the contenders from the pretenders as our team of Sky Racing expert form analysts dissect tomorrow's meeting.</desc>
+    <image>https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/74/70/26/747026_p18103974_b_h9_aa_360.jpg</image>
+    <start>08:30PM</start>
+    <finish>09:00PM</finish>
+    <date>24 September 2025</date>
+  </channel>
+  <channel>
+    <name>SKY Racing AU</name>
+    <id>SKYRacing.au</id>
+    <title>Take Two Encore</title>
+    <desc>Get the inside word as our form experts give you their horses to follow from NSW provincial and country tracks.</desc>
+    <image>https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/73/25/54/732554_p18069697_b_h9_aa_360.jpg</image>
+    <start>09:00PM</start>
+    <finish>09:30PM</finish>
+    <date>24 September 2025</date>
+  </channel>
+  <channel>
+    <name>SKY Racing AU</name>
+    <id>SKYRacing.au</id>
+    <title>Warwick Farm Showcase Replay</title>
+    <desc>Highlights of Thoroughbred racing from Warwick Farm.</desc>
+    <image>https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/73/26/78/732678_p18410379_b_h9_aa_360.jpg</image>
+    <start>09:30PM</start>
+    <finish>10:30PM</finish>
+    <date>24 September 2025</date>
+  </channel>
+  <channel>
+    <name>SKY Racing AU</name>
+    <id>SKYRacing.au</id>
+    <title>Racing Replay: Belmont Thoroughbreds</title>
+    <desc>Highlights of Thoroughbred racing from Belmont.</desc>
+    <image>https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/73/20/06/732006_p17165961_b_h9_aa_360.jpg</image>
+    <start>10:30PM</start>
+    <finish>11:00PM</finish>
+    <date>24 September 2025</date>
+  </channel>
+  <channel>
+    <name>SKY Racing AU</name>
+    <id>SKYRacing.au</id>
+    <title>The Morning Line</title>
+    <desc>The Morning Line brings you all the latest racing news and action across all three racing codes.</desc>
+    <image>https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/74/89/05/748905_p24160866_b_h9_aa_360.jpg</image>
+    <start>11:00PM</start>
+    <finish>12:00AM</finish>
+    <date>24 September 2025</date>
+  </channel>
+  <channel>
+    <name>SKY Racing AU</name>
+    <id>SKYRacing.au</id>
+    <title>Going Greyhounds/On The Pace</title>
+    <desc>Lewis Willoughby and Brandon Kreymborg preview feature harness racing for the weekend and Jason Adams will join Lewis to highlight all the upcoming greyhound action.</desc>
+    <image>https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/74/89/03/748903_p24160865_b_h9_aa_360.jpg</image>
+    <start>12:00AM</start>
+    <finish>01:45AM</finish>
+    <date>25 September 2025</date>
+  </channel>
+  <channel>
+    <name>SKY Racing AU</name>
+    <id>SKYRacing.au</id>
+    <title>The Morning Line</title>
+    <desc>Live racing continues.</desc>
+    <image>https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/74/89/05/748905_p24160866_b_h9_aa_360.jpg</image>
+    <start>01:45AM</start>
+    <finish>03:00AM</finish>
+    <date>25 September 2025</date>
+  </channel>
+  <channel>
+    <name>SKY Racing AU</name>
+    <id>SKYRacing.au</id>
+    <title>Sky Racing 1 Raceday</title>
+    <desc>Thoroughbreds from Hawkesbury, Goulburn, Geelong, Gatton, Horseshoe Indianapolis, Penn National; Greyhound Racing from Richmond Straight, Nowra, Shepparton, Shepparton Extra, Warragul, Warrnambool, Q Straight, Mount Gambier, Cambridge; Harness Racing from Penrith, Kilmore, Albion Park.</desc>
+    <image>https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/73/25/62/732562_p18088932_b_h9_aa_360.jpg</image>
+    <start>03:00AM</start>
+    <finish>09:00AM</finish>
+    <date>25 September 2025</date>
+  </channel>
+  <channel>
+    <name>SKY Racing AU</name>
+    <id>SKYRacing.au</id>
+    <title>Sky Racing 1 Racenight</title>
+    <desc>Thoroughbreds from Ankara, La Teste de Buch, Chantilly; Greyhound Racing from Casino, Nowra, Wentworth Park, Warragul, Sandown Park, Warrnambool, Q2 Parklands, Angle Park, Mandurah, Hobart, Warrnambool Extra, Angle Park - Match Race Series; Harness Racing from Penrith, Kilmore, Albion Park.</desc>
+    <image>https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/73/25/64/732564_p18088933_b_h9_aa_360.jpg</image>
+    <start>09:00AM</start>
+    <finish>01:00PM</finish>
+    <date>25 September 2025</date>
+  </channel>
+  <channel>
+    <name>SKY Racing AU</name>
+    <id>SKYRacing.au</id>
+    <title>Sky Racing 1 Latenight</title>
+    <desc>Thoroughbreds from Ankara, Newmarket, Perth, Pontefract, Listowel, La Teste de Buch, Chantilly; Greyhound Racing from Casino, Wentworth Park, Sandown Park, Q2 Parklands, Angle Park, Mandurah, Hobart, Central Park, Kinsley, Dunstall Park.</desc>
+    <image>https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/73/25/66/732566_p18088936_b_h9_ab_360.jpg</image>
+    <start>01:00PM</start>
+    <finish>03:00PM</finish>
+    <date>25 September 2025</date>
+  </channel>
+  <channel>
+    <name>SKY Racing AU</name>
+    <id>SKYRacing.au</id>
+    <title>Sky Racing 1 Latenight</title>
+    <desc>Thoroughbreds from Ankara, Izmir, Newmarket, Perth, Pontefract, Newcastle, Listowel, Chantilly; Greyhound Racing from Central Park, Kinsley, Hove, Monmore, Newcastle, Dunstall Park; Harness Racing from Laval.</desc>
+    <image>https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/73/25/66/732566_p18088936_b_h9_ab_360.jpg</image>
+    <start>03:00PM</start>
+    <finish>08:00PM</finish>
+    <date>25 September 2025</date>
+  </channel>
+  <channel>
+    <name>SKY Racing AU</name>
+    <id>SKYRacing.au</id>
+    <title>Racing Replay: Goulburn Thoroughbreds</title>
+    <desc>Highlights of Thoroughbred racing from Goulburn.</desc>
+    <image>https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/73/20/06/732006_p17165961_b_h9_aa_360.jpg</image>
+    <start>08:00PM</start>
+    <finish>08:30PM</finish>
+    <date>25 September 2025</date>
+  </channel>
+  <channel>
+    <name>SKY Racing AU</name>
+    <id>SKYRacing.au</id>
+    <title>Formline Extra Encore</title>
+    <desc>Know the contenders from the pretenders as our team of Sky Racing expert form analysts dissect tomorrow's meeting.</desc>
+    <image>https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/74/70/26/747026_p18103974_b_h9_aa_360.jpg</image>
+    <start>08:30PM</start>
+    <finish>09:00PM</finish>
+    <date>25 September 2025</date>
+  </channel>
+  <channel>
+    <name>SKY Racing AU</name>
+    <id>SKYRacing.au</id>
+    <title>Black Bookers Encore</title>
+    <desc>Ben Way &amp; Ally Mosley identify the horses to follow, betting strategies to play and highlight the star performers of the week.</desc>
+    <image>https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/74/70/04/747004_p18024629_b_h9_aa_360.jpg</image>
+    <start>09:00PM</start>
+    <finish>09:30PM</finish>
+    <date>25 September 2025</date>
+  </channel>
+  <channel>
+    <name>SKY Racing AU</name>
+    <id>SKYRacing.au</id>
+    <title>Form Line Encore</title>
+    <desc>Know the contenders from the pretenders as the experts dissect the upcoming weekend of racing, and deliver their pre-race analysis for the biggest races.</desc>
+    <image>https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/74/69/12/746912_p17161864_b_h9_aa_360.jpg</image>
+    <start>09:30PM</start>
+    <finish>10:30PM</finish>
+    <date>25 September 2025</date>
+  </channel>
+  <channel>
+    <name>SKY Racing AU</name>
+    <id>SKYRacing.au</id>
+    <title>Key Factors Encore</title>
+    <desc>Join The Race Guide boys as they take a close look at all the facts and figures of the runners in each of the four legs of Saturday's Sydney quaddie.</desc>
+    <image>https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/74/70/08/747008_p18035667_b_h9_aa_360.jpg</image>
+    <start>10:30PM</start>
+    <finish>11:00PM</finish>
+    <date>25 September 2025</date>
+  </channel>
+  <channel>
+    <name>SKY Racing AU</name>
+    <id>SKYRacing.au</id>
+    <title>The Morning Line</title>
+    <desc>The Morning Line brings you all the latest racing news and action across all three racing codes.</desc>
+    <image>https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/74/89/05/748905_p24160866_b_h9_aa_360.jpg</image>
+    <start>11:00PM</start>
+    <finish>12:00AM</finish>
+    <date>25 September 2025</date>
+  </channel>
+  <channel>
+    <name>SKY Racing AU</name>
+    <id>SKYRacing.au</id>
+    <title>Saturday Thoroughbred Previews</title>
+    <desc>Lewis Willoughby catches up with senior racing executives around the country for all the latest weekend racing updates.</desc>
+    <image>https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/74/89/17/748917_p24170497_b_h9_aa_360.jpg</image>
+    <start>12:00AM</start>
+    <finish>01:00AM</finish>
+    <date>26 September 2025</date>
+  </channel>
+  <channel>
+    <name>SKY Racing AU</name>
+    <id>SKYRacing.au</id>
+    <title>The Morning Line</title>
+    <desc>Live racing continues.</desc>
+    <image>https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/74/89/05/748905_p24160866_b_h9_aa_360.jpg</image>
+    <start>01:00AM</start>
+    <finish>03:00AM</finish>
+    <date>26 September 2025</date>
+  </channel>
+  <channel>
+    <name>SKY Racing AU</name>
+    <id>SKYRacing.au</id>
+    <title>Sky Racing 1 Raceday</title>
+    <desc>Thoroughbreds from Benalla, Lismore, Ewan, Coleraine, Scone, Otaki, Woodbine, Horseshoe Indianapolis, Penn National; Greyhound Racing from Addington, Healesville, Townsville, Goulburn, The Gardens, Q1 Lakeside, Bendigo; Harness Racing from Redcliffe, Wagga, Newcastle.</desc>
+    <image>https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/73/25/62/732562_p18088932_b_h9_aa_360.jpg</image>
+    <start>03:00AM</start>
+    <finish>09:00AM</finish>
+    <date>26 September 2025</date>
+  </channel>
+  <channel>
+    <name>SKY Racing AU</name>
+    <id>SKYRacing.au</id>
+    <title>Racenight Friday</title>
+    <desc>Thoroughbreds from Sunshine Coast, Moonee Valley, Saint Cloud, Bursa; Greyhound Racing from Warragul, The Gardens, Q1 Lakeside, Richmond, Geelong, Bendigo, Wagga, Mandurah; Harness Racing from Newcastle, Melton, Gloucester Park, Bunbury.</desc>
+    <image>https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/73/26/34/732634_p18225710_b_h9_aa_360.jpg</image>
+    <start>09:00AM</start>
+    <finish>01:00PM</finish>
+    <date>26 September 2025</date>
+  </channel>
+  <channel>
+    <name>SKY Racing AU</name>
+    <id>SKYRacing.au</id>
+    <title>Sky Racing 1 Latenight</title>
+    <desc>Thoroughbreds from Haydock Park, Newmarket, Worcester, Listowel, Taif, Saint Cloud, Bursa; Greyhound Racing from Warragul, Richmond, Geelong, Wagga, Mandurah, Swindon, Kinsley, Newcastle; Harness Racing from Melton, Gloucester Park, Toulouse, Bunbury.</desc>
+    <image>https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/73/25/66/732566_p18088936_b_h9_ab_360.jpg</image>
+    <start>01:00PM</start>
+    <finish>03:00PM</finish>
+    <date>26 September 2025</date>
+  </channel>
+  <channel>
+    <name>SKY Racing AU</name>
+    <id>SKYRacing.au</id>
+    <title>Sky Racing 1 Latenight</title>
+    <desc>Thoroughbreds from Haydock Park, Newmarket, Worcester, Newcastle, Dundalk, Listowel, Taif, Saint Cloud, Bursa, Istanbul; Greyhound Racing from Mandurah, Swindon, Kinsley, Newcastle, Sheffield, Romford, Dunstall Park; Harness Racing from Toulouse, Vincennes.</desc>
+    <image>https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/73/25/66/732566_p18088936_b_h9_ab_360.jpg</image>
+    <start>03:00PM</start>
+    <finish>08:00PM</finish>
+    <date>26 September 2025</date>
+  </channel>
+  <channel>
+    <name>SKY Racing AU</name>
+    <id>SKYRacing.au</id>
+    <title>Black Bookers Encore</title>
+    <desc>Ben Way &amp; Ally Mosley identify the horses to follow, betting strategies to play and highlight the star performers of the week.</desc>
+    <image>https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/74/70/04/747004_p18024629_b_h9_aa_360.jpg</image>
+    <start>08:00PM</start>
+    <finish>08:30PM</finish>
+    <date>26 September 2025</date>
+  </channel>
+  <channel>
+    <name>SKY Racing AU</name>
+    <id>SKYRacing.au</id>
+    <title>Form Line Encore</title>
+    <desc>Know the contenders from the pretenders as the experts dissect the upcoming weekend of racing, and deliver their pre-race analysis for the biggest races.</desc>
+    <image>https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/74/69/12/746912_p17161864_b_h9_aa_360.jpg</image>
+    <start>08:30PM</start>
+    <finish>09:30PM</finish>
+    <date>26 September 2025</date>
+  </channel>
+  <channel>
+    <name>SKY Racing AU</name>
+    <id>SKYRacing.au</id>
+    <title>Racing HQ</title>
+    <desc>Racing HQ will present the latest news for Sydney's major race day. Host Luke Marlow is joined by Ron Dufficy and Brad Gray. Also, crucial interviews with trainers and jockeys.</desc>
+    <image>https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/74/70/34/747034_p18222703_b_h9_aa_360.jpg</image>
+    <start>09:30PM</start>
+    <finish>11:00PM</finish>
+    <date>26 September 2025</date>
+  </channel>
+  <channel>
+    <name>SKY Racing AU</name>
+    <id>SKYRacing.au</id>
+    <title>Sky Racing 1 Racemorning</title>
+    <desc>Thoroughbreds from Rosehill, Riccarton, Te Rapa, Woodbine, Santa Anita, Lone Star Park, Meadowlands, Charles Town, Remington Park.</desc>
+    <image>https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/73/25/60/732560_p18088931_b_h9_aa_360.jpg</image>
+    <start>11:00PM</start>
+    <finish>03:00AM</finish>
+    <date>26 September 2025</date>
+  </channel>
+  <channel>
+    <name>SKY Racing AU</name>
+    <id>SKYRacing.au</id>
+    <title>Raceday Saturday</title>
+    <desc>Thoroughbreds from Rosehill, Kembla Grange, Sandown, Toowoomba, Gold Coast, Mackay, Morphettville, Belmont, Riccarton, Canberra, Te Rapa; Greyhound Racing from Gunnedah, Geelong; Harness Racing from Melton.</desc>
+    <image>https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/73/26/30/732630_p18225690_b_h9_aa_360.jpg</image>
+    <start>03:00AM</start>
+    <finish>09:00AM</finish>
+    <date>27 September 2025</date>
+  </channel>
+  <channel>
+    <name>SKY Racing AU</name>
+    <id>SKYRacing.au</id>
+    <title>Sky Racing 1 Racenight</title>
+    <desc>Thoroughbreds from Toowoomba, Belmont, Ankara; Greyhound Racing from Gunnedah, The Gardens, Wentworth Park, The Meadows, Cannington, Geelong; Harness Racing from Menangle, Melton, Albion Park, Port Pirie.</desc>
+    <image>https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/73/25/64/732564_p18088933_b_h9_aa_360.jpg</image>
+    <start>09:00AM</start>
+    <finish>01:00PM</finish>
+    <date>27 September 2025</date>
+  </channel>
+  <channel>
+    <name>SKY Racing AU</name>
+    <id>SKYRacing.au</id>
+    <title>Sky Racing 1 Latenight</title>
+    <desc>Thoroughbreds from Haydock Park, Market Rasen, Newmarket, Ripon, Curragh, Listowel, Taif, Ankara, Izmir; Greyhound Racing from The Gardens, Wentworth Park, The Meadows, Cannington, Newcastle, Swindon; Harness Racing from Melton, Albion Park, Port Pirie.</desc>
+    <image>https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/73/25/66/732566_p18088936_b_h9_ab_360.jpg</image>
+    <start>01:00PM</start>
+    <finish>03:00PM</finish>
+    <date>27 September 2025</date>
+  </channel>
+  <channel>
+    <name>SKY Racing AU</name>
+    <id>SKYRacing.au</id>
+    <title>Sky Racing 1 Latenight</title>
+    <desc>Thoroughbreds from Haydock Park, Market Rasen, Newmarket, Ripon, Southwell, Curragh, Listowel, Taif, Ankara, Izmir; Greyhound Racing from Cannington, Newcastle, Swindon, Central Park, Hove, Nottingham; Harness Racing from Enghien.</desc>
+    <image>https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/73/25/66/732566_p18088936_b_h9_ab_360.jpg</image>
+    <start>03:00PM</start>
+    <finish>08:00PM</finish>
+    <date>27 September 2025</date>
+  </channel>
+  <channel>
+    <name>SKY Racing AU</name>
+    <id>SKYRacing.au</id>
+    <title>Racing Replay: Gold Coast Thoroughbreds</title>
+    <desc>Highlights of Thoroughbred racing from Gold Coast.</desc>
+    <image>https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/73/20/06/732006_p17165961_b_h9_aa_360.jpg</image>
+    <start>08:00PM</start>
+    <finish>08:30PM</finish>
+    <date>27 September 2025</date>
+  </channel>
+  <channel>
+    <name>SKY Racing AU</name>
+    <id>SKYRacing.au</id>
+    <title>Formline Extra Encore</title>
+    <desc>Know the contenders from the pretenders as our team of Sky Racing expert form analysts dissect tomorrow's meeting.</desc>
+    <image>https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/74/70/26/747026_p18103974_b_h9_aa_360.jpg</image>
+    <start>08:30PM</start>
+    <finish>09:00PM</finish>
+    <date>27 September 2025</date>
+  </channel>
+  <channel>
+    <name>SKY Racing AU</name>
+    <id>SKYRacing.au</id>
+    <title>Racing Replay: Kembla Grange</title>
+    <desc>Highlights of Thoroughbred racing from Kembla Grange.</desc>
+    <image>https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/73/20/06/732006_p17165961_b_h9_aa_360.jpg</image>
+    <start>09:00PM</start>
+    <finish>09:30PM</finish>
+    <date>27 September 2025</date>
+  </channel>
+  <channel>
+    <name>SKY Racing AU</name>
+    <id>SKYRacing.au</id>
+    <title>Rosehill Showcase Replay</title>
+    <desc>Highlights of Thoroughbred racing from Rosehill.</desc>
+    <image>https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/73/26/78/732678_p18410379_b_h9_aa_360.jpg</image>
+    <start>09:30PM</start>
+    <finish>10:30PM</finish>
+    <date>27 September 2025</date>
+  </channel>
+  <channel>
+    <name>SKY Racing AU</name>
+    <id>SKYRacing.au</id>
+    <title>The Road To Del Mar</title>
+    <desc>Join Matt Chapman and Britney Eurton as they bring you all the Breeders' Cup #WinAndYoureIn action - The road to the Breeders' Cup World Championships at Del Mar is heating up - and it all starts here!</desc>
+    <image>https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/66/11/59/661159_p727544_b_h3_bf.jpg</image>
+    <start>10:30PM</start>
+    <finish>11:00PM</finish>
+    <date>27 September 2025</date>
+  </channel>
+  <channel>
+    <name>SKY Racing AU</name>
+    <id>SKYRacing.au</id>
+    <title>Sky Racing 1 Racemorning</title>
+    <desc>Thoroughbreds from Waverley, Nakayama, Hastings Canada, Santa Anita, Lone Star Park, Meadowlands, Charles Town, Remington Park, Seoul; Greyhound Racing from Healesville, Manukau; Harness Racing from Phar Lap, Gore.</desc>
+    <image>https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/73/25/60/732560_p18088931_b_h9_aa_360.jpg</image>
+    <start>11:00PM</start>
+    <finish>03:00AM</finish>
+    <date>27 September 2025</date>
+  </channel>
+  <channel>
+    <name>SKY Racing AU</name>
+    <id>SKYRacing.au</id>
+    <title>Raceday Sunday</title>
+    <desc>Thoroughbreds from Dubbo, Port Macquarie, Mornington, Swan Hill, Sunshine Coast, Strathalbyn, Toodyay, Devonport, Waverley, Sha Tin, Nakayama, Seoul; Greyhound Racing from Broken Hill, Healesville, Sale, Capalaba, Rockhampton, Mount Gambier, Manukau, Q Straight; Harness Racing from Cranbourne, Phar Lap, Gore.</desc>
+    <image>https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/73/26/32/732632_p18225697_b_h9_aa_360.jpg</image>
+    <start>03:00AM</start>
+    <finish>09:00AM</finish>
+    <date>28 September 2025</date>
+  </channel>
+  <channel>
+    <name>SKY Racing AU</name>
+    <id>SKYRacing.au</id>
+    <title>Sky Racing 1 Racenight</title>
+    <desc>Thoroughbreds from Toodyay, Sha Tin, Istanbul, Craon, Seoul; Greyhound Racing from Grafton, Richmond, Broken Hill, Sale, Rockhampton, Darwin, Q Straight, Yarmouth, Sunderland; Harness Racing from Cranbourne, Launceston.</desc>
+    <image>https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/73/25/64/732564_p18088933_b_h9_aa_360.jpg</image>
+    <start>09:00AM</start>
+    <finish>01:00PM</finish>
+    <date>28 September 2025</date>
+  </channel>
+  <channel>
+    <name>SKY Racing AU</name>
+    <id>SKYRacing.au</id>
+    <title>Sky Racing 1 Latenight</title>
+    <desc>Thoroughbreds from Istanbul, Epsom, Ffos Las, Newcastle, Curragh, Craon; Greyhound Racing from Yarmouth, Sunderland, Hove, Sheffield; Harness Racing from Launceston.</desc>
+    <image>https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/73/25/66/732566_p18088936_b_h9_ab_360.jpg</image>
+    <start>01:00PM</start>
+    <finish>03:00PM</finish>
+    <date>28 September 2025</date>
+  </channel>
+  <channel>
+    <name>SKY Racing AU</name>
+    <id>SKYRacing.au</id>
+    <title>Sky Racing 1 Latenight</title>
+    <desc>Thoroughbreds from Istanbul, Adana, Epsom, Ffos Las, Newcastle, Curragh, Amiens; Greyhound Racing from Hove, Sheffield, Kinsley.</desc>
+    <image>https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/73/25/66/732566_p18088936_b_h9_ab_360.jpg</image>
+    <start>03:00PM</start>
+    <finish>08:00PM</finish>
+    <date>28 September 2025</date>
+  </channel>
+  <channel>
+    <name>SKY Racing AU</name>
+    <id>SKYRacing.au</id>
+    <title>Racing Replay: Port Macquarie T'breds</title>
+    <desc>Highlights of Thoroughbred racing from Port Macquarie.</desc>
+    <image>https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/73/20/06/732006_p17165961_b_h9_aa_360.jpg</image>
+    <start>08:00PM</start>
+    <finish>08:30PM</finish>
+    <date>28 September 2025</date>
+  </channel>
+  <channel>
+    <name>SKY Racing AU</name>
+    <id>SKYRacing.au</id>
+    <title>Formline Extra Encore</title>
+    <desc>Know the contenders from the pretenders as our team of Sky Racing expert form analysts dissect tomorrow's meeting.</desc>
+    <image>https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/74/70/26/747026_p18103974_b_h9_aa_360.jpg</image>
+    <start>08:30PM</start>
+    <finish>09:00PM</finish>
+    <date>28 September 2025</date>
+  </channel>
+  <channel>
+    <name>SKY Racing AU</name>
+    <id>SKYRacing.au</id>
+    <title>Bred To Win Encore</title>
+    <desc>Caroline Searcy reviews the breeding back stories to the weekend's big Spring winners. Tattersalls UK and its influence on Australian racing. Plus Cambridge Stud's \.</desc>
+    <image>https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/73/51/58/735158_p17238136_b_h9_aa_360.jpg</image>
+    <start>09:00PM</start>
+    <finish>09:30PM</finish>
+    <date>28 September 2025</date>
+  </channel>
+  <channel>
+    <name>SKY Racing AU</name>
+    <id>SKYRacing.au</id>
+    <title>Rosehill Showcase Replay</title>
+    <desc>Highlights of Thoroughbred racing from Rosehill.</desc>
+    <image>https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/73/26/78/732678_p18410379_b_h9_aa_360.jpg</image>
+    <start>09:30PM</start>
+    <finish>10:30PM</finish>
+    <date>28 September 2025</date>
+  </channel>
+  <channel>
+    <name>SKY Racing AU</name>
+    <id>SKYRacing.au</id>
+    <title>Racing Replay: Sunshine Coast T/breds</title>
+    <desc>Highlights of Thoroughbred racing from Sunshine Coast.</desc>
+    <image>https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/73/20/06/732006_p17165961_b_h9_aa_360.jpg</image>
+    <start>10:30PM</start>
+    <finish>11:00PM</finish>
+    <date>28 September 2025</date>
+  </channel>
+  <channel>
+    <name>SKY Racing AU</name>
+    <id>SKYRacing.au</id>
+    <title>The Morning Line</title>
+    <desc>The Morning Line brings you all the latest racing news and action across all three racing codes.</desc>
+    <image>https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/74/89/05/748905_p24160866_b_h9_aa_360.jpg</image>
+    <start>11:00PM</start>
+    <finish>12:00AM</finish>
+    <date>28 September 2025</date>
+  </channel>
+</tv>
