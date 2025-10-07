@@ -1,36 +1,6 @@
 <?xml version="1.0" ?>
 <tv>
   <channel>
-    <name>Afro Music Channel PT</name>
-    <id>AfroMusicChannel.pt</id>
-    <title>Fresh Music</title>
-    <desc>As m?sicas mais frescas do momento est?o no ?Fresh Music?.</desc>
-    <image>https://mage.stream.nos.pt/v1/nostv_mage/Images?sourceUri=http%3A%2F%2Fvip.pam.local.internal%2FPAM.Images%2FStore%2F995f98d90237478c8404a9498dbf4f92</image>
-    <start>10:10PM</start>
-    <finish>10:50PM</finish>
-    <date>07 October 2025</date>
-  </channel>
-  <channel>
-    <name>Afro Music Channel PT</name>
-    <id>AfroMusicChannel.pt</id>
-    <title>Around The World</title>
-    <desc>As melhores m?sicas dos ?ltimos anos\u00A0e uma programa??o ?mpar, tudo isso em um s? bloco.</desc>
-    <image>https://mage.stream.nos.pt/v1/nostv_mage/Images?sourceUri=http%3A%2F%2Fvip.pam.local.internal%2FPAM.Images%2FStore%2F8852485786a342c59039b645cd5772e2</image>
-    <start>10:50PM</start>
-    <finish>11:00PM</finish>
-    <date>07 October 2025</date>
-  </channel>
-  <channel>
-    <name>Al Jazeera English UK</name>
-    <id>AlJazeeraEnglish.uk</id>
-    <title>Newshour</title>
-    <desc>Up-to-date news and analysis from around the world.</desc>
-    <image>https://staticqbr-prod-ch.gnp.cloud.sunrisetv.ch/image-service/ImagesEPG/EventImages/p28985214_i_h8_aa.jpg</image>
-    <start>10:00PM</start>
-    <finish>11:00PM</finish>
-    <date>07 October 2025</date>
-  </channel>
-  <channel>
     <name>Al Jazeera English UK</name>
     <id>AlJazeeraEnglish.uk</id>
     <title>News</title>
@@ -61,16 +31,6 @@
     <date>08 October 2025</date>
   </channel>
   <channel>
-    <name>Arise News UK</name>
-    <id>AriseNews.uk</id>
-    <title>Newsnight Nigeria</title>
-    <desc>Nightly Current Affairs, Analysis and Cross Examination of Key News Events.</desc>
-    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
-    <start>09:00PM</start>
-    <finish>11:00PM</finish>
-    <date>07 October 2025</date>
-  </channel>
-  <channel>
     <name>BBC4 UK</name>
     <id>BBC4.uk</id>
     <title>The Librarians - Storyville</title>
@@ -78,16 +38,6 @@
     <image>https://images.metadata.sky.com/pd-image/8565f0ba-f6a8-4fb8-9409-7c932f8737a5/16-9</image>
     <start>10:00PM</start>
     <finish>11:30PM</finish>
-    <date>07 October 2025</date>
-  </channel>
-  <channel>
-    <name>BBC News UK</name>
-    <id>BBCNews.uk</id>
-    <title>Newsnight</title>
-    <desc>Insights and global interviews on the crucial news stories of the day.</desc>
-    <image>https://images.metadata.sky.com/pd-image/4a2795ab-3d5f-4350-a525-1d94900289e4/16-9</image>
-    <start>10:30PM</start>
-    <finish>11:00PM</finish>
     <date>07 October 2025</date>
   </channel>
   <channel>
@@ -463,43 +413,12 @@
   <channel>
     <name>BBC Parliament UK</name>
     <id>BBCParliament.uk</id>
-    <title>Welsh First Minister's Questions</title>
-    <desc>Questions to Eluned Morgan, the first minister, on Tuesday 7 October.
- (R).</desc>
-    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
-    <start>10:30PM</start>
-    <finish>11:20PM</finish>
-    <date>07 October 2025</date>
-  </channel>
-  <channel>
-    <name>BBC Parliament UK</name>
-    <id>BBCParliament.uk</id>
     <title>Northern Ireland Assembly</title>
     <desc>Coverage of the proceedings in the Northern Ireland Assembly on Tuesday 7 October.
  (R).</desc>
     <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
     <start>11:20PM</start>
     <finish>01:50AM</finish>
-    <date>07 October 2025</date>
-  </channel>
-  <channel>
-    <name>BBC Two NL</name>
-    <id>BBCTwo.nl</id>
-    <title>Newsnight</title>
-    <desc>Featuring extensive coverage of the day's top national and international news stories, along with explanations about the context and potential aftereffects.</desc>
-    <image>https://staticqbr-nl-prod.prod.cdn.dmdsdp.com/image-service/ImagesEPG/EventImages/p269693_bd_h8_ab.jpg</image>
-    <start>10:30PM</start>
-    <finish>10:58PM</finish>
-    <date>07 October 2025</date>
-  </channel>
-  <channel>
-    <name>BBC Two NL</name>
-    <id>BBCTwo.nl</id>
-    <title>BBC Weather</title>
-    <desc>The latest weather forecast.</desc>
-    <image>https://staticqbr-nl-prod.prod.cdn.dmdsdp.com/image-service/ImagesEPG/EventImages/p8195754_bd_h8_aa.jpg</image>
-    <start>10:58PM</start>
-    <finish>11:00PM</finish>
     <date>07 October 2025</date>
   </channel>
   <channel>
@@ -833,46 +752,6 @@
     <date>07 October 2025</date>
   </channel>
   <channel>
-    <name>Classica IT</name>
-    <id>Classica.it</id>
-    <title>Prokof'ev - L'angelo di fuoco</title>
-    <desc>Opera in cinque atti (1926) tratta da un romanzo di V.Brjusov - con A.Stundyte, B.Skovhus, N.Petrinsky, E.Zaremba, N.Schukoff, A.Tikhomirov - ORF Radio-Symphonieorchester - C.Trinks, dir. - A.Breth, reg. (Vienna, 2024).</desc>
-    <image>https://guidatv.sky.it/uuid/Intrattenimento_Scene_7GZn0K86e.png</image>
-    <start>08:15PM</start>
-    <finish>11:10PM</finish>
-    <date>07 October 2025</date>
-  </channel>
-  <channel>
-    <name>EWTN UK</name>
-    <id>EWTN.uk</id>
-    <title>Our Lady Of The Rosary At Pompeii</title>
-    <desc>The story behind the triumphant naval battle of Lepanto in 1571, where Italians used the rosary as a weapon, praying for victory against overwhelming odds.</desc>
-    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
-    <start>10:00PM</start>
-    <finish>11:00PM</finish>
-    <date>07 October 2025</date>
-  </channel>
-  <channel>
-    <name>EuroNews UK</name>
-    <id>EuroNews.uk</id>
-    <title>The European Debrief</title>
-    <desc>Live headlines, breaking news, analysis and interviews from Europe's News Centre.</desc>
-    <image>https://images.metadata.sky.com/pd-image/b0eadb27-1487-48e9-ac9b-d41a230e03e5/16-9</image>
-    <start>10:30PM</start>
-    <finish>11:00PM</finish>
-    <date>07 October 2025</date>
-  </channel>
-  <channel>
-    <name>EuroNews UK</name>
-    <id>EuroNews.uk</id>
-    <title>The European Debrief</title>
-    <desc>Live headlines, breaking news, analysis and interviews from Europe's News Centre.</desc>
-    <image>https://images.metadata.sky.com/pd-image/0c784f3c-a005-4d7b-af02-91d9938b5ce0/16-9</image>
-    <start>11:00PM</start>
-    <finish>11:15PM</finish>
-    <date>07 October 2025</date>
-  </channel>
-  <channel>
     <name>EuroNews UK</name>
     <id>EuroNews.uk</id>
     <title>The European Debrief</title>
@@ -890,16 +769,6 @@
     <image>https://images.metadata.sky.com/pd-image/b157e5e5-b714-4ecf-89a1-dc9a9eba732a/16-9</image>
     <start>11:30PM</start>
     <finish>11:46PM</finish>
-    <date>07 October 2025</date>
-  </channel>
-  <channel>
-    <name>Kuriakos Tv PT</name>
-    <id>KuriakosTv.pt</id>
-    <title>Man? World - Temp.2</title>
-    <desc>Man? World ? um programa que pretende dar a conhecer quem ? a Igreja Man?, quem somos, o que fazemos e onde estamos, apresenta a biografia do Ap?stolo Jorge Tadeu, mostrando v?rios departamentos do Minist?rio Man?.</desc>
-    <image>https://mage.stream.nos.pt/v1/nostv_mage/Images?sourceUri=http%3A%2F%2Fvip.pam.local.internal%2FPAM.Images%2FStore%2F8def4ffe8b2f4bf28b4b87a25857a784</image>
-    <start>10:00PM</start>
-    <finish>11:00PM</finish>
     <date>07 October 2025</date>
   </channel>
   <channel>
@@ -923,26 +792,6 @@
     <date>08 October 2025</date>
   </channel>
   <channel>
-    <name>La Otra ES</name>
-    <id>LaOtra.es</id>
-    <title>Meg?polis</title>
-    <desc>Atenas, Alejandr?a, Tikal y Roma: estas ciudades legendarias son algunos de los sitios arqueol?gicos m?s famosos del mundo, y, sin embargo, a?n no se han revelado todos sus secretos.</desc>
-    <image>https://www.movistarplus.es/recorte/n/caratulaH/MOTRAP1808805</image>
-    <start>10:04PM</start>
-    <finish>11:02PM</finish>
-    <date>07 October 2025</date>
-  </channel>
-  <channel>
-    <name>MTV UK</name>
-    <id>MTV.uk</id>
-    <title>Queerpiphany</title>
-    <desc>Trailblazer, singer, author and viral sensation Dylan Mulvaney reveals how Kristin Chenoweth's role as Glinda in Wicked changed her life forever.</desc>
-    <image>https://images.metadata.sky.com/pd-image/a9352379-0973-41b3-8ab3-3bac401e95e6/16-9</image>
-    <start>10:30PM</start>
-    <finish>11:00PM</finish>
-    <date>07 October 2025</date>
-  </channel>
-  <channel>
     <name>MTV UK</name>
     <id>MTV.uk</id>
     <title>Ink Master Redemption</title>
@@ -950,78 +799,6 @@
     <image>https://images.metadata.sky.com/pd-image/cd5ec9de-cee5-4518-84d2-b1723ee3500d/16-9</image>
     <start>11:00PM</start>
     <finish>11:30PM</finish>
-    <date>07 October 2025</date>
-  </channel>
-  <channel>
-    <name>Mama RU</name>
-    <id>Mama.ru</id>
-    <title>????? ???????</title>
-    <desc>?????????? ??? ????? ????????? ???????????? ????????? ?????????? ???? ????????????? ????????, ?????? ???????????????? ?????????????? ?????? ????????.
-?????? ???? ????????? ?????? ???????? ??????? ????? ???????? ?????? ?????????? ????? ????????? ??? ???? ???. ????? ?????? ?????????????? ??????? ??? ???????????????? ???????????? ??? ???????? ?????????? ????????????? ??????? ????? ??????????????? ??????? ??????????????? ??????? ????? ??????. ???????? ?????????? ?????? ???????? ?????????, ?????? ??? ????? ????????? ??????? ????????? ??????????. ??????????? ????????? ????????? ???? ??? ?????????? ??? ?????????. ????? ????????? ????? ??????? ????? ???????? ????? ?????, ?????, ?????, ?????, ?????, ???? ??????? ????????????! 
-??? ????????? ????????????? ????? ?????? ???????? ?????????? ??????????? ?????????????? ??? ????? ???3-? ???, ????????? ??????? ?????????? ??????????? ????.</desc>
-    <image>https://tlum.ru/uploads/1f51770a50b82d2d75e31ed2be2fdd6484c92c230403fff9da8065802a211687.jpeg</image>
-    <start>09:00PM</start>
-    <finish>11:00PM</finish>
-    <date>07 October 2025</date>
-  </channel>
-  <channel>
-    <name>Movies 24 UK</name>
-    <id>Movies24.uk</id>
-    <title>Christmas On Cherry Lane</title>
-    <desc>Over the Christmas holidays, three couples at different stages in their lives navigate massive turning points.</desc>
-    <image>https://images.metadata.sky.com/pd-image/e71c2dd0-7c7a-362e-a29f-86c52241dc81/16-9</image>
-    <start>09:00PM</start>
-    <finish>11:00PM</finish>
-    <date>07 October 2025</date>
-  </channel>
-  <channel>
-    <name>Nick Jr UK</name>
-    <id>NickJunior.uk</id>
-    <title>Peppa Pig</title>
-    <desc>It's school project time for Peppa and her friends which means they have to build castles and bring them into playgroup.</desc>
-    <image>https://images.metadata.sky.com/pd-image/b61e9da4-ca29-4edf-99d3-f9f4e0524b24/16-9</image>
-    <start>10:45PM</start>
-    <finish>10:50PM</finish>
-    <date>07 October 2025</date>
-  </channel>
-  <channel>
-    <name>Nick Jr UK</name>
-    <id>NickJunior.uk</id>
-    <title>Peppa Pig</title>
-    <desc>Police Officer Panda and Police Officer Squirrel have come to teach Peppa and her friends all about bicycle safety.</desc>
-    <image>https://images.metadata.sky.com/pd-image/24aae507-296e-4bce-85b4-82d8b06140d7/16-9</image>
-    <start>10:50PM</start>
-    <finish>11:00PM</finish>
-    <date>07 October 2025</date>
-  </channel>
-  <channel>
-    <name>Nick Jr UK</name>
-    <id>NickJunior.uk</id>
-    <title>Peppa Pig</title>
-    <desc>Madame Gazelle takes the children on a trip to the Zoo where they get a tour from the zookeepers; Mr Lion, Mrs Crocodile and Mr Giraffe.</desc>
-    <image>https://images.metadata.sky.com/pd-image/1f1f7a43-74f6-4e48-b9e9-7e36bf9071ed/16-9</image>
-    <start>11:00PM</start>
-    <finish>11:05PM</finish>
-    <date>07 October 2025</date>
-  </channel>
-  <channel>
-    <name>Nick Jr UK</name>
-    <id>NickJunior.uk</id>
-    <title>Peppa Pig</title>
-    <desc>Mummy Pig takes Peppa to the doctors for her yearly health check up with Dr Polar Bear, who checks her height, weight, ears, mouth and heartbeat and more.</desc>
-    <image>https://images.metadata.sky.com/pd-image/cb3c0bb6-e082-4b11-bc38-2f1aab6b8685/16-9</image>
-    <start>11:05PM</start>
-    <finish>11:15PM</finish>
-    <date>07 October 2025</date>
-  </channel>
-  <channel>
-    <name>Nick Jr UK</name>
-    <id>NickJunior.uk</id>
-    <title>Peppa Pig</title>
-    <desc>Grandpa Pig is taking Peppa and George sailing, but they keep getting stuck in the mud.</desc>
-    <image>https://images.metadata.sky.com/pd-image/d289f3ac-4cf1-4b68-96ca-5b046a891d7e/16-9</image>
-    <start>11:15PM</start>
-    <finish>11:20PM</finish>
     <date>07 October 2025</date>
   </channel>
   <channel>
@@ -1042,26 +819,6 @@
     <image>https://images.metadata.sky.com/pd-image/673e80b9-2094-4934-b984-1e62c2bd2df0/16-9</image>
     <start>11:30PM</start>
     <finish>11:45PM</finish>
-    <date>07 October 2025</date>
-  </channel>
-  <channel>
-    <name>Nickelodeon RO</name>
-    <id>Nickelodeon.ro</id>
-    <title>Casa Loud</title>
-    <desc>Lincoln Loud este un b?ie?el de 11 ani care tr?ie?te ?mpreun? cu cele 10 surori ale lui. Cu ajutorul m?inii lui drepte, Clyde, Lincoln g?se?te de fiecare dat? noi metode de a rezista ?n fiecare zi ?ntr-o familie at?t de numeroas?.</desc>
-    <image>https://static.cinemagia.ro/img/db/movie/96/66/29/the-loud-house-452115l.jpg</image>
-    <start>10:20PM</start>
-    <finish>10:50PM</finish>
-    <date>07 October 2025</date>
-  </channel>
-  <channel>
-    <name>Nickelodeon RO</name>
-    <id>Nickelodeon.ro</id>
-    <title>Casa Loud</title>
-    <desc>Lincoln Loud este un b?ie?el de 11 ani care tr?ie?te ?mpreun? cu cele 10 surori ale lui. Cu ajutorul m?inii lui drepte, Clyde, Lincoln g?se?te de fiecare dat? noi metode de a rezista ?n fiecare zi ?ntr-o familie at?t de numeroas?.</desc>
-    <image>https://static.cinemagia.ro/img/db/movie/96/66/29/the-loud-house-452115l.jpg</image>
-    <start>10:50PM</start>
-    <finish>11:15PM</finish>
     <date>07 October 2025</date>
   </channel>
   <channel>
@@ -1097,16 +854,6 @@
   <channel>
     <name>PTC Punjabi UK</name>
     <id>PTCPunjabi.uk</id>
-    <title>Flames</title>
-    <desc>A game show where celebrities can be kids again. Fun games, secret spilling quirky questions and a chance to let go completely.</desc>
-    <image>https://images.metadata.sky.com/pd-image/0cc4f168-86bd-33c8-8718-05a3b212827b/16-9</image>
-    <start>10:00PM</start>
-    <finish>11:00PM</finish>
-    <date>07 October 2025</date>
-  </channel>
-  <channel>
-    <name>PTC Punjabi UK</name>
-    <id>PTCPunjabi.uk</id>
     <title>Wangaan</title>
     <desc>Wangaan.</desc>
     <image>https://images.metadata.sky.com/pd-image/d84de50d-035a-4516-85b5-d37101de49f7/16-9</image>
@@ -1122,46 +869,6 @@
     <image>https://mage.stream.nos.pt/v1/nostv_mage/Images?sourceUri=http%3A%2F%2Fvip.pam.local.internal%2FPAM.Images%2FStore%2Ff8543781d3ba4a5d81701c6eb65a477e</image>
     <start>05:30PM</start>
     <finish>11:30PM</finish>
-    <date>07 October 2025</date>
-  </channel>
-  <channel>
-    <name>QVC UK</name>
-    <id>QVC.uk</id>
-    <title>Elemis Skin Therapies</title>
-    <desc>Care for your mind and body holistically and sensuously with therapeutic aromatherapy. Elemis are famed for their premier spa and salon treatments, and for the absolute purity of their plant oils.</desc>
-    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
-    <start>10:00PM</start>
-    <finish>11:00PM</finish>
-    <date>07 October 2025</date>
-  </channel>
-  <channel>
-    <name>QVC Beauty UK</name>
-    <id>QVCBeauty.uk</id>
-    <title>Best Of QVC Beauty</title>
-    <desc>All the highlights and star products.</desc>
-    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
-    <start>10:00PM</start>
-    <finish>11:00PM</finish>
-    <date>07 October 2025</date>
-  </channel>
-  <channel>
-    <name>QVC Style UK</name>
-    <id>QVCStyle.uk</id>
-    <title>Best of QVC Style</title>
-    <desc>Catch all the recent highlights from our sister channel with the Best of QVC Style.</desc>
-    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
-    <start>10:00PM</start>
-    <finish>11:00PM</finish>
-    <date>07 October 2025</date>
-  </channel>
-  <channel>
-    <name>RTE News Now IE</name>
-    <id>RTENewsNow.ie</id>
-    <title>Seacht L?</title>
-    <desc>Seacht L?.</desc>
-    <image>https://images.metadata.sky.com/pd-image/c42191c2-1a87-35bd-8792-cf311dea3f4d/16-9</image>
-    <start>10:40PM</start>
-    <finish>11:05PM</finish>
     <date>07 October 2025</date>
   </channel>
   <channel>
@@ -1195,16 +902,6 @@
     <date>07 October 2025</date>
   </channel>
   <channel>
-    <name>Real Madrid TV ES</name>
-    <id>RealMadridTV.es</id>
-    <title>Real Madrid TV</title>
-    <desc>No hay descripci?n disponible.</desc>
-    <image>https://www.movistarplus.es/recorte/n/caratulaH/MREALMP1635667</image>
-    <start>07:00PM</start>
-    <finish>11:00PM</finish>
-    <date>07 October 2025</date>
-  </channel>
-  <channel>
     <name>Rtp 1 PT</name>
     <id>Rtp1.pt</id>
     <title>Programa Cautelar</title>
@@ -1217,31 +914,11 @@
   <channel>
     <name>Rtp África PT</name>
     <id>RtpAfrica.pt</id>
-    <title>Nha Terra Nha Cretcheu</title>
-    <desc>A atualidade social e econ?mica de Cabo Verde como temas de destaque num programa que mostra a realidade de como vivem e trabalham os cabo-verdianos, atrav?s de percurso pela cultura e tradi??es.</desc>
-    <image>https://mage.stream.nos.pt/v1/nostv_mage/Images?sourceUri=http%3A%2F%2Fvip.pam.local.internal%2FPAM.Images%2FStore%2Fe2aeaad795e54f5bb11671a411877fdf</image>
-    <start>10:00PM</start>
-    <finish>11:00PM</finish>
-    <date>07 October 2025</date>
-  </channel>
-  <channel>
-    <name>Rtp África PT</name>
-    <id>RtpAfrica.pt</id>
     <title>Janela Indiscreta</title>
     <desc>O Janela Indiscreta ? o seu programa de cinema! Apresenta, em primeira m?o, estreias cinematogr?ficas e entrevistas exclusivas aos protagonistas das produ??es nacionais e internacionais, dando a conhecer curiosidades e hist?rias de bastidores.</desc>
     <image>https://mage.stream.nos.pt/v1/nostv_mage/Images?sourceUri=http%3A%2F%2Fvip.pam.local.internal%2FPAM.Images%2FStore%2F49b7462d652c443eb7d8a0135d447f67</image>
     <start>11:00PM</start>
     <finish>12:00AM</finish>
-    <date>07 October 2025</date>
-  </channel>
-  <channel>
-    <name>Rtp Madeira PT</name>
-    <id>RtpMadeira.pt</id>
-    <title>Conversas Saud?veis</title>
-    <desc>Um m?dico, um chef e uma figura p?blica juntam-se para conversas sobre gastronomia e promo??o da sa?de.</desc>
-    <image>https://mage.stream.nos.pt/v1/nostv_mage/Images?sourceUri=http%3A%2F%2Fvip.pam.local.internal%2FPAM.Images%2FStore%2F0507824f8af24bfc8ae5130d57a8852f</image>
-    <start>10:20PM</start>
-    <finish>11:15PM</finish>
     <date>07 October 2025</date>
   </channel>
   <channel>
@@ -1262,16 +939,6 @@
     <image>https://images.metadata.sky.com/pd-image/31667cb5-8a20-3ab5-a58b-40cc058494f3/16-9</image>
     <start>10:30PM</start>
     <finish>11:35PM</finish>
-    <date>07 October 2025</date>
-  </channel>
-  <channel>
-    <name>Sky News UK</name>
-    <id>SkyNews.uk</id>
-    <title>Press Preview</title>
-    <desc>Lively debate and discussion with our panel of paper reviewers about the stories making tomorrow morning's newspapers.</desc>
-    <image>https://images.metadata.sky.com/pd-image/669f70e9-ac81-44d1-bab9-fc3b81eb2a46/16-9</image>
-    <start>10:30PM</start>
-    <finish>11:00PM</finish>
     <date>07 October 2025</date>
   </channel>
   <channel>
