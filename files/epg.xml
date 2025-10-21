@@ -1,36 +1,6 @@
 <?xml version="1.0" ?>
 <tv>
   <channel>
-    <name>Afro Music Channel PT</name>
-    <id>AfroMusicChannel.pt</id>
-    <title>Fresh Music</title>
-    <desc>As m?sicas mais frescas do momento est?o no ?Fresh Music?.</desc>
-    <image>https://mage.stream.nos.pt/v1/nostv_mage/Images?sourceUri=http%3A%2F%2Fvip.pam.local.internal%2FPAM.Images%2FStore%2F995f98d90237478c8404a9498dbf4f92</image>
-    <start>10:10PM</start>
-    <finish>10:50PM</finish>
-    <date>21 October 2025</date>
-  </channel>
-  <channel>
-    <name>Afro Music Channel PT</name>
-    <id>AfroMusicChannel.pt</id>
-    <title>Around The World</title>
-    <desc>As melhores m?sicas dos ?ltimos anos\u00A0e uma programa??o ?mpar, tudo isso em um s? bloco.</desc>
-    <image>https://mage.stream.nos.pt/v1/nostv_mage/Images?sourceUri=http%3A%2F%2Fvip.pam.local.internal%2FPAM.Images%2FStore%2F8852485786a342c59039b645cd5772e2</image>
-    <start>10:50PM</start>
-    <finish>11:00PM</finish>
-    <date>21 October 2025</date>
-  </channel>
-  <channel>
-    <name>Al Jazeera English UK</name>
-    <id>AlJazeeraEnglish.uk</id>
-    <title>Newshour</title>
-    <desc>A closer look at international news, events, current affairs, and exclusive stories from around the world.</desc>
-    <image>https://staticqbr-prod-ch.gnp.cloud.sunrisetv.ch/image-service/ImagesEPG/EventImages/p28985214_i_h8_aa.jpg</image>
-    <start>10:00PM</start>
-    <finish>11:00PM</finish>
-    <date>21 October 2025</date>
-  </channel>
-  <channel>
     <name>Al Jazeera English UK</name>
     <id>AlJazeeraEnglish.uk</id>
     <title>News</title>
@@ -61,16 +31,6 @@
     <date>22 October 2025</date>
   </channel>
   <channel>
-    <name>Arise News UK</name>
-    <id>AriseNews.uk</id>
-    <title>Newsnight Nigeria</title>
-    <desc>Nightly Current Affairs, Analysis and Cross Examination of Key News Events.</desc>
-    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
-    <start>09:00PM</start>
-    <finish>11:00PM</finish>
-    <date>21 October 2025</date>
-  </channel>
-  <channel>
     <name>Artv PT</name>
     <id>Artv.pt</id>
     <title>Informa??o N?o Disponibilizada Pelo Canal</title>
@@ -88,16 +48,6 @@
     <image>https://images.metadata.sky.com/pd-image/7e5a92f7-b118-4281-b0e2-9bb6f7265371/16-9</image>
     <start>10:00PM</start>
     <finish>11:25PM</finish>
-    <date>21 October 2025</date>
-  </channel>
-  <channel>
-    <name>BBC News UK</name>
-    <id>BBCNews.uk</id>
-    <title>Newsnight</title>
-    <desc>Insights and global interviews on the news stories of the day. With Victoria Derbyshire.</desc>
-    <image>https://images.metadata.sky.com/pd-image/c363f135-c49d-4cc6-97f5-e93325854080/16-9</image>
-    <start>10:30PM</start>
-    <finish>11:00PM</finish>
     <date>21 October 2025</date>
   </channel>
   <channel>
@@ -513,16 +463,6 @@
   <channel>
     <name>BBC Parliament UK</name>
     <id>BBCParliament.uk</id>
-    <title>Welsh First Minister's Questions</title>
-    <desc>Questions to Eluned Morgan, the first minister, on Tuesday 21 October.</desc>
-    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
-    <start>10:00PM</start>
-    <finish>10:50PM</finish>
-    <date>21 October 2025</date>
-  </channel>
-  <channel>
-    <name>BBC Parliament UK</name>
-    <id>BBCParliament.uk</id>
     <title>Lords Questions</title>
     <desc>Questions in the House of Lords to government ministers on Tuesday 21 October.</desc>
     <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
@@ -549,26 +489,6 @@
     <start>12:35AM</start>
     <finish>01:35AM</finish>
     <date>22 October 2025</date>
-  </channel>
-  <channel>
-    <name>BBC Two NL</name>
-    <id>BBCTwo.nl</id>
-    <title>Newsnight</title>
-    <desc>Featuring extensive coverage of the day's top national and international news stories, along with explanations about the context and potential aftereffects.</desc>
-    <image>https://staticqbr-nl-prod.prod.cdn.dmdsdp.com/image-service/ImagesEPG/EventImages/p269693_bd_h8_ab.jpg</image>
-    <start>10:30PM</start>
-    <finish>10:58PM</finish>
-    <date>21 October 2025</date>
-  </channel>
-  <channel>
-    <name>BBC Two NL</name>
-    <id>BBCTwo.nl</id>
-    <title>BBC Weather</title>
-    <desc>The latest weather forecast.</desc>
-    <image>https://staticqbr-nl-prod.prod.cdn.dmdsdp.com/image-service/ImagesEPG/EventImages/p8195754_bd_h8_aa.jpg</image>
-    <start>10:58PM</start>
-    <finish>11:00PM</finish>
-    <date>21 October 2025</date>
   </channel>
   <channel>
     <name>BBC Two NL</name>
@@ -911,36 +831,6 @@
     <date>21 October 2025</date>
   </channel>
   <channel>
-    <name>EWTN UK</name>
-    <id>EWTN.uk</id>
-    <title>Long Ride Home with Bear Woznick</title>
-    <desc>After celebrating in San Diego, Bear and Tony part ways and Bear finishes his long ride home to the Monterey Bay beach.</desc>
-    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
-    <start>10:30PM</start>
-    <finish>11:00PM</finish>
-    <date>21 October 2025</date>
-  </channel>
-  <channel>
-    <name>EuroNews UK</name>
-    <id>EuroNews.uk</id>
-    <title>The European Debrief</title>
-    <desc>Live headlines, breaking news, analysis and interviews from Europe's News Centre.</desc>
-    <image>https://images.metadata.sky.com/pd-image/54cd9049-fa18-4455-9015-d49156541226/16-9</image>
-    <start>10:30PM</start>
-    <finish>11:00PM</finish>
-    <date>21 October 2025</date>
-  </channel>
-  <channel>
-    <name>EuroNews UK</name>
-    <id>EuroNews.uk</id>
-    <title>The European Debrief</title>
-    <desc>Live headlines, breaking news, analysis and interviews from Europe's News Centre.</desc>
-    <image>https://images.metadata.sky.com/pd-image/00442ee7-2b15-4ae4-937c-3d7e8e7f8102/16-9</image>
-    <start>11:00PM</start>
-    <finish>11:15PM</finish>
-    <date>21 October 2025</date>
-  </channel>
-  <channel>
     <name>EuroNews UK</name>
     <id>EuroNews.uk</id>
     <title>The European Debrief</title>
@@ -958,46 +848,6 @@
     <image>https://images.metadata.sky.com/pd-image/d1b7ebf7-76b8-49c7-94f1-901e7bb52a1a/16-9</image>
     <start>11:30PM</start>
     <finish>11:46PM</finish>
-    <date>21 October 2025</date>
-  </channel>
-  <channel>
-    <name>France 24 Fr</name>
-    <id>France24.fr</id>
-    <title>Sports</title>
-    <desc>Toutes les informations sportives du jour avec les chroniqueurs de France 24 et un r?sum? de l'actualit? sportive mondiale, sur les terrains de jeu et en dehors.</desc>
-    <image>https://staticqbr-prod-ch.gnp.cloud.sunrisetv.ch/image-service/ImagesEPG/EventImages/p9862655_bd_h8_aa.jpg</image>
-    <start>10:43PM</start>
-    <finish>10:49PM</finish>
-    <date>21 October 2025</date>
-  </channel>
-  <channel>
-    <name>France 24 Fr</name>
-    <id>France24.fr</id>
-    <title>Les unes de la presse</title>
-    <desc>Retour sur les unes de la presse du jour en relation avec l'actualit? en France et dans le monde.</desc>
-    <image>https://staticqbr-prod-ch.gnp.cloud.sunrisetv.ch/image-service/ImagesEPG/EventImages/p30881563_bd_h8_aa.jpg</image>
-    <start>10:49PM</start>
-    <finish>10:51PM</finish>
-    <date>21 October 2025</date>
-  </channel>
-  <channel>
-    <name>France 24 Fr</name>
-    <id>France24.fr</id>
-    <title>Focus</title>
-    <desc>Un tour du monde quotidien avec des reportages r?alis?s par plusieurs correspondants dans leur pays, sur les faits marquants de la semaine.</desc>
-    <image>https://staticqbr-prod-ch.gnp.cloud.sunrisetv.ch/image-service/ImagesEPG/EventImages/p26024904_bd_h8_ac.jpg</image>
-    <start>10:51PM</start>
-    <finish>11:00PM</finish>
-    <date>21 October 2025</date>
-  </channel>
-  <channel>
-    <name>France 24 Fr</name>
-    <id>France24.fr</id>
-    <title>Le journal</title>
-    <desc>Toutes les heures, 24 h sur 24, un journal de 10 minutes est pr?sent? en direct de la salle de r?daction.</desc>
-    <image>https://staticqbr-prod-ch.gnp.cloud.sunrisetv.ch/image-service/ImagesEPG/EventImages/p8187192_bd_h8_ab.jpg</image>
-    <start>11:00PM</start>
-    <finish>11:15PM</finish>
     <date>21 October 2025</date>
   </channel>
   <channel>
@@ -1053,16 +903,6 @@
   <channel>
     <name>Kuriakos Tv PT</name>
     <id>KuriakosTv.pt</id>
-    <title>Man? World - Temp.2</title>
-    <desc>Man? World ? um programa que pretende dar a conhecer quem ? a Igreja Man?, quem somos, o que fazemos e onde estamos, apresenta a biografia do Ap?stolo Jorge Tadeu, mostrando v?rios departamentos do Minist?rio Man?.</desc>
-    <image>https://mage.stream.nos.pt/v1/nostv_mage/Images?sourceUri=http%3A%2F%2Fvip.pam.local.internal%2FPAM.Images%2FStore%2F8def4ffe8b2f4bf28b4b87a25857a784</image>
-    <start>10:00PM</start>
-    <finish>11:00PM</finish>
-    <date>21 October 2025</date>
-  </channel>
-  <channel>
-    <name>Kuriakos Tv PT</name>
-    <id>KuriakosTv.pt</id>
     <title>Isto ? o Povo a Falar</title>
     <desc>\&quot;Isto ? o Povo a Falar\&quot; ? um programa de entrevistas e reportagens que aborda assuntos controversos e atuais vividos na sociedade portuguesa. Trata-se de um programa feito a pensar no povo portugu?s, em prol da sua dignidade e da prote??o dos seus direitos enquanto cidad?os.</desc>
     <image>https://mage.stream.nos.pt/v1/nostv_mage/Images?sourceUri=http%3A%2F%2Fvip.pam.local.internal%2FPAM.Images%2FStore%2F23211bdd4aed43dd99e96c9b2a2e080b</image>
@@ -1093,93 +933,11 @@
   <channel>
     <name>MTV UK</name>
     <id>MTV.uk</id>
-    <title>Geordie Stories Charlotte's New Baby</title>
-    <desc>Charlotte is over the moon to be pregnant with her second baby. But stress levels are high when a huge business investment doesn't go to plan.</desc>
-    <image>https://images.metadata.sky.com/pd-image/d39913c5-067d-436a-8556-be2a3a738f30/16-9</image>
-    <start>10:00PM</start>
-    <finish>11:00PM</finish>
-    <date>21 October 2025</date>
-  </channel>
-  <channel>
-    <name>MTV UK</name>
-    <id>MTV.uk</id>
     <title>Ink Master Redemption</title>
     <desc>One of Ink Master's most divine Artists returns with three unhappy Canvases. Can he achieve redemption or will his dark side prevail.</desc>
     <image>https://images.metadata.sky.com/pd-image/6b6e8983-b555-448f-a4e9-6c339dc097e5/16-9</image>
     <start>11:00PM</start>
     <finish>11:30PM</finish>
-    <date>21 October 2025</date>
-  </channel>
-  <channel>
-    <name>Mama RU</name>
-    <id>Mama.ru</id>
-    <title>????? ???????</title>
-    <desc>?????????? ??? ????? ????????? ???????????? ????????? ?????????? ???? ????????????? ????????, ?????? ???????????????? ?????????????? ?????? ????????.
-?????? ???? ????????? ?????? ???????? ??????? ????? ???????? ?????? ?????????? ????? ????????? ??? ???? ???. ????? ?????? ?????????????? ??????? ??? ???????????????? ???????????? ??? ???????? ?????????? ????????????? ??????? ????? ??????????????? ??????? ??????????????? ??????? ????? ??????. ???????? ?????????? ?????? ???????? ?????????, ?????? ??? ????? ????????? ??????? ????????? ??????????. ??????????? ????????? ????????? ???? ??? ?????????? ??? ?????????. ????? ????????? ????? ??????? ????? ???????? ????? ?????, ?????, ?????, ?????, ?????, ???? ??????? ????????????! 
-??? ????????? ????????????? ????? ?????? ???????? ?????????? ??????????? ?????????????? ??? ????? ???3-? ???, ????????? ??????? ?????????? ??????????? ????.</desc>
-    <image>https://tlum.ru/uploads/1f51770a50b82d2d75e31ed2be2fdd6484c92c230403fff9da8065802a211687.jpeg</image>
-    <start>09:00PM</start>
-    <finish>11:00PM</finish>
-    <date>21 October 2025</date>
-  </channel>
-  <channel>
-    <name>Movies 24 UK</name>
-    <id>Movies24.uk</id>
-    <title>Ghosts Of Christmas Always</title>
-    <desc>Katherine is a Ghost of Christmas Present and she must help one soul, Peter, rediscover his Christmas spirit. But this year has something unusual in store.</desc>
-    <image>https://images.metadata.sky.com/pd-image/e63c7c7a-d503-4372-ba4d-ae753bb49e55/16-9</image>
-    <start>09:00PM</start>
-    <finish>11:00PM</finish>
-    <date>21 October 2025</date>
-  </channel>
-  <channel>
-    <name>Nick Jr UK</name>
-    <id>NickJunior.uk</id>
-    <title>Peppa Pig</title>
-    <desc>The playgroup visits a nature reserve, specialising in tiny insects, bugs and butterflies. So Pedro brings along his pet stick insect.</desc>
-    <image>https://images.metadata.sky.com/pd-image/e98f8304-47e5-4f65-ac72-13baf6e87796/16-9</image>
-    <start>10:45PM</start>
-    <finish>10:50PM</finish>
-    <date>21 October 2025</date>
-  </channel>
-  <channel>
-    <name>Nick Jr UK</name>
-    <id>NickJunior.uk</id>
-    <title>Peppa Pig</title>
-    <desc>Peppa and her friends play some very active games in the gar-den and together they learn to hop, skip and jump.</desc>
-    <image>https://images.metadata.sky.com/pd-image/7e2e1f9f-592e-41d8-9fb1-189e1c3dd0a2/16-9</image>
-    <start>10:50PM</start>
-    <finish>11:00PM</finish>
-    <date>21 October 2025</date>
-  </channel>
-  <channel>
-    <name>Nick Jr UK</name>
-    <id>NickJunior.uk</id>
-    <title>Peppa Pig</title>
-    <desc>Peppa Pig goes to the park to play with friends and have new experiences.</desc>
-    <image>https://images.metadata.sky.com/pd-image/c5e3149a-8d37-4fdb-91c0-61ba7c24c70c/16-9</image>
-    <start>11:00PM</start>
-    <finish>11:05PM</finish>
-    <date>21 October 2025</date>
-  </channel>
-  <channel>
-    <name>Nick Jr UK</name>
-    <id>NickJunior.uk</id>
-    <title>Peppa Pig</title>
-    <desc>Peppa and her friends learn about climbing from Grampy Rabbit at the climbing centre. Mummy Pig is worried about George when he gets scared of heights.</desc>
-    <image>https://images.metadata.sky.com/pd-image/74d4179e-3654-4208-9cc0-2dc21c3844dd/16-9</image>
-    <start>11:05PM</start>
-    <finish>11:15PM</finish>
-    <date>21 October 2025</date>
-  </channel>
-  <channel>
-    <name>Nick Jr UK</name>
-    <id>NickJunior.uk</id>
-    <title>Peppa Pig</title>
-    <desc>Peppa, George and Freddy Fox are mistaken for pirates while sailing on the river with Grandpa Pig, complete with costumes and a Jolly Roger flag.</desc>
-    <image>https://images.metadata.sky.com/pd-image/38569429-2d26-4e0d-b7d2-5fcbdd36aaed/16-9</image>
-    <start>11:15PM</start>
-    <finish>11:20PM</finish>
     <date>21 October 2025</date>
   </channel>
   <channel>
@@ -1200,26 +958,6 @@
     <image>https://images.metadata.sky.com/pd-image/66b89794-dd1f-403a-847d-d550271049fb/16-9</image>
     <start>11:30PM</start>
     <finish>11:45PM</finish>
-    <date>21 October 2025</date>
-  </channel>
-  <channel>
-    <name>Nickelodeon RO</name>
-    <id>Nickelodeon.ro</id>
-    <title>Casa Loud</title>
-    <desc>Lincoln Loud este un b?ie?el de 11 ani care tr?ie?te ?mpreun? cu cele 10 surori ale lui. Cu ajutorul m?inii lui drepte, Clyde, Lincoln g?se?te de fiecare dat? noi metode de a rezista ?n fiecare zi ?ntr-o familie at?t de numeroas?.</desc>
-    <image>https://static.cinemagia.ro/img/db/movie/96/66/29/the-loud-house-452115l.jpg</image>
-    <start>10:20PM</start>
-    <finish>10:50PM</finish>
-    <date>21 October 2025</date>
-  </channel>
-  <channel>
-    <name>Nickelodeon RO</name>
-    <id>Nickelodeon.ro</id>
-    <title>Casa Loud</title>
-    <desc>Lincoln Loud este un b?ie?el de 11 ani care tr?ie?te ?mpreun? cu cele 10 surori ale lui. Cu ajutorul m?inii lui drepte, Clyde, Lincoln g?se?te de fiecare dat? noi metode de a rezista ?n fiecare zi ?ntr-o familie at?t de numeroas?.</desc>
-    <image>https://static.cinemagia.ro/img/db/movie/96/66/29/the-loud-house-452115l.jpg</image>
-    <start>10:50PM</start>
-    <finish>11:15PM</finish>
     <date>21 October 2025</date>
   </channel>
   <channel>
@@ -1255,61 +993,11 @@
   <channel>
     <name>PTC Punjabi UK</name>
     <id>PTCPunjabi.uk</id>
-    <title>Flames</title>
-    <desc>A game show where celebrities can be kids again. Fun games, secret spilling quirky questions and a chance to let go completely.</desc>
-    <image>https://images.metadata.sky.com/pd-image/0cc4f168-86bd-33c8-8718-05a3b212827b/16-9</image>
-    <start>10:00PM</start>
-    <finish>11:00PM</finish>
-    <date>21 October 2025</date>
-  </channel>
-  <channel>
-    <name>PTC Punjabi UK</name>
-    <id>PTCPunjabi.uk</id>
     <title>Wangaan</title>
     <desc>Wangaan.</desc>
     <image>https://images.metadata.sky.com/pd-image/0c1d8dbf-55ff-4de5-a695-36c6d02fca14/16-9</image>
     <start>11:00PM</start>
     <finish>11:30PM</finish>
-    <date>21 October 2025</date>
-  </channel>
-  <channel>
-    <name>QVC UK</name>
-    <id>QVC.uk</id>
-    <title>Beauty Tools &amp; Accessories Gifts</title>
-    <desc>This new show will focus on reinforcing the three golden rules - cleanse, tone and moisturise. Caroline will also explain how to choose the right moisturiser for the season and your skin type.</desc>
-    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
-    <start>10:00PM</start>
-    <finish>11:00PM</finish>
-    <date>21 October 2025</date>
-  </channel>
-  <channel>
-    <name>QVC Beauty UK</name>
-    <id>QVCBeauty.uk</id>
-    <title>Best Of QVC Beauty</title>
-    <desc>All the highlights and star products.</desc>
-    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
-    <start>10:00PM</start>
-    <finish>11:00PM</finish>
-    <date>21 October 2025</date>
-  </channel>
-  <channel>
-    <name>QVC Style UK</name>
-    <id>QVCStyle.uk</id>
-    <title>Best of QVC Style</title>
-    <desc>Catch all the recent highlights from our sister channel with the Best of QVC Style.</desc>
-    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
-    <start>10:00PM</start>
-    <finish>11:00PM</finish>
-    <date>21 October 2025</date>
-  </channel>
-  <channel>
-    <name>RTE News Now IE</name>
-    <id>RTENewsNow.ie</id>
-    <title>Seacht L?</title>
-    <desc>Seacht L?.</desc>
-    <image>https://images.metadata.sky.com/pd-image/c42191c2-1a87-35bd-8792-cf311dea3f4d/16-9</image>
-    <start>10:35PM</start>
-    <finish>11:00PM</finish>
     <date>21 October 2025</date>
   </channel>
   <channel>
@@ -1353,16 +1041,6 @@
     <date>21 October 2025</date>
   </channel>
   <channel>
-    <name>Real Madrid TV ES</name>
-    <id>RealMadridTV.es</id>
-    <title>Real Madrid TV</title>
-    <desc>No hay descripci?n disponible.</desc>
-    <image>https://www.movistarplus.es/recorte/n/caratulaH/MREALMP1635667</image>
-    <start>07:00PM</start>
-    <finish>11:00PM</finish>
-    <date>21 October 2025</date>
-  </channel>
-  <channel>
     <name>Rtp 1 PT</name>
     <id>Rtp1.pt</id>
     <title>Programa Cautelar</title>
@@ -1385,41 +1063,11 @@
   <channel>
     <name>Rtp África PT</name>
     <id>RtpAfrica.pt</id>
-    <title>Nha Terra Nha Cretcheu</title>
-    <desc>A atualidade social e econ?mica de Cabo Verde como temas de destaque num programa que mostra a realidade de como vivem e trabalham os cabo-verdianos, atrav?s de percurso pela cultura e tradi??es.</desc>
-    <image>https://mage.stream.nos.pt/v1/nostv_mage/Images?sourceUri=http%3A%2F%2Fvip.pam.local.internal%2FPAM.Images%2FStore%2Fe2aeaad795e54f5bb11671a411877fdf</image>
-    <start>10:00PM</start>
-    <finish>11:15PM</finish>
-    <date>21 October 2025</date>
-  </channel>
-  <channel>
-    <name>Rtp África PT</name>
-    <id>RtpAfrica.pt</id>
     <title>Janela Indiscreta</title>
     <desc>O Janela Indiscreta ? o seu programa de cinema! Apresenta, em primeira m?o, estreias cinematogr?ficas e entrevistas exclusivas aos protagonistas das produ??es nacionais e internacionais, dando a conhecer curiosidades e hist?rias de bastidores.</desc>
     <image>https://mage.stream.nos.pt/v1/nostv_mage/Images?sourceUri=http%3A%2F%2Fvip.pam.local.internal%2FPAM.Images%2FStore%2F49b7462d652c443eb7d8a0135d447f67</image>
     <start>11:15PM</start>
     <finish>12:00AM</finish>
-    <date>21 October 2025</date>
-  </channel>
-  <channel>
-    <name>Rtp Madeira PT</name>
-    <id>RtpMadeira.pt</id>
-    <title>Parlamento</title>
-    <desc>Os grandes debates Governo/Oposi??o. As principais propostas dos partidos pol?ticos. As ideias dos deputados para o pa?s. Todas as semanas os assuntos que interessam aos portugueses s?o discutidos no Parlamento. Not?cias, reportagem e debate... no Parlamento.</desc>
-    <image>https://mage.stream.nos.pt/v1/nostv_mage/Images?sourceUri=http%3A%2F%2Fvip.pam.local.internal%2FPAM.Images%2FStore%2Ff10b05a7618c464f8c1c373de034c6dd</image>
-    <start>09:50PM</start>
-    <finish>10:50PM</finish>
-    <date>21 October 2025</date>
-  </channel>
-  <channel>
-    <name>Rtp Madeira PT</name>
-    <id>RtpMadeira.pt</id>
-    <title>Super Especial</title>
-    <desc>Programa de car?ter Regional, dedicado ao acompanhamento do Campeonato Regional de Ralis, que inclui a cobertura do circuito regional de rampas.</desc>
-    <image>https://mage.stream.nos.pt/v1/nostv_mage/Images?sourceUri=http%3A%2F%2Fvip.pam.local.internal%2FPAM.Images%2FStore%2F3ff8f59f04e14c4aa0aa73e90db84028</image>
-    <start>10:50PM</start>
-    <finish>11:15PM</finish>
     <date>21 October 2025</date>
   </channel>
   <channel>
@@ -1445,16 +1093,6 @@
   <channel>
     <name>Sky News UK</name>
     <id>SkyNews.uk</id>
-    <title>Press Preview</title>
-    <desc>Lively debate and discussion with our panel of paper reviewers about the stories making tomorrow morning's newspapers.</desc>
-    <image>https://images.metadata.sky.com/pd-image/36282ac4-443c-4c14-ae84-d6034b43cda0/16-9</image>
-    <start>10:30PM</start>
-    <finish>11:00PM</finish>
-    <date>21 October 2025</date>
-  </channel>
-  <channel>
-    <name>Sky News UK</name>
-    <id>SkyNews.uk</id>
     <title>News &amp; Press Preview</title>
     <desc>The key stories of the day plus debate and discussion with our panel of reviewers on the stories making the morning newspapers in the extended press preview.</desc>
     <image>https://images.metadata.sky.com/pd-image/2edd76dd-c546-470e-b7ef-1fa130d585f8/16-9</image>
@@ -1467,29 +1105,9 @@
     <id>TG4.ie</id>
     <title>This is TG4 HD</title>
     <desc>This is TG4 HD.</desc>
-    <image>https://images.metadata.sky.com/pd-image/aca92d41-b943-4bfe-a880-56f3d8575c30/16-9</image>
-    <start>10:30PM</start>
-    <finish>11:00PM</finish>
-    <date>21 October 2025</date>
-  </channel>
-  <channel>
-    <name>TG4 IE</name>
-    <id>TG4.ie</id>
-    <title>This is TG4 HD</title>
-    <desc>This is TG4 HD.</desc>
     <image>https://images.metadata.sky.com/pd-image/7ce8ab70-48ab-4e33-8a22-73264a3211a9/16-9</image>
     <start>11:00PM</start>
     <finish>11:30PM</finish>
-    <date>21 October 2025</date>
-  </channel>
-  <channel>
-    <name>TV 5 Monde F-Be-Ch Fr</name>
-    <id>TV5Monde.fr</id>
-    <title>5e rang</title>
-    <desc>Marie-Jeanne se rend ? la ferme pour pr?venir Marie-Luce des menaces qui planent sur elle. Kim doit trouver la force de d?noncer Laurent Beaus?jour. Nicolas ordonne ? Fred d'aller questionner R?ginald au sujet du meurtre de Laura.</desc>
-    <image>http://dshm.tmsimg.com/assets/p16368039_b_h8_aa.jpg</image>
-    <start>10:16PM</start>
-    <finish>10:58PM</finish>
     <date>21 October 2025</date>
   </channel>
   <channel>
@@ -1521,15 +1139,5 @@
     <start>12:17AM</start>
     <finish>01:03AM</finish>
     <date>22 October 2025</date>
-  </channel>
-  <channel>
-    <name>Vosges TV Fr</name>
-    <id>ViaVosges.fr</id>
-    <title>PAROLES D?ELU(E)</title>
-    <desc>Pas de description disponible.</desc>
-    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
-    <start>10:30PM</start>
-    <finish>11:00PM</finish>
-    <date>21 October 2025</date>
   </channel>
 </tv>
