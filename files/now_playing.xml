@@ -1,43 +1,33 @@
 <?xml version="1.0" ?>
 <tv>
   <channel>
-    <name>ABC Comedy AU</name>
-    <id>ABCComedy.au</id>
-    <title>Rage Guest Programmer: Ruel</title>
-    <desc>Celebrating the release of his new album 'Kicking My Feet', Ruel takes over the red couch for his second stint hosting rage.</desc>
-    <image>https://www.abc.net.au/tv/common/images/publicity/LR2510H.jpg</image>
-    <start>01:54PM</start>
-    <finish>06:00PM</finish>
-    <date>21 October 2025</date>
-  </channel>
-  <channel>
     <name>Afro Music Channel PT</name>
     <id>AfroMusicChannel.pt</id>
-    <title>African Vibes</title>
-    <desc>Todos os estilos musicais, cores e nacionalidades de ?frica t?m voz no ?African Vibes?.</desc>
+    <title>Fresh Music</title>
+    <desc>As m?sicas mais frescas do momento est?o no ?Fresh Music?.</desc>
     <image>https://mage.stream.nos.pt/v1/nostv_mage/Images?sourceUri=http%3A%2F%2Fvip.pam.local.internal%2FPAM.Images%2FStore%2F995f98d90237478c8404a9498dbf4f92</image>
-    <start>05:49PM</start>
-    <finish>06:23PM</finish>
+    <start>06:23PM</start>
+    <finish>07:13PM</finish>
     <date>21 October 2025</date>
   </channel>
   <channel>
     <name>Al Jazeera English UK</name>
     <id>AlJazeeraEnglish.uk</id>
-    <title>Apocalypse Maybe</title>
-    <desc>Many believe we are living in the 'end times' due to climate change, a digital revolution and international conflict.</desc>
-    <image>https://staticqbr-prod-ch.gnp.cloud.sunrisetv.ch/image-service/ImagesEPG/EventImages/p26608334_bd_h8_aa.jpg</image>
-    <start>05:30PM</start>
-    <finish>06:00PM</finish>
+    <title>News</title>
+    <desc>Up-to-date news and analysis from around the world.</desc>
+    <image>https://staticqbr-prod-ch.gnp.cloud.sunrisetv.ch/image-service/ImagesEPG/EventImages/p28975004_i_h8_aa.jpg</image>
+    <start>06:00PM</start>
+    <finish>06:30PM</finish>
     <date>21 October 2025</date>
   </channel>
   <channel>
     <name>Arise News UK</name>
     <id>AriseNews.uk</id>
-    <title>ARISE 360</title>
-    <desc>Top New Stories and Guests from the World of Entertainment, PopCulture, Arts and Culture.</desc>
+    <title>The World</title>
+    <desc>Global News and Analysis of World Events Politics, Business, and Africa.</desc>
     <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
-    <start>05:00PM</start>
-    <finish>06:00PM</finish>
+    <start>06:00PM</start>
+    <finish>07:00PM</finish>
     <date>21 October 2025</date>
   </channel>
   <channel>
@@ -63,21 +53,21 @@
   <channel>
     <name>BBC News UK</name>
     <id>BBCNews.uk</id>
-    <title>BBC News</title>
-    <desc>The latest news from the BBC.</desc>
-    <image>https://images.metadata.sky.com/pd-image/e4e992d9-b8b1-4e80-8f21-de42adc23c47/16-9</image>
-    <start>05:30PM</start>
-    <finish>06:00PM</finish>
+    <title>BBC News at Six</title>
+    <desc>The latest national and international news from the BBC.</desc>
+    <image>https://images.metadata.sky.com/pd-image/4f87928f-5fdc-4bb2-86a5-8d7f20943bc3/16-9</image>
+    <start>06:00PM</start>
+    <finish>06:30PM</finish>
     <date>21 October 2025</date>
   </channel>
   <channel>
     <name>BBC One NL</name>
     <id>BBCOne.nl</id>
-    <title>Pointless</title>
-    <desc>Four pairs join Alexander Armstrong and co-host Trevor Nelson for the brainy quiz where contestants try to score as few points as possible by plumbing the depths of their general knowledge to come up with the answers no-one else could think of.</desc>
-    <image>https://staticqbr-nl-prod.prod.cdn.dmdsdp.com/image-service/ImagesEPG/EventImages/p31184010_bd_h10_ab.jpg</image>
-    <start>05:15PM</start>
-    <finish>06:00PM</finish>
+    <title>BBC News at Six</title>
+    <desc>The latest national and international news stories from the BBC News team, followed by weather.</desc>
+    <image>https://staticqbr-nl-prod.prod.cdn.dmdsdp.com/image-service/ImagesEPG/EventImages/p8098031_i_h10_aa.jpg</image>
+    <start>06:00PM</start>
+    <finish>06:30PM</finish>
     <date>21 October 2025</date>
   </channel>
   <channel>
@@ -93,61 +83,61 @@
   <channel>
     <name>BBC Two NL</name>
     <id>BBCTwo.nl</id>
-    <title>Flog It!</title>
-    <desc>The team visit Herstmonceux Castle and antiques experts Jonathan Pratt and James Lewis find treasures to take to auction, including some beautiful bronze sculptures. Also, Paul Martin takes a trip on a very large miniature railway.</desc>
-    <image>https://staticqbr-nl-prod.prod.cdn.dmdsdp.com/image-service/ImagesEPG/EventImages/p13897410_e_h11_aa.jpg</image>
-    <start>05:15PM</start>
-    <finish>06:00PM</finish>
+    <title>Richard Osman's House of Games</title>
+    <desc>Celebrity contestants Kola Bokinni, Sheli McCoy, John Parrott and Katie Piper take on a series of quiz rounds. Will the winning stars opt for the coveted House of Games dartboard, will they be tempted with the House of Games custom beanie hat?</desc>
+    <image>https://staticqbr-nl-prod.prod.cdn.dmdsdp.com/image-service/ImagesEPG/EventImages/p31248584_bd_h10_ab.jpg</image>
+    <start>06:00PM</start>
+    <finish>06:30PM</finish>
     <date>21 October 2025</date>
   </channel>
   <channel>
     <name>Band Sports BR</name>
     <id>BandSports.br</id>
-    <title>G4</title>
+    <title>Esporte Agora</title>
     <desc></desc>
-    <image>https://cdn.mitvstatic.com/programs/br_g4_l_m.jpg</image>
-    <start>04:00PM</start>
-    <finish>06:00PM</finish>
+    <image>https://cdn.mitvstatic.com/programs/br_news-esporte-agora_l_m.jpg</image>
+    <start>06:00PM</start>
+    <finish>07:00PM</finish>
     <date>21 October 2025</date>
   </channel>
   <channel>
     <name>CBBC UK</name>
     <id>CBBC.uk</id>
-    <title>Stage Stars</title>
-    <desc>With Christmas around the corner, the juniors give a festive performance at the local town fair. Meanwhile, it's time for Encore's end-of-term performance.</desc>
-    <image>https://img.freeviewplay.tv/pc3462f0723775ab4ee62e020a81d77a7</image>
-    <start>05:35PM</start>
-    <finish>06:00PM</finish>
+    <title>The Next Step</title>
+    <desc>Reality-style drama following the lives of a group of dancers at the Next Step Dance Studio. James and Riley struggle with their duet. Michelle demands an answer from Eldon - why is he avoiding her.</desc>
+    <image>https://img.freeviewplay.tv/pe139849510e43a951abbc6f52b345676</image>
+    <start>06:25PM</start>
+    <finish>06:50PM</finish>
     <date>21 October 2025</date>
   </channel>
   <channel>
     <name>CBeebies UK</name>
     <id>CBeebies.uk</id>
-    <title>Moon and Me</title>
-    <desc>Big Walk, Little Walk. Pepi Nana is big and Little Nana is small. When the two friends go for a walk together, they discover how they see things differently - and how much fun that can be.</desc>
-    <image>https://images.metadata.sky.com/pd-image/ef38053b-2912-4c5f-8958-b38325d45970/16-9</image>
-    <start>05:45PM</start>
-    <finish>06:10PM</finish>
+    <title>In the Night Garden</title>
+    <desc>Windy Day in the Garden. Series for young children. On a very windy day, Igglepiggle's blanket is blown into the air and the Tombliboos' trousers are blown off the line.</desc>
+    <image>https://images.metadata.sky.com/pd-image/75b58e50-4d6e-443b-93a9-b53b92dc6eb1/16-9</image>
+    <start>06:20PM</start>
+    <finish>06:50PM</finish>
     <date>21 October 2025</date>
   </channel>
   <channel>
     <name>Classica IT</name>
     <id>Classica.it</id>
-    <title>Vaclav Neumann</title>
-    <desc>Il direttore ceco Vaclav Neumann \(1920-1995\) alla testa dell'Orchestra Filarmonica Ceca. In programma il poema sinfonico 'La colomba selvatica' di Dvorak e la rapsodia sinfonica 'Taras Bulba' di Janacek \(Praga, 1986\).</desc>
-    <image>https://guidatv.sky.it/uuid/Intrattenimento_Scene_7GZn0K86e.png</image>
-    <start>05:30PM</start>
-    <finish>06:15PM</finish>
+    <title>Vittorio Maggioli - Piano City Milano</title>
+    <desc>Il pianista Vittorio Maggioli esegue la Sonata in sol minore op.22 \(1833-1838\) di Robert Schumann - Vittorio Maggioli, pianoforte \(Milano, Casa degli Atellani - 2023\).</desc>
+    <image>https://guidatv.sky.it/uuid/21219c87-8d8f-40d6-805d-8302cd9857fe/16-9?territory=IT&amp;md5ChecksumParam=2c1553cc60d266cc9baec15a68d7bbd9</image>
+    <start>06:15PM</start>
+    <finish>06:45PM</finish>
     <date>21 October 2025</date>
   </channel>
   <channel>
     <name>EWTN UK</name>
     <id>EWTN.uk</id>
-    <title>Ghana, Hope Behind Bars</title>
-    <desc>The HOPE organization assists hundreds of prisoners in Ghana who are held only because they cant afford a private defense lawyer. Meet the face of Christ in th.</desc>
+    <title>Daily mass</title>
+    <desc>The Holy Sacrifice of the Mass with the friars each day from the EWTN Chapel in Irondale, Alabama. LIVE Monday through Saturday at 8 am Eastern.</desc>
     <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
-    <start>05:30PM</start>
-    <finish>06:00PM</finish>
+    <start>06:00PM</start>
+    <finish>07:00PM</finish>
     <date>21 October 2025</date>
   </channel>
   <channel>
@@ -155,71 +145,71 @@
     <id>EuroNews.uk</id>
     <title>The European Debrief</title>
     <desc>Live headlines, breaking news, analysis and interviews from Europe's News Centre.</desc>
-    <image>https://images.metadata.sky.com/pd-image/b22424e4-7187-445f-9ba0-e9b657918618/16-9</image>
-    <start>05:30PM</start>
-    <finish>06:00PM</finish>
+    <image>https://images.metadata.sky.com/pd-image/fb1b119d-dfc0-435a-9d87-57bd4ea10dbf/16-9</image>
+    <start>06:15PM</start>
+    <finish>06:30PM</finish>
     <date>21 October 2025</date>
   </channel>
   <channel>
     <name>France 24 Fr</name>
     <id>France24.fr</id>
-    <title>Sports</title>
-    <desc>Toutes les informations sportives du jour avec les chroniqueurs de France 24 et un r?sum? de l'actualit? sportive mondiale, sur les terrains de jeu et en dehors.</desc>
-    <image>https://staticqbr-prod-ch.gnp.cloud.sunrisetv.ch/image-service/ImagesEPG/EventImages/p9862655_bd_h8_aa.jpg</image>
-    <start>05:51PM</start>
-    <finish>06:00PM</finish>
+    <title>Le d?bat</title>
+    <desc>Tous les soirs, des invit?s d?battent du sujet principal ? la une de l'actualit? en France ou ? l'international.</desc>
+    <image>https://staticqbr-prod-ch.gnp.cloud.sunrisetv.ch/image-service/ImagesEPG/EventImages/p9862687_bd_h10_ab.jpg</image>
+    <start>06:10PM</start>
+    <finish>06:55PM</finish>
     <date>21 October 2025</date>
   </channel>
   <channel>
     <name>ITV 1 UK</name>
     <id>ITV1.uk</id>
-    <title>The Chase</title>
-    <desc>Genevieve from London, Simon from Preston, Nik from Staffordshire and Suzanne from Ilford unite to try to outsmart one of the Chasers in the hope of winning a huge cash prize.</desc>
-    <image>https://images.metadata.sky.com/pd-image/40542e95-0f83-422c-b4f5-3278cfe8495c/16-9</image>
-    <start>05:00PM</start>
-    <finish>06:00PM</finish>
+    <title>ITV News London</title>
+    <desc>The latest news and weather from London and the South East.</desc>
+    <image>https://images.metadata.sky.com/pd-image/143875cc-24de-4bd3-a0e2-87f56947d084/16-9</image>
+    <start>06:00PM</start>
+    <finish>06:30PM</finish>
     <date>21 October 2025</date>
   </channel>
   <channel>
     <name>Kuriakos Tv PT</name>
     <id>KuriakosTv.pt</id>
-    <title>Vila Ideal</title>
-    <desc>Programa infantil que ensina de uma forma divertida os princ?pios b?sicos morais e c?vicos ?s crian?as, promovendo a amizade, a obedi?ncia, a partilha, o amor ao pr?ximo. Os conte?dos de cada programa s?o tem?ticos, com a intera??o dos v?rios personagens.</desc>
-    <image>https://mage.stream.nos.pt/v1/nostv_mage/Images?sourceUri=http%3A%2F%2Fvip.pam.local.internal%2FPAM.Images%2FStore%2F187675c654f1490d84bb9915920e31c8</image>
-    <start>05:00PM</start>
-    <finish>06:00PM</finish>
+    <title>Superbook</title>
+    <desc>Christopher Peeper descobre uma b?blia m?gica chamada de \&quot;Superlivro\&quot; enquanto estava encarregue de organizar os livros de seu pai. O Superlivro fala com ele e envia-o, juntamente de Joy e Gizmo, de volta at? aos primeiros eventos do Antigo Testamento.</desc>
+    <image>https://mage.stream.nos.pt/v1/nostv_mage/Images?sourceUri=http%3A%2F%2Fvip.pam.local.internal%2FPAM.Images%2FStore%2Fb7fc6c78ad184158871a4ed52990fc13</image>
+    <start>06:00PM</start>
+    <finish>06:30PM</finish>
     <date>21 October 2025</date>
   </channel>
   <channel>
     <name>La Otra ES</name>
     <id>LaOtra.es</id>
-    <title>Sabores</title>
-    <desc>La riqueza, la magia y la belleza del mundo convergen en esta serie documental que descubre las mejores destinaciones del planeta, su patrimonio natural, sus monumentos, su arte y sus paisajes de infarto.</desc>
-    <image>https://www.movistarplus.es/recorte/n/caratulaH/MOTRAP1614102</image>
-    <start>05:10PM</start>
-    <finish>06:10PM</finish>
+    <title>Pac?fico</title>
+    <desc>El periodista Daniel Landa es el protagonista de esta ruta de 40.000 kil?metros que le llevar? desde las ciudades m?s modernas de Asia hasta las selvas m?s rec?nditas del Pac?fico.</desc>
+    <image>https://www.movistarplus.es/recorte/n/caratulaH/MOTRAP1328355</image>
+    <start>06:10PM</start>
+    <finish>07:00PM</finish>
     <date>21 October 2025</date>
   </channel>
   <channel>
     <name>MTV UK</name>
     <id>MTV.uk</id>
-    <title>Help! I'm In A Secret...</title>
-    <desc>Relationship! King is ready to take his relationship with Valerie to the next level, but not until he finds out why Valerie is hiding him.</desc>
-    <image>https://images.metadata.sky.com/pd-image/eab27b94-d2bd-38f2-bc67-0ebe8cea5d74/16-9</image>
-    <start>05:00PM</start>
-    <finish>06:00PM</finish>
+    <title>Catfish UK</title>
+    <desc>Alex has been chatting to Matt for a year and thinks he could be the one. But after several failed attempts to meet, Alex wants Julie and Oobah to track him down.</desc>
+    <image>https://images.metadata.sky.com/pd-image/a07aa174-8e3c-43c4-a422-5fce092ac5a6/16-9</image>
+    <start>06:00PM</start>
+    <finish>07:00PM</finish>
     <date>21 October 2025</date>
   </channel>
   <channel>
     <name>Mama RU</name>
     <id>Mama.ru</id>
-    <title>????? ???????. ???-??? ????: ???????????</title>
+    <title>????? ???????. ??????</title>
     <desc>?????????? ??? ????? ????????? ???????????? ????????? ?????????? ???? ????????????? ????????, ?????? ???????????????? ?????????????? ?????? ????????.
 ?????? ???? ????????? ?????? ???????? ??????? ????? ???????? ?????? ?????????? ????? ????????? ??? ???? ???. ????? ?????? ?????????????? ??????? ??? ???????????????? ???????????? ??? ???????? ?????????? ????????????? ??????? ????? ??????????????? ??????? ??????????????? ??????? ????? ??????. ???????? ?????????? ?????? ???????? ?????????, ?????? ??? ????? ????????? ??????? ????????? ??????????. ??????????? ????????? ????????? ???? ??? ?????????? ??? ?????????. ????? ????????? ????? ??????? ????? ???????? ????? ?????, ?????, ?????, ?????, ?????, ???? ??????? ????????????! 
 ??? ????????? ????????????? ????? ?????? ???????? ?????????? ??????????? ?????????????? ??? ????? ???3-? ???, ????????? ??????? ?????????? ??????????? ????.</desc>
     <image>https://tlum.ru/uploads/1f51770a50b82d2d75e31ed2be2fdd6484c92c230403fff9da8065802a211687.jpeg</image>
-    <start>04:50PM</start>
-    <finish>06:00PM</finish>
+    <start>06:00PM</start>
+    <finish>07:30PM</finish>
     <date>21 October 2025</date>
   </channel>
   <channel>
@@ -235,31 +225,31 @@
   <channel>
     <name>Nick Jr UK</name>
     <id>NickJunior.uk</id>
-    <title>Tim Rex in Space</title>
-    <desc>Kai is super excited to ride the Nebulator, but Tim isn't so sure.</desc>
-    <image>https://images.metadata.sky.com/pd-image/f256cc0c-4ab4-4468-b8f6-8003a5564120/16-9</image>
-    <start>05:50PM</start>
-    <finish>06:00PM</finish>
+    <title>Rubble &amp; Crew</title>
+    <desc>Mayor Greatway asks the pups to fix a haunted house in 'The Crew Fixes A Haunted House', and then in 'The Crew Builds A Bat House', the crew builds a home for some bats.</desc>
+    <image>https://images.metadata.sky.com/pd-image/8fe5dd82-7582-4f29-8926-3781ea547c92/16-9</image>
+    <start>06:00PM</start>
+    <finish>06:31PM</finish>
     <date>21 October 2025</date>
   </channel>
   <channel>
     <name>Nickelodeon RO</name>
     <id>Nickelodeon.ro</id>
-    <title>Familia Thunderman: sub acoperire</title>
+    <title>Henry Pericol</title>
     <desc></desc>
-    <image>https://static.cinemagia.ro/img/db/actor/63/06/61/kira-kosarin-948956l.jpg</image>
-    <start>05:50PM</start>
-    <finish>06:20PM</finish>
+    <image>https://static.cinemagia.ro/img/db/movie/89/81/57/henry-danger-806743l.jpg</image>
+    <start>06:20PM</start>
+    <finish>06:50PM</finish>
     <date>21 October 2025</date>
   </channel>
   <channel>
     <name>PTC Punjabi UK</name>
     <id>PTCPunjabi.uk</id>
-    <title>Live Gurbani Asr</title>
-    <desc>Live Gurbani from The Golden Temple.</desc>
-    <image>https://images.metadata.sky.com/pd-image/c58725bf-29ae-46e0-ada7-bfa788d6f874/16-9</image>
-    <start>04:00PM</start>
-    <finish>06:00PM</finish>
+    <title>International News Update</title>
+    <desc>International News Update on current affairs.</desc>
+    <image>https://images.metadata.sky.com/pd-image/8e4a314e-8a83-458c-8951-430276137b9e/16-9</image>
+    <start>06:00PM</start>
+    <finish>06:30PM</finish>
     <date>21 October 2025</date>
   </channel>
   <channel>
@@ -275,11 +265,11 @@
   <channel>
     <name>QVC UK</name>
     <id>QVC.uk</id>
-    <title>Men's Fashion with White Stuff</title>
-    <desc>Men's Fashion with White Stuff.</desc>
+    <title>Beauty Gifts with Braun</title>
+    <desc>Discover perfect beauty gifts with Braun. Explore innovative grooming tools and pampering essentials to delight your loved ones this festive season.</desc>
     <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
-    <start>05:00PM</start>
-    <finish>06:00PM</finish>
+    <start>06:00PM</start>
+    <finish>07:00PM</finish>
     <date>21 October 2025</date>
   </channel>
   <channel>
@@ -288,8 +278,8 @@
     <title>Best Of QVC Beauty</title>
     <desc>All the highlights and star products.</desc>
     <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
-    <start>05:00PM</start>
-    <finish>06:00PM</finish>
+    <start>06:00PM</start>
+    <finish>07:00PM</finish>
     <date>21 October 2025</date>
   </channel>
   <channel>
@@ -298,18 +288,18 @@
     <title>Best of QVC Style</title>
     <desc>Catch all the recent highlights from our sister channel with the Best of QVC Style.</desc>
     <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
-    <start>05:00PM</start>
-    <finish>06:00PM</finish>
+    <start>06:00PM</start>
+    <finish>07:00PM</finish>
     <date>21 October 2025</date>
   </channel>
   <channel>
     <name>RTE News Now IE</name>
     <id>RTENewsNow.ie</id>
-    <title>Nuacht RT?</title>
-    <desc>Pr?omhsc?alta an lae ? Nuacht RT?.</desc>
-    <image>https://images.metadata.sky.com/pd-image/833e5012-1c45-4cf0-a97f-a3bda40f78f6/16-9</image>
-    <start>05:40PM</start>
-    <finish>06:01PM</finish>
+    <title>RT? News</title>
+    <desc></desc>
+    <image>https://images.metadata.sky.com/pd-image/6e1b74fd-d6ee-491a-90b6-eaa138cc6508/16-9</image>
+    <start>06:01PM</start>
+    <finish>07:00PM</finish>
     <date>21 October 2025</date>
   </channel>
   <channel>
@@ -365,11 +355,11 @@
   <channel>
     <name>Rtp África PT</name>
     <id>RtpAfrica.pt</id>
-    <title>Bem-vindos</title>
-    <desc>Talk-show onde s?o abordados temas como a educa??o, religi?o, fam?lia, o lazer e o ambiente. Cada epis?dio cont?m rubricas de culin?ria, consult?rio, sugest?es de leituras, eventos e ainda atua??o de bandas, dan?arinos, atores, entre outros.</desc>
-    <image>https://mage.stream.nos.pt/v1/nostv_mage/Images?sourceUri=http%3A%2F%2Fvip.pam.local.internal%2FPAM.Images%2FStore%2F3bc5bc72f1b9487680402fa7c6e1b9a4</image>
-    <start>05:00PM</start>
-    <finish>06:00PM</finish>
+    <title>Sempre a Tempo</title>
+    <desc>O novo formato da RTP2, \&quot;Sempre a Tempo\&quot;, ? um programa com uma premissa diferente para esta faixa hor?ria. Com teor misto de entretenimento e de divulga??o cultural, tem como intuito apresentar, de forma leve, conte?dos diversificados.</desc>
+    <image>https://mage.stream.nos.pt/v1/nostv_mage/Images?sourceUri=http%3A%2F%2Fvip.pam.local.internal%2FPAM.Images%2FStore%2F3ec53ac4a9e5485482dcb08f48ac09aa</image>
+    <start>06:00PM</start>
+    <finish>07:00PM</finish>
     <date>21 October 2025</date>
   </channel>
   <channel>
@@ -385,11 +375,11 @@
   <channel>
     <name>S4C UK</name>
     <id>S4C.uk</id>
-    <title>Mwy o Stwnsh Sadwrn</title>
-    <desc>Cipolwg yn ?l dros rai o uchafbwyntiau dydd Sadwrn ac ambell pei Stwnsh! Tune in to relive some of the Highlights of Saturday's programme.</desc>
-    <image>https://images.metadata.sky.com/pd-image/731f1203-1443-4b37-9efe-cf250480e419/16-9</image>
-    <start>05:35PM</start>
-    <finish>06:00PM</finish>
+    <title>Bois y Pizza</title>
+    <desc>Mae Bois y Pizza ar fin cyrraedd gwinllannoedd Bordeaux cyn gweini pizzas i griw'r clwb rygbi yn nhref Agen. The Pizza Boys reach the vineyards of Bordeaux and feed some rugby players.</desc>
+    <image>https://images.metadata.sky.com/pd-image/3a5c7f65-bd35-4fe5-8525-26265995db55/16-9</image>
+    <start>06:00PM</start>
+    <finish>06:30PM</finish>
     <date>21 October 2025</date>
   </channel>
   <channel>
@@ -397,9 +387,9 @@
     <id>SkyNews.uk</id>
     <title>The News Hour With Mark Austin</title>
     <desc>A comprehensive round-up of the day's biggest news stories, including analysis and insight from Sky News correspondents.</desc>
-    <image>https://images.metadata.sky.com/pd-image/82f180e3-10a4-4873-8db7-f7c00e36e7f9/16-9</image>
-    <start>05:30PM</start>
-    <finish>06:00PM</finish>
+    <image>https://images.metadata.sky.com/pd-image/750942c8-9401-4cf6-8ba4-eb23d5776b7e/16-9</image>
+    <start>06:00PM</start>
+    <finish>06:30PM</finish>
     <date>21 October 2025</date>
   </channel>
   <channel>
@@ -407,19 +397,19 @@
     <id>TG4.ie</id>
     <title>This is TG4 HD</title>
     <desc>This is TG4 HD.</desc>
-    <image>https://images.metadata.sky.com/pd-image/088d0223-e62d-4b47-a7c3-ac0e89c78fd2/16-9</image>
-    <start>05:30PM</start>
-    <finish>06:00PM</finish>
+    <image>https://images.metadata.sky.com/pd-image/89d16adc-b102-4da0-b929-47d57719c1c4/16-9</image>
+    <start>06:00PM</start>
+    <finish>06:30PM</finish>
     <date>21 October 2025</date>
   </channel>
   <channel>
     <name>TV 5 Monde F-Be-Ch Fr</name>
     <id>TV5Monde.fr</id>
-    <title>64' le monde en fran?ais - 2e partie</title>
-    <desc>Grande ?dition internationale en langue fran?aise, cette ?mission met l'accent sur l'actualit? mondiale, l'actualit? francophone, culturelle, politique, ?conomique, sociale, et soci?tale.</desc>
-    <image>http://dshm.tmsimg.com/assets/p21863386_b_h10_aa.jpg</image>
-    <start>05:30PM</start>
-    <finish>05:54PM</finish>
+    <title>Tout le monde veut prendre sa place</title>
+    <desc>Un quiz, six candidats, et un champion que tout le monde veut d?tr?ner. Chaque jour, un seul d'entre eux pourra se mesurer ? lui et esp?rer devenir le nouveau champion.</desc>
+    <image>http://dshm.tmsimg.com/assets/p28973275_b_h10_aa.jpg</image>
+    <start>06:05PM</start>
+    <finish>07:00PM</finish>
     <date>21 October 2025</date>
   </channel>
   <channel>
@@ -435,11 +425,11 @@
   <channel>
     <name>Vosges TV Fr</name>
     <id>ViaVosges.fr</id>
-    <title>JOURNAL - M?T?O ? FILMS A L?AFFICHE ? LA TERRE VUE DU SPORT ? L?ATELIER DU JARDIN</title>
-    <desc>Retrouvez votre journal du lundi au vendredi ? partir de 18h, en continu jusqu'? 19h, puis ? 20h30, 22h30, et le lendemain de 5h ? 10h.</desc>
+    <title>CA NOUS REGARDE</title>
+    <desc>Pas de description disponible.</desc>
     <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
-    <start>05:00PM</start>
-    <finish>06:00PM</finish>
+    <start>06:00PM</start>
+    <finish>06:30PM</finish>
     <date>21 October 2025</date>
   </channel>
 </tv>
