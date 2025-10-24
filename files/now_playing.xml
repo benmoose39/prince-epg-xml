@@ -24,20 +24,20 @@
     <name>AB1 FR</name>
     <id>AB1.fr</id>
     <title>Sous le soleil</title>
-    <desc>Louis attend Claudia, qui revient des Etats-Unis. Mais Alexandra, qui a rencontr? Claudia, vient lui apporter une lettre myst?rieuse. Gr?ce ? Jeanne, Valentine se r?concilie avec Alain. Il la nomme ? la t?te d'un journal du groupe de presse qu'il a rachet?..</desc>
-    <image>https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/filters:quality({imageQualityPercentage})/img-hapi.canalplus.pro:80/ServiceImage/ImageID/52903753</image>
-    <start>07:30AM</start>
-    <finish>08:25AM</finish>
+    <desc>Depuis qu'Arthur, le fils d'Eric, s'est install? chez Blandine, l'ambiance est plut?t tendue. A l'inverse, la cohabitation entre Baptiste et Jessica fonctionne parfaitement et ils ne se quittent plus..</desc>
+    <image>https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/filters:quality({imageQualityPercentage})/img-hapi.canalplus.pro:80/ServiceImage/ImageID/52903755</image>
+    <start>08:25AM</start>
+    <finish>09:25AM</finish>
     <date>24 October 2025</date>
   </channel>
   <channel>
     <name>ABC AU</name>
     <id>ABC.au</id>
-    <title>QI</title>
-    <desc>Stephen Fry presents a killer edition of the quiz about quite interesting facts. Guest panellists include Alan Davies, Jason Manford, Trevor Noah and Sandi Toksvig.</desc>
-    <image>https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/81/70/34/817034_p278662_b_h9_ab_360.jpg</image>
-    <start>07:59AM</start>
-    <finish>08:29AM</finish>
+    <title>Hard Quiz</title>
+    <desc>Pit your wits against Tom Gleeson in Australia's smartest comedy. Our eclectic experts are into origami, Fawlty Towers, Eleanor of Aquitaine, and the Mountain pygmy-possum - but do they know it all, or are they know-it-alls?</desc>
+    <image>https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/76/24/75/762475_p13417474_b_h9_ab_360.jpg</image>
+    <start>08:29AM</start>
+    <finish>09:00AM</finish>
     <date>24 October 2025</date>
   </channel>
   <channel>
@@ -71,6 +71,36 @@
     <date>24 October 2025</date>
   </channel>
   <channel>
+    <name>ABC Comedy AU</name>
+    <id>ABCComedy.au</id>
+    <title>ABC Kids Programs Resume At 4am</title>
+    <desc>ABC Kids programs resume at 4.00am.</desc>
+    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
+    <start>05:57PM</start>
+    <finish>09:30AM</finish>
+    <date>23 October 2025</date>
+  </channel>
+  <channel>
+    <name>ABC Comedy AU</name>
+    <id>ABCComedy.au</id>
+    <title>Phil Spencer: Secret Agent</title>
+    <desc>Phil is tasked with helping Victoria and Michael shift the grand Victorian house they've called home for the past 30 years. The property is wearing them out but the trouble is, the interior is as tired as they are.</desc>
+    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
+    <start>08:17AM</start>
+    <finish>09:05AM</finish>
+    <date>24 October 2025</date>
+  </channel>
+  <channel>
+    <name>ABC Comedy AU</name>
+    <id>ABCComedy.au</id>
+    <title>Ben And Holly's Little Kingdom</title>
+    <desc>A magical card arrives in the Little Kingdom, inviting everyone to a party at Granny and Granpapa Thistle's castle. The party is full of wonderful surprises and Granpapa shows everyone his funny hobbies.</desc>
+    <image>https://www.abc.net.au/tv/common/images/publicity/ZX9371A032S00_460.jpg</image>
+    <start>08:47AM</start>
+    <finish>09:00AM</finish>
+    <date>24 October 2025</date>
+  </channel>
+  <channel>
     <name>ABC ME AU</name>
     <id>ABCME.au</id>
     <title>Phil Spencer: Secret Agent</title>
@@ -93,31 +123,31 @@
   <channel>
     <name>ABP Ananda IN</name>
     <id>ABPAnanda.in</id>
-    <title>Barotar Breaking</title>
-    <desc>The host presents the latest news updates and significant developments pertaining to various pressing issues across the country.</desc>
-    <image>http://dshm.tmsimg.com/assets/p26463839_b_h8_aa.jpg</image>
-    <start>08:10AM</start>
-    <finish>08:30AM</finish>
+    <title>Ground Zero</title>
+    <desc>The host presents information about the social, economic and political issues of the day and provides updates on current events.</desc>
+    <image>http://dshm.tmsimg.com/assets/p29734234_b_h8_aa.jpg</image>
+    <start>08:30AM</start>
+    <finish>09:00AM</finish>
     <date>24 October 2025</date>
   </channel>
   <channel>
     <name>ABP Asmita IN</name>
     <id>ABPAsmita.in</id>
-    <title>Samachar Shatak</title>
-    <desc>The host delivers timely updates and in-depth analysis on current events, covering a wide range of topics, including politics, economy and social issues.</desc>
-    <image>http://dshm.tmsimg.com/assets/p22893360_b_h10_aa.jpg</image>
-    <start>08:00AM</start>
-    <finish>08:30AM</finish>
+    <title>Asmita News</title>
+    <desc>The host provides in-depth insights into the latest news, current affairs and developments of national significance on a range of topics.</desc>
+    <image>http://dshm.tmsimg.com/assets/p22893523_b_h8_aa.jpg</image>
+    <start>08:30AM</start>
+    <finish>09:00AM</finish>
     <date>24 October 2025</date>
   </channel>
   <channel>
     <name>ABP Majha IN</name>
     <id>ABPMajha.in</id>
-    <title>Duparchya Batamya</title>
-    <desc>The host presents information about the social, economic and political issues of the day and provides updates on current events.</desc>
-    <image>http://dshm.tmsimg.com/assets/p29203642_b_h8_aa.jpg</image>
-    <start>07:58AM</start>
-    <finish>08:28AM</finish>
+    <title>Top 25</title>
+    <desc>The host presents the latest headlines about the social, economic and political issues of the day and provides updates on current events.</desc>
+    <image>http://dshm.tmsimg.com/assets/p26464669_b_h8_aa.jpg</image>
+    <start>08:35AM</start>
+    <finish>08:50AM</finish>
     <date>24 October 2025</date>
   </channel>
   <channel>
@@ -126,8 +156,8 @@
     <title>Khabar Din Bhar</title>
     <desc>The latest updates on major events in social issues, politics, business, science, entertainment and sports.</desc>
     <image>http://dshm.tmsimg.com/assets/p253167_b_h10_aa.jpg</image>
-    <start>08:00AM</start>
-    <finish>08:30AM</finish>
+    <start>08:30AM</start>
+    <finish>09:00AM</finish>
     <date>24 October 2025</date>
   </channel>
   <channel>
@@ -136,8 +166,8 @@
     <title>Aajtak News</title>
     <desc></desc>
     <image>http://dshm.tmsimg.com/assets/p18326061_b_h8_aa.jpg</image>
-    <start>08:00AM</start>
-    <finish>08:30AM</finish>
+    <start>08:30AM</start>
+    <finish>09:00AM</finish>
     <date>24 October 2025</date>
   </channel>
   <channel>
@@ -153,11 +183,11 @@
   <channel>
     <name>Adult Swim CA</name>
     <id>AdultSwim.ca</id>
-    <title>American Dad!</title>
-    <desc>Francine supports Stan's long-suppressed love of competitive figure skating until he ditches her for a new partner.</desc>
-    <image>http://dshm.tmsimg.com/assets/p185040_b_h8_aw.jpg</image>
-    <start>08:00AM</start>
-    <finish>08:30AM</finish>
+    <title>Rick and Morty</title>
+    <desc>Rick hires an Observer to verify Morty's homemade punch cards, but the cosmic all-seeing entity won't stop playing clips from their lives out of spite.</desc>
+    <image>http://dshm.tmsimg.com/assets/p10376284_b_h8_ac.jpg</image>
+    <start>08:30AM</start>
+    <finish>09:00AM</finish>
     <date>24 October 2025</date>
   </channel>
   <channel>
@@ -213,11 +243,11 @@
   <channel>
     <name>Arirang World KR</name>
     <id>ArirangWorld.kr</id>
-    <title>NEWS SPECIAL</title>
-    <desc>No description available.</desc>
-    <image>https://img.arirang.com/v1/AUTH_d52449c16d3b4bbca17d4fffd9fc44af/public/images/202509/3215720903753073508.jpg</image>
-    <start>08:00AM</start>
-    <finish>08:30AM</finish>
+    <title>RPG</title>
+    <desc>What is it like to love in Korea?  Where do people usually go on dates, and what makes K-romance unique? (Romantic Path Guide) is a reality dating show where a foreign participant experiences love and dating in Korea while exploring its iconic landmarks. With fun missions to complete, encounters to discover, and moments to share, it?s a journey that feels just like playing an  ? only this time, in real life. A mix of travel, culture, and romance. Step into the adventure and discover the path to love in Korea!</desc>
+    <image>https://img.arirang.com/v1/AUTH_d52449c16d3b4bbca17d4fffd9fc44af/public/images/202510/3245202681635013476.jpg</image>
+    <start>08:30AM</start>
+    <finish>08:50AM</finish>
     <date>24 October 2025</date>
   </channel>
   <channel>
@@ -353,11 +383,11 @@
   <channel>
     <name>CBBC UK</name>
     <id>CBBC.uk</id>
-    <title>SpongeBob SquarePants</title>
-    <desc>SpongeBob helps out the Krusty Krab's night shift.</desc>
-    <image>https://img.freeviewplay.tv/pf53131582ffc8ddedb3702f5028e2a6f</image>
-    <start>08:10AM</start>
-    <finish>08:25AM</finish>
+    <title>The Strange Chores</title>
+    <desc>Que volunteers Helsing?s house for a sleepover with the popular girls at school - but how long can she keep her weirdness in check.</desc>
+    <image>https://img.freeviewplay.tv/p1a7879d623be5e2f595020aa18fb2b43</image>
+    <start>08:40AM</start>
+    <finish>08:50AM</finish>
     <date>24 October 2025</date>
   </channel>
   <channel>
@@ -393,61 +423,61 @@
   <channel>
     <name>CBC Vancouver CA</name>
     <id>CBUT.ca</id>
-    <title>Coronation Street</title>
-    <desc>Todd orders Theo to pack his bags, and Abi accuses Kevin of sabotaging a job opportunity.</desc>
-    <image>https://tv.bell.ca/api/artwork/v3/artworks/artworkSelection/ASSET/TMS/EP000010669273/THUMBNAIL/500x373</image>
-    <start>08:00AM</start>
-    <finish>08:30AM</finish>
+    <title>My Mum, Your Dad</title>
+    <desc>Davina tasks the grown-up kids with helping their parents during a workshop; With emotions at an all-time high in the retreat, the parents open up on their journeys so far; difficult conversations are had.</desc>
+    <image>https://tv.bell.ca/api/artwork/v3/artworks/artworkSelection/ASSET/TMS/EP050422320010/THUMBNAIL/500x373</image>
+    <start>08:30AM</start>
+    <finish>09:30AM</finish>
     <date>24 October 2025</date>
   </channel>
   <channel>
     <name>CBeebies UK</name>
     <id>CBeebies.uk</id>
-    <title>Alphablocks</title>
-    <desc>Lips. The adventures of 26 lively letters who can make words come to life by holding hands. It's bedtime for A, E, I, O and U, but there's no getting them to snuggle down.</desc>
-    <image>https://images.metadata.sky.com/pd-image/4a9a5a98-8323-4dfd-8c38-acc498c78638/16-9</image>
-    <start>08:20AM</start>
-    <finish>08:25AM</finish>
+    <title>Justin's House</title>
+    <desc>The Justinosaurus. Justin Fletcher entertains with singing, dancing and comedy. Justin decides to dig up a dinosaur and turn Justin's House into a dinosaur museum.</desc>
+    <image>https://images.metadata.sky.com/pd-image/be9e2be2-9595-4272-8e1c-efd7a8c8eb8b/16-9</image>
+    <start>08:35AM</start>
+    <finish>09:00AM</finish>
     <date>24 October 2025</date>
   </channel>
   <channel>
     <name>CBC Yellowknife CA</name>
     <id>CFYK.ca</id>
-    <title>My Mum, Your Dad</title>
-    <desc>Davina tasks the grown-up kids with helping their parents during a workshop; With emotions at an all-time high in the retreat, the parents open up on their journeys so far; difficult conversations are had.</desc>
-    <image>http://dshm.tmsimg.com/assets/p25547266_b_h8_ac.jpg</image>
-    <start>07:30AM</start>
-    <finish>08:30AM</finish>
+    <title>Dragons' Den</title>
+    <desc>A company hopes to be worth its weight in Dragon gold; an entrepreneur who's not worried about breaking a sweat; a fitness instructor looks to stick the landing; a trio aims to set sail on a deal.</desc>
+    <image>http://dshm.tmsimg.com/assets/p191605_b_h8_ad.jpg</image>
+    <start>08:30AM</start>
+    <finish>09:30AM</finish>
     <date>24 October 2025</date>
   </channel>
   <channel>
     <name>CGNTV KR</name>
     <id>CGNTV.kr</id>
-    <title>??? ??? ???? ??</title>
+    <title>??? ??</title>
     <desc></desc>
     <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
-    <start>08:00AM</start>
-    <finish>08:40AM</finish>
+    <start>08:40AM</start>
+    <finish>08:50AM</finish>
     <date>24 October 2025</date>
   </channel>
   <channel>
     <name>CGTN-Documentary En CN</name>
     <id>CGTNDocu.cn</id>
-    <title>Youthful China</title>
-    <desc>The youth of a country is the future of that country. A series of documentaries focusing on the younger generation of China in which you get to see what they are achieving and what makes them tick!</desc>
-    <image>https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/74/54/44/745444_p23386195_b_h9_aa_360.jpg</image>
-    <start>08:00AM</start>
-    <finish>08:30AM</finish>
+    <title>Pixel Collage</title>
+    <desc>A well-crafted collage of selected short documentaries telling stories about all aspects of China! People, technology, culture, and wildlife, all are showcased in Internet-friendly form.</desc>
+    <image>https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/74/54/50/745450_p23815567_b_h9_aa_360.jpg</image>
+    <start>08:30AM</start>
+    <finish>09:00AM</finish>
     <date>24 October 2025</date>
   </channel>
   <channel>
     <name>CGTN French CN</name>
     <id>CGTNFrench.cn</id>
-    <title>Le journal</title>
+    <title>Dok Dok</title>
     <desc></desc>
     <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
-    <start>08:00AM</start>
-    <finish>08:30AM</finish>
+    <start>08:30AM</start>
+    <finish>09:00AM</finish>
     <date>24 October 2025</date>
   </channel>
   <channel>
@@ -463,11 +493,11 @@
   <channel>
     <name>CNBC Awaaz IN</name>
     <id>CNBCAwaaz.in</id>
-    <title>Saas, Bahu Aur Sensex</title>
-    <desc>The host invites professional analysts to discuss the latest stock market updates and trends, with a focus on investment opportunities for women traders.</desc>
-    <image>http://dshm.tmsimg.com/assets/p29118029_b_h8_ab.jpg</image>
-    <start>07:57AM</start>
-    <finish>08:27AM</finish>
+    <title>Midcap Mantra</title>
+    <desc>The host presents the latest business trends and updates pertaining to mid-cap companies and interacts with experts for their opinions.</desc>
+    <image>http://dshm.tmsimg.com/assets/p29118006_b_h8_aa.jpg</image>
+    <start>08:27AM</start>
+    <finish>08:57AM</finish>
     <date>24 October 2025</date>
   </channel>
   <channel>
@@ -544,20 +574,20 @@
     <name>Cooking Channel US</name>
     <id>CookingChannel.us</id>
     <title>Bizarre Foods: Delicious Destinations</title>
-    <desc>Andrew explores Charlotte, N.C., a city where big banking meets blue-collar traditions; featuring barbecue, livermush, fried green tomatoes and other eats that are oozing Southern charm.</desc>
+    <desc>Edible icons like smoked salmon, soda bread and stew to boxty, black pudding and Guinness in Ireland.</desc>
     <image>http://dshm.tmsimg.com/assets/p11177369_b_h10_ac.jpg</image>
-    <start>08:00AM</start>
-    <finish>08:30AM</finish>
+    <start>08:30AM</start>
+    <finish>09:00AM</finish>
     <date>24 October 2025</date>
   </channel>
   <channel>
     <name>DD News IN</name>
     <id>DDNews.in</id>
-    <title>Express 100</title>
-    <desc>Presents the latest breaking news and updates on various trending topics.</desc>
-    <image>http://dshm.tmsimg.com/assets/p26195734_b_h8_aa.jpg</image>
-    <start>08:00AM</start>
-    <finish>08:30AM</finish>
+    <title>Mid Day Prime</title>
+    <desc>A comprehensive news update from all over India and discussions on matters of concern.</desc>
+    <image>http://dshm.tmsimg.com/assets/p16664488_b_h8_ab.jpg</image>
+    <start>08:30AM</start>
+    <finish>09:30AM</finish>
     <date>24 October 2025</date>
   </channel>
   <channel>
@@ -583,41 +613,41 @@
   <channel>
     <name>EBS KR</name>
     <id>EBS.kr</id>
-    <title>????</title>
+    <title>???? ??</title>
     <desc></desc>
     <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
-    <start>08:15AM</start>
-    <finish>08:30AM</finish>
+    <start>08:30AM</start>
+    <finish>09:00AM</finish>
     <date>24 October 2025</date>
   </channel>
   <channel>
     <name>EWTN UK</name>
     <id>EWTN.uk</id>
-    <title>St. luke's gospel</title>
-    <desc>Scripture Scholar Frances Hogan analyzes the parables Christ taught his disciples, and in particular, how St. Luke's telling of The Good Samaritan revealed ho.</desc>
-    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
-    <start>08:00AM</start>
-    <finish>08:30AM</finish>
+    <title>Savouring Our Faith</title>
+    <desc>We all know the story of Fatima, where three young visionaries reported apparitions that were seen by tens of thousands.</desc>
+    <image>https://static.epg.best/img/news-and-documentary.jpg</image>
+    <start>08:30AM</start>
+    <finish>09:00AM</finish>
     <date>24 October 2025</date>
   </channel>
   <channel>
     <name>EWTN ZA</name>
     <id>EWTNAfricaAsia.za</id>
-    <title>&lt;span Class=&quot; Theme Emphasis&quot;&gt;new!&lt;/span&gt; Ewtn Pro Life Weekly</title>
-    <desc>EWTN Pro-Life Weekly is a half-hour news and commentary program that covers life issues including abortion, assisted suicide, in vitro fertilization, highlighting the mercy of a culture of life, from a Catholic perspective. This program features interviews, analysis, and actionable steps for viewers to defend the dignity of every human person from conception to natural death. Hosted by Abigail Galv?n. (30 minutes).</desc>
+    <title>Ewtn Great Britain On Location</title>
+    <desc>Brenden Thompson, CEO of Catholic Voices, shares how his organization works to improve the Church's representation in media and give Catholics confidence to share the Church's message. (30 minutes).</desc>
     <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
-    <start>08:00AM</start>
-    <finish>08:30AM</finish>
+    <start>08:30AM</start>
+    <finish>09:00AM</finish>
     <date>24 October 2025</date>
   </channel>
   <channel>
     <name>EXPO AU</name>
     <id>EXPO.au</id>
-    <title>Pocket Hose Copper Bullet</title>
-    <desc>Pocket Hose Copper Bullet - The Best Self-Expanding, Pocket Hose In The World. Turn On Water And Copper Bullet Expands Up To 3 Times Its Original Length, Then Shrinks Back To Its Original Compact Length When The Water Is Turned Off.</desc>
+    <title>5 Minute CleverChef</title>
+    <desc>The Fast, Fuss-Free Way To Cook Homemade Meals, Snacks &amp; Desserts In Minutes. Dual-Sided Oval Cooking Plates Heat From Both Sides For Perfectly Cooked Results, No Flipping Needed. Perfect For Omelettes, Burgers, Pancakes &amp; More.</desc>
     <image>https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/73/19/05/731905_p15272168_b_h9_aa_360.jpg</image>
-    <start>08:00AM</start>
-    <finish>08:30AM</finish>
+    <start>08:30AM</start>
+    <finish>09:00AM</finish>
     <date>24 October 2025</date>
   </channel>
   <channel>
@@ -625,19 +655,19 @@
     <id>EuroNews.uk</id>
     <title>Wake Up Europe</title>
     <desc>Live headlines, breaking news, analysis and interviews from Europe's News Centre.</desc>
-    <image>https://images.metadata.sky.com/pd-image/59557f0d-0b99-4cf4-b8c4-8f203cf7a13c/16-9</image>
-    <start>08:15AM</start>
-    <finish>08:30AM</finish>
+    <image>https://images.metadata.sky.com/pd-image/196cbd7a-b013-418b-9e85-56f11e3d1c12/16-9</image>
+    <start>08:30AM</start>
+    <finish>09:00AM</finish>
     <date>24 October 2025</date>
   </channel>
   <channel>
     <name>Euronews FR</name>
     <id>Euronews.fr</id>
-    <title>Wake Up Europe</title>
-    <desc>Live headlines,breaking news, analysis and interviews from Europe's News Centre.</desc>
-    <image>https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/filters:quality({imageQualityPercentage})/img-hapi.canalplus.pro:80/ServiceImage/ImageID/100783477</image>
-    <start>08:15AM</start>
-    <finish>08:30AM</finish>
+    <title>News</title>
+    <desc>L'info internationale toutes les 15 minutes de 5h00 ? 10h00 CET et toutes les demi-heures le reste de la journ?e. euronews: un regard diff?rent sur l'actualit?.</desc>
+    <image>https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/filters:quality({imageQualityPercentage})/img-hapi.canalplus.pro:80/ServiceImage/ImageID/102730470</image>
+    <start>08:45AM</start>
+    <finish>09:00AM</finish>
     <date>24 October 2025</date>
   </channel>
   <channel>
@@ -656,18 +686,18 @@
     <title>FOX SPORTS News</title>
     <desc>The latest highlights, reaction and analysis of the biggest sport stories from Australia and around the world.</desc>
     <image>https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/71/21/60/712160_p10976034_b_h3_aa.jpg</image>
-    <start>08:00AM</start>
-    <finish>08:30AM</finish>
+    <start>08:30AM</start>
+    <finish>09:00AM</finish>
     <date>24 October 2025</date>
   </channel>
   <channel>
     <name>France 24 Fr</name>
     <id>France24.fr</id>
-    <title>Aux avant-postes</title>
-    <desc>Dans un monde en plein bouleversement, Ali La?di est aux avant-postes pour d?crypter avec ses invit?s les coulisses des conflits ?conomiques, g?opolitiques et culturels.</desc>
-    <image>https://staticqbr-prod-ch.gnp.cloud.sunrisetv.ch/image-service/ImagesEPG/EventImages/p30935154_bd_h8_aa.jpg</image>
-    <start>08:15AM</start>
-    <finish>08:45AM</finish>
+    <title>Bon pied, bonheur !</title>
+    <desc>Un magazine autour de la notion du bonheur et du bien-?tre sous toutes ses formes. Les acteurs de la vie sociale, culturelle et ?conomique, les professionnels de l'enfance et de la famille, nous livrent leur exp?rience avec leurs conseils.</desc>
+    <image>https://staticqbr-prod-ch.gnp.cloud.sunrisetv.ch/image-service/ImagesEPG/EventImages/p16713643_bd_h8_ab.jpg</image>
+    <start>08:45AM</start>
+    <finish>08:51AM</finish>
     <date>24 October 2025</date>
   </channel>
   <channel>
@@ -713,11 +743,11 @@
   <channel>
     <name>Hír TV</name>
     <id>HirTV.hu</id>
-    <title>Napind?t? +</title>
-    <desc>A m?sorban ?letviteli tan?csok ?s a nagyk?z?ns?g sz?m?ra ?rdekes inform?ci?val rendelkez? megh?vott vend?gek szerepelnek.</desc>
+    <title>Radar +</title>
+    <desc>A m?sor izgalmas t?m?kkal ?s megk?zel?t?ssel pr?b?l a h?tk?znapi embereknek seg?teni olyan probl?m?k felt?r?s?val ?s megold?s?val amely a nagyk?z?ns?get ?rinti. A m?sor h?zigazd?i Budai Ivett ?s Eper M?rton.</desc>
     <image>https://static.epg.best/img/hirmusor.jpg</image>
-    <start>08:00AM</start>
-    <finish>08:30AM</finish>
+    <start>08:30AM</start>
+    <finish>09:00AM</finish>
     <date>24 October 2025</date>
   </channel>
   <channel>
@@ -743,11 +773,11 @@
   <channel>
     <name>Kuriakos Tv PT</name>
     <id>KuriakosTv.pt</id>
-    <title>Informa??o Ao Minuto</title>
-    <desc>Programa informativo, cedido pela TV Man? 1, que pretende dar a conhecer os acontecimentos que marcam a atualidade.</desc>
-    <image>https://mage.stream.nos.pt/v1/nostv_mage/Images?sourceUri=http%3A%2F%2Fvip.pam.local.internal%2FPAM.Images%2FStore%2F634a57276178413ab50432f449d25e94</image>
-    <start>08:00AM</start>
-    <finish>08:30AM</finish>
+    <title>Superbook</title>
+    <desc>Christopher Peeper descobre uma b?blia m?gica chamada de \&quot;Superlivro\&quot; enquanto estava encarregue de organizar os livros de seu pai. O Superlivro fala com ele e envia-o, juntamente de Joy e Gizmo, de volta at? aos primeiros eventos do Antigo Testamento.</desc>
+    <image>https://mage.stream.nos.pt/v1/nostv_mage/Images?sourceUri=http%3A%2F%2Fvip.pam.local.internal%2FPAM.Images%2FStore%2Fb7fc6c78ad184158871a4ed52990fc13</image>
+    <start>08:30AM</start>
+    <finish>09:00AM</finish>
     <date>24 October 2025</date>
   </channel>
   <channel>
@@ -773,11 +803,11 @@
   <channel>
     <name>La Otra ES</name>
     <id>LaOtra.es</id>
-    <title>?rase una vez... los exploradores</title>
-    <desc>Los conocidos personajes de ''Erase una vez el hombre'' acompa?an a exploradores famosos.</desc>
-    <image>https://www.movistarplus.es/recorte/n/caratulaH/MOTRAP533830</image>
-    <start>08:00AM</start>
-    <finish>08:30AM</finish>
+    <title>Deporte adaptado</title>
+    <desc>El deporte adaptado es todo aquel que se amolda al colectivo de personas con discapacidad o condici?n especial de salud. Por lo general, se realizan una serie de modificaciones en las normas para facilitar la pr?ctica.</desc>
+    <image>https://www.movistarplus.es/recorte/n/caratulaH/MOTRAP1473747</image>
+    <start>08:30AM</start>
+    <finish>09:55AM</finish>
     <date>24 October 2025</date>
   </channel>
   <channel>
@@ -843,13 +873,13 @@
   <channel>
     <name>Mama RU</name>
     <id>Mama.ru</id>
-    <title>????? ???????. ??????????</title>
+    <title>????? ???????</title>
     <desc>?????????? ??? ????? ????????? ???????????? ????????? ?????????? ???? ????????????? ????????, ?????? ???????????????? ?????????????? ?????? ????????.
 ?????? ???? ????????? ?????? ???????? ??????? ????? ???????? ?????? ?????????? ????? ????????? ??? ???? ???. ????? ?????? ?????????????? ??????? ??? ???????????????? ???????????? ??? ???????? ?????????? ????????????? ??????? ????? ??????????????? ??????? ??????????????? ??????? ????? ??????. ???????? ?????????? ?????? ???????? ?????????, ?????? ??? ????? ????????? ??????? ????????? ??????????. ??????????? ????????? ????????? ???? ??? ?????????? ??? ?????????. ????? ????????? ????? ??????? ????? ???????? ????? ?????, ?????, ?????, ?????, ?????, ???? ??????? ????????????! 
 ??? ????????? ????????????? ????? ?????? ???????? ?????????? ??????????? ?????????????? ??? ????? ???3-? ???, ????????? ??????? ?????????? ??????????? ????.</desc>
     <image>https://tlum.ru/uploads/1f51770a50b82d2d75e31ed2be2fdd6484c92c230403fff9da8065802a211687.jpeg</image>
-    <start>07:10AM</start>
-    <finish>08:30AM</finish>
+    <start>08:30AM</start>
+    <finish>09:00AM</finish>
     <date>24 October 2025</date>
   </channel>
   <channel>
@@ -868,8 +898,8 @@
     <title>Newsline</title>
     <desc></desc>
     <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
-    <start>08:05AM</start>
-    <finish>08:25AM</finish>
+    <start>08:30AM</start>
+    <finish>08:55AM</finish>
     <date>24 October 2025</date>
   </channel>
   <channel>
@@ -895,11 +925,11 @@
   <channel>
     <name>NTV7 MY</name>
     <id>NTV7.my</id>
-    <title>Tahap I</title>
+    <title>Tahap II</title>
     <desc>No description available.</desc>
     <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
-    <start>08:00AM</start>
-    <finish>08:30AM</finish>
+    <start>08:30AM</start>
+    <finish>09:00AM</finish>
     <date>24 October 2025</date>
   </channel>
   <channel>
@@ -926,40 +956,40 @@
     <name>Nick Jr UK</name>
     <id>NickJunior.uk</id>
     <title>Peppa Pig</title>
-    <desc>Madame Gazelle is making a wicker basket. She explains it is a hobby - something you do to relax. The children discuss hobbies and learn about each other's favourite things to do.</desc>
-    <image>https://images.metadata.sky.com/pd-image/057b05fe-2ce1-431a-ae09-58ba53b5774d/16-9</image>
-    <start>08:20AM</start>
-    <finish>08:30AM</finish>
+    <desc>Granny Sheep is driving Vanessa, the art van along the road with Peppa, Suzy, Pedro, Mandy, Molly and Danny. They are taking her to the boat yard, for her first-ever outing.</desc>
+    <image>https://images.metadata.sky.com/pd-image/3ac46fd4-beef-4cd4-9afc-682ff4860380/16-9</image>
+    <start>08:45AM</start>
+    <finish>08:50AM</finish>
     <date>24 October 2025</date>
   </channel>
   <channel>
     <name>Nickelodeon RO</name>
     <id>Nickelodeon.ro</id>
-    <title>Casa Loud</title>
-    <desc>Lincoln Loud este un b?ie?el de 11 ani care tr?ie?te ?mpreun? cu cele 10 surori ale lui. Cu ajutorul m?inii lui drepte, Clyde, Lincoln g?se?te de fiecare dat? noi metode de a rezista ?n fiecare zi ?ntr-o familie at?t de numeroas?.</desc>
-    <image>https://static.cinemagia.ro/img/db/movie/96/66/29/the-loud-house-452115l.jpg</image>
-    <start>07:55AM</start>
-    <finish>08:25AM</finish>
+    <title>Ceata S?lbatic? a Familiei Wylde Pak</title>
+    <desc></desc>
+    <image>https://static.cinemagia.ro/img/db/actor/28/96/38/jee-young-han-624682l.jpg</image>
+    <start>08:25AM</start>
+    <finish>08:55AM</finish>
     <date>24 October 2025</date>
   </channel>
   <channel>
     <name>TVNZ 1 NZ</name>
     <id>One.nz</id>
-    <title>The Repair Shop</title>
-    <desc>Nestled deep in the British countryside, The Repair Shop is a place where battered, broken but beloved artefacts are brought back to life.</desc>
+    <title>Chateau DIY</title>
+    <desc>Bad weather threatens a wedding as Tim and Sasha are forced to find a contingency plan to salvage a big day. Tim and Krys race to get their cookery school across the finish line.</desc>
     <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
-    <start>07:30AM</start>
-    <finish>08:25AM</finish>
+    <start>08:25AM</start>
+    <finish>09:20AM</finish>
     <date>24 October 2025</date>
   </channel>
   <channel>
     <name>PTC Punjabi UK</name>
     <id>PTCPunjabi.uk</id>
-    <title>Gurmat Gyan</title>
-    <desc>Katha by Gyani Pinderpal ji.</desc>
-    <image>https://images.metadata.sky.com/pd-image/fb27a867-1337-440b-8cce-217fc4eeecf0/16-9</image>
-    <start>08:00AM</start>
-    <finish>08:30AM</finish>
+    <title>News Bulletin</title>
+    <desc>A medium which will keep you connected to your roots. It's dedicated to the soul and heritage of Punjab offering authentic updates on current events, news, happenings and a lot more.</desc>
+    <image>https://images.metadata.sky.com/pd-image/a4c1c6a5-7ddf-462c-8f92-9b1d755c7f89/16-9</image>
+    <start>08:30AM</start>
+    <finish>09:00AM</finish>
     <date>24 October 2025</date>
   </channel>
   <channel>
@@ -1015,11 +1045,11 @@
   <channel>
     <name>RDI News CA</name>
     <id>RDINews.ca</id>
-    <title>Le t?l?journal avec C?line Galipeau</title>
-    <desc>Un regard approfondi sur les sujets de l'heure, au pays comme ? l'international, et sur les grands enjeux auxquels la soci?t? est confront?e.</desc>
-    <image>http://dshm.tmsimg.com/assets/p18317041_b_h10_aa.jpg</image>
-    <start>07:30AM</start>
-    <finish>08:30AM</finish>
+    <title>Le national</title>
+    <desc>Un tour d'horizon des dossiers qui retiennent l'attention dans toutes les r?gions du pays.</desc>
+    <image>http://dshm.tmsimg.com/assets/p23637269_b_h8_aa.jpg</image>
+    <start>08:30AM</start>
+    <finish>09:00AM</finish>
     <date>24 October 2025</date>
   </channel>
   <channel>
@@ -1088,18 +1118,18 @@
     <title>Bom Dia Portugal</title>
     <desc>Porque ? de manh? que se come?a o dia, ent?o inicie-o na nossa companhia! Todos os dias, o ?Bom dia Portugal? dedica espa?os espec?ficos ?s not?cias da atualidade nacional e internacional, desporto, meteorologia, tr?nsito e economia.</desc>
     <image>https://mage.stream.nos.pt/v1/nostv_mage/Images?sourceUri=http%3A%2F%2Fvip.pam.local.internal%2FPAM.Images%2FStore%2Fbcda226bd11c4f1ab2825fc75f8282a2</image>
-    <start>06:30AM</start>
-    <finish>08:30AM</finish>
+    <start>08:35AM</start>
+    <finish>09:25AM</finish>
     <date>24 October 2025</date>
   </channel>
   <channel>
     <name>Rtp Açores PT</name>
     <id>RtpAcores.pt</id>
-    <title>Sociedade Civil</title>
-    <desc>O Sociedade Civil ? um programa com Hist?ria que quer fazer cada vez mais parte do dia-a-dia de todos os portugueses. S?o quest?es p?blicas debatidas por gente distinta, temas particulares apresentados de forma clara. Apresentado pelo jornalista Lu?s Castro, de segunda a sexta-feira, ?s 14h00.[(96057)] </desc>
-    <image>https://mage.stream.nos.pt/v1/nostv_mage/Images?sourceUri=http%3A%2F%2Fvip.pam.local.internal%2FPAM.Images%2FStore%2Fc38f6919dc284cc6a2f0d4dc1c348e92</image>
-    <start>07:30AM</start>
-    <finish>08:30AM</finish>
+    <title>Informa??o N?o Disponibilizada Pelo Canal</title>
+    <desc></desc>
+    <image>https://mage.stream.nos.pt/v1/nostv_mage/Images?sourceUri=http%3A%2F%2Fvip.pam.local.internal%2FPAM.Images%2FStore%2F13dc13dc2d79462d8dd9f7aac808d536</image>
+    <start>08:30AM</start>
+    <finish>02:30PM</finish>
     <date>24 October 2025</date>
   </channel>
   <channel>
@@ -1125,11 +1155,11 @@
   <channel>
     <name>S4C UK</name>
     <id>S4C.uk</id>
-    <title>Awyr Iach</title>
-    <desc>Heddiw, bydd Huw a chriw o ffrindiau yn adeiladu rafft, ac fe gawn ni gwrdd a Hetti a'i cheffyl, Bunny. Today, Meleri will be meeting Megan and a lot of pigeons.</desc>
-    <image>https://images.metadata.sky.com/pd-image/a86dd590-0e00-3c65-9192-06e57ddf1249/16-9</image>
-    <start>08:20AM</start>
-    <finish>08:35AM</finish>
+    <title>Help Llaw</title>
+    <desc>Mae Rocco a Malcolm Allen o'r Warws Werdd wedi gofyn i Harri ddod draw i beintio wal. Rocco and Malcolm Allen from Warws Werdd have asked Harri to come over and paint a wall.</desc>
+    <image>https://images.metadata.sky.com/pd-image/242887a2-9b93-4ac8-8d59-87503b4d2059/16-9</image>
+    <start>08:45AM</start>
+    <finish>09:00AM</finish>
     <date>24 October 2025</date>
   </channel>
   <channel>
@@ -1148,8 +1178,8 @@
     <title>?????</title>
     <desc></desc>
     <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
-    <start>07:00AM</start>
-    <finish>08:30AM</finish>
+    <start>08:30AM</start>
+    <finish>09:50AM</finish>
     <date>24 October 2025</date>
   </channel>
   <channel>
@@ -1186,20 +1216,20 @@
     <name>Sky News UK</name>
     <id>SkyNews.uk</id>
     <title>Breakfast with Anna Jones</title>
-    <desc>All the big stories of the morning plus news making interviews, analysis, sport and weather.</desc>
-    <image>https://images.metadata.sky.com/pd-image/d1e6f821-60d1-49f8-9e05-26b2e5c6a946/16-9</image>
-    <start>08:00AM</start>
-    <finish>08:30AM</finish>
+    <desc>All the big stories of the morning, with big name interviews, analysis and reports from the Sky News team.</desc>
+    <image>https://images.metadata.sky.com/pd-image/22bb35fa-eae6-4e96-90c6-a779b6289ed9/16-9</image>
+    <start>08:30AM</start>
+    <finish>09:00AM</finish>
     <date>24 October 2025</date>
   </channel>
   <channel>
     <name>Stadium US</name>
     <id>Stadium.us</id>
     <title>Wahlburgers</title>
-    <desc>Donnie and Paul visit the site of their new restaurant in Las Vegas and try their luck at the casinos; Mark and his look-alike nephew bet on a basketball game between Nacho and his doppelganger.</desc>
+    <desc>Paul decides to cook Mark, Bob, Drama and Billy a five-star meal to expose the friends to the pleasures of fine dining.</desc>
     <image>http://dshm.tmsimg.com/assets/p11336213_b_h8_aa.jpg</image>
-    <start>08:00AM</start>
-    <finish>08:30AM</finish>
+    <start>08:30AM</start>
+    <finish>09:00AM</finish>
     <date>24 October 2025</date>
   </channel>
   <channel>
@@ -1218,8 +1248,8 @@
     <title>Petits secrets en famille</title>
     <desc></desc>
     <image>http://static-cdn.tv.sfr.net/data/img/pl/7/0/2/12547207.jpg</image>
-    <start>08:10AM</start>
-    <finish>08:40AM</finish>
+    <start>08:40AM</start>
+    <finish>09:15AM</finish>
     <date>24 October 2025</date>
   </channel>
   <channel>
@@ -1235,51 +1265,51 @@
   <channel>
     <name>TG4 IE</name>
     <id>TG4.ie</id>
-    <title>Petronix Defenders</title>
-    <desc>T? Emma tr?na ch?ile go ndearna Jia dearmad cast?il l?i.</desc>
-    <image>https://images.metadata.sky.com/pd-image/7ba3386a-31e9-4e60-a53f-f41ee12e296b/16-9</image>
-    <start>08:15AM</start>
-    <finish>08:27AM</finish>
+    <title>D?nall D?na</title>
+    <desc>T? teid? Leara? curtha ag D?nall sa taiscead?n todhcha? at? curtha i dtalamh.</desc>
+    <image>https://images.metadata.sky.com/pd-image/1e4aeadf-1186-4f47-89da-77f7fedbf132/16-9</image>
+    <start>08:46AM</start>
+    <finish>08:58AM</finish>
     <date>24 October 2025</date>
   </channel>
   <channel>
     <name>TRT Cocuk TR</name>
     <id>TRTCocuk.tr</id>
-    <title>S?per Tav?an</title>
-    <desc>Simon bildi?imiz ve sevdi?imiz s?per enerjik, s?per karizmatik ve belki biraz tatl? yaramaz k???k tav?an!\nRenkli bir hayal g?c?ne sahip olan tav?an Simon, bir yandan e?lence pe?inde ko?arken di?er yandan sorumlulu?un ve ileti?imin ?nemini ??reniyor.</desc>
-    <image>https://izmottvsc09.tvplus.com.tr:33207/CPS/images/universal/film/program/202510/20251019/2/2138086215455eb9542c_0_XL.jpg</image>
-    <start>08:20AM</start>
-    <finish>08:35AM</finish>
+    <title>Kaptan Pengu Ve Arkada?lar?</title>
+    <desc>Kaptan Pengu, arkada?lar? Misket, Pelik ve Mandalina.. Suya bay?l?yorlar ve do?al kaynaklar? korumak i?in ?al???yorlar ??nk? onlar Su El?ileri.. Ne?eliler, ?ok komikler ve bir o kadar da ?evreyi korumakta kararl?lar.. Onlarla maceradan maceraya ko?up e?lenmeye haz?r olun.</desc>
+    <image>https://izmottvsc09.tvplus.com.tr:33207/CPS/images/universal/film/program/202510/20251019/13/2138086215515eb9542c_0_XL.jpg</image>
+    <start>08:35AM</start>
+    <finish>09:05AM</finish>
     <date>24 October 2025</date>
   </channel>
   <channel>
     <name>TRT World TR</name>
     <id>TRTWorld.tr</id>
-    <title>Business News</title>
-    <desc>As the world grapples with ever changing politics and crises, economy is always center stage. ?TRT World?s Business News gives you the insight.</desc>
-    <image>https://gbzeottvsc09.tvplus.com.tr:33207/CPS/images/universal/film/program/202510/20251018/8/2204234008305eb9b42e_0_XL.jpg</image>
-    <start>08:00AM</start>
-    <finish>08:30AM</finish>
+    <title>The Newsmakers</title>
+    <desc>With in-depth reports and strong, unfiltered debates - The Newsmakers examine the people and the stories that are shaping our lives.</desc>
+    <image>https://gbzeottvsc09.tvplus.com.tr:33207/CPS/images/universal/film/program/202510/20251018/11/2204234018385eb9b42e_0_XL.jpg</image>
+    <start>08:30AM</start>
+    <finish>09:00AM</finish>
     <date>24 October 2025</date>
   </channel>
   <channel>
     <name>TVNZ 2 NZ</name>
     <id>TV2.nz</id>
-    <title>The Graham Norton Show</title>
-    <desc>Bruce Springsteen, Jeremy Allen White, Jennifer Lawrence and Tessa Thompson join Graham on his sofa. And there's live music from Florence + The Machine.</desc>
+    <title>Michael McIntyre's Big Show</title>
+    <desc>Jonathan Ross bravely hands over his phone for the starriest game of Send to All, and Nile Rodgers and Chic surprise the audience with special renditions of their classic hits in Nile-oke.</desc>
     <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
-    <start>07:30AM</start>
-    <finish>08:30AM</finish>
+    <start>08:30AM</start>
+    <finish>09:45AM</finish>
     <date>24 October 2025</date>
   </channel>
   <channel>
     <name>TV 5 Monde F-Be-Ch Fr</name>
     <id>TV5Monde.fr</id>
-    <title>Papilles</title>
-    <desc>Cuisinier atypique dans le monde de la gastronomie, Thierry Marx l?ve le voile sur son r?seau d'?coles solidaires et sociales, son atelier, son nouveau restaurant ? Paris et son amour du Japon.</desc>
-    <image>http://dshm.tmsimg.com/assets/p26314320_b_h10_aa.jpg</image>
-    <start>08:14AM</start>
-    <finish>08:44AM</finish>
+    <title>Savourer</title>
+    <desc>D?guster un plat, c'est aussi savourer un moment et profiter de la vie. La nutritionniste Genevi?ve O'Gleman partage son vaste arsenal d'astuces et de recettes afin de passer moins de temps en cuisine et plus de temps ? la table.</desc>
+    <image>http://dshm.tmsimg.com/assets/p25501223_b_h8_aa.jpg</image>
+    <start>08:44AM</start>
+    <finish>09:30AM</finish>
     <date>24 October 2025</date>
   </channel>
   <channel>
@@ -1327,9 +1357,9 @@
     <id>TogetherTV.uk</id>
     <title>Teleshopping</title>
     <desc>Teleshopping programming bringing you a selection of innovative products.</desc>
-    <image>https://static.epg.best/img/entertainment.jpg</image>
-    <start>08:00AM</start>
-    <finish>08:30AM</finish>
+    <image>https://static.epg.best/img/special-interest.jpg</image>
+    <start>08:30AM</start>
+    <finish>09:00AM</finish>
     <date>24 October 2025</date>
   </channel>
   <channel>
@@ -1345,11 +1375,11 @@
   <channel>
     <name>CW Boston US</name>
     <id>WLVI.us</id>
-    <title>America's Court With Judge Ross</title>
-    <desc>A woman insists she was protecting her daughter by keeping information regarding her biological mother a secret.</desc>
-    <image>http://dshm.tmsimg.com/assets/p8224483_b_h10_ab.jpg</image>
-    <start>08:00AM</start>
-    <finish>08:30AM</finish>
+    <title>We the People With Judge Lauren Lake</title>
+    <desc>A woman blames her ex-husband and his wife for preventing her from attending her son's college graduation dinner party.</desc>
+    <image>http://dshm.tmsimg.com/assets/p22579259_b_h10_aa.jpg</image>
+    <start>08:30AM</start>
+    <finish>09:00AM</finish>
     <date>24 October 2025</date>
   </channel>
   <channel>
@@ -1395,11 +1425,11 @@
   <channel>
     <name>YTN Science KR</name>
     <id>YTNScience.kr</id>
-    <title>???? ???</title>
-    <desc>?? ? ??? ??? ??? ??? ?? ?????? ??? ? ??, ??? ????, ??? ????, ??? UCC ?? ??? ??.</desc>
+    <title>?? ? ????</title>
+    <desc></desc>
     <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
-    <start>08:00AM</start>
-    <finish>08:30AM</finish>
+    <start>08:30AM</start>
+    <finish>09:00AM</finish>
     <date>24 October 2025</date>
   </channel>
   <channel>
