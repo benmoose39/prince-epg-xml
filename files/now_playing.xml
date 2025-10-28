@@ -1,43 +1,13 @@
 <?xml version="1.0" ?>
 <tv>
   <channel>
-    <name>Afro Music Channel PT</name>
-    <id>AfroMusicChannel.pt</id>
-    <title>Fresh Music</title>
-    <desc>As m?sicas mais frescas do momento est?o no ?Fresh Music?.</desc>
-    <image>https://mage.stream.nos.pt/v1/nostv_mage/Images?sourceUri=http%3A%2F%2Fvip.pam.local.internal%2FPAM.Images%2FStore%2F995f98d90237478c8404a9498dbf4f92</image>
-    <start>10:10PM</start>
-    <finish>10:50PM</finish>
-    <date>28 October 2025</date>
-  </channel>
-  <channel>
     <name>Al Jazeera English UK</name>
     <id>AlJazeeraEnglish.uk</id>
-    <title>Risking It All</title>
-    <desc>Out of work gamekeepers in Madagascar are turning to poaching the endangered Rosewood tree, risking arrest, injury and even death.</desc>
-    <image>https://staticqbr-prod-ch.gnp.cloud.sunrisetv.ch/image-service/ImagesEPG/EventImages/p19372095_i_h8_aa.jpg</image>
-    <start>10:30PM</start>
-    <finish>11:00PM</finish>
-    <date>28 October 2025</date>
-  </channel>
-  <channel>
-    <name>Arise News UK</name>
-    <id>AriseNews.uk</id>
-    <title>Newsnight Nigeria</title>
-    <desc>Nightly Current Affairs, Analysis and Cross Examination of Key News Events.[(96057)] </desc>
-    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
-    <start>10:00PM</start>
-    <finish>11:00PM</finish>
-    <date>28 October 2025</date>
-  </channel>
-  <channel>
-    <name>Artv PT</name>
-    <id>Artv.pt</id>
-    <title>Informa??o N?o Disponibilizada Pelo Canal</title>
-    <desc></desc>
-    <image>https://mage.stream.nos.pt/v1/nostv_mage/Images?sourceUri=http%3A%2F%2Fvip.pam.local.internal%2FPAM.Images%2FStore%2F72203a64b7134011be0d9cc2165ed022</image>
-    <start>03:00PM</start>
-    <finish>11:00PM</finish>
+    <title>News</title>
+    <desc>Up-to-date news and analysis from around the world.[(96057)] </desc>
+    <image>https://staticqbr-prod-ch.gnp.cloud.sunrisetv.ch/image-service/ImagesEPG/EventImages/p28975004_i_h8_aa.jpg</image>
+    <start>11:00PM</start>
+    <finish>11:30PM</finish>
     <date>28 October 2025</date>
   </channel>
   <channel>
@@ -48,16 +18,6 @@
     <image>https://images.metadata.sky.com/pd-image/6f4e904f-aa38-4d64-8251-252fa7317df6/16-9</image>
     <start>10:00PM</start>
     <finish>11:35PM</finish>
-    <date>28 October 2025</date>
-  </channel>
-  <channel>
-    <name>BBC News UK</name>
-    <id>BBCNews.uk</id>
-    <title>Newsnight</title>
-    <desc>Insights and global interviews on the news stories of the day. With Victoria Derbyshire.[(96057)] </desc>
-    <image>https://images.metadata.sky.com/pd-image/518ba9c4-e913-45bf-8db3-d0c0b3b7b8d9/16-9</image>
-    <start>10:30PM</start>
-    <finish>11:00PM</finish>
     <date>28 October 2025</date>
   </channel>
   <channel>
@@ -83,21 +43,21 @@
   <channel>
     <name>BBC Two NL</name>
     <id>BBCTwo.nl</id>
-    <title>Newsnight</title>
-    <desc>Featuring extensive coverage of the day's top national and international news stories, along with explanations about the context and potential aftereffects.</desc>
-    <image>https://staticqbr-nl-prod.prod.cdn.dmdsdp.com/image-service/ImagesEPG/EventImages/p269693_bd_h8_ab.jpg</image>
-    <start>10:30PM</start>
-    <finish>10:58PM</finish>
+    <title>Highland Cops</title>
+    <desc>Police in Inverness raid a flat and discover a laboratory containing a number of dangerous chemicals and electrical circuitry. Police search for missing walkers in Glencoe, and wildlife cops investigate an attack on a bird of prey.</desc>
+    <image>https://staticqbr-nl-prod.prod.cdn.dmdsdp.com/image-service/ImagesEPG/EventImages/p31415089_e_h10_aa.jpg</image>
+    <start>11:00PM</start>
+    <finish>12:00AM</finish>
     <date>28 October 2025</date>
   </channel>
   <channel>
     <name>Band Sports BR</name>
     <id>BandSports.br</id>
-    <title>BandSports News</title>
+    <title>Encontro de Craques</title>
     <desc></desc>
-    <image>https://cdn.mitvstatic.com/programs/br_news-bandsports-news_l_m.jpg</image>
-    <start>10:45PM</start>
-    <finish>11:00PM</finish>
+    <image>https://cdn.mitvstatic.com/programs/br_sports-talk-encontro-de-craques_l_m.jpg</image>
+    <start>11:15PM</start>
+    <finish>12:15AM</finish>
     <date>28 October 2025</date>
   </channel>
   <channel>
@@ -111,23 +71,13 @@
     <date>28 October 2025</date>
   </channel>
   <channel>
-    <name>Classica IT</name>
-    <id>Classica.it</id>
-    <title>Luca Francesconi - Quartett</title>
-    <desc>Il compositore italiano Luca Francesconi mette in musica la piece teatrale di Heiner Muller.[(96057)] </desc>
-    <image>https://guidatv.sky.it/uuid/Intrattenimento_Scene_7GZn0K86e.png</image>
-    <start>10:00PM</start>
-    <finish>11:00PM</finish>
-    <date>28 October 2025</date>
-  </channel>
-  <channel>
     <name>EWTN UK</name>
     <id>EWTN.uk</id>
-    <title>Daily mass</title>
-    <desc>The Holy Sacrifice of the Mass with the friars each day from the EWTN Chapel in Irondale, Alabama. LIVE Monday through Saturday at 8 am Eastern.</desc>
+    <title>Chaplet Of Adoration And Reparation</title>
+    <desc>A special presentation of the Chaplet of Adoration and Reparation.[(96057)] </desc>
     <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
-    <start>10:00PM</start>
-    <finish>11:00PM</finish>
+    <start>11:00PM</start>
+    <finish>11:30PM</finish>
     <date>28 October 2025</date>
   </channel>
   <channel>
@@ -135,89 +85,49 @@
     <id>EuroNews.uk</id>
     <title>The European Debrief</title>
     <desc>Live headlines, breaking news, analysis and interviews from Europe's News Centre.</desc>
-    <image>https://images.metadata.sky.com/pd-image/e6dc72a0-9449-44d6-81f6-5d503df825d3/16-9</image>
-    <start>10:30PM</start>
-    <finish>11:00PM</finish>
-    <date>28 October 2025</date>
-  </channel>
-  <channel>
-    <name>France 24 Fr</name>
-    <id>France24.fr</id>
-    <title>Sports</title>
-    <desc>Toutes les informations sportives du jour avec les chroniqueurs de France 24 et un r?sum? de l'actualit? sportive mondiale, sur les terrains de jeu et en dehors.</desc>
-    <image>https://staticqbr-prod-ch.gnp.cloud.sunrisetv.ch/image-service/ImagesEPG/EventImages/p9862655_bd_h8_aa.jpg</image>
-    <start>10:43PM</start>
-    <finish>10:49PM</finish>
-    <date>28 October 2025</date>
-  </channel>
-  <channel>
-    <name>ITV 1 UK</name>
-    <id>ITV1.uk</id>
-    <title>ITV News</title>
-    <desc>ITV News provides a fresh perspective on the major stories of the day with national and international news with reports and analysis from ITV's Correspondents.</desc>
-    <image>https://images.metadata.sky.com/pd-image/930ad915-fcf0-4a2d-adbd-54bacbcb62c8/16-9</image>
-    <start>10:20PM</start>
-    <finish>10:55PM</finish>
-    <date>28 October 2025</date>
-  </channel>
-  <channel>
-    <name>Kuriakos Tv PT</name>
-    <id>KuriakosTv.pt</id>
-    <title>Man? World - Temp.2</title>
-    <desc>Man? World ? um programa que pretende dar a conhecer quem ? a Igreja Man?, quem somos, o que fazemos e onde estamos, apresenta a biografia do Ap?stolo Jorge Tadeu, mostrando v?rios departamentos do Minist?rio Man?.[(96057)] </desc>
-    <image>https://mage.stream.nos.pt/v1/nostv_mage/Images?sourceUri=http%3A%2F%2Fvip.pam.local.internal%2FPAM.Images%2FStore%2F8def4ffe8b2f4bf28b4b87a25857a784</image>
-    <start>10:00PM</start>
-    <finish>11:00PM</finish>
+    <image>https://images.metadata.sky.com/pd-image/07dec208-05c2-49b5-8b58-a4839720f67f/16-9</image>
+    <start>11:15PM</start>
+    <finish>11:30PM</finish>
     <date>28 October 2025</date>
   </channel>
   <channel>
     <name>MTV UK</name>
     <id>MTV.uk</id>
-    <title>Geordie Stories Charlotte's New Baby</title>
-    <desc>Charlotte, Jake and Alba are in the Maldives where they are planning a gender reveal for the new baby. But will an unexpected turn of events scupper their plans.</desc>
-    <image>https://images.metadata.sky.com/pd-image/a4a299db-77f2-47ac-8e42-3bcac5ce3eae/16-9</image>
-    <start>10:00PM</start>
-    <finish>11:00PM</finish>
-    <date>28 October 2025</date>
-  </channel>
-  <channel>
-    <name>Movies 24 UK</name>
-    <id>Movies24.uk</id>
-    <title>Three Wiser Men And A Boy</title>
-    <desc>The Brenner brothers are back and putting on a holiday pageant for young Thomas, while trying to cope with life's curveballs, including their mum's new boyfriend.[(96057)] </desc>
-    <image>https://images.metadata.sky.com/pd-image/b6a548f8-601e-4c8c-bd25-8303e699430c/16-9</image>
-    <start>09:00PM</start>
-    <finish>11:00PM</finish>
+    <title>Ink Master Redemption</title>
+    <desc>Artist Craig Foster and Dave Navarro take redemption out of the Ink Master shop and onto the street in search of unhappy canvases.[(96057)] </desc>
+    <image>https://images.metadata.sky.com/pd-image/c6afd323-4118-40fb-b997-42b02685953c/16-9</image>
+    <start>11:00PM</start>
+    <finish>11:30PM</finish>
     <date>28 October 2025</date>
   </channel>
   <channel>
     <name>Nick Jr UK</name>
     <id>NickJunior.uk</id>
     <title>Peppa Pig</title>
-    <desc>Daddy Pig receives a jumping stick and tries to show how to use it, but finds it difficult. Peppa and her friends struggle too. But there's always jumping in muddy puddles.</desc>
-    <image>https://images.metadata.sky.com/pd-image/636bb65a-154e-4755-99c7-457849810665/16-9</image>
-    <start>10:45PM</start>
-    <finish>10:50PM</finish>
+    <desc>Peppa and her friends are introduced to some simple woodcraft in the woods with Mr Wolf.</desc>
+    <image>https://images.metadata.sky.com/pd-image/5357f6de-491d-411c-9f7c-d59e6600c4d2/16-9</image>
+    <start>11:20PM</start>
+    <finish>11:30PM</finish>
     <date>28 October 2025</date>
   </channel>
   <channel>
     <name>Nickelodeon RO</name>
     <id>Nickelodeon.ro</id>
-    <title>Casa Loud</title>
-    <desc>Lincoln Loud este un b?ie?el de 11 ani care tr?ie?te ?mpreun? cu cele 10 surori ale lui. Cu ajutorul m?inii lui drepte, Clyde, Lincoln g?se?te de fiecare dat? noi metode de a rezista ?n fiecare zi ?ntr-o familie at?t de numeroas?.</desc>
-    <image>https://static.cinemagia.ro/img/db/movie/96/66/29/the-loud-house-452115l.jpg</image>
-    <start>10:20PM</start>
-    <finish>10:50PM</finish>
+    <title>Henry Pericol</title>
+    <desc></desc>
+    <image>https://static.cinemagia.ro/img/db/movie/89/81/57/henry-danger-806743l.jpg</image>
+    <start>11:15PM</start>
+    <finish>11:45PM</finish>
     <date>28 October 2025</date>
   </channel>
   <channel>
     <name>PTC Punjabi UK</name>
     <id>PTCPunjabi.uk</id>
-    <title>Flames</title>
-    <desc>A game show where celebrities can be kids again. Fun games, secret spilling quirky questions and a chance to let go completely.</desc>
-    <image>https://images.metadata.sky.com/pd-image/0cc4f168-86bd-33c8-8718-05a3b212827b/16-9</image>
-    <start>10:00PM</start>
-    <finish>11:00PM</finish>
+    <title>Wangaan</title>
+    <desc>Wangaan.</desc>
+    <image>https://images.metadata.sky.com/pd-image/3f4b197a-3f21-4ea8-addc-f375337858ac/16-9</image>
+    <start>11:00PM</start>
+    <finish>11:30PM</finish>
     <date>28 October 2025</date>
   </channel>
   <channel>
@@ -231,43 +141,13 @@
     <date>28 October 2025</date>
   </channel>
   <channel>
-    <name>QVC UK</name>
-    <id>QVC.uk</id>
-    <title>Beauty Gift Ideas with Shay &amp; Blue</title>
-    <desc>Featuring a wide spectrum of beauty gifts, from skincare to cosmetics, plus award-winning fragrance from Shay &amp; Blue to inspire you to treat the ones you love.[(96057)] </desc>
-    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
-    <start>10:00PM</start>
-    <finish>11:00PM</finish>
-    <date>28 October 2025</date>
-  </channel>
-  <channel>
-    <name>QVC Beauty UK</name>
-    <id>QVCBeauty.uk</id>
-    <title>Best Of QVC Beauty</title>
-    <desc>All the highlights and star products.</desc>
-    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
-    <start>10:00PM</start>
-    <finish>11:00PM</finish>
-    <date>28 October 2025</date>
-  </channel>
-  <channel>
-    <name>QVC Style UK</name>
-    <id>QVCStyle.uk</id>
-    <title>Best of QVC Style</title>
-    <desc>Catch all the recent highlights from our sister channel with the Best of QVC Style.[(96057)] </desc>
-    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
-    <start>10:00PM</start>
-    <finish>11:00PM</finish>
-    <date>28 October 2025</date>
-  </channel>
-  <channel>
     <name>RTP Internacional PT</name>
     <id>RTPInternacional.pt</id>
-    <title>Programa Cautelar</title>
-    <desc>Uma combinau00e7u00e3o entre humor e anu00e1lise, que tenta explicar a realidade de forma simples, divertida e factual.</desc>
-    <image>https://cdn-images.rtp.pt/EPG/imagens/44549_70285_97624.jpg</image>
-    <start>10:30PM</start>
-    <finish>11:15PM</finish>
+    <title>Choque Ideolu00f3gico</title>
+    <desc>Debate semanal moderado por Carlos Daniel.</desc>
+    <image>https://cdn-images.rtp.pt/EPG/imagens/48034_77565_17888.jpg</image>
+    <start>11:15PM</start>
+    <finish>12:00AM</finish>
     <date>28 October 2025</date>
   </channel>
   <channel>
@@ -291,26 +171,6 @@
     <date>28 October 2025</date>
   </channel>
   <channel>
-    <name>Rtp África PT</name>
-    <id>RtpAfrica.pt</id>
-    <title>Nha Terra Nha Cretcheu</title>
-    <desc>A atualidade social e econ?mica de Cabo Verde como temas de destaque num programa que mostra a realidade de como vivem e trabalham os cabo-verdianos, atrav?s de percurso pela cultura e tradi??es.[(96057)] </desc>
-    <image>https://mage.stream.nos.pt/v1/nostv_mage/Images?sourceUri=http%3A%2F%2Fvip.pam.local.internal%2FPAM.Images%2FStore%2Fe2aeaad795e54f5bb11671a411877fdf</image>
-    <start>10:00PM</start>
-    <finish>11:00PM</finish>
-    <date>28 October 2025</date>
-  </channel>
-  <channel>
-    <name>Rtp Madeira PT</name>
-    <id>RtpMadeira.pt</id>
-    <title>Parlamento</title>
-    <desc>Os grandes debates Governo/Oposi??o. As principais propostas dos partidos pol?ticos. As ideias dos deputados para o pa?s. Todas as semanas os assuntos que interessam aos portugueses s?o discutidos no Parlamento. Not?cias, reportagem e debate... no Parlamento.</desc>
-    <image>https://mage.stream.nos.pt/v1/nostv_mage/Images?sourceUri=http%3A%2F%2Fvip.pam.local.internal%2FPAM.Images%2FStore%2F3c7e9eca8b5b48c2b10ac46ec5c69e44</image>
-    <start>09:50PM</start>
-    <finish>10:50PM</finish>
-    <date>28 October 2025</date>
-  </channel>
-  <channel>
     <name>S4C UK</name>
     <id>S4C.uk</id>
     <title>P?l-droed</title>
@@ -323,31 +183,21 @@
   <channel>
     <name>Sky News UK</name>
     <id>SkyNews.uk</id>
-    <title>Press Preview</title>
-    <desc>Lively debate and discussion with our panel of paper reviewers about the stories making tomorrow morning's newspapers.</desc>
-    <image>https://images.metadata.sky.com/pd-image/c0ade5bd-0475-44c2-9c97-158284550283/16-9</image>
-    <start>10:30PM</start>
-    <finish>11:00PM</finish>
+    <title>News &amp; Press Preview</title>
+    <desc>The key stories of the day plus debate and discussion with our panel of reviewers on the stories making the morning newspapers in the extended press preview.[(96057)] </desc>
+    <image>https://images.metadata.sky.com/pd-image/2b582bce-8699-4022-910a-1a69a92d5a00/16-9</image>
+    <start>11:00PM</start>
+    <finish>11:30PM</finish>
     <date>28 October 2025</date>
   </channel>
   <channel>
     <name>TV 5 Monde F-Be-Ch Fr</name>
     <id>TV5Monde.fr</id>
     <title>5e rang</title>
-    <desc>Lors d'un nouvel affrontement entre Charles et R?ginald, Corinne doit ?tre amen?e d'urgence ? l'h?pital. Vince, ? peine sorti du coma, d?voile ? Marie-Luce des informations troublantes sur les activit?s de son d?funt mari.</desc>
+    <desc>R?ginald a disparu. Un nouveau d?tective, Guillaume, fait son entr?e ? la S?curit? du Qu?bec.</desc>
     <image>http://dshm.tmsimg.com/assets/p16368039_b_h8_aa.jpg</image>
-    <start>10:14PM</start>
-    <finish>10:56PM</finish>
-    <date>28 October 2025</date>
-  </channel>
-  <channel>
-    <name>Vosges TV Fr</name>
-    <id>ViaVosges.fr</id>
-    <title>PAROLES D?ELU(E)</title>
-    <desc>Pas de description disponible.</desc>
-    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
-    <start>10:30PM</start>
-    <finish>11:00PM</finish>
+    <start>10:56PM</start>
+    <finish>11:43PM</finish>
     <date>28 October 2025</date>
   </channel>
 </tv>
