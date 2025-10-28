@@ -1,43 +1,33 @@
 <?xml version="1.0" ?>
 <tv>
   <channel>
-    <name>ABC Comedy AU</name>
-    <id>ABCComedy.au</id>
-    <title>Rage</title>
-    <desc>Australia's longest running music TV show, rage is home to the biggest vault of music videos from a diverse range of artists, genres and eras. We curate the best clips of all time to surprise and entertain you for hours.[(96057)] </desc>
-    <image>https://www.abc.net.au/tv/common/images/publicity/LR2510H.jpg</image>
-    <start>12:55PM</start>
-    <finish>05:00PM</finish>
-    <date>28 October 2025</date>
-  </channel>
-  <channel>
     <name>Afro Music Channel PT</name>
     <id>AfroMusicChannel.pt</id>
-    <title>100 Pausas</title>
-    <desc>Aqui a m?sica n?o p?ra, e a variedade tamb?m n?o! ?100 Pausas?.</desc>
-    <image>https://mage.stream.nos.pt/v1/nostv_mage/Images?sourceUri=http%3A%2F%2Fvip.pam.local.internal%2FPAM.Images%2FStore%2F65b4dbc8bc2045adaac36245533517cd</image>
-    <start>04:28PM</start>
-    <finish>05:12PM</finish>
+    <title>Love</title>
+    <desc>Sempre a derreter cora??es, provocar paix?es e ajudar a resolver discuss?es entre apaixonados: ?+ Love?.</desc>
+    <image>https://mage.stream.nos.pt/v1/nostv_mage/Images?sourceUri=http%3A%2F%2Fvip.pam.local.internal%2FPAM.Images%2FStore%2F995f98d90237478c8404a9498dbf4f92</image>
+    <start>05:12PM</start>
+    <finish>05:49PM</finish>
     <date>28 October 2025</date>
   </channel>
   <channel>
     <name>Al Jazeera English UK</name>
     <id>AlJazeeraEnglish.uk</id>
-    <title>Apocalypse Maybe</title>
-    <desc>Many believe we are living in the 'end times' due to climate change, a digital revolution and international conflict.</desc>
-    <image>https://staticqbr-prod-ch.gnp.cloud.sunrisetv.ch/image-service/ImagesEPG/EventImages/p27815774_i_h8_aa.jpg</image>
-    <start>04:30PM</start>
-    <finish>05:00PM</finish>
+    <title>News</title>
+    <desc>Up-to-date news and analysis from around the world.</desc>
+    <image>https://staticqbr-prod-ch.gnp.cloud.sunrisetv.ch/image-service/ImagesEPG/EventImages/p28975004_i_h8_aa.jpg</image>
+    <start>05:00PM</start>
+    <finish>05:30PM</finish>
     <date>28 October 2025</date>
   </channel>
   <channel>
     <name>Arise News UK</name>
     <id>AriseNews.uk</id>
-    <title>ARISE 360</title>
-    <desc>Top New Stories and Guests from the World of Entertainment, PopCulture, Arts and Culture.</desc>
+    <title>The World</title>
+    <desc>Global News and Analysis of World Events Politics, Business, and Africa.</desc>
     <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
-    <start>04:00PM</start>
-    <finish>05:00PM</finish>
+    <start>05:00PM</start>
+    <finish>06:00PM</finish>
     <date>28 October 2025</date>
   </channel>
   <channel>
@@ -65,19 +55,19 @@
     <id>BBCNews.uk</id>
     <title>Verified Live</title>
     <desc>Matthew Amroliwala presents all the latest global and UK news, live from London.</desc>
-    <image>https://images.metadata.sky.com/pd-image/e3454756-82f6-481a-b090-8e017c3199d0/16-9</image>
-    <start>04:45PM</start>
-    <finish>05:00PM</finish>
+    <image>https://images.metadata.sky.com/pd-image/cc7517ed-6027-4f11-ba6e-084c0e268a0b/16-9</image>
+    <start>05:00PM</start>
+    <finish>05:30PM</finish>
     <date>28 October 2025</date>
   </channel>
   <channel>
     <name>BBC One NL</name>
     <id>BBCOne.nl</id>
-    <title>The Inner Circle</title>
-    <desc>Amanda Holden hosts the quiz, packed with strategy, high stakes and surprises, where players must outsmart each other to win big. Six players are each randomly assigned a secret stash of cash - anything between zero and a whopping ?4,000.</desc>
-    <image>https://staticqbr-nl-prod.prod.cdn.dmdsdp.com/image-service/ImagesEPG/EventImages/p31293192_bd_h10_aa.jpg</image>
-    <start>04:30PM</start>
-    <finish>05:15PM</finish>
+    <title>Pointless</title>
+    <desc>Alexander Armstrong is joined by co-host Phil Wang for the brainy quiz where the contestants try to score as few points as possible by plumbing the depths of their general knowledge to come up with the answers no-one else could think of.</desc>
+    <image>https://staticqbr-nl-prod.prod.cdn.dmdsdp.com/image-service/ImagesEPG/EventImages/p29307123_bd_h10_ab.jpg</image>
+    <start>05:15PM</start>
+    <finish>06:00PM</finish>
     <date>28 October 2025</date>
   </channel>
   <channel>
@@ -93,153 +83,153 @@
   <channel>
     <name>BBC Two NL</name>
     <id>BBCTwo.nl</id>
-    <title>Wonders of the Monsoon</title>
-    <desc>An extraordinary story of the relationship between nature and the people of the monsoon, from the ancient past to the future.</desc>
-    <image>https://staticqbr-nl-prod.prod.cdn.dmdsdp.com/image-service/ImagesEPG/EventImages/p11192054_e_h10_ab.jpg</image>
-    <start>04:15PM</start>
-    <finish>05:15PM</finish>
+    <title>Flog It!</title>
+    <desc>Paul Martin presents from the heart of Birmingham and its historic Museum and Art Gallery. Paul also explores the museum's collection of Pre-Raphaelite art and discovers the work of Arts and Crafts jewellery designers Arthur and Georgie Gaskin.</desc>
+    <image>https://staticqbr-nl-prod.prod.cdn.dmdsdp.com/image-service/ImagesEPG/EventImages/p11059038_bd_h10_ac.jpg</image>
+    <start>05:15PM</start>
+    <finish>06:00PM</finish>
     <date>28 October 2025</date>
   </channel>
   <channel>
     <name>Band Sports BR</name>
     <id>BandSports.br</id>
-    <title>G4</title>
+    <title>Esporte Agora</title>
     <desc></desc>
-    <image>https://cdn.mitvstatic.com/programs/br_g4_l_m.jpg</image>
-    <start>03:00PM</start>
-    <finish>05:00PM</finish>
+    <image>https://cdn.mitvstatic.com/programs/br_news-esporte-agora_l_m.jpg</image>
+    <start>05:00PM</start>
+    <finish>06:00PM</finish>
     <date>28 October 2025</date>
   </channel>
   <channel>
     <name>CBBC UK</name>
     <id>CBBC.uk</id>
-    <title>The Strange Chores</title>
-    <desc>Charlie takes a three-headed monster dog to school for pet day, but his unwillingness to enforce the rules sees it grow bigger and more dangerous.</desc>
-    <image>https://img.freeviewplay.tv/p3687765f0e813b952b6bc8df96e4492a</image>
-    <start>04:45PM</start>
-    <finish>05:00PM</finish>
+    <title>Pok?mon Horizons</title>
+    <desc>Life is back to normal for Roy and friends, until wild Pok?mon begin to act strangely..</desc>
+    <image>https://img.freeviewplay.tv/p05aca3c75a07c7eb775df1c9398ee116</image>
+    <start>05:10PM</start>
+    <finish>05:35PM</finish>
     <date>28 October 2025</date>
   </channel>
   <channel>
     <name>CBeebies UK</name>
     <id>CBeebies.uk</id>
-    <title>Piripenguins</title>
-    <desc>Flutter's Honour. Pancake saves Flutter, who vows to repay him, but his behaviour drives Pan to distraction.</desc>
-    <image>https://images.metadata.sky.com/pd-image/1470e05c-1e91-4ab2-9805-2d72c844e8d4/16-9</image>
-    <start>04:50PM</start>
-    <finish>05:00PM</finish>
+    <title>Waffle the Wonder Dog</title>
+    <desc>Waffle and the Teacher. Preschool comedy drama series. Evie's new school teacher comes for a home visit, but Waffle is teething and won't stop chewing everything in sight.</desc>
+    <image>https://images.metadata.sky.com/pd-image/9e8fbdab-b45d-434c-a252-6b60a30844d8/16-9</image>
+    <start>05:15PM</start>
+    <finish>05:25PM</finish>
     <date>28 October 2025</date>
   </channel>
   <channel>
     <name>Classica IT</name>
     <id>Classica.it</id>
-    <title>Saint-Saens - Il carnevale degli animali</title>
-    <desc>Antonio Pappano ci accompagna alla scoperta de 'il carnevale degli animali' di Saint-Saens, proposto in una divertente edizione animata - con Martha Argerich, Mischa Maisky - Solisti Accademia Nazionale Santa Cecilia.</desc>
-    <image>https://guidatv.sky.it/uuid/Intrattenimento_Scene_7GZn0K86e.png</image>
-    <start>04:00PM</start>
-    <finish>05:00PM</finish>
+    <title>Saint-Saens - Compositore inafferrabile</title>
+    <desc>Ritratto del grande compositore francese Camille Saint-Saens, considerato un rivoluzionario per i primi quarant'anni di vita e additato come conservatore nei successivi quaranta - David Unger, reg. \(2021\).</desc>
+    <image>https://guidatv.sky.it/uuid/2ec3de08-4c40-4d48-883e-e3d9fdea82ce/16-9?territory=IT&amp;md5ChecksumParam=ba94fa6833019f8dc66a7ab017712306</image>
+    <start>05:00PM</start>
+    <finish>06:00PM</finish>
     <date>28 October 2025</date>
   </channel>
   <channel>
     <name>EWTN UK</name>
     <id>EWTN.uk</id>
-    <title>Hidden Gems - Catholic Shrines In America</title>
-    <desc>Discover Chicago's National Shrine of St Jude, known for its fascinating history and its many miracles.</desc>
+    <title>Daily mass</title>
+    <desc>The Holy Sacrifice of the Mass with the friars each day from the EWTN Chapel in Irondale, Alabama. LIVE Monday through Saturday at 8 am Eastern.</desc>
     <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
-    <start>04:30PM</start>
-    <finish>05:00PM</finish>
+    <start>05:00PM</start>
+    <finish>06:00PM</finish>
     <date>28 October 2025</date>
   </channel>
   <channel>
     <name>EuroNews UK</name>
     <id>EuroNews.uk</id>
-    <title>Euronews Now</title>
-    <desc>Breaking news and in-depth analysis on the biggest stories making headlines in Europe and across the world, as well as one dedication - 'all voices, all views, all welcome.</desc>
-    <image>https://images.metadata.sky.com/pd-image/e4b39a38-8a63-4f19-9e63-3643341034d6/16-9</image>
-    <start>04:30PM</start>
-    <finish>05:00PM</finish>
+    <title>News</title>
+    <desc>The leading news stories of the moment.</desc>
+    <image>https://images.metadata.sky.com/pd-image/b5b0bccd-7dc3-4c35-99ed-e139cac01363/16-9</image>
+    <start>05:18PM</start>
+    <finish>05:30PM</finish>
     <date>28 October 2025</date>
   </channel>
   <channel>
     <name>France 24 Fr</name>
     <id>France24.fr</id>
-    <title>Ici l'Europe</title>
-    <desc>Rendez-vous, avec RFI, au Parlement europ?en ? Bruxelles ou ? Strasbourg pour un entretien avec une personnalit? europ?enne qui fait l'actualit? puis, ?galement en partenariat avec Public S?nat, un d?bat entre eurod?put?s sur un sujet de soci?t?.</desc>
-    <image>https://staticqbr-prod-ch.gnp.cloud.sunrisetv.ch/image-service/ImagesEPG/EventImages/p9862697_bd_h8_ab.jpg</image>
-    <start>04:40PM</start>
-    <finish>04:59PM</finish>
+    <title>Mardi politique</title>
+    <desc>Une personnalit? politique revient sur les grands sujets qui marquent l'actualit? et r?pond aux questions des journalistes de France 24 et de RFI.</desc>
+    <image>https://staticqbr-prod-ch.gnp.cloud.sunrisetv.ch/image-service/ImagesEPG/EventImages/p13191459_bd_h10_ab.jpg</image>
+    <start>05:07PM</start>
+    <finish>05:30PM</finish>
     <date>28 October 2025</date>
   </channel>
   <channel>
     <name>ITV 1 UK</name>
     <id>ITV1.uk</id>
-    <title>Deal or No Deal</title>
-    <desc>Join Stephen Mulhern as Paula, who is supported by her daughter, takes on the Banker and tries to take home a fortune.</desc>
-    <image>https://images.metadata.sky.com/pd-image/dbfef16d-424d-44be-bf16-12a237b18be2/16-9</image>
-    <start>04:00PM</start>
-    <finish>05:00PM</finish>
+    <title>The Chase</title>
+    <desc>Annie from Kingswinford, Ryan from Manchester, Sharon from Croydon and Phil from Derby hope that they can beat a Chaser together and leave with thousands of pounds.</desc>
+    <image>https://images.metadata.sky.com/pd-image/0ae07099-a504-4eea-ba91-6876cf6e5b85/16-9</image>
+    <start>05:00PM</start>
+    <finish>06:00PM</finish>
     <date>28 October 2025</date>
   </channel>
   <channel>
     <name>Kuriakos Tv PT</name>
     <id>KuriakosTv.pt</id>
-    <title>ABC da Fam?lia</title>
-    <desc>Programa destinado a todas as pessoas que desejem conhecer a vontade de Deus para a sua vida e fam?lia, incluindo temas diversificados que permitem a constru??o da familia baseada na palavra de Deus e tamb?m temas dedicados especialmente ?s mulheres.</desc>
-    <image>https://mage.stream.nos.pt/v1/nostv_mage/Images?sourceUri=http%3A%2F%2Fvip.pam.local.internal%2FPAM.Images%2FStore%2F33f0a175963b41d5a5c1a7f21ae19e35</image>
-    <start>04:30PM</start>
-    <finish>05:00PM</finish>
+    <title>Vila Ideal</title>
+    <desc>Programa infantil que ensina de uma forma divertida os princ?pios b?sicos morais e c?vicos ?s crian?as, promovendo a amizade, a obedi?ncia, a partilha, o amor ao pr?ximo. Os conte?dos de cada programa s?o tem?ticos, com a intera??o dos v?rios personagens.</desc>
+    <image>https://mage.stream.nos.pt/v1/nostv_mage/Images?sourceUri=http%3A%2F%2Fvip.pam.local.internal%2FPAM.Images%2FStore%2F187675c654f1490d84bb9915920e31c8</image>
+    <start>05:00PM</start>
+    <finish>06:00PM</finish>
     <date>28 October 2025</date>
   </channel>
   <channel>
     <name>La Otra ES</name>
     <id>LaOtra.es</id>
-    <title>Viajes alucinantes en tren</title>
-    <desc>Viajes alucinantes en tren es un descubrimiento inolvidable a trav?s de algunos de los paisajes m?s espectaculares de la Tierra.</desc>
-    <image>https://www.movistarplus.es/recorte/n/caratulaH/MOTRAP3510143</image>
-    <start>04:33PM</start>
-    <finish>05:17PM</finish>
+    <title>Sabores</title>
+    <desc>La riqueza, la magia y la belleza del mundo convergen en esta serie documental que descubre las mejores destinaciones del planeta, su patrimonio natural, sus monumentos, su arte y sus paisajes de infarto.</desc>
+    <image>https://www.movistarplus.es/recorte/n/caratulaH/MOTRAP1614102</image>
+    <start>05:17PM</start>
+    <finish>06:16PM</finish>
     <date>28 October 2025</date>
   </channel>
   <channel>
     <name>MTV UK</name>
     <id>MTV.uk</id>
     <title>Help! I'm In A Secret...</title>
-    <desc>Relationship! Shara and Rudy fell in love and are planning to open a restaurant together. But Shara can't move forward until she knows why Rudy is hiding her from his family.</desc>
-    <image>https://images.metadata.sky.com/pd-image/ed74c394-7b5b-384a-ac31-349f877e2123/16-9</image>
-    <start>04:00PM</start>
-    <finish>05:00PM</finish>
+    <desc>Relationship! Deidra and Sean have been talking about marriage, but Deidra has yet to meet anyone in Sean's life, and he refuses to meet anyone in hers.</desc>
+    <image>https://images.metadata.sky.com/pd-image/b4dcc687-a916-3a99-b98d-5c2019008526/16-9</image>
+    <start>05:00PM</start>
+    <finish>06:00PM</finish>
     <date>28 October 2025</date>
   </channel>
   <channel>
     <name>Mama RU</name>
     <id>Mama.ru</id>
-    <title>????? ???????. ???-??? ????: ???????????</title>
+    <title>????? ???????. ??????</title>
     <desc>?????????? ??? ????? ????????? ???????????? ????????? ?????????? ???? ????????????? ????????, ?????? ???????????????? ?????????????? ?????? ????????.
 ?????? ???? ????????? ?????? ???????? ??????? ????? ???????? ?????? ?????????? ????? ????????? ??? ???? ???. ????? ?????? ?????????????? ??????? ??? ???????????????? ???????????? ??? ???????? ?????????? ????????????? ??????? ????? ??????????????? ??????? ??????????????? ??????? ????? ??????. ???????? ?????????? ?????? ???????? ?????????, ?????? ??? ????? ????????? ??????? ????????? ??????????. ??????????? ????????? ????????? ???? ??? ?????????? ??? ?????????. ????? ????????? ????? ??????? ????? ???????? ????? ?????, ?????, ?????, ?????, ?????, ???? ??????? ????????????! 
 ??? ????????? ????????????? ????? ?????? ???????? ?????????? ??????????? ?????????????? ??? ????? ???3-? ???, ????????? ??????? ?????????? ??????????? ????.</desc>
     <image>https://tlum.ru/uploads/1f51770a50b82d2d75e31ed2be2fdd6484c92c230403fff9da8065802a211687.jpeg</image>
-    <start>03:50PM</start>
-    <finish>05:00PM</finish>
+    <start>05:00PM</start>
+    <finish>06:30PM</finish>
     <date>28 October 2025</date>
   </channel>
   <channel>
     <name>Movies 24 UK</name>
     <id>Movies24.uk</id>
-    <title>Letters To Santa</title>
-    <desc>When young siblings receive a magic pen from Santa that appears to be granting wishes, they ask for their separated parents to be reunited.</desc>
-    <image>https://images.metadata.sky.com/pd-image/291f209f-80ff-36d6-a9d9-2947066114c3/16-9</image>
-    <start>03:00PM</start>
-    <finish>05:00PM</finish>
+    <title>A Lot Like Christmas</title>
+    <desc>The owner of the most popular Christmas tree lot in Hudson Springs finds her business in jeopardy when a big-city marketing executive arrives with a chain store. Seasonal romance.</desc>
+    <image>https://images.metadata.sky.com/pd-image/4fd07b7c-9ed8-3a21-915a-204138ae7029/16-9</image>
+    <start>05:00PM</start>
+    <finish>07:00PM</finish>
     <date>28 October 2025</date>
   </channel>
   <channel>
     <name>Nick Jr UK</name>
     <id>NickJunior.uk</id>
-    <title>Mr. Crocodile</title>
-    <desc>Daisy's game is missing in 'Borrower Daisy', then in 'Can Do Croc', a perfect Step-Mother's day for Maggie all depends on Daisy and Mr. Crocodile finding a can opener.</desc>
-    <image>https://images.metadata.sky.com/pd-image/c04cde70-8c46-4ecc-96b8-348cfedfafc3/16-9</image>
-    <start>04:31PM</start>
-    <finish>05:00PM</finish>
+    <title>PAW Patrol</title>
+    <desc>Mayor Goodway tries to help rescue Danny in 'Pups Rescue a Rescuer', then in 'Pups Save the Phantom of the Frog Pond', a spooky sound forces the frogs from their home.</desc>
+    <image>https://images.metadata.sky.com/pd-image/66375f53-92cf-473e-8862-d0109163a8f2/16-9</image>
+    <start>05:00PM</start>
+    <finish>05:31PM</finish>
     <date>28 October 2025</date>
   </channel>
   <channel>
@@ -275,11 +265,11 @@
   <channel>
     <name>QVC UK</name>
     <id>QVC.uk</id>
-    <title>Christmas Gift Ideas</title>
-    <desc>Take the stress out of Christmas shopping and browse our marvellous selection of gift ideas to find the perfect present for someone special.</desc>
+    <title>Accessories by Kipling</title>
+    <desc>Showcasing the fashionable and classic bags created by this international brand, including handbags, rucksacks, travel bags and weekend away bags.</desc>
     <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
-    <start>04:00PM</start>
-    <finish>05:00PM</finish>
+    <start>05:00PM</start>
+    <finish>06:00PM</finish>
     <date>28 October 2025</date>
   </channel>
   <channel>
@@ -288,8 +278,8 @@
     <title>Best Of QVC Beauty</title>
     <desc>All the highlights and star products.</desc>
     <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
-    <start>04:00PM</start>
-    <finish>05:00PM</finish>
+    <start>05:00PM</start>
+    <finish>06:00PM</finish>
     <date>28 October 2025</date>
   </channel>
   <channel>
@@ -298,8 +288,8 @@
     <title>White Stuff</title>
     <desc>Discover White Stuff in this show, featuring inspired fashion that combines eclectic prints, flattering shapes and fresh designs. Update your wardrobe with pieces you'll wear again and again.</desc>
     <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
-    <start>04:00PM</start>
-    <finish>05:00PM</finish>
+    <start>05:00PM</start>
+    <finish>06:00PM</finish>
     <date>28 October 2025</date>
   </channel>
   <channel>
@@ -355,71 +345,71 @@
   <channel>
     <name>Rtp África PT</name>
     <id>RtpAfrica.pt</id>
-    <title>Programa a Designar - RTP ?frica</title>
-    <desc></desc>
-    <image>https://mage.stream.nos.pt/v1/nostv_mage/Images?sourceUri=http%3A%2F%2Fvip.pam.local.internal%2FPAM.Images%2FStore%2F22dfe2114df744a282753a54088563c0</image>
-    <start>04:15PM</start>
-    <finish>05:00PM</finish>
+    <title>Bem-vindos</title>
+    <desc>Talk-show onde s?o abordados temas como a educa??o, religi?o, fam?lia, o lazer e o ambiente. Cada epis?dio cont?m rubricas de culin?ria, consult?rio, sugest?es de leituras, eventos e ainda atua??o de bandas, dan?arinos, atores, entre outros.</desc>
+    <image>https://mage.stream.nos.pt/v1/nostv_mage/Images?sourceUri=http%3A%2F%2Fvip.pam.local.internal%2FPAM.Images%2FStore%2F3bc5bc72f1b9487680402fa7c6e1b9a4</image>
+    <start>05:00PM</start>
+    <finish>06:00PM</finish>
     <date>28 October 2025</date>
   </channel>
   <channel>
     <name>Rtp Madeira PT</name>
     <id>RtpMadeira.pt</id>
-    <title>RTP Not?cias (RTP Madeira)</title>
-    <desc></desc>
-    <image>https://mage.stream.nos.pt/v1/nostv_mage/Images?sourceUri=http%3A%2F%2Fvip.pam.local.internal%2FPAM.Images%2FStore%2Fb9920df6a0b94472b690e5c404d3d356</image>
-    <start>06:30AM</start>
-    <finish>05:00PM</finish>
+    <title>Not?cias do Atl?ntico</title>
+    <desc>Magazine informativo feito a partir das regi?es da Madeira e dos A?ores.</desc>
+    <image>https://mage.stream.nos.pt/v1/nostv_mage/Images?sourceUri=http%3A%2F%2Fvip.pam.local.internal%2FPAM.Images%2FStore%2Fa837771344214f71beed1693e8cce186</image>
+    <start>05:00PM</start>
+    <finish>05:30PM</finish>
     <date>28 October 2025</date>
   </channel>
   <channel>
     <name>S4C UK</name>
     <id>S4C.uk</id>
-    <title>Awyr Iach</title>
-    <desc>ymuno a chriw o syrffwyr ifanc yn Ninas Dinlle, garddio ar y rhandir yng Nghaerdydd, a mynd ar helfa synhwyrau gyda Leisa, Cadi, Erin a Beca. More adventures in the open air.</desc>
-    <image>https://images.metadata.sky.com/pd-image/01e83c1b-6f52-4ced-b9ab-fb051576f62d/16-9</image>
-    <start>04:45PM</start>
-    <finish>05:00PM</finish>
+    <title>Criw'r Cwt</title>
+    <desc>Mae Efa yn ffonio Criw'r Cwt oherwydd bod Ifor yn isel ei ysbryd gan ei fod yn meddwl ei fod wedi byw bywyd diflas. Efa calls the Coop Troop because Ifor is depressed.</desc>
+    <image>https://images.metadata.sky.com/pd-image/bbc00531-d7c4-4986-b5cb-555ecb6ac9b3/16-9</image>
+    <start>05:20PM</start>
+    <finish>05:35PM</finish>
     <date>28 October 2025</date>
   </channel>
   <channel>
     <name>Sky News UK</name>
     <id>SkyNews.uk</id>
-    <title>Sky News Today</title>
-    <desc>Breaking news, developing stories and live events from Sky News correspondents in the UK and around the world.</desc>
-    <image>https://images.metadata.sky.com/pd-image/70c994c4-c01a-42fa-978d-3b8904fb2c75/16-9</image>
-    <start>04:30PM</start>
-    <finish>05:00PM</finish>
+    <title>The News Hour With Mark Austin</title>
+    <desc>A comprehensive round-up of the day's biggest news stories, including analysis and insight from Sky News correspondents.</desc>
+    <image>https://images.metadata.sky.com/pd-image/21ce85e3-c08d-45af-a04d-b3dc15d200aa/16-9</image>
+    <start>05:00PM</start>
+    <finish>05:30PM</finish>
     <date>28 October 2025</date>
   </channel>
   <channel>
     <name>TV 5 Monde F-Be-Ch Fr</name>
     <id>TV5Monde.fr</id>
-    <title>Vestiaires</title>
-    <desc>Dans les vestiaires de la piscine o? ils s'entra?nent, Romy et Orson, deux nageurs handicap?s, partagent leur vision du monde. Une vision teint?e d'humour et d'autod?rision.</desc>
-    <image>http://dshm.tmsimg.com/assets/p28122675_b_h10_aa.jpg</image>
-    <start>04:55PM</start>
-    <finish>05:00PM</finish>
+    <title>64' le monde en fran?ais - 1re partie</title>
+    <desc>Le grand rendez-vous de l'information qui donne ? voir l'actualit? internationale d?crypt?e par le monde francophone, gr?ce ? ses t?l?visions partenaires et ? l'expertise de ses correspondants dans le monde.</desc>
+    <image>http://dshm.tmsimg.com/assets/p29114735_b_h8_aa.jpg</image>
+    <start>05:00PM</start>
+    <finish>05:26PM</finish>
     <date>28 October 2025</date>
   </channel>
   <channel>
     <name>Together TV UK</name>
     <id>TogetherTV.uk</id>
-    <title>The Greatest Auction</title>
-    <desc>A piece of Ayrton Senna's race car and a poster from a Sex Pistols tour that never happened are some of the rarities up for grabs this time. Last in series.</desc>
-    <image>https://images.metadata.sky.com/pd-image/9ba1199d-afeb-3ffa-b951-2b23a3126e1d/16-9</image>
-    <start>04:00PM</start>
-    <finish>05:00PM</finish>
+    <title>Scotland's Greatest Escape</title>
+    <desc>Three Scottish escapes are judged as part of wildcard week, but only one can make it through to the grand final.</desc>
+    <image>https://images.metadata.sky.com/pd-image/32cb8224-2eb7-4e63-8492-123dc67f4093/16-9</image>
+    <start>05:00PM</start>
+    <finish>05:45PM</finish>
     <date>28 October 2025</date>
   </channel>
   <channel>
     <name>Vosges TV Fr</name>
     <id>ViaVosges.fr</id>
-    <title>FILMS A L?AFFICHE ? LA TERRE VUE DU SPORT</title>
-    <desc>Retrouvez les sorties cin?ma des Cin?s Palace ? Epinal.</desc>
+    <title>JOURNAL - M?T?O ? FILMS A L?AFFICHE ? Pastille Transat Caf? ? L?ATELIER DU JARDIN</title>
+    <desc>Retrouvez votre journal du lundi au vendredi ? partir de 18h, en continu jusqu'? 19h, puis ? 20h30, 22h30, et le lendemain de 5h ? 10h.</desc>
     <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
-    <start>04:45PM</start>
-    <finish>05:00PM</finish>
+    <start>05:00PM</start>
+    <finish>06:00PM</finish>
     <date>28 October 2025</date>
   </channel>
 </tv>
