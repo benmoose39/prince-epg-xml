@@ -1,2 +1,1823 @@
 <?xml version="1.0" ?>
-<tv/>
+<tv>
+  <channel>
+    <name>ABC News 24 AU</name>
+    <id>ABCNews24.au</id>
+    <title>ABC News Mornings</title>
+    <desc>Stay in the know with what's happening this morning. ABC News brings you up-to-the-minute news to fuel your daily conversations so you can stay connected and follow the discussion across the day. Presented by Gemma Veness.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IitUYWRNMURuNFwvUWxwSkM3VUg1UjJBPT0iLCJ2YWx1ZSI6InlxdGw0SDM3emRKcGsxbHZzbWZmNUpiTFR0eWplOWw5MVJCNzIxMHM2WlZFK0VqcXlNZTRrclBxeDllcEJVRW9OcnNNNXZLZ1Z0MU5pcTI5SXpvTU82a1lHTkZFS0FpSzlZMFhvbEk3V0Q3dk43N2tpcEFQM2gxMzFjd1ZpUHo2S3VGUlFiOUM3QktzV0cxTkM5NEFpbHZuU2hBQWV2QVlOaGZ3WmNRQlY5NytrRFBwUWJhMUJNaXZicGFaSFhPKyIsIm1hYyI6IjFjNGIzMjU4NDdlNjQxMDk3OTJjZjkwZTBhNjBhNmZlOTAzOWI2ZDE5ZjgxY2QzNTkxMTYxZDk5OWZlNmFiNWIifQ%3D%3D&amp;signature=959f65515406f81edfa4a6e7f67ae2260e262db3aca9c1a1772c0bfbb6177290</image>
+    <start>10:00PM</start>
+    <finish>12:30AM</finish>
+    <date>04 November 2025</date>
+  </channel>
+  <channel>
+    <name>ABC News 24 AU</name>
+    <id>ABCNews24.au</id>
+    <title>ABC News</title>
+    <desc>Ros Childs brings you the day's top stories and the latest news as it unfolds, with reporters in the community across Australia and around the world reporting on the issues that matter to you.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IlZQWWorQUNmUjlkYzM1bUYzTmduUXc9PSIsInZhbHVlIjoib2RjNndUbWNzS1BKb2plSmtjOEc4Tk5XNkRwQWlrd3BhZ1hHVGFQeVo2cFVnQW1CMmdPZW1DQzBNNGE3azJITVZvSTE0WUp5MEhzbk9jMWFUN0lFZlZpNmY0N2VJTTF3Nmk0YU12d1I0WkNNNGk3NFVPckU4ZU9Eb3JybVRmWGFJOFVocDdGdngxOTFhVUlXXC9leDhWZmFUSkhKZVRDVUdRdERcL1FNcXFPVGZ2aExrcXpkWEhETzhvb1hMTG9RNWEiLCJtYWMiOiI2MDQzODRiMzI4YzlkZmZmZGFhMWIyY2Y4MmY5YmQxZjIxZmZjODhlZTY3YmEzY2UwNjhhYjE2ZTU5NDU2ZDllIn0%3D&amp;signature=fc5aa88bd78cd212b1f671b5d5c3c3d2fa1770244fb05bdd1f98807dd2364df5</image>
+    <start>12:30AM</start>
+    <finish>01:30AM</finish>
+    <date>05 November 2025</date>
+  </channel>
+  <channel>
+    <name>ABC News 24 AU</name>
+    <id>ABCNews24.au</id>
+    <title>National Press Club Address</title>
+    <desc>ASIC Chair Joe Longo addresses the National Press Club on the topic \.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IlQ0SGZTZFlxVVwvVnJNSUptRXIyXC93UT09IiwidmFsdWUiOiJTMFBwSlUxMnRreDl3VlI0Qk56MlwvOWFYSTRrSkMrUmFNUjNEd0VrUGlua1hOVEhXNjAzN25QVWRIcHY3NExPakk2QU5HUGxCaUpcL0NMMkwxdHN2N3BTZDVuSnZHSmZ6ZTVMQTU1TEVDcUVDK3FIdlp3RlZ4cjUxN1lRWk5PSW81NUt2V3lxcnVNdWlQUVkxTUpiRW14Z0ZtNnZhQ01GM2xDZ01Tc1wvME5ITitnaFBrcjZUUUNKY2ZXU29HeDY2OE4iLCJtYWMiOiJlYmMwMTkxYWM3ZjZhZTI5OTJjZTRmOWYyMTczMGM3OTAyZTk4NmJmYmI5ZGU4Njc5MWJlNTMxYzA5YTljMGZiIn0%3D&amp;signature=4ec96d062de47006b51b6b505c8f83715b2ec23169a99d5a9657f7fa48cd58b1</image>
+    <start>01:30AM</start>
+    <finish>02:35AM</finish>
+    <date>05 November 2025</date>
+  </channel>
+  <channel>
+    <name>ABC News 24 AU</name>
+    <id>ABCNews24.au</id>
+    <title>ABC News Day</title>
+    <desc>As every story unfolds, catch each breaking moment and stay up to date. Ros Childs brings you the latest news, interviews, analysis and original reporting on the issues that matter to you.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IjZLaW5aZmFndXJQSkVZb1d5VlNmekE9PSIsInZhbHVlIjoiMW1cL09jU3djZXVwM0VqNldxWE1rdlkwbm9YMWdlMUF2R1RcL3hXTmY0cElkVGhEaURWSkhHOVpcL01lVThObXQ5OCswWmZpaDg0RFUxYkNRZUllWUNwenRxSURva3RnUmUxT0o1OTlXQnNHcVh0RXVJdTlLXC9kWEFnR2NoRyt6azJlRVFGOFc3cllNZ0tGeVA2MkpOeFNKNHRqVUkrMWxURDkrT3dNSXF4VExSQ0V2cDFWcFRvcEZJUjM5S21ZNng5aSIsIm1hYyI6ImE0ODAzYmMxYTA5N2Y4ZmYyOTE4YjQ5M2MwMGYzYWUxOTIwNDQwMTQzMTQyZDNhOGI0NzJhMzRlZWM2M2FiZGIifQ%3D%3D&amp;signature=786fda6b3384e1d735cee2205357e6090d6b82f27e092d0aa2a099d56b2c57c2</image>
+    <start>02:35AM</start>
+    <finish>03:00AM</finish>
+    <date>05 November 2025</date>
+  </channel>
+  <channel>
+    <name>ABC News 24 AU</name>
+    <id>ABCNews24.au</id>
+    <title>Parliament Question Time</title>
+    <desc>The parliamentary sitting week continues with live coverage of Question Time from the House of Representatives.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6ImxsMlpUemI3eDl5bnplTEM4Wlh0Qmc9PSIsInZhbHVlIjoiV2k1R293MCt2XC92WlRIYllDXC9HOCtvcFJiMnppajFIWVlKSXJ1YnE3VXdVV3FxWkJ5dG0zWFwvczRJNDdXVTFHTFNyVGs5R3BJVDhiaUVWTGYzUHhGSU5NNUxJUlV0aW9YVzRYZ3llRTY4NmhYZEdRQXdZVDNUY3FLN0NQeEE1QXNyZ0dOamJacmRTeExiRFwvSlVhUzJTMUpBSGpPbXNMUklNNUVDOHBCc1wvM1wvdGRNb0FCT1BYU1V2blwvVHhxT21RRSIsIm1hYyI6ImMyODkxZDgyMTQ0YWFiMjQ3ODY2Y2ExN2JkYWEzZTVkZTM5OWQwOWY0YTMwNmMzMDdhNmJkNTNiMjVjNjZjMzYifQ%3D%3D&amp;signature=ef9e350f2337fbea393859cf2b4587a968ebeaaf45e32c95e97c70d3a6cf2df2</image>
+    <start>03:00AM</start>
+    <finish>04:10AM</finish>
+    <date>05 November 2025</date>
+  </channel>
+  <channel>
+    <name>ABC News 24 AU</name>
+    <id>ABCNews24.au</id>
+    <title>ABC News Afternoons</title>
+    <desc>More news, more often. Wherever you are stay in touch with ABC News through the day. We have reporters in more places, to tell you what's happening and why it matters. Ros Childs brings you the latest news and information.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6InRIYkpUN1N2NjlGZnE1QUFqVElBQ2c9PSIsInZhbHVlIjoiWk1yWG5nSXRiQVwvQTVpbHNKeG00bVwvbVFYY2FXWDJBelpWdlE5TUdycnpBUHc5d2RuMFJNaHlzMDhLRDFHTWI3UDFRZ3o4WGU2MG9ZVWVJSzR5aWpuVUI2MzhsZGVzQTJBbzRuNnpRVjJkRWVXQlwvREowYlwvUDBTSWxrYjZ0cTJGS0tKWmV1QndiMTVlUzg2ckhtbEU3QXUyVkRUa1BhREhpMEExbG1icmhVOXdlQlc1OXVjYkc2dTgzN1dQWXF6RCIsIm1hYyI6IjA3MjZlM2U0MDY2ZmEyYTZjZTA0NzU1NDBjZDI0YjQ5Mzc5YTA1ZTRjNGQ0NjY2YjRlMTI5OTZlYzAyYTNhN2QifQ%3D%3D&amp;signature=cc40e278d85858d88c5d50018c1bc4219e945d65a8a88a3d6cb00b9e81c587e3</image>
+    <start>04:10AM</start>
+    <finish>05:00AM</finish>
+    <date>05 November 2025</date>
+  </channel>
+  <channel>
+    <name>ABC News 24 AU</name>
+    <id>ABCNews24.au</id>
+    <title>Afternoon Briefing</title>
+    <desc>Your daily download of everything you need to know about politics, national and global affairs. Patricia Karvelas asks politicians the tough questions and talks to key players and experts on the issues driving the news cycle.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6Ill2YkF3ODc1dzhKalBZVmdTNGw0cnc9PSIsInZhbHVlIjoicGk5czZBTEFpNFhneGsxZjJ4SkZnVGxKTjJ1V1RvcW1ua0dSU3dYb0Npc01SaGZ5RjYzZU5RRmpVaHRNQ1doWEg4b0hnRnNZbjEra01GQkdlUFFGV2VmeVV2dFR4Vk1NMHZScU91VUNJK3pMdHZUVDFwODdHZzRKTTY0VGlIcFlpOHFRNkUzRDR1dkltczNHR0hLdDhYU29xXC9hOEd3ZVoxUnkybVlwQVwvTzNOSkl6OURcL2dXRWVlSVFDKys1anNcLyIsIm1hYyI6Ijk1NDQ5NDU3N2FiZDM3MjcyMGRiYTE0YmI5MTNhMzQ2ZDY0MDY0MjcyMjJkMmJkZWYzYjZjYWQyNWI0NWVlYzIifQ%3D%3D&amp;signature=05d8fafcb38ee6270c96380960b544e34ef4d1602ed4341caa4385f9cd9a4cb4</image>
+    <start>05:00AM</start>
+    <finish>06:00AM</finish>
+    <date>05 November 2025</date>
+  </channel>
+  <channel>
+    <name>ABC News 24 AU</name>
+    <id>ABCNews24.au</id>
+    <title>ABC News</title>
+    <desc>Joe O'Brien brings you a comprehensive summary of the day's events, with the latest breaking news, in depth coverage of the top stories, live crosses, interviews and explainers to bring you up to speed on what's going on.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IlpXeE1kNW5CVmxuMEw0T0JnQkxBemc9PSIsInZhbHVlIjoiUmZQeUlzVHJmV3Fua3RWaXk5c2tkK0FlNGtQdmdQT0c2VENMeHIxd1EySG5hZ0VMWWc2UHY0dXFZcEVEcGxJRUJ2MERyd2xiaVZIcE5kTU42cDltOHZxc3JUam9IaGV6QVloUXVweFBZUW9DSGlCRm5UQ0Z4M3BiN1wvbTdpMzdpaGlOczhmN2FIUnRRTkxNa3BBQ0ZPN2RrSVdmWlRTTW5iaDRoWGNrYmpcL2gzcWRVWWRqaDA5UTRMc0Rwd2toZ3QiLCJtYWMiOiJlY2FjZDU5OWQ4MWNiYTgyNzk5ZjNlYmVhYzZiYjBlM2ZmODU5MDI5YWY1MTVjYTViOGNmZDllMTBjMzc0NGUwIn0%3D&amp;signature=318113f4715ac8f24841d7c7ea2c16107c881d8a88dc13287153db98ddd9414f</image>
+    <start>06:00AM</start>
+    <finish>07:00AM</finish>
+    <date>05 November 2025</date>
+  </channel>
+  <channel>
+    <name>ABC News 24 AU</name>
+    <id>ABCNews24.au</id>
+    <title>ABC News Hour</title>
+    <desc>Stay in the know with Australia's trusted news source. From your neighbourhood, across the country and around the world, ABC News bring you the day's top stories and latest news, all verified. Presented by Joe O'Brien.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6ImpPQ2g4SXk1YVlDSW9mMkhqOTBGRkE9PSIsInZhbHVlIjoibUhjNnRHR05idHdXQUhRaDZjMnA3blNYbGtNU3JQdEpWSXNoSUpcL1FhZTVWNU9yTXZ4WE9zdmRta29BeEFFaE9kNzdlbXRWVUR6eTRmY2FidVFEM0lLWno5TzlBT0RIazVzR29UbW5WYVZ2NSt2RzNZQ3psd2FEQzZGZmM0N3JoVkl3bGtyb2tvRXJmNldUM3VKOCtjYnNPMFwvZTd6Qkl3M2Z6WEVzbXMzUmZvZ2d2c2gwcTVlYzZlRTZ6dHp5TUYiLCJtYWMiOiI2ZTYzNmU5MDQ4NTA1OGM5MjhiM2Q1Njc0ZTE1NzZjNzQ0N2M2NzdlMTFhNjRhZjY4ZGRmYjhmNzUxYzY1YWE3In0%3D&amp;signature=0d62dfe53e33e324e44e9ec7124604ee44fede6a429c7fe6930022ab9334b25b</image>
+    <start>07:00AM</start>
+    <finish>08:00AM</finish>
+    <date>05 November 2025</date>
+  </channel>
+  <channel>
+    <name>ABC News 24 AU</name>
+    <id>ABCNews24.au</id>
+    <title>ABC National News</title>
+    <desc>There's never been a more important time for transparency and trust. ABC News brings you the day's top stories and latest news, with more reporters to tell you what's going on and why it matters. Presented by Joe O'Brien.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IktHcm5LYnVnXC9xWmxXTjQyRkk5Q2xnPT0iLCJ2YWx1ZSI6Ik1tcXhZZW5ZdjF2UWlXSDlQVWxDVFlUTEE3Q01NZlhwZGJqaXd3QjdpNVhMYnNoblZMbXcybHhXTVVJK05ZZzhGQ1Bvb2RiVklQcUlQRlwvRmpvd0w2Ym9YaWRPZENKakxvSHRkSEhqVVdsekVDZmYyOGdFZEFVNkI3MUZWYVRMaEtKSGN1bWQyYlwvWHE4THlHVEI5WUtZQUxFbmxEXC9hXC9KV3A4N2JwdjFNMkdyc2M2Tm8wYjhlVWRoT1wvT01CZTd5IiwibWFjIjoiYzNmMzViNDAxOGRjMjJiZWE2ZGQyNDY2NWNmNzVjOGE3NWNkNzllMWFlNTVhZWExNmQ1N2Q4YzcwYWRiOTM3NyJ9&amp;signature=f06b55e45b9fe381cdbc44d8be4cdd16bdce01f5252f006f5d9afeaf86a8275d</image>
+    <start>08:00AM</start>
+    <finish>08:30AM</finish>
+    <date>05 November 2025</date>
+  </channel>
+  <channel>
+    <name>ABC News 24 AU</name>
+    <id>ABCNews24.au</id>
+    <title>7.30</title>
+    <desc>Sarah Ferguson presents Australia's premier daily current affairs program, delivering agenda-setting journalism and interviews that hold the powerful to account. Plus analysis from 7.30's Political Editor Jacob Greber.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IkRxaGVUSFwvdGpIc2hOKzVKNW9GcUJRPT0iLCJ2YWx1ZSI6IktscDlpcHRKRlkrV3BabTBoRnhLK2F1MTJuQ0QwNXVybUViUXo1RklmS3oyalNKaFVvblVFU2xpa2M2ckczUE8xZnhcL2lLTFJsTkpQTjZwU1ZOVFdPM1VDbDJ2QXpJaHd3QUtDcXp5S0VUT1wvS0lZeUdnc2xDNFR0UEtpaU0xQ2xZMldVblEyMWpHdjAyN1dDMkptRFRxNWhCYzdiMldyTkRvbTJ5Z0FCTFo2c3I3Yk1iR0c5c3ViazVWekNMWW1EIiwibWFjIjoiMDM5ZjgxNTdjZTZhZjIxZDg3YjgwMGNhNmU3NWQyM2E4NzM3YTNkNjFiYjJhMjM5NDU0MjU2ZWJhMTE0ZTgxYiJ9&amp;signature=a3acbd1c52fa0e75886e6c634ab343ef1064b6d918b844d5e20d46f2d4526257</image>
+    <start>08:30AM</start>
+    <finish>09:00AM</finish>
+    <date>05 November 2025</date>
+  </channel>
+  <channel>
+    <name>ABC News 24 AU</name>
+    <id>ABCNews24.au</id>
+    <title>ABC News Tonight</title>
+    <desc>The latest breaking news and a comprehensive roundup of the day's best stories from across Australia's states and regions. With reporters in more places ABC News tells the stories that matter to you. Presented by Yvonne Yong.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6InRmQWdHVDl1cE5zK0tzeUFuMmllUlE9PSIsInZhbHVlIjoicTljUE5aXC9cLyt4WDMrMTIrdjR0Z053UVFvRnNuVUdkY0Rkc2VoOGNOcjh1RlpqSEdYQkIwUHkxb1VVdk43a1oyVXdEd2w1MWY0b0kxbXI4N1NBaDVxQityOURPYko3KzFwcHNJOUU4Y09QaTU1SFdwS1FZUnpjMXpSWnVZSVB3TVdaVmNzTUNwWjljb2t6eUF0eHIxUEtvZFlSbnE1N3RscHRJemQ2RnJMdzd3Q3BZWkZ3XC9ZYUQ5djJ2NmtjNVBuIiwibWFjIjoiZDZhZTgwOWE5YjQ1NmM4NGI3YjBjZGRhNDYzZjYwODZjNzJkZmNkOTk0MDE3MjMwNTFkNTI5ZDM5YzMzZTEyZiJ9&amp;signature=a27980785229400f7d83614d7ec5b0121de8c1909fc48a0947d51baa454506c1</image>
+    <start>09:00AM</start>
+    <finish>09:44AM</finish>
+    <date>05 November 2025</date>
+  </channel>
+  <channel>
+    <name>ABC News 24 AU</name>
+    <id>ABCNews24.au</id>
+    <title>The Business</title>
+    <desc>Australia's leading daily business and finance show, bringing you up to date on market moves, economic trends and the forces affecting consumers, employees and business owners big and small. Presented by Kirsten Aiken.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IjRybHNOdlJZR2srZlVpS3liUXR3cUE9PSIsInZhbHVlIjoiVnpTSGZFMkhGazJDT1MxR05lckhmMlFQamowbm0rNnoramw2U1BheGJTRjVwYmtnXC9wcENBSzkxM0FaVFlOYlNYdHBPUGxTNytXTUYyVjZ4MExHcFRjXC9vR3ErUGFid3dxQWNIVWhNSFBFZ2NpQStVVGQzQmYzQzFlRWdhdVVZTG9ZWTB3XC9hT2FLS2I4bXZOajlKRjlWOXpBTTNYaVY5U2x0akdGNW5hbURCNTZmSzBNNGtoRXExMlN1bE5IeElzIiwibWFjIjoiYTQzZGU3YjEzNWFmZmZiYTE0ZDE4ODI0NWVkNmE4ZTU3Y2I2NjRiNDhiNzIyNjY1NzYzYjE5NDAyMTYzNTdlZiJ9&amp;signature=87e494b565431c11c749d0fd19fda846892a6781855e038894e83d0810ab1883</image>
+    <start>09:44AM</start>
+    <finish>10:00AM</finish>
+    <date>05 November 2025</date>
+  </channel>
+  <channel>
+    <name>ABC News 24 AU</name>
+    <id>ABCNews24.au</id>
+    <title>The World</title>
+    <desc>There's never been a more important time to stay in touch with what's happening in our world. Girish Sawlani presents the latest international news from ABC News correspondents as well as interviews with experts and guests.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6Imcya1JvelNTa25NcjlwaVV4YjE2NlE9PSIsInZhbHVlIjoieERvXC9rWFEzVHRnOWxDbnd3U1ZKcTJ0VW5ObnJ2eXYxM1hlY3NwUXIwNXM3MVZBMHFOSDZVV1gzcGFhaVJXdVRIbmxQdDdydlBXNzNSYlVXZ293SXlSTFZHRENzYktwZHdTallBNDRtZHljaVNUcnNtd1BjUWNwTmxhblwvdTZZMEZIN2xkbHAyblFuOFlJV1ZYSzdZaDF5djUxRUZWQlFsWHZhblpEK1VPNFJlK0hMdVFVQllqNHEzVnF2eVF5N2UiLCJtYWMiOiI0OTBmM2VkNjk3NDZiZmE3OTVhMjZmYzkxZGJlNWM5Y2IyYjJlM2IxZmFiMmU1Yjc2MTI5M2UwYzczOWExMTI1In0%3D&amp;signature=c801ee28e020cc6505ea009be7b851cc31d573e4a9cf786d7a31bb1c93dc1712</image>
+    <start>10:00AM</start>
+    <finish>11:00AM</finish>
+    <date>05 November 2025</date>
+  </channel>
+  <channel>
+    <name>ABC News 24 AU</name>
+    <id>ABCNews24.au</id>
+    <title>ABC Nightly News</title>
+    <desc>The home of breaking news and in-depth coverage of the big stories from across Australia and around the globe. The ABC's network of reporters cover important stories and all the news you need. Presented by Yvonne Yong.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6Ikl0UUo5Nk1IZlRJTkNhTG1IZmJ4aUE9PSIsInZhbHVlIjoiU2VVVHlVdXYrVzNEcEJ1aVVDNlNBbFwvUlBTZUM3d1wvOCtoXC9YOUJhMUk2R1hLTkRxMkJiZUkyQWVGRWtDQmIyOXZaQytRTndReFwvSThnaUJcL0F5eWFqd0JpRjM4S09Da0syWXBUQ0ZSY3Z4WGlWdFwvTW5KUk80TVF3RXhPdVNzdElKTFpvaXRYYUJ2NERNOGdOK0NiaSszQ1hQdEJUaHdtVm0wNWZNSHF3Q1M0OWRXdTZydm5CWTlISjFuVGZET3lCIiwibWFjIjoiMjg4YjcxMjU0MTIzNTBjMzg1ZGYwOGNmZjRiMzY4MDlhOTE4MmJkYWU0MGNjZGQ2M2RmZjY0N2UzZjJjM2JlOSJ9&amp;signature=1793ecc4c3d04e3b664de619bc5cf2d5bda8f04b10504a9693c5edaab1539d97</image>
+    <start>11:00AM</start>
+    <finish>11:29AM</finish>
+    <date>05 November 2025</date>
+  </channel>
+  <channel>
+    <name>ABC News 24 AU</name>
+    <id>ABCNews24.au</id>
+    <title>Australian Story</title>
+    <desc>She's flamboyant, provocative and brave. She's also married to David Walsh, founder of the MONA gallery. So why does artist and curator Kirsha Kaechele feel she's not taken seriously?</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IloraUIwTjZRZXdTSUR6bStVMkFxK1E9PSIsInZhbHVlIjoiMk5qQVBjSEl3ME1EbktMM2FxN1lveG51Y1wveFwvM2xsUXhhQ2ZNTFJPM1AyTUh5YzdPYkt1OE93MTdpWWIrNFl5VmZXQnU1akRtQ3I5WGplMlVDRmloQTNpT0dRNThlUlJteFJFK1N2UWdCYlZudGptcHByZUNxS0hVTFJEXC9uVHAzaXRMVE5lZURYcFdZcmxkaEtHZ3JoMlNNdHRCOGIrMlExc0RvOE55OWtkT1wvVm9wOGorQ3RCSGJCUmZQajNXRSIsIm1hYyI6ImZhZmFhYzJhYmM4MDJlZTU5MDA5MjRiYmI4ZWY5ZTgzMWRmYzVlZTk1MDhiODIyNzNlMzc3YWQ1YzFlMjc1OTMifQ%3D%3D&amp;signature=86e463c0412891082333df0402c700c754f3d4a6c9aba0bc5a8220aebb752796</image>
+    <start>11:29AM</start>
+    <finish>12:00PM</finish>
+    <date>05 November 2025</date>
+  </channel>
+  <channel>
+    <name>ABC News 24 AU</name>
+    <id>ABCNews24.au</id>
+    <title>ABC Late News</title>
+    <desc>More news, more often, with more reporters in more places, connecting communities and covering the stories and issues that matter. Presented by Michael Tetlow.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6Im1GakRGcTRBMDZ4UnpsSlhRZFlSdkE9PSIsInZhbHVlIjoiSkFvXC82QlhtcTlYd0I3b2JpRGF4XC9KUEF6SDk2ckV3QmVucVVhNDRlc2V3SzhONGM4a3oyeTdPd0dGWnBLSVMzbytjMW5nSDNYcWswc0R3WnNJSXhFS0xRWVAzd1QzbmhwWWplS0F4VzRPQ3ptUmNFNnNzYmlERm0xTXJxY0tQelh2bUhoZFVzWEpSKzJveUwyQ2Y4YkRBd2Vvc2N1ZzQ2a1VFTTlpaDJZQ0JPVnBOVDJsZFhEQ3Z0bFQ2cGRjNDAiLCJtYWMiOiI4N2EyM2IzNTUxNmQ5Yzc0ZDk1ODk5ZWFhNjBmYjUzNTZmZmQ5OGI3OGUxMjdlNWNjMDhjZmRiYWI2YjVhNmQ0In0%3D&amp;signature=14af5fd1bc401d318ae2460fd3644b5e0b0c64f4302f425960df0defa5ee04b3</image>
+    <start>12:00PM</start>
+    <finish>12:29PM</finish>
+    <date>05 November 2025</date>
+  </channel>
+  <channel>
+    <name>ABC News 24 AU</name>
+    <id>ABCNews24.au</id>
+    <title>7.30</title>
+    <desc>Sarah Ferguson presents Australia's premier daily current affairs program, delivering agenda-setting journalism and interviews that hold the powerful to account. Plus analysis from 7.30's Political Editor Jacob Greber.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IlVlQzFkRm5ReGlFUFUydE1WT2VKdVE9PSIsInZhbHVlIjoib3cxeG9Hczk0ZHBhRUhvbEdNTHB4bUtIajh5YmFFaTZINXJLODhTVXdjT2xoV1l6NWt4dDl4QVB3T2oweEJmTytNTFV2WXBiWkVQYUZDV216MjY4SWttTDR6dW1RMWpjRHl6R3lVVVNmVVErbERtUjNKQ094em11WnRtWGZsSW8zekdlTzFjY0JqTDlqYVIyZnNuNHRQSFZsS0Q2enRzZ1B1ck5WXC9KWkVHcUVRS1FYRTVxOG9hZzRvYTBXRFJJMyIsIm1hYyI6ImEyZjBmNDkzMmQ3MDQzODk4NDNlZjM3MWQ0OTEzMWEwMmFkY2ZkYWFiMTBmODA3NTU1ODQ0NTE3MTllMzU0NmEifQ%3D%3D&amp;signature=0d67098e3d8ea38d2a8c7c3ad65e11220d0493140c48de2dfd0066899f5a7a9c</image>
+    <start>12:29PM</start>
+    <finish>01:00PM</finish>
+    <date>05 November 2025</date>
+  </channel>
+  <channel>
+    <name>ABC News 24 AU</name>
+    <id>ABCNews24.au</id>
+    <title>ABC Late News</title>
+    <desc>Michael Tetlow presents the latest on the day's top stories and a comprehensive round-up of the news of the day, with reporters across Australia and around the globe reporting on the issues that matter.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6Imx4VDJuSklVZ1lzcGczYWhNeXJHamc9PSIsInZhbHVlIjoiK3V5Rm5JQlg2ZGdlRmJ6c2lWdDdlUGdNVFdzcjZJOEYrXC9oWWtEWHlnMFpkRGx0dlpwb2g5QklNWXUxODNSZ3lMZFwvTkxhb3BuVEhBMEs0SXdWME5DUFp1TER5SEhDTGFEbDg0V0pTTVpQWDRSUkNNbGtNd3RrUTd5bjVLTTVLTk9EdnUxU2lFWHBNRnYyS0p3QUVFMEI2Y2pCazQyOWNZUTloYnJjeG1iUjBrandXUVBKS3N1RGJpTmpwUlhqTWQiLCJtYWMiOiJhOTU4OTE5ZjkxOWMzZWExMGVjOThiODdhNDk0Mzg5YWMzOTU3YjE3ZTBhNzgyYmQ0YzAyN2ZjODc0Y2Y1YzE2In0%3D&amp;signature=c26fd9bc7122b75ee05fdcd2fd48e75542aed0b15ea3f9f541eab86b894dbca0</image>
+    <start>01:00PM</start>
+    <finish>01:30PM</finish>
+    <date>05 November 2025</date>
+  </channel>
+  <channel>
+    <name>ABC News 24 AU</name>
+    <id>ABCNews24.au</id>
+    <title>That Pacific Sports Show</title>
+    <desc>Tiana and Sera are joined by cricketer Melissa Velvel Fare and powerlifter Hani Watson to talk about some big moments in women's sport this year and what they hope for the future.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IldkRlN2U1pHZzlENUhUU3ZHVjVEd3c9PSIsInZhbHVlIjoiUEI0XC9GVTVEdUZrSUNlTUtDYzM1aVFoTW5PSjM1Vkh6azVqNFNiT09xZElWbFNVanhmUmhnU1lhaFJseG15UXJyUlA0MFhNd251Zmk0VTZSSXhUZmoxN2pOcERzQzZ3a0lcL1BJZDUwMWtkS1RLTVEwTW85MFY3R0FQRzYyblhucktlemJZdG5TWnBMRklFZjlVWjYxVWJYRW5sa3dDM3ZOdDRaVWVZeHQxMTdWZmgzYStOQW1NdDBRYVVpZ0VEdG4iLCJtYWMiOiJiMWMwMmFiZmI5YTY5OTY4ZTQ1ZTBiNGJjMDdmZGMwZDRjNDg3NDk3YzBkNGYwMmRmMzgwMGY4ODU3ZTUzMDQ1In0%3D&amp;signature=c276f3e8cec87c46f7efa56098db7b416fe945f3cc1e7621e9bd3fe0f7d317cd</image>
+    <start>01:30PM</start>
+    <finish>02:00PM</finish>
+    <date>05 November 2025</date>
+  </channel>
+  <channel>
+    <name>ABC News 24 AU</name>
+    <id>ABCNews24.au</id>
+    <title>ABC Late News</title>
+    <desc>Follow the latest on today's news, covering what's happening and why it matters. ABC News has reporters across Australia and around the globe to bring you the news you need to know. Presented by Michael Tetlow in Perth.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IkMya09aUEp4NEUxOERXZWZsZ2VqMWc9PSIsInZhbHVlIjoicHFVbnpiMCtNOEl2Ymx3SDdycHJcL01aRFJsUWQ2NVVMMXY5ZTJONk1kWUJadExaQkwwVjYydnlLMzlTVjQ1eSthMjA4d1hZMVN1N1l4dlVySDVuRGw3VVp4WjhvaE95SDRyZ2JsdjhubjlCSHBuVHMwQkNwbXNSXC9ubFhMUFduajdSV0pueXJMN25oWjMyQnU1SmdnK0xTem5UTlArYWptSHF1NWNaV0xoTDVneDRrcHA1XC9wZHprVWdkN2RZaHpmIiwibWFjIjoiMzk1Nzc0ZmZjODM1N2FkZjBlZTc5OThhZjg0NTg5MzRhYmU5ZDI3OWNkMTk1M2U5OGMyM2IwZjI3MTU3YzM5YSJ9&amp;signature=9d7ab17bb8152a6b30812a75843ae0070d46720d7db9086c6526b1763166707a</image>
+    <start>02:00PM</start>
+    <finish>02:15PM</finish>
+    <date>05 November 2025</date>
+  </channel>
+  <channel>
+    <name>ABC News 24 AU</name>
+    <id>ABCNews24.au</id>
+    <title>The Business</title>
+    <desc>Australia's leading daily business and finance show, bringing you up to date on market moves, economic trends and the forces affecting consumers, employees and business owners big and small. Presented by Kirsten Aiken.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6InJYZyt4Q2tKZnRPTDZzUXBSd0UwV2c9PSIsInZhbHVlIjoiTmdxWDl5NXpUWU5ndWZZQXRDemlYb0hVMUVNeHRuc1dZKzRuMExJRmVaQXFtZTFRNmNYd3VCa2x6OGVia3k4b293Y2l1ZkcrWDAwTWRPXC9FQ2o5RHVhWUZCM1VVZXhHRnhydE9DNXI5WWFQR3VGWU9lXC9aYWxjQlNCWTc5WDhZa2NIdnlUYTRmVU5ZMk5yZmVHOURmejFzNDlYUU9jSkN0SGFcL0xGb1JLQnlcL1lUcXBrSUdKOWtpOEtvWTVUQlwvXC91IiwibWFjIjoiM2U3M2I0Mzc3YjAwZWZkYTJkNzcxYmFiODFmZDZiYzkzZjNhN2M0ZGVjZmU1NGFhZGM1MDVmOTBhNjRmMTg0ZiJ9&amp;signature=83a48494bbee721163d5b2e3aa5a3272b7bca5cdd22f8c8f8adc3b02e127dbdd</image>
+    <start>02:15PM</start>
+    <finish>02:32PM</finish>
+    <date>05 November 2025</date>
+  </channel>
+  <channel>
+    <name>ABC News 24 AU</name>
+    <id>ABCNews24.au</id>
+    <title>Creative Types with Virginia Trioli</title>
+    <desc>Award-winning broadcaster Virginia Trioli explores the essence of creativity with some of our best loved artists at the peak of their powers. Virginia's first guest is literary sensation Trent Dalton.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6Ik1Fb1lzRUtmaTJTTGdxanVXQkhIUUE9PSIsInZhbHVlIjoiMnZDZW1EMHZlNmxkazdDTlF0NGlcL1RsYmEwRTVmVjNHcTJjOEhcL0dwYXZDN3NwM2tPZ2NtY1l4S0l3NCtCOUVkUXF5RURUcFF1NlhLY1VBTUdVWEhFT2lZQWd0anJYbWUwSHQyOE8zRGRjUFkzZHZuZCtLRjFNMnRcLzVXUDRIdWp4bHpycWpjcFphS3F5UHdpTEtuRGVFVFNkQ2NJcnVRdm1IOWE0WVdkVlhuMG1DaThuV3BXUitlNFlxQTZVbFFqIiwibWFjIjoiODk5ZjI1Y2VmMzkxMjgwMzNlZWY4ZmQ0YjAyZDcyZWJkYWQ5Mzc0NmI3Y2FhZmZjMzc5ZmI1MTNhMWFjNGE3ZiJ9&amp;signature=42484e7ccb09c89e1ce2e172007c169ad0433a45cfd75da8a01bff07d8a5e9b6</image>
+    <start>02:32PM</start>
+    <finish>03:00PM</finish>
+    <date>05 November 2025</date>
+  </channel>
+  <channel>
+    <name>ABC News 24 AU</name>
+    <id>ABCNews24.au</id>
+    <title>DW News</title>
+    <desc>The latest international news and the day's top stories from a European perspective. Our broadcast partner DW brings you live coverage from Berlin with updated reports and expert analysis on the big global issues and events.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6InhGdE8zbEY1aUlja3d0bkdZYjIxVkE9PSIsInZhbHVlIjoiTDJkeVBtSUVYZElJVHg4NDlQM3U0OEdDc2ZBZDZ6VnpVUVllTGpIK3hGS3dmeHc3a0pcL0lQblp2N1haaUJOM3QxazUyekxhMmpUc3pMUEEzQVwvbndMSmxSUUt5eWtzTnlEYkNKakxHYjZrQWZMeDNkXC9VTHppaDllU3E5bTNtRkc1STNuanhDQTJRXC9ONjJITHZCN1JRblwvSEFuVUVzXC90NXhJN29RNENqUmV2V1lHMllDWW1LZllKTGlWbTI4NjFZIiwibWFjIjoiZWNiNjRhMjY0ZDc4OWIwNDUxMzAwOTBjMDdkOTNmOTRkMDIxNTU3YjQyYzg0YmJmYTE2ZDI3NzczMjQ5YmI0ZiJ9&amp;signature=fdf5bc0989979dec3fe221e61fc8a066071927e2694ef86c29aa0763d47604af</image>
+    <start>03:00PM</start>
+    <finish>03:29PM</finish>
+    <date>05 November 2025</date>
+  </channel>
+  <channel>
+    <name>ABC News 24 AU</name>
+    <id>ABCNews24.au</id>
+    <title>7.30</title>
+    <desc>Sarah Ferguson presents Australia's premier daily current affairs program, delivering agenda-setting journalism and interviews that hold the powerful to account. Plus analysis from 7.30's Political Editor Jacob Greber.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6Ik42enQrZ2Q5NnhUenZjY3FiUVJDY1E9PSIsInZhbHVlIjoiSzNidFllcDN1ajNEb0RsSGNYcE84VjVYR3V0NW5QTHNcLzJtSEZSbkthcTRrcFRBTHdrXC9mMFhlOHhHZFptSGdcL0VqRzdwUXpQbmE2bVBwN1J6bHRKaVwvZGRzaXlHZitua29jXC9SOTl0V0tjWTQxUVM4bWtOdWlMc0N6S1g4dExKamdtSlNEYzd6eHRRcFFWSmIyWFRNRzZ6MXFZR1ZaQ1ZpNW14MFBJQkZTVWtLTFFXQjlvTExVXC9iaWhBb0F2Z0RJIiwibWFjIjoiZDRkMGFmMzJjOTQyZmJiN2Q2YTFjNWRlNDRkNTRhOGRjNThjZDRkYjkxMGRmMjBkZDU0MDYxNDgyZWYyYWQzYSJ9&amp;signature=22115fac4ba4c3c64ebf613c679bbf0cd06211127f5db31f094a7c17c56c649e</image>
+    <start>03:29PM</start>
+    <finish>04:00PM</finish>
+    <date>05 November 2025</date>
+  </channel>
+  <channel>
+    <name>ABC News 24 AU</name>
+    <id>ABCNews24.au</id>
+    <title>DW News</title>
+    <desc>The latest international news and the day's top stories from a European perspective. Our broadcast partner DW brings you live coverage from Berlin with updated reports and expert analysis on the big global issues and events.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6ImdGWGhkbTV5RDFPXC9jaGRkUUc3RVl3PT0iLCJ2YWx1ZSI6IndtSWJvOFN6Z2ROTHhDYXVxYmRPUndIdFdpTHJXTzl2czkybGQ3XC9JTTRhblZsTUpRUU5nYms2dXErYkJaVG80RFprbHZGVFJkMHlodHdNMlNHaVcrd0hcL1wvcnlHbkZjdTZ0QWhQeHF1MmdBTGRDODdkbVhzM05xVDd1T2psZ2dKVnZ5UEljbDB1SnVXa0NqdUFRVE9pK1JmMGo5bThnQUVnM0pCWHRBaFBEdGtSXC9UYzNGSktKSWViQ3czMlwvV1RQIiwibWFjIjoiM2IwZjdmMWUwY2JlZDhjZGU3YmQyYTE1MDE0N2Y5Zjc5OTY0MDNmYjg3ZWI0OGViMjg0ODgwZWEzM2NmZDA0NyJ9&amp;signature=d93cd1fd74d1ba5a7903789ec2c0a6c8a0435c3867179076de9833e433aa0abc</image>
+    <start>04:00PM</start>
+    <finish>04:15PM</finish>
+    <date>05 November 2025</date>
+  </channel>
+  <channel>
+    <name>ABC News 24 AU</name>
+    <id>ABCNews24.au</id>
+    <title>The Business</title>
+    <desc>Australia's leading daily business and finance show, bringing you up to date on market moves, economic trends and the forces affecting consumers, employees and business owners big and small. Presented by Kirsten Aiken.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6ImlndEpQOGpZV2dpOXM1VDJIZVRBZGc9PSIsInZhbHVlIjoiN0EwU2tONERvQXViMGRRMmFINTRJXC9QZnFyeE5LbFora0FINXQraWJjc1wvc1lweGJxT0ZvMUc5VkFmMzRvbFN3enVOZmpDeitBUHd0d0ZTU2tYWm9FTVlLRWVCTk1NMmF5WEZzaElhRFFDWHJCVm9Md241Rk9OVFNKdVQrRER2VjJzckVIR0hrMUljaXZvSk1rK2lGK2xzVlFOWjQxNHhNRmUzbEVjU0dvOFlNdW1QK3owOGoxS3lGdU8xTHdEMmMiLCJtYWMiOiJmMjdhMTE4NWUyMzQ0ZWRlYmI3YTgxOTE4ZWNkNmJiNmI3OWM4MzIwZTQ5ZTk3ODE1YWMyZDgyOWNhN2I3YmY1In0%3D&amp;signature=00060d4b86419fb9364cb6eccc90e7274254a1ed714db2682a51e85b5c1c938c</image>
+    <start>04:15PM</start>
+    <finish>04:31PM</finish>
+    <date>05 November 2025</date>
+  </channel>
+  <channel>
+    <name>ABC News 24 AU</name>
+    <id>ABCNews24.au</id>
+    <title>The World</title>
+    <desc>There's never been a more important time to stay in touch with what's happening in our world. Girish Sawlani presents the latest international news from ABC News correspondents as well as interviews with experts and guests.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6ImY5NmVJNFd6WDBQdzNrdmMrNG5vU3c9PSIsInZhbHVlIjoiVWhwYmYxa0R3M0pnMnZ4TmxRV29kQXNDdjdaUXZQUVZrSXFnald0RnZCMWt0YlwvUnFVVDZsbHY2RHl5UFwvY1NPR1ZuWVBWY0RlY0dDZ3dVWEVOMWQyTmlTMXJRTHN6TDM3a2k0RTNNeGhzZXYxM3M5MmVtZTd4ajErYmdGNXN0YTM1NGQ0XC9FOWY5NTltaVwvMFZzVlN4Q0xhd3o1TDZ3WW9MTG16ZFZLQWI0aXNjZ2hrdUVBWFwvdEVKd3ZtQStmaWEiLCJtYWMiOiIzMTJlNDdjMWEyZmZjYTc1ZDE3OTM0MzI5ZTdhYTU5NTE1ZDBkNmNhZjE4NGY0OWNlOWUwZTQwMjFlOGNjMjg2In0%3D&amp;signature=af496528967fe1bb0a86bff23456308ae2a9cba0f391538ae092881cbfeda0ba</image>
+    <start>04:31PM</start>
+    <finish>05:29PM</finish>
+    <date>05 November 2025</date>
+  </channel>
+  <channel>
+    <name>ABC News 24 AU</name>
+    <id>ABCNews24.au</id>
+    <title>7.30</title>
+    <desc>Sarah Ferguson presents Australia's premier daily current affairs program, delivering agenda-setting journalism and interviews that hold the powerful to account. Plus analysis from 7.30's Political Editor Jacob Greber.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IlU2MGNQYkJUMm5CdlM0VVBMOE5ldkE9PSIsInZhbHVlIjoiRFdKekhyd3RQNStFZHZWSExrYVd2a1wvVllMK2dtQWZadHRcL3ZQNFRrRUdsc05hdldCS1lKTmduclZKenI3MnlXUkJ0dE5yV1ZEOGFWaDljVld2K09JcWdLUGEzNzhFak9vSmk0cDZxdGora1VGdlB5NnQ4QlJ1MVhDNWJUTXE1NkRTUzJlUERhXC82UnhvTFwvd3psaDVuWHIwaHg4RlNTNm5OWkpsSlRqWWdSdFJGcGw1bGEzeGJUNWpVZUM5ZWd1dCIsIm1hYyI6IjljMDFiMDBiMjJmYmY1ZDkzMTljY2E5ZmIzOGE1MzA1Njg1YTdiNDU5MDAzZjI3NTEzODA5NTAxN2Q5ZWEyODEifQ%3D%3D&amp;signature=c7fa0cb51eb8e35672b4a1fa489a8c750b0a9cf5467bde1f517dc3c24db624b9</image>
+    <start>05:29PM</start>
+    <finish>06:00PM</finish>
+    <date>05 November 2025</date>
+  </channel>
+  <channel>
+    <name>ABC News 24 AU</name>
+    <id>ABCNews24.au</id>
+    <title>DW News</title>
+    <desc>The latest international news and the day's top stories from a European perspective. Our broadcast partner DW brings you live coverage from Berlin with updated reports and expert analysis on the big global issues and events.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IlgzeUNJMnppclNcLzNCWmVlZkhXUUdBPT0iLCJ2YWx1ZSI6Ik5qQWw0NkM0M2Z2UEZDbnFiMWo2MVlxNUJoQUZQSlwvZUhxd2JnNFlpR1wvejlNakE0aHFET29NQ2w4emJIMGNMZEJXaXF1T2p3SVAwQjY4VHVvYU9CTjErc3F1ckswaXArRUxGT2tNeXhhZzVcL1ZudTlPOGpRTFJYVVdueGR0cTgxU1JtN3dLZFB3eFM5YmlyRjRpakFlVXZpZnFURlVwSWlaNk83TVwvWGRpeEVOT0dYY2JWdE1tWG42Qml0NnRYV3EiLCJtYWMiOiI0ZDdmNjFiZjA3M2Y3MjU1Mjg2ZjAwMzc3YmNjMDNkN2RmYmQ2Nzc2NGE2ODVkNTE0ZjQ1OWEyZmVkMDQ2OWE4In0%3D&amp;signature=2d8e5ce27a4f801ee9adceabbf38fdd8eafd5a08e50db32e2c27ec044fdb60d1</image>
+    <start>06:00PM</start>
+    <finish>06:30PM</finish>
+    <date>05 November 2025</date>
+  </channel>
+  <channel>
+    <name>ABC News 24 AU</name>
+    <id>ABCNews24.au</id>
+    <title>That Pacific Sports Show</title>
+    <desc>Tiana and Sera are joined by cricketer Melissa Velvel Fare and powerlifter Hani Watson to talk about some big moments in women's sport this year and what they hope for the future.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IlwvTU9kalhlM3FzUDNuUnFlbGtmZ0pBPT0iLCJ2YWx1ZSI6InExRE1SVXdQTG5oTktPd0dnY1RpQ0JxNTlJR0xPZzNMUUZLWUs3RzNvaldLcXhqdlwvNW1UT3lzM1dwalF3M2RUV0NxWDVReTNUZXpGdEJsUnV4aThlQm5IUWVMVDh2eFwvZmZrdTdBOHJTM3QwWGRZMlBvWXN0QWRUaGhHejM3aXY4Q2NmNGt3SytIQTNUZlErUW1mS20zaUJFWjZqQ0JyaXFpVXlMOU5oZytoV1NJREhuMjBoMXNJNTlEell5TU1TIiwibWFjIjoiNzcyNDMyZDA4MmQxZGVlZTJlZWVmMDRiNjYzNGQxOWZjNmFkOTg1M2U1MTE2ODQ3NDcxOTFkNTRjMzY5ZDAwMSJ9&amp;signature=893da55debc96d8738121b37b21eeeb13536add534220b5663dd807855197476</image>
+    <start>06:30PM</start>
+    <finish>07:00PM</finish>
+    <date>05 November 2025</date>
+  </channel>
+  <channel>
+    <name>ABC News 24 AU</name>
+    <id>ABCNews24.au</id>
+    <title>News Breakfast</title>
+    <desc>As each day begins get the facts you need to stay informed. Bridget Brennan and James Glenday present the latest news, overnight developments and today's top stories, joined by Emma Rebellato, Catherine Murphy and Nate Byrne.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IlVhdld1b3BLQzdnR2c1TXphcTB0UWc9PSIsInZhbHVlIjoiUk5GbE5od1RKS09RM2xidHBiQmpRa1oxaTVkU09MSTJ0NHkrRERaNHppZnNMZGpUOCtLMDdkdkdEbktTS1RVSEtCWWNVb1BuVkp1bnhQam92SGI1UmVsXC9ZanluYWpTK2c1ZHpUc1pkd245eUtibGlGZVZkR3RCQkJPbm5vZzY5dDNuN1dOaFFqcFFDdm5IXC9jenhJRnpucW9XXC9lMVJxK0tSemxJV1NlM2E0TUx2SmJJUU83VjArMUNZUFNjYjlTIiwibWFjIjoiNmIwODcxYzBjMjE3YmY0ZDEzYTI1YjA1ZjlmZWVjZDk4MjVkYTc0ZDFkNTA4ZDI1YjZjZTNjYjAyMzc2MDgyMSJ9&amp;signature=b1a5331218f86140b9b284d707b2e60ac31d8bcadb8d1ec638a618eb45030625</image>
+    <start>07:00PM</start>
+    <finish>10:00PM</finish>
+    <date>05 November 2025</date>
+  </channel>
+  <channel>
+    <name>ABC News 24 AU</name>
+    <id>ABCNews24.au</id>
+    <title>ABC News Mornings</title>
+    <desc>Stay in the know with what's happening this morning. ABC News brings you up-to-the-minute news to fuel your daily conversations so you can stay connected and follow the discussion across today. Presented by Kathryn Robinson.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6ImZFbDBHMzZDQmdlRDBRSm15S0JBUFE9PSIsInZhbHVlIjoiNWRyc1kraUxUWk9SNlVyamhCRmRpUzhta2gzSkt0dHM0K0Zta2dSQldzTjMyRW54SEc3UXhlVWQxUmlEckJaQVgzZEVaN2d1cFdvSGdCbzBiSXBcL1wvRnJwU29WdmxLcjFHbWdiUG56ZTdvTExaWmxhWnVvZHZVMUVWblpoeHZZOEN6YTZPcCtIbkN4Wm5ueVwva3RINzhXOE1Gblo0RmF1V0pLNmZJXC9McmpzQWRhaHVheGJyUU4ySFg3ckJCWHpzVyIsIm1hYyI6IjQzMzUyZThlYjg0YzI2OGY3ODdjZjgxMzM3Zjk2ZTdiNjE5NDY4M2ZiYTJkYTM1ZTkxYjI4ZjMyOTE0YzhmYzYifQ%3D%3D&amp;signature=c88d38781885d870f7845d5f67dafc45b51ee60d88b7317eeab74128e8a11c6c</image>
+    <start>10:00PM</start>
+    <finish>01:00AM</finish>
+    <date>05 November 2025</date>
+  </channel>
+  <channel>
+    <name>ABC News 24 AU</name>
+    <id>ABCNews24.au</id>
+    <title>ABC News at Noon</title>
+    <desc>Ros Childs presents the leading news at lunchtime, including the day's top stories and the latest news as it unfolds, with reporters in the community across Australia and around the world reporting on the issues that matter.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IjBjNXh2bFg3Y2F1WFN0Y0JUK2E0MUE9PSIsInZhbHVlIjoiOTJuR0Q4MEl5XC96dFpXc0UyaUc0aDdoa0JhZDFsVEwyM20xSGhcLzdJUXZHZWdwSlBuK3BQNmtKaEtzeTNFY3AzY3pZT1NBUGNrOWU2RjFpVnh1a0Z6VklQODdKSG9JTlRXczV4MGYzblwvcFdoNTE4TEFtVWFVY3Z2MllycGNTWVRlTHFrT2w3N3QycnBkWkY5QldJYjV4UURXVlRrcGtjckI1OVp5MFlKOUhyUjdWVE9KYTRCd1RtblE1cHNTMmZ0IiwibWFjIjoiMmJiMWMzNTQ0MGY4ZTRiN2M3NzFhYzdjMDc0YjczZWZlMTQyYjM4NTBkMDU5ZWIzNmE1ODEwOTY2ZmJhYjI3ZiJ9&amp;signature=986625cc26947521bf0da2ae435a66c2900944ea31b075716a27a35bdf201989</image>
+    <start>01:00AM</start>
+    <finish>02:00AM</finish>
+    <date>06 November 2025</date>
+  </channel>
+  <channel>
+    <name>ABC News 24 AU</name>
+    <id>ABCNews24.au</id>
+    <title>ABC News Day</title>
+    <desc>As every story unfolds, catch each breaking moment and stay up to date. Ros Childs brings you the latest news, interviews, analysis and original reporting on the issues that matter to you.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IlwvTGxuVStieWtPTjF1V2hBakw2UXJBPT0iLCJ2YWx1ZSI6IkhuamhSUUpITG5pcGRkc2FuN1FVTTh5ZWpKdTRrQ2Z4bjVOVjZ2MkJHMnRkTE5rZmxrMm11dU5nOE1ZdWNmeHJoUzdEdktPOFUyNXl1MWcwZGgwSHlnN1wvbzNLaXNLN3RmN1VMMW0xZHhZQzd2bW1TT1ZlVWl2aXVsTzdLcm9DNVcwYkVrZXRPM0JJYmZxVmFwajRkSG5ObmYzVUozUkRqRWxGWHFlbUx4aWdlTGxjalRIa0l0aGpkcW53aHo0S0IiLCJtYWMiOiI3OWIzNzMwZmJkZWNjMjY2MGI1ODEyODYzM2NlZWFmODRhMmZkZGZkZjdkOTY2OTAxYzk5NjA3YTNiNTA0OWU2In0%3D&amp;signature=8f5ba14275157bddd71fc5e5d61b0feda9ad9bb4a734d39217e68d1214e9537a</image>
+    <start>02:00AM</start>
+    <finish>03:00AM</finish>
+    <date>06 November 2025</date>
+  </channel>
+  <channel>
+    <name>ABC News 24 AU</name>
+    <id>ABCNews24.au</id>
+    <title>Parliament Question Time</title>
+    <desc>The sitting week concludes with live coverage of Question Time from the House of Representatives. Parliament returns on Monday 24 November.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6Imc0ZWRDOGpBT1JzUDNxekZoTlhLNnc9PSIsInZhbHVlIjoiTW9KS0I2MkE3VGlJRXhxNXJHVThTREw3eTR2SUNpaDc1c0ErQkZLc1drWnA2NHpoVXVWOXozbjduTEk1NFN2TE0rVW9ONVh5MEdJS2VRbGxISEVFbDVySDRIVlNWbitHM2xPOVI1akJyMGxOTnBhNTdNWkVWYUUwYTdRNDEzRnV5QjkxYWRWWTczb1Q1TzRuWEZ2T1RQTllKb3RHWmg0Q0grV0ZJckdHSUl3cWEwTkVlU2s4UWM3R0pFQ1BpQVNFIiwibWFjIjoiYjE3NmM4OTM4NTlkYzgwMjFkYTYzNGFhZmViYzZmZGE1ZWFkZjM0NDhhYmE4MWE5MWQ0YTMyMjY0NDQwMDAxMiJ9&amp;signature=5e309949ca2d5a668a4ddbddbb63e22948b48638d031b47edc781a2d2aa4766a</image>
+    <start>03:00AM</start>
+    <finish>04:10AM</finish>
+    <date>06 November 2025</date>
+  </channel>
+  <channel>
+    <name>ABC News 24 AU</name>
+    <id>ABCNews24.au</id>
+    <title>ABC News Afternoons</title>
+    <desc>More news, more often. Wherever you are stay in touch with ABC News through the day. We have reporters in more places, to tell you what's happening and why it matters. Ros Childs brings you the latest news and information.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IlNVbHlIbFkzZGptMnFVZlZDYkJ5aEE9PSIsInZhbHVlIjoidXFSeHV2Q3RcL1NKZElzejJrOWcrM041OEFVdG1KQkRJZ3RNXC9MRHpFTXUwT2Vxb0I1V3crQThPS0J3UFRZZllQRGs3QVVGaTVyTDVic3E5OEMyeEhxT2M2bkJCYmxRV1FueEhGM292QmE1YXUrWnFDT3NmMVZcL1IwMWRkY2JhS1V4MGowYUVhdDlJMDJTZUdDc1VMU3ZvZEpUNmJqZTlLR2NPTndrUEtQS0pMV1gxNFJSRmtmaGMwMGFjT1dhQXZhIiwibWFjIjoiMzgzNGUyZmEyZTNhMDRjYTJlNmU2NzYwZWZiZmQwODZmYjkxNmI4YzJlZTUwNGUxZTAxNWEwMjg0ZTdmZWRhNCJ9&amp;signature=e00b56151cccb419a55e072bb7d28a8963616eb2f3afb758b0008778e37d7299</image>
+    <start>04:10AM</start>
+    <finish>05:00AM</finish>
+    <date>06 November 2025</date>
+  </channel>
+  <channel>
+    <name>ABC News 24 AU</name>
+    <id>ABCNews24.au</id>
+    <title>Afternoon Briefing</title>
+    <desc>Your daily download of everything you need to know about politics, national and global affairs. Patricia Karvelas asks politicians the tough questions and talks to key players and experts on the issues driving the news cycle.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6InhUWjd6MUpaekY1OFFpNmF6Uk1jb1E9PSIsInZhbHVlIjoidWtCMTFcLzYzSjRYVUtUKzNpbVhWMjB2MW5BXC84VVpiTTlINlZ2T3hqamo3QnZ4WDAxaW1URHMrTVRFNEtlZmtxRHpBSkxTY09CMDdYWUQ1cU45QUlmZFQ4dUJkdDVMZUR2NkVnaXhLR25IcVhcL0NhNUR4TkVmSHl5Qng4b21KN01lQ3dEdGduaVZHT3dWQmlHTkNMZ1drNjRHQndqY0dteXRNcCtwY0djM2MyNXEzN3JITHA0OXBROERiNEVuaGFkIiwibWFjIjoiMjlkNWE3YzA2MzUzNjlhYWVjNDNiYWY2M2YxNGIxMjdkOTE4OGFjMjJlNWFlM2NmZWI0YjgzMmViODI0MTRiMyJ9&amp;signature=b795419e4c33251eaa87e523edc0a803cfec8bf67bdb5a25157dd3e95f592edf</image>
+    <start>05:00AM</start>
+    <finish>06:00AM</finish>
+    <date>06 November 2025</date>
+  </channel>
+  <channel>
+    <name>ABC News 24 AU</name>
+    <id>ABCNews24.au</id>
+    <title>ABC News</title>
+    <desc>Joe O'Brien brings you a comprehensive summary of the day's events, with the latest breaking news, in depth coverage of the top stories, live crosses, interviews and explainers to bring you up to speed on what's going on.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IklqbUZZZnBseDM2YUpmK2NiRWl0c0E9PSIsInZhbHVlIjoicFJMXC9OUzVoTkJKckVlclVYUGd1ZW1lektERzdKeVU1bnRSdlFYMEFxTGtEYU9ZQkw2cTBndDJGa0U2alN0Tk9TSGdkNVZOOGNkOG03a2NIbGtBcTZZT1NLWVBDYkp0c2h0T290Qkc5R01ZSjlySFBGbm1wQW1zVEVrMFVXeHIxZDBPSkV4d08rRW4rSUxGZjBleThWM2NGYit4ZHhXaXRCS2lBTk5VdG1HVnJpajVOV0xaeThlVEZZUnpEa1JhNSIsIm1hYyI6IjFiMDkzMmRhYTNkYTViNWJjNzQ5ZjQxNjk0MzFiNmMwMWJhMTg2YmQ5ZTcxNjBjY2JhZDVmMTgzYTk1MGU3Y2MifQ%3D%3D&amp;signature=2dadeeb1eb229dc1a1ee69902bd88d3b70b0a046ad26f8283858ceb75f5ae8d3</image>
+    <start>06:00AM</start>
+    <finish>07:00AM</finish>
+    <date>06 November 2025</date>
+  </channel>
+  <channel>
+    <name>ABC News 24 AU</name>
+    <id>ABCNews24.au</id>
+    <title>ABC News Hour</title>
+    <desc>Stay in the know with Australia's trusted news source. From your neighbourhood, across the country and around the world, ABC News bring you the day's top stories and latest news, all verified. Presented by Joe O'Brien.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6ImIxOTlBSCt1dkFyK2tYRElrUmE4aGc9PSIsInZhbHVlIjoidVl4SHJKMGlUMm5oS1lxUDJYSG9Pc2QxN3lvVjkreVdacFlLaVN4elBjREtLbWJvUEVuTGcyNlRBeUYwSU5SSnZ6eWhWSTgzbjZFeW1CbUpYUzhlWEd3dVhET2c5Z0tDSU1MYjg5YUlPVGpOaFh1OHc4c2hkOE00bkt1WkdCazBoZjRJZnBuUFd5MmtFRlpsSEM1ZTdVdUxleU9PZlZwenFyUWhxc3dpYmV4ekphNnk4UEdGdWY1UGM0RGlyUlBoIiwibWFjIjoiOWZkNzM4NWFkZTUxY2I1NTFiYTQyYzA3NTJkNDdiMmMxMmNkNDNhYTMxNDIwZmVlOGQ5NzIwYzM0YjU5YWFmOCJ9&amp;signature=ae60a362108990a675f5ca2747884d4cc13ba3e93a00e0f1f30e10c37a36ac85</image>
+    <start>07:00AM</start>
+    <finish>08:00AM</finish>
+    <date>06 November 2025</date>
+  </channel>
+  <channel>
+    <name>ABC News 24 AU</name>
+    <id>ABCNews24.au</id>
+    <title>ABC National News</title>
+    <desc>There's never been a more important time for transparency and trust. ABC News brings you the day's top stories and latest news, with more reporters to tell you what's going on and why it matters. Presented by Joe O'Brien.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IkNHWG9STmFNYTdXTUFRTjZRYWY0U2c9PSIsInZhbHVlIjoidE1tUW9SZ3FxN3hBSmdWcFhJeEx2NGRDeTkzY0hobTA0R3FVdm9nNzdkbkdZRmFmZ1VIdnNwWmcydWRveEdPZVh4NEV0QVwvaHJQS3BiZVdRZlNYaDg5cStXYmpGSkc5aHVvUDAxYkRWZ1ZVVno1SGJWVWwxenRMSzdSRXI2T3hsdkNZejdVNVR6QnNWcE40azVSZGhodHltXC9FU3JMTksxZ0h5SHdOUnMzT0FMMjY0SCs2UDR2c3lTU0J5eHJNM1QiLCJtYWMiOiI5NTc3NGZjZjhhMTI1Y2EzNDhiNWI5NzBmZThiMTNmODc1MWY1ZjMxNzQ1NDVkODMxM2U1MmUxYTNhMmZiNGVjIn0%3D&amp;signature=b1093d092de1b4bc0ea3b7c0c77a4f06e2ff8013e5d5ef563bdb2c7b43a8617a</image>
+    <start>08:00AM</start>
+    <finish>08:30AM</finish>
+    <date>06 November 2025</date>
+  </channel>
+  <channel>
+    <name>ABC News 24 AU</name>
+    <id>ABCNews24.au</id>
+    <title>7.30</title>
+    <desc>Sarah Ferguson presents Australia's premier daily current affairs program, delivering agenda-setting journalism and interviews that hold the powerful to account. Plus analysis from 7.30's Political Editor Jacob Greber.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IkIxSEZidEVtQnVKcVRiMnZqWW0rSWc9PSIsInZhbHVlIjoiRWJsQ0Jpa1hGNFNwUGNEMXdlMmJMSzJQTFRYTGVMMVpld2QrUTJJaVg2QU43SSt2dWdJbFY3dHlYUWZ3K2gzRDRjN0xBeWhlZkpPdGxnNHBWdVdpQUVoenNrUWdcL2VmS2t6OHVOMGZPR28rUWw5aUlOSUNkTTVjVDZwMnJSSTI3eTJ2cUxVYXRnbmlCdStjelprQ2YxMlcyNWFkQm1JR1BjNTZKQXYzRXp0U2NSNXRJc1JEUE9RWTZXTGZjdUp2YyIsIm1hYyI6IjQ5NTZkZWNhZGY1YzFmNDJlNzI0ZGE0NTJiMDI2MTcxYTM2MDJiMDQ2ZGE3ZTQ2Mjg5ZmQ2MTRkZDY3NjZiYzYifQ%3D%3D&amp;signature=00e3394888a3adc7f3dfbde76bcdf321f4b38e471de6fa90adf4e31631fde2be</image>
+    <start>08:30AM</start>
+    <finish>09:00AM</finish>
+    <date>06 November 2025</date>
+  </channel>
+  <channel>
+    <name>ABC News 24 AU</name>
+    <id>ABCNews24.au</id>
+    <title>ABC News Tonight</title>
+    <desc>The latest breaking news and a comprehensive roundup of the day's best stories from across Australia's states and regions. With reporters in more places ABC News tells the stories that matter to you. Presented by Yvonne Yong.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6Ijdab3RVa2RkOGxYTlwvdlFOQnd1WTdBPT0iLCJ2YWx1ZSI6IjlKMzJvbmpkdzdkMUttM24zeEVSbStYTmFvTnFyUlV3YUFkMEVcL3YzR09GdHc2ZnhQbmhMT1pBRm1vUWpcL1ViV0dQWUxoRm43WkY2XC9rdDhCZnYzUnE0Sm9PZDBKT2Y5SkdEZ0xBdzhSMXZLQm51Ujc0Q2pGb0FxQXRkSDhwbEtieVhjUlZOc0Z5cXM2TkdEcXpnSzZaNzFUbHAwU0hXZTF4Q3h6aG4zZzFRTmcyUXJQNEVMZ0xaaHBDWmFvWU4ySyIsIm1hYyI6IjdlNTg0NjVmZWUzMDk1N2I0NTQwMGM5ZmNjNDc3NWQwNGQ5MWJmNTEzZWExMjQyZGRmNzI3M2FkN2JlMjkwMmUifQ%3D%3D&amp;signature=c8af82395d577c5cf98841f6fa2f17ea3c4fc1a30e1605433a71654663727597</image>
+    <start>09:00AM</start>
+    <finish>09:44AM</finish>
+    <date>06 November 2025</date>
+  </channel>
+  <channel>
+    <name>ABC News 24 AU</name>
+    <id>ABCNews24.au</id>
+    <title>The Business</title>
+    <desc>Alicia Barry presents Australia's leading daily business and finance show, bringing viewers up to date on market moves, economic trends and the forces affecting consumers, investors, employees, and businesses big and small.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6ImM0NzZJNEc3MHZrWDNFUXBCWmlVNkE9PSIsInZhbHVlIjoidUdTSXJKQzlNNmN0bXlmS1R5SW5PaGZhWGpaWTI1Uk5Wbk1GakpZZWxrVmlHekV4WHprenBjZ1d2UTQ5Q29xZ0laRzQ4SWxQUFRzd0gwZmRBUW5ZYmhuWXU5TW5zQTdrRGl0c0NXc3ZtOVRzUmJzejZFYm1WUW9JK0U4VzJYK2hiekNoc0FrNk9aM2N4dWpQeDJzYUdnem14cWZ3eXVRR2cwZllyU2ZHaWtQUUJqUU1PbkVSQjZJTEpnXC9vUkcwVCIsIm1hYyI6IjY5OTMzYzc4ZWQxMzRlYzlmMjE4ZmIzMGY4NDBlMTg3NzAyN2FjZGQ1YTRmNmUwMGJlNGQxNDc3YjAxN2QyMmYifQ%3D%3D&amp;signature=98fbb38a5a723ea24a23a4673e8f0be1cea0c29098108ffc32da001d55d8aec9</image>
+    <start>09:44AM</start>
+    <finish>10:00AM</finish>
+    <date>06 November 2025</date>
+  </channel>
+  <channel>
+    <name>ABC News 24 AU</name>
+    <id>ABCNews24.au</id>
+    <title>The World</title>
+    <desc>There's never been a more important time to stay in touch with what's happening in our world. Girish Sawlani presents the latest international news from ABC News correspondents as well as interviews with experts and guests.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IklSaUYzY0ZtSUlXSDdlU2YwZGtTaVE9PSIsInZhbHVlIjoiZENYY1RxSXk4SmdhWnJ1aW84c2VtM3o4OGJMU2JEaTk3YVdSNGY3U3MrN1BCcWRFa2FXRTNHR0JVSFA5b3Q1WkFBemhBRm5wOXprRWRGak5tckdwT1VVVHFxXC9ha29iV2ZSR2t6WVwvOUFJWnpcL1VPV0l6N1BoZ3VnV0dXNXkzTk5OcDREdXlIUUVnUDc2SHI0SzNoaTU0d25UVDVPbkFubzY3YVNkYjYyaVlxMys5TUtXTXRKbzFRY0w1TjAydEFkIiwibWFjIjoiNzVlZjIwYTI4ZDVmYTA5ZmNhMzQzNjg1ZjgyNmM5ZGFjYTYzMzM0NzVjZGZiZWQzYTU5MDRjZmE3ZWMwYjJiMiJ9&amp;signature=013b200f001c9d6e3ed54e7f117033a9e46897a2c3682f449953cf3782b4f145</image>
+    <start>10:00AM</start>
+    <finish>11:00AM</finish>
+    <date>06 November 2025</date>
+  </channel>
+  <channel>
+    <name>ABC News 24 AU</name>
+    <id>ABCNews24.au</id>
+    <title>ABC Nightly News</title>
+    <desc>The home of breaking news and in-depth coverage of the big stories from across Australia and around the globe. The ABC's network of reporters cover important stories and all the news you need. Presented by Yvonne Yong.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6ImliMVBxWG42QUdrbkFDcEpEOXdrcFE9PSIsInZhbHVlIjoibGt5UlYxN0pGSjNYT0V1UlVDWFdGdEFNRjdUK2k4Sk1DSkh0YnhIVkJXZCt6QkF4Mis1Q1ZXWFwvUDc2b2dmUytvcVwvVENpSUFkTVgweXdqZkZlYlwvbzRBb2YwaWNNVDNHSEtBYXpYVmJCd3hEUzMyMzdiRTgyTFBvNjAwTFhwTnI3VVFhVjJBVm11U29CQ1JvaFMzd0hqVWY2bXZ3TFlBajhuckVYUXIxS1RFNmIxNmJjXC81WWpcL2l0aFRFYjFSdU0iLCJtYWMiOiIyMDNiYWRjZGZjMDI2NGE2OWVjODk5NTkyYmZiZWJkNTM0Zjk3ZjE0OTNjNWM4MDEzZmJhOWIzZDgyNGJjYjgxIn0%3D&amp;signature=84dc021eee5b7b0ce8470ebab67512be1cdb52abab8c681996a63507678a2dc9</image>
+    <start>11:00AM</start>
+    <finish>11:30AM</finish>
+    <date>06 November 2025</date>
+  </channel>
+  <channel>
+    <name>ABC News 24 AU</name>
+    <id>ABCNews24.au</id>
+    <title>Boyer Lectures</title>
+    <desc>Larissa Behrendt outlines the strengths and pitfalls of our legal system, and how it might be enriched by our First Nations' peoples' wisdom of interdependence in her talk 'Justice, Ideas and Inclusion'.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6InJSSVZJZFBnMUZVUVR5QWk5N2xOOHc9PSIsInZhbHVlIjoiVVA4ZVUxU0xBUDhrOXVqZlBsR1RDT1ZybWxuYVo2cjI4WXhPaW4raFYzRUNlVDlQVlNFVHNZMDBxYVREeDh4aXpuZENtMkpSNlRhSnhLRXZLZ1BnTHdFdWh5YTAzK1kxV1c1TWJ6eVBUU21OY21qcitTMzMzbHJocUMzRjlHR0x4VTEyc0t3WnRsbDVlR3dMZkdVQXV5d2t5Vkl2SVwvc25jeDlLKzFPamg3QW1rcm5MVGFsU1VqcmRMRENhenppciIsIm1hYyI6IjQ1OTIxYWI0MmRiODM0ZDhkYjQ0M2ZlODIzZTNlODFhYTNkNWNmNjNkMTM2YjRkMWYxYzRjYWJhNjNkN2FhZjkifQ%3D%3D&amp;signature=d7fc5947f9a1f123e4bd51b0cc02d94771739f15cf32da76a71d00eb38fa4ed6</image>
+    <start>11:30AM</start>
+    <finish>12:00PM</finish>
+    <date>06 November 2025</date>
+  </channel>
+  <channel>
+    <name>ABC News 24 AU</name>
+    <id>ABCNews24.au</id>
+    <title>ABC Late News</title>
+    <desc>More news, more often, with more reporters in more places, connecting communities and covering the stories and issues that matter. Presented by Michael Tetlow.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6InBTc3FnVEp2QlcrcFllRW15c2U4TEE9PSIsInZhbHVlIjoiWHJDbHBGN3UweHRMaVwvZFljMitNK1dGNHhZb2RLdmZ3NlZZTU1MQ1wvMFJFRVJhZUtEckxXWThsR091MGN5NVVlbk1aNVZzdlkxUWoxU0g0cHJvU1o3cVZ6U2o1UndYT2J3OG1lSlpHWFQ4SEoxaGpaRk9IcTNzWmdBT0lUdEZFaVREVk9CMFk3eHVoSVlBczRXY3lqNFJYaFptdE5FdU1PTVl3MWNyZ3hZcWlYcGhUMzBKUCtTRHYwMFErZ3crRjkiLCJtYWMiOiJmODg5YmQwYTE2ZmJjZGNkNGI2NzZiMzQ4NTMzZjIwODdjMWFmOGFkOTlhNmI0MTU2NzRhOGE2ZTZmYTY4M2ZjIn0%3D&amp;signature=68402ac5eab4e76b021738aaa0a826c7418ab0c63eae48cfa7379eabc46ff790</image>
+    <start>12:00PM</start>
+    <finish>12:29PM</finish>
+    <date>06 November 2025</date>
+  </channel>
+  <channel>
+    <name>ABC News 24 AU</name>
+    <id>ABCNews24.au</id>
+    <title>7.30</title>
+    <desc>Sarah Ferguson presents Australia's premier daily current affairs program, delivering agenda-setting journalism and interviews that hold the powerful to account. Plus analysis from 7.30's Political Editor Jacob Greber.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IkR4ZG1aemhTMDV4S3h3WUpNdWVNeFE9PSIsInZhbHVlIjoiNXY4d2NJTXlFa3JCUXRDcktXK3o4ejFpSnhDZEFJKzJFRkpHXC9KQUIzdVFXdmhoUTh0cmlpSG1XcWZwOWJhMThtck1PdG9zY2d4bkZwK3BCbVRUaWhYU21PaG93NUg4YVdsK1pzQmE2ZGVEdEVCNlRxUHlwODJBZDh0TjZaZzd6SklTdFB2QlYrdEttdUg1TVVNVlNQZ2ZISHlFMjdBd2NFbjlQdVNodE1uaHJkS3Q5VVwvelZzY2JsUTRhMm5uakMiLCJtYWMiOiIxNDBkNGI1Zjk2MDlhNzQ5M2EzMjdlMzBlNGNiZjM1NjhlNDRhNTA0NDNhOTU2YzdmODBkMzhjYmY1YjA3MmZlIn0%3D&amp;signature=85a54f71f884bd1799ca8da500b20c58d1d5729d008a4b5965295767fcd6324b</image>
+    <start>12:29PM</start>
+    <finish>01:00PM</finish>
+    <date>06 November 2025</date>
+  </channel>
+  <channel>
+    <name>ABC News 24 AU</name>
+    <id>ABCNews24.au</id>
+    <title>ABC Late News</title>
+    <desc>Michael Tetlow presents the latest on the day's top stories and a comprehensive round-up of the news of the day, with reporters across Australia and around the globe reporting on the issues that matter.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6Ill3Qkxnd0k3MFwveG9yam9VS1YrbkpRPT0iLCJ2YWx1ZSI6ImJxTFBRVG9sNHBnZENoZ1E5RVdXb011MXVESFE4Rm04S1QxNm05XC9lUW01VDBjajFraWVvYlphaFNGRnAwTTNZS3MrTENiQU9JbWtJS1wvNGExcVNPOENGcE1cL3FDN3k3b0VPM3Z3Znhib284OGxraG5kXC9uZkE3Rzc5K0FUWkZRV24rQ0xRVGcrQmVkOXNPWGErK1QwdHkxQU1pZStkMmwwaFExWGZGMHpLZEhHZ05oNUdvMUU2b0plWFFkc3ZsRGsiLCJtYWMiOiJlNGJmMGNmOTBkZDQyYmFhMjA2ZGFlYThkYjg3YzgxN2NjMjMxOTM5MzYxNGZjNDgyYzVjZGI5NWMyNDg0NjcwIn0%3D&amp;signature=df0460972caad0178dde3cf0fe74944e48ed9e34acbec06f087351a7ee1ba1e8</image>
+    <start>01:00PM</start>
+    <finish>01:30PM</finish>
+    <date>06 November 2025</date>
+  </channel>
+  <channel>
+    <name>ABC News 24 AU</name>
+    <id>ABCNews24.au</id>
+    <title>Stateline</title>
+    <desc>A push for NSW Police and government to change the way they deal with long-term missing persons cases. Plus South Australia's coastal communities contemplate a very different summer, as the toxic algal bloom lingers.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IlRwKzNrd0lPSUgxcnRJU2FrVHBrT2c9PSIsInZhbHVlIjoiNUUrZHRNeEhLaG5sUHBVRWg0cWpGT29pTmxBXC9lZG9ZOU5KUXA0RXpTSE43ZWtXNVJiT1wvTDdxVnVrWmJXd0JRY1JtRDJuXC93bTdBaXBST3ZIaVFcL3JKRmdrVGhVVkI1SXhUMzZwY2YxMlJta3VrRFZBMnZsaG9QWnhvT3F0czZ1RTVaWXBxSmE1b2syUFBQUUVDQm1nRFNHbWpzTEFmV0hsWmt6bnhtUVI5WHBBS0dGcTBTMEk1Z3YrTStqdTg2UiIsIm1hYyI6IjczODhlNzQ1ZmI5N2JiMzEzYjNiNGU2MDM0YWJkY2QyZjg0NGM3MmZhYjJjZTVhZTAxZGYxMWMyNGVkN2NiMTMifQ%3D%3D&amp;signature=0914b69ec75a42905356be7cdc902132efb7535fad0d79505ff40ca5759c618c</image>
+    <start>01:30PM</start>
+    <finish>02:00PM</finish>
+    <date>06 November 2025</date>
+  </channel>
+  <channel>
+    <name>ABC News 24 AU</name>
+    <id>ABCNews24.au</id>
+    <title>ABC Late News</title>
+    <desc>Follow the latest on today's news, covering what's happening and why it matters. ABC News has reporters across Australia and around the globe to bring you the news you need to know. Presented by Michael Tetlow in Perth.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IlFEaExhTEsxZ1BZVkpicHN4VHFHOGc9PSIsInZhbHVlIjoiNUJQeGtnb0xlQ1dFWWhRN3Rld3lOcVhqblFNUFNjUEV6bGhFeVV1c21YN3lKQzNuT1Vkck1XRjRlXC9vRDhoVzRGeE1ZXC92NkdITnV4XC9DVzVJa2RvNUVsQmtBdzNPa1lWT0VsVDJ3WFR5b29SQWUwVlNvZ29NSjVSRzQ2RXBRSDlPMWx1TTJ0RmN4Ynh4WFZsUUhHSFE5ZnI5d0tLVjhcL0JPTSsrYTNuSmVqSEFOR2NtR1RKdEtpQVl1Q3Q3b1FociIsIm1hYyI6ImRiNWNkNDAxN2I1MzRhZDAwZWY3OGUwYjU2ZDgxNTk4MzEwMmIzOWY0Mjc1MWYyMmY3MTVkMGFhMjIxYTBiMjQifQ%3D%3D&amp;signature=6b4eccd67fb5d43c2d5ac912b7a058152a8018012a690f50ee63946fe5f73b08</image>
+    <start>02:00PM</start>
+    <finish>02:15PM</finish>
+    <date>06 November 2025</date>
+  </channel>
+  <channel>
+    <name>ABC News 24 AU</name>
+    <id>ABCNews24.au</id>
+    <title>The Business</title>
+    <desc>Alicia Barry presents Australia's leading daily business and finance show, bringing viewers up to date on market moves, economic trends and the forces affecting consumers, investors, employees, and businesses big and small.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IlhZMW52UGFtTVlyUzQ1N1dsUlI2OHc9PSIsInZhbHVlIjoidGMrYW9PUllIVHlyTUlmaml1WGhrOFJ6NmIrVjhpRVROSzFQQmdtZ0RVOXMweTZuTUNwNlpERGZhV3czaUpDSnBUWWp0eHp3SzhHY1RyT3hYMmE4bHBrVHhEUzFGNDRCQWIxVVFXVVNORzVpV1ZqNUJNUVwvTUg3aGdlWVAwOVwvM0xFUkJyaGNCK3oyZ3l4V3puNnpONW9FRE5uVHB4OFc0RVwvTlNqVnF4WndTZ2MyWldLK3hKNWczVzIzc2t4MnFKIiwibWFjIjoiZmFiNjI2ZDJmN2JjM2YzYzg5NDkzZWEwZTAzYTBkMDk3ZDk5MGNiNmJiMGIxYmU4ZGM3N2RjZDdiZWNkZTdkMiJ9&amp;signature=9f199203f2eb89ac77013a3d20b0d6ccad84eb06fc1cead16fbad1f00912b014</image>
+    <start>02:15PM</start>
+    <finish>02:30PM</finish>
+    <date>06 November 2025</date>
+  </channel>
+  <channel>
+    <name>ABC News 24 AU</name>
+    <id>ABCNews24.au</id>
+    <title>Landline</title>
+    <desc>A tasty sampler of stories from the land, covering food, agriculture, crops, climate, business and innovation, and meeting the fascinating people who make rural and regional communities unique. Presented by Pip Courtney.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IkhXUnNMZHh4bzR3bTZlbjViQzBnYWc9PSIsInZhbHVlIjoiOVlQOURBRExjUlIwS0p6YVhYZklQcmw3TEttOWNMVWVcL0tnanU2UmxDZ20xVFdPY0ZiMCswcDMwXC9LdXNPanRuaXUzUFNSN2NOOFJZM1dUSW9FeGVBU1JGTllnMmRRUHdTYjA1TGo1VHlhcUZibEpJNk5NZzQ0a1I2WEhJaEJpdlZTRjR1SlRGQ2RPVEtMajFtelFHbkc3dERmWVwvOGhcLzc0MFRwdkVhT01iV21FRGdjVlJjb2FOQVE2WmJOb2tCUiIsIm1hYyI6IjE4NjBkYTAxZDI4NDA1NTRkOWEwNDdlMGYyMzVmMzAyNDAzNGE1YTQ1ZjM3MDE5ZDQzM2E5ZTllZjc5ZmVmMDQifQ%3D%3D&amp;signature=2a2ff6f08a47ca744e5788f775f63da4fd73f7415d587654c42543927943d558</image>
+    <start>02:30PM</start>
+    <finish>03:00PM</finish>
+    <date>06 November 2025</date>
+  </channel>
+  <channel>
+    <name>ABC News 24 AU</name>
+    <id>ABCNews24.au</id>
+    <title>DW News</title>
+    <desc>The latest international news and the day's top stories from a European perspective. Our broadcast partner DW brings you live coverage from Berlin with updated reports and expert analysis on the big global issues and events.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6ImU0Nm1WR0Rzais0YVlZazE4anFSMmc9PSIsInZhbHVlIjoiV1p0cGNXWkN0SzJzUVFRXC9BSFZxR2hKVGM1XC90alBTTmE2OGQ0Qm1XQUo3N3g2bGpvWG8xN3M4c2Rsb2NodnJRNlFDczdPRUlSOHlRbG5KWHpReGJEUHAzdlpTRHZkTWd2TnlBTno0dTJHRDhOUzRpVndyRERoc2lZTStHZFwvV3JVN2JjTEJEVWZjMmFNeWttQmZuS0R3aVRoKzdFU1gzSldRVVhndWR3Z3paNnR3WnJ6dTRrTUhHNnlIUHVqcW03IiwibWFjIjoiNTQ3OGM0MTIyNzEzMWJhYzczZmYyYzIyMjVhZTE0MDlkMjQ4Mjg0MDBiZThhYjI1ZjEzZDM1NWU4OTVhYzZhMCJ9&amp;signature=8b4f07f58d7e05403f91ba02960a1642f51bf5006c5c17346041bbe7795fec66</image>
+    <start>03:00PM</start>
+    <finish>03:29PM</finish>
+    <date>06 November 2025</date>
+  </channel>
+  <channel>
+    <name>ABC News 24 AU</name>
+    <id>ABCNews24.au</id>
+    <title>7.30</title>
+    <desc>Sarah Ferguson presents Australia's premier daily current affairs program, delivering agenda-setting journalism and interviews that hold the powerful to account. Plus analysis from 7.30's Political Editor Jacob Greber.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IjVDNzdpT0Y1N0RqNkRnOTZzY1Nad1E9PSIsInZhbHVlIjoiczJnSTVJYjd1ZXg3QXlPNWJJZnN1eUVsZmIxTzcyUGVIXC80M1FvK21SUUo3Wjd2cUhBN1dQUmNzY1RRSE1yQmdKRk84TTJlNVg0RGhnQTk2ZTNhV2RvdnU3U2lzSE1vVUpNUUM1ZTlNdWdOd1FiQ1Z1Qks5Kzl4c2p1WXRkekxUc1owWHhUN1hEYThieXVNaHVablJGTEN5Sk5Kb2NZb0dyQ2sxbUhacEY4QU0wNms4RTd2dThkSTBYRUY2ZElUayIsIm1hYyI6IjczYTc0ODJmNmU4MDRjZTBjMDk2NmYzNDczNDEzNTVmYzZlODhlNWZkNTY5MWRhYTBmYWY2YzBlNjZjMjczZDYifQ%3D%3D&amp;signature=f2b293155a9added0b7ce4b44d9b3f5975aca13876411a3ee6e51323759f0a3f</image>
+    <start>03:29PM</start>
+    <finish>04:00PM</finish>
+    <date>06 November 2025</date>
+  </channel>
+  <channel>
+    <name>ABC News 24 AU</name>
+    <id>ABCNews24.au</id>
+    <title>DW News</title>
+    <desc>The latest international news and the day's top stories from a European perspective. Our broadcast partner DW brings you live coverage from Berlin with updated reports and expert analysis on the big global issues and events.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IkFlSGtCYmRZbWlSbTlTZ0YyU1dQeHc9PSIsInZhbHVlIjoiMHhlanVZOWJwa0liK3pwNGt5NlM1S3l3em85NGFXOWtwOGEwN1AwaHkzRlM4YkxNbmxsMlNrQTk0YjZDRHhKbkx1Z3ZTYVdpSlJoT3pWOWlYU3VOa21NTThYSExNcExxRFlcL2dPd2Ewaks0eXVleWFCYUFJNXF1NVhDbmpRY2kxbUErekFENW1yVGRQVWNPUXJUbWgrMHczZXBudWJZb25LUTRINWVNQmdQMnRxUHhcL1cxK2ZtK0t6NFllajlBZW0iLCJtYWMiOiIxZDQxMTg0NTAyYzE5YjZkYTVlOTNhZDQwNDM3YTkxYTQ2MjZhODU5ZDg3OWRmNThhMGFjNTQ1YmQ5MDhiYTI1In0%3D&amp;signature=b5eb1628975c45d91dd6b1dfdbd8bc609593e44c1c191349cf695edbd20b2d18</image>
+    <start>04:00PM</start>
+    <finish>04:15PM</finish>
+    <date>06 November 2025</date>
+  </channel>
+  <channel>
+    <name>ABC News 24 AU</name>
+    <id>ABCNews24.au</id>
+    <title>The Business</title>
+    <desc>Alicia Barry presents Australia's leading daily business and finance show, bringing viewers up to date on market moves, economic trends and the forces affecting consumers, investors, employees, and businesses big and small.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IlR5S3ZlUHNQVEgzNlhCTDJrMmJDUHc9PSIsInZhbHVlIjoiTzRsc1F5Mmc0a1JWYXBOUTdwK0NNdnNCenA4ZXMxS3QrekdPVXJXNWNXRU9HSjZRMEN3QjBSUlRTOEJ3dmZtSE5RcUNIdExyKzAzeXVsUllmN1V5NGtoT2VcL29rdVB3K3BQSndUWCtWSWxOc3BkRlZta1NjRTJtYUJPVHNRRFwvMHNNRzJKaVlMYm5ObExVNFB2dlYzOXpnNmpUR1lCWnhZdStcL3RcLzZUak80VElMZTlUeThweGdKZ1Z0d1B0N1BLZiIsIm1hYyI6ImMzYjZhMTY0ZjAxMWFiMDVkY2E0ZGI0MGE0ZWQxOWFhYjcyMWJjODczM2U1ZWE1OWE0ZGQ1YWQ1NjdhY2Q4M2YifQ%3D%3D&amp;signature=2a5cde1f0759762eb987427502ea05d8093896024e6b72185b4575604f62f30a</image>
+    <start>04:15PM</start>
+    <finish>04:31PM</finish>
+    <date>06 November 2025</date>
+  </channel>
+  <channel>
+    <name>ABC News 24 AU</name>
+    <id>ABCNews24.au</id>
+    <title>The World</title>
+    <desc>There's never been a more important time to stay in touch with what's happening in our world. Girish Sawlani presents the latest international news from ABC News correspondents as well as interviews with experts and guests.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6Ijhad2REaUJMN0pGZkJcLzlWR3hyY3NnPT0iLCJ2YWx1ZSI6IjBKdHY4dUVjT0JtV3JheCtXaEQ3OHlnWW5RemtucjhCNGhOSEE0cWFrQm5sSmNSdFEyT3g2dVpTUVVCVXhndGdJaUNOUmZcL0lpNWkwS2VPbkExUHVRYVwvM3dwT3dnbkN0cW5idVY1aGVKMHBLXC9kaW5NQldMS3FhRjBQb1N5a1JkMzBCaUpYblk1Unp2cEZ5Umlub2JxRFlVdlBTMkh6S21Sa0lkbTZTT2JXWHRuY3lDYVJpWkx2Y2UwdjU1aHRpRyIsIm1hYyI6IjM2ODM3NmEyYWFmYzNlN2I1OWI0OGRlMjYwYzg3ZWJmMDMyMjczMTA0MmZhMmE4YzFkMDg5Njk5OGViYmI0ZjkifQ%3D%3D&amp;signature=4deec44368965116de217acbe68fa460791f0b73ceb2738ed95dec6f3720f4f5</image>
+    <start>04:31PM</start>
+    <finish>05:29PM</finish>
+    <date>06 November 2025</date>
+  </channel>
+  <channel>
+    <name>ABC News 24 AU</name>
+    <id>ABCNews24.au</id>
+    <title>7.30</title>
+    <desc>Sarah Ferguson presents Australia's premier daily current affairs program, delivering agenda-setting journalism and interviews that hold the powerful to account. Plus analysis from 7.30's Political Editor Jacob Greber.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6InVsUWlLb29uVW1cLzRhREN6aUtpWGZBPT0iLCJ2YWx1ZSI6IkRsNEdXcGg4c0hlRG1BTWtjV3F1NUx0VU8rRkJZaFQ2MWlHK1VlUVhsbGxwSGMxWXdDMTc1VmxxVldvVjh4bllnaEd2bU43NXp5RmxQN1NoWnlUNnVzRE9oU05sQnRlTCs2dDJrenU4ekthclVmc0dKcmlGWEROekxBN1l2aEZoRlVuUzJ6VmgxS2pmR01pdWZPTDJ0ZThCS1VwVHA0d1l3RTNTakp2YmJsYXl2RnVvTDJ4dWdhNGpPWEJkVjJ4RyIsIm1hYyI6ImU0YjNkNmVhZjJkZTMyZWNiOTk2ZTRlNWNkYjY4ZWZlMmRlMDYzNjg3YzRkNGI2YzFhZTBjN2MzNTZmNzIyMTcifQ%3D%3D&amp;signature=7b540236b9e0c109ea8b1725f07bfb9824cbff38d1a6b480a82098c723947008</image>
+    <start>05:29PM</start>
+    <finish>06:00PM</finish>
+    <date>06 November 2025</date>
+  </channel>
+  <channel>
+    <name>ABC News 24 AU</name>
+    <id>ABCNews24.au</id>
+    <title>DW News</title>
+    <desc>The latest international news and the day's top stories from a European perspective. Our broadcast partner DW brings you live coverage from Berlin with updated reports and expert analysis on the big global issues and events.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6ImVkVnYxSlJOZE9kakNqbG1KazUreGc9PSIsInZhbHVlIjoicjZ6T2tTQk1YR2NOQXJzQWoxdzlYUk1FZ2xNTlwvaERIRlUxVnB6QmdhcjBSWlJjaGhoVzVEaFFLUU9nWVlRS2JaQ2t2U3lldWlJeW1qaVhvSzJQamVCSFZhbEpcLzcyZCtJYjhWZG9MY0dQR0xLdXJzWEEyZ0o1cTNiOEIxeE8yUTBHWlY0dGIwQXRldVUydDhXSzRzQXdaWFJlaWx5cys0ZFNtVWJ6dTVUUjMxMVFJbU9kaWEzTFRSckNHNGI0MDIiLCJtYWMiOiIxYzE4MzFjOTNjZThlMmVlOGM3MTBkZDk3MmZmMmE2Y2IyZGJlMmY2MWViNGU2NzE1NzNhZTg3NDM1ZGJjMTMzIn0%3D&amp;signature=5d3985f6f1e06fc1917e8d7a799d53936d6eca2753c89799e1f88e603bfe6d00</image>
+    <start>06:00PM</start>
+    <finish>06:30PM</finish>
+    <date>06 November 2025</date>
+  </channel>
+  <channel>
+    <name>ABC News 24 AU</name>
+    <id>ABCNews24.au</id>
+    <title>Landline</title>
+    <desc>A tasty sampler of stories from the land, covering food, agriculture, crops, climate, business and innovation, and meeting the fascinating people who make rural and regional communities unique. Presented by Pip Courtney.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6Ik5SM3k2cVlyanZ3XC9mWEh2ZjF4OFdnPT0iLCJ2YWx1ZSI6Im9sYnMxNTlrM1RuSDJWbDFoVjk5MFhDV2FvZURrcUE4UDVHYTJGMFZWWUNPSDFSb3dEdkVYdXl4ajV0M0ttMXNVVEppSitpdmRxY3lnaTJaVEdVcGFtekZrdE5MWm5USTVHTUVhUjk4SXgyeDMrSDJ2bWJcL2tEMFVWR3UrdjJJRW5JVmwrNGk2MkJmSENtNFBlY3lnb29LM2p3Qm5nSFpjYmxzTTJFYXduMVZoc1puMk1cL01jVmwxVGlSeGxiN1BOIiwibWFjIjoiN2U5MDgyZDgxYjNjMjBhZWNmNGIyOGZmMWExYTdiYTQzNjM0MzA1OTVmMmY4NTEwNDc4YTZjMWVhNGQ2ODEyNyJ9&amp;signature=6003b3b416c19a7fe9d677c158b623ca1ce91c213c5e3fb28ecd97e230e51946</image>
+    <start>06:30PM</start>
+    <finish>07:00PM</finish>
+    <date>06 November 2025</date>
+  </channel>
+  <channel>
+    <name>ABC News 24 AU</name>
+    <id>ABCNews24.au</id>
+    <title>News Breakfast</title>
+    <desc>As the day begins get the facts you need to stay informed. James Glenday and Emma Rebellato bring you the latest news, overnight developments and today's top stories, joined by Charles Brice, Catherine Murphy and Nate Byrne.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6Ikw3bVhEMW9oZktiMzU5TTZuMGF0YkE9PSIsInZhbHVlIjoiQWwxaCsrbTdTMExXUWs5dFJteXY2NWRIVkxrcXJHMU5GM3RBTUdrZ1JubXBaN2gwVlwvKzY0SWdoRzFob2o4MjN3Z1wvK3hNamJpYzcrOE1GVERIT09SaDgxcENubHVFT1wvM0dtSzBWZ3FtZERoUGNtUWpwSkp6RW5kYVkxc3BSdTBpSFlMemhvSll4NjZQUWJxZFRMS2tYVk1lN1RDeDZGTFd3cjYzcjMrWnFYXC9yMFBmbmhUSldpajVSc0RpVTdBRCIsIm1hYyI6IjM4Zjk5NDA3NGI3ODAzMDk2MTViMmVmOTYzYjdjNWMxODViMTMwOTAxOGJiNmNhNTFhMDkwMjJiNTRjYzI4YTgifQ%3D%3D&amp;signature=da1ddebd3069c46a9ccaf221d31b920246c3b636ec412b8738f24ab8af57f0dd</image>
+    <start>07:00PM</start>
+    <finish>10:00PM</finish>
+    <date>06 November 2025</date>
+  </channel>
+  <channel>
+    <name>ABC News 24 AU</name>
+    <id>ABCNews24.au</id>
+    <title>ABC News Mornings</title>
+    <desc>Stay in the know with what's happening this morning. ABC News brings you up-to-the-minute news to fuel your daily conversations so you can stay connected and follow the discussion across today. Presented by Kathryn Robinson.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IktLYUlWTWFWN2JZdUR4Nm9mQld3XC9nPT0iLCJ2YWx1ZSI6ImQ4RFZ6cnZaWWpEZlNQQVlVZEdtb3NvWkx0Y0NFU2xOaEhTY2p3SVZyZHNXcnVhQWM0ZnRhRGtVXC85UDVcL2VmMjJCRDUxeUoreVJSV2pzazRMdVE3OVZya2ZFNW4wdUoxYmlySDZDK2NWSTdaTGlEWGJKSWhQZEdoUVZDcG9IckNreWhrWU5CcUo3dFZMcEQxaUV5SCtUT2o2ZWtXeTRmV3VSYnNhaEt2d2duXC8zZVZqbzlzYXMyVXU4eFg3akJTWiIsIm1hYyI6ImM4MjBlNDMxMGQyNDAxNGI1OWZmMjI5ODFjOWIxMDhlNGFmY2JhYmJkZjdjOGQzNmE0Njc2OGI5YzU0MzMyMmQifQ%3D%3D&amp;signature=48ba8eb64186e3cb1be780980cc3200336e1d6bbd653a7437b4aa94764b84363</image>
+    <start>10:00PM</start>
+    <finish>01:00AM</finish>
+    <date>06 November 2025</date>
+  </channel>
+  <channel>
+    <name>ABC News 24 AU</name>
+    <id>ABCNews24.au</id>
+    <title>ABC News at Noon</title>
+    <desc>Ros Childs presents the leading news at lunchtime, including the day's top stories and the latest news as it unfolds, with reporters in the community across Australia and around the world reporting on the issues that matter.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IlgwUmNVY3ZTYzAwS3llOVVxejBkMEE9PSIsInZhbHVlIjoibTdhTFpKcGlmdmh4ZUN2dDNPZUZqdjVCWHFqSXhGWEVwT0MwOEtNWnc1WlNmVSs1MTZRcUpyTVRBOUYrUlJtajA4VE93S0dvU29PRjZZaFwvSkNiSEVPUGVtXC8yVnBHODZFc0g0VjZUWG9JYis0ZHNqRThVakJESDB4U1ZjbW5uNjdVVHlra0llWEluR01jWXNwVWZDdkFheW9YZU1RckdrcFBvOURqN1dJZ2t1MkFxcGNKZEVqWWcrS3hsNFU3MEIiLCJtYWMiOiJhMmM5MDgwYWJlODA2NDEwNDJmYWE0Y2FhZWUzMmVkNTEyMmRmMTM3NzdmNmFjMmZmNWRkYjBjMTNhZDAzOTNkIn0%3D&amp;signature=bb5a97744bd9618361ae158cd7c49e3af975dca8262809b612d8d7196994db28</image>
+    <start>01:00AM</start>
+    <finish>02:00AM</finish>
+    <date>07 November 2025</date>
+  </channel>
+  <channel>
+    <name>ABC News 24 AU</name>
+    <id>ABCNews24.au</id>
+    <title>ABC News Day</title>
+    <desc>As every story unfolds, catch each breaking moment and stay up to date. Ros Childs brings you the latest news, interviews, analysis and original reporting on the issues that matter to you.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IkplM1Q3V0kxVjF1RTRNTjh2S3NiSUE9PSIsInZhbHVlIjoic2pQbnk1d25YUlV0VUJ4djhKaSszbThLaHhjWTFnUHhpakZYK0IxTlFXOUV1c1Bua2liNUFSNFRRS0NBMjBoYTJMSFliSmdBcnd3c0pYSDRiVHZKTzQ5VDgxeUVaa2FNNWI2T0tMa1hrSVZXZWNqOTlqRXdkNUJWRkx0ak5XUUNWaWN5NjBiWW1LelBvR1wvYWdEMitFQ21QWk9mdUdjeUZpOXdZTURWaFJjYTdUVUwzcXVjWW5rck9xaFZ4RFlyciIsIm1hYyI6IjI4MGU5M2Y1M2IwYjkyZWJlYTg3ZTYzNDVlZTQxYWFkNzk4OGM4NjczZDYxMGY4ZjgxMDljMjhjYmQzOGYyNGEifQ%3D%3D&amp;signature=2c4f17d6d9b940879bf116ec3b59a24f909dfefb1d27ddecb03fa6a8424adf73</image>
+    <start>02:00AM</start>
+    <finish>04:00AM</finish>
+    <date>07 November 2025</date>
+  </channel>
+  <channel>
+    <name>ABC News 24 AU</name>
+    <id>ABCNews24.au</id>
+    <title>ABC News Afternoons</title>
+    <desc>More news, more often. Wherever you are stay in touch with ABC News through the day. We have reporters in more places, to tell you what's happening and why it matters. Ros Childs brings you the latest news and information.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6InBuXC9LWUJCUlFtRjdoeGlMa0haa1FRPT0iLCJ2YWx1ZSI6Iit5WXpoZWJGUERNU1FZbVBtcmdyb0xoQzFzcVlMc1Bwb0lGM1NMS1V4NlRjOURDbnRhMVFQaXFuaUlaTzdrR3ZSQ3ZWZDFtaUNsbTJWXC9yaWQ4RU02eHJJdzduZGFJTmZ0NmV0RThlS1FubFwvQ2FmbHdHcWduaDZmeDNWdCtEK0tuUmdOSGJ4WTdib2UyTU1OTnFNU2pvdWd2K2JsVm1QYlZaODZTdEd3cERLRTlIWWw5TW9WdXZHSVRqUW5sdlBSIiwibWFjIjoiYTE2OTNiYmU0MDk0YTQyOWEzZTU2YTNmOTk3YzJmYjgyYzJlZDViMDczMDUxMWYxNmQxMTMwMmIwYzdmYzU0MCJ9&amp;signature=6838b5de5b7113644342be74f10cfff5cede40753563bc7ff3f97dce0c09deae</image>
+    <start>04:00AM</start>
+    <finish>05:00AM</finish>
+    <date>07 November 2025</date>
+  </channel>
+  <channel>
+    <name>ABC News 24 AU</name>
+    <id>ABCNews24.au</id>
+    <title>Afternoon Briefing</title>
+    <desc>Your daily download of everything you need to know about politics, national and global affairs. Patricia Karvelas asks politicians the tough questions and talks to key players and experts on the issues driving the news cycle.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6ImloWGMzMGlvOERVRjZTZVlXZ1FmY0E9PSIsInZhbHVlIjoiOUhqdENEQ3hBTjh1UTRacUVXb2VNRHE0S215eSsxSFd1ME5zeFlrVm4zSnBGT0NnYmpFU0cxXC9sNThaclZjNGN4aVNmcVVNTTRrY1Z6WjJpTEpERmVQVUZMSnBhOWp6TFNYUUZHbG90K1hCRkVaTVlzbVNhMmZIUk9ncjdtbkxDWjVZYTV3VkN0XC9XM1JTUUo0eWRJeXRKdk1ENXpPUUJzNVRQTGxiQnZmRm1KQ2VZYlBtSUMrTG50VWFyanpSUGEiLCJtYWMiOiIwY2I0NGMyODM0N2M0NDQ0OWYwZjMzMjBkZDI0NmFhZDZhNDIzYTU0OWNhMDBiNDY2ZjM0YWQxODE5ODQyYWYzIn0%3D&amp;signature=fce3dd62e522e5fe8ba3ba9e698bfbdb559fa3cc78f13b5edfc2e7458851b788</image>
+    <start>05:00AM</start>
+    <finish>06:00AM</finish>
+    <date>07 November 2025</date>
+  </channel>
+  <channel>
+    <name>ABC News 24 AU</name>
+    <id>ABCNews24.au</id>
+    <title>ABC News</title>
+    <desc>Joe O'Brien brings you a comprehensive summary of the day's events, with the latest breaking news, in depth coverage of the top stories, live crosses, interviews and explainers to bring you up to speed on what's going on.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IjR2YUZVR1VQbENtWTRkWGdhY2RoUFE9PSIsInZhbHVlIjoiXC9lVTJcL3lcLzFtNnQzU2o4M2NzdlB0anpEaDdkcGMxTmJLVk1MU2V3bUNHdXY2K1Z4Nk5RTlByV1wvc2lEK1wvcnJhdVwvR0V3V2JPVjJlUzg1emV3XC9KSTRKNG5KNksyN3NsQnA3bkFQN0x2dEVQNEhVQjVxQ3UrajNKOTc2YjV2NEZYWWNONlBhYlNMSmZWWGFReWRQVnBMYWZwSlVpNDdIc0JMYUs5NDUyQjdEOWVLWHVtTSt0SkxkUkZ4K1hzVDFzKyIsIm1hYyI6IjAxZjRmM2U2OWJmYmNhMTAxMGEwMGJkNzc1NzljMzY1YzJiY2FmMmZlMmE0NmEwZGUzOTJjN2NjNDRmZDhkY2MifQ%3D%3D&amp;signature=cd7135eff59b746c16c0511c0e58b6eac491c6967733696074ae9dbcd9d429d0</image>
+    <start>06:00AM</start>
+    <finish>07:00AM</finish>
+    <date>07 November 2025</date>
+  </channel>
+  <channel>
+    <name>ABC News 24 AU</name>
+    <id>ABCNews24.au</id>
+    <title>ABC News Hour</title>
+    <desc>Stay in the know with Australia's trusted news source. From your neighbourhood, across the country and around the world, ABC News bring you the day's top stories and latest news, all verified. Presented by Joe O'Brien.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IlVDOTV2MEc1KzIyaTFVNWMzeG5DYnc9PSIsInZhbHVlIjoiTG1BTUM0bktGVnBqNnFRZHEwOFBMZ3hCeGNpNEpObUZBU0xTSVpwNGV6eFYzb3JiaExVb1pqTUFXOW12eE5rcm5JOG5KcFpUM3hzMk1IQVVNeU1xUSszRGw4Qk9mTVhuZDNNQUxCSldwckRoR3hIYkRhUnk1dXFtd29WaUdzTjhyU1NWQVNJZEhqaE01a2ZqUE5vN3BvVDNBSVV5T2RmZEh4TE9ud0FyNWN6M2pVbHAzaDJyeUNBVDNuNWdHME1DIiwibWFjIjoiNGQ0ZTI4N2Y3NTdlYTkwZTZiMTIzMmYyOWVhZGIwZjIxMThiMzkzZWEwMWY0ZjYzNjFhODU0ZWE1ZDNiMzViMSJ9&amp;signature=d2715ce7a087c71d8528495e870543b20a1fc1479409fe35bcab2c7cf8712caa</image>
+    <start>07:00AM</start>
+    <finish>08:00AM</finish>
+    <date>07 November 2025</date>
+  </channel>
+  <channel>
+    <name>ABC News 24 AU</name>
+    <id>ABCNews24.au</id>
+    <title>ABC National News</title>
+    <desc>There's never been a more important time for transparency and trust. ABC News brings you the day's top stories and latest news, with more reporters to tell you what's going on and why it matters. Presented by Joe O'Brien.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IkZcL3RiR29kcFM5VUZsQkNpWVM1VmlRPT0iLCJ2YWx1ZSI6IlpRODJcL2dPTmVCK1BBeSs5cnhveVgrWTZLekZkNDkxQzJhS2thaWlCNElzd1h3ZWN5R0t2TkhvY2NrMzZvb3lYbVp2Y25sd0s4Mk1wVkVqMWtLMVBZUGtYNHI5NnI4aXpqaFBcL0NLWjNZTkZGNGlqdVVxSHdibE1sam8yVGx5SktKOXFDWGhqdlJLMmVVWndJZ1lvR0FKZEZGTm5qSHZvSDlTZDdGanRrWTFcL25ZZ3d5TUl1QktsN25uWHRnSTVFWSIsIm1hYyI6IjMwODRkYzQ5ZmRmZWYxNTdkZTQ0YzE5NTFkZDdkNTJjZGE5NzAzNTVhM2UxNGM2MmUzODlkNmE3ZTg0M2QzNWUifQ%3D%3D&amp;signature=12eb3586deb655a62f926f2a688401f29470293d4f2c0749a1d67cbbd1cb8a28</image>
+    <start>08:00AM</start>
+    <finish>08:35AM</finish>
+    <date>07 November 2025</date>
+  </channel>
+  <channel>
+    <name>ABC News 24 AU</name>
+    <id>ABCNews24.au</id>
+    <title>ABC Evening News</title>
+    <desc>When you need to know what's going on across the country and around the globe, turn to Joe O'Brien for a comprehensive roundup of the day's news plus original reporting on the issues that affect you.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IlA0d1FxOFJxSHAzUGxRYXk3ZHc5RUE9PSIsInZhbHVlIjoidXJsY2t1amdMNVlxblluWG8rM1NPeHl2Z3l5Y3NIclNJUVpvUnNCWnlnSCsydmRWejViU01kVHNjVnNWZW1OaUxmZ2ZPWkJQYThDYzk2U1poRHcrd29CY0JUTmtvNGNMbGoyMzgzQ3NiOG9HMUNYcVRZT1laa3h3YnU0Y0FWckRMWFdSRDl0Z0V6TkdncDdjV0tWeDZZZndkQ0dRT1FNb2pKZ2FldlowOU9QYW94NHpEaktnS1laMjFqSXNIUTZiIiwibWFjIjoiYjNmMzRkNjk3ZjNmNzBkMDE3ZDUxZmQ5MjljNTRlY2MyNDQ2Y2ViMTcyOGI0MWM1ZWU2NGE5ZmNjNzQ2ODg5NyJ9&amp;signature=b8600d0e8f562452c4104b305a404baceb1363c759e57690c4359ac8bc667bc0</image>
+    <start>08:35AM</start>
+    <finish>09:00AM</finish>
+    <date>07 November 2025</date>
+  </channel>
+  <channel>
+    <name>ABC News 24 AU</name>
+    <id>ABCNews24.au</id>
+    <title>Planet America: Weekend Edition</title>
+    <desc>It's been a wild ride since Donald Trump was re-elected President 12 months ago. Chas and John discuss the week in US politics one year out from midterm elections and three years until the 2028 presidential election.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6ImxcLzNoYVBhSElYekpiUHo2UXJnQWh3PT0iLCJ2YWx1ZSI6Imwya0tXcVwvVVJqcmRzMUl1YUcxcU9oaFBnMzlZdE56enJSOGdTSUpqUm5FT0dRb1o5KzV2SXV4QklqNjRwYkRjK2w3Nlh3M2tmcFpLTGpJajNzZkx6M2N0OGJscTlmbDlEQXlyYVFSaCtNckFtSmtBY2VvSVFFNTdON3JxYk9LVTh1ZjVGQ3dOdW5hR2V3NE9HV0lJSDRiNjRlUk94dDJxRWN2YnBtdVFzQWQybFwvUmErN2tXODNmT0hTVk5ubVd5IiwibWFjIjoiOTk1NjczMTRjYWQ2MDQ3OTQ3MWE5M2U4MjAzZWQxMzJiMjAxYTUzMTFhNjBlMzZhODQ1ZjdiNDQyZGIzNDRmZCJ9&amp;signature=d832a336ca6aad6fe463abd544605e3c17cef85f1141826fc94c28e50c1ee098</image>
+    <start>09:00AM</start>
+    <finish>09:45AM</finish>
+    <date>07 November 2025</date>
+  </channel>
+  <channel>
+    <name>ABC News 24 AU</name>
+    <id>ABCNews24.au</id>
+    <title>ABC News Tonight</title>
+    <desc>Manny Tsigas brings you the latest headlines and a brief summary of the day's top stories from ABC News.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IjlPcUNYNWNnMnBoT01ORXRNcENHK2c9PSIsInZhbHVlIjoiOUR1S3lRcVBxNXVseXNBREhJUk95eXgwbFVMU2dhbnFUS0dwNzhkU3JheUJuSDN4ODVzbkI1cmNCbkcydmlnSTBremV1b0gzdkV4ekFwOE5HR3daNkE2KzhmVjdqSWRBeDhWek1acnBZeGdra0tcL1B4eGR0Sjd4cGxlSHVONldyQVpDNFZZZnZmZ2FkQnM5NWZVT245S3RiXC9sOFhtdnc4bHR1dGt3SDR6WWZ2MXFKc3c5OFY4UzZCSWhMZHkrMU8iLCJtYWMiOiIyOWRmNGM4ZjA3YzY2NzRkZWU2YzBlMTBhYzUyNzAxMmM3N2U4ODM4YmY2ZjdiOWY5MzQzMTQzOTA3MTcwNjkyIn0%3D&amp;signature=191e3b795831327cb9d008b428da86963eeb551d992adcf95cc2a5edafd51b75</image>
+    <start>09:45AM</start>
+    <finish>10:00AM</finish>
+    <date>07 November 2025</date>
+  </channel>
+  <channel>
+    <name>ABC News 24 AU</name>
+    <id>ABCNews24.au</id>
+    <title>The World</title>
+    <desc>There's never been a more important time to stay in touch with what's happening in our world. Manny Tsigas presents the latest international news from ABC News correspondents as well as interviews with experts and guests.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IjE3OFErcVpOb2lrNTc3MUJaTDNUUEE9PSIsInZhbHVlIjoiVVJPYTY5QUx0SVlxYzBhYU5jclBualJMaW83dXBoSmR1SUx1UWNJRWoyWVgwNm1xSFlXQXlGY0kwbFFPUUMwNEt3SllGbE53STlIMzBhV09CVnJJRGcyRFwvY0duK3h1T3RKdVRncGJFMXZVVFhCMnJvRjVQT01KcW1qNGY0Qms1TlwvK1RMTmlNVHIyNCt3SFlBYXpuOVwvQ0pNeWo3T2V4cTdYbnZLK215ekxPdk9FUmR0VGhTbGlGU0FDdkYzdEtmIiwibWFjIjoiNGVjMTc5ZjIwNzNjNjcxOWMxNTUxMDY5Y2Q2NjRmZTlhMjc0MWI0NGVmNjI3YzAzNWI1ZjBiZTQyYzQ0NTNjMSJ9&amp;signature=04909f18f4ba935b037bb137364788bcb4fc2621ce52d911bd0aaee0a5e93155</image>
+    <start>10:00AM</start>
+    <finish>10:30AM</finish>
+    <date>07 November 2025</date>
+  </channel>
+  <channel>
+    <name>ABC News 24 AU</name>
+    <id>ABCNews24.au</id>
+    <title>Close of Business</title>
+    <desc>Alicia Barry presents the week's top stories in business and finance news including reaction and analysis after the Reserve Bank's Melbourne Cup Day decision on interest rates. What does it mean for borrowers and the economy?</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IjZwOWxXN0VDTzBnSVN1SjY5T1c5SHc9PSIsInZhbHVlIjoiaFUxd01KXC9lcHV3Qk9saFFlSkpFSUxUS1NId0VQbnZ4dzVPdkZFWStncE1lWHhcL0FUcmQxdVJKa0xET2tLTndUcU1lOUlEZzJZWHRTRVZxc3VmZk05QzNvVVpESDNwWThlaXlzODRpTXRSODF5UDBVdWVlTDk4cGNqbW1ZVnpkY3QyV0RcL1dxQWtHeFwvdnJVTjJLcFBtTGx3bXZOUFBQb2YxNVY0endwT2RiV25CaVpYQTgrQUk2M1VZSVl6Vjh2SiIsIm1hYyI6IjE3Y2EwMWI4ODU0NjkzYWUxMmZmNzA2ZDY2Y2U2NDRkYzZmYTYyMjZjNjNkODlmMGM1ZjQ2NDA0NjQwY2UwZGMifQ%3D%3D&amp;signature=1fdfbe186340a7a36cc344d46b0d2c3d459b211364eea2bc46d7efc1a02bb396</image>
+    <start>10:30AM</start>
+    <finish>11:00AM</finish>
+    <date>07 November 2025</date>
+  </channel>
+  <channel>
+    <name>ABC News 24 AU</name>
+    <id>ABCNews24.au</id>
+    <title>ABC Nightly News</title>
+    <desc>Know the latest on the day's top stories, breaking news and the issues and events that matter to you. Manny Tsigas brings you updated information from our unrivalled network of reporters across Australia and around the globe.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IjBOZlwvQlFcL3doRzdtVTkrdzB2VlpcL2c9PSIsInZhbHVlIjoiRFpidk9BRU1WVnRqaUhkTW5xNU96MFg3UkVGNzFnOTdrc09RREdUOTNTVXhOb3pndzd2dU5GTnVYSVd1RGVSNnJvbG9iWmYxSFdBNUpVcnhucklsc1VXQm5hckNraktKc0srKzB1a1VJZFwvWEpza0FTSUY1QW56K2VGZmNSa3JHUFJuSmdmNU5aYkJQMjZORDltZDEyeFEzOXlSOEVHbjhGQjZpeHdJcCtsWFRPSkZ5KzBJQjF3TFhOOElWSUt5ZSIsIm1hYyI6ImQ4MWFkYjFiNWNmZGY1ZThmOWU1NzkxYjI4Mjc1NGEyODM1MmRmNTBmZTY0YWY3YzcxYWQxNjkwMjYwNTA2ZmUifQ%3D%3D&amp;signature=2d44594646427b4d6d74161c014c7408a507e1bcb62f48693a5067f11af8301b</image>
+    <start>11:00AM</start>
+    <finish>11:30AM</finish>
+    <date>07 November 2025</date>
+  </channel>
+  <channel>
+    <name>ABC News 24 AU</name>
+    <id>ABCNews24.au</id>
+    <title>Asia News Week</title>
+    <desc>Yvonne Yong brings you a weekly roundup of the stories making news across the Asia region, plus what's trending on social media and making an impact on the culture and the way people live.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6InluNzg0akdNcE5kSjZJcnFPK3l3b1E9PSIsInZhbHVlIjoieFBwV2Jxc1dTM2NmSWE0bTY4VFo0SGh5RHFlU0k3K3MrZEFqVWNkYzNBd1kyR2FkaGM0YXBVeWFnNVRhdjFRM3lOaWZRK3VLOThES1dJUjNsQ0FLc3d6M3ZhZWdLODJHTEsrOXhGZ0hWSitPbW9SRElXQVFqQVpZazFQT0JxXC9lampEazZOclBkTTdIZTJMYlNwaUtXXC9XZUUwM2FzcnRsN3M2cCtyUXlvMXNhSG5LbGZNYVZVSkJ2cjhITWxiamIiLCJtYWMiOiI0MWQyODFhZjIyZGI3MGIzMWM0NTlkYjU0NWEwZWE2OTRmYzgwMjE4NzA4OGE3NDI1YTc2MTM2MmIwNmEzMmU5In0%3D&amp;signature=21aba0cb513fdc4d3da57a0961b410234f84503f10adc0ce2156188102e52ba7</image>
+    <start>11:30AM</start>
+    <finish>12:00PM</finish>
+    <date>07 November 2025</date>
+  </channel>
+  <channel>
+    <name>ABC News 24 AU</name>
+    <id>ABCNews24.au</id>
+    <title>ABC Late News</title>
+    <desc>More news, more often. Wherever you are stay in touch with ABC News. We've got more reporters in more places, connecting communities and covering the stories and issues that matter to you. Presented by Craig Smart.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IlNoYkV0WFwvendXbElZSUt1bTNmSVF3PT0iLCJ2YWx1ZSI6IkxhTUo3N0lcL2J3SU95WmVpZ05PQ2oxajdCN2FyNkt6OWdUUXJYTkM4K0llVzBrYkZYU3JmODE2dm5ocVdYY0Zva3lnZzBVNDVYc1loUFNocVk5UEUyeStFS1BUbXcreTV6QTh6UGg3XC9Nb3dLVHFKZjhVQjRWenpEWXc0TTQwNVdJY3kxZDE3ZnZtRXNQc3dGbDBaa28zU3M5UTBObkFQcXZlUHBabGpJeWI0VGlwN2ozejB6SkN4aTZxUWtPdWtwIiwibWFjIjoiMmViYjgwODIzNTU0MDViN2Q2ODkxN2IyZDA4NzJjM2E4YTI2NGVmYTU3OGVmYjAyZWVhNGE5YzVkNDNjODZhOCJ9&amp;signature=beeb49d7eadb7b4fdc0e70d9fcf2fc48bddcf528326390056eaa3cd5a41e2669</image>
+    <start>12:00PM</start>
+    <finish>12:30PM</finish>
+    <date>07 November 2025</date>
+  </channel>
+  <channel>
+    <name>ABC News 24 AU</name>
+    <id>ABCNews24.au</id>
+    <title>The Breakfast Couch</title>
+    <desc>Bridget Brennan, James Glenday, Emma Rebellato, Catherine Murphy, Charles Brice and Nate Byrne hear from some of the guests who appeared on News Breakfast. Plus film critic Zak Hepburn and resident foodie Alice Zaslavsky.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6Ikk3VkZPaUVQRUxcL3A0ZFBucWxTNnNBPT0iLCJ2YWx1ZSI6IldLdzB2MXdsbXNVZGlHeG9YMVQ0ZjczdWNiOUlZZlwvZmRZYkJHTCtuRUxGNWFcL0Z1UEVtQWUxZWJMK1JpQysyN21UTVcwMXV6WlhcL3d0NnREcXF2TVVtTmUwU2ttalVcLzJoZVp1NXZqTzBnbnFIdWtrbGZ0XC9McUFramhTOFNWc0VTTjNSNVFZT1M4MDNHMmlDTUpQOTlyZ0lydUlqcEhLWGZXa1ZHeUhDM2VEaHREZ05KM3RUSkNrTW1KbWJmZlc1IiwibWFjIjoiYmFiNjI0YWY2ZmY5ZTIzMTE5YTNjMGQ2MTdkYmZkZDQ3ZjU3YTJmMjVjNmQzNDg5YTE3ZTRiZTkwMjlmOTA2OSJ9&amp;signature=71c00b44a34d5d2ca0f49db5f342082376a4dd6514939e19de5f6027651853e9</image>
+    <start>12:30PM</start>
+    <finish>01:00PM</finish>
+    <date>07 November 2025</date>
+  </channel>
+  <channel>
+    <name>ABC News 24 AU</name>
+    <id>ABCNews24.au</id>
+    <title>ABC Late News</title>
+    <desc>Follow the latest on today's news, covering what's happening and why it matters. ABC News has reporters across Australia and around the globe to bring you the news you need to know. Presented by Craig Smart in Perth.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IlZCUXFLSkUrOEFKRG5ja3VNbDZcLzJRPT0iLCJ2YWx1ZSI6ImZzV1lqOVd3cTVlWHNueEFvQW1xTFNQMkhGRVwvU2NqYUdiZmtOWU4zbWNIZmhkNW5cLzRzS3pMMEZnaGI1V2syRGVuYm9OdFR1eVo1M2UyVWhlcVIxejRTRGNRQWtsRE82Umd2cXRaQk9NZVZBNEJncmRXWHNiM3k2QXJFa1c2OWxOVEY5NUlOWHNJZHk2MStDZXdyQ2N4MWFyK2hBXC9yazNsdEdhWUxKY3Q2QXVPWkREQVlwMlVLZW5XSkdyaTUzTyIsIm1hYyI6IjljNDdjZWZhZGU3ZGFmZDcxMjhlMDljNDliZGFhNDZjYTFlMzdlYTFlZDNlOTczYTE2NWRiNmZkNGQ5ZjQ2YTAifQ%3D%3D&amp;signature=8e78816d5a682bfbc3907fbe496fd72e88a17ec40aff7508e3990d2b5ecdd31c</image>
+    <start>01:00PM</start>
+    <finish>01:15PM</finish>
+    <date>07 November 2025</date>
+  </channel>
+  <channel>
+    <name>ABC News 24 AU</name>
+    <id>ABCNews24.au</id>
+    <title>Planet America: Weekend Edition</title>
+    <desc>It's been a wild ride since Donald Trump was re-elected President 12 months ago. Chas and John discuss the week in US politics one year out from midterm elections and three years until the 2028 presidential election.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6ImdzRHBvMkQ0WldlMXcyVFF2WkJKZGc9PSIsInZhbHVlIjoiWFZ3VWRSOExlZlhQV2tjTitHTUQ5YTJWZGN3UE1rRndhckJQXC9uMDhqdVlHc2NNV3hCa0lMT0ZcL25UNTdiNzE2TjBYUlVOVENHMWY5bW11Z0ZaajR0SFZsalpCOVl4NjRMdzRWemgzMHFkXC9PMFlcL0JUSkRVbW1uMEx4TDZhazdmUnpkSVVoZEF5ZjNBMWZ6RHl0M2N4Tm9UK2NacWJrd0I4TWVvU0RWWUVWaEJKN01uQ1NEeHdMQWY2eE9UTmRuTCIsIm1hYyI6IjlmMjIwMDEwMTExYjQ0M2E5NGIyYzE0NjBjNWIxY2ZmMThjNGFiZjU5NDhlY2VmMzYyZmY2Mjk0NGU4ZDkzYmMifQ%3D%3D&amp;signature=8ab50a9e3d321e49315f9a66f4c5b5a0117f2f40481bc98a29986f987819ef3f</image>
+    <start>01:15PM</start>
+    <finish>02:00PM</finish>
+    <date>07 November 2025</date>
+  </channel>
+  <channel>
+    <name>ABC News 24 AU</name>
+    <id>ABCNews24.au</id>
+    <title>ABC Late News</title>
+    <desc>More news, more often. Wherever you are stay in touch with ABC News. We've got more reporters in more places, connecting communities and covering the stories and issues that matter to you. Presented by Craig Smart.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IktmcUtpdTBvV3lVNzZtbkN6VDFrd3c9PSIsInZhbHVlIjoiTUJFVERnR1huZkJXM1M4MzRWcHlKR1lKUEhhNVNuYUF3SEphbXM4aFoybU9YTzdxSGpKSlVmU0s5eFdKc3B3ckhHTnhXeVwvc3hUa1lzQndQMzl0c0hKRGc3aG5sazVUOHYrK1FNTFFVTXQ1R1NMVXV5NEg1Q3owQm9XSytQbndMeUoyTVlMekY5aFB1VCtpT25ENEFFYTlLM0NWVWRMcDh4Y2dPdVwvaDhUclwvVCsrRjV6WHJQMkh4b1JYMk1venYyIiwibWFjIjoiMTJiMzg2M2M5MjJjZmUyYzJjNTk0NTMyZWY3MDUyNjZjN2Q2MzY2MWNlM2MxZWQxNjM0YjUyNWFhMzgxNjEyOSJ9&amp;signature=e0bae8820a97637802a2d786c3c249647710d2aecacf115235b37535f8247992</image>
+    <start>02:00PM</start>
+    <finish>02:30PM</finish>
+    <date>07 November 2025</date>
+  </channel>
+  <channel>
+    <name>ABC News 24 AU</name>
+    <id>ABCNews24.au</id>
+    <title>Close of Business</title>
+    <desc>Alicia Barry presents the week's top stories in business and finance news including reaction and analysis after the Reserve Bank's Melbourne Cup Day decision on interest rates. What does it mean for borrowers and the economy?</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IlVvY0s3MnpCOFJIelR0dnYzWU44MHc9PSIsInZhbHVlIjoiK0ZqRFlsaHpyaDdLeGhONDdNRHYwK1djU3VZbm9JUWZwTUdrNWJIRldnTktiVXJLRXNrMk1qa1VkSTNYU0c4OE9MTjNLclJcL2h6OXhIalRKVmp0R0hMVFwvdWlSYndVWjBWSlllaDZhZW5mTEdiQUZcL3pIcHBPbktleWFzcElEcGdGQVhoTWtRR216MVpDb3VaNHQrNER5aG5YM3BuUjduV0VEMGs2dlJkbFIzcWlNTHJ6UTB2WjNaanJsbHpIY3BSIiwibWFjIjoiYzA5MmM5Y2I3OGJkNTNhNjdjMzJhYmIwMTcxZWUzYzVhOWI4ZTk4OGRiNTgwMzI0MjJiNWIzMDQ0MmJmYmQ0NiJ9&amp;signature=74414721a1d661b7dbda8fa0ffd30c286eebadf42d15d0b845cb20598bad38f9</image>
+    <start>02:30PM</start>
+    <finish>03:00PM</finish>
+    <date>07 November 2025</date>
+  </channel>
+  <channel>
+    <name>ABC News 24 AU</name>
+    <id>ABCNews24.au</id>
+    <title>DW News</title>
+    <desc>The latest international news and the day's top stories from a European perspective. Our broadcast partner DW brings you live coverage from Berlin with updated reports and expert analysis on the big global issues and events.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IjJ0WlZQTEl4cm9PYkwxdzBMTlFWdWc9PSIsInZhbHVlIjoiSndxNGxjXC9MbEV4XC9qaVlFWUpYTVhPc0dSWStua1h6WlYySjYxSGozalliQ3BvUjNhc0JCS3NhV3krNGs2a0l3dk4yZElkclFidEVsbWZmTHJPSDYzSTRYVk82Y1gxR2RzdjlRS21vNk0waVB5enNiK2J2SFlvTmUyNnNvdldJazNcL2tmczhacDc3dVRGSTI5SFwvRTVLQUpTUEVRUm9Iam5IYmdwNG5ERTBEd2plR1UxSDRHWVhLSFlpbVo1d3JLRiIsIm1hYyI6Ijg3OTAyYTNhYWQ5MWQxMTVmNDZiMTgzY2QyMmMwMDk5OTA1NWM2NGJkODlkMmVlOWNjZTk0ZmQwZWFjZDhmMTUifQ%3D%3D&amp;signature=767be7cc3126e2152167bfdbcb56520ae99164d9698429a4d58e3cd230e82c3c</image>
+    <start>03:00PM</start>
+    <finish>03:32PM</finish>
+    <date>07 November 2025</date>
+  </channel>
+  <channel>
+    <name>ABC News 24 AU</name>
+    <id>ABCNews24.au</id>
+    <title>Focus on Europe</title>
+    <desc>What drives people in Europe - politically, socially and culturally? How do Europeans lead their lives? Stories on the diversity of the continent's people and places. From our broadcast partner DW.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6ImV2bGRGMkI0a2hhZkprMjVLVHU3YWc9PSIsInZhbHVlIjoib3NCcU1wa3BcL25WZTM1NHZsbWtwY0txS0ppaEZtN0JkQlhGSW1XdFlwcVVXM0N3MGlnOVpBenRiY2d6djkwa1dyV3RRdGF4UDI0UXFDK2dJa0w5UUZjQ0p4WXY3YnVyVGtlZDlHYVJIKzZQam95dzU2N2M5RmZOdlYrZkNxS1wvMEFjU0FqamlqM1wvVDI0MGdqTEZlV0ZkK0dDS1JJYVUxRk9PWTc4QnhhMHdRZVVXaVhnMUxtM0tncHdYOWlxa0lhIiwibWFjIjoiZTAyZWNlMjM2MzIzNjNjY2U2MzdiMjFkMTYyMmNmOWRiNWMxZTdkZGE2ZjYxMDNmNWEwZDAzYzBmYzBkNTdkMiJ9&amp;signature=7b847ba617572df99ba7b8c5af236d77eb479bb03de8637b4ae3ecbcc4be8c2d</image>
+    <start>03:32PM</start>
+    <finish>04:00PM</finish>
+    <date>07 November 2025</date>
+  </channel>
+  <channel>
+    <name>ABC News 24 AU</name>
+    <id>ABCNews24.au</id>
+    <title>DW News</title>
+    <desc>The latest international news and the day's top stories from a European perspective. Our broadcast partner DW brings you live coverage from Berlin with updated reports and expert analysis on the big global issues and events.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6ImxTdHo0M0xrcXJpWW9jSUlZdDMxbGc9PSIsInZhbHVlIjoibnJzTXVVNWxmZTM3OGlzK0JRY05JTHhTdUFTcXRodjFVN01LT1BiR0NcLzdPTnRkRnZSMWgyUnVaYXNSM0JDakpRcUtSWWI2TTg2dDhDeEVPd2FIRmx5dVhHMlV5NTBkR1ZMOGZDYUlodGVSMlRRR0c3WU5wU085SVpCemtLOU9ya1RCb3VHelpSNWpHWUVVTVlrM1wvU1BQK3NhOHdXRVRDVGs2dmJheWV1dGtrakVvc0liSE9cL0dSZWNaMWdITlNvIiwibWFjIjoiZjZhYmEzMTU5YzBmZjQwODY5ZTRhOTg3OWY4Mjc3ZTViOWEwYjI5Nzc4ZTY0MjcwZjhmMzA0ZGFjZjMwYzkxMyJ9&amp;signature=db3cbe9b95fb8aeb16ba3f87463a1fbb7cda4ebb8df87394a346267b79273b6c</image>
+    <start>04:00PM</start>
+    <finish>04:15PM</finish>
+    <date>07 November 2025</date>
+  </channel>
+  <channel>
+    <name>ABC News 24 AU</name>
+    <id>ABCNews24.au</id>
+    <title>Media Watch</title>
+    <desc>Australia's leading forum for media analysis and comment. Host Linton Besser, a four-time Walkley award-winning investigative reporter and former foreign correspondent, brings you a fearless critique of the week's journalism.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IlM3VFJSTU81THFxaVQrQ3JOQkFhb2c9PSIsInZhbHVlIjoiWTI3SVM5cUtjUDhsczlXRnRiMG00WnR4NFpWOUpvRzNVblExNXJIc0pma01wSFY2aXZJXC9XQmtsd3RKN1VESmZhS2IrME5MeDJ5YnFKXC93S3UyVlRcLzJ4UmVjdWVpSU05NnhSYlB2RTlcL1lJcUF6S1ZheVNScXQxdmppcEh4bzlldE5cL3ZFNUN6UlNtYWxuMnJSeUFsT29POWZ1cDJoYXBkY3BLalp4b0ZRdmc1UE5xU1o5Nm1lRGwzY2lHSEY4ZkkiLCJtYWMiOiJjYzgwNWFlYzEwOTBiMTQ3ODg3NWI5YmNhZjZlNDUzN2I3MTcyMjdkYWJjZDFkMTY4ZTQ0NjAwZDlkYmRmOTI4In0%3D&amp;signature=ae9d0bbc3cc11c2c73ae4dfbbb8e20168583ac4f046ec7808d62b14f50f3ee39</image>
+    <start>04:15PM</start>
+    <finish>04:32PM</finish>
+    <date>07 November 2025</date>
+  </channel>
+  <channel>
+    <name>ABC News 24 AU</name>
+    <id>ABCNews24.au</id>
+    <title>The World</title>
+    <desc>There's never been a more important time to stay in touch with what's happening in our world. Manny Tsigas presents the latest international news from ABC News correspondents as well as interviews with experts and guests.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IlJMdTBqOU5tZUxiclBEWGxWMHlsMEE9PSIsInZhbHVlIjoic3pmQ2tSUk1QT3RiVU1aYWZhdjZ4eW93T3FpQ1FxVnd1MWFqOHpMYW1EbWN1cTZJMm1rTlVFenlSbmpMYVR6cTliYmd5K3pjYkh6VTFkZnFJcE1yaWE2ZzBtbHVzalwvUlwvN3VuRnlSdnBNSE1heDJDWjJqZklnYmJUQ2U3bGNGc2RYa3BOcFJDZTFmWDM4SnY4aUFWd2ZcL1ZtWVlIZFZqZUVvOW1FMlN6U1YzMG5cL0ducGZFT2xDcTQxS1RxVnlcL0UiLCJtYWMiOiI2NTMzYzU3ZDQ2ZmUyNDM2MWQ5MjQ0NmMyOWI0YjgwMWQ2ZTI4MDM4MzUyNWRiODA5MTFkN2M2M2Y1YTYxYjMxIn0%3D&amp;signature=6637aee0dab0ca14d3985a46ec00bdf9e73fb56466a4741443bb1e777e2b70fe</image>
+    <start>04:32PM</start>
+    <finish>05:00PM</finish>
+    <date>07 November 2025</date>
+  </channel>
+  <channel>
+    <name>ABC News 24 AU</name>
+    <id>ABCNews24.au</id>
+    <title>DW News</title>
+    <desc>The latest international news and the day's top stories from a European perspective. Our broadcast partner DW brings you live coverage from Berlin with updated reports and expert analysis on the big global issues and events.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6ImZJZG9UVzZwbDFTXC9IVlViOEhPazBRPT0iLCJ2YWx1ZSI6InoxVmc5YUJWaDJIZ096bjh5ckZ4b0Q5OVp2U0cwYmFcL21NRkxvT2lybzRwZzRMcFwvR3FBRzZ4RFNJTTE1ZkxTK2tpWXY4bFhmUVYxenFnNWp4SXlJanlOU3pTVlVFUHpNNjh1a1pRSUxiRno1ckdTdm1DdjFRdTBoUXp6UCtlTk5IU3Q1VHBlbFlEQVd0a2s2Y3d4SGpMQlZcL2ZxZlZtK0tQVTZOcTk0MUFVWmdKem50WU9mNThlanJ0K25lRXVmQyIsIm1hYyI6ImI2NjRhNzg1NTFjNGI3ZGYyNzZhYzIyM2EwYTc2ZWE2MWYxNWM1YzQ1ZDJiYzAwNGI5NTU3ODZiZTFiZDI0YjIifQ%3D%3D&amp;signature=786ce6e2b6277278afa72e1ee1fcacf19542f75fee42727cec6708a26478af2a</image>
+    <start>05:00PM</start>
+    <finish>05:15PM</finish>
+    <date>07 November 2025</date>
+  </channel>
+  <channel>
+    <name>ABC News 24 AU</name>
+    <id>ABCNews24.au</id>
+    <title>Planet America: Weekend Edition</title>
+    <desc>It's been a wild ride since Donald Trump was re-elected President 12 months ago. Chas and John discuss the week in US politics one year out from midterm elections and three years until the 2028 presidential election.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IlhDcFdoS0N1MTFEaEJVRVBrUm9XY0E9PSIsInZhbHVlIjoiRG1taXdJXC9OanNuTU9zcmZHVHNZOGpPRVhTUXdpaVFBVktybEQyVWdOUThEUG5zcFM2QU93RU9wUDFcL0gzYzFlRzNGZ0ZaNTRjTVwvQXgwUyt2d3VOR2l2aUFwWWluaEpGRmNTcng4eVc4T043THZPeUNmbGlDTWE5RFFLZ0JhZFR3S1pBdGxhVEV6VzBCRWlQVzhGZUVReUJzOE96ZWxUa0RJMUFlT1wvZnRyK1NYMFBVYmxkM3lDVm03dG91YUU4byIsIm1hYyI6IjU2ZjhhODgyNzdjYzkwMzZjOTgxOGFhZTg1MGUwMzYzN2U5YmMyZDJkZmU5ZDUyYzhlOGFhYmI3MGM1YTc1NTMifQ%3D%3D&amp;signature=1d085181aeae7414186e1d7e929a394b86c8889bfcb02ae15451438bb50373bb</image>
+    <start>05:15PM</start>
+    <finish>06:00PM</finish>
+    <date>07 November 2025</date>
+  </channel>
+  <channel>
+    <name>ABC News 24 AU</name>
+    <id>ABCNews24.au</id>
+    <title>DW News</title>
+    <desc>The latest international news and the day's top stories from a European perspective. Our broadcast partner DW brings you live coverage from Berlin with updated reports and expert analysis on the big global issues and events.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6InNFbDFFeENhK0p3QnZqOTZFVkl2VHc9PSIsInZhbHVlIjoiWVJMNU1sMzZ4UnN0N2d6akNTbVNIMkc1Nm5lbVwvcUMwZ0plQ2ZWVjlYazN5TUZwb2lyWGRBeFRnbzl2WmlRYnR1NWtob3prN1NrKzArYUpua0MrV2NBRTBSanZPWnZzbk9RMmRHTVFUenVzQTM4Y25IalByYm5PUHNCblNISFl1OSs1aGVzTTU3Snh1UUluMHpqQ1BLY1F1aUVzcWFhamtBamNBbnBvRDRPZ1wvK204N0lZRXhvQXltWmhDM0xVYTEiLCJtYWMiOiI2M2ZkYTE2OGYxYzQ5NjlmZDk3NWJjZTJiNjU5ZDM5MDY1ZGFmYzI0Mjk5YTYzNWVlMzdjZmQyNjczOWQ1YmNjIn0%3D&amp;signature=404aa70b4b8e568e599ec6a0b542a5ca1b1f233894551b901a233c8d6f782ad3</image>
+    <start>06:00PM</start>
+    <finish>06:30PM</finish>
+    <date>07 November 2025</date>
+  </channel>
+  <channel>
+    <name>ABC News 24 AU</name>
+    <id>ABCNews24.au</id>
+    <title>Asia News Week</title>
+    <desc>Yvonne Yong brings you a weekly roundup of the stories making news across the Asia region, plus what's trending on social media and making an impact on the culture and the way people live.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6ImhSWFRyVlVMaVl0OU82bEtpNUk2d1E9PSIsInZhbHVlIjoieWM5cTkzcGZYZkhJdWdVdmVpdGhaUWoxYTlGb0IrYytlM1N4b2p3TE0wa3daeVpSN2E4YkxEVWI1cW9cL0xNc0Zlejl2Q1hVSXgwT1JcL3p2VGVxVU1GQlwvdmR4MlwvVU95bGhmZDgxME9BcFRHUTBkQUttVElSZ1ByZkVRUXk3Yk5QTTJFSGxzVDhocUhSaFZtMVkrMG5LYk9NY2N6cml5K3htVWFWc3plcWRraE9NUzMwM2NSUVc0WHg1K3A0dFwvY3YiLCJtYWMiOiIxODc2YWI3ZTQ0NjNmMGY2ODFhY2FjODU4YWQ1NDMyZDA5Y2RiYzg4ZDllMThkMDIxNTNlNjc0ODM5MzhhNjZiIn0%3D&amp;signature=42b1e30274958e01ffa8db378d42632b01573e83a8216ec2f7fde9992eb8b49f</image>
+    <start>06:30PM</start>
+    <finish>07:00PM</finish>
+    <date>07 November 2025</date>
+  </channel>
+  <channel>
+    <name>ABC News 24 AU</name>
+    <id>ABCNews24.au</id>
+    <title>ABC News Update</title>
+    <desc>Start your morning with the latest headlines from ABC News, updating you on the day's top stories and the overnight news from across Australia and around the world.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6Iml5UUJpZGJlRzIwWkNjOFAxaWMxM3c9PSIsInZhbHVlIjoiVG9BMGkzZWpvVmdPbXAzWGsxZzR1YUliSmRTN3ZEQ0VWOWgrMllCaHpcL1pYWDA3REN2Q1BWU1U0VkRna1N6bExtaDhPeVFpMkVzZkc5S3hrYkx4c3cwY2pEaTRLTHFDVk1EOUlIekF3UVNobGZwblh3SXl6Q0ZvdnUydWZnNGFtbDVCcVNvV0VOTno5SE5yUEl4ZUxVM3NBamhtNUptMWNrZDNZV242VllQR1owY0VUOXZlY3JlRWtsOWhLWUt4OSIsIm1hYyI6ImZjOTZhYTY5ZjM5MGE1MDkxYzA3OTI2MzZlZWFhNzVhMmI5MGZkMDQ4YmY1MDYyMjAyMjc0MWZlZDIyM2Q1NGEifQ%3D%3D&amp;signature=649f68d014bfcbefafeddca416cb2a12b9da041e73bd2f26fef1896be7742e3f</image>
+    <start>07:00PM</start>
+    <finish>07:01PM</finish>
+    <date>07 November 2025</date>
+  </channel>
+  <channel>
+    <name>ABC News 24 AU</name>
+    <id>ABCNews24.au</id>
+    <title>That Pacific Sports Show</title>
+    <desc>Tiana and Sera are joined by cricketer Melissa Velvel Fare and powerlifter Hani Watson to talk about some big moments in women's sport this year and what they hope for the future.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6ImorM3NpZWNERzJKZkpzalRvVWF4NVE9PSIsInZhbHVlIjoiUXNvM2lyd2pPVGdnRmN1S3loT1lcL042bjA4XC9PTFRvUTMwcDRncWQxMUxlVkpNdEdJVTJCbjJOTVpzT3FGaTBrVlhvTXR3U0VkXC80NlE5VmZMNjVkNTE2dHVjQlhiXC9ncyt2TnNmR3hQSmt1VDhMWkxyNFR2ZnFKYWl0MlM0MTZwRm54dXd2b0pXWUtXOFZQZ2xtUWlydUVvajdmNWpZZW1jenVybkdjTjRsbFJBWTQySnpkM3Q2SlZONVJ4T3hHViIsIm1hYyI6Ijc5M2ZkOTFhZjI4YTkzYzdhMDkzYTA2ZmM0YTQyNWEzMDdiYTY1OGExM2E5ZGJjNmQ4N2MwYTJlZjliMzIwNjgifQ%3D%3D&amp;signature=0a5d803d1bf05f8dde5ab65dc45cb64f3616c643363f1fac365b528d7973431d</image>
+    <start>07:01PM</start>
+    <finish>07:31PM</finish>
+    <date>07 November 2025</date>
+  </channel>
+  <channel>
+    <name>ABC News 24 AU</name>
+    <id>ABCNews24.au</id>
+    <title>The Breakfast Couch</title>
+    <desc>Bridget Brennan, James Glenday, Emma Rebellato, Catherine Murphy, Charles Brice and Nate Byrne hear from some of the guests who appeared on News Breakfast. Plus film critic Zak Hepburn and resident foodie Alice Zaslavsky.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6ImtWXC85aDJSZTBXZHRYNVMxdzNlNGNnPT0iLCJ2YWx1ZSI6IkJoRnBxT2E5MDhVUXJvVEdXeHY3T2lwcXJRQ25OZ2pKXC9PYXJSQnRXUDZQaG16ZnlibHFWa2hhREdaTjY1ZmNEdkczOXlIUmFPWnhqZlh5bkp3SXh5ZVwvYWhORkxkOFMzV1RQYUZJSW16U3BvcHFIWldQdjA1Z0RKbzYzUVVcL2wzWFBkRmY0ZDJYVFNOYlwvb2lGaEdiMlV3VFNleVRteVlpcmF5bE0yQTcrb0RIMHp6UkxpY1VNejNob1VkMWZ5dFAiLCJtYWMiOiI4ZDk4YzkyMDE2ZjgzNjcwZTc4NTJkYmUyOTcwYmNkN2M0YjAyNDY4ZDBhNjEyOGE0NWRlNDc1MTVmY2QzZGE3In0%3D&amp;signature=46b435624a38014c03a69841ee5b4122102a77b44cd0f879a545051f19c82a84</image>
+    <start>07:31PM</start>
+    <finish>08:00PM</finish>
+    <date>07 November 2025</date>
+  </channel>
+  <channel>
+    <name>ABC News 24 AU</name>
+    <id>ABCNews24.au</id>
+    <title>Weekend Breakfast</title>
+    <desc>Start your weekend informed and up-to-date. Fauziah Ibrahim and Johanna Nicholson bring you the latest news, interviews, politics, culture, weather and global affairs. Plus sport with Daniela Intili.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6InlxUUFzXC9aWVFCcURyODJkSW5ETEJnPT0iLCJ2YWx1ZSI6Iks5ajVoVDNaa1FcL25oZ29GR2RhZ09QR2o3c1JsVlBQc0dacXBiNVwvRGRzdHlzUTF3UkJUb0hPbDhIYWhZK1BcL21WTUFYU1o4em1FRmpPOFQyZ0pmVjhWNVpkUWJNYmRON1hXZTV0eklRVmVcL0o3VlVVVHg2WDUzRUV0eGhrUkJHaFU4MjV2SGdrMWdcL05MZTBiV2VjM0tnaHlUUlk2d2tjK0wyRUhTYVNPMDZhRW9oVnhqZDZxYUVlWlJXdW5cL3BIVSIsIm1hYyI6ImJiNTIwZTkxYzQxNmZjNzE1MDc1ZTlmOWUwNzI0ZGZkOWUwZjQ0YjY3NGI0ZjM3YTAwODdhYTA4NzA5OWUyMTIifQ%3D%3D&amp;signature=e984a18603624588516463b711c147394ea54e73bcd93bd39894842bfb534951</image>
+    <start>08:00PM</start>
+    <finish>12:00AM</finish>
+    <date>07 November 2025</date>
+  </channel>
+  <channel>
+    <name>ABC News 24 AU</name>
+    <id>ABCNews24.au</id>
+    <title>ABC News</title>
+    <desc>Melissa Mackay presents the latest from ABC News on the weekend bringing you today's top stories and coverage of events as they unfold. Plus original reporting, analysis and updated news, sport, weather and information.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IjlZc3FZc3JtcjZwbnBTcWNYaytlS0E9PSIsInZhbHVlIjoiTWFWTGNtVVR4b1wvVDVzZUdRMFBheUxoWHVoMUs4YUtyVjZUZ3creG8zazY3RXV2dG9vVks1bjdZXC95Rk91VEFkc3A2SEF3bzNCbndyYTFiS0x2WVR2aXhTcjdtWVVKVlRzS0RZYk14YzVUeXBoeDdHOTY0UGVGdVhWb1l4WWZxMkVvQ0YwNVJaaldSVG5IZnBpNlZzemRScWpseUJSZyszT1FYRmw0bXlNbnNvNUNmNXRhVzZyN0p3YnNUajJjUEQiLCJtYWMiOiJkNmZhYzc5NGY5ZmNlZTEwMzg4N2M2ZTI1NGIwNzAyY2Q2ZTUzZjI2ODAzOTgwNzJjYTM2OTMzZjQwOTliZGU2In0%3D&amp;signature=9d1314ffaf1504cff167a9b4db624c84a66c706efa9cd3f8f5086a88014fcca4</image>
+    <start>12:00AM</start>
+    <finish>12:30AM</finish>
+    <date>08 November 2025</date>
+  </channel>
+  <channel>
+    <name>ABC News 24 AU</name>
+    <id>ABCNews24.au</id>
+    <title>The World This Week</title>
+    <desc>Girish Sawlani brings you a weekly roundup of international news from an Australian perspective as reported by ABC News correspondents covering the Indo Pacific, Europe, North America, the Middle East, India and Indonesia.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IjZPS3Vhb2kzYm9sR2EwUDNrTzNpMFE9PSIsInZhbHVlIjoiM0FCNythNmlDbjI4dkVBMWloNlJ1UVlnVEhEUENReXpQNkEwRXhlb3RweHdUVm1ZRkh0QWpub3NPVDNjMGRVV2U1TFpRRExid05jaXRuS3h5Yk5QK2pnK0pmRUdnNkVXUnVoRjNYazB4N3ZJaDVaTGdTN3hNdjdtQmswRXBBRkxtWEtZaGdyVG91TE1XVVwvcXFueXFTXC9vUmFhQURYTWp0MHFVTUY4YXJESXZXdzhsK0F2b0JDc2d4YTc3bTBVazUiLCJtYWMiOiI3YzJlY2FiMjk2MWI0YjUxZjg0ZTQ1ZGFjNGRlMWMzMTcwZGQ1YTMyZmYxZjQxZjI4ZTBlMjJkOTVmODkxMDRiIn0%3D&amp;signature=9c5cc4868f41dca5f05f28cdafcc785c97680587a9649cb210794d54443b0893</image>
+    <start>12:30AM</start>
+    <finish>01:00AM</finish>
+    <date>08 November 2025</date>
+  </channel>
+  <channel>
+    <name>ABC News 24 AU</name>
+    <id>ABCNews24.au</id>
+    <title>ABC News at Noon</title>
+    <desc>Melissa Mackay presents the latest from ABC News on the weekend bringing you today's top stories and coverage of events as they unfold. Plus original reporting, analysis and updated news, sport, weather and information.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6ImEzWExmMkFkNk9uZk9cL0ZJV2lMbHJ3PT0iLCJ2YWx1ZSI6IklhR1c5eHNDdGxhVko1VTk1UlJ3bFdHXC9hdDRIVktkWERkQWJxVU85Qkw1eHpucFl1cXZCa0l2QTQyUU0zRHBreVNvR213dDlsMmtcL0s3Y3NLeWxDOCtjY1RBdEg1WVUrTlFNWmJBcmxHSVI5TlhyM1ZkT0xENEtUSmgySFwveVBrQjhyejY1eDBUQ0RBTmk0N25UdDJzajFISUl3dTdOYkxzTXh0a09QWStuY2VpdVwvY0J0dTVUM1RWWXUzbitPZFMiLCJtYWMiOiJkMDRmNjI1MTIwNGU0MTVkOGQ0YmViODUyMDY4M2I1Yjg2NTNjZDU2MmJmMTI4MWE5NjY4OWFlOTJmNWU3NjM5In0%3D&amp;signature=730eafd03681c0a4779ad6e2075a3729de69c8eac2afe6184641aa40f7600206</image>
+    <start>01:00AM</start>
+    <finish>01:30AM</finish>
+    <date>08 November 2025</date>
+  </channel>
+  <channel>
+    <name>ABC News 24 AU</name>
+    <id>ABCNews24.au</id>
+    <title>ABC News Regional</title>
+    <desc>Amy Culpitt presents a closer look at what's making headlines in regional and rural Australia. Reporters uncover the news and unique stories about what's really going on outside the big cities.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6Ikg0cE14SlBMWURmWTE5Y2NhV05ERmc9PSIsInZhbHVlIjoiMFZHMmpSZEZtT0ZydVN5MUZHeFdTXC9KbDNMOUg1RUxQOFBLOEJBK2RRcTVQY1hwTFwvZURNMThCUWw5NTMrbHF4YlFVMDVFMTlEY0E3eXJxN1BjYnFybnVTa1NzK1ZhQ0JabTV6XC8yMzN3YUNGaUhvSGgwOFljbXZEaThLMHQ3b3d4cWtvaUxqS3RKS0o2V3dsQVdlaHRBOVRUZVQ4QjVyY0RFVzNMcVBzR25ucmpwNmNMeldRN2FFVUtMWHlyN1IwIiwibWFjIjoiNjIwMzc5MzhiYmI3NzY0MzZlOTc2NWM4ZjVkOWQ5MzkyOTcxNDVmNGEwYjY1YzNkZGI5ZGRlYTNiNTM1NmU5OCJ9&amp;signature=329e5c5d46994b6d36bc1ffc9feb8e6d34acb7e98c41bd8955d2a2a00001baf0</image>
+    <start>01:30AM</start>
+    <finish>02:00AM</finish>
+    <date>08 November 2025</date>
+  </channel>
+  <channel>
+    <name>ABC News 24 AU</name>
+    <id>ABCNews24.au</id>
+    <title>ABC News</title>
+    <desc>Melissa Mackay presents the latest from ABC News on the weekend bringing you today's top stories and coverage of events as they unfold. Plus original reporting, analysis and updated news, sport, weather and information.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IitlOWsxeEw2bDRBN0pyUDlzTGw1Y0E9PSIsInZhbHVlIjoiY2N3VlFXYlpmVkR5bldZZVZRZXowWHJkc1RBRTdIeHgxVk83TFNNZ1FJVWtIejk5YUtuRkZSRkNRMktSdlVibWcweHdpc2xsME5jTWFxZlZwUDdcL0w4dEpaVXQrZ3hHR2Z5TEROa0I0Ujk5XC9oU1JZYVRxNnR2TzhcL1N6cjlNWEl2U3dpcU1saEs0TnQ3XC80NGhKMVN2bHpDYW9xR0hUUFBvV3J2QTZjWnVLeEJ5UGM3alFGbDZoTFZrR3VQdEoxUiIsIm1hYyI6IjcxNTA1NTBkOThjM2UyMjA1NGQxYTg0N2IzOTcwM2MwZTRjMGJkZjE2NThhYmQ0MThjOTliMWZjMDBhYTA4ZDYifQ%3D%3D&amp;signature=045c208209199a9bf9b3c75b84103858b7e96974c8a55e2b6ee8e74d8194b02e</image>
+    <start>02:00AM</start>
+    <finish>02:30AM</finish>
+    <date>08 November 2025</date>
+  </channel>
+  <channel>
+    <name>ABC News 24 AU</name>
+    <id>ABCNews24.au</id>
+    <title>The Breakfast Couch</title>
+    <desc>Bridget Brennan, James Glenday, Emma Rebellato, Catherine Murphy, Charles Brice and Nate Byrne hear from some of the guests who appeared on News Breakfast. Plus film critic Zak Hepburn and resident foodie Alice Zaslavsky.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IlN4ZDFcLzBOSHNGSjRIV2Uya1p6VTdBPT0iLCJ2YWx1ZSI6ImV4SDFHRXZRc2lpaUJOTUc0MkpCV05KZDRFejErY29SMjdPN25RbjdUTTRQc0YxZno1YTE0TnZaXC9lN3N6VGZORTJkSWlIMUxVV2VJU0txbnNSR1lPRjJySTdjU3lNbVI1bFp4U1RWaUxQOUI5YVdKSWttTiswcWRsNlJLMllrMmtpcDlLQnhuOFNxSGl3c2Y4ZmJqd2lQZE5FSTFycUR3RlJ2Y3AyNUh0cENOR3ZQWnB0TEpBS2hoSEtcLzM2M1FkIiwibWFjIjoiMWMyMWJhNTFkZDgyNjEwMjdjMTkxNGQ0YTVmZmNkMzliNWJiOWI5NTg4ZGM0YjhjODIzZmJkNTkxOWFiOWYzOCJ9&amp;signature=a33a6cea7432274ce9191d5a97d2f711610328e51391bf7abfc6feeeeec15002</image>
+    <start>02:30AM</start>
+    <finish>03:00AM</finish>
+    <date>08 November 2025</date>
+  </channel>
+  <channel>
+    <name>ABC News 24 AU</name>
+    <id>ABCNews24.au</id>
+    <title>ABC News</title>
+    <desc>Melissa Mackay presents the latest from ABC News on the weekend bringing you today's top stories and coverage of events as they unfold. Plus original reporting, analysis and updated news, sport, weather and information.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6Inl3Q293bVVsWXFqeitYbzBmT3dVSVE9PSIsInZhbHVlIjoid1BYN2dFVVdVdTVKVUVJbE9zNWpsKzBQMXg3c2lhdXE3aWhvbjRzT0thU2w3aEVqYTZ4eXpCRnJSR0NTQXpVWFI0MDlsTFZ3Rk9KT3I1aDNHZ3BBeXZnOWx3czI2VEJnaGkxYm5SdEZ3ckVyZUVaanVFRXQ3OVQ5WVwvODBHbUZ3N3JMcUJVYmtpeFwvTGU3aTdzOEtxNjRIQlVUV0wrVmNjR3lFcldRZ2JsYzg5dzA2ME5Hd2pRQ2RGNHVHTmdCRUMiLCJtYWMiOiIzZjhhNDVhYmRiMzFlMWVhZjM3MGIxOGUwNDIyYjViZTNjZGQ1YWVmZDU2YWYzMmE4ZjcxMjI4MGQyM2ZlMjhiIn0%3D&amp;signature=aef3846a05c8d55ef61c7889cbde27ef9c6a1f555f73f1f31fab2aece9a069a4</image>
+    <start>03:00AM</start>
+    <finish>03:30AM</finish>
+    <date>08 November 2025</date>
+  </channel>
+  <channel>
+    <name>ABC News 24 AU</name>
+    <id>ABCNews24.au</id>
+    <title>Stateline</title>
+    <desc>A push for NSW Police and government to change the way they deal with long-term missing persons cases. Plus South Australia's coastal communities contemplate a very different summer, as the toxic algal bloom lingers.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6InBsNklcL2hVdFc3SjBjbDdUdERjRHB3PT0iLCJ2YWx1ZSI6IlpSRXk4Z0p1WG92TFhLQUVsNjhxemJOdGdya1dJTzdmclFVU0dFWHlCN3hwTEtFM1dtMDIzN09YdFhVdVBzWWtaN002ZjlJR3NFNlRENkRMdEhFcnVEVVl1OFgxa1Q4eXdKT3hVaG1uY1hnbEZaYzFPd1QyMitGZUIzTksxM3dOZnBPdVkxbmpXK2RMbldzRmM0ODFndGVGb2dJMTFVZnZQXC9SZ0szUkF5bkxMY3RyNVlpWjg2aDRLcG9laWlZeG0iLCJtYWMiOiI4OWNhNTM1NzhmODg4MzNkZmFmMmQ0N2JlN2FiNjlhY2U1MTVlOWM4ZWNhN2RhMTcwZTI4MDk1MTg3Njg4MzNjIn0%3D&amp;signature=f66aea743cb76a8f5893fd0066b731b642a22755b0da74d9988ee79241f407da</image>
+    <start>03:30AM</start>
+    <finish>04:00AM</finish>
+    <date>08 November 2025</date>
+  </channel>
+  <channel>
+    <name>ABC News 24 AU</name>
+    <id>ABCNews24.au</id>
+    <title>ABC News</title>
+    <desc>Melissa Mackay presents the latest from ABC News on the weekend bringing you today's top stories and coverage of events as they unfold. Plus original reporting, analysis and updated news, sport, weather and information.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6ImwxdHFQek9NT2JqVmVsQUFRdEllUmc9PSIsInZhbHVlIjoiQXg0d0pxUXNneDJrOFFxblNZUzhsdDJyQ3E1NU0wbFRlQmVka0x5WHFRVDFzQWhEZVBsN0EzTmI1aHlSOVB3Nk5ZcmJiSkJsWHN6ZlVOeGo0VFVHd0hEQkJaaFRYcWRlVXJ3cjZIZnpZYW1ac0RhSElBQm9XRzk4cFllaFFuNUMrWmdnXC92NkszbVBHdFE0VXRiSEM2cnNtZnJpdG8wN2VVajFDK2xwQ2JTaFZ1NXdcLzZIWWZiK2NDWmxoK1ZXMjciLCJtYWMiOiI1NWNkMjJlNTBiODFlYTNkOWYzY2E1NjY1M2U4MTk2ODM1MDlkMzhkNWY2M2VlOWY0YzNjODM4OTI2MDcxOGIyIn0%3D&amp;signature=e48699dde26514da8c7443e39d92262b78888546f299377b3889c426e91bf6fe</image>
+    <start>04:00AM</start>
+    <finish>04:30AM</finish>
+    <date>08 November 2025</date>
+  </channel>
+  <channel>
+    <name>ABC News 24 AU</name>
+    <id>ABCNews24.au</id>
+    <title>If You're Listening</title>
+    <desc>Matt Bevan examines how current events have probably happened before, to figure out what we can learn from history.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6Ik9OODZlOEYzK0c3dXhHVEd3eTQ1WlE9PSIsInZhbHVlIjoiXC9SUUJUamdnZmFOcjlcL3VtMExBSEszUVIxM1BZZGxXaEdkOCtiQU85RDI3VzJBcmRBMlYwR2M2UldTU3dQbmNYUXpRNG9ISTdBMThCbGJxT25ZWFk3VnVDWktZTFdBbCt4Y3FwaUcwQ2VqYVBub0VEU3k4Uzl6MWJETmk3ZWhCXC9CRWtnTmNEUzhsWXdrb0I2XC9LdTJEbDFCYURrWVUydjVMSytRNjlcLzd0dWhDUzhcL1pPeDVhYURsWVhqNCtWQzVnIiwibWFjIjoiNTM3MWJhMDU2YTkwNTU2NTYzOGUwZDk1MDVmOGQwZjA3MDYyOWIzYTFjOTQ0ZTNhYTMyOWU3MmI3MmJjYjhhYiJ9&amp;signature=440d4186676bad89c0f324f954a4750e709446dcdb2ed375232eee48a27a1171</image>
+    <start>04:30AM</start>
+    <finish>04:50AM</finish>
+    <date>08 November 2025</date>
+  </channel>
+  <channel>
+    <name>ABC News 24 AU</name>
+    <id>ABCNews24.au</id>
+    <title>ABC News</title>
+    <desc>Melissa Mackay presents the latest from ABC News on the weekend bringing you today's top stories and coverage of events as they unfold. Plus original reporting, analysis and updated news, sport, weather and information.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IlJZWHRvaXdRVmNGTzl3SWp2UVA3bWc9PSIsInZhbHVlIjoiY2Y3aHQxbnhyMXJoUDhIQVdaVUswajVxeGZmKzhlM1lXTldJeDVNXC9hblJNS3NjYVNaRWhyV1JUWXNybWVQeVFDQW1iT1wvTTAwUStiQmx5XC9RT2NnT3N0MUV3VFo4ckNJWFpoczhlNVV4bE5hS3JwMnVCM0JDdUdMMUxVbHZQS3NoYnFYaGhcL3Nza21Td3p2QXplZ1liRUhMVXhHMVplVHNqUENUcCs5VUhpQThldjdwUStpenhGVFlUekpEK0dmVCIsIm1hYyI6Ijc4NDBiMmM5MDlkMjQzNmUxNGYwMjBlMDlkN2Q5NDI4NzIxZjA3M2QxNDhkNjA1M2M2YTZiOTAxMDJmNTBlOWYifQ%3D%3D&amp;signature=c96a8c3eab4c56a6f6c21aea40b3cf6b814394b2a6e4262a70dfdbc9de41f501</image>
+    <start>04:50AM</start>
+    <finish>05:15AM</finish>
+    <date>08 November 2025</date>
+  </channel>
+  <channel>
+    <name>ABC News 24 AU</name>
+    <id>ABCNews24.au</id>
+    <title>Planet America: Weekend Edition</title>
+    <desc>Chas and John look at the results of this week's elections in the US including the New York mayoral race, Proposition 50 in California and key votes in New Jersey and Virginia, plus what it means for the 2026 midterms.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6Im1ZUU1TRWE5ZkdBMWRCUERXZ1Z4WHc9PSIsInZhbHVlIjoiMjhHV1VEUzBUNFIxdWZkcVgzbEZWTWkzWmt4SVFTeHY3REprZytSVTVZRklxcjc1YkhEdDZFeVpRNEt6cHd5XC9tWXgrNDJ2U0Zudkt3d2prWlpxano5ZmNUZXczVHFSNEtTdjdyc3B2Tm82UFNDSXJUUWZlN1JSbnlkdFNwbzdLVjh0cHlqUFMzbTlVYSszcllEV1ZKbU51XC9kVTZMY1dSejE5QVwvS3JRTWdXWmJ3dlZzZ29UWTZmM1M0aTJabDg4IiwibWFjIjoiOTQ2MDVhYzZjNTQ1N2YyMTRmYTY5ZmE0MzFiMDUwZGIwNzIxMDQzOGJjYjE0MmFkMjRmNjhjZDY4MDQ2N2Q5ZCJ9&amp;signature=0a9992688651453e2dfde9386d58c6a919b0b3edef10b2cb7a99af9509dd56a0</image>
+    <start>05:15AM</start>
+    <finish>06:00AM</finish>
+    <date>08 November 2025</date>
+  </channel>
+  <channel>
+    <name>ABC News 24 AU</name>
+    <id>ABCNews24.au</id>
+    <title>ABC News</title>
+    <desc>Melissa Mackay presents the latest from ABC News on the weekend bringing you today's top stories and coverage of events as they unfold. Plus original reporting, analysis and updated news, sport, weather and information.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6InJ3RTN4S2J4NUQrM2xJdmRzWFpIeVE9PSIsInZhbHVlIjoiMUtCd3ErOVpvTExuZkgwTklXY2o3bStOZnNSZVR3dlZ0R2ZWY0xmb3VURjFqb3d4S2lkcDFNR3pBbFFZRGR1UkVYZUJBUHdjc21mMHBpMDY3WmtLZlVxNlpsSEVnN0Fna0V3UENHVHVCTitrTGQyZjFvZHU4Nmx0SytrME1XXC91UHpvd0xFVnZVSU9JSnh6QlIrQ21RWWZpQ29kZzdkM2xEaGFiNmlTNDFRbTVFMlh6RzlQaXBnS1FHMnVUdDhpTiIsIm1hYyI6ImZkNDA5OTFiNjhkMWViNzVjN2I2M2EzY2FlYTBhZTU5MDk5N2Y0OTA1NDYwYTA4NDA5OGJhZGNhZjM0OTc3YTQifQ%3D%3D&amp;signature=a50c9e0b0a462acca05f987ba0fffb45f92c9f2f547e1aa244ad13372b1d9e87</image>
+    <start>06:00AM</start>
+    <finish>06:30AM</finish>
+    <date>08 November 2025</date>
+  </channel>
+  <channel>
+    <name>ABC News 24 AU</name>
+    <id>ABCNews24.au</id>
+    <title>Asia News Week</title>
+    <desc>Yvonne Yong brings you a weekly roundup of the stories making news across the Asia region, plus what's trending on social media and making an impact on the culture and the way people live.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IkdzOG9yNzYyVUw0VktSMHk3MkpHNGc9PSIsInZhbHVlIjoic1Y0WEVKbDgySjFOMkdmejFqRWJzOGEzZndQbE1SaVR1cjlldyt3M1EycnBjaGxpd1o0YmdZdHdWSjBGSHdCcUtGUDhUT3BBNjExR29xS3hBSGdicjR3RmxLeERuZnA4WFlEdVhCSm9JSm1lRGRyb0xlREdJb1BERlU3V3JEZm5UeWRPblhPaENOa0ZZZmZkTzlnVE9qbEpXZ0pcL2F4UEFKZlFEVDFKR2g3R1lTdlhJVDRycUxBRFZUY0htdVBjSiIsIm1hYyI6ImEyY2NiM2MwZmM5YTkwMTI0ODRkNTVlMGU3ZmY5NGFkMjM0N2M0M2Y3NjA0ZDMxZDQyZDJjYzI2YzVkZTRlZjIifQ%3D%3D&amp;signature=806f1debb018d47250c5addea8a505c157f5c6b3a21c682d1b41e6906b717d07</image>
+    <start>06:30AM</start>
+    <finish>07:00AM</finish>
+    <date>08 November 2025</date>
+  </channel>
+  <channel>
+    <name>ABC News 24 AU</name>
+    <id>ABCNews24.au</id>
+    <title>ABC Evening News</title>
+    <desc>The latest breaking news, compelling stories and Australia's best investigative journalism. Round the clock coverage of the news that matters from a team Australians can trust.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6InFTU1JLQ29WZ0RYK1lvc2JtN1VSeEE9PSIsInZhbHVlIjoiVnNxU1wvMXM0cXNsSWRSbCtZRG9UVnF3Q29CU1g0clNFTGVQZmhXMjdcL2NXaGs2V1hPZjRkd2c1TUFHUlFUNjgwVmlFZkZzOEVUdE5tamdJNDdrYmdtMGpkbXRnUVFndDdDbU1GMVVRN0pNb3A2eE1NaEZUaUs0UElKeVJYR0ZBUHp5SnlTdGpFa1dNU0o4WDVsaHJXOXRpeWQ3N0hFalQ5MGQ4K2drazFWaGcrMVZHb0o0VUlrcWNyMWlVdmdCMW4iLCJtYWMiOiJmOTViZmYxZDE4ZjI2OGNlMDI1YzM0M2Q4MzdkNjFmN2Y1MmNkZWQ5YzdlZDY5YWM2MmQyNDBkYmZkN2UzNGVmIn0%3D&amp;signature=eeb7a05eb3bade9275d4125307a9673b83c9b6ff4b9125b8b52dc7c9fb1e60ac</image>
+    <start>07:00AM</start>
+    <finish>07:29AM</finish>
+    <date>08 November 2025</date>
+  </channel>
+  <channel>
+    <name>ABC News 24 AU</name>
+    <id>ABCNews24.au</id>
+    <title>Australian Story</title>
+    <desc>She's flamboyant, provocative and brave. She's also married to David Walsh, founder of the MONA gallery. So why does artist and curator Kirsha Kaechele feel she's not taken seriously?</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IlwvWnZqdlRGTjRYTHByK3RpTjdWWVVRPT0iLCJ2YWx1ZSI6IlA5ODVJTlBRWklcL1BRcjEzMHpxNHVocUxWRFdTOE5BS2w2Q3d3UVVJV0VISjM2Q0FjaGdhM3JTekZwMDg2RHQwSkVqbVhkcDM5aE1TRW9SZ3lpTVwvVDZQQk1GTzhUV0xjbUo4N1NiQjBRY1pTMVNnV1B4aWZmVGE4b3NGaDYya3BJdmU3bUE3WDFucjlIQ0xybElEcDg1bHlraUQ4VEVqUFcxcmk3N0xCQXEyNGpvVURza2tXaDhvZVFUWGFyVXFqIiwibWFjIjoiMWJlNGUzOTYzNzVlNGU5MzhiY2IxNWY3N2IxMGJjNjMzYzkzOGRhMzJiNjAyMjIzYWNiYTEzOGY0NmIxOGRiNiJ9&amp;signature=058cee943239ec0a5e9353706e351c02507e3b79048733cfd9e7212e9bf69422</image>
+    <start>07:29AM</start>
+    <finish>08:00AM</finish>
+    <date>08 November 2025</date>
+  </channel>
+  <channel>
+    <name>ABC News 24 AU</name>
+    <id>ABCNews24.au</id>
+    <title>ABC National News</title>
+    <desc>There's never been a more important time for transparency and trust. ABC News brings you the day's top stories and latest news with more reporters to tell you what's going on and why it matters. Presented by Mariam Saab.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6InpiWjZndWhiOTJRWWMwYk1mb0N2Y0E9PSIsInZhbHVlIjoiKzBPRmhGQUE4WmZHYjFrUTFFWCtUZmYycmpNV0FWVUNtNjM4SzRSdHNFdEZJT3JLSlZvSEplV1NZdWNNVURUckt2bnZHZnNpT1VMQUw0TE5CUGpKQUZZWklJZEZSdnhJVmNFNWtlMVZGajVpSklMOFRGemF1UmErbENuaFwvTFNCbGJoWUVzdFRzNUhsM3Y3aXFvMDhaTjhLa0hMT0UycDU4MjhjRjlwckZmUzVBa2NRYldEOXFcL0dBcE5pRk5IK0kiLCJtYWMiOiI3NWFlNzFiYzY0NzEzNzZhMzVhNTk0ZmY4ZTM2N2E4NjJjMTJiZWIzYjgwZmE4MDE4YjBjZDE2NmZiZjA3YTI2In0%3D&amp;signature=d6f23a21941eac3df56476b0d1ecbb416617a4ff9c663c92793d96c361fa0f58</image>
+    <start>08:00AM</start>
+    <finish>08:30AM</finish>
+    <date>08 November 2025</date>
+  </channel>
+  <channel>
+    <name>ABC News 24 AU</name>
+    <id>ABCNews24.au</id>
+    <title>Compass</title>
+    <desc>With the rise of race-based attacks in Gaza, Australia's Jewish and Muslim communities are traumatised. Benjamin Law discovers how some friendships have fractured, while others are strengthened.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IjJnWlgwTHYrUVg1XC9WMSsyTStlRkRBPT0iLCJ2YWx1ZSI6IkYwNlNyeUNVNkNzbWhZa1dZUVR4bUp5SjZJVTJPTDJjNHJcL2VDZjVKMGE5YUMzajVKcWpVY1VYRjZHNFJrdWV0SFQxaURvV0U4cGxEZjA0QzZIZXltVnI2S2dSUWlvZnJCcHdEckM5Szk0TFpVZGtEUW92MHBickVmd1Bad1RDRVFnUVExSFJkQ1dVQ0U2XC8xc1paWjk3bE5MWkd0SndDRWJvVlhwb2lsUG4wSDY4TUVZKzhyRnpNaGtOVDlGRWdvIiwibWFjIjoiNWI2NTdiODVjNGU4YzAzYjk3OWQzOWRkYzk1M2VlOWJkNWEwOWZkZDg5NTkxY2EyN2ZjMmQ5ZDU3ZGNkYTczOSJ9&amp;signature=b58de1f92c1ac70734bbc1b16063272c789bf0fc7e2cb796782e7c3a775b2b92</image>
+    <start>08:30AM</start>
+    <finish>09:00AM</finish>
+    <date>08 November 2025</date>
+  </channel>
+  <channel>
+    <name>ABC News 24 AU</name>
+    <id>ABCNews24.au</id>
+    <title>ABC News Tonight</title>
+    <desc>Mariam Saab brings you the latest headlines and a brief summary of the day's top stories from ABC News.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IkVOMjRObzBraVZnVFd5Uk9lVzVmM0E9PSIsInZhbHVlIjoianRjOVV2elV0Vjl3Z25BNGVzR3c1UzVPK29ycHdxZDduS01kRGZaeWFUWDRHT2VqRHRSemViUmt6UlZ4bUxBNzBaR1hWUWFaS3F0eWVWUFA2VjhrbEpRQTNWK3NmTXoycFlONGFzbXBsNHljVjhlaXNXQTk0cWIxTDRiUXp2XC9xTHVQSHVPU2ZKZWllQ2tBOHB4RHpsRktjWG4ySEs3RXBzRDVKM0lHUk9ZM3o3UU9OSjRPVnJzSEcwOVY4c3hNcCIsIm1hYyI6IjM4NDI0NTNhNDdmZGVhYjI3ZWY0Y2Q3OWFhZmI0YTdlOTJkYTkwNDEzNmJkYTg2NmI2YTZiNmY0MjFjZGMwZjYifQ%3D%3D&amp;signature=5b1e7a20ecf6fc28623b048d10a8325de9f753ad5c566a8ea212b03891ee9f36</image>
+    <start>09:00AM</start>
+    <finish>09:14AM</finish>
+    <date>08 November 2025</date>
+  </channel>
+  <channel>
+    <name>ABC News 24 AU</name>
+    <id>ABCNews24.au</id>
+    <title>Four Corners</title>
+    <desc>As Australia signs a landmark deal to bolster its alliance with Washington, we're selling China the critical minerals it needs to build hypersonic missiles and nuclear technology. (Final for 2025).</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IkdNWHdOMk5zcWdYTDFZR1ZQbHNEbXc9PSIsInZhbHVlIjoiNFVSMWpIYlVGY3RsbFppUTZ2d1RWRFNzbmZPZUhocTZSNktweGVoXC9LSUpIV2xjcEp6ZnJYREpPNm9xMitxUXdIUkpZSXBUa3lQcDdKenBoUjlVQ0hZRjBWeXVDMkNEbE1VTUJBekhERkprUUlpa0pkdDhaQ2ZZbVE5MWJCeGNJMnhKZWhqSkpvemd5NTVNOHI1MjlNeVwvZHdkN1Jia3hQMzhjVk9ObzkyYXdSYVJSNUxaZE9lS214Q3V5d2FVUmoiLCJtYWMiOiI0NzNhODljMDRkM2Q0OGRmZjJiZGMxN2IyYjZjZTA3MmIzYjkyOTJlMDliYjBhMDhmODhhMzBlNDI4Y2YxZjJhIn0%3D&amp;signature=f56d8b32d5fa72778b9eb51dba66cb0f611be68069589968522a9ea85414e7ec</image>
+    <start>09:14AM</start>
+    <finish>10:00AM</finish>
+    <date>08 November 2025</date>
+  </channel>
+  <channel>
+    <name>ABC News 24 AU</name>
+    <id>ABCNews24.au</id>
+    <title>ABC Nightly News</title>
+    <desc>Wherever you are and whenever you need us, ABC News is here to bring you round the clock coverage of the latest news and today's stories. Plus reporters investigating issues that matter to you. Presented by Mariam Saab.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6InZHMUxvSHJPOTBhSlVvQzUydHJ2eWc9PSIsInZhbHVlIjoiSHZubEx4QStGYjVwdkRXcWExMWFLSTUyOXp2WE1UUTJ4RjJEYWxFcFdMa3ljUUYxeXZ2bFhxUlpUOXV1MU83M1d1ekpua0xxY1l0ZWkwVlFZUHI2eHFcL1U5ckF5czZEU2N5ZnFMK21tN2Q1TkIwUTVRQXZCSkdvZUNzNnJZd1VHM2pSQlFvOUpsUE5pWHNsdnVjTFBiWmFDY0pNU3k5dHBmMDRtdVJuZ3F5TWEycXkzVG92NnVBNGk5QURJd3lxaCIsIm1hYyI6IjVjN2YzYTJiMDM5MmQwMWM3NWYwYTdlYjA3YjlhMjE3NTFlYjc2YzM1YmMyZjU0YjJiZTJkZTM0MGNiYmQ5NDMifQ%3D%3D&amp;signature=9b4070f03da5eb84ad59bd97c0e41303572ec9a05809cfac2a4bbb040e1e3162</image>
+    <start>10:00AM</start>
+    <finish>10:30AM</finish>
+    <date>08 November 2025</date>
+  </channel>
+  <channel>
+    <name>ABC News 24 AU</name>
+    <id>ABCNews24.au</id>
+    <title>Boyer Lectures</title>
+    <desc>Larissa Behrendt outlines the strengths and pitfalls of our legal system, and how it might be enriched by our First Nations' peoples' wisdom of interdependence in her talk 'Justice, Ideas and Inclusion'.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6ImJuZEo5eDlBS2hsUTVHTGl3MzRmRHc9PSIsInZhbHVlIjoiVHk2UmpOMm5LWjZaNjgzaFlqWnZsMkxJeWd3RTU2SkdpVCtSekhSNUZUMHVcL3R3cU5PODBjUXhsMGw5ekc5OE9uUG5YQkQxbGpoQSsyeXU4eExaT284RWtSWktSanBjMnhoekpoVXlzczJwcTRHYzVDNkZmZ1MxZGM2djN0QTBkcDBPZ0dqcHl2azg2aFIxSHIxck1PcXhUV0ZrZnU1MFBoWTdlS25FRFhjcXNNYytUYm1ybXR4UFhMK1FsNTU2YyIsIm1hYyI6ImJlODlmYzJjYjNmMmNjYWE4NzBkZjRmZjYxMzQ4MzE2MzNhNWRiODJiYWVjOTA3NmM5MmQwMGI4M2FjMDczODQifQ%3D%3D&amp;signature=342f12ec657c0a30a32db7e492a4ce11e3f806fc517ecd62b9375e0d3922e6e4</image>
+    <start>10:30AM</start>
+    <finish>11:00AM</finish>
+    <date>08 November 2025</date>
+  </channel>
+  <channel>
+    <name>ABC News 24 AU</name>
+    <id>ABCNews24.au</id>
+    <title>ABC Late News Weekend</title>
+    <desc>Mariam Saab presents the day's events from reporters across Australia, connecting communities and telling Australia's stories.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IkwrSTRXa29KbzdmZUlsblZWZVptOWc9PSIsInZhbHVlIjoiNlZsTnhIcVhyc0hOQVwvVllRNDJnaUpkQzNDazBGaUNJdnZCejFwYnpFcEkrbEloWTNGOWxPSzhkNURlTVphbFlcL2ZSeENSa2FydHB0RTBXd3V1dWFaYlhRY01STWlVTlpZUkNKWHZ0Vk9pd09LRWY5V2pcL0kwU0VxNzdBUG1aZTVhcUVkc0V3RFNLRnl1QTlCRnEyWkpwM0U3cVRSdzJoenJDaHhZZHpxc0xrWU52dkY1WVEwT04xUlwvOHNWb25qMyIsIm1hYyI6Ijc0ZWQ4NTE0YmIxZjhlZmVkYTI3OTY4MDliNmMwZGZkOTM4YWRmNDA0MDBkNWIzZjI0NmIwZTI2MDBjY2QzMDkifQ%3D%3D&amp;signature=d60cff8a65a0b4ef87b37cd54cdbc73d39d422ea94c6cf83e5d5ee2dae18f9c0</image>
+    <start>11:00AM</start>
+    <finish>11:30AM</finish>
+    <date>08 November 2025</date>
+  </channel>
+  <channel>
+    <name>ABC News 24 AU</name>
+    <id>ABCNews24.au</id>
+    <title>The World This Week</title>
+    <desc>Girish Sawlani brings you a weekly roundup of international news from an Australian perspective as reported by ABC News correspondents covering the Indo Pacific, Europe, North America, the Middle East, India and Indonesia.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IjNKRTdOMEVXTkVvYmlSaGo5VVRLTmc9PSIsInZhbHVlIjoiOXJ4K0YwXC9Ca29LXC9oa3Fva2FnRzdaelNCekk0MGxyaXJSY3NrTHNmcDU1eG5RQkhvd3B0dzZyZkFQWXoyQ0draklDMERWeGFEendPUHZ3UndUdGdZaVM0aWNHSmpucUVCVmM3NjBKWmdtY2IxUDdhbkF2WjRGNDNFNUxpdTR6WWhMUHJORGVOaXlnRFlwQzh3cklGNGowSHkwN1hXeGxmZ3BZaEhoYUgyOWFCOTh5UWhHdVdxVFRwNGI4WWZ1MzAiLCJtYWMiOiI3OGYxMjVlODZjODlhZWYxMmY4YTdiOTM1MTI0MGQ0MmUwMDE4MmIwYjFkNjY2ZjFlNDY3NDIwZTQyZDJiOTRhIn0%3D&amp;signature=47e22f1ebc67b501d805e0ab0aa7c3936d50b6206b7a6760373505349a445a32</image>
+    <start>11:30AM</start>
+    <finish>12:00PM</finish>
+    <date>08 November 2025</date>
+  </channel>
+  <channel>
+    <name>ABC News 24 AU</name>
+    <id>ABCNews24.au</id>
+    <title>ABC Late News</title>
+    <desc>From across Australia, the latest headlines and the day's top stories, with reporters on the ground connecting communities, telling stories and bringing coverage of what's happening as it unfolds.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IlROaUhHNTBOdjJ6UTk1UVNEXC95NGtnPT0iLCJ2YWx1ZSI6IjYxMUdidllvUDkwUlp6Zmtib0pTNUpsYitpdkQ1R2VMbjdrelwvUjl5RjA3dGFYMHI1VVZtYndwYld1WXRQUE9ZMEFLR0dzYUdnckJmVm91ODFUbjgrSUZKdHFROUplRDFEUHJKM0VMeWc4UTdyMmtlVTVZclJsNVlYMXlnSDlpWTFcL3Bsd1wvMzZPRGpFNnNcL1A1QmtscXhcLzIyaUJmbnI0TDlHb0JzbHBLXC9hd3RUVk45aHBjUVRoajBmaDdINmFFUSIsIm1hYyI6IjIxZWI0MTQzZGFhYTMzZGY5M2JjYmU4YzFhZjA0YjNhZjc4MDAzYzhjNDQ1OWM5NmU3NDA1Njc3MjMxYjJjZTQifQ%3D%3D&amp;signature=7fde8958dee6605bba3dedccd7764e3a0de5d762a4e443d806a60dee3b0b8a08</image>
+    <start>12:00PM</start>
+    <finish>12:28PM</finish>
+    <date>08 November 2025</date>
+  </channel>
+  <channel>
+    <name>ABC News 24 AU</name>
+    <id>ABCNews24.au</id>
+    <title>Deep Time</title>
+    <desc>Join Bridget Brennan and a panel of guests for a discussion about Deep Time, the epic story of Australia and its First Nations people.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6InZMc09KR3FTa1ZOU3hWa0tIdHd6OUE9PSIsInZhbHVlIjoiQ0lyWEtHeXNmeWlwYjdUOVpYdnoyUkdUUmViaTZLQjFXMjBub2ZUR1BVRXBsTzhhbTdwbHc5QnoyUkZmMUdcL2ZPRmFOc3VCWG5UOWtPUnFRY3JJU2NlakFTY2FSa3QyWDFmSTFrSUlpaWlpeTdKQVZob1V2dTBFeDloNk43S3hOWFF3THFKMCtVSjY2MU85Rjczb1ZqaEU0aERhRDJhWkQrZUF3VmtLZ0M5Y1wvSU1VZ1VaNk83cndyRXVjMllzWTEiLCJtYWMiOiI3MjY5Njk1NTZiYWMxNDNmMzkzMTY3NGEwNjJiMmIyYjVhZGNiNGJiNThmNTkzZGE5YjU1OTUwMjViMGJlYThmIn0%3D&amp;signature=d71543ee50fa9a01ff8f0af3a4d36a8a747bec638a06ca1052a7fa83c1f6d296</image>
+    <start>12:28PM</start>
+    <finish>01:00PM</finish>
+    <date>08 November 2025</date>
+  </channel>
+  <channel>
+    <name>ABC News 24 AU</name>
+    <id>ABCNews24.au</id>
+    <title>ABC News Overnight</title>
+    <desc>The final word on the top stories, with the latest news and updated information from Australia's most trusted source of independent news. Presented by Mariam Saab.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6Ikx5MGwzZVArbDZCSWgyRUI3XC8xK2pRPT0iLCJ2YWx1ZSI6IlF1WXg0VFkrQ1pqNTZNOXlDeWZycFJSZHBWOTZ0UDhJNVZ5cmhuOU91akRMejdWa3hFd1lYMWpJbUNjUFJxdjY4Vm1TZDU2a0hYYWVYU3phVnZvM1wvUkU2Sjg3YWxMSE5YbEJsT1hRYzhWTjluK01jTWtcL1FhRlBVeStUTkdTUGhZa1NPdHJpUGRVRzJMN2ZBXC9sbm5EU2lEa2Q3Tm02TnZuOXBDNEIxOXV1Ykt2RjZlRDI3UmpTMURUUmdaSVBucyIsIm1hYyI6ImIwNDgyMGFmMmY5N2VhZDczZjM0NmU3OTUzZGE2YmFjOTk0OWE2MDI0YTVjMmYxNjg3NmYwZjJkYTA0MmY3NjIifQ%3D%3D&amp;signature=29d90e052ddf6ad74d4846a1d50480b36ac8b99dc3b0f0b52f2346080666c448</image>
+    <start>01:00PM</start>
+    <finish>01:15PM</finish>
+    <date>08 November 2025</date>
+  </channel>
+  <channel>
+    <name>ABC News 24 AU</name>
+    <id>ABCNews24.au</id>
+    <title>Media Watch</title>
+    <desc>Australia's leading forum for media analysis and comment. Host Linton Besser, a four-time Walkley award-winning investigative reporter and former foreign correspondent, brings you a fearless critique of the week's journalism.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6InNzUXVseXBxQ0RaVFlKM3Y5MHBncHc9PSIsInZhbHVlIjoiZVM4aEd4UHQzSkp1T3FhME9UdlBFbGJkUjFSS0ZjakNmamZ4M25VTXVsU1RGNnh3ZW1iTmtuWVVaMlozSHd2NDhFVUJpQ3htbDBrVkkwbmtLWndpK2JZbEluTStxOHU0cUVwY0dRQSs0VDBUZ252anpERlRXUGczd0YrSmVpbEJrcisrVXdNVVVSK0tJRE1xcENSYXZ5Q3JtekVJRGR6aFpBYlhVNFQyT1dPSlwvNWYxSmJOR095OElsZERtUjB4ZyIsIm1hYyI6ImRlYzQzZDNhNzhjMjdkYTc4ODdkZWYzMDRkMjFmOTQyOTAyOGQzN2RmMWI3ZjBiYzEzOTg1NWIyNjEyMWMxMzIifQ%3D%3D&amp;signature=0c8ba01023a9c5d5ff6b9fe4728c61920c8c49a101895761c8df58c337730708</image>
+    <start>01:15PM</start>
+    <finish>01:31PM</finish>
+    <date>08 November 2025</date>
+  </channel>
+  <channel>
+    <name>ABC News 24 AU</name>
+    <id>ABCNews24.au</id>
+    <title>ABC News Regional</title>
+    <desc>Amy Culpitt presents a closer look at what's making headlines in regional and rural Australia. Reporters uncover the news and unique stories about what's really going on outside the big cities.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IlFUWjRCNHJBU1U3czRqSUFFRVczaFE9PSIsInZhbHVlIjoiXC9CNjcrSnBUdXhZaVBBMzMwWEdSNUd5T1VBMk0ybGxLZXlKcCtCM0FvVHFoMXhhV2JlY1wvaHlGUzh4QWJySXRNMmJHMDJ4RjVuYlVyc0RUOVd4M0dcL2ZvZXZBUERZMDBhT1lYU2d3R0l4SGVLRE9Gc0pLelJEMmg2REtORFRBNWRQc09LMmlTVW0zRk1EZHhUUlwvVXh5d1Y5QzB3cDFcL1JsUEhsWU5scFRDNDVNZ1BEQnk4K1pzcWdieGtkOVlSRWMiLCJtYWMiOiIzNzc4MmEzOGQwMGI2N2FkMDA5NDg5MGNiNzgyMmNiZTBlMmY5MjU3ZmQ1MmEwNWEyMDIzODM4YWI0NTY0N2RkIn0%3D&amp;signature=404a52da3790d4ab553482506bfe211b2af7d767bf9032c13955278e98cabc13</image>
+    <start>01:31PM</start>
+    <finish>02:00PM</finish>
+    <date>08 November 2025</date>
+  </channel>
+  <channel>
+    <name>ABC News 24 AU</name>
+    <id>ABCNews24.au</id>
+    <title>DW News</title>
+    <desc>The latest international news and the day's top stories from a European perspective. Our broadcast partner DW brings you live coverage from Berlin with updated reports and expert analysis on the big global issues and events.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IkZ2SVBEVEo4WGY5Q0xcLzFERGRRaG5RPT0iLCJ2YWx1ZSI6IkxUMTZrSmN0UWtkWFhsQWVaeVU0KzUyaEJyN1RMUnR6dXo0SXQ5NU9ObklhTVdDQ3VjWHByWFBMYlJuZGpqR2xPMGw4V1FCWE90XC9VMWNRTFZcL1dXM1oreWIzUnpRQ05HYW1DeFRhZGRUV0pQVlBNNmxSWVlpRm9aRllmSUhEUjdzRXF3YTlBb0VqQUdcL1BSN1R4S2N2Zzc1NzhLT0pkNTl3UzhZNyt1cGdFTmppeEZSUDNYOHpacVdzTHdGODI2WiIsIm1hYyI6ImJjMDdhNTA5MWMyMDU3MjBjMTRkYTIyOTE3ZGQ3Zjk1MTU5MmI1ZGViMTA1MmNhN2RhNzU5ZDJjOTQwMTk4NmYifQ%3D%3D&amp;signature=6aa965530523754f27245379b47e609065061e65b96ed035212c7f53d10af8ce</image>
+    <start>02:00PM</start>
+    <finish>02:15PM</finish>
+    <date>08 November 2025</date>
+  </channel>
+  <channel>
+    <name>ABC News 24 AU</name>
+    <id>ABCNews24.au</id>
+    <title>ABC News Overnight</title>
+    <desc>The final word on the top stories, with the latest news and updated information from Australia's most trusted source of independent news. Presented by Mariam Saab.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6InZ2Sjh6NUhvbzBKMHZnWEtMcHJmWHc9PSIsInZhbHVlIjoiRnpxQ29ZcGhHTmVmc0xuYlpEVnc0RDF4Z3VHWW1nN1RZeDVcL0NoR2NhM09TbUk5eHRFaFlzVXhcL1B0bXhXeUpKeUxndmF2cE1WRVN0RmNTdUtaNlh3S3hzSGRoNEt0QU81bHhSZk9CWEgrRXY0VndiSVFmYTg3dXd5M1Nla0lYVDBWNGxTeXRaeHp6QUc4QkpJTG1PQ2UyZndVUGQxREw4RUhIVFlsK1lsRjBuaU5EWW9Oa2hhb1RrNFdcL2dpUmF4IiwibWFjIjoiZTVjZGUyNDE4YTczMjM5NjM4MTZmOTY3Njk1MTllNTRjY2VjMjcyMzJkY2I3ZDU5NTVkZjg2MDJjMTEzMzVlOSJ9&amp;signature=c2f0ee30e7cd7dce4525a5d48a779795aab32dcac6e298587b61e7fbb375a9a1</image>
+    <start>02:15PM</start>
+    <finish>02:31PM</finish>
+    <date>08 November 2025</date>
+  </channel>
+  <channel>
+    <name>ABC News 24 AU</name>
+    <id>ABCNews24.au</id>
+    <title>Landline</title>
+    <desc>A tasty sampler of stories from the land, covering food, agriculture, crops, climate, business and innovation, and meeting the fascinating people who make rural and regional communities unique. Presented by Pip Courtney.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6ImszbkpVN3RGUVFIZHJuRU9TSHRFWGc9PSIsInZhbHVlIjoiOHlXYVVtYytGQmoxWFpXVGVKT2N3VWhtXC9aVUpvWDJoN0RxZEw0bTBibHdMRm81c2pJUWZlOFVBNUF0MTY3Z3A2QTkxOUJlYmJCQTB4THNGUjNnVXg4V1laaGZyM0tkVFBYTEE5TTFSS0JhaTI4eEdqY3FzNHFPRTZKdVQ2VU9FbUpUWk1XS0NabFlRbkpObHd6VjVFZVZBemdXc3FRdGtMT3VcL0dhUEo0R3pGRVI1ME53YWlvYWlXZ2FkY1ZmVXQiLCJtYWMiOiIxN2I1YWQzNjQ5NTBkY2IyMzIzNWNjNmNmMDViMGQzNDA0YzZlNzU4NGNlMGIwYzFiOGFjNDk1ODA2Mzc1N2VlIn0%3D&amp;signature=0d293c3c07bc26b3843e562f12635f45f6c90225f8d274f730baf1e90d8af662</image>
+    <start>02:31PM</start>
+    <finish>03:00PM</finish>
+    <date>08 November 2025</date>
+  </channel>
+  <channel>
+    <name>ABC News 24 AU</name>
+    <id>ABCNews24.au</id>
+    <title>DW News</title>
+    <desc>The latest international news and the day's top stories from a European perspective. Our broadcast partner DW brings you live coverage from Berlin with updated reports and expert analysis on the big global issues and events.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IlgrcndUWGhnMEd6KzBES0c0dTBoMVE9PSIsInZhbHVlIjoiN2VYVVwveWlrMnNrTHNqVldaMXR6Q1J3UVZjcnRNeVFGYWNSdWpOdkljTlwvaUNQZmFSQWZBbTdXMmM5bVB0NXdxSlhUVzBxNFY5RHkxSFNQXC9WaWVHcjVuRFRRRHJ1ZDM0eVBpNFQ3bERlOXBxdURoK0tKZlNuYzgwbDNSMjNLRHNVS3JmQ05tdVdoV3crUU56enRzaXlIXC9kWVFjSW5rMzRjaUw1eGNpbjdJVWZ2b05OU0o1TTVRcFwvNU5PTTdKR00iLCJtYWMiOiI1Zjk5NDI4ZDY1MTU4YjJjNmRhMDYzMDIzZmZhNmI0M2Q3YzYyOTAzZDc3YTM0ZGFlOWZiMjczYWQyYjVjNmYzIn0%3D&amp;signature=b947e9dc73e39cb15713f8cf532a8399679f563c6e972059f1d52d113f52564c</image>
+    <start>03:00PM</start>
+    <finish>03:15PM</finish>
+    <date>08 November 2025</date>
+  </channel>
+  <channel>
+    <name>ABC News 24 AU</name>
+    <id>ABCNews24.au</id>
+    <title>ABC News Overnight</title>
+    <desc>The final word on the top stories, with the latest news and updated information from Australia's most trusted source of independent news. Presented by Mariam Saab.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6ImYyNnBSQW9yM2xnN09nWUZoUFJvdUE9PSIsInZhbHVlIjoiNDJocnRiUU11S0RIenVNMENMNFVZcjhFZTlKcERLRHRVRW50UGhvQXdMRVFhbWJNK1VheG52WURlRXV4eUVVN1BGeDFybzRxS25XMnp2MnJxV0RzV2ZKR1ExcHQ0amNwN2Y1Zm1BQnNqS3I2K1M0QjN1RXVvRzJVMVlvSlJFVXBwVFh3VldRMVVOQ29ENlZIdFBxTXc5S1JCZ3p2QU13WUMzYzhtdWxNWTNIaFYydTJqbDN6c2ZsQ1pXbG5GTGIwIiwibWFjIjoiZDM3MDhjOTIwZjdmMGI2MGM2MjIwZDFhNDQ2ODk4NTQ2ZTJiMDU4MzAyN2UzNmY3ZGIzODVhNDIwZTQ5ZWI2NyJ9&amp;signature=1dd2d114c4fff92276e07d2ae23fe99dd22401a4486be4af7e995267adbe72e0</image>
+    <start>03:15PM</start>
+    <finish>03:31PM</finish>
+    <date>08 November 2025</date>
+  </channel>
+  <channel>
+    <name>ABC News 24 AU</name>
+    <id>ABCNews24.au</id>
+    <title>Asia News Week</title>
+    <desc>Yvonne Yong brings you a weekly roundup of the stories making news across the Asia region, plus what's trending on social media and making an impact on the culture and the way people live.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IjcwNTI1dUdzN2ViY2tDMndGb21PbHc9PSIsInZhbHVlIjoiTjhrN2dvMUowS1RONmZvSWVreE5CWlhSQ1ZMODBzcWJUc2g4anhQXC9CNjFBSlFxbFpDNVZjREcwd3VkSzVFT1ZKQW03Y1UwTGV1b1NKXC9FdVAxNFRSUnBKdXNmcm4rMDlYaFZoNXBuZ2VNVE5MaEhxSjEzWUtsaVRcL0ZwNkw1NnVra0IxUDJIMSs2NHNES2haTldEYlVPOWZtTjhQOFE1ZGg1QkdZVFFYSVhBb3IzTWwrek5FRWdkQ0g2RDBSTkI5IiwibWFjIjoiODAxMzI4ZmIzNDcxNGQ4MzZmMDAzNjExMzk2NmE0YTM0NjRkZTM1OWYxMDlkNTczY2UyZTY4M2NjNjg1MTQxMiJ9&amp;signature=b94ba69ed3841113696e898b2cb958e5b23182977fe9ef3cf2a7271966befa52</image>
+    <start>03:31PM</start>
+    <finish>04:00PM</finish>
+    <date>08 November 2025</date>
+  </channel>
+  <channel>
+    <name>ABC News 24 AU</name>
+    <id>ABCNews24.au</id>
+    <title>DW News</title>
+    <desc>The latest international news and the day's top stories from a European perspective. Our broadcast partner DW brings you live coverage from Berlin with updated reports and expert analysis on the big global issues and events.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IjhETUp3aFBTejBrcnhDZm9aU2xPcHc9PSIsInZhbHVlIjoiK3dNaVVsMmhsTmFWYjRwSWRqcWpHTDJKZWwxMU9jTURwYjdzXC9DZmo2Tmd4Mkp3RTlManA3Sm9ncjJ3T29WdXBGUFk3cHpiOXdiRkl4MEc5WllMQUJ6cm9ISVlMK2NKRVRqcmlKdEhSc3lzalpMczU1emd1Nm1EZWJRRzZRS0pxT2hnbG94Q0lxSHN0ajZSb1VLK3VHMmtKRlJidDBmamdSa2lwUUxqcjlnaytvdkExY1MzOWo5MGluU2JXcFwvREkiLCJtYWMiOiI0YzcwMDVmZTRhOGM2ZmRkNDA4N2E5NGY3MTA1OWYyNjU2ZTY2M2QwN2M3NDRkYmM2NDYyZjZiZjUyMTVkMzJmIn0%3D&amp;signature=8048eb32a4b7ee57bcd46677dcab325b14122ba7e5b09e90e8ebca4ef21a840f</image>
+    <start>04:00PM</start>
+    <finish>04:15PM</finish>
+    <date>08 November 2025</date>
+  </channel>
+  <channel>
+    <name>ABC News 24 AU</name>
+    <id>ABCNews24.au</id>
+    <title>Planet America: Weekend Edition</title>
+    <desc>Chas and John look at the results of this week's elections in the US including the New York mayoral race, Proposition 50 in California and key votes in New Jersey and Virginia, plus what it means for the 2026 midterms.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IlNFKzh1eWg2bVJUTHQxbFwvS2dOR2FBPT0iLCJ2YWx1ZSI6IkVoMjRDQVE2M1NjZm9zTktNR29OcDZpMnBudVN5aEpEYTlFK3M1c0hmN3hVRndYbnhOUm9PSHFlTVRabExwNGNnYWl5YkxXNG1BUXArS2NncDJIVmhOVXVNOHBUWVZTcGthWm9oYm9EakFZRGhhT3B6YlBhU01nbXRZQW5abWYwU1NDZXpWK2tIT2tkMzBRSVNEazF4TFZkWHN6bTEwZVdPeFlpdVcyOGNyZjh4U1Irc2l6Y1lYMFVScFRiR1wvd2oiLCJtYWMiOiJlZmE1MWE2ZjFjMjU4Y2RmZDlkYmZmMTFhYmFiNWQ2MTQ1MDNjM2M0YWM5ODcxMzc5MjdjYjg0ODIxMjJjMjBkIn0%3D&amp;signature=16922bbcb4bd39b11cdf8d8d453c103ddb11e0207a7d88ccb600b1666687708f</image>
+    <start>04:15PM</start>
+    <finish>05:00PM</finish>
+    <date>08 November 2025</date>
+  </channel>
+  <channel>
+    <name>ABC News 24 AU</name>
+    <id>ABCNews24.au</id>
+    <title>DW News</title>
+    <desc>The latest international news and the day's top stories from a European perspective. Our broadcast partner DW brings you live coverage from Berlin with updated reports and expert analysis on the big global issues and events.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6ImUzNDR3WE5OT3FVMW5hVGlGeXdFY3c9PSIsInZhbHVlIjoiQzA4XC9FTiszRGE0V0ZmNk9FTG1nYUJSNXFqVGt0TmFYUUNtNThBV3A4aVNtVjhMdjFwUWE4TUNyMnNHMmZqMEQ1N3hXXC9EZG9qWjhpOEFwZU1EM25ZeVBxNm5PUmV3Q203RmQ0WkFGTnFGbW9GNFNLU3p5ZFlsckZLeFwvTjBUb2kwNlE5K0hibFJYT3YwM0RleFBUdGJzS2VNY0tTVFM0WlYwU3JMZFJUb3d3Z3ZYQk1pZVwvdzhCMXUySUwwa1hFeiIsIm1hYyI6IjU5YzhiMWQ1YzEwOTE5MDUzMTU2Mjc5NWQ1MzIxZTc1ODRiM2UxZDk0NmE4YWM3YWEwYzYyOWVmMjY0NWFkZDcifQ%3D%3D&amp;signature=1b4a9fcab0738dcb0ea61c66d49195ccf0f0abab61c6eaba6bb36cc37169f9d9</image>
+    <start>05:00PM</start>
+    <finish>05:17PM</finish>
+    <date>08 November 2025</date>
+  </channel>
+  <channel>
+    <name>ABC News 24 AU</name>
+    <id>ABCNews24.au</id>
+    <title>National Press Club Address</title>
+    <desc>ASIC Chair Joe Longo addresses the National Press Club on the topic \.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6ImRIb1BcL2NyMUw3N2laQU40V0lcL0V6QT09IiwidmFsdWUiOiJBYjljSkJzVlwvU1Z6V3VDTnM0MGZjdVNQd1wvcTFyOWJXWHRlUHVDSDdyOGc2N25HSTRYN1B5OVdrZklQNTB5Q1NtRTM3cm5LYmRvUnRLZ2hSbVZaUm54UlwvTGZFbjgrTHprWWJJQldROWRlWUlOOVwvV0QxTDJtZFRoWVNwSU16XC9peDRlbjQ3RkJ4a01zR3BOS2pZTW1uOXVFWFFISmh0bXhZWTNtclB6WHBBUlh4cTR0V2lRUkI5bGRkNFRkQWduQyIsIm1hYyI6IjYyNGFiYmZkYzNkZTcwNWQ4NGY0NjY4NTVlM2M0NDg5NjIwZTliZDhmYTQxZTFiZTRlYjA2ZmMwYjQ3MzdmNGMifQ%3D%3D&amp;signature=2f4cdecaaf57e03e54cfc8990ef2fd02542910386f4bd135702caa1d08060aa1</image>
+    <start>05:17PM</start>
+    <finish>06:24PM</finish>
+    <date>08 November 2025</date>
+  </channel>
+  <channel>
+    <name>ABC News 24 AU</name>
+    <id>ABCNews24.au</id>
+    <title>BTN High</title>
+    <desc>We look at the controversy surrounding OpenAI's newly launched social media app, Sora, which has flooded social media with AI videos.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6Im9sZ3NnY1NyVCtFSFQwZ1JHR0ZHakE9PSIsInZhbHVlIjoidzByVmlqdGFtTUFPT2J1MVh3RnVXUUpyRFRmeThTRTZ4VVYxblFrSDBzWjBwNTFmWjRndEgwb0llRjVMbnRBU3htN2s1cUFicTJZOFJhSG9uVWp0T05qOHB4TGFcL0dqb2tKVWoxUzlFMU1pV21CWUpMMGZncXRsN0FBK0NBRUp6bWk2XC9RNVZCZ2V0QXN6TnpubUI3VFRQVHg2anNqZGYzWnBjYzVuTTY1b0hTMERUbmpTd2VVSXUreCt5bVdRd0QiLCJtYWMiOiJhZTQ2NzM1MDhjOTBmZGVmMzI3NTBmNTYyN2MzNDFhN2Q4ODEyM2Y2ZDhlZWMyMTQxODdlMjQ3ZjYzOTVjMzhkIn0%3D&amp;signature=ce04fa486d52cee1428f080fa12a097e4bc6a805c61a24fa4987cbbff846c499</image>
+    <start>06:24PM</start>
+    <finish>06:29PM</finish>
+    <date>08 November 2025</date>
+  </channel>
+  <channel>
+    <name>ABC News 24 AU</name>
+    <id>ABCNews24.au</id>
+    <title>Stateline</title>
+    <desc>A push for NSW Police and government to change the way they deal with long-term missing persons cases. Plus South Australia's coastal communities contemplate a very different summer, as the toxic algal bloom lingers.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6Iit0TUdMMG5Fd1JURVI5VzI5dkthOHc9PSIsInZhbHVlIjoiaUx5QWhndGEweFwvT1VnV2VyU29pNEI5K1huZG9sckhPbjRudktkSVFvbFRSMUZPcG9id0FFNHlxTTNNcTg0YkQ1KzJuUU9Ja2ZlZEVQOHpwN0JOWDdaZnAxcTF0bHlnZjZQSHVUMk1BUlc1aXNkMmpQWk12YlhHTnRCUDQ2UFNNQ1RxUEVaZ1JqRktJcXdmeHZHTGI4OXJpbzc2MGZjYU85Vk8zWXp4ZnM3aUplNUtRYmhMQWVTMUJ6UFRxR1RvWCIsIm1hYyI6IjEzZDk5NmRjNDkxNTljZWQ5YWFlNDk3YTJkMDQ5ZjM1NDBlYTJjNDdhNzMwMGUzZjg2ZGYyZDY0Mjc2ZjZmNTEifQ%3D%3D&amp;signature=2c195ebb784187ce06f55314f32982bf271764c5925a4227db40e7955c75c6e0</image>
+    <start>06:29PM</start>
+    <finish>07:00PM</finish>
+    <date>08 November 2025</date>
+  </channel>
+  <channel>
+    <name>ABC News 24 AU</name>
+    <id>ABCNews24.au</id>
+    <title>ABC News Update</title>
+    <desc>Start your morning with the latest headlines from ABC News, updating you on the day's top stories and the overnight news from across Australia and around the world.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6ImI3MnV1ZVwvV0NLT2VtRjFld2VVZm13PT0iLCJ2YWx1ZSI6Im5oNTh2TXZQWW1FNG05Z1k2dHZuNUNlM1pCUVJLcnBGMXJMaXZvQXorZzdYR1VPb0xCWW9jQXJCZ09pcU4yYjE2Sm1vMGRIZDJEeXlOR1I2UGZJZlQySDY2XC9Gc3I3TEtwRnE1K0xLSWRJWWxHWHlrbWFyd0toWGVIY21Mc1NEb0FwMDhYZG9SMWp6RzJZSDJ0enEzcVR1NDdnc1UwOFNCNEpZMWxOOUtxcHUzVGRcL0FoTUJ6Q2NoWmNEZlBhc3hTIiwibWFjIjoiZGEwYTBiNzBlNTdhNGE2NjQ5NDNlMTI5ZDZmYTM0YzM3MGQyYjM4NTEyMjkwZmMyZGViNmQ1OTNkYjJlZGM1MSJ9&amp;signature=4302136fd0c692f96a61dffb5f5c0d9dc913d4caf859c2c689c27c136efb19c7</image>
+    <start>07:00PM</start>
+    <finish>07:01PM</finish>
+    <date>08 November 2025</date>
+  </channel>
+  <channel>
+    <name>ABC News 24 AU</name>
+    <id>ABCNews24.au</id>
+    <title>Landline</title>
+    <desc>A tasty sampler of stories from the land, covering food, agriculture, crops, climate, business and innovation, and meeting the fascinating people who make rural and regional communities unique. Presented by Pip Courtney.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6InlNdzlCemNYVm5MSWRrNm9lb2FNZ2c9PSIsInZhbHVlIjoieU5nSGVEY2RpU21zdDFPT09FY0h4dWFwWDJBaG1NbjU0bko0S2ZDcURJUkZGTlR1R2c5WWhpTktIVzc1VnJHY1RLWEo4YjUzdUhRVUJEdzQ1Q3dvM09iWjlXb2NDYmoxeHk1ZElkcU1iQWk5eTVVWHpmbTF3citkZ21YVUI3TXUycEx0cGdiUE93SCtvOEdRU0gwYjRnZFFaazhveVR6a0xTNWRWQ0Z5cSsxUldXWkwrOHdFMSswMlROT00wTXdsIiwibWFjIjoiZDhkNGZlMzcxZjE2YjczMDI1ZTY0NTgwY2JhNDU3YTNhYjIzNTRkYTc2Y2VlY2NjMTExMzljMTNjOTFjZDNjYSJ9&amp;signature=c1bbeedb13c2ee3cfcea54db5f6f490a3837fb66585f1c851cec44b101258445</image>
+    <start>07:01PM</start>
+    <finish>07:30PM</finish>
+    <date>08 November 2025</date>
+  </channel>
+  <channel>
+    <name>ABC News 24 AU</name>
+    <id>ABCNews24.au</id>
+    <title>ABC News Regional</title>
+    <desc>Amy Culpitt presents a closer look at what's making headlines in regional and rural Australia. Reporters uncover the news and unique stories about what's really going on outside the big cities.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6Ink4UDBxcFkrTWVjZUFDVzM5a2tsQnc9PSIsInZhbHVlIjoiRVpyRUJZaHhHWlpzMStVV0lFeTJGQWxVXC9zdmllWksxcm5pWDJPYStybUVvb1lhKzJJNjZyT0JWWG1IWjNCTW5WSUdQaitwK0xiSTlENmtJUGdzaE9OTFZiZU8yOUk2dkp0cWg4SkhkVldXSmRkaGlqTlgzd0IxRjF2S0JEMDhONHFyY2xOQkJ0WUhhU0k2V2VOcmFiRzQ0VnVST1JLbXVBT3NFQ1ZMUStYeHNQaDN6YjFNYU9Pck9cL01LbDFlalAiLCJtYWMiOiJkNDdmZDk4YjlhOWFiZmRkOWNlN2E4MDZjMWJlMDY5NjdlZjgyNjYxMzIzOWU3ZjQ4MmE0Njk2NzFkM2ViNmM2In0%3D&amp;signature=562d495bb054551dca04f19a1d73b148551d55231d6cffdaa8c93f5ef8dfc91c</image>
+    <start>07:30PM</start>
+    <finish>08:00PM</finish>
+    <date>08 November 2025</date>
+  </channel>
+  <channel>
+    <name>ABC News 24 AU</name>
+    <id>ABCNews24.au</id>
+    <title>Weekend Breakfast</title>
+    <desc>Ease into your Sunday as Fauziah Ibrahim and Johanna Nicholson present a mix of the latest news, updated information, analysis, interviews, politics, global affairs, culture and weather. Plus sport with Jared Coote.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IjR3QytuNzBPWlMrXC9mZU9mUmQwc2lnPT0iLCJ2YWx1ZSI6InZiT29PVytGaGNqbml2aFdOOEFTdXRreEU4eW0rdmRRZFBwanI5SzZpbllQc2dCcnNOb1R2czJpOTJPSDkxc0J2Y2NuUjYrckJsNEFHZ0hcLzl6Q1dCbkZGMjkzUVA1RjNkQ21xTUttUWdVZ2x2VkRPMkxWXC9kYmJOdG1FSk1mckxUeTNkS1JueDloekVkXC9cL1JKU0ZKZXhzem9JaUw0SGQ5bkIyRGZ6c243WU5sTWRPZDFLc3lhMDdUK2wxVnpcL1dwIiwibWFjIjoiMTdhNzgxZWVmODdiOTU5MTE0ZTk5NTM0ZDExMTk2YTMzNzFjMzg1NWM3MDM1NWViMzJjNmYzYmQ5MjI4OGI2MCJ9&amp;signature=24e5587687190faab40f9322d7220ee9ccd0cc8ae39d5d298b7adc2137e9a83a</image>
+    <start>08:00PM</start>
+    <finish>10:01PM</finish>
+    <date>08 November 2025</date>
+  </channel>
+  <channel>
+    <name>ABC News 24 AU</name>
+    <id>ABCNews24.au</id>
+    <title>Insiders</title>
+    <desc>David Speers and a panel of leading political minds discuss the previous sitting week in parliament, the state of the economy after the Reserve Bank's latest decision on interest rates and look ahead to the week's big issues.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IlFDNVRrUnV0b3NEWXBsaHJCejZ6U2c9PSIsInZhbHVlIjoiZ2t4YWZHQnRFV1dkbGI0clhXRHB0Tnl3c1ozcXJGR280NEJQaHpqN0p1NVNtKzA1QlMwUVwvckkyNjlWZDZ5UXM2OWU0QjRIZmkwOGtsSmd2c2djQjBxdzgxaHVCN2wyeHJCbHdGRE1ZTHE5UlpOVjlkYWNhRmZRbjVXQzdDdHVXclZObkpVaUg1VWRQUmRQcEFUZlwvdjllRjc1b2xHXC9uTXJTdVlyTHVaRjVtaERHb3dTejJ4MHlOKzZzaUZjbHRyIiwibWFjIjoiZDRkMGZlYzViMmNjZjJkNDQxOGUxYTFjZWM4ZmIyMjJiNWY1Yjk1M2M3NzY0N2UwMmY5MzExMjk1NjNjOGI4ZCJ9&amp;signature=c3fbbc484c82ef4ebb1e23de07458d879d39e84c19218da6977f26a321707ce5</image>
+    <start>10:01PM</start>
+    <finish>11:00PM</finish>
+    <date>08 November 2025</date>
+  </channel>
+  <channel>
+    <name>ABC News 24 AU</name>
+    <id>ABCNews24.au</id>
+    <title>Weekend Breakfast</title>
+    <desc>Ease into your Sunday as Fauziah Ibrahim and Johanna Nicholson present a mix of the latest news, updated information, analysis, interviews, politics, global affairs, culture and weather. Plus sport with Jared Coote.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6ImQwM2NpZ0ZtZUZ1eWZcL3BITmZFMzdRPT0iLCJ2YWx1ZSI6IkE5dzVXUEZORUVuVEo0dm96cWFFejhRRlV6TEdkcUdmdCtza2ZGMklMOFI5Slk0M3ZSOWpDRjdid25JbENWZHZQSzFPNmNndWhoeXdGRXhiNkd0RW5hMExaMVpuTjRBYlRXcDVqdm04Y1wveXJDWHlIZDFvNjdLU0cwUVBcL0hkM3Vib3NCVStmdlBpRmJxOWdBT29PQlpqYXA1a05oZU1oeERiTXNYY3dmY292NlRwZ0lTdkJJbUlkSTZzWFdKbEh3IiwibWFjIjoiOGQ2OGJjNDU3N2E5NTUzZjQzZmMzMTFkNDY2YjU5MjEzMjkxNGJlMjIwMDBhMmNmNmE3YTAyODk1ZDViNjcyZSJ9&amp;signature=6748bdbbef56277e31294a79231bdbd805597b380aa26ffe342d1c0e3738c8cd</image>
+    <start>11:00PM</start>
+    <finish>12:00AM</finish>
+    <date>08 November 2025</date>
+  </channel>
+  <channel>
+    <name>ABC News 24 AU</name>
+    <id>ABCNews24.au</id>
+    <title>ABC News</title>
+    <desc>Melissa Mackay presents the latest from ABC News on the weekend bringing you today's top stories and coverage of events as they unfold. Plus original reporting, analysis and updated news, sport, weather and information.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6InFMVXBNSllpRDNhcjArVXZpbm16U1E9PSIsInZhbHVlIjoidVpTd1ZHdW1oTW1oelBndmcyZCthd21nSXpjSjdcL1RldEU5SkhRa0pZbmczVldvTE5pNzQ0eDhZeUtRTFpHSmhrZVdzQlU4ZE1ISnd6blBnUCtOcXpWOUNRTXgrUkxLTkk4WnZjVUx0RzdLaTZOclZicWVrc2dUcUdLZnNzckhJWFErbnNSM213SlREUDl2cWFnUFNibDh6aTJrTzA2RGE1XC9FN3VqTmIzenl5WG9pWjUwSGtmN3BlQXVxNEFhekMiLCJtYWMiOiI0Y2IyN2E4NDU5ZmU4YzlhNDhkODE2NzAwMzYwZjA1YmJlYzgyNTZhNWI1Yjc0ZWQ0YzgyZDFkNzgzOTZjYjQ1In0%3D&amp;signature=ab70077208784f9368044d4e2d9d472050e93cc6e2afede28a74dd1dfb241807</image>
+    <start>12:00AM</start>
+    <finish>12:29AM</finish>
+    <date>09 November 2025</date>
+  </channel>
+  <channel>
+    <name>ABC News 24 AU</name>
+    <id>ABCNews24.au</id>
+    <title>Offsiders</title>
+    <desc>Abbey Gelmi and the panel unpack the week in sport including the start of the WBBL season, Australia v India Men's T20s and the countdown to the Ashes Test Series, plus the AFLW Finals begin, plus A Leagues, NBL and WNBL.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6ImhsWjRRRVFzWTFmXC9HcHVidklRVHd3PT0iLCJ2YWx1ZSI6InFpMUZWRENKREtneXNSZjdFODN2NHZDck1qd1wvQU9YRHA5ZlM2aldXb1IrUFVtNitcL1JyNHo0Yk1FSE9IN2w5eTZvaXlqQTZ4d0JkQUNqd1VJejBkejVZb3pVUWZyU1JSNHlQeHdmSWNRZHdFNjNlZE5UZnRINnkrdXlmelVxR1cxblFQXC9mb3VtczNTckxlUjJWXC93M2Y3RVJEZGZqd1wvVU4ySzcwRjkwZlc0Q2dNcCt0T3NVWGZ2Nm1XTFNocGdWIiwibWFjIjoiZmYxZTI0YmRhNWNlZmZjODNjMmU3YTcyNTQ2MDlkNGU0MDg3OTZiMTc1NTljNWMzY2FkYWEwOTEzZTg0OTNjMyJ9&amp;signature=1ca92ea6b1172481167ae01943232ba5608de30acad635b13e0d2fbb575275dc</image>
+    <start>12:29AM</start>
+    <finish>01:00AM</finish>
+    <date>09 November 2025</date>
+  </channel>
+  <channel>
+    <name>ABC News 24 AU</name>
+    <id>ABCNews24.au</id>
+    <title>ABC News at Noon</title>
+    <desc>Melissa Mackay presents the latest from ABC News on the weekend bringing you today's top stories and coverage of events as they unfold. Plus original reporting, analysis and updated news, sport, weather and information.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IjZFUkJMVjBQanpOVEFRZ3dqZXFTVkE9PSIsInZhbHVlIjoiYlpjTXpQSWhIcFl1aHFienB1aVVjb09ROVlBeHhIOEhUaUZSVTNnbFV5Zkx0akVXOVBMZCtBbTl6QnVRMmdScjAzaHh2YWlMNkk3SUg2cHpjS1g5RFQwVWlHTEd4eVdTUDhRMnhrbjVKYzFjMTM5MUM4d0dRRFhraURWeTJaRkZjNmc0Y2MwcThiNkp5bjZYNllIaVwvZVVNTGJVUDZJTDRPRUloUjdRQWVLbHFqN0hvbUpnb3JNak5CWTVwQTdFdSIsIm1hYyI6IjMxOWI5ODhmMDViMjhiYzU5M2NmMjQ3NzVhZjY2MTljYTQ4MWJmZGE2NGQ5YjZmNTdmZTYzYjk2MjFhNzQyNzUifQ%3D%3D&amp;signature=edf7a7ade5ee692fedcb3d21d643df16e2daf33c97e980a94698b83d92874219</image>
+    <start>01:00AM</start>
+    <finish>01:30AM</finish>
+    <date>09 November 2025</date>
+  </channel>
+  <channel>
+    <name>ABC News 24 AU</name>
+    <id>ABCNews24.au</id>
+    <title>Close of Business</title>
+    <desc>Alicia Barry presents the week's top stories in business and finance news including reaction and analysis after the Reserve Bank's Melbourne Cup Day decision on interest rates. What does it mean for borrowers and the economy?</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IjJHT2dYaTdpbVV3NkRPY2MwYk5RUkE9PSIsInZhbHVlIjoiQ3FEa0FMRTlFS290ckFNTHRtZm9OM3huRFpLdk52cHZkVFVnakJMREtnRTRjVnpyaW9oRzEzN2hxZWFHSXBDQU82N000b2RFdXplTFlKVlU5SCs0dEJnOTNiTnZZUnB3ZW10U1BqMXNCSDVjQmNTaW5MbzY1bG5PR2s5cUs3SDB0clwvNzFiVmhEQ3RXTzdmQmJDbTVlOVhURXpGRlhWZk5VdTl6Q2NhZzhkUDIybnVyQ1R2Q3NLUTMzSERvZjN2UCIsIm1hYyI6ImUwYjdiZWM0MTU2ZDFmYzQ2YmIzYzEyZmNjZmQ0MWFiNGI5NTQzZTUzZWI3ZDJmY2IzMmMzZjY5YmI1ZDE1NWYifQ%3D%3D&amp;signature=b7830642facd5f12a237416ac8cf7f51ec8135eb3b73cdcafd3ec0c5b9137768</image>
+    <start>01:30AM</start>
+    <finish>02:00AM</finish>
+    <date>09 November 2025</date>
+  </channel>
+  <channel>
+    <name>ABC News 24 AU</name>
+    <id>ABCNews24.au</id>
+    <title>ABC News</title>
+    <desc>Melissa Mackay presents the latest from ABC News on the weekend bringing you today's top stories and coverage of events as they unfold. Plus original reporting, analysis and updated news, sport, weather and information.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IkJoTERMNzc0N2ZSQ0RSdzM3WnJlOFE9PSIsInZhbHVlIjoiS1wvY01KbnQrb3BuOHB4dWFvUUpSRTNxY01cL0JESHJHUytVQ1wvZmM1MnNLOFhRWVNtRllqY0FFcWRCYlh3M2Q5VFdSMTNsb2loaThHRENyZWxmSFJtR043anNwOFlPUzhQb2ZQOWU5am9wQThmSFFOalhqYkwwdFdCTzFcL2x3azk4alwveDZHYlB0ZnpyMUpvSnlhVUcxSFdSTndxb0UxSHNPWkhJQmhIVU5vampvVjdJdkhQVisreUtuT2hEbjNaZUkiLCJtYWMiOiJiNGZkNzRjOGYwMTdiZjEyNDBmYzhhZWZkYmZmZWE3MmRmNzUyOGU4YjVhZjk0OTA1YTIzMDNjMGEwMDgxYWJhIn0%3D&amp;signature=fd48ad29295a872a515df530ba0945281f77f79e5d35168265790674e009b601</image>
+    <start>02:00AM</start>
+    <finish>02:30AM</finish>
+    <date>09 November 2025</date>
+  </channel>
+  <channel>
+    <name>ABC News 24 AU</name>
+    <id>ABCNews24.au</id>
+    <title>The World This Week</title>
+    <desc>Girish Sawlani brings you a weekly roundup of international news from an Australian perspective as reported by ABC News correspondents covering the Indo Pacific, Europe, North America, the Middle East, India and Indonesia.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6Inp3UkhtbnprYnpHajRvSTVTTWIyaWc9PSIsInZhbHVlIjoibjF0WkhDcTY5NmwrekpEd1FJNzVIeFluVW0xVHRNVUhVcTRweVdpcFVrelFoamtYajluYWhLeGZwcEZReXhmUVc4TUM5dDNUVk9zTURoa1pXbzFDTzJ6QkY0V2xaY1ZcL3BYOFB5VXBWTW85dk45bWhoVnpBOUV5WlYyZXhCcWRuZVFkK2Nzb1FNMW1mK2dMUGtuaFRiWkw5bGpQOVZwNzUrOWNkV0t0RGxaXC9wR0swb1doUlY5TG56Qk1rU21rakQiLCJtYWMiOiIzMDU5OTU4NzQwZmI0OTNhMDdlZTNiZTU2ODQ4Y2IyOTAwZWQ0OTJlNDg4OWQ5MTQxM2U3NTVhOTQxN2NmZThmIn0%3D&amp;signature=5dfc586c961c0020adbbcf2fc543e1f81cad9aea28b2626ffcb108b21358a8a8</image>
+    <start>02:30AM</start>
+    <finish>03:00AM</finish>
+    <date>09 November 2025</date>
+  </channel>
+  <channel>
+    <name>ABC News 24 AU</name>
+    <id>ABCNews24.au</id>
+    <title>ABC News</title>
+    <desc>Melissa Mackay presents the latest from ABC News on the weekend bringing you today's top stories and coverage of events as they unfold. Plus original reporting, analysis and updated news, sport, weather and information.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IlN6K21BZHB1bHBRM2M0K3ZwXC9zSmJnPT0iLCJ2YWx1ZSI6Ik50VG5hb284ZUc2RWZMeGlRYkR0XC9KZ09IYXdGWUlTaTBuMUlVRThrYThJSHRcL000cHN0YU01MHEyNlpoem9wRE5CaklBU0dBeTNVYjZvTWJUZWxPYnYxNDVnWkt4dlNYamZYK1NQdHZUbEhuaHBMYzdUNFwvSHlaSU9yb0d1NHFIQXlIeVBVNmgzWExpM1oxTmFSXC80aWpmbFVlY1VTeWllSnRKNjB6enl4cDFyRmpEdUt3Y0MrMkl0eFdFZkN6cEkiLCJtYWMiOiJiYjJjNGY1YzUzZmI1Zjc5NzdhYzk5Yzk2MjJkZDRlYWMzNDU3ZmI4NjE1Y2NlMzYyNDM4OGY0MGFlYzgwN2M2In0%3D&amp;signature=9a40e2e417a5e3b43003e96c365b3b1660a4626bef1952c08cf38712d06fedc5</image>
+    <start>03:00AM</start>
+    <finish>03:29AM</finish>
+    <date>09 November 2025</date>
+  </channel>
+  <channel>
+    <name>ABC News 24 AU</name>
+    <id>ABCNews24.au</id>
+    <title>Australian Story</title>
+    <desc>She's flamboyant, provocative and brave. She's also married to David Walsh, founder of the MONA gallery. So why does artist and curator Kirsha Kaechele feel she's not taken seriously?</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IjR3NzA3K1wvOW9iYmZMUmZJN09SeU9BPT0iLCJ2YWx1ZSI6IngyOVNzcGxrQTgyRFNabEc0aERua2xpdEh2bDZ5WnhIU0RnbEx4ZE04ZUVMKzhtcU9RTmtGOW5ueUJNTGlFVm54VEVqV2lmaVdKT3ZLZ2pWblBVWmZyTkdpOTM0M0R4WENGWTZ3NUQ3b2Y1Z2FUbDQ2a2JpNjJUeFZyWFlPRkJDWWVqZmx3ZXNtSUQ5TjIyTWZUc2hDaGZvVlJscDZyOW9TS0FRN2trWit6UjBhU0xWMDVwaFI4VzRuNUYwN2RMYiIsIm1hYyI6IjEzOWVjNWVmMDhkMjg0Mzg5Y2JjOWMyZjc0YjhmN2Q3YjM1NTI2N2RkMjZiY2U3MWQ3Yzk1MDQ0NzIwNjBlMWYifQ%3D%3D&amp;signature=a6481f3f6bd39a088de665979225533c34257f3bf55d84fd91636aa0631857a8</image>
+    <start>03:29AM</start>
+    <finish>04:00AM</finish>
+    <date>09 November 2025</date>
+  </channel>
+  <channel>
+    <name>ABC News 24 AU</name>
+    <id>ABCNews24.au</id>
+    <title>ABC News</title>
+    <desc>Melissa Mackay presents the latest from ABC News on the weekend bringing you today's top stories and coverage of events as they unfold. Plus original reporting, analysis and updated news, sport, weather and information.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6ImhUV25WZm9TRmJiZFB3dkllYVJZeEE9PSIsInZhbHVlIjoidTNObzZ2bExWREl5clJWOW8wSGIrRyswWm9qb1J6NjExMUJxbGpndk91YjUzQlJmZU13RE1KcDVpZWtsbjNUNURtMHlLaHpPdUJuMUJUV1dFWkFOT1RpNXpNWmx0VXcwTXpLUkhwWG5rN2thRUVuU29xZnZHOXhkVFwvVWZRYktWcnZ6bTJaOWJtS1JZekFqMXFQK1VIVG5Ca0lXYWFjRkE4cm5icVFFTHFualBEUGREdVg4TytCRERtNE5CYVNcL3YiLCJtYWMiOiIzMWIyMWQwZDM0OWUwNjRkMzVkNzM4MTM2ODRjMTVjNTE4ODgzZTdkYWE2ODQyNjkxMjczMzg2OWZlMThjZTZiIn0%3D&amp;signature=c56df1afa064182b6071a87d299e1e6219ec3332a5d1080bd690db1d72afa4b9</image>
+    <start>04:00AM</start>
+    <finish>04:29AM</finish>
+    <date>09 November 2025</date>
+  </channel>
+  <channel>
+    <name>ABC News 24 AU</name>
+    <id>ABCNews24.au</id>
+    <title>Offsiders</title>
+    <desc>Abbey Gelmi and the panel unpack the week in sport including the start of the WBBL season, Australia v India Men's T20s and the countdown to the Ashes Test Series, plus the AFLW Finals begin, plus A Leagues, NBL and WNBL.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6ImI5Y3BLV0tKUlFqZXdFN1NYcWZCaXc9PSIsInZhbHVlIjoiN1wvYUxcL245TFN3UkhNQ3BSdXFTQ1BtK29tbnJ0VDBFTitNVVk5U3lWYVptMmdta1JNVDZRZHNkQ3lrNXNsRTlROUt3ZGsyaHVyTGJDalA0ZmNVXC9qZzJZWWU2d1VsTXBTVTkrOXpwaE1cLytKQitPS3FvWkFtam93bGh0bGZodWNOWDYxTFZWZ2pvdzRcL0Vud2w4R1p0bjQ0MlJHa2tZcFpib3dNUWJTR3c1Q2pDbGhiY3BVbGhGOHdsWUhrK1BGUlAiLCJtYWMiOiJlMjZhZDU2M2RhY2JmNDBkZmJmYzgxYzE0ODkxMGJlN2ZmZGY2MDU2ZWNlM2E0ZDVkZjU5ZjY4ZDQ0ZTg3NGFjIn0%3D&amp;signature=81ff7d10a64fef2ecdcb5174ebeb6a287a6900ec8cb5d27d7274e85aa82e1f27</image>
+    <start>04:29AM</start>
+    <finish>05:00AM</finish>
+    <date>09 November 2025</date>
+  </channel>
+  <channel>
+    <name>ABC News 24 AU</name>
+    <id>ABCNews24.au</id>
+    <title>ABC News Update</title>
+    <desc>The news headlines updating the day's top stories from across Australia and around the world.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6InR6Yks1YUFsbERTeTk3NkhONm9BdHc9PSIsInZhbHVlIjoiNWFqWjd2U0RaYWp5azhwbVZOUDRtZ0NlcUZhc3VXZHZManFlWEd0QlwvUE9FaFhqVGdnOWRYbXFOQzJBT1ZzdE1Rb285ekszSVBpQTJZaVJmS01rMDVCM1hPRktSMnRyOWt4NGRUd2NZSVcwejBCXC9aT1pKTGh1VUwrdGYyMkwzWXZkXC9ka0d0akxiQXlpZ3hWRjM0U1lkSFYwSVFCVnJ5RVwvYm9RWjdxd3ZHQ3o1WWV0TWpKYlRHc1ZybVZPWnJrZyIsIm1hYyI6IjZlOGZjMmNmMjU5YjJhNjU3NzMxMTExYjgwMDhhOWYzMmM2ZTU1YjQ5OWJmZWM3OGU0NTRjZGUyOGIzNTNhNTAifQ%3D%3D&amp;signature=82e6c559e9f22b425cbd00374d677d3a145ff34c856b2b3d6d305635e663d8a9</image>
+    <start>05:00AM</start>
+    <finish>05:01AM</finish>
+    <date>09 November 2025</date>
+  </channel>
+  <channel>
+    <name>ABC News 24 AU</name>
+    <id>ABCNews24.au</id>
+    <title>Landline</title>
+    <desc>Hosted by award-winning journalist Pip Courtney, Landline is Australia's only national agricultural television program covering stories from Australia's rural and regional heartland.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6Im9GZ2krOVM2SXI4UFd4aTJtdklPRWc9PSIsInZhbHVlIjoiSE12VThXUnBVdHNWVXU3SnNYTllXRjRiUkFycWNFS1N3M2tjQTAra2FlQ3lZT2tjREs2bG1xdndMS2NFK2M4SHAwYWNzQ3NXdlEzV0hsSmRRdXM5Vm5qb1pXZVZ0R1VTWGVzVkhtdHFPajk2dEQ2UFFhdjZwYlJTV21jelJOdDhwVkFcL2cwaTZOKzN3ZXQ4UEx6SkhsTW1odGcrM3p0SlwvUUlKZ3YzREVmdkk5d3hNUWMyaDRXXC93WGVyRlIzNDdyIiwibWFjIjoiOTY4OGIyYjgyYTBlZjk3ZmJmZDI1MjAzN2ZkZmEzNDAxZWUyOWE5ZTQ5YjRhOTk3YzU0NTc5MmEwZTA2ZjgzNyJ9&amp;signature=ab272300bc5d9d6f084fdc7139dbaa2e3b56f931fa35a9b8d60c063d60c6d613</image>
+    <start>05:01AM</start>
+    <finish>06:00AM</finish>
+    <date>09 November 2025</date>
+  </channel>
+  <channel>
+    <name>ABC News 24 AU</name>
+    <id>ABCNews24.au</id>
+    <title>ABC News with Auslan</title>
+    <desc>The latest news and information from ABC News. This bulletin will be Auslan interpreted to provide accessible information to keep Australia's deaf community connected and informed. Presented by Melissa Mackay.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6Im84OTlFaWZaM2drZms1MU9xcFpHMGc9PSIsInZhbHVlIjoicVVqcmt6bmRvcEdYcjNyRE5Vb3dBMnhiTTFEbjdTK3pmM1BcL3dDbnNacjQweG5WWDJoSzZBb1dXNm0yQjdRaW5RZEUrQ2F4Y01oM0kweWZ6MnFDK25EUTZ3cmw0c2RNK0NPaVRjam5ub2h6M3RvZVNYRmw3V1BRRytLTXNEa1hZN3MxXC94ME5tZjlERnJPSjJsSGtpc2hzUlJuRFdPXC9EcXV6WWZpUTY1ZmhReUtpVkdhN2NHeDgzV2dwWjBWb1B2IiwibWFjIjoiMzczNDFlYzI4NTNiMWMwYTBjMTRjNDVhZTdlZGU5MmYzNDc1OWNkOTUzOTYxNGMzM2RhNWRjMTU1OTE1YzM0MCJ9&amp;signature=dd00356eadafca0e85467dffa2882e57fe365bebb614f6f98add13a19e5ec7e0</image>
+    <start>06:00AM</start>
+    <finish>06:30AM</finish>
+    <date>09 November 2025</date>
+  </channel>
+  <channel>
+    <name>ABC News 24 AU</name>
+    <id>ABCNews24.au</id>
+    <title>ABC News Regional</title>
+    <desc>Amy Culpitt presents a closer look at what's making headlines in regional and rural Australia. Reporters uncover the news and unique stories about what's really going on outside the big cities.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IlE2TEhLYVAxREpxY3pJc3lHT3FlS1E9PSIsInZhbHVlIjoic3pjTW1Jek1iblp6akg1ZzhmUEVPZ3FGTGVcLzJ1dFBcL05PQzhvcnAzK3pmUnJPcDJLTnVvYlV6UElmemFuSnl0Y1cwdnY3MzNVM2d5bHpmN3cwUDZVaHNyTENFSzdSYzYzcFNPMjBLRXhQUGNvYmxrRjR6VVhmbEZcL1BBWGNUTzFjZHJVN05wWFF5dVkyY0FDVndGSFVsV3J4UTE4cVJQMGtqTms4Q2ZudjRrMEpvcEF4dWl0bHV6dTNpblhzSjR0IiwibWFjIjoiYTBkYTBhNWQ2ZjIxZmQ2MjYzNTNiNTdiNWRmZTQyYjU4M2RmZDM4MWJiMzYxMDI2NjQ1ZDg2ZTU0ZDY5MjkxYiJ9&amp;signature=316bf5d29a7b63e1f21de05c6af2a29fc9b545a9a647c0a6ea59223645bbd202</image>
+    <start>06:30AM</start>
+    <finish>07:00AM</finish>
+    <date>09 November 2025</date>
+  </channel>
+  <channel>
+    <name>ABC News 24 AU</name>
+    <id>ABCNews24.au</id>
+    <title>ABC Evening News</title>
+    <desc>The latest breaking news, compelling stories and Australia's best investigative journalism. Round the clock coverage of the news that matters from a team Australians can trust.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IjRzajJBR0NvbHMrdG9ielBNVHVYRWc9PSIsInZhbHVlIjoieU5zVDE2MGQ4THBiMnI5UStxdEphOE1Uc08xaGJGN3JxVHdHbkNvSFRoYUF5bktYdkJ4RXdzRFlKdmlcL2VpNk9nVWM1bFwvNW1ZNzhSaFNidlwvckkxWkRFS2xSTllVeUJ4d0ErZndTcGZKYzFpMG1WXC9jRTdwU3ZPMVdmY093V3llQ29IcGNEck93dWpoYzNIZmIyR0hHeHZhUTFLSUo2YSs4bDQwZzRaTHRMMDlvYU9ZODlVN2U3bXBCSHJaTm1ZWiIsIm1hYyI6ImY2NzcyMjgzMDE5MjRjMjYzOTVlYThkODZmMzMxYjU3ZWNlNzg1MWJjOWRlOWJhYWM3NmNhMjc2ZWU1MTI0ZWEifQ%3D%3D&amp;signature=07291f4a83e74676c4af90916614ba0871d60fb99346cae5ffc471f799de4cb6</image>
+    <start>07:00AM</start>
+    <finish>07:31AM</finish>
+    <date>09 November 2025</date>
+  </channel>
+  <channel>
+    <name>ABC News 24 AU</name>
+    <id>ABCNews24.au</id>
+    <title>Boyer Lectures</title>
+    <desc>Amelia Lester, a deputy editor at Foreign Policy magazine, examines how Artificial Intelligence could potentially undermine democracy here, in her lecture.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IjN4b1VMcUZlUFwvRkh6VzBRMlBUeFBnPT0iLCJ2YWx1ZSI6Indwc3FBSzRTTUI0YlZlcnBtR2lic3ZUNkdPMFZQd1JJbVFjMHdrUnU0bkViYU9Hc3pURnFwaFJ1UTJQekp6UDlaa283blptaDRQMEM5WVRpbUFGSllOUlJJclltSHR4ZGZDVzJNVk1LdlBsQ1E3K0FoREVLVkpTdkdIZWhsZWNuNU1qTFFOT2hUWnlPY1RNY1psVm9BT0xrazJEdXljMkkxS3V6dEpzN1NDemdObUYxM0R0UUJYM2VtY0Vnd1BtcSIsIm1hYyI6ImZmMjAxNmE2ODNkY2YyMTM4YjljNjNlODMxZjU1MjIxZGE5MzU0NWFiNDRjODgzYTc5N2U0ZmMxOTY2MTFjMDAifQ%3D%3D&amp;signature=0eba10f4f71722dcbb0e8f549ae5c52a76eef1ab21c836764eaaae0dad87ee77</image>
+    <start>07:31AM</start>
+    <finish>08:00AM</finish>
+    <date>09 November 2025</date>
+  </channel>
+  <channel>
+    <name>ABC News 24 AU</name>
+    <id>ABCNews24.au</id>
+    <title>ABC National News</title>
+    <desc>There's never been a more important time for transparency and trust. ABC News brings you the day's top stories and latest news with more reporters to tell you what's going on and why it matters. Presented by Meredith Sheehan.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6InUrVWR3YWVqYlVvUUZZbEZzNU5xZ3c9PSIsInZhbHVlIjoiRGRrXC9idTJ4TUJQdmx6N25JUlB2cmUxbmFqQmxcL0hkaVVzOFRRYitGOTZ3dzdtbmxIQzY3a0YrOGkzZ2tIbVBZWU85Nyt1eEZZNVUxRTFtTWY0VUg4ekh5XC9vSGZtYVFFQ0pQY092dVRRQkJNYTNRY3dFS1FVUmpJdmdUZGtHQTkxb1dyMjRpOXljeHRKVDlselIyUGluM0FTbkdrOGgyNlFUMXdmZm96eEFOdEF2UUM1VUJ6TlZMekZlS2NuTzdzIiwibWFjIjoiMGI5ZTBlZjdjZjI1MGQ2ZjhkMmFlNDJkODZlMDcwN2EyY2U2MGQ4ZjhhMjU4Nzk0Mjk4NDdjNDA5OWNjYjhjMCJ9&amp;signature=cff5ca56dfb7b21b2b7b29e494d7e6ce5508757814b3d3dee336baca5e5f99cf</image>
+    <start>08:00AM</start>
+    <finish>08:30AM</finish>
+    <date>09 November 2025</date>
+  </channel>
+  <channel>
+    <name>ABC News 24 AU</name>
+    <id>ABCNews24.au</id>
+    <title>Insiders</title>
+    <desc>The Nationals ditch net zero, so what does it mean for Sussan Ley, the Liberals and the future of the Coalition? Plus Murray Watt tries to secure the support of the Greens or Coalition to pass environment protection reforms.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6Ijg2VzhzSXFEKzFqYWdQZU1aS0lnRVE9PSIsInZhbHVlIjoiSmlrdW1jVUtrS3FTek1wNEMzS3N0SXprTVdtRFZrRUQ3cm5YNFwvU0EzNFpLcCsrSlpBZm9QRDBtQkNobzRoNGhFVjB5dkVuOTM1dVNxQkFJU1lQa2hcL2JYNXRCTUtDMWNUWlp3VlYwNGNXSXVHUWQ5VG11cnd5Nlh1R3F4bHhGS0t2b3RqZktsRUdUMmVGelU1d0J3VmlWbmRTQUtnalVuSlZTbGpKTzN5UVwvaXJnRnhlQXBwZ0xKMVVTa0lCXC9PWSIsIm1hYyI6IjFkMmMwYTgyNjY1NGY0MmRiOWQ3ZGJjOTA2NWVmMzM0Mjc4MThjYWY5MjQ3ODlkNzkxN2NhZmZjYzVjNzBkNGMifQ%3D%3D&amp;signature=46f7bc0c16cb880ed7d4501ee8a353173d398ac4a56c49ecab82c9eea44ad697</image>
+    <start>08:30AM</start>
+    <finish>09:30AM</finish>
+    <date>09 November 2025</date>
+  </channel>
+  <channel>
+    <name>ABC News 24 AU</name>
+    <id>ABCNews24.au</id>
+    <title>The Whitlam Dismissal: 50 Years On</title>
+    <desc>It's a moment etched into Australian history. 50 years after the Governor-General dismissed Gough Whitlam as Prime Minister, Greg Jennett looks back on the events of 1975 with those who were there and how it changed politics.</desc>
+    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
+    <start>09:30AM</start>
+    <finish>10:00AM</finish>
+    <date>09 November 2025</date>
+  </channel>
+  <channel>
+    <name>ABC News 24 AU</name>
+    <id>ABCNews24.au</id>
+    <title>ABC Nightly News</title>
+    <desc>Wherever you are and whenever you need us, ABC News is here to bring you round the clock coverage of the latest news and today's stories. Plus reporters investigating issues that matter to you. Presented by Meredith Sheehan.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IkEzekpmSFl5T2FaY2g3bVNDWHRLWlE9PSIsInZhbHVlIjoidytHY1prTG1SaXRNeVwvanNqN1hyQ3dENTBJUlwvUERFU0U2b0VwamhqWit6OWt0Nmc5UTYyRnZKRDhGSk9kVUFGcFJiclR1Q0FnQzNMckdyc216NTRFUmxkVFwvNnlEMGtnaWhkQVZvbkk4N2JhTThMbHVJVGxtNCt6eHpqc2NUQ1wvNkp5bHpzam9uUW5uXC9TNFJtVTI3em9JcnlOWENqbSs3ZFRtdEE3R1ZxWEhqWjJ4YnFNRnZxVFNrekZSRFdUK0EiLCJtYWMiOiJiMzljNTdlNDlkMWJjMWJmYjE2ZTUyZWUwZTBkYWFjM2IwOTE4OTA1N2M3ZTU4NjQ1YmIzNzNjYjk3NTdlN2FlIn0%3D&amp;signature=5bb4257546d477ca75a4c9df6e23a5da8e701da6be8d1ea0a5ffae78bdcf84e8</image>
+    <start>10:00AM</start>
+    <finish>10:29AM</finish>
+    <date>09 November 2025</date>
+  </channel>
+  <channel>
+    <name>ABC News 24 AU</name>
+    <id>ABCNews24.au</id>
+    <title>Australian Story</title>
+    <desc>She's flamboyant, provocative and brave. She's also married to David Walsh, founder of the MONA gallery. So why does artist and curator Kirsha Kaechele feel she's not taken seriously?</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6Img4dWwyVitnVVhzSmFsQ2puREN1Snc9PSIsInZhbHVlIjoiUFdXMXh0ZWVBWFBrUWtWXC8zRXRaXC9CdmhFZjVnR1VhM2xtRUhsamFMNkE4M3VGUGhTM0dWdkZ3emFBMWFWRkNcL3F0S1lnQnl5MFVpbERNeFQ1MHFlNndwTXNFYzBaUkJiWEl5UERybzkwZDhQVmlJS3duck9LRUdGYnU0VmxHRnpkZlRXZkc5TDJUR0ZDTlAxdktoakdWMVp2alJmc1N2SnVrVnVqZkxkNHYyd2E1VU5GOUxtcGZUd2tsR2JoUkF0IiwibWFjIjoiYmE3OTE3OGNjN2Y0NTZlODU3M2UzY2Y1ODEzNTRmY2EwODY1NGExZDY5ODFiMDUxNzgxMWVhMjRiNjUyZjE3YiJ9&amp;signature=1778fc0162de3a81e137dbccdd5702bace026f886a9deeb1f14a93c812172e50</image>
+    <start>10:29AM</start>
+    <finish>11:00AM</finish>
+    <date>09 November 2025</date>
+  </channel>
+  <channel>
+    <name>ABC News 24 AU</name>
+    <id>ABCNews24.au</id>
+    <title>ABC Late News Weekend</title>
+    <desc>Meredith Sheehan presents the latest events from reporters across Australia, connecting communities and telling Australia's stories.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IkFQcll2UmlxOG51bXRzbHV3N3Y5bXc9PSIsInZhbHVlIjoiTFdxUWpJUXZ1MEh1eHFleWM5dHBVR0x2NTdvSmt3MkkwVUl3RE9ja0FVN0FUSUpGNDZLMjRhazJLNVwvZllzUU5RTGpud21sY3ZJOG1sSEZJanlISU92WThxbXFMWm9mRTNGS2NGMCtNZEVYR2dsSzArM2FnQ2pKcWR6UFRVeDc0bkMrUEE4ZGZmelVzWFl4dzRXbUg3ZkV4ZzA0MTBvOEZNeVVUa3lDVWVGUkFxejZWMExITzJuSHBINFQyajJaWCIsIm1hYyI6Ijg3NjA5MmNmMTY1MTAzM2Y0OGJlYzg3MmI1MDE1OGFiYjdlYmQ3M2I3NGY5YTYzMzFiZjgwZTc2NDE4ZjE0MTYifQ%3D%3D&amp;signature=d32c0c31388374589406c07b3bcded6a610546d62eb782f6d2442012dbbbf011</image>
+    <start>11:00AM</start>
+    <finish>11:30AM</finish>
+    <date>09 November 2025</date>
+  </channel>
+  <channel>
+    <name>ABC News 24 AU</name>
+    <id>ABCNews24.au</id>
+    <title>Compass</title>
+    <desc>Sam Mostyn, a modern and optimistic Governor-General, advocates daily for a \.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6InVhb1ZuT1Jzd3BXTmZsTTBZSUN4RlE9PSIsInZhbHVlIjoicWFJK1dCUjJtVjZ4TVJwem42NGl6VUlKSnhJdXIwUVR2U0RHSEZ4blZcL3FTK2lcL3lEaWpzbkg1anV6ZCsyaGdGNUR5UHZVN2VsWGtYanVrQjlidGZ5V0JnXC9oYmJkXC9PVzRZMXdCbk0reHl1VXBNRGhsYnV6VU4yMTA2OHRXUlhsVFRzelpqQlMzcisyM3lZRU1hR0xBY1dCb2dOeWNlZTRzZVwvYlNySGRhMDhlRU9ITmFNSWd3dVZqb1JhYzZ2YlciLCJtYWMiOiIwMTNlYWM4NzBmYmRmN2Q5NWUwMTMyMTVhNDYzZmNjNzkyZWFkOWJkNzg0MjE2Y2VkODk4ZDhiZmFjZDRjNWZhIn0%3D&amp;signature=9e7f869b820e7dfbe4448f48f1040848e54023422f8294baa4ea202d72714bae</image>
+    <start>11:30AM</start>
+    <finish>12:00PM</finish>
+    <date>09 November 2025</date>
+  </channel>
+  <channel>
+    <name>ABC News 24 AU</name>
+    <id>ABCNews24.au</id>
+    <title>ABC Late News</title>
+    <desc>From across Australia, the latest headlines and the day's top stories, with reporters on the ground connecting communities, telling stories and bringing coverage of what's happening as it unfolds.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6ImlWd0tGZHRpV1cyWkZtU3NKYWFzWUE9PSIsInZhbHVlIjoiZDhVd1gwcndpWjB2aWVVMDlSYlc2eGNFbzRBWm1YXC9sdjFCNnVNWlhubUdcL0V0a29HSE54OWErdFZ3SEViZERZYk9UWmdDWGhZdmt5SVJoeEJjVHBQYXhyTXJLc0ltcXNiaXlBTjB4VUUrdW12OUhGNkozSWJ4SGtmbXNYRXJqZE9SVWIwdUs2REVEZUVWNmp3T0VxY0d0OUZqVzNuVDRrRWJQYlpKZFJZMmxsdWRsUWF1SGpIbXRUQ1ozS0I0YUIiLCJtYWMiOiI3Y2NmYzcwNjRlMzM5ZjU0ZjVlN2VjZWFmYzM2YjYxNWNiMjUwMzUwMzBmNjE2OTMzZmFhOGIzYjE1YzUxNThlIn0%3D&amp;signature=565605019a274a6d2b791cc29ad292c2ffda4c742d689b076e26d92c7791a22e</image>
+    <start>12:00PM</start>
+    <finish>12:30PM</finish>
+    <date>09 November 2025</date>
+  </channel>
+  <channel>
+    <name>ABC News 24 AU</name>
+    <id>ABCNews24.au</id>
+    <title>Close of Business</title>
+    <desc>Alicia Barry presents the week's top stories in business and finance news including reaction and analysis after the Reserve Bank's Melbourne Cup Day decision on interest rates. What does it mean for borrowers and the economy?</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6Inl0cG1ja3ZiYlVqSXpkdGp6bGJUQUE9PSIsInZhbHVlIjoiZFczYzk2bm8xXC9MVTJDNVpcL0oxZUJSb3E1UmR5WmVsbVVkMnBhQjhONVl0NFlQdTQyRFR4QjltcDVrNWN3ZTVLQmdtcFBLWGRvTEFTZ0dEc1hXbWRUV3pLQXR0a1lKd01KQVRhT0ZuNDRVR2x5Tyt0dkhySEM1cXpSZmZMcnowU3VaeHNOTUlSNFdwRlBcL2JUT3huNEFMR3NueVorRnBoWmV2TkdCbXhTR3FtRHduaTFLclVEcWVMUmYzekc0MUNSIiwibWFjIjoiYTRmZmU2ZTZhMWU2MWMzY2Y1YWM0YzlmOTllZjQwMmY5MDZiYjNlYTg5ZjA2YzAzZDk5NzkwYzlkMWMyYTcxZSJ9&amp;signature=3ce009179ca5fcfe323775ff66805c76f7e1a7b7dca2b48072db2403b4888985</image>
+    <start>12:30PM</start>
+    <finish>01:00PM</finish>
+    <date>09 November 2025</date>
+  </channel>
+  <channel>
+    <name>ABC News 24 AU</name>
+    <id>ABCNews24.au</id>
+    <title>ABC News Overnight</title>
+    <desc>The final word on the day's top stories, with the latest news and updated information from Australia's most trusted source of independent news. Presented by Meredith Sheehan.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6ImVjSGJwS3pKaHdHS2xoaUtmdEZpdVE9PSIsInZhbHVlIjoiUXRXalA5ajFSSEF5K1wvcGVZUGNrTzFXbGVsN0JOQklOZVQ4ajI1eXloc25XcXFhU3BFcERzdGxmRGozOWhZVFNhWnI4bndTNXBEZFlDcVZGUXB6RlJVR3pzdjJodjF5akR3VnAwOEt5UTFYRHc0bFwvOG5jYWRVOGl1cDYxWWwxellMVFloTElxbTJCM3FheFpGOEZyVCtpak1ucmp2S1wvMVBuKzBoMUg2RFdqUGx2REd2aHU3SUVKMVBuWTg0RWQxIiwibWFjIjoiOTU0ZjQ0ZDgyOWUwNDUyYWExZGNkMjA4YTdjMzg0ZDhkYjY5YmFjZTBiZTQ1NzdkYWY3ZjhkMmFlMzkxYzQ3NyJ9&amp;signature=c61c8f50921ab431aebdaacad5bdaf035cbabaafc8cb60754f3111246414f044</image>
+    <start>01:00PM</start>
+    <finish>01:16PM</finish>
+    <date>09 November 2025</date>
+  </channel>
+  <channel>
+    <name>ABC News 24 AU</name>
+    <id>ABCNews24.au</id>
+    <title>Landline</title>
+    <desc>Hosted by award-winning journalist Pip Courtney, Landline is Australia's only national agricultural television program covering stories from Australia's rural and regional heartland.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IkhJWmlUQW5XamRaZklXb3Rwbml3OWc9PSIsInZhbHVlIjoibFd2M0kwYjBsXC9HYWZRNjU3aWN6cVZnVW1wSzVtenZXS09ZUm1sQ09NbFRkY0dMbEVZSTJwc2hZSEZNZkRHQSt3UjRQVVZaSXhYRDdENnpoYVJEUlVDcGtaMXdsREtLTjFIb0p0bnNzVXZBM1NEcnlNU2kyNEdyOENaMGE2OXgyYkU2QW5UVWNYc3JKbmpCazFBNkVOcXE0Mm04a0MxT3k1TU9NYUdLRW9ENXhyOEdQbm94RmFrOXlNU0ZjMGh1ZyIsIm1hYyI6Ijc5NjMwZWU4ZWUwZTFlZmUyYmEwNzU2MTBmNmY1OWYwMDhkNzc3YTFiZDgwOGJmZDdlN2MyNTQ1NjEwNjUyNjEifQ%3D%3D&amp;signature=93e9d18ef19e26d942716c7fa1e7362bbf187b0cef867542cf945a708c6dc9f6</image>
+    <start>01:16PM</start>
+    <finish>02:15PM</finish>
+    <date>09 November 2025</date>
+  </channel>
+  <channel>
+    <name>ABC News 24 AU</name>
+    <id>ABCNews24.au</id>
+    <title>ABC News Overnight</title>
+    <desc>The final word on the day's top stories, with the latest news and updated information from Australia's most trusted source of independent news. Presented by Meredith Sheehan.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IkJIVDhYZG1WcWZTRm96VEc4UXZkTHc9PSIsInZhbHVlIjoiMjFzMmtVdEI0bUhSSmUxakZEMTBCSWc3R3lDeFRJSmJHczBYUUw2ajIraGErUFNEM1ZXWVhnRFZBTjcwQml2dzVjUjlFSk9MVVA5dnYrY1psVkFMUVJrM0pYSGFhd2R4YmpRT2wyeVZWVXdESkVFWWdDeEZMak1ZRW9ubEcxUHBiUGVjV2dCb1g5XC9LSTg3aFZhbk5VR3BFNWdnaHZxMXBWN1UrXC9lSlgrb3NhZzVQTGw0SXZIb3g1RkZ5VkxWRnkiLCJtYWMiOiIwOWRjNTY0YmJhZTRjMmY3OGE1YjU0Y2E3MGRmMzg5YzBiNzBjYjAyNzJjMjM0ZmNhNjViYTgzYjQzMjQxOWYzIn0%3D&amp;signature=2834430af3c028691da450522ea9dbef2d0d2ed1721149b9df62d4cf7cc73411</image>
+    <start>02:15PM</start>
+    <finish>02:31PM</finish>
+    <date>09 November 2025</date>
+  </channel>
+  <channel>
+    <name>ABC News 24 AU</name>
+    <id>ABCNews24.au</id>
+    <title>Insiders</title>
+    <desc>The Nationals ditch net zero, so what does it mean for Sussan Ley, the Liberals and the future of the Coalition? Plus Murray Watt tries to secure the support of the Greens or Coalition to pass environment protection reforms.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IlV6WTc4MkgzbUloNllFVmlaSnNucEE9PSIsInZhbHVlIjoiYlR6U2RyXC8wWG5rVXFkbzlnbUttWUpqTFpVM0pIeG5QY0VKRXhYcU5Dcjd3djU4UFkxMDVwWVdubFNQRlh4cXVaOFlmdUVFeUFWam1IQkdCKzRBMkc4N29VU3dqcDdpSkhjMmUxUFZTcG54QysrQzZISlRzSWhLc2MzeFlIcmtQV01XN1dDWUZYM0tKc3hUbEhyRnBjQ0YzSU9GVU9ScWlLajk3dmRIRXplV3hIT1ZwbmU1aURWR1lhd0FSOFl5cyIsIm1hYyI6IjdlOWIxYjdhY2Q2NmI0Zjk2MGM1ZTYzNDdmZDhjYmUxNzdiNTc5MmQxYWQ3ZDFkNDNlNWVkYjExOWQ0MDYzYjYifQ%3D%3D&amp;signature=d9a5496415d19110d28ac53387fdaf009ce3ef4df1f8e650cfb69cae26ec17d4</image>
+    <start>02:31PM</start>
+    <finish>03:30PM</finish>
+    <date>09 November 2025</date>
+  </channel>
+  <channel>
+    <name>ABC News 24 AU</name>
+    <id>ABCNews24.au</id>
+    <title>Offsiders</title>
+    <desc>Abbey Gelmi and the panel unpack the week in sport including the start of the WBBL season, Australia v India Men's T20s and the countdown to the Ashes Test Series, plus the AFLW Finals begin, plus A Leagues, NBL and WNBL.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IkNBRlUxc0c4ZWpcL0Fkem1aM0x6R0lBPT0iLCJ2YWx1ZSI6IlVTbFoxQlBzUnFldXA5TnhPK09uYzlXV25ycFpLSjlYMUZUY281UlVjdlBYZTZEaitRamJqOER2XC9yNDlTNGJrVVBqZjhCUkxQdXozekVcL2JLMTJabjNvZlF4VmZ2RWxuQVV1czR1ckNVdmxPYWl2UTBrNDlMekR3d3lqQzNNQ0Y3eW1QY3B2aCsrdUQzSlFSREtEQlRIcE43VVRkR0U2R3lzXC9CbHRESUZrWERjVWExODVKeGlNcTBhOHNESWVjeSIsIm1hYyI6ImYyNWFiNjNhNTk3MmUzNGNlNThiZWE1YTE5Yzc3MTJmNmVkODJlZDFkNzRjZjQ2ZjQ2YTA2OGQ4ZDUyNTM4NTgifQ%3D%3D&amp;signature=9bbeb8859718b4fd97ac7f85ae36817851058071ffa0220c66c7f80ebee8a418</image>
+    <start>03:30PM</start>
+    <finish>04:00PM</finish>
+    <date>09 November 2025</date>
+  </channel>
+  <channel>
+    <name>ABC News 24 AU</name>
+    <id>ABCNews24.au</id>
+    <title>DW News</title>
+    <desc>The latest international news and the day's top stories from a European perspective. Our broadcast partner DW brings you live coverage from Berlin with updated reports and expert analysis on the big global issues and events.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IlpQWEh6aUZqXC94bmF0UVBWRWUrQ3Z3PT0iLCJ2YWx1ZSI6InpTYTBCNkRPdUV5Tm9HOStGYnJMQldpcE5vYzBWTkdFMEpqNVVkVGdDUTkweFlONlZjelwvVkJXRkJDT2Q4dGRmekhDemdBTngyR01tWkxoOGowbDA4UHRtOUQ5Z0RJcG9obW9kRWlwWjNIcGgzTnlwaHFveUx3ckhXdmhTNGZTUFBLd3VROXpDdlhId2V3dENnUG9CTFRCOU16MmNMTVpTRWduNmVBZThmTExjaDNYNVlqblwvNmFxXC9GY21OZ2NjaSIsIm1hYyI6ImRkNjE1ZThmMzVjZWZjYjQxYjQwMTI4ZTdiYmI3NzE3NDBhY2QxMjAxYTE3NTQ3ODQ5MDJiOTg2NWJmNWNhNTAifQ%3D%3D&amp;signature=d4157f331ec0967decee4ea4dfbd0549f6185633b005023d8b80b8baf55c2669</image>
+    <start>04:00PM</start>
+    <finish>04:15PM</finish>
+    <date>09 November 2025</date>
+  </channel>
+  <channel>
+    <name>ABC News 24 AU</name>
+    <id>ABCNews24.au</id>
+    <title>If You're Listening</title>
+    <desc>Matt Bevan examines how current events have probably happened before, to figure out what we can learn from history.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6InM3NEFcLzViODZVd0Fla0lZMHVXOG5BPT0iLCJ2YWx1ZSI6ImdxZnFJWTF1Z3pKVXdRMWo4dXdkempva2RKc1ZSYXJENUxQb3E1XC9mdTN6b1BSUlVwYkJBbXJsaWtBcHdjY29LeElXUTV2VWRCRGN1YVRoeW1NSnJpME9RUnp1b29jVGdlTk9oRVBBXC9kY2JITldjTkdVNW1aeG5PV1wvK3pUUmxCU0RQcG5GNytWbnRhXC9hQlNYMEhMR1lFRmxRaytMbjdxd3pSc0IyVzRkN0tcL3J0YTY3U1ZsRkRVSU55ZlI5XC9saCIsIm1hYyI6ImUxMjZhNWI1NjBjYjQxMTU1MmZhN2FhZWYxNDBkNWQ1NmVhNjI1YWUxMzI5NzU0OTk2ZGZiNjg1YzlmNDc0NTAifQ%3D%3D&amp;signature=d1356dfc0acf75921d9843a10de5a0273b38a5d6d3a59628dc8a156f55a8bfaa</image>
+    <start>04:15PM</start>
+    <finish>04:34PM</finish>
+    <date>09 November 2025</date>
+  </channel>
+  <channel>
+    <name>ABC News 24 AU</name>
+    <id>ABCNews24.au</id>
+    <title>Focus on Europe</title>
+    <desc>What drives people in Europe - politically, socially and culturally? How do Europeans lead their lives? Stories on the diversity of the continent's people and places. This week a look at Norway's floating NATO listening post.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6Im9KYVwvSEU5RnpBbHlcL29IeG5nQVwvSnc9PSIsInZhbHVlIjoiRU5SaXIyWjBQTVFpZHVmbzR0S1dEd3ZwXC9lTTNtQkpXWEQ0cTBDeml3RVN3d0NJaHBWTnk3WHRxOHlpdmNubkJGSDN0OE55dkRtYStFeEQyaEI2WGc3ek9QeTV1VWgrZnlBVWVUODVLRE13RjVoUXNzTDNjUzRDaGwzWitDOXJ6bm5VT1wvaXppWVZNVkRlcXBwZTdSZ2xsbDV4VEVkK2lcL1dZRHhiTmRQNk83RmR3XC9OZ3cxWnhySEw0Njd2OGNXcCIsIm1hYyI6Ijc3MzViNmRkZWVlYTA1OWFiMmY4NGU5NWUwYjVhMGQyOGYzZDZhMzUxNWNmMTgyYTU4MmMzNzIxNjg0ODBhMzEifQ%3D%3D&amp;signature=c88e601112c5b8eebbe24bf5c7c418731f2dc378f2b69b316236fd13f2b514df</image>
+    <start>04:34PM</start>
+    <finish>05:00PM</finish>
+    <date>09 November 2025</date>
+  </channel>
+  <channel>
+    <name>ABC News 24 AU</name>
+    <id>ABCNews24.au</id>
+    <title>DW News</title>
+    <desc>The latest international news and the day's top stories from a European perspective. Our broadcast partner DW brings you live coverage from Berlin with updated reports and expert analysis on the big global issues and events.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6InlzUDhCNFwvdkFFK0ZKSmZNbGEzS1JBPT0iLCJ2YWx1ZSI6InA5alR1K3d5V2J5V0ZQQjljZ1VBaDJOTGNtWWhWV0NGZ0JhbTJCcHJzM2xRdnJPNjI2Z2VEMmJPcXhMNHpjT3Jhb1pYMnAxRUtINmoxSmhrV2U3UlBvS2hRcnZuMjdzYk0zSTVqVXlYSkkrZThTeHdRNmI0N2REOVJTK3Z3SCtwWUJUcGtFeUQycnJ2R1FZRXIyVGZSVHQ4ZitJQTB6SWlUVThxMFhiZXZwaGxnXC9FdWVRQzN4b0QrY2liTSs4K0QiLCJtYWMiOiIyZjNmY2U0NjYzZTc0OTZjM2Y1MGE2ZTQ4YmZiMDJkZTMxMDhjOGEwZTRkODczMDFlZTU4ODc1MTVkNTI3ODU2In0%3D&amp;signature=26a7482a60ab7da08d237a80c7fb182ad108e1fd8df0da07c93678c12de25873</image>
+    <start>05:00PM</start>
+    <finish>05:16PM</finish>
+    <date>09 November 2025</date>
+  </channel>
+  <channel>
+    <name>ABC News 24 AU</name>
+    <id>ABCNews24.au</id>
+    <title>Unusual Farmers</title>
+    <desc>Australia is in the midst of a cannabis boom. Not black-market marijuana, but pharmaceutical grade medicinal cannabis.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6InIyN1lsTGlZZHZHVGRFMVpRMDNBTkE9PSIsInZhbHVlIjoiaTRyU21tQTNBU3ZXdjdEY3psTXlOa2hiWmQyczlHTWJFcmd6MTV3QzBOQ0NCYmttRlBCdU8xaWZjSFhTMThHRThWRXR3WlhvdWFXT3gyOFBEOCtGc0Y3TEgreGpYaUlrR0xVQVJqN3VjbWc5STFqcXR3YndXWUVzeWlTM09cL3VGT2dIOWhRZnIwTTBVNE83cHFUOUhGSHh6SjAyRHNjbTFpVUZFRVQ5M09zR21DMDFXdGMwY0ZcL3JjQ0dNc0Y4b3IiLCJtYWMiOiJhYzgzMGUzMzBmMGYyMTIxOTA5YWM5NWZkZTBhMGRhYWM3MjdhM2JkMDQ0NzA4NDMwNGExOWMzZmQ4NDZmM2E4In0%3D&amp;signature=381bbfda466d005b528e32e58e008d4ecc08ead10bbc02d310a9e229c0b39c34</image>
+    <start>05:16PM</start>
+    <finish>05:30PM</finish>
+    <date>09 November 2025</date>
+  </channel>
+  <channel>
+    <name>ABC News 24 AU</name>
+    <id>ABCNews24.au</id>
+    <title>ABC News Regional</title>
+    <desc>Amy Culpitt presents a closer look at what's making headlines in regional and rural Australia. Reporters uncover the news and unique stories about what's really going on outside the big cities.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IjRjbEprQnE5czVxeEx1XC9qc1Vla2F3PT0iLCJ2YWx1ZSI6IjFYdVwvK201Zkp0MDRhQ1pPeVo1QmFsRTdNR3dNanNQVlZTcCtJK3N6cWFhMXRSQUxORHF6VjBnYStlbkpwOElNUTZYTUltcDUyVXJqTUFVSEVhNDZtK2Q3UCtmM1V3alMwa1htRFRkUXJqTzd2eVpwbVFETTl3OVRzVHNid0VvZEZQXC9waFljMzRrR0xjNlNjb29qRHBSSG9wV1dCN0NSckRKOHEybVRBdTdGVW5EUnFPYkFRbGVTZG01THlobE03IiwibWFjIjoiNDE0ZDc3ZGE3NmJkYTBhNGVjMGY0Y2YwOWM3OWY1NDIwZmNkYjFhYmU3Mzc3NjZkZjUzNzVkZmE5OTBmYzZjMSJ9&amp;signature=5c7b40e0cbb4d46a81a385e4bddc18cff48445bce87ed9e5937eaaa8effe0ac5</image>
+    <start>05:30PM</start>
+    <finish>06:00PM</finish>
+    <date>09 November 2025</date>
+  </channel>
+  <channel>
+    <name>ABC News 24 AU</name>
+    <id>ABCNews24.au</id>
+    <title>Landline</title>
+    <desc>Hosted by award-winning journalist Pip Courtney, Landline is Australia's only national agricultural television program covering stories from Australia's rural and regional heartland.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IjhzeFd3SVRyNTlCY1ZwckdlSlNzcGc9PSIsInZhbHVlIjoiSDlmT3poTndhcmhQWXdNT1l6cFwvOXowNmRqMmp0MytKNm5IcXpjUTc1TUxCN2Y2S0ErMENtRjltSUNLWXdwbHVCbFBVM0ZxZGR0eXlvMm5TQXF6UWRINEJDcmxCRmdTZXQyK2VDWjNkRkxKVmV3U3ZUOUxWdDFtdjZrejA5WkdxQUVRdjdSM2VSajF5T0I5TGoxWURpb2xidzZXTjJpYXhvaWh1ditQVVFyWDROOFFOQmVBc3BMNjdvT1wvNWdibEUiLCJtYWMiOiI3NTM4ODE1YmM0Nzg0ZTBlNzJjNzc3NzIwMmE4OTNjNDkyMDI3NzNhYzg3Y2NiMGU2NDIyOWJlNTNmNjBlYzk3In0%3D&amp;signature=77d08fd8b7065a9b992e0bf87e1db26db42a7f63a65f72ba3264dd5a86ea39af</image>
+    <start>06:00PM</start>
+    <finish>07:00PM</finish>
+    <date>09 November 2025</date>
+  </channel>
+  <channel>
+    <name>ABC News 24 AU</name>
+    <id>ABCNews24.au</id>
+    <title>News Breakfast</title>
+    <desc>As the day begins get the facts you need to stay informed. Bridget Brennan and James Glenday bring you the latest news, overnight developments and today's top stories, joined by Charles Brice, Catherine Murphy and Nate Byrne.[(96057)] </desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6Im5kQ245ekFRWmw2VVdnZTR0UVBueGc9PSIsInZhbHVlIjoiOHFcL29FUHJIdnE5V2pcL1Jxd1lXSm1cL2pnZ2ZnY0JHNXFDRWE5U2oyN05FaHV6OWVnbmdGZnB5cGR5dnN3Tk52UG44dkNjdWFwOHFaSGlzV1V0cGtPdWxIMFN1cStKTVVcLytqcEppTzlGdThSK0VuK0tCSHlMbTlMTUEzTit0SytUeVBxOVZrZkFsNm1xSTRuSHdqcmJrWnZJMmlPb2ZZdGJRQXdwYWlCcFwvSFl5WnFqZzdFSWs4b3dVSlwvWEFsVVlPIiwibWFjIjoiZDVjMWFiZWM1NDZlODcyYTgzYmZiYzhhNzVkNWE5NDY2NmRkOWQxNGNlOGQ2NDgzZGQ5YzRkMjU2NDM5ODYxMyJ9&amp;signature=290c586503903708161c5a91c21c53f7aaf267c09ed9b4ff016db0bff366bfe9</image>
+    <start>07:00PM</start>
+    <finish>10:00PM</finish>
+    <date>09 November 2025</date>
+  </channel>
+</tv>
