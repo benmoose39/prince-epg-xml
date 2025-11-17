@@ -1,33 +1,43 @@
 <?xml version="1.0" ?>
 <tv>
   <channel>
-    <name>ABC Comedy AU</name>
-    <id>ABCComedy.au</id>
-    <title>ABC Kids Programs Resume At 4am</title>
-    <desc>ABC Kids programs resume at 4.00am.</desc>
-    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
-    <start>04:56PM</start>
-    <finish>08:30AM</finish>
-    <date>16 November 2025</date>
+    <name>3ABN US</name>
+    <id>3ABN.us</id>
+    <title>Celebrating Life in Recovery</title>
+    <desc>A focus on different types of recovery.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IkhOYjFWK1RVdXlxWmJDK1pwOEtSTFE9PSIsInZhbHVlIjoiM3NUdXdaWW5RbGhFMzRDQnZ4TXJYdDM2T1ZWYWtjYlVWWE5hbFZsdUhJK0wya1I1dGJGaUtsaFdpTUFRSW96ZzV3bDNqeXFKenJOV0V6R0hyQ2JWYnpqRDB2anYxY0lHa1ByQVFaRjFxOWs9IiwibWFjIjoiZmU0MWJmM2JlMGM1NDY3OTE0YTUxY2Q5NmJiNzZmMjBiOGMzMzJmMWU3ZTczMThiYzRkYmU5ZjhlM2U4MmEzNyJ9&amp;signature=a6d9ab3b99dc4d0e99eaabc3bed07cbddc95a7a5b923fed7a7b4126b9b6f7114</image>
+    <start>07:00AM</start>
+    <finish>08:00AM</finish>
+    <date>17 November 2025</date>
   </channel>
   <channel>
-    <name>ABC Comedy AU</name>
-    <id>ABCComedy.au</id>
-    <title>ABC Kids Programs Resume At 4am</title>
-    <desc>ABC Kids programs resume at 4.00am.</desc>
-    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
-    <start>04:56PM</start>
-    <finish>08:30AM</finish>
-    <date>16 November 2025</date>
+    <name>92 News PK</name>
+    <id>92News.pk</id>
+    <title>Mai Aur Maulana</title>
+    <desc>Bringing you the best in news programming and entertainment.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IndkcXk1Y2pnRE4wZjd1YTdqVDBvVGc9PSIsInZhbHVlIjoicklZOEdRckEwZ0dlTUtVOGZ1WGFEWTZPUGVjMWNtemhlV0h2TnJWMlwvdlloS01hbENKeTJIejh6SlNMVDFYczZ1RFNGUmhLZERuU2FQRjZZdTRmdEZ4MDFTNk1SbWxiZXgycndXVm9BcnJZeW1qdFFZdlRNRWYxNVZIMFZuOGZyIiwibWFjIjoiMDU4MjU2OGE2NWZlODFiZTA2OWU5ODU3NTBkMTVmNmNhZjU0MGUzNzUwZDljNzFhZmFhNTY0OTgwMTgyYjRhNyJ9&amp;signature=463c176b2fd9a77cbeb56e2b6a734d8cf64b52e8ea913c963314b21d58bfc3e9</image>
+    <start>07:03AM</start>
+    <finish>08:00AM</finish>
+    <date>17 November 2025</date>
   </channel>
   <channel>
-    <name>ABC Comedy AU</name>
-    <id>ABCComedy.au</id>
-    <title>George Clarke's Amazing Spaces</title>
-    <desc>George meets Val who has put her life savings into building a stargazing cabin as well as actor Gemma transforming an old horse box to help keep the show on the road.</desc>
-    <image>https://epg.best/assets/program-icons?program=eyJpdiI6Ilo3QStxcHRicmN5QVJaZmJLSHkrcXc9PSIsInZhbHVlIjoiSmw2YWxxbE9sVzU5XC9wbitreHQyTW4rblY4VkZRdldFMEhESnZPek9PdTJQVitxanRFXC9rdDFubmtHXC9aXC9vd1ppYXJzd0Uwb2orOWgwTVNTV1wvQ3ZxVzVGcHpCR1VRaG42S3cwSzN6TExNVm00b3JCMkRGeXV0dUF5Z21sU2JlaUlsUEJaMDBVZWZnODdYRUt0MXhFQkE9PSIsIm1hYyI6IjU5ZTY3Zjk3ZGVmZWQ2ZDEzZjI0M2E2OGIzY2NmN2Q4ZDE5M2Q4MjI3MWMzNGI0NzA0ZDBhZjNiYzFmZTQ5NDUifQ%3D%3D&amp;signature=fde266b1e36944fc3487e2d9100ed93c66c42a1eb5a1be6fc7cb975a7915b32a</image>
+    <name>AB1 FR</name>
+    <id>AB1.fr</id>
+    <title>Sous le soleil</title>
+    <desc>Alain ne d?sire plus qu'une chose : se venger de Jeanne et Valentine, qui m?nent la grande vie gr?ce ? l'argent qu'elles lui ont vol?. Il fait appel aux services de Daniel, un individu plein de charme, et le charge de s?duire les deux soeurs. Manipul?es, Jeanne et Valentine finissent par se d?chirer..</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6Img5MVNxZkVNRzArQVkramRoWkJUSEE9PSIsInZhbHVlIjoieDBUQWE1T3FIVXdrVUFBXC9HUkJpN1BadlZ1ZUZCanhmcjQ1N0MycUpPOEtORzcxUE1sNHA2elZkanI3V1dBcDg0WWs5OVV4UlFDNnhRNWV3eGd4Y0J4Zm9ORUY1WmczN29SZndUcDZPUVhyOGliUFNZclZVeEN3M2ZIV2NhOWVPM3k4Wmk3VVFuRE0rWVg1RG43U0xpZHZYb09iTloxcmNSRGkweGRjeFhjZXI2SStzMkxWbDlMejdLZHdUbmZpOWxXN2VrS0o3eEhsRHUrVjZaRjdENXhPdW1XSWVyME54SmZFQkhrM2pyditUUlhrR2tjVDE3cWlTdjRNQWRLSXAiLCJtYWMiOiJiMGQwNDY4MjM4MzBlMzA4OWE0NDg5MzMzYzg1ZmFmM2ZhYmZkOGE5NmQzZTlmZTVlZWFiN2YyNWZkMjE2ZWYxIn0%3D&amp;signature=2e9778022fbafb1bd084f55e6b20f722f0e0d86af70244ef5ecb8d42856983aa</image>
+    <start>06:43AM</start>
+    <finish>07:37AM</finish>
+    <date>17 November 2025</date>
+  </channel>
+  <channel>
+    <name>ABC AU</name>
+    <id>ABC.au</id>
+    <title>Antiques Roadshow</title>
+    <desc>A return visit to the British Museum in London as Fiona Bruce and the team examine family treasures brought in by thousands of visitors. Amongst the pieces are dozens of historic finds dug up by mudlarkers.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IjJha1RHbDc2aEUwU3ozdlpyUmhUZWc9PSIsInZhbHVlIjoib0pKbmltRzV2QjFzVjExVmtDQkxuaXVrV0dOTG9zQXJ5RGlURW50UlAwb0V5MFFFMWVUMlhxUUV4cXhyeXg3V0tCdWdMUnBnREVscWJsWkFGOFFmUnZqWTlNMW1KdWkxY0c4Szc3UERzU1wvdk4ybExkT2NWMGlmRndtZXRaOGViU1ROaFdCdEdvVDlUK2ZIYzZxSjR3VFNUbzJWM2wxVzJVUmp6cW5tc2FqblhTN0FucEtEa3BCdWFtSVhEbnU3QiIsIm1hYyI6IjIwNmJlYmVlZjVhNDE2MTRlMzNiNzAzZmUzZTM3N2Q0YTY2N2JiMmIzOWFiOGFhOGUxMjFmZjA2MzRkMThjNTkifQ%3D%3D&amp;signature=09053f8da122713d9ce08c1e1e77748390f940ffb8fbbe1a1f14ca3790623d59</image>
     <start>06:30AM</start>
-    <finish>07:18AM</finish>
+    <finish>07:30AM</finish>
     <date>17 November 2025</date>
   </channel>
   <channel>
@@ -41,33 +51,213 @@
     <date>16 November 2025</date>
   </channel>
   <channel>
-    <name>ABC Comedy AU</name>
-    <id>ABCComedy.au</id>
-    <title>George Clarke's Amazing Spaces</title>
-    <desc>George meets Val who has put her life savings into building a stargazing cabin as well as actor Gemma transforming an old horse box to help keep the show on the road.</desc>
-    <image>https://epg.best/assets/program-icons?program=eyJpdiI6Ilo3QStxcHRicmN5QVJaZmJLSHkrcXc9PSIsInZhbHVlIjoiSmw2YWxxbE9sVzU5XC9wbitreHQyTW4rblY4VkZRdldFMEhESnZPek9PdTJQVitxanRFXC9rdDFubmtHXC9aXC9vd1ppYXJzd0Uwb2orOWgwTVNTV1wvQ3ZxVzVGcHpCR1VRaG42S3cwSzN6TExNVm00b3JCMkRGeXV0dUF5Z21sU2JlaUlsUEJaMDBVZWZnODdYRUt0MXhFQkE9PSIsIm1hYyI6IjU5ZTY3Zjk3ZGVmZWQ2ZDEzZjI0M2E2OGIzY2NmN2Q4ZDE5M2Q4MjI3MWMzNGI0NzA0ZDBhZjNiYzFmZTQ5NDUifQ%3D%3D&amp;signature=fde266b1e36944fc3487e2d9100ed93c66c42a1eb5a1be6fc7cb975a7915b32a</image>
-    <start>06:30AM</start>
-    <finish>07:18AM</finish>
+    <name>ABC ME AU</name>
+    <id>ABCME.au</id>
+    <title>Phil Spencer: Secret Agent</title>
+    <desc>In Weybridge, Phil's taken back to a not so swinging '60s pad. It belongs to brother and sister Nigel and Beverley Mort who inherited their mother's house, and Beverley in particular is keen to sell.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IldtRE05XC9jTUZmZFhHazZNYUZKMUdBPT0iLCJ2YWx1ZSI6IllFR29NcXRlOVJ1SExyNmRnTGpaN1RvTzM2OU40V1pqOWVFYmlmWmwxNlV4VWdXNnRzOXg3ejBLdjlMeGt4YlhJK1ZWZlF6dlk4Z0VtOERjR01ZV0U5dUM5WTB5d2c2eUw5d0p3NGpqT1VGMWExMWpsU1ZBY0RLMnRWK1gxZUZjSGRXek5OS3J4NFlDMFViT01FcklDekF5ZXJNaVBSNkJ4ZW9BYUM3Z0wrcjFhY2JyM2FWNmMrY1FleDJmTnhpbCIsIm1hYyI6IjA5NTg1ZDZiYjJhNGNjZjQyODg3NWNiYmNlZDM5MjhkODg2OTkyYzAzNzUyYzY0MmZmOWMwODRjMDQ1MzZlYTkifQ%3D%3D&amp;signature=f444fbdf3bf4a45ce90587493827d4e432be0f00f1f9177cda13c21574217175</image>
+    <start>07:18AM</start>
+    <finish>08:06AM</finish>
     <date>17 November 2025</date>
   </channel>
   <channel>
-    <name>ABC Comedy AU</name>
-    <id>ABCComedy.au</id>
-    <title>Peter Rabbit</title>
-    <desc>When Lily's father decides to move the family out of the Lake District, Peter comes up with a clever, but dangerous, plan to change Dr Bobtail's mind.</desc>
-    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
-    <start>06:47AM</start>
-    <finish>07:00AM</finish>
+    <name>ABC News 24 AU</name>
+    <id>ABCNews24.au</id>
+    <title>ABC News Hour</title>
+    <desc>Stay in the know with Australia's trusted news source. From your neighbourhood, across the country and around the world, ABC News bring you the day's top stories and latest news, all verified. Presented by Joe O'Brien.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IjVnV3dvYTNSekJPSEpsOCtRd0srYkE9PSIsInZhbHVlIjoicEhMZW5DVytzTm1RTDB5MUIya3Bva1dIaGZUK2FCQVBOXC9LS29cL2tTMUZ5TFFNQTZPVzVYTFV6TkFWY1RVRmljSU9VXC9Ga0dOZGliUWNtUWNidnh1XC91SlFlZnVuUG9UeE1RTDUyUzl6SWVWRlwvMHdrRjNzYUVVWElrZHpvYzdFR2Q0UytmXC9NaTM4V2NTR1k5Z3BUd0NIOTRcL25FTzNwclpaSU5jUG1rUWQ2b255b2RmSGc3UnU1MWRVMVwvU0VlZmciLCJtYWMiOiJjNjEyNDM1ODdjNzZiZWE2ZDc3NDhmZjgxZmMzMDY1MzI4NTU3NjAyNTFlMmY1OWI3MDUzOWNlMDI4ZWQ0YjEzIn0%3D&amp;signature=167df6c44c072aa3d96d309c00305795cff0a7c023b44ccd1c267b485e90bfe2</image>
+    <start>07:00AM</start>
+    <finish>08:00AM</finish>
+    <date>17 November 2025</date>
+  </channel>
+  <channel>
+    <name>ABP Ananda IN</name>
+    <id>ABPAnanda.in</id>
+    <title>Barotar Breaking</title>
+    <desc>The host presents the latest news updates and significant developments pertaining to various pressing issues across the country.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6Imc0aW5iQXRJOTNoejJRYlQ4TTVTNEE9PSIsInZhbHVlIjoiOUZzaVwvMGRSdk9XMEhQTjlxVmI0YzZ0SHRmYVRIcTZnUTRiOWcrTUZBeG5RNHA5aklVclRGNituTWFob21XdjJ2dWtKZkZzWGV5OFBuK0lnXC9HN0tJeTdCUkt0bTEyOEdiWVZZYWRidUM1Yz0iLCJtYWMiOiI2YTk3MjA2NDQzZGRkMmQ3NzAyZDBlZmYwMTZjMWUzZTFlZDJkNTFjMzMzYWFhNDZkNzQ1YWFlODVhNjBlMzBkIn0%3D&amp;signature=5d08d50c7125311f7841b4daca3126c8e1edbce2985542db46a670f4f674a09b</image>
+    <start>07:10AM</start>
+    <finish>07:30AM</finish>
+    <date>17 November 2025</date>
+  </channel>
+  <channel>
+    <name>ABP Asmita IN</name>
+    <id>ABPAsmita.in</id>
+    <title>Samachar Shatak</title>
+    <desc>The host delivers timely updates and in-depth analysis on current events, covering a wide range of topics, including politics, economy and social issues.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6ImhTNm4reVQ3Ryt6aDFcL1o4QWVIekdRPT0iLCJ2YWx1ZSI6IjZJQWdub2h2blZ3c1o3XC9nYnhPWFlwa0I2VzdYRkRzYlJRZ1p1S1VDbHBLbDVZVVYyTHQ0T2JIZksySkxDSDNjS29GSUh1eE8yMHY1OXRYQzMzQnRYQ3Q3Z3Y2Q1F0dGNcL0Zsc3ZGYmxFN3V4S3Qzb2hBTFdmcXQ3clVJVjcwMGQiLCJtYWMiOiJiZmU0NGJhYTU3MTg0ZGYzYWU1ODhlNjBlYWY2MWZiOGZkZjU2OGJiNDljMjc3MzQ5YTRlNzg4Y2M2ZGM4YTg3In0%3D&amp;signature=544ade810664b002ceb8d7859b54f71d4f8d315bbc8a165a1b66e66b22ac125e</image>
+    <start>07:00AM</start>
+    <finish>07:30AM</finish>
+    <date>17 November 2025</date>
+  </channel>
+  <channel>
+    <name>ABP Majha IN</name>
+    <id>ABPMajha.in</id>
+    <title>Duparchya Batamya</title>
+    <desc>The host presents information about the social, economic and political issues of the day and provides updates on current events.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6InNTWUc2YzVBYm1xZW9zQktoWE85K1E9PSIsInZhbHVlIjoidkJoQ0RTOVhHR1wvS01jUnZycnFOMUFmVTBoK2V5VG90YStYTFNlWUdXdjZnXC80Mzd2elVUOXVQZUtjOXY3UmJjVVJQdGdub2RxdmVVOWVFbU5ERTVLemhKenZEa2ttSnRyTlZPU21UZ1d6UT0iLCJtYWMiOiI0YjYyNzJiY2NlNzk4ODUxNWNhMDg1YmViNmUyY2IxOGMwN2U0MTlmNmVkYjU0ZjQxYTZkMmJjY2RjYjAzYjNiIn0%3D&amp;signature=17cae36641d1bb9b3bc8c47da767a603a377301066d6c5e4e4144a37ce8a31ec</image>
+    <start>06:58AM</start>
+    <finish>07:28AM</finish>
+    <date>17 November 2025</date>
+  </channel>
+  <channel>
+    <name>ABP News IN</name>
+    <id>ABPNews.in</id>
+    <title>Khabar Fatafat</title>
+    <desc>Presents comprehensive and detailed coverage of the latest news and domestic and international developments.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IjNnSWZzT2swWlNBYXFSb2duc1YyU1E9PSIsInZhbHVlIjoiRFh6OEFoenlBdDNjMDhlR2lJSXR2eXNtbW9BaThLbkNDV1FJekI4NnBabTFGXC8wVndVWWRoa0lVdkVjVXdsbEtwWUVpSzFmQUZIWHE0SmNEdlwvanVBVVE3bWlaS0p5ZVpKOE1LZjlZMDkyRWVjYnBiSVo0ajNuYk0xWHVEZWRsMiIsIm1hYyI6IjdmNjA5MGJlYzFiM2Y5NDM1NjA0ODQ1YTNkZGQzMzFkYjZiYTI3NDIzY2I5NzExMzYyZjExZjYxYzEwZmE5ZDEifQ%3D%3D&amp;signature=26ab4b4bd841134cc53cacde7aa3d58bf8746ac0a7f9688ef2ace83a7d4f4b83</image>
+    <start>07:00AM</start>
+    <finish>07:30AM</finish>
+    <date>17 November 2025</date>
+  </channel>
+  <channel>
+    <name>Aaj Tak IN</name>
+    <id>AajTak.in</id>
+    <title>Aajtak News</title>
+    <desc></desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IlBmeXg5MmFjeW04dGNiTWRuTEdGQkE9PSIsInZhbHVlIjoiTW5tY2ZVQzUxT0hjYWRaTFVSTytwUmV0QVwvUTkrOFYycTJhcjNnZWR6ajFuV3hXOGY4T2ladUVqRmkwT2RIQUdyakkyMzlVaHI1bFhPNlQ1d2YySXdCSnVEMGQ1N0dKbnlpNkRqZXdGZWdFPSIsIm1hYyI6IjFlNDYzMjRlMTUyNTFjYWRjYjU0YWM2MGFjZTU1ZWZjYzY1ZDUzNDIyZDliZTJiYWM2YWVmOTQ0NmFiNTQ5NTMifQ%3D%3D&amp;signature=5991460c8ae841692cf22b81ff3a3e02e5daca9eb7139bd623e56edde3050141</image>
+    <start>07:00AM</start>
+    <finish>07:30AM</finish>
+    <date>17 November 2025</date>
+  </channel>
+  <channel>
+    <name>A&amp;E CA</name>
+    <id>AandE.ca</id>
+    <title>Live PD: Police Patrol</title>
+    <desc>An unfiltered look at police departments in action.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IlwveTFJMHlkZU45WE9IRGNEUEZtWVFRPT0iLCJ2YWx1ZSI6ImQxTWZDQkpaRXJDcXhXODE5QldiZHhZVW5lNWJMS3g2SFdiK2FDQng5eU9OT0VtdWwxT2xmXC9yZ2E4T3FzQ3RqWjJ3Vk1uTkVSYUgxRmg5U0hcL1Z2M2JJUFFLMVYwTkd2S2t1QTlxT0ExTDg9IiwibWFjIjoiNmRiZmNhZWRkMzQyZWUzNDFmY2E3NzE1Yzc1YTQ2ODM0YmZlNmRkMGI4NGZkODM3ZWNlZmQyMjcxZmQ5OWExNyJ9&amp;signature=535b0fc34df09cf8c653759f353fc50dd9822b9f363f953bed56ba5eddb6bff2</image>
+    <start>07:04AM</start>
+    <finish>07:34AM</finish>
+    <date>17 November 2025</date>
+  </channel>
+  <channel>
+    <name>Adult Swim CA</name>
+    <id>AdultSwim.ca</id>
+    <title>Mortal Kombat Legends: Snow Blind</title>
+    <desc>When Kano and Black Dragon mercenaries become determined to take over Earthrealm, undisciplined Kenshi seeks tutelage from retired Kuai Liang to stop Kano from decimating all of Earthrealm.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6InI5KzFWUVJmUXdxSkQ5cTFUQ2lIcEE9PSIsInZhbHVlIjoiWVpybSs0ZGRIYzNqVitIeGRvR1wvdVlGQlVXb0dFemlUYlRYdXRjXC9Sb0xjaHoyMUdiclZIWGRLNkkzXC9DSXY2K2psRDczS3BGKzFuSFBoYmRHK3NJd0xVRmxsWGRwbU16QkZGdFlcL1pKUDhBPSIsIm1hYyI6IjQzYzA5YzIxYzQzZjg4MDE1OGFmZjJhMzJhOWRkOTA2OTA1NWY3MTJhYmQxYWYzNTUwMzg0NGEzMDA1MWU2ODMifQ%3D%3D&amp;signature=4dfb37879469cf92f6e39167233fc47b38e390c935c9f0a5cc19c49eb7e4c28f</image>
+    <start>07:00AM</start>
+    <finish>08:45AM</finish>
+    <date>17 November 2025</date>
+  </channel>
+  <channel>
+    <name>Afro Music Channel PT</name>
+    <id>AfroMusicChannel.pt</id>
+    <title>100 Pausas</title>
+    <desc>Aqui a m?sica n?o p?ra, e a variedade tamb?m n?o! ?100 Pausas?.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6InpxWjdiMW91dXIxdk1zTEs3OGtibXc9PSIsInZhbHVlIjoiZ1wvNW53WFQxdmhKZ21YXC9TbGZPZ2Vna3lRbTFsXC9sQjBHU1d4YWJKcE8yTEtQXC9rSFlrZ1ZRRW5zWjVZMzAxejNzaWU3dDducEdGUnZubTJTRzl6ZktQQTl0dm5wYkpCWm1ScFQxczZqSzU2eXBYRll2MnJGNmwzRlFcL1NqWW83azdrVHcxNmg1UURLanFIWWJuSmJLTWxTdm8zbStDWEZ6QlJmT2paZHk1Q2FRXC9cL0xGSUg4ZjEzcU9hUjE4dVFXQUdiRmxZeGdEMWZHNXh5NTZGTVFyMXg0S2RrcVNoRmRrcUU2dlVtTUZZZmhuU0swMFwvMGl0ZHl5NjJrQ3hIM3c2IiwibWFjIjoiNDBhOWQzZjc3ZjVjOGViNGQ1NmExOTIyM2MxMzIzYjk2ZmFmNDllZTAzZTk1ZDk3YTY5MGQxMDg0OGRhOTM4YiJ9&amp;signature=1e992ef1809103c2676aa9a3dd9147affd48b6fde1a2de13e90848a1247b8f29</image>
+    <start>11:00PM</start>
+    <finish>08:53AM</finish>
+    <date>16 November 2025</date>
+  </channel>
+  <channel>
+    <name>Al Jazeera English UK</name>
+    <id>AlJazeeraEnglish.uk</id>
+    <title>Newshour</title>
+    <desc>Up-to-date news and analysis from around the world.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IldOK01SMkpwNmM5K3cyNGVSK0RFOXc9PSIsInZhbHVlIjoiYXoyeGFzY0FtRHcyRUJIdzJ2cm5ubHB5YVhSV3Rnb0xDQUd6ckJ4aCtBZ2pWSUV0alNOOWxpT1wvXC9zeXRXazQ0Tk44UGR6TzZLYWgxMWtDZm9TQitYRGQ2TGRFNHcxd2c3cHlLeEpnTEJNWnU2R2VMblhIWFBmeUJORDZ5eFZ1ZGk3UUZobGVZWHhHUnRHVGo0TUs5UUNvTW1VWG1qeUNrTjhuV1RiMlR0bjlBZXd6dzF0Vjg2dFwvTWo0UFdkM1VLIiwibWFjIjoiOGU1ZDgxZDE5Yjc3YWZiMzA0MjBmYzA3ZmEwN2NkYTZkZmZhYmYyNjZkODcxNTc4ZTJjMWFlY2RlZmFmMzFhYyJ9&amp;signature=c1ea45249df9b27957d7e0b82758e01c807c892131d8c54cc0a575ed186b9d2e</image>
+    <start>07:00AM</start>
+    <finish>08:00AM</finish>
+    <date>17 November 2025</date>
+  </channel>
+  <channel>
+    <name>And Flix IN</name>
+    <id>AndFlix.in</id>
+    <title>The Amazing Spider-Man 2</title>
+    <desc>While guarding his city and cherished individuals, Peter Parker encounters new enemies and reunites with his childhood friend, Harry Osborn.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6ImxFTTQ1NjdTcFJTMEdrZjlBcDF0OXc9PSIsInZhbHVlIjoiWUxMQzFLcCt1WVlLTSs3eVBIQ2Zob0wrNFZLRmdpQkNWS0JHdTQ0TkkrR2VWVCtRS2FHYTRRVlozQ3lFak5pYVpmam5ySVNic3hpYldCNTVjcE1yRVZvVTBReHgzWkhcL1FOa1JYTjRiQ0YwPSIsIm1hYyI6Ijk1NDc5YzhlYzkwOWU0MGViZjUyMGIxZmNhMTMzNWU1NGVkYWNlMWFiM2ZmNGQ3ZjI2MDk0OWJlYmZkNzVkMzQifQ%3D%3D&amp;signature=000183d26c38707f6d79e11d500e77460ec16401021b0794d949bfcfc0eea190</image>
+    <start>07:15AM</start>
+    <finish>09:28AM</finish>
+    <date>17 November 2025</date>
+  </channel>
+  <channel>
+    <name>And Prive IN</name>
+    <id>AndPrive.in</id>
+    <title>Hardball</title>
+    <desc>Gambling addict Conor O'Neill agrees to coach a kids' baseball team in Chicago in exchange for a huge sum of money to clear his debts.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6InBSTUtDRmMrSlwveUhISFdXYmRlNjRRPT0iLCJ2YWx1ZSI6ImU3ZDdQN1Y3aXBUaU5zYXMrOEJucThJRDAxaldpb3lmajFsaVwvenNjZEtMUWUySW1nbzFBUlhQXC8zSndcL0NkS0VEaW5pZWdsTnNkeDJweGVVUjhsUjZxelEySXVtRk41c2VkVVdvZ1hTS093PSIsIm1hYyI6IjUxNDI0NGNkNzFiYzNjZGNlZjE0MjQwM2Q2YjllMTVlZWU5YjQ0YjMwNzQ1NGI5YzMyODBkN2NhNTVjY2I3YTUifQ%3D%3D&amp;signature=1acd1a712456dfb21cf4b209911ee96a4e15e22b8326b28376e9ebd945c48e32</image>
+    <start>06:15AM</start>
+    <finish>08:00AM</finish>
+    <date>17 November 2025</date>
+  </channel>
+  <channel>
+    <name>Antenne Reunion MU</name>
+    <id>AntenneReunion.mu</id>
+    <title>Notre temps viendra</title>
+    <desc>Rani d?couvre le plan secret de Champa gr?ce ? l'aide de Veer et Birju. Elle prend des mesures pour prot?ger son projet et ses coll?gues. Kiara comprend la gravit? des actions de Champa et d?cide de rester loyale ? Rani. Champa, frustr?e, commence ? penser ? un plan encore plus complexe.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6Imw1OVEzN0lYUVNDNzV0ZDdnWWZ2a3c9PSIsInZhbHVlIjoieTREOWJIcGY2KzF5bW1WQ2JIWkFYMGc2TEpid1ByeW1CMVwvOGVkVzVYeUs5XC9vZ3NETzF0XC94K0pjMUFlUmZEN0pcL0hvaXZEVFVKS2lOTVhFTTZkZndLUG83cEhRQ05sZEhJOVZ1ZnQ4M01iXC9JYzdJU1NpSXJ6bjd2Nit5eEhBWmtTamU0SmNCYTZjbXJRbGtUbG16bjc5VnNDQU1xWjZzd1lkQTlcL1VicHphTXduTEFBZ2JpQ3Nma2sxcFhiXC9KOFkwTVd4WkZTQkVRVVFVMnZaZ0NaNm9vMVY4R2RjSFwvWnQ4dDg2K2dHenBYYVhCWFg3cmhwdUpmTGR2QTBtZHRYQ2EwMkJEM2I3dDIwVDFaM2xTRzJvd09lblZkY3dcL05uTlpJVVVNMTBiSll4QjZhXC9pXC9pTVAyQUNnUmRYdFhQSyIsIm1hYyI6ImUzMDllYmRjYTU2ZWNmOTI0ZTlhM2Q2YTI2ZDJiNGE1ZWQxNGUzNTE4ZGY5YzNhZGJmNWMzMmVkZDExYjU2ZDYifQ%3D%3D&amp;signature=fffef24837f8ade313bd622aedfc2e602b61940ec7d69b53b4541efc623ffdc5</image>
+    <start>07:20AM</start>
+    <finish>08:15AM</finish>
     <date>17 November 2025</date>
   </channel>
   <channel>
     <name>Arirang World KR</name>
     <id>ArirangWorld.kr</id>
-    <title>EXPLORING KOREAN LITERATURE B</title>
-    <desc>2021 Exploring Korean Literature There is a growing interest in Korean literature among readers from around the world and so we bring Korean classics to Korean modern literature to viewers in this special series under three themes. What They?ve Read Well-known TV personalities read three translated works of Korean literature that have recently received attention. Kim Soom's novel \&quot;One Left\&quot;, brings the comfort women issue to the forefront of the literary world, and her book is recited and discussed by Darcy Paquet, a translator and essayist for the film \&quot;Parasite,\&quot; and translator and essayist Colin Marshall, Italian architect Simone Carena, and fashion designer Shin Ji-hye. The novel was published in the U.S. in September 2020 and a second book print was released this year. Cho Nam-Joo's novel \&quot;Kim Jiyoung, Born 1982\&quot; has been translated into 25 languages and is recited by TV personality Daniel Hicks (UK), Carlos Gorito (Brazil), YouTuber Sarah Mack (USA) and singer Punita (India) who share their thoughts about the book. Howon, a member of the boy band, W24, recites passages from Kim Young-ha's novel \&quot;Diary of a Murderer\&quot; and gives commentary. Living to Tell a Story This documentary features Korean writers whose works are not only popular in Korea but also overseas. In episode 1, poet Kim Yi-deum, the Winner of the National Translation Award and the Lucien Stryk Award for her collection of poems, \&quot;Hysteria,\&quot; as well as Korean novelists Kim Cho-Yup and Kim Yeon-su appear to talk about the creative process and how they carry out research before writing a novel. In Episode 2, novelist Yun Ko-Eun, the winner of the Crime Fiction in Translation Dagger award for her book, \&quot;The Disaster Tourist\&quot;, and novelist Ha Seong-nan and poet Jin Eun-young explain what they were trying to convey to readers through their works. In Episode 3, novelist Hwang Sok-young, whose works are mostly inspired by his own experience of living in modern Korean society, tells the story of his life and literary journey. A Word Depicted in Stories The cultural characteristics in Korean literature that encompasses Korean classics to modern novels are highlighted on this show. Six episodes with different themes ranging from female poets in classical literature, makeup culture, wine and arts, tea ceremony, pets, and a literary discussion forum will begin airing on November 5th. --&gt; &lt;br&gt;&lt;/body&gt;&lt;/html&gt;.</desc>
-    <image>https://epg.best/assets/program-icons?program=eyJpdiI6Ind1RHlKZ05HQ1FtZkVYTHp2cERyQVE9PSIsInZhbHVlIjoiWnpxNDFpQUhsWkNXVWhcL2FHVU9ZbXVhcE5aZTVzQmlycXAwS0pzSkpybldpVjBNZlNxQUdLc2ZMcjRWeTBlcTNNRjFPNlNXSzhLRlVUVHRXcllEQXB6ZVdNbjZhOWFKVnNUY281Kys2NjZwYktcL1RJVHBXRlIxNm5RZXpKMUdHd0t5Q2hqK3dsSWdqUWdLXC9CQlB6Z25wWFdBUVlEV3dvOXMrYUhQYXJOYWJYQVlcL1h1MEpsd3NhamJLKyttaXVCZ2QzbzBybFAxNDdQSUtjYU1VN0FYclE9PSIsIm1hYyI6IjNiYjAxNDdjYTM2Y2Y5MDhhMGEwZjc1ZTcyYjNkOTk3YzAwZDNkZGI5OWZiZGJjODI0ZjgwNjhjZDM4ZmMxYzgifQ%3D%3D&amp;signature=5f259c544538b349ee66cdb8f6abad25fec510fcec34c566f338b636b560080d</image>
-    <start>06:50AM</start>
-    <finish>07:00AM</finish>
+    <title>TRIP IN KOREA</title>
+    <desc>?Trip in Korea? takes you on a five-star local journey with Korean actor Oh Ji-ho and trot singer Shin Seong, exploring hidden gems and unique experiences that reveal a fresh side of Korea.? VOD service is currently not available due to copyright issues.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6InoxQ2JnQk00ZHZWMDhWZTg1ajhuYVE9PSIsInZhbHVlIjoiUVlUb2NOMlc0b3NlVkZMSWloQ3RKaXJIcTliWjZsRTFxTHUwdWp0clpaa01XTEd2VXZmdXlZOGF2dW5kdnMra09scGhaOFUzRFwvZjRzQm8xNUQzditnYiszVUszWHhKQjlVRjFBd3R4QTNDNFwvWmFNUWxaZisxS1VkOHl6NVwvOXdYZmd0V1hWRlBiWWgxMWJIVW10WHQ3ZHhaZ05FcWp1b3pEc2N5ajVoU3F6ckh6dk5WS3JuSkpoRXR6QTZkN1Z5IiwibWFjIjoiM2EwNzg1OWU2Yjk3YWJhOGNiZjg1MTUzMmU4OTBhOGZmNmU2ODdmZmNmMTI5NDI2MWE3YjQ0ODUzNDdlODQ2YiJ9&amp;signature=254bc9dbcd77f06438a9932a4ac460e969dd2b72a7f7e267268bf0b36611041b</image>
+    <start>07:05AM</start>
+    <finish>07:40AM</finish>
+    <date>17 November 2025</date>
+  </channel>
+  <channel>
+    <name>Arise News UK</name>
+    <id>AriseNews.uk</id>
+    <title>This is Arise News</title>
+    <desc>This is Arise News.</desc>
+    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
+    <start>07:00AM</start>
+    <finish>07:30AM</finish>
+    <date>17 November 2025</date>
+  </channel>
+  <channel>
+    <name>Artv PT</name>
+    <id>Artv.pt</id>
+    <title>Informa??o N?o Disponibilizada Pelo Canal</title>
+    <desc></desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6InlcL3pGY2FpdndWYW1ONFpJWTRFMG93PT0iLCJ2YWx1ZSI6IkIwVmlpT2Z5OEFHaGlxMUJ1Y092RXhYRWJXOHIrS1E3aWJ1cFphbWhJMHBOS242M2ZqMU5pK1VSOXJcL1wvMTFnaWJybUVZQzZtUUI1ZWd6ckVnb3hMcDZERGxLNk9cL3BUK3BcL1dON2FlSkZlWThoR3pLWk1hV1RSc3FuMVhCaDI1aGVBd3ZBb2FjVE1iMTZDcW10THBIekJpbnJmMHFZTlM0ZXFHK3pFRk5HenNpcVNRSDRvUE1lQlFcL1BqMVVHd3hpcW9wY3BuYjdKeUpSdjJUMVRRdTQ3QmhGWGFFWXFMY2ZMemRBaVRyMExiXC9CeHluN3hacWFkbXlIU0FCOUMzUUYiLCJtYWMiOiIwM2ZkMGUwYTJhNmZkMmM1NWMyMmJhNGM1NzhlNzJmNDkzZTczZGMyZTBkNTJmYTgxYTA3ODlhZDY0ZTEwNTFmIn0%3D&amp;signature=68e44efe192c49ef9fe5e6f9615594a71c291e988df6654cf899c8395fd880fd</image>
+    <start>02:02AM</start>
+    <finish>08:02AM</finish>
+    <date>17 November 2025</date>
+  </channel>
+  <channel>
+    <name>Assemblee Nationale CA</name>
+    <id>AssembleeNationale.ca</id>
+    <title>Assembl?e nationale</title>
+    <desc>Diffusion de divers contenus selon l'activit? parlementaire.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IlpqYTlxWTRtVWRQUUQ2N1RrdFZZMHc9PSIsInZhbHVlIjoiNFhOelhvZzRwM1wvOEtBc1wvbE5IXC9Edmp3bTJvcTlya1YwUFI4XC9qWEd2NW90R1dvUnJOd3lyMjNCZjZvZXV2RzdURkdDR1VxOGR2XC9sbmppdnRCS00xMFFYbWpQaE9NOTJ1OVpMcTk4U0F2QT0iLCJtYWMiOiI4NjA5ZDE0MzA1MjRhYWY2OWYzZWU2NDk4ZmRkNDRmYThhOGRjNmI1ZTA4Y2M3OTUxNDRjOTAwZDI5ZTFiNjY5In0%3D&amp;signature=6ef689c6f38000a74df60551073603cb65877a35808240b935f7a310e80577c9</image>
+    <start>05:00AM</start>
+    <finish>09:00AM</finish>
+    <date>17 November 2025</date>
+  </channel>
+  <channel>
+    <name>Astro Rania MY</name>
+    <id>AstroRania.my</id>
+    <title>Bukan Karena Tak Cinta</title>
+    <desc>No description available.</desc>
+    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
+    <start>07:00AM</start>
+    <finish>08:00AM</finish>
+    <date>17 November 2025</date>
+  </channel>
+  <channel>
+    <name>BBC4 UK</name>
+    <id>BBC4.uk</id>
+    <title>..programmes start at 7.00pm</title>
+    <desc></desc>
+    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
+    <start>05:30AM</start>
+    <finish>11:30AM</finish>
+    <date>17 November 2025</date>
+  </channel>
+  <channel>
+    <name>BBC News UK</name>
+    <id>BBCNews.uk</id>
+    <title>Signed</title>
+    <desc>The latest news from the BBC.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6Ik14a2xOaUlBUHJncUFHRE5TbnE2SkE9PSIsInZhbHVlIjoiSktJOWdFTjdyaExLeTdJWDFFXC9wa1FUb1J3ZlNVRU1GUEw5bEVxM0NuNmpNV1BEUG1wS1hEYjFHNEJ6dzlnMTBvbGlQaFBDSzFZa2lCKys5K2JSOW5LbmlIUmtSc1FtbTliaVhrQ0N5S2VVRHlLRUMxTnVOclZGd0FUd2JqSEFBbWZZUWNtWjBid0R0Y2t2ZzRWaWxRZz09IiwibWFjIjoiZWIzZWUyNmUzYjI3ZTI4YzNiZjI5ODRkYjIzMGNjY2E0ZWQyNDI0MzJlYmJjMDNmMjRkZGM1NTM5ZDJlZThhZSJ9&amp;signature=280a8fa50256616bf17741fc8ac453c55684139d7291ad6c5acc5ef6b0e5ac45</image>
+    <start>07:00AM</start>
+    <finish>07:30AM</finish>
     <date>17 November 2025</date>
   </channel>
   <channel>
@@ -75,39 +265,559 @@
     <id>BBCOne.nl</id>
     <title>Breakfast</title>
     <desc>The BBC's Breakfast programme features the latest news, sport, business, weather and other items on a daily basis.</desc>
-    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IjE3UEhmR2g3SVJoeVV4ejlGUnJMR0E9PSIsInZhbHVlIjoiTzdiV3U5NnZFMnRSdzFVMmd2K2F0aTFRWENwQ21YdXczNFM5c1p6OUVES29OTjhBb0pRTlh0bVI2M25XRjVCSHFnckE2emFobE10SEozdG1OTGRxSGdKUkF1MysyNnN0T2Z0M045ZCtFSWdicXQxdytiS2FDMXRUWnpzeXFTdG5Md2VCbjExQjBIZGJ0UkQ1aXhHRDAyRU1VQ29ZWmZpVUVmXC9oaEpBMW4xemk0Qk04UnMrUU1qbHhCSGdJOGZLUiIsIm1hYyI6IjA0OGU2NjczYzUxZWRhOTI2NzUzMWFlZDQ3OGVkYjBkNDVhZWRmMDM5ODE2NDgxNjUyNjM0YmYwN2ZlMDg3YjEifQ%3D%3D&amp;signature=e759620c03099afbdd5c9cd6b9bfbf3b46e9b3c3f1d9c1ef8433215e98275551</image>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IkRhTldnM2dUcGVcL2o5UjROVzl1TUxBPT0iLCJ2YWx1ZSI6ImF5a0J1NE5VeE5FVEhiWjF4OVcrU1dPTXNVZUo1ZnhhNnR2ellJOEFhV2t6SlNwcVpIa09JeThWOVZSb1BVRVRZdEtwcTd5T1BBd0twTmVaZzBLNlBjejBqYTBqcmhqNXlMT2RkbUV6TXF2enMxZ0QwZmlaeEFMU2FvUHlDVXpmQ3ROWVFqQkRSY2RsYkQ4NVJ4NFRqekpPTXlWRDgwazkzMWZVNDduRkR4Z0duVlRxUnlpYnEybFRmV013VlVlNCIsIm1hYyI6IjRmNDk1MWU4OTI0ODY5MmIyYWFkZDBiNDI4MDI5MmRhNDc3MTNjNzhhYjBjYjJmMjlmZjllNDM2MzdkZjIzMWEifQ%3D%3D&amp;signature=199d4e86f6f06d754ed598a0e71e59fad0178cfb1f2177c14f2e1e75740006da</image>
     <start>06:00AM</start>
     <finish>09:30AM</finish>
+    <date>17 November 2025</date>
+  </channel>
+  <channel>
+    <name>BBC Parliament UK</name>
+    <id>BBCParliament.uk</id>
+    <title>Westminster Hall</title>
+    <desc>House of Commons proceedings in Westminster Hall from Thursday 13 November.</desc>
+    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
+    <start>06:05AM</start>
+    <finish>08:20AM</finish>
     <date>17 November 2025</date>
   </channel>
   <channel>
     <name>BBC Two NL</name>
     <id>BBCTwo.nl</id>
     <title>Antiques Road Trip</title>
-    <desc>England's north west gets a visit from Roo and David. One goes for gold, the other is into heavy metal. And both aim to score at auction.</desc>
-    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IlVKOGowRkx5MkluZlZGTjY3S2xObnc9PSIsInZhbHVlIjoiMWpKSjRLMmJwUm5aOVFkc2R6aGJPeVlXaXhWVk4rWGhhNFc0Y1NJdHQ1U29kcEdoMTVmVVgyUGJWVnN6RXlNSitjU083ZXRVOXB0NVNaQ2R0aTFNWXV6QTRHTW9SVXh5T25vekJjbTRKb3dcL3I0Wml0YjVnVm9TRlFiV0x6amdiMmxjaVdJV3owWGUrTk5jQkpLUG15WGtBemRKSGNxK0FaYWFWeUFaSHVrZ2E1blkxVTBXVExBdVZ4U2JRODNjbCIsIm1hYyI6ImMxZjY1MjExMjI2YzZlMzBlYjI0Mjc4NTZmNTMyZWUxZTgwMzE2YzI1N2FhMTQ2OTk3YTA0ZTk4MDliMTQyZTAifQ%3D%3D&amp;signature=4050c3a768f550163d60a9beb8ee183e6cc739166e55eaa4941331e1759a7d75</image>
-    <start>06:30AM</start>
-    <finish>07:15AM</finish>
+    <desc>Roo stirs it up with spoons, and David buys in bulk, as Wales welcomes their final rummage. From creepy crawlies to curious collectibles, who will win the final saleroom showdown?</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6Iks2cU9HenhST3hxWUdvRkVSOGljXC9nPT0iLCJ2YWx1ZSI6Im5ZTUZCM0Z5MXpSbG1wZW1pcWtGRkowcDlWcFV1b3lLVDdFbm5ocDUxbGFvVnI5Y3BwclJvUHVteWtXWlwvZ1VmaUI5UnB1Q0FQd0pmYjNCTFQ2VzJFYWhUTVNqa1BFXC9XdjdZYmhmbkVZSmxCRE51YzMrdHRkMG9SUWVrN2F5NTlpUGkwV0RqSGYzdjVWOXdubEZMUTQ3RXpBWmxjbzdPb1NJQUFTVDU1OEx2YmZDejBrdDh3ZkozZjNCWW1LRkNtIiwibWFjIjoiMzUzYjk1MTVjMmU4MDgyYjg3ODgzZTg0NjgzYTFkYzA5YjJkMDBjOGJhYjlmYzAwYzA4MzFjYThlN2ZiYjcwNiJ9&amp;signature=c840a0e5d570706c99f8dcb163da09a7273d7383e8a0cca045d6cc6757b00c39</image>
+    <start>07:15AM</start>
+    <finish>08:00AM</finish>
+    <date>17 November 2025</date>
+  </channel>
+  <channel>
+    <name>BFM Business Fr</name>
+    <id>BFMBusiness.fr</id>
+    <title>Good Morning Business</title>
+    <desc></desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6Ik11bjdhOTdxK2RIYkF5aEoxVGRDOHc9PSIsInZhbHVlIjoiTmxQTStaNHZaaExhelNwS3E3OGdyK1k1R3ZlMVhCckRBWjhweXZjYllrbmxYVlwvd3VjMTRldzcrcFUrbmgzYWY5STRcL1pRQXN6TVVlMjk4R09WYitFeU5Jd0dBSlFaeHh2SWZOQUo4RVQ5TzRKOXR1YkQzR0lSTzZlQVpcL2xUbngiLCJtYWMiOiIwNDQxOTJjOWEyZmUyMWI5ODRhM2ExZGVlNDY1MDA0NmIwMDdlZGNiODgxNDQ5ZDMzOGNhNWVhNTc5NzY0YmI3In0%3D&amp;signature=86d060842e1879806aa5a361091407c0317cabe79c41c3d75fb82d296c0a986d</image>
+    <start>05:00AM</start>
+    <finish>08:00AM</finish>
+    <date>17 November 2025</date>
+  </channel>
+  <channel>
+    <name>Band Sports BR</name>
+    <id>BandSports.br</id>
+    <title>SFT</title>
+    <desc></desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6InptN29VYlNjcnlZMHpRTkpPbVVMbWc9PSIsInZhbHVlIjoicGpqWmltdUpaNjhYMlNYOHJWNk9EaHZRMlNCZTdxWTlidDhEdG5mZXBVQ2NvRDNUcWFrK1hmZTU0NThTdVl0bEZzNjdlME53T2s4bk13T05NZ2l2ZlwvQVcyb1FJemhPN1FJSG5xUFZwaFRTekkyT0Flck1iUldsTVlRTHBGUjZiczQwcTd2czlQRG1cL1J3NENJZEo2Ymc9PSIsIm1hYyI6IjExNmZhYjE4ZWU3ZDI5OTc2Zjk3MzkwY2Y4MDVmNGEzMjUyZTcyNjA0MzNkNGI3MGMxZDJjNDg5ZGZhZjIzMmIifQ%3D%3D&amp;signature=6f1e0dc20cfcc2e8a166d466ff735b5ca55e5b5a312a53e3908cf1af7e387236</image>
+    <start>07:00AM</start>
+    <finish>08:00AM</finish>
+    <date>17 November 2025</date>
+  </channel>
+  <channel>
+    <name>Bloomberg TV MN</name>
+    <id>BloombergTV.mn</id>
+    <title>??????? ???????? ??????? ??????????</title>
+    <desc></desc>
+    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
+    <start>07:00AM</start>
+    <finish>07:30AM</finish>
+    <date>17 November 2025</date>
+  </channel>
+  <channel>
+    <name>Bloomberg TV US</name>
+    <id>BloombergTV.us</id>
+    <title>Live: Bloomberg The Opening Trade</title>
+    <desc>&quot;The Opening Trade&quot; explores things to know as markets open across Europe; analysis that isn't available anywhere else, a break down of the biggest stories of the day and top guests who have skin in the game.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6ImVqV2JZOHY2VTl4QVNJNHBUeUU5a3c9PSIsInZhbHVlIjoiSDdnMWNuTk1TTWRLS0dZdlRrY0xmYWVtTk5rVTlxTHo1OEswaUdndytHYXVJSWhDWlFtcVRXSk1BRkV2VWFQRkd6Z25tNmpUSDJcL2ZheFFBNHp2Q2Z6ajU2SlpYaXNXTDdBQ0t6enpDTk1DZHpIWG9aN3VPSUJ3YkRvdTNBN0JcLyIsIm1hYyI6ImUxMzdiMGY2OThiZGM0MzkxOGNjOGYwMTc3ZjNiODljNTc1YjZkY2E5MjgzZDc3YTdhNDJmNDg0Y2VmOTY0ZGQifQ%3D%3D&amp;signature=d23d8dbd60486388348da9130e1faeea05b81385ade0e1a5f55014520641b70c</image>
+    <start>07:00AM</start>
+    <finish>09:00AM</finish>
+    <date>17 November 2025</date>
+  </channel>
+  <channel>
+    <name>CBBC UK</name>
+    <id>CBBC.uk</id>
+    <title>Dennis &amp; Gnasher Unleashed!</title>
+    <desc>Dennis needs to pull off a magnificent stunt to save the skate park from closure, so Gran gives him the skateboard of the legendary Kendo 360 to help. When the special board goes missing at the worst possible moment, Dennis needs to dig deep and realise that it's the skater and not the board that's important.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6ImQ3SXNsenFyZXN3VlwvckRrZ0pLQnh3PT0iLCJ2YWx1ZSI6ImlkTWVaTUdaVnd6aVFZcnkrY3NtYnM4QUdRdWkwa3ZIM09aYlJ3QU1OMUJTYWtONU0zKzM0N3JOeU55SWdZWUNhZkdtdmY3Wllhc2VKak13OGNpR0d1UmxBZzFVaXpQWXNRUjBsbGVQSGNhdHc1SEFLVTFBZ2VKZm5haEV3QU5xIiwibWFjIjoiMWU1NGFkYmI5MmE3NjZjY2I4NTg4YjAwYWRiZDNkNDVjMmU1YTE0YTU1OTI4MjdlZTYwNjgzOTdlODEwNzk4MiJ9&amp;signature=10cebbd049b418042e1a3405407a9bb0b9c60ec8eec29be6c7604d01215ee4cf</image>
+    <start>07:20AM</start>
+    <finish>07:35AM</finish>
+    <date>17 November 2025</date>
+  </channel>
+  <channel>
+    <name>CBC Toronto CA</name>
+    <id>CBC.ca</id>
+    <title>The Nature of Things</title>
+    <desc>The world's largest breeding colony of grey seals is found on the remote shores of Sable Island, Nova Scotia.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6ImU1THpwNU93Qk5jOXROUWw3UWR1c2c9PSIsInZhbHVlIjoiMDl5ZXVsU2taM1JDU09KUFRyQmRVY3JheHM3RFNqN2hPTXNiVCtNeGltWGNIZFl3U3BxdDJ2NnlzYkhPdUdockZQSFdycEI3Z25rZzhoc2phYWFRYjh0YzRoUzBzMFVsQU0zTEk5YkxVdkdRYk0rbWJONUJ3cHFWbWFndkYyZnJ0Q0ttanFrZjBRSW5JcFhSM25scWlNaVZcL1dcL2t1TFFCYmhjeGlTZFp0ZXlHY3JNUW9jdGtLS1dqRmNlcUE2bHQiLCJtYWMiOiJkNWU0MmVmNDZkOGVkOWY5MTY0NGFjYTk3ZmQ2YzQzNzNkMWViNmI2YjhmZjA3ZDg3N2UzN2VjOWVkM2NiMGZjIn0%3D&amp;signature=dad3c11330ee3d380357ac8055966792949816c9bd1b981930ae1c83f26d8b11</image>
+    <start>07:00AM</start>
+    <finish>08:00AM</finish>
+    <date>17 November 2025</date>
+  </channel>
+  <channel>
+    <name>CBC News CA</name>
+    <id>CBCNews.ca</id>
+    <title>The Nature of Things</title>
+    <desc>Worldwide weather systems are starting to break; how air, ocean and even lava currents are changing in unprecedented ways thanks to a hotter planet.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IkpnT1dLdnR2XC9PK2pRVVpBYXpMZlB3PT0iLCJ2YWx1ZSI6IjlhT1RkTGY0cm9FRldXa01NVXdkODFNRm1jb0NVTkt5eU8wWnA5UUJpXC9wdTUyRkRxRWI4TGszR25ZM3NSUytUSHpmVVRuYlpIZGh1YTBwOE5wUzE5aVVRcUVuSGxIeXIxT01LR1FRa2c2RT0iLCJtYWMiOiI2OGI3NzA5ZmQ3NmQzZDMxM2VlZjVhZmUwODg4MzQyZmE1NzIzNDg5NTQ2NmIzYzI0NjA3MDM5MmZkNTk4ZGJhIn0%3D&amp;signature=28f8be997258c0036642316ffaf39f8c1be732fddc9912300be2753bf8c4a37f</image>
+    <start>07:00AM</start>
+    <finish>08:00AM</finish>
+    <date>17 November 2025</date>
+  </channel>
+  <channel>
+    <name>CBC Ottawa CA</name>
+    <id>CBCOttawa.ca</id>
+    <title>The Nature of Things</title>
+    <desc>The world's largest breeding colony of grey seals is found on the remote shores of Sable Island, Nova Scotia.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6ImM0ekRsN0xKb01OK0ZEK2JiZ2RhaFE9PSIsInZhbHVlIjoiRnF5eFNZWWhCYWF4NDFEekEzR2Y1bWVZXC9rOGVwamJIdWcwZUIrYk93aXdzUHBnWm5Hb200WHpPdU9JMnpIWkVZWUxRZG42ZmdwcXJVVlVWUEpOeUN3VjY3d0dMeWFiSmtERkNuS0ZaUlwvQT0iLCJtYWMiOiJhZWYyNjNhYTRjYjQ3ZmQ2NGU3OWFjOTgwOTQ4OGQ1YzFhNWE5OTBlZjk5NTZiOThlMDZkYmE0YTg2YjQyODhjIn0%3D&amp;signature=c55d3152cd296acfa3f614d798ccb439f55cb2be3e64e5a8a3f16b556b00ca2f</image>
+    <start>07:00AM</start>
+    <finish>08:00AM</finish>
+    <date>17 November 2025</date>
+  </channel>
+  <channel>
+    <name>CBC Vancouver CA</name>
+    <id>CBUT.ca</id>
+    <title>CBC Vancouver News</title>
+    <desc>The latest news and weather.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6Im95N1RcL1hTMlc4R0tlU0FVOEpDRmt3PT0iLCJ2YWx1ZSI6ImNBZFZqaXR4WStvYUgzM0R5WlBmOVVlV0g3ZHF1OGRxRTBjNlVhaGpiRDFqWDNSa255aFlUT1h3OGNoMlFzTVZrVzlvMm9XSjZKM2hLdXhIVFlTbE5cLzBCNTB3aG5HcSsrOEQrYkkrTnU2VW4zRVhnZGdqU2lCVHlSSkl0TGdveG9yRWwweU9pbXM0NE1VMEFncWs5NThKa3JvNHhCZGhGOWU3S3pYXC9mazFHWUdGYkJKRVM5UElmd2ZJNWdiXC9ORCIsIm1hYyI6IjhiNTVhZWZlNzg5NmU5YmUyNGQwOWFhMmEyNTM4N2U1MjhhZGRmNDZmMTM0MTBkNzI0YjJmMTNkNTMyZmMxOWMifQ%3D%3D&amp;signature=b09f7cdd6981857c5b3ce39f70fe7ad9f94166d976ad15a6aeaac97703dd0ed4</image>
+    <start>07:00AM</start>
+    <finish>07:30AM</finish>
+    <date>17 November 2025</date>
+  </channel>
+  <channel>
+    <name>CBeebies UK</name>
+    <id>CBeebies.uk</id>
+    <title>Bluey</title>
+    <desc>Relax. Bluey and Bingo would rather explore their hotel room than relax on the beach.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IkIzK3RVVldCTWxlU2g0clJKWHpRK2c9PSIsInZhbHVlIjoiOWFncytWNURubzhRU3VtdVpzQmFtWmRrRXNMU200eDRCYjVxMzhcL25YR3RSdkE3bTBkSXlSdUoraGRyejVuWE93M1wvMG0rMHBUT2FGaDZNVnRGSFFUUFFEdldDK1wvUXJaU0JBeVlXdXM2OGpuSlJJQjZCMDR0Z2lpTU1GUU1XY2ladFFnZTkxeVlzaXVOTkE3VmhjSDJBPT0iLCJtYWMiOiI2NzE1OGExZTQwNjdjZDY2ODVhNGQ1YmFhODc4NDQwNTI2N2VjMGRiMTNjYzVkZGNmMGZlMDY1N2RlOGZiZTUzIn0%3D&amp;signature=293d7f4f03f5aff64c1b57213b1fc3eea0972515578636dfd566f2d1708353fc</image>
+    <start>07:20AM</start>
+    <finish>07:30AM</finish>
+    <date>17 November 2025</date>
+  </channel>
+  <channel>
+    <name>CBC Yellowknife CA</name>
+    <id>CFYK.ca</id>
+    <title>The Passionate Eye</title>
+    <desc>Sailing around the world alone, for 300 days, pushes these sailors to their physical and emotional limits in the Golden Globe Race.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IktCOXRYV0pTaDVBM2x4eU1VenBEcUE9PSIsInZhbHVlIjoiWjZ4Vk1jNEdBdlpvRzNsWVh3dlg0Rk9rRVZqdzlSVDBxVkI5M0VaNXo1R1wvY1hzXC9adE03blJ1K0tiRDdRUHRWQkVWb21ydGxcLzFaOVh4bVhSRTB4cERmeTBwXC80NGdxeWRHWGpqZHNlOVJRbVZrT1lZR0k3N3VVWHNLcml2aStCIiwibWFjIjoiOWI2ZjM1Y2MwM2RkZDUyZDc3NTM0MmFmY2U4OThiNzVkYzlhMjk1NTE1NGVlZmMyOWQzOWIwMzFhOTBmZWNkYSJ9&amp;signature=e4d90b2e7fa9b2aef3e6f6fb6aba606cd97b0cf83ae801ef3d1fd0aa62a17d58</image>
+    <start>07:00AM</start>
+    <finish>08:00AM</finish>
+    <date>17 November 2025</date>
+  </channel>
+  <channel>
+    <name>CGTN-Documentary En CN</name>
+    <id>CGTNDocu.cn</id>
+    <title>Youthful China</title>
+    <desc>The youth of a country is the future of that country. A series of documentaries focusing on the younger generation of China in which you get to see what they are achieving and what makes them tick!</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6Im9hN3ZNT0VjaEE0emRRNzJzc01oSXc9PSIsInZhbHVlIjoiQktTOW1iVStpV0N5VW13Vk5IMHR5T3pnSnVDK2l5a1NaeXBjZ0NcL1lIR1pSOStmRGI0Vlo0XC9UYmhrR1wvSXFaVWdWNmJlNG02Y2pQTVprZHdcLzdyb1BDZzJCajMwbXRqS3ZMMFhmMlwvTjh1TFBneEV1VTdycHBKOEpuT2JNNUIrcDY3eEZWOHlaVm13OXFERENtVnp5QzlTRWNNcGladEp1dWNxRytodEZhNlwvYlF2VFBBYXJIUVc1ckJtZ2FDNzZcLyIsIm1hYyI6IjIwZjE1ZWI5MmUwMzc5YWM4YTA4ZjJjZTcwMDUxYWQxMGM4OTFhMjRiYmRjYTMzOTNkZGIwMzQwOGNlNGNiMWIifQ%3D%3D&amp;signature=025cc2e11db3469adc051dea1a577b332a4e7f901417d893f9314da011076b73</image>
+    <start>07:00AM</start>
+    <finish>07:30AM</finish>
+    <date>17 November 2025</date>
+  </channel>
+  <channel>
+    <name>CGTN French CN</name>
+    <id>CGTNFrench.cn</id>
+    <title>Le journal</title>
+    <desc></desc>
+    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
+    <start>07:00AM</start>
+    <finish>07:30AM</finish>
+    <date>17 November 2025</date>
+  </channel>
+  <channel>
+    <name>CMC TV US</name>
+    <id>CMCTV.us</id>
+    <title>Music News Recap</title>
+    <desc></desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6ImJWd1ZDV0lCMlwvVXJjMk5Ybzc1VG5BPT0iLCJ2YWx1ZSI6IlBjNUlWdG9ZbkJ1QlZzNXh5M0hHMGlzY0t2ZnFXdjNXb0VONnlcL2ZOTkNNMUR1OVhJU2IwRnRsVmlRckVJMFRWYkEzdUplZHBlYzNqSFRkZjJCOFZ2RkJSc0V2czhZXC9RV25qeGkwMHpFa3JrYkgrUFR2MkNtakYzOVFFRG1CR0wiLCJtYWMiOiI5Yjk0NmFjMjhjYWE1ZTY0ODc3ZjgzOGVhM2I5OTIxNDE5YzY0YTBlMzgxMzljOGExOTk1ZTNkN2YwY2UwMmQwIn0%3D&amp;signature=c26e39e524d01dec73d81418b42d76b652e634209c79a3ef72f432db4a97fe99</image>
+    <start>07:00AM</start>
+    <finish>07:30AM</finish>
+    <date>17 November 2025</date>
+  </channel>
+  <channel>
+    <name>CNBC Awaaz IN</name>
+    <id>CNBCAwaaz.in</id>
+    <title>Midcap Mantra</title>
+    <desc>The host presents the latest business trends and updates pertaining to mid-cap companies and interacts with experts for their opinions.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IlwvdWdla3dISWw1SmtlOHp1WTVvb2hRPT0iLCJ2YWx1ZSI6IlpwQzFRSHZZMXdyYStMQ21PSkVOaGo4WkVLTjFuU0hsRnBSWnNQVFI4T1wveERScU5XclBVK1MyODhmNWh6TjF4dXVzc1dLSVQ3YXhxXC9CSEJsYms1UnlSckl2NE5haW9maWNJK29HRERzdVU9IiwibWFjIjoiMmNmN2JiNTdjMGYwNTRlNTMyNGE3YjM5Njc4Mjg1NjAwZWZhMzRlOGU3MTY1ZDY1ZjU3ZDM2MDIxZTA3N2UxNCJ9&amp;signature=bced8a0493c8556007d0c0e21c1154a2335a58845ef9e0a3ff8ed9614bf35d2a</image>
+    <start>07:27AM</start>
+    <finish>07:57AM</finish>
+    <date>17 November 2025</date>
+  </channel>
+  <channel>
+    <name>CPAC Francais CA</name>
+    <id>CPAC.ca</id>
+    <title>Politique provinciale</title>
+    <desc>Questions et r?ponses orales de l'Assembl?e nationale du Qu?bec, 13 novembre 2025.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6ImVnOUdwc3BzUjZic0FOMjhrWU5zXC9BPT0iLCJ2YWx1ZSI6InF1Z1Q4YURxYThBQlRRMjUrQ3RTcDhOckNcL3NIeWRyYWc5RnBXXC9obzdVQ1ZBVk5lc0ZqaTFPa3JydnZRS0RKU2owTGVyVkV2YXFoZGY4cTVpQzd1ZkV4ODZTVEk1SUtQUjBWSjgzSUJnalN3bTdjZ00yS1NqXC9SYWRCSkptMUJjIiwibWFjIjoiMmM2YWFjZWVmNzg3ODQ5N2MwNWE0NjdhZjc0MGRmMzBkOTMwOTA3MzkzOTQ1OTJiNjRhMTZmNTRmYjYzNTE3YSJ9&amp;signature=6b6b1b67e118bce9b0f06206df9643e8b7164548dc8844a73ec4524afd6d49a0</image>
+    <start>06:40AM</start>
+    <finish>07:30AM</finish>
+    <date>17 November 2025</date>
+  </channel>
+  <channel>
+    <name>CSPAN US</name>
+    <id>CSPAN.us</id>
+    <title>Public Affairs Events</title>
+    <desc>Public affairs events, congressional hearings, speeches, and interviews.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IlhTR2FzdHVvNUMzS01QeWVwb1FjdEE9PSIsInZhbHVlIjoiVDFORmpqVXVPTUVcL0c4TkloNHhJSU9LUm9JQXdpU0NneUtcL20wWEY2bndSeU9MQVh0TlBkc1hHUmE2NkhvMmlUczVpc1pVOGtcL1pZZlUwa1JEeHFIajczYlJLMDMzRURFVStIMWQ5TnZsajlnY0JnQ2pxYTdTck5yZlhpU0k0M28iLCJtYWMiOiIyMWU4ZjlkOGM2NGFkOTViODA4MjczMDNhYmM1NjNlMzMzNTYwY2YwNGY2ZjU3NmRjNDBmZjA3N2YyMjliZTVkIn0%3D&amp;signature=7540c92f256a71b25c21b3a010bcc8318191e7f2caa636453bbf153568eee7c8</image>
+    <start>06:40AM</start>
+    <finish>11:00AM</finish>
+    <date>17 November 2025</date>
+  </channel>
+  <channel>
+    <name>CSPAN 2 US</name>
+    <id>CSPAN2.us</id>
+    <title>American Social &amp; Political Systems</title>
+    <desc>From the history of American democracy to big tech's role in today's society, we present coverage of the 2025 Brooklyn Book Festival held at the Brooklyn Law School.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IndJWGR2T0orVUJrblgzRXRuZFJwdXc9PSIsInZhbHVlIjoicGxBN1ZuT3B0MDk2RDJDd0NMSjZ5aEhvUVpDVnR0ZXluT3FYQ1Mxb2pyTUFkaFU2QnJrSVVZYkQydW5LWWpnMnBjTTk5RG93d2JEZG81RGw5QkZSdTVxMGR5c0ZKZzZ0V3JYbUJcL3NQVGpRPSIsIm1hYyI6ImYwY2VhMzA3M2UyNGMxZDU3MjgxMDUxNWU1YzRiMjc3NDI3YTBlNzFkODdmOTVmMzhjOTQ3ZTgzZDBlZjk0NTMifQ%3D%3D&amp;signature=fe4ab0cb074be9ca05c9493a78a4c67941f3ae9ec5f7a9610c3db3e35b998df2</image>
+    <start>06:56AM</start>
+    <finish>07:46AM</finish>
+    <date>17 November 2025</date>
+  </channel>
+  <channel>
+    <name>CSPAN 3 US</name>
+    <id>CSPAN3.us</id>
+    <title>2025 Texas Book Festival</title>
+    <desc>Book TV presents coverage of the 2025 Texas Book Festival in Austin.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6Ikt3OVcranFHYkVOalNcL1pLOExsaUtnPT0iLCJ2YWx1ZSI6IlEyN0VsQUxVbUcxckF6MFlyczVNM1RpclhPQlpiZVZ2ZUlTamtLbGN2Q2JlOEpvTHIzclFKaFRWOGVJNXBRaFFaWWltczFJdStxdk9qV1NJZW1sMXJBa3JENXNUOXFnSXdvdU9BTkN3N2lpZFBkSDFCYmVoc1JDRTFuMFlcL0xcL0QiLCJtYWMiOiJjMjUyYjA1MjM4ZDk3YjkxNmQzYzZkZjNiMjViNjJiOGI4YWYyMzYzODQ1YzAxMTA4ODA1NWViZmQyZTYzYzc2In0%3D&amp;signature=ce8de175810929a94ad252703e660f1defd0712695a45ea1364291621dc61444</image>
+    <start>05:30AM</start>
+    <finish>10:15AM</finish>
+    <date>17 November 2025</date>
+  </channel>
+  <channel>
+    <name>Channel News Asia IN</name>
+    <id>ChannelNewsAsia.in</id>
+    <title>Through Time</title>
+    <desc></desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IkhkNTZ1ajlCNDNpRVo4Vm1EXC9WQXh3PT0iLCJ2YWx1ZSI6IkFmRTlLZHNNaFBoZGI1cGxYeHlQME9pWTVZeWpsVUZackd2M3I1UHFBVitFcEFOVUJ2VUQraVdiRDlhRG9kVFZ3YXYwNjc3ZVprbU1mRUNZV29xVDEyQUt4VGNaSVZRS1wvOTBPTjRSMUNEM1VnZUlTdHpCQlpKQ2R1bVh4TGk3aCIsIm1hYyI6ImM1MWFmZDc2ZTRiNmFiNjc5ZjgzNzZiZDVkOGMwYTMxNzY2MWUyOTRhNmVhYmJjOWFhYzE2OWZlMDEwMGU2MTMifQ%3D%3D&amp;signature=962a90398260b3d36a8687027f8f4b0b8fd8059850d69ec943d349b1eb9acff8</image>
+    <start>05:00AM</start>
+    <finish>08:00AM</finish>
     <date>17 November 2025</date>
   </channel>
   <channel>
     <name>Classica IT</name>
     <id>Classica.it</id>
-    <title>Fuoco di Gioia 2024 - parte 2</title>
-    <desc>Gala lirico benefico organizzato dal Gruppo Appassionati Verdiani Club dei 27 - con D.Rancatore, B.Mazzetto, M.Muehle, F.Longhi, Y.Dong - Filarmonica di Parma - Corale Giuseppe Verdi - V.Galli, dir. \(Parma, Teatro Regio\).</desc>
-    <image>https://epg.best/assets/program-icons?program=eyJpdiI6Im1XTko5WlRKSDRGeGNTOGNCR2pVQVE9PSIsInZhbHVlIjoiU2RwOSs4TkFNdjRWRnVYUWFteW15NTE0VnZ5U2MxUEdKVklpbWNxQVpWUnh1SUc3RlFKalJoMUhQWFRpbXBkMU4yTzRtV3Rid1JMUkdqU1wvYnV4dXN4elVzSE44ZXllNENRbTk5ajduS1F1SUY5Nm5vSmwxV3pvVTBVcU1iZE1VenR6dFNwcXBOUkZpc1B1WkdrOFVIeXVVK09cL0pQdTZcLzZTVjVob3ExeTB6XC9kdFg2UmJJXC8reVVhUDJVSktzUFlYNDNrOFwvMCtIYXFLa2V0SzRcL1c5WjJmT29nS2QzM2tPVTY5bVpqdG9nNVk9IiwibWFjIjoiNjYzNTgwZGY0YzFlNWE1ZWMxN2VhYmFhNTAzMmZlNjU3ZTlhZDFmYjI1ZGIzZGVlMWM0YjhkNjY1ZmE0ZmExZCJ9&amp;signature=8f1eeaccf300c2feda436bdbfefc1224f097e3b66f30143220c8e2802060ecd2</image>
-    <start>06:00AM</start>
-    <finish>07:00AM</finish>
+    <title>Mozart - Don Giovanni</title>
+    <desc>Opera in due atti \(1787\) su libretto di da Ponte - con K.Ketelsen, A.Anger, H.Muller, S.de Barbeyrac, K.Lindsey, P.Sly, P.Nolz - Orchester der Wiener Staatsoper - P.Jordan, dir. -B.Kosky, reg. \(Vienna, Staatsoper - 2021\).</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6ImZKSkRmMk56cFdSc21VaDhlQURhdXc9PSIsInZhbHVlIjoiaDB1a1p1eE04cnRjS3Q2TlNxejZiSWxaVWE4Znd5RSt4U2I1VUNWNkRlS3F4MkdlYmI3M0FYSXY3VmNIRzFoZTQ4OUtpTmRBU1ZVQXNBd1pXN25VYUZKbWZlbmxkaXp2WjZRNTlpQlFHR3NKSWMzRnlcL0t2Z0NqbjBaNlwvOHVGRjNpY1FUMTJScFFMVlp6bWdOQ3J1QzBKMEJMa2c4N1Z0Z0ErYjJhXC9IK0JYZkZ6UjJMYU5wdWk1OWJ2VjJLYVNPK29lV1UyMjdSRTRBeGRndWtUQWs5R0hXSGVSYkN6Z1N5ZDFNSStKU2NOTT0iLCJtYWMiOiI5YzdkMjhlMzA5NjYzNGU5YmVlMWQ0MzllMTJkMjI2MjFkOTM2Yjk3ZWYyOTMwMjJlODBjOWJmNjVmZjE5NjNmIn0%3D&amp;signature=22dbc90082836433241a2accefb79914379701bddfa83f8820f9dc530271bc4a</image>
+    <start>07:05AM</start>
+    <finish>10:05AM</finish>
+    <date>17 November 2025</date>
+  </channel>
+  <channel>
+    <name>Comet US</name>
+    <id>Comet.us</id>
+    <title>100 Degrees Below Zero</title>
+    <desc>Several rogue scientists attempt to reverse the effects of a deadly new Ice Age.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IlhDR25JRXZkeTBia2h2R1I0dmpwaEE9PSIsInZhbHVlIjoiWTdqbzhZcnZuK01Sayt2UGdwWStzMlp1emE4anM4Y1N4ZEhOT0JrRFByQ3RlSHJPK0o4MlF0YkN4S2xzWVh5dWZVN1ZTazdQd1libG5CMWdYeGtSSE55NXBqTXAxZEp4WnVoY1hDc0dVMG89IiwibWFjIjoiNDJiNDgyM2VkMmYxYzhmYzZlMzg0NDgxYTY2YWIxZGRjYzU1OGMzZDczNDY3MjgyMmM2NmQ4YmMzNTI5ZjE2MiJ9&amp;signature=2ae2b1c2fc62e44ccd2eb6aa9081e23ed911fd3fcf224db9cbda8bc5428c1dcb</image>
+    <start>07:00AM</start>
+    <finish>09:00AM</finish>
+    <date>17 November 2025</date>
+  </channel>
+  <channel>
+    <name>Cooking Channel US</name>
+    <id>CookingChannel.us</id>
+    <title>Yum and Yummer</title>
+    <desc>Using this small but mighty ingredient; Hazelnuts can sweeten a savory dish, peanuts can bring a bit of saltiness to a dessert, and pistachios can add a crunchy texture.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6InEwa3h4S0ZYMmVqUDNqNXFiMW9RYmc9PSIsInZhbHVlIjoiRW9takZKZ1kyQ1J2dE01Q2lzXC9OZGZTZlVqdUZzTnhpMVdpbE5MdU1kMVlJNFY3ZXdFb0tJWlVySFduYWhFeE5CK3J1OU9oMXNXYkJDWU5YZmhFR2YrSXRSMlZWelF6QXREOWtSdHN2UFdVPSIsIm1hYyI6IjRhNjc0ZmQxMjcyYjJjMzRjZjFkZGVjNzEzOWI3NTdlNGUxMTRiZjY0MmQxNGU0YWI2ZTNjMTI0ZDkzMmRiZGEifQ%3D%3D&amp;signature=e438d5e31979a6e2421c8cdc68a9bc958a15215ee53acd644506bd1bfc83a432</image>
+    <start>07:00AM</start>
+    <finish>07:30AM</finish>
+    <date>17 November 2025</date>
+  </channel>
+  <channel>
+    <name>DD News IN</name>
+    <id>DDNews.in</id>
+    <title>Express 100</title>
+    <desc>Presents the latest breaking news and updates on various trending topics.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6ImJsd3RlZzJPeDhFelZxaDN5eHlhZXc9PSIsInZhbHVlIjoiUU5YVEhKTTJmOEdUVG1NbEx3UUVKblBmRVFuaGVBdmV2a0ZSc2FKM3F0MDl4UXZ3V0wyQjFPWkRtU0xjakZha1pyNm5lUTRUTkZSN2NLdVNPNURYR1F2eWZyMHJEeWZYV1lXaUFRUzdnMWM9IiwibWFjIjoiZjJjNzg5OTY4NGQxN2E5MjZjZWVjZmM1MWUwNDVkMzM2ZjNjYThhYjYwNmNiN2I4N2I1OTY2MjgyMmYyODNjMCJ9&amp;signature=361d26fb16aadc7fc7227558af08f89e9c02500cc61700146803ed0994f4b50c</image>
+    <start>07:00AM</start>
+    <finish>07:30AM</finish>
+    <date>17 November 2025</date>
+  </channel>
+  <channel>
+    <name>DD Sports IN</name>
+    <id>DDSports.in</id>
+    <title>Women's Field Hockey</title>
+    <desc>Coverage of women's field hockey action.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6Ik5MVld0d1ZLUlR3cUNzXC80eDhPWTZRPT0iLCJ2YWx1ZSI6InFWc0REV1AzRG5zb3M0V2J3ZzNhK0ljcnBmYmJVTlMxNmloNzhLcjZGaW5cL0J4R2lnVHk4eUs0QVNLV1EwUDBWcU8rdk1cL29RNmhcLzBST0Q5bzhzZnl0cnl6dTd6WXl2a0R0Vm1wWTVzM0ZNPSIsIm1hYyI6ImUzNzEwZDJjMGJlNmFmYjg2NTUyYzA4MDljYjNkNTFlZmU5OTY0ZjM1MDE3NzNlNDVmMWE1NjRmMDFkMzdjZWQifQ%3D%3D&amp;signature=209de222a5b147d0d2a1710c07f6d88cb76c220c3e763b0f830af3b58f7b43b8</image>
+    <start>06:30AM</start>
+    <finish>07:30AM</finish>
+    <date>17 November 2025</date>
+  </channel>
+  <channel>
+    <name>Dubai One En AE</name>
+    <id>DubaiOneEn.ae</id>
+    <title>Mrs. Garcia's Daughters</title>
+    <desc>Drama 2024 Driven by her hunger for wealth, Mrs. Garc?a pushes her daughters toward fame and fortune, but as love and ambition collide, her pursuit of a better life threatens to tear their family apart. Guillermo Garcia Cantu, Mari?a Sorte.</desc>
+    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
+    <start>07:00AM</start>
+    <finish>08:00AM</finish>
+    <date>17 November 2025</date>
+  </channel>
+  <channel>
+    <name>Dubai Zaman AE</name>
+    <id>DubaiZaman.ae</id>
+    <title>??????</title>
+    <desc></desc>
+    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
+    <start>07:00AM</start>
+    <finish>08:00AM</finish>
+    <date>17 November 2025</date>
+  </channel>
+  <channel>
+    <name>EBS KR</name>
+    <id>EBS.kr</id>
+    <title>??? ???</title>
+    <desc></desc>
+    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
+    <start>07:10AM</start>
+    <finish>07:30AM</finish>
+    <date>17 November 2025</date>
+  </channel>
+  <channel>
+    <name>EWTN UK</name>
+    <id>EWTN.uk</id>
+    <title>Kingship Of Christ (The)</title>
+    <desc>Fr. Bernard McGuckian, S.J., a Jesuit priest based in Ireland, kicks off the first of four talks examining the concept of kingship in the Old Testament and in t.</desc>
+    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
+    <start>07:00AM</start>
+    <finish>07:30AM</finish>
+    <date>17 November 2025</date>
+  </channel>
+  <channel>
+    <name>EWTN ZA</name>
+    <id>EWTNAfricaAsia.za</id>
+    <title>The Word Was Made Flesh</title>
+    <desc>Fr. Apostoli provides insight into the pivotal public event of Christ cleansing the Temple, which would cause the Jewish people to be polarized, either for or against him. (30 minutes).</desc>
+    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
+    <start>07:00AM</start>
+    <finish>07:30AM</finish>
+    <date>17 November 2025</date>
+  </channel>
+  <channel>
+    <name>EXPO AU</name>
+    <id>EXPO.au</id>
+    <title>Pocket Hose Copper Head</title>
+    <desc>Next Generation Of The World's #1 Expanding Ultra-Lightweight Pocket Hose. Anti-Tear, Anti-Burst And Anti-Leak Design, Wrapped In Forcefield Outer Jacket That's 3X Stronger. Expands Up To 3X Its Original Length.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6ImJPR05UR3U4TGpRRm15Zk10Vnk3TEE9PSIsInZhbHVlIjoiMFwvNXF3dGN6eWZmMkZOQkNHSEowR1BmdEtEaFd3UjA1Y0xYS3RJZmZ1WmJqaDBmYmt2RnAwNGRZTmd4TWVuaGt3NFlNajV2VjRFeG5mMWhZaUlEeUM2UXNORXB4WTdNVWQ0eEduZzZRdGpzd0d1TXhvcDdZTVJGVXZYTmlpZ2J0QUdubklUbjg4S1VEY2pDMmNFMm50NW9WR2tWYmpPMWtmOU5NbHFuQ3hqQlJhZzNvOVwvd2lXZ2RVaWZ2S1ZHazgiLCJtYWMiOiJlZDE2YzFlMDdlYzk1M2I3N2ZkY2E3OTRhNTQ4YTY2ZWM1ZmNmNGU1OGY4YTBmMzIwZDcwZGY4MGIyZTdjOTYwIn0%3D&amp;signature=22b6f6580cbe46e0cf399e60401db2debbbf97505bdf4d8345a4067e45393972</image>
+    <start>07:00AM</start>
+    <finish>07:30AM</finish>
+    <date>17 November 2025</date>
+  </channel>
+  <channel>
+    <name>EuroNews UK</name>
+    <id>EuroNews.uk</id>
+    <title>Wake Up Europe</title>
+    <desc>Live headlines, breaking news, analysis and interviews from Europe's News Centre.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IldRbkxZdmxxMG5PXC9ZdXpjZkJCMEdnPT0iLCJ2YWx1ZSI6ImlXTGVGSmt4cGd2TkdNSXpNK2NDaEFJdGtmRmp2YmJFbzJmWGExZEM3VFhHWldRUHduSFFPQXBnRlR3THhqaUlScXdXVG5JT25EMUJ5clYzRzN2R2ZNTXRUOEU3OEllWDlKeWZVZmptZjZzcFlkVVRqeno0WDFoTGFaalZSdVNRa2lhTzZBVnQwM09Xamp6bUxcLzdDQXc9PSIsIm1hYyI6ImY5MTQ5MmExZjMzNTEwMzIzN2VhNTFkZjJmMTdmYjQ1MzAxZmZiNzg2OGUyM2IxZGU0MmQ5OTljNDIxOTE4ZTAifQ%3D%3D&amp;signature=76b61f7df6cbf20777e83baa7040ab02c216e1c4f70f0b8f07a1b8735ee946f8</image>
+    <start>07:14AM</start>
+    <finish>07:30AM</finish>
+    <date>17 November 2025</date>
+  </channel>
+  <channel>
+    <name>Euronews FR</name>
+    <id>Euronews.fr</id>
+    <title>Euronews</title>
+    <desc>La premi?re cha?ne europ?enne d'information internationale, en France. Gr?ce ? Pluto TV, restez inform? gratuitement 24/24 h et 7/7 j.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6ImxOZkt3RWw4TkpjXC9INDlIQzBWTXR3PT0iLCJ2YWx1ZSI6Im9CdWZ2NEJ5QnRvd0VkMGJBZG41QVlWTElHcTBiTVwvZ3lrd3IwWFZiaGw0emRwZnc2alVFN1IwZmpqeVJXT1pUT3YxXC9VREp1c25QQ1RVQkEwRGdOV3FSMkdHNXBNdWhqaldYYUxJOVNXZyt5RDdBRlMzRjZhMitlQ1RVNjB6bEFWbEdUWThBaGpZR2FhUkR1c0JRWkRBPT0iLCJtYWMiOiIyNzU4M2NiZTRiMDM3YjgxZmJiZjNkNzBjNTA0YTcyMDFhZTFjOTkwMmM1ODA2Njk3ODNlMGRkYjM5YTNmMzVlIn0%3D&amp;signature=b9df965ae208e77320f3f01679a7ea169aa6a071131dc9c30c29f8cd94858445</image>
+    <start>07:00AM</start>
+    <finish>07:30AM</finish>
+    <date>17 November 2025</date>
+  </channel>
+  <channel>
+    <name>Euronews FR</name>
+    <id>Euronews.fr</id>
+    <title>Euronews</title>
+    <desc>La premi?re cha?ne europ?enne d'information internationale, en France. Gr?ce ? Pluto TV, restez inform? gratuitement 24/24 h et 7/7 j.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6ImxOZkt3RWw4TkpjXC9INDlIQzBWTXR3PT0iLCJ2YWx1ZSI6Im9CdWZ2NEJ5QnRvd0VkMGJBZG41QVlWTElHcTBiTVwvZ3lrd3IwWFZiaGw0emRwZnc2alVFN1IwZmpqeVJXT1pUT3YxXC9VREp1c25QQ1RVQkEwRGdOV3FSMkdHNXBNdWhqaldYYUxJOVNXZyt5RDdBRlMzRjZhMitlQ1RVNjB6bEFWbEdUWThBaGpZR2FhUkR1c0JRWkRBPT0iLCJtYWMiOiIyNzU4M2NiZTRiMDM3YjgxZmJiZjNkNzBjNTA0YTcyMDFhZTFjOTkwMmM1ODA2Njk3ODNlMGRkYjM5YTNmMzVlIn0%3D&amp;signature=b9df965ae208e77320f3f01679a7ea169aa6a071131dc9c30c29f8cd94858445</image>
+    <start>07:00AM</start>
+    <finish>07:30AM</finish>
+    <date>17 November 2025</date>
+  </channel>
+  <channel>
+    <name>Euronews FR</name>
+    <id>Euronews.fr</id>
+    <title>Wake Up Europe</title>
+    <desc>Live headlines,breaking news, analysis and interviews from Europe's News Centre.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6Ik5MTldTVzA2OG5Gc1wvcXAxSjQ5N3FBPT0iLCJ2YWx1ZSI6IkVKVmJITVdiVXBnMFFsc0grZTE0MkpqUG9ueUR1UlpyM3dqdTBDSHJIbWp2YmVDbEhTYWtYU3QzdFhvY1lET1wvdXdzTzl6aVJVS2o3bkJ1bjNRdmwwVGJqdnlSdnRcL1g1NFFIQVpRbnc1eTBhSUZqNVArZ1hTWlhGR01TMnFyY1lpMDU4ejhDYXNFREZPT3FaVW9GTVNMTWVTTVNrYVwvK2wxYnhnbGNpSXhjSnBcL0d1NTNZUjQ4K21ZTnB1SkdiMEF3V1h6aGEzQWgxbnRQTFdFbFRyemxDb2FKNUppeVI3K3g4Tm5IeVdRNk16NEt1UnVkRkp0dmV3QTZrZmNMckFQIiwibWFjIjoiNTUxZGJhNTU1ZGVlOWVmMjcyNDNlNmZiMzAwY2JlZDdhOWRmMDY2OTg2NzljM2I1MDAzYzliZjk5NTUyMTUwNyJ9&amp;signature=7967e263864d82cf069fbd8c4b80cc0a0ca9b7ddf298a5f52ac6c8c7926579f0</image>
+    <start>07:15AM</start>
+    <finish>07:30AM</finish>
+    <date>17 November 2025</date>
+  </channel>
+  <channel>
+    <name>Fox News US</name>
+    <id>FoxNews.us</id>
+    <title>FOX News Sunday</title>
+    <desc>Anchor Shannon Bream interviews the biggest newsmakers of the week and leads guests in providing context and analysis of the issues facing Americans.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IjA5MUZIaFJvMmFIWWF3ZXA4ZGhMSWc9PSIsInZhbHVlIjoiMWt4VTBvTEpMWUFiSjZEVzloYnAxbk1MUytldlwvNlExdGd3QVE2NVNrSG1PYUszVWhjZEVmWTFWb3hSNzY5NTdXaTlHRjZWN2lFbmFjSXpUd0pkK292ZnE3RlwvTmQ2dXBJY2FqVkp3eEI1WT0iLCJtYWMiOiIyZDU3OWI4ZTVhZDYxMzE1MTAxODMyNzI3M2VlNmRmZmJlMWY3ZGRjMGVmZDExYjZmMjk5OTQxOTlmMGUzN2ZkIn0%3D&amp;signature=354caacd73142711f79ca1673bcbff00cc03dbe7b65db92fa15beda3a2244b9c</image>
+    <start>07:00AM</start>
+    <finish>08:00AM</finish>
+    <date>17 November 2025</date>
+  </channel>
+  <channel>
+    <name>Fox Sports News AU</name>
+    <id>FoxSportsNews.au</id>
+    <title>FOX SPORTS News</title>
+    <desc>The latest highlights, reaction and analysis of the biggest sport stories from Australia and around the world.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IlY0WW1qTlFyMUZiZ0tHdXFzbk82Nnc9PSIsInZhbHVlIjoiY216VWkzN1ZmeFpFOGxiTlJKdmVjdnMySDUwUkZoXC9JT0lmUUFvc2JqREVPdFNYT2ZXbHdQRm9NbmVndEtMdldXWVErT0NPcHBTeHl6VGdKaUFCSlJsMnorelU0UXFCdGZJZmFIanM0UTN6aHR1VXdxaEw2TkdsY1I2ZWRcL1FGWVVCSUkzNlwvUmVkMmxHeTBaSERHT0RaME5jelFSMWZFY1Q3bjhtM0NuaUlmbUw5ZkxNdVRCbkVadzN4NGhaUGp0IiwibWFjIjoiNzM5ZTVmYzBjY2U0NDhlYTlmYmJmNmIwNWZiYjQ0MjQ3MjBkZmQ3YjNmZmRmMDdiYWUyZGQ3YTZhMWVlZGNmNyJ9&amp;signature=74ebfd8fbca4ed73b6db5eadcb25760d176f1f2f80e07dae68919ff3999913cf</image>
+    <start>07:00AM</start>
+    <finish>07:30AM</finish>
     <date>17 November 2025</date>
   </channel>
   <channel>
     <name>France 24 Fr</name>
     <id>France24.fr</id>
-    <title>Focus</title>
-    <desc>Un tour du monde quotidien avec des reportages r?alis?s par plusieurs correspondants dans leur pays, sur les faits marquants de la semaine.</desc>
-    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IlNOZ2JMaTgwdnV4XC8zbWRqRUtJOE5nPT0iLCJ2YWx1ZSI6IkJOaWtGOEVFdVwvSitrNWJEQVZqV2pKQWJcL0t1QXl1MEtuSWFcLzk3QXFTRFhtd3loempMRXlDZGZWbmdPd2tRNW9cLzB6RjMrZHJubkxcL0FiWWljc29hM2lJSGM2eWIxV25kRnI5blJCdDVOYTV2bTFmbWpEd0NXV3dWK0dtYUNGakxZK1BheHVrejRQZVBiSGxpekIrZVU3NjF2Nm1cL2N6MVwveGJ3ZDUxZHd3Znk5V1RwVUZmUUdrSWRkQkpZd05IQlAiLCJtYWMiOiIyM2FmNDBkYWVmZDE0ZTBlOTE3MjE4NTM0Mzc3MjkwNDAzY2UzZmYzNmI0MzU1OWEzY2YzYzIyYTdlNTNjOTg3In0%3D&amp;signature=842800d7eddc9b5c7dbc443426a1a8b459e264550be5ad0fc35091234eaa87a8</image>
-    <start>06:51AM</start>
-    <finish>07:00AM</finish>
+    <title>L'invit? de ? la une</title>
+    <desc>Un entretien avec des experts sur l'actualit? sociale, ?conomie et politique internationale.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IitjT2htU3RUaWFwcTlpZm95elJWcnc9PSIsInZhbHVlIjoiYTNTaHRtbkNkdjhLV0pKbVV0cWxQSWp5UlhHd1VhT3VBMUdBRFpkZ3NuRW9nakluVnNMSGt1eitxdjNLSmozVnVJelZnUHdpbWlNdFdXTjRJRzNoRElUMGtmcFczQ1hzbVFyaXRiSSttUUoxMzA0aFp1RHRCb0FTVUNkXC9zY3gxWktkMm50VytKd21TUXhMQUVNakVhV05NeUVGQk5oQSsxXC8yVmNBT3VSblZkNFVmUzRTRmxqblJuTGpCaDJvbzAiLCJtYWMiOiIzNGM0ZjUyMjNkZjFhMGI3ZTk0NjE0YWVkZmFkY2QwOGU2MjQyMTg1MjEwZWEzNGE3MjkxYjAzYjMxYmZlYTExIn0%3D&amp;signature=89a3d60a3603bc6a869c1d9522991f3aa1e1261b885530174da0e0ebd161015b</image>
+    <start>07:15AM</start>
+    <finish>07:30AM</finish>
+    <date>17 November 2025</date>
+  </channel>
+  <channel>
+    <name>GauTV ZA</name>
+    <id>GauTV.za</id>
+    <title>Bass Clef</title>
+    <desc>We play the latest music videos chosen by the ordinary people on the street.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IlRiS0hVZG5pXC9iNDY4T3VFZ2Q5SjZBPT0iLCJ2YWx1ZSI6Im45NTFHRkZCY21UZkJ5WDNZK0IwbWh2VGFBZWFQNzYwQ2hoZkkyMm1WQUE1clVsMUFlMlFlTG5rKzBTMHBxd1ZZQXVrd0ZhV0o5QkdKMHRFTVwvb0hEcmpnOTVXbVwvaVhhZitzalR4emVuTElsN2s4RnI2XC9sbHRxOEZTUHlyWWNTZnExZ3BKYkplVXlcL0taVDlzdDAwUEtYRTdQcnlnSnpZMlN4TDR5bVZqQU1aN0c2aW9GeVZ0T1VveHpNSHo5aU4iLCJtYWMiOiI2OTA2NzRkNjZkMjc4ZDg1ZmM3ZTZkM2VmYTMzOTZkNTg1ZDExMzI2NjIwZWJjZDg2MDkxMGUzN2QyZjEwMDc4In0%3D&amp;signature=85640e11ddb0714d67a9dc7c6466ebcf5cd0ef94a8e87d37df86685c8443c54c</image>
+    <start>07:00AM</start>
+    <finish>07:30AM</finish>
+    <date>17 November 2025</date>
+  </channel>
+  <channel>
+    <name>Global News BC1 CA</name>
+    <id>GlobalNewsBC1.ca</id>
+    <title>Global News at 11</title>
+    <desc>British Columbia's local news stories and weather.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IjZFTFBnOU9zTktZREtjZkY2eDFCWFE9PSIsInZhbHVlIjoiZTZ1SFgzY3A0RHVnUkN0azgzaUd4eFZjZXFKOVlQcjhIOXFGR1ZCNHVPMWY3UnBucmkyb0pFN3Jqb1lLQnJuM1dNTHFhTnQ2MkpcLzFxaFRxanVmUkdJcWZqXC9jUmloK3dYMDZzNVZiT1N0WjdQbnNNZ3lGNnUzTjhEQ3V1cCtcLzIiLCJtYWMiOiJhYzhkNzlkMzQ0ZTA5ODNkZjk5ZWQyM2MwYzI0NGNiZGI4NGM2ZWE5MDc5ZjFjMTA5MGMwZjIyNWNmMmFmMTE1In0%3D&amp;signature=872ad2136bc173da5d1dccc915623226a70524fbad6be9268a16ffe91c085336</image>
+    <start>07:00AM</start>
+    <finish>07:32AM</finish>
+    <date>17 November 2025</date>
+  </channel>
+  <channel>
+    <name>Gulli Fr</name>
+    <id>Gulli.fr</id>
+    <title>Gulli up</title>
+    <desc>Le meilleur de l'animation pour bien d?marrer la journ?e !</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IjdaYmJ4NWNmd2xGd05pQ1BpK3RWZmc9PSIsInZhbHVlIjoiTmJcL0NvcXA1cGRiRnR2Mld0dkpSMTA2V05kME4wUlVvOU96RFZiTDhrbXZSd0ZYRzg0T0VWMGZTVjF5NkF5ajlZUjJHT3ZxdFwvUFFudnoxMWJ2MjJOaFwvdWZEZW1VYnhkb09iN3QxUkZoNTVPT29YTFh3UENaTUd2Q1dQTVdqb0EiLCJtYWMiOiJlOTliOWE5ODEzNGNiNDJkMTcwNDA0NWI4YTA0NDEwZTUzOTlmYzI2ZTA0MTM3YTM0NWI2M2M2MTA1MmY3Yjk2In0%3D&amp;signature=adc3528a99204277617554b1fda0bd862c5131a3de378aab9239f4c08b875177</image>
+    <start>05:00AM</start>
+    <finish>08:05AM</finish>
+    <date>17 November 2025</date>
+  </channel>
+  <channel>
+    <name>HSN2 US</name>
+    <id>HSN2.us</id>
+    <title>Andrew Lessman Your Vitamins</title>
+    <desc>Andrew Lessman brings 100 percent pure, additive free supplements that encourage optimum health.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IlwvWThyT2doZFpOQXR4ZnVMdnB0UVZBPT0iLCJ2YWx1ZSI6IkZDa3g0TTJnQW1JUm1nQ1o3aEplWjg0NnN1OXRwTUdwYk5BcUFRcUdYUnJkT2lQRW8xR0dwTFpBd2Zkd0xHN1BrOExvZDU2VWtTbWRDK2Y5NGpseFwvVGt6TmZnZHd4ekJ0aXZGNkkya3oyUT0iLCJtYWMiOiIwZjY5OWEyMTE0ODk2OWUzNmE5Mjc2OGY4NjQzZjc4N2IwNDRmMDY4YzJiODhkN2MyNTZlNjVhNzhkOWNjYWNjIn0%3D&amp;signature=7e3e6678cdf9a9bdfe2bb08018cd99bbd8a9d1da4d4804cc16b43d7aae460608</image>
+    <start>07:00AM</start>
+    <finish>08:00AM</finish>
+    <date>17 November 2025</date>
+  </channel>
+  <channel>
+    <name>Hír TV</name>
+    <id>HirTV.hu</id>
+    <title>Napind?t?</title>
+    <desc>Szak?rt?k elemzik az orosz-ukr?n h?bor? legfontosabb esem?nyeit. A m?sorban a kultur?lis ?let szerepl?i mellett a k?zszolg?lati t?m?k szerepelnek.</desc>
+    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
+    <start>05:25AM</start>
+    <finish>08:00AM</finish>
+    <date>17 November 2025</date>
+  </channel>
+  <channel>
+    <name>ITV 1 UK</name>
+    <id>ITV1.uk</id>
+    <title>Good Morning Britain</title>
+    <desc>News, current affairs and lively debate.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IjE2NFwvWWw0bDI1MW5zOWRFZDJxb3pRPT0iLCJ2YWx1ZSI6IlRQSGlvdEc3bldhZTYrUytUXC80QzRYallvbkdESG1SamZIM2xhZUNmQTEzdlwvYVdwWTFjeGRpZklqMDI5TnQxWWZzN3N5Wlg2aGxxRjBcLytHU0RXSldlU2lLaXI5cEt0ZEpLeDhHd3dpSm5ORDlYZCtuY3ZOWGt2NXhaUU1MS1FFbUZLakNQUW4rRFFuTTh5SFRJQ25YZz09IiwibWFjIjoiNjkxNWIyNzE1ZTBmZTM2NjQ0MDI0N2MzYzgzMmI4MWJkZDkzM2EwODhmMjA1YTJiYzZlNmJkYmFkOGQ4NTdkYiJ9&amp;signature=ef50e5d35e48dfe19b1d4fde7a309010629f08b1a044bbe16cfb93104f7c302b</image>
+    <start>06:00AM</start>
+    <finish>09:00AM</finish>
+    <date>17 November 2025</date>
+  </channel>
+  <channel>
+    <name>Ictimai TV AZ</name>
+    <id>IctimaiTV.az</id>
+    <title>Serial: &quot;M?nim ad?m M?l?kdir&quot;</title>
+    <desc></desc>
+    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
+    <start>06:25AM</start>
+    <finish>08:00AM</finish>
+    <date>17 November 2025</date>
+  </channel>
+  <channel>
+    <name>Kuriakos Tv PT</name>
+    <id>KuriakosTv.pt</id>
+    <title>Vila Ideal</title>
+    <desc>Programa infantil que ensina de uma forma divertida os princ?pios b?sicos morais e c?vicos ?s crian?as, promovendo a amizade, a obedi?ncia, a partilha, o amor ao pr?ximo. Os conte?dos de cada programa s?o tem?ticos, com a intera??o dos v?rios personagens.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6InhzVTd2UFI2ejZrdis5eFMyVUdCeVE9PSIsInZhbHVlIjoid0R2bktqMFpvN0F2YzFmb0VENXpIVEl5ekdncU5SM0NOSVViZGNZMU43Y0czY1pRV0kzWEgySll0a01mZVBuWTlFTkhCbURHQUhTbWo0Z094ZTVDMmJKY1FmcEJ6WUp0RlBDWVNoNCtDTlRzcTdhaGtzN0lTSHRzQlZ1QmUxbDFyUG9GQmVhb3BDdEFaT3NmSVJlV0ZTTHlDMExqNVpyb1ZpOFJzaHU3SGplNDVuNTBzMU9KN1pHdnFMOVdMRWlFdWtOWkZ6Q29nXC80MXNIdWNJOWlMMENtZ2pYR05yV1FoWExWZEVvSVlSQVV2VmlOWGpaZEtrc25kazhaZ3VNYmciLCJtYWMiOiJjOWIzZjc3MzY0NmFiY2IyZmYyZjZhN2U2M2QyODEwZWEyZTlmMzFiY2NhOWM0NzBlYjUxMTJmNWU0ZDU4MmRlIn0%3D&amp;signature=079ec0420fb11e6cc6e4b5feb15218083a6d1b35facbd712465891214b472541</image>
+    <start>07:00AM</start>
+    <finish>08:00AM</finish>
+    <date>17 November 2025</date>
+  </channel>
+  <channel>
+    <name>LCI Fr</name>
+    <id>LCI.fr</id>
+    <title>La matinale LCI</title>
+    <desc></desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IlJJOGlDeGZxVkwxeXZ1RWpEa2F3QlE9PSIsInZhbHVlIjoiNWhNRFQrMW1wZTZpMDFhVklJQjVxNis0TTI3NmV0ZEs4cEJqQ085eTh6QUFBNjVWWHV3WEhZaXg1Qis2c2FTeXVJVHppd2EybVwvT0Zkbk5VK1Y2bllcL25SS1plRGZyRkEyOEYzaUtQZ1NmMjkyemcrN0VRcGZyMkowVHZXQTNRTyIsIm1hYyI6IjE1ZWIwYWY3MGY5ZjhiNjFlYTQ4NGM5Y2NjNmFlOWEwZGNkMjZiYmFhZmRiZTM3MDhjZDRhN2Y0MDY0MzM3MjEifQ%3D%3D&amp;signature=4f2be5d3463650c1132b6ef55e47ccbdfb49f56644173b7bb0df3e3a70cafc49</image>
+    <start>05:00AM</start>
+    <finish>08:00AM</finish>
+    <date>17 November 2025</date>
+  </channel>
+  <channel>
+    <name>L'Equipe 21 FR</name>
+    <id>LEquipe21.fr</id>
+    <title>V6</title>
+    <desc>Un magazine d'auto et de moto qui pr?sente des essais exclusifs, des rencontres insolites et des moments improbables gr?ce ? une ?quipe de fous du volant.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6ImVjUld6eDRCaDZ5TUdQbG9KZTdzQVE9PSIsInZhbHVlIjoiSG8wcTc2VitXaWN2WWxFXC9YemlIalwvb2REZW5RZ0F6MU16MWkrcWZMRDZcLzlIeWFtdzU4czZBZ2RwbDdPXC9HMUFYdzNEREE1Sm02VkhzS3BTaVpOWVRUYjlQMUx4Q1RWcmtNNzFjN1NtazJKK1AyVnZpQ05Pc2xiK214b1JYNmhRTjZ1Z1JnSTVaa0w2ME1BWlNmRlpOSnc5Nk03OFFkZzExb25uTGRXZlRBNHpsQ2ZIWUlUeUI5cnlPZEVIWVZcL2RVZjJPMXZZcWw1N1wvZWNoZ1FUVFowdXhCbDNLXC82SHV3VU93TVNReWFnZlpweDd3U1FlWGJTeXhDZDFldU10MXkiLCJtYWMiOiI5YWI3ZTFkNzA4ZjY4NDM1ZTBiMjkzN2JkYWIzYjEyOWJiMWU5Y2YyM2U3NTkyZWJiY2E5NTYzMzM5ZTkzYmI1In0%3D&amp;signature=a7e19c7d69a2843d971d22de8ac9b3d9a7ef1983ab4660765850129059f54329</image>
+    <start>07:00AM</start>
+    <finish>08:00AM</finish>
+    <date>17 November 2025</date>
+  </channel>
+  <channel>
+    <name>La Otra ES</name>
+    <id>LaOtra.es</id>
+    <title>David, el Gnomo</title>
+    <desc>La serie, basada en los libros mundialmente famosos.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6InFtRVBVaHpHVTBSbktnUmx0dThxU0E9PSIsInZhbHVlIjoiRXRFampcL2piMm5zZUJUWTdscW5qaFBxUlptWVNIcXJwRklMVEtFcUtPTFRCWVQwOXVSZ2RmVHZLUG56THBcL1ZOZUVuK1FOQWtobHNTSWkyMFg5bXJcL1hXN2R1NmFXRlJabFRLQXB3V3dLS1BzV2tqTTFUYTJxcEJ0dWhDTjNJUlkiLCJtYWMiOiI4OTk5ZjYxMDYwNDhmZTg3YmYyYjczZDY0ZGQxYjM0OTMzMDk5Y2MzYjg1MmQyZjc0NTA4MDMzZjQ3NDI4ZjVjIn0%3D&amp;signature=5ce281df40916ed1b99e9d00326299ae4f6f7e94e4cb3cfcd172a6594549ab56</image>
+    <start>07:05AM</start>
+    <finish>07:35AM</finish>
+    <date>17 November 2025</date>
+  </channel>
+  <channel>
+    <name>Law &amp; Crime US</name>
+    <id>LawAndCrime.us</id>
+    <title>Jail</title>
+    <desc>Code Blue alarms sound as inmates start fighting inside the men's jail; an irate man with a huge beard refuses to remove bands inside his facial hair; a man with deep stab wounds stumbles into jail.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6InV6SjFKU0pcLzJKV1cxTnpLcDJvcFpnPT0iLCJ2YWx1ZSI6IlRxZWtsNWNqR0VVekVZeEtFV2c3UkQ4RlpoM1BuRnZLM1pOTTdrTHVcL3d3aW1ZOEl4MTNHdUhYN2JxY3pvSExJQTkwYzlzQzhsMXk0S0F4bWtDOUphbWR6VDliNlBtTGVBaUx0ZUNmbVBFTFZZeFBGNVNDTll1WVNqb3dFekZZcSIsIm1hYyI6IjYyMzMyMTJiYWM2ZWY0ZjA1ODU5ZjVhY2E3MzlkMmMxMzM2MTU5ZDkxMDE5ODJkNGIyNTc1YzEwYzZmZWRhNmIifQ%3D%3D&amp;signature=6d83735c71b6a590edbf6e50c555bab86c46d05dd4ce8939d2e1e35c98e5ab25</image>
+    <start>07:00AM</start>
+    <finish>07:30AM</finish>
+    <date>17 November 2025</date>
+  </channel>
+  <channel>
+    <name>MBC Drama KR</name>
+    <id>MBCDrama.kr</id>
+    <title>? ??? ?? ???</title>
+    <desc></desc>
+    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
+    <start>07:04AM</start>
+    <finish>08:35AM</finish>
+    <date>17 November 2025</date>
+  </channel>
+  <channel>
+    <name>MBC Max Ar AE</name>
+    <id>MBCMax.ae</id>
+    <title>No title available</title>
+    <desc></desc>
+    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
+    <start>06:30AM</start>
+    <finish>08:00AM</finish>
+    <date>17 November 2025</date>
+  </channel>
+  <channel>
+    <name>MCM Fr</name>
+    <id>MCM.fr</id>
+    <title>La zone</title>
+    <desc></desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IlNcL052RlFab053ZERqMFNWVEZMaGZnPT0iLCJ2YWx1ZSI6ImdCS0NxVGJzd1wvaTFrUDZqWmhWV0poMFBnOVNKV0VacUhaK0cwaFJVZDZKNEhzNUlFYVJ1M29xUXhYS1wvOU5ZT2VoYk5UamtESWYxeWZ0U1d4dFF2eVU5ejNSN005UVVHQklyWnp0QXFCc3I4NDJBOXFPVDBnZ01TQzlpZkl0WGMiLCJtYWMiOiIyMmRmZjRlOGU3Y2VkNDcyNjA4NDJjMmVhZDMzYjcwMzdlMDgzNTQyYjRiMGU5ZTk5NGY5Yjc3YTlmMTg1YTBmIn0%3D&amp;signature=f426546c0aead717ce5fb08a44077ae9d8fc91316cb8c95c6cb3480b67d01d4c</image>
+    <start>07:00AM</start>
+    <finish>08:00AM</finish>
     <date>17 November 2025</date>
   </channel>
   <channel>
@@ -121,13 +831,33 @@
     <date>17 November 2025</date>
   </channel>
   <channel>
+    <name>MSNBC US</name>
+    <id>MSNBC.us</id>
+    <title>Dateline</title>
+    <desc>A former ballerina shoots her husband in what she alleges was an act of self-defense; the ensuing investigation and dramatic trial spark protests and receives national attention.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6Im1Td3lzZkNVOE9lSEZvWEV3U3hRWVE9PSIsInZhbHVlIjoiWW10XC9kanpSR0dkZ0lNTkdMNHo5S1ZnY0RGZmhkQlM3SDdVRlBkTmgzUjZcL3g5VlVFaWpjXC9lTkJzK1M5K3A0enJDNllrU2kwVXkxNXdpQmdnUkNPZUZ6T1p6b3hWXC9TXC9RYmRxdHY4ZWhkYWEzak9kdnZ4b3lhNlRzZGlrRkE4ayIsIm1hYyI6ImJkNTFhOTk1MGE0NGI1NzNhNGViODliZmJjYjZjMTBhOWJjODc0YmFjNDc4ZDVkYWJjMzM5ZjkyYTdiZTJlMGMifQ%3D%3D&amp;signature=e09f2c1956f353522d8c3767fdec2f949e0473eeed481b0a702d8839f684cfcb</image>
+    <start>07:00AM</start>
+    <finish>08:00AM</finish>
+    <date>17 November 2025</date>
+  </channel>
+  <channel>
+    <name>MTV UK</name>
+    <id>MTV.uk</id>
+    <title>Teen Mom 2</title>
+    <desc>Chelsea takes Aubree to her first dance class. Jenelle and Barbara argue about Barb's blowout with Nathan. Kailyn breaks down when she realizes her mum won't be at her wedding.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IlBwWHhWV0t6VlRLOGsxTnRCRjYyOXc9PSIsInZhbHVlIjoiXC9EWXB6allvTDJhUTkyNWIzbDQyNW5QbytENmpibHJkQW5CNGNlN080d0dWdVhCQWtoSm9jTitNNmpNdDdRWFhNUU5hQ2NROXV4bEJjaCtoWVRxZStVMThnVm9UMVpSTTVBU1p3MVBjTG80U1NCTkFKK3B4Y0EzejFzcW1NYkNLNlg0bnpRdzlydElrNG9yQWs4NjZmQT09IiwibWFjIjoiZjY3OTNjYWFmMDk3YzUzZjE1NDdjNjQ5NTQ2YmU2OGRiZTE0NzM5OThjNzY2N2IwMzI0NzU4MDRiNzk2M2Y1MCJ9&amp;signature=a0aac5b874dd31a204f6e37e43800a8a6e7a01c2ede1f6e375f6e37be2717b3a</image>
+    <start>07:15AM</start>
+    <finish>08:00AM</finish>
+    <date>17 November 2025</date>
+  </channel>
+  <channel>
     <name>Mama RU</name>
     <id>Mama.ru</id>
     <title>????? ???????. ??????????</title>
     <desc>?????????? ??? ????? ????????? ???????????? ????????? ?????????? ???? ????????????? ????????, ?????? ???????????????? ?????????????? ?????? ????????.
 ?????? ???? ????????? ?????? ???????? ??????? ????? ???????? ?????? ?????????? ????? ????????? ??? ???? ???. ????? ?????? ?????????????? ??????? ??? ???????????????? ???????????? ??? ???????? ?????????? ????????????? ??????? ????? ??????????????? ??????? ??????????????? ??????? ????? ??????. ???????? ?????????? ?????? ???????? ?????????, ?????? ??? ????? ????????? ??????? ????????? ??????????. ??????????? ????????? ????????? ???? ??? ?????????? ??? ?????????. ????? ????????? ????? ??????? ????? ???????? ????? ?????, ?????, ?????, ?????, ?????, ???? ??????? ????????????! 
 ??? ????????? ????????????? ????? ?????? ???????? ?????????? ??????????? ?????????????? ??? ????? ???3-? ???, ????????? ??????? ?????????? ??????????? ????.</desc>
-    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IlJYbGtGQndqRzczR3pUaWprVHpvOXc9PSIsInZhbHVlIjoiS0g5R25KQW1ielZGRm1RbGI3bHd3UVdERUFOSzdkREM1VENIS0c2emNPQ1wvUm1EY3o4UmhiK1c2Zm83cis2bHpvRGhhZDFXQ2ozelRYUm93ZWhZTG5HdnVpMm1hVFFvSGs5UFF2eHJIVEFTQlBRUzlYZHowMkcrMWVGb2d5OFJpd2RURlwvM2l3czhNa0kzSlRaSDBHa2JCaHJSbnpMRXo2bjQ2cUl6bWxZOFk9IiwibWFjIjoiMjBmMWRiZjMxNThkMDM5MzViMzQzNzJkODU0ZGY1OGZiZmNkNjQzYjNjOTkzMzlkZDcyNGE3YjYwZTJiMTFlNSJ9&amp;signature=22d0df0ee168f5f064175d11cf070b0b8e4c7535a0d80d3355969c0626ed0bdc</image>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IlZFbGlTRmtvZmt1UlY5K2p5Z3R1WXc9PSIsInZhbHVlIjoiUmVhXC90UDAyMlpRQXBKZmVuK0U2U3B1dkFhTEZNRk4yMFBlQnk1UTZ3SUJHcU1ucklwTWRsUFc4VEVoRHVJQk5cL1M2amtWNE9KRVoyVUdDMUw1SUFWN1lxd3Y2MFV2bWhMekY4eWVOamZvUVNiOHNmRzh6S3NPeCtRQ2VCU0c2dUs3NTYxRkRtNHpMXC9RZTQ0aCtcL3FkYjBOdTlEQ0d0eTJ5dUJhMW9VNnJhUT0iLCJtYWMiOiIxODRhZWNhMDk4YWFjNjY1NmJiMDY5Yzk0NjU1MDg2MGM2YTZjOTc5YmUxOGM5MjQyMWZmZWEwNzgyODkyZTc4In0%3D&amp;signature=ed7553a520baaeee47fae4f2bc30ce63680d80b957a01a3edcdabd5cbc012d85</image>
     <start>06:20AM</start>
     <finish>07:30AM</finish>
     <date>17 November 2025</date>
@@ -135,11 +865,11 @@
   <channel>
     <name>Whakaata Maori NZ</name>
     <id>MaoriTelevision.nz</id>
-    <title>Top of the South</title>
-    <desc>NEW: At the top of South Island, from Golden Bay to the Marlborough Sounds, a community of M?ori are fighting to maintain their way of life and a connection to the sea that was passed down to them from their t?puna. As modernity threatens this existence, how far will they go to protect their way of life, and secure the future of their grandchildren.</desc>
+    <title>Te Ao with Moana</title>
+    <desc>NEW: Current affairs series that puts a M?ori lens on issues that distinguishes it from other current affairs programmes.</desc>
     <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
-    <start>06:30AM</start>
-    <finish>07:00AM</finish>
+    <start>07:00AM</start>
+    <finish>07:30AM</finish>
     <date>17 November 2025</date>
   </channel>
   <channel>
@@ -148,18 +878,48 @@
     <title>Metro TV</title>
     <desc></desc>
     <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
-    <start>06:55AM</start>
-    <finish>07:00AM</finish>
+    <start>07:25AM</start>
+    <finish>07:30AM</finish>
+    <date>17 November 2025</date>
+  </channel>
+  <channel>
+    <name>Movies 24 UK</name>
+    <id>Movies24.uk</id>
+    <title>Following Yonder Star</title>
+    <desc>Abby Marshall, once celebrated for her role as an inspirational mother on TV, spends a chaotic Christmas at a remote Vermont retreat. Can her own holiday wishes come true.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6Ik5IOG9rbHVxNkQzU2ZpNkc0YWtTTlE9PSIsInZhbHVlIjoiNjRsaG5Xa0tmbytiN3FCcmduSnRhVm9LSnhZNWs3clp5YzFlbEtIWW4zWTJrY3VuNUF3eGtCRUd6dUpCQmQyZWdza21FVGlXa2dZZVpMNExjeUFkZk84bmxcL0hQT0pCWE5BaWZKWjJWV0FOUWg4SWE3dEUxZU5jbGdZdjJmTWtxXC9Gek5LMFwvWnRFcWRyTHVFS285K0dnPT0iLCJtYWMiOiJkM2FhYTQxYTdiZWMwOTg5NTkxYWExNWYxZDNlZDdlMWRkN2ZlZmNiYjg3YzJiODIxY2NjOGJlNzg0ZTlkMWJjIn0%3D&amp;signature=96654943e2e90c7d8a46d5abf57131b0f839e64af21b39da55620687181b5d51</image>
+    <start>07:00AM</start>
+    <finish>09:00AM</finish>
     <date>17 November 2025</date>
   </channel>
   <channel>
     <name>NHK World JP</name>
     <id>NHKWorld.jp</id>
-    <title>Hello! Nhk World Japan</title>
-    <desc>A sumo tournament is being held in London for the first time in 34 years. At a screening of Grand Sumo Legends, Wajima: The Golden Left, attendees can learn about NHK WORLD-JAPAN's useful services.</desc>
-    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IkJDY29WMWdwa1wvY0hXMVNKalltUW53PT0iLCJ2YWx1ZSI6Ijd6ME0xSWV3eU9oOVYrSlwvbHpEdkdxTEo4R1hidGlxSzUxRVltU3hHTmU0VFNuZ2NPM2pCQUw0WVE0NjRaaFVqZkdpUWg1R2YwN3FiRm5EelVhbld1UUlKTndaUHlGbTkwV3RCOW1NUzkxXC9TRWFuejFuNUV2VklaZVZcL1FkM3o4Smw0VlhzVTE0OUhSNVg4dUtRXC84SlwvTjNNd2JiQ1A0YnBOZ083SnZ3c0dndFJDajRaRmFFVmJLOU5wVHBJMWx1IiwibWFjIjoiYWI2Nzk0MzUyMzZmY2Q0MWY2MDNjODgwODExZDk0ZGY3ZjAyZjc2N2U4YzNmNDBmMjczY2RlYjQ3NzQ4NjVlMSJ9&amp;signature=4768576827933972e4a2ed96dcf106d3d45638c43428b48d0a4e626cc70c3c37</image>
-    <start>06:55AM</start>
-    <finish>07:00AM</finish>
+    <title>Newsline Asia 24</title>
+    <desc>NHK NEWSLINE brings you up to date with the latest from Japan, Asia and around the world. Our team covers breaking news and major developments, with trusted anchors to tie it all together.</desc>
+    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
+    <start>07:00AM</start>
+    <finish>07:28AM</finish>
+    <date>17 November 2025</date>
+  </channel>
+  <channel>
+    <name>NRJ Hits FR</name>
+    <id>NRJHits.fr</id>
+    <title>NRJ Morning Hits</title>
+    <desc>D?s votre r?veil, et pour bien entamer cette nouvelle journ?e, un condens? des clips d'aujourd'hui et de hier. Une fa?on agr?able de bien commencer sa journ?e.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6ImdSa3FWWSt3dzVFYlRXRlZNYVFVWWc9PSIsInZhbHVlIjoiZWgwYmJkeVJGQ2RGVHA3RUZIajBreXNMNk4zMFRaZmlZbEcwT1wvWEludEJKcWJDT3VnS3dvbUF6bW84WUhtQjZTWkRTSEZXU2xSMHdEV1pkQVVTVFZMZGN6R3RwWk5vVjhjZmp0STFmSEVxQkVMRlVYbWErY21hWDFpOGZhSXl1a2N5STFLUkFqRUI5bTd6REFaNlNOQjFERXg5djk2QVhBSTl2U1MrTG9lS0E1VlhrMTVPWUVnNTZPb081NVR5SkhGd0NnWWF5ZnJ1UGpYZmwxTnJGMGJPN0VYbmR2OHEwRytoNVNmSDJUbGkyaFRtVVBqZDkrRGhzamdKcDlQRzciLCJtYWMiOiJjZjQyMmU5NTc4ZGRjYWUwMjJjMWEyYWMwN2VkNzQyZTY4NjA4MWIwNWZhNDUzNmU4OGI3ZDU4MTcxMWMyYzAzIn0%3D&amp;signature=934672d54e2d6deb10841b5f08ee0cc13558edacdd4219840d093bb2e4c28090</image>
+    <start>06:00AM</start>
+    <finish>11:00AM</finish>
+    <date>17 November 2025</date>
+  </channel>
+  <channel>
+    <name>NTV7 MY</name>
+    <id>NTV7.my</id>
+    <title>Tahap I</title>
+    <desc>No description available.</desc>
+    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
+    <start>07:00AM</start>
+    <finish>07:30AM</finish>
     <date>17 November 2025</date>
   </channel>
   <channel>
@@ -173,11 +933,31 @@
     <date>17 November 2025</date>
   </channel>
   <channel>
+    <name>Newsmax US</name>
+    <id>Newsmax.us</id>
+    <title>Nuclear Now</title>
+    <desc>With unprecedented access to the nuclear industry in France, Russia and the United States, filmmaker Oliver Stone explores the possibility of overcoming the challenges of climate change and energy poverty through the power of nuclear energy.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IjkycjhGYkx4Yk1oU2k0dkxUSnNxVEE9PSIsInZhbHVlIjoiaThuV3pncmJqQUl6VmhpeUMxdWVjdkxRbEppZGtrNFVtMU42ZUJha1JkbXg4WlZqSng1QlwvM1ByMnluQkI4SkNtanFCenNZZFwvOFwvMDgyTFNqMjZZSnY1aytLUG04YjVcL0NtTWx0R0M2RUc4PSIsIm1hYyI6ImI3NjI2YjQ3NzZkZGRkMzJiMjU2ZGYzOGJiNDUyNjMzZGE0ZTA0NDU0NWFiNGVmMGRlZjBkOGUwNzBkZDU0MDUifQ%3D%3D&amp;signature=5e21f4c2c9e4a20d908fb106de25e611c0712465431e511898818e944396f17b</image>
+    <start>06:00AM</start>
+    <finish>08:30AM</finish>
+    <date>17 November 2025</date>
+  </channel>
+  <channel>
+    <name>Nick Jr UK</name>
+    <id>NickJunior.uk</id>
+    <title>DORA</title>
+    <desc>Dora and Boots get a baby back to its mama in 'The Little Axolotl', and in 'Bubble Trouble', Dora must save the Big Red Chicken who floats away in a bubble right before the big talent show.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6ImhvWTNqMVNGTk5LcjRDdVwveDAzZk93PT0iLCJ2YWx1ZSI6Ilp1cVE3U040aEJIV0d3TUpJamdVazFUbnhjQ2cyZXJjRVExUVdjSCtINmFkRGYyK2M4djJQYnViMUpXUXVXVmc3UUlGUVdRVmYyOVwvUWJja2ZNS1FGQ00xZVJcL3F6XC9cL003YmtBQXZhMmRBUlFhZ0d2dm9GWnp2TEZ3Ym5XdytNVzlRcENLMkorbXBkNVk0VGs1eVQ1Vmc9PSIsIm1hYyI6IjQ1ZmE1OTFjNjJmNTk2ZWM3OTg1MGM3MDc2YWI5OWM4MzgwYjJjZWI1OWNmM2YzNWI5NzVjOTMzMWIzODVhOWMifQ%3D%3D&amp;signature=94fbd94577e592c1f8db0e534a99d5426f079cca9a07f6953c402737bab66041</image>
+    <start>07:00AM</start>
+    <finish>07:31AM</finish>
+    <date>17 November 2025</date>
+  </channel>
+  <channel>
     <name>Nickelodeon RO</name>
     <id>Nickelodeon.ro</id>
     <title>SpongeBob Pantaloni P?tra?i</title>
     <desc>SpongeBob sau Buretele Bob, este un buretel care duce o viata normala dar nelipsita de aventuri. Calamarul, Sandy veverita, Plancton, dl. Krabs, si prietenul lui cel mai bun, Patrick, sunt personajele care i se alatura in aventurile lui zilnice.</desc>
-    <image>https://epg.best/assets/program-icons?program=eyJpdiI6Ikl1dTN5NTRvRGRMcXNsdFZRTUtTbGc9PSIsInZhbHVlIjoiQWZwSXhXeUNRd0NsYnduMjJmelIzVXd6Y1RyUzJKWkdiUUdrZ2J6SnozR2Fyd3Rqb1d2ZVozemNmeWtNaHlVVVQ1ckF1bUZ6Y2p1NUw3QWNXRXo5a3ZEaGhHdmxkcHdiTEFHMnVWdE9oXC9TYmdKZExHdkxJeDRQXC82UUNVUk1JVnVINjJNb3RDQzVoWVBjTjN1bWo3WlIySEFkekRpN3QwNWVaRGNTRHF1WU09IiwibWFjIjoiZmZkZmQ0M2Q3OTI0NmQ5N2VmMGY0NzI0MzNjZmFkZTkxYzU5YTRjM2UxYTkyNDgwNzg2NGQwNGU4OTcwYzg3MCJ9&amp;signature=24b9b122ed5c4f338ef0bdd47f3a35bb801f6e8673076d19d26b0355d20d76f7</image>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IlNQVDBoUCs5RTlXXC9iaXFxU2JYemdBPT0iLCJ2YWx1ZSI6IkNNRlYzbVZrR0VlWmlNS2dBNCtBU2JOd1R2VzR6blhEbkpiMm1hNXh5QUl5VkJJWWNDT2NDOGI4RWY4T0U4QWRDOVNENTBrbHdpS3F0THVQOWZmQUM0blc3NXhMazhlWHBkVmNLSWxRN2xDRnllYmxOQmFTODlwZ3BWSHhmcjlcL3VkQTdQZjZZMmdTdmR6TERGeTJKM1pXZ1BvOXJyekkxYVVQejlEVWZ0YkE9IiwibWFjIjoiYzhkNzNhZjY0MmYzNzA5Yzk2NGJiZjdmYWRlMjMxMTU0MmJlMDhkMmQ5NTBhNmRjNGEwYmNkMGU1Y2RhNWRkZiJ9&amp;signature=d1217925e7e010b1da33f7da92007cc82f43b7718b76642e70f3eb0fb225849c</image>
     <start>06:50AM</start>
     <finish>07:35AM</finish>
     <date>17 November 2025</date>
@@ -193,6 +973,306 @@
     <date>17 November 2025</date>
   </channel>
   <channel>
+    <name>PTC Punjabi UK</name>
+    <id>PTCPunjabi.uk</id>
+    <title>Live Gurbani Asr</title>
+    <desc>Live Gurbani from The Golden Temple.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IjdjUnNESlVrTVFWczYzMlA3WklOV1E9PSIsInZhbHVlIjoicUdJelhHRnpaUXZPeVNESkNtN09SRHU5a1dQSE9CS1F1c3hra0YxN3hCNHJYVUFHeTNWejFPRDZXcnRGSGxzUThGbGhBOEl5RnkzTWpQSFR3bmxPODNJNCszd3VmWE5BK1U5ZldCN3dGblwveEdvVFJtelJIT1NYVEdrRU1BNHpNKzNFYjlGd2I1ekFpSFJBRTRrT1UxUT09IiwibWFjIjoiODhmZWI1NjFmNTY0MTE5MzI1ZDFiOTI1OWU0YTdkNzdmNzE0Y2U3YzY2YzcxZTI3YmZmZWFkMGM5NGQzYzBhZSJ9&amp;signature=2fe909926b74ed502bcb0ff95a35229666029dd309d9eb4fccab2d41965196c7</image>
+    <start>04:15AM</start>
+    <finish>08:00AM</finish>
+    <date>17 November 2025</date>
+  </channel>
+  <channel>
+    <name>PopTV US</name>
+    <id>PopTV.us</id>
+    <title>NCIS: New Orleans</title>
+    <desc>When a Navy commander's car is stolen with his baby inside, the team must determine if it was a targeted abduction.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IlVXUGI1eVFSdEpKU3U0cTRQT1NtTUE9PSIsInZhbHVlIjoiRHVEMElFaXlXVXZqak1WNHpPVVJwbUI2Mm8xcUl2cjJWTVUwVXVjbW1PME1ib011YlhMK2FKNVBHc29JaUgremxXTndnZ2JvZmNQaWVucWtjRFdtMGVTSmhIcTh2Z2wrZWpDaE9LNGJNN0k9IiwibWFjIjoiYjY3YjVlZjZlYjIxOTY3NmVjZDM1ZTNkNjAzMWRjYTBkOGMzNjNiOTM0NmE1Y2M2YmUzZWM5MzdkZTY1ZDM0OCJ9&amp;signature=0bcfff6891e64b7d98d6529a8652d217ae7e603b84d140ab245c4393c207de7a</image>
+    <start>07:00AM</start>
+    <finish>08:00AM</finish>
+    <date>17 November 2025</date>
+  </channel>
+  <channel>
+    <name>Porto Canal PT</name>
+    <id>Porto.pt</id>
+    <title>N'Agenda - Entrevista</title>
+    <desc>Agenda Cultural apresenta semanalmente com sugest?es e novidades no meio cultural do Porto e Norte do pa?s.  Exposi??es, concertos, cinema, arte etc. v?o ser os temas em destaque.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6InNlRVBmYTBaN1E2QXFMU1dUQUI4eFE9PSIsInZhbHVlIjoiWDR2TXBiOWFIa3U1bUhOQmNvNThUSGRhYXlkXC9LS0lsN3luM3cwRFNMQ3ZYa1ZqQjQ1U1ByNDNmNmtudXl1SHM5R1pMTWF5bmZRS0lSd2NENm1FaXZON3pXQSsyWGtoYkhJN0Z5Z3lING80QUNUNWZCdERsdGpkRjFrNkE2T2VISTU0WWFyRDRNZ3JoZ2NiaGtETnRSQk52TGpVZWNZZjVlblh2QThhN3YxdmVPbXBLMWZCSWxRUFByRzc2cGFlUVNIaXZWZkhaNjBhRjhuVHpLeFZ5d1Vra2hsV3RJVTJPS1A0RTNxODU0MmhmcnVvV2JwZlpVc1c0aUV2VjVnYXMiLCJtYWMiOiIyM2MwMzQ2NjU1YWVhYjRjZDllMzE0ODc2NzliYjkxOGI5ZWYyNjI5NmI4Mzk0YTg3NmE3NTk2YjAyNTYwYjI3In0%3D&amp;signature=8a4dfa2411460724aa31ad7cd654fdbb0e470c21cf5f57e462f8fb061ec95f43</image>
+    <start>07:00AM</start>
+    <finish>07:30AM</finish>
+    <date>17 November 2025</date>
+  </channel>
+  <channel>
+    <name>QVC UK</name>
+    <id>QVC.uk</id>
+    <title>Practical Presents with Shark</title>
+    <desc>Get your Christmas shopping wrapped up early with our selection of great gift ideas from Shark, to delight your friends and family.</desc>
+    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
+    <start>07:00AM</start>
+    <finish>08:00AM</finish>
+    <date>17 November 2025</date>
+  </channel>
+  <channel>
+    <name>QVC Beauty UK</name>
+    <id>QVCBeauty.uk</id>
+    <title>Beauty Gifts with Molton Brown</title>
+    <desc>Featuring an exquisite blend of fragrances from all over the world, Molton Brown's indulgent bath and body treats are the perfect pampering gift for loved ones.</desc>
+    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
+    <start>07:00AM</start>
+    <finish>08:00AM</finish>
+    <date>17 November 2025</date>
+  </channel>
+  <channel>
+    <name>QVC Style UK</name>
+    <id>QVCStyle.uk</id>
+    <title>Seasalt Cornwall Fashion</title>
+    <desc>Founded in Penzance, Cornwall in 1981, Seasalt offer high quality, functional and timelessly styling clothing to complement your wardrobe throughout the year.</desc>
+    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
+    <start>07:00AM</start>
+    <finish>08:00AM</finish>
+    <date>17 November 2025</date>
+  </channel>
+  <channel>
+    <name>RDI News CA</name>
+    <id>RDINews.ca</id>
+    <title>Le t?l?journal avec Claudine Bourbonnais</title>
+    <desc>Un regard approfondi sur les sujets de l'heure, au pays comme ? l'international, et sur les grands enjeux auxquels la soci?t? est confront?e.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IlBzYk95dXNESGd6cjZmZHg0WWhpU1E9PSIsInZhbHVlIjoid1JacEZlNDR2K2wzQk5jd29aa1ZZcDV0VFNKdGFncFZsM2hDXC91SWFJUDZhS0FSak1ZU2VIK3QxdEhRVVo1bm5QTEFDdnE5VWRFOGc0ZzFGcXNNam1aQWZzdEJiZFdRd0t3dUhmbTNpRXIwPSIsIm1hYyI6IjU2N2NlM2EzMGVlMDdiM2Q2ZDgwYTM1MWIxZGFkNTI5ZGU2NWUxOWM2NDllNmEzNjQ3NmQ1OTlhOWI5ZmYxNGEifQ%3D%3D&amp;signature=3d60fda0e019f98e999400e15ca2541712b571947cda82f758ecfc6387d4afdd</image>
+    <start>07:00AM</start>
+    <finish>07:30AM</finish>
+    <date>17 November 2025</date>
+  </channel>
+  <channel>
+    <name>RTE News Now IE</name>
+    <id>RTENewsNow.ie</id>
+    <title>Morning Ireland</title>
+    <desc>Morning news programme.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6Im1IQVFNMVZFbTRGemRwXC9OUnlRdGhBPT0iLCJ2YWx1ZSI6IkpCb0t6U00wTXZVSVwvMzk5aEdvR1VPVFluUlhcL2liMjhIZGZhcVF5SlI0a2QzT3lUZHQ4UHNnekM2V3k3Y1Q3ODU2SEJTQjVWR3lWUE1qZFgyZGZaOEVWUHBJVHpnbmlHYnZJY0xSUVlLQUJSaXdEa0hrSUtOR3hJRFJuYmtcL1NncmpuaURZM2tuMEJtQkZjXC9yVjhYeGc9PSIsIm1hYyI6ImQ1MWFlMzU0ZGNhMzMzYmZhYjdkZjYyMGUzN2FjZWIxZDM2M2Y0OGRmMGE4NDQ0OWUxMTkyNDAyY2ZhY2MyNjkifQ%3D%3D&amp;signature=e91dfaebdb605e01fac4fbf11c2b7133b7986ff58c9896663e98010f8d3cd574</image>
+    <start>07:00AM</start>
+    <finish>09:00AM</finish>
+    <date>17 November 2025</date>
+  </channel>
+  <channel>
+    <name>RTM CZ</name>
+    <id>RTM.cz</id>
+    <title>Blok po?ad?</title>
+    <desc>Region?ln? zpravodajstv?, publicistika, magaz?ny, besedy, z?jmov? a sout??n? po?ady dopln?n? o dokument?rn? tvorbu.</desc>
+    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
+    <start>07:00AM</start>
+    <finish>08:00AM</finish>
+    <date>17 November 2025</date>
+  </channel>
+  <channel>
+    <name>RTP Internacional PT</name>
+    <id>RTPInternacional.pt</id>
+    <title>Bom Dia Portugal</title>
+    <desc>E porque u00e9 de manhu00e3 que comeu00e7a o dia, entu00e3o inicie-o na nossa companhia!</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6InlIWnpOMEg3XC9PVDUrQWhaOWliaENnPT0iLCJ2YWx1ZSI6ImU2bE5pWkdKcVU3VnpcL2IxMmlKazd5YU1aQjBiVWRTeW1cL0FYeG1ZSkV5a0RjTUlLS29Ed2wrTGJHNitLajZmb05veTV6WUhoWmtcL2VmSG1MY3J3Z3M2RnVySjM3Y1ZtakwyamFwY3oyaHhiNTJLY2ZQc1NZN2hDb1NNUktxMkZUIiwibWFjIjoiNjkxZjQ0MDdmNmE0ZTYxYjBjYjU1M2E3MDUzOGE2MzVkMzVkNjM2Yjk3MjAwYjAzNjJhZTRlZTQ4ZTc2YTBmMyJ9&amp;signature=f4195baf7185bf72bd2a75c9916713c7c297180188f5060da06dfb10ce87a2cf</image>
+    <start>06:00AM</start>
+    <finish>10:00AM</finish>
+    <date>17 November 2025</date>
+  </channel>
+  <channel>
+    <name>Real Madrid TV ES</name>
+    <id>RealMadridTV.es</id>
+    <title>Ciudad Real Madrid</title>
+    <desc>Programa deportivo que incluye los partidos de la f?brica en directo y toda la actualidad del Real Madrid: Primer equipo, baloncesto y cantera. Con la ?ltima hora de la Liga espa?ola y las principales ligas internacionales.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IlFkQXVQMjhxMmNhK1l1S2FDWnFnT1E9PSIsInZhbHVlIjoiVVZydU5Yak52TnhDV3orcXF3Z1RybEExVUNwSjJpUE1vUTU4cTkxejNCb1FkczZJcGw0aW5kN3hxV0l2ZFFWSUFFODdsNzNjNUhRYlwvMmk4dmh6UVAzS2NNMlRiaGg2QllqVytwMWZzRG5HdGN2RDcwNXkrVElaa1JGZXQ3dk51IiwibWFjIjoiYWZlYzdmNjMwZTJiNTc1MjRhMGUwZmVkYzI3NDExMTJmYjlkODEzZGJlYTM3MjVkMTQwN2E0M2Y3MmU3MjhmYSJ9&amp;signature=47ba18ea31bd5d70856db539cf2ecb93af3657012f083eff16cd557b35f2248b</image>
+    <start>07:15AM</start>
+    <finish>09:15AM</finish>
+    <date>17 November 2025</date>
+  </channel>
+  <channel>
+    <name>Rtp 1 PT</name>
+    <id>Rtp1.pt</id>
+    <title>Bom Dia Portugal</title>
+    <desc>Porque ? de manh? que se come?a o dia, ent?o inicie-o na nossa companhia! Todos os dias, o ?Bom dia Portugal? dedica espa?os espec?ficos ?s not?cias da atualidade nacional e internacional, desporto, meteorologia, tr?nsito e economia.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6ImFzVHpXRkV1bzdnY3hSVEphTFwvREpRPT0iLCJ2YWx1ZSI6IjJ2ZENUVUlwXC80SURLa1M3eU5paW1OMnplcUJmVVc5WXlmdG9HZlVNRWt1dWRScG51WmFmRU94MTZrTEFaeTVZb3AyOGVDQm1kZjZcL1EzYkhvUnpyOXg5UVh3Qk0zOXpITUo5U2VIUnRYXC93SGRUaUszSWRqeWp3elVhMkM4Q1dhUWU0T0dxZ245Q3E0MmxqamZZQ3dZU3YzZHV4RnBKbGlaU2tpNk5HZ05JcTJub1VHXC9nc0F0TG5sczViMjRuVzdFWDlUMlpxTzdURFU4N093OXY3S2xwV0wzOHRHczdYc3ZrME1zZm5lcU4xTTg0NWNKMU0yZ0JYN0ZIYmZGOUJ5IiwibWFjIjoiZDZiYWRhZmUzNGRiMjdmOWUyNzViN2RiN2NiYTBlMzBiMzdiMzY1NzIzZWI2MmNmMWUzY2M3ZGU4MmNmNGZjZCJ9&amp;signature=5abc1de58f4278cedac8b9dcf9ade675823bc4c5ae0c4f943e962ea137cca5d7</image>
+    <start>06:00AM</start>
+    <finish>10:00AM</finish>
+    <date>17 November 2025</date>
+  </channel>
+  <channel>
+    <name>Rtp 3 PT</name>
+    <id>Rtp3.pt</id>
+    <title>Bom Dia Portugal</title>
+    <desc>Porque ? de manh? que se come?a o dia, ent?o inicie-o na nossa companhia! Todos os dias, o ?Bom dia Portugal? dedica espa?os espec?ficos ?s not?cias da atualidade nacional e internacional, desporto, meteorologia, tr?nsito e economia.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IkpCZ1ZnZ0dsd1d2emQ2NHBCVWhzM1E9PSIsInZhbHVlIjoiMWlnRmtia0hiOTd6QWd1V0J4RmRRZnBzYWtXU0lmdTBJcnVpVjdEcUlzZFQwUWwyN1VqTlQ2dXhKVDRqbkJ3bHZBXC9LZEpFY3lmeGZvOFp3MXBJZEVTT0JuRVZUdTNnajRva25QQ0dOUGZWVkdScjlZbHlpWjdRR0FEZ09UaDE3SVlNMGtOektlTktubHNcL2JENW1DeE5Md2g2T1RWNDlIcGNQZ1VQdDJqanJcLzg0aVM1RnRqc0Q2aTJhZGJocHhSK1BGOW5WR1hyMXc4SVdiTDhtWEdiWVwvRjA4V3RWNWJGTXBnREVLWVZEQ0V6SjBwOWNPcWFONVpSZ2xcL1hCZFg5IiwibWFjIjoiYjMyNTRiNGFlZTFjOWJlNDg5MDAzYjM1ZjVmYTI3ZjM3ODBmYjc5OWE0MjhiMDA0NzI0OGNmNDk3MDVhZjdhYSJ9&amp;signature=8acfc07943b539cbf9bdf46bedf887e0b5c639237a93e4285ca51f1c75045bb6</image>
+    <start>06:30AM</start>
+    <finish>08:30AM</finish>
+    <date>17 November 2025</date>
+  </channel>
+  <channel>
+    <name>Rtp Açores PT</name>
+    <id>RtpAcores.pt</id>
+    <title>Hora de Agir</title>
+    <desc>Hora de Agir ? um programa do F?rum da Energia e Clima que tem como objetivo unir a voz da ci?ncia, politica, empresas e sociedade civil dos diferentes pa?ses de l?ngua portuguesa em torno das solu??es para vencer a Crise Clim?tica.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6Ijk0MDZndGFrbGI1eEhLTDJ3TXIyREE9PSIsInZhbHVlIjoic2pXU0VpZ3h4SVhMdlpXUUJGY2JYV1dmdTJ1RHczSXZRY0RJMklESTQxWEFiZk1nMVlhMFloV3JPTkI1dE5pY3A4NDdrcEpvVUtIWGNaV01VUURhTUFNOWE0UzNVOXMzVGhwZ2xhRU5nRURyWE5wSms1dDdIeEJXdnhKMHlvekNoK1VBbmRpUXVDcVFKS0dReFFXYnZud0E0ajVEQ3Zhd0NzenFrNkZPUzRSYzRyVkxUTExEZ2tFWGRLVkE5akp3d3NmOWRMbjZLSDNGREZNWElOdHNaYnBDTDdoanBTaWhUYTNucWg5RjlteFwvU3BNU20xc0J1MTNWMzFIZGVKYXIiLCJtYWMiOiI5NzEyZTlmOWVhZDgyMDgyYjA5NjdjOGY4NGFkMTliZjBiZTc0ZjgwYzQ0OGNhNzY4MWZjZTFjZDI4NWJjODNiIn0%3D&amp;signature=6cf0f88c72633327f6ea03e5e2aa58d9a2762faf0f45a805d618d5f797cdf217</image>
+    <start>07:19AM</start>
+    <finish>07:33AM</finish>
+    <date>17 November 2025</date>
+  </channel>
+  <channel>
+    <name>Rtp África PT</name>
+    <id>RtpAfrica.pt</id>
+    <title>Bom Dia Portugal</title>
+    <desc>Porque ? de manh? que se come?a o dia, ent?o inicie-o na nossa companhia! Todos os dias, o ?Bom dia Portugal? dedica espa?os espec?ficos ?s not?cias da atualidade nacional e internacional, desporto, meteorologia, tr?nsito e economia.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6InJpejVXM1kwdnJ5bXJKR3h3bDhSZ1E9PSIsInZhbHVlIjoianQyOTNQZHAyKzRcL0h5eGpTUWZ2bU44VFJiZGZEWDFiVkVhOFk4UzZ1M2hxVGJLemk5TTE2VEQ1N1dDdEdjQzc4TnhtbklZZmNJTlhWckpmNnQySnp1VktlcnZnWVhtTlV1XC9NdUJ1VnBDT0dxeGJXbkc3U1wvb3d1eUdWQjB4bmxDREVpVG9RdHBhUmN4QWVON1FWNzNhek1RamtPS2ZIRU9SUDRWNzFZXC9HOEptQVhNbWV2clwvSnorODFhSWt3TWR1aCsxODRPZVNtWTNJODdqSDJqcXBxck13TFdcL3VGXC9WQ0NVTUFYZEh1bXg3SXJRcVFWUzRpQkNQdXhSZU11ZmEiLCJtYWMiOiI5MzAzOTlkYTJlMzE5N2ZiNGMwYzQ1NzNjYmMxY2JkYmFlNzJlYjc2OWEwZmY2NWM2YmQzMDI2YmNiODk1NWUyIn0%3D&amp;signature=dbec1aad8eda088cd39a6ed71c931286e3e9a4a7e09cd8075e9af1fbd379eb21</image>
+    <start>06:00AM</start>
+    <finish>08:01AM</finish>
+    <date>17 November 2025</date>
+  </channel>
+  <channel>
+    <name>Rtp Madeira PT</name>
+    <id>RtpMadeira.pt</id>
+    <title>RTP Not?cias (RTP Madeira)</title>
+    <desc></desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6InZ1NGRZNGRRdk5kM0ZOY2g3N08wZ2c9PSIsInZhbHVlIjoiUVJVXC9lcUVHZ2htVDErOHhVdEdneDB2SHpjV3owdlhEQlBJS09oY3prRHlpeHpFTVladG9YS0Y2aXcxSWhwXC83dnEzWVdmNndKeCt1U3Y4OUY1bm9rRm9QamVkTVk4dG4rd3RmK1l6cDhMVTg2R2NPWXJIVVNSckdFYW91c0QyWWxFMk5Raml4SmZFeUVUYmxCV2hGMjhOS0t0NTJWcjNCU3QrR1o2NTY0QzJUUmxuczhvS1NJWGNuNklGWXRUVHNzRDZWZjk3WTBrYU1cL0NsUWRhZk91YkxZODIwb3VFTWwrWitBR2pQcXlGZXV2Sjd1MnlGMWhqQlVsTnZ1SDJzTSIsIm1hYyI6ImE1YTE1Mzc1MTM2YWNlZmQ3M2RjMjFkYzliMDMxNjc1NTg4NzU0ZjI5MjdmNDllNzBhYmJmYzA5NzEzNDE1MmMifQ%3D%3D&amp;signature=7c9709b5be52fdff778a463d70a28781b2451145ac6ff5a142a9203990094676</image>
+    <start>06:30AM</start>
+    <finish>05:00PM</finish>
+    <date>17 November 2025</date>
+  </channel>
+  <channel>
+    <name>S4C UK</name>
+    <id>S4C.uk</id>
+    <title>Dreigiau Cadi</title>
+    <desc>Mae Cadi a'r dreigiau yn mynd i weld eu hoff raglen yn cael ei ffilmio. Cadi and friends go to watch their favourite programme being filmed.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6InFoRGJBUU1BcldTcDFVTDQ5cUJEQXc9PSIsInZhbHVlIjoiNU84MEtaRllLOE9NZnJFVFNZMkJsaTdDRGd1aFpwVjRzSDBxa0hRSm1DMUVzbjliTzdKVXArTFFvbnVJenNzMklTTDhuYkVnZmRnVG1ZRlpmWWdGdkQ5aE9PSkxjZUMxNE1OZW9HamNwT2dQUGQrOTd0Mmxvd2Z5cW9xd1hJdzZrTWNSUFZidGdqekQ3Tms2YmtlN3Z3PT0iLCJtYWMiOiJiNDU2NjYwM2MxNDhlNGVkMjAyN2Q3NzRhOThkMGQxMDJlYThkNTQzNjJhMzFlNTBjZmIwMGY3MWUxZDI3ZGVkIn0%3D&amp;signature=517a6a04cdd788d24e0505c0aa6ea746df07a295258d4df01c7322c4dd35220a</image>
+    <start>07:20AM</start>
+    <finish>07:30AM</finish>
+    <date>17 November 2025</date>
+  </channel>
+  <channel>
+    <name>SABC News ZA</name>
+    <id>SABCNews.za</id>
+    <title>The Agenda</title>
+    <desc>Delve into thought-provoking discussions on The Agenda, where pressing societal issues are tackled through insightful interviews and in-depth conversations.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IkdaYTBGaEljXC9JZkpTZEtBY3Q4NkF3PT0iLCJ2YWx1ZSI6Im5OY2IrOFNYc0oranlBZVRuY2lCbUl4Ulc2MHlFdTFHT3RTVWJEUlFEc2NuOWprdXdqeVRYcHluOFQzb0lxRzBJcWM4bjlWUTdZcVdqMStLXC9SRTZWc0xHUmNCOUJcL3RVWmlvK0o1c3VhNUFKb2JpZHVnYmhDdm1wajNSekdCZ1BvUlN3YXF4WTdIV1p6a0JXZGJBcEYybStsaWFsTlk2RUNxMVJTVGlNbW53PSIsIm1hYyI6ImRiOTc0OGQ2ZTBlMDEyNTNmOWU3YjM1NjAyOGI3YWJkZjM1YWQyZTE1YmJjNWRmMWY5NmExNDFlNGNkYmJhYWMifQ%3D%3D&amp;signature=a07376a428b53244925b391f2e8e4a0e2605dfe04aa3f02707c083b70d57d58b</image>
+    <start>07:00AM</start>
+    <finish>10:00AM</finish>
+    <date>17 November 2025</date>
+  </channel>
+  <channel>
+    <name>SBS Plus KR</name>
+    <id>SBSPlus.kr</id>
+    <title>?? ?? ??</title>
+    <desc>??? ??? ????, ?????? ??? ?? ??? ???? ???????.   ??? ??? ?? ???, ? ?? ??? ??? ???? ?? ???? ??? ??, ??? ??? ????.</desc>
+    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
+    <start>06:47AM</start>
+    <finish>08:51AM</finish>
+    <date>17 November 2025</date>
+  </channel>
+  <channel>
+    <name>SKY Racing AU</name>
+    <id>SKYRacing.au</id>
+    <title>Sky Racing 1 Racenight</title>
+    <desc>Thoroughbreds from Kawasaki, Bursa, Le Mans; Greyhound Racing from Dubbo, Maitland, Nowra, Ballarat Extra, Warrnambool, Sandown Park, Angle Park, Mandurah, Launceston, Warrnambool Extra, Q Straight, Harlow; Harness Racing from Canberra, Pinjarra.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IjlcL2M0VHhhTWJRckdsMGRpRUpEdWhRPT0iLCJ2YWx1ZSI6InhHSmhtVCtETkZXQmRSK09QV3lvWXVVM3ZSbHBDWTJnWDY5MmpackpNdWtwUENQaEc1OEJlV2w0NHJhVVZxV1VieHBUeHo1bkZLbkcxTkNKc3ppUEN0Rnl1Zlk5Q0o2XC91XC8zdTJHRDdtbHg4SlNZbFMrTjIzRjNXUjM3NlVDaWVlemhtZW5Ra1krekVpU2tpcTB0Z1dEMDJZdFBQaUlLZ0lDZ3BnMHlqeFJmam1iMG1McThWcnhBMGlRSTRsMmJcLyIsIm1hYyI6ImZkMzI1MjA1OWU2ZjViMmVmOTMxZDUxZTRlY2FhYjJjYjU2ZDZjMzMxM2NhOTcxYTM4MWEzOGY1ZjUzOTk3MzUifQ%3D%3D&amp;signature=52604c646de06a539ce76dfc36bd090e354a7cddbcbd5d11d86bdae1bb6650e9</image>
+    <start>07:00AM</start>
+    <finish>11:00AM</finish>
+    <date>17 November 2025</date>
+  </channel>
+  <channel>
+    <name>SKY Racing 2 AU</name>
+    <id>SKYRacing2.au</id>
+    <title>Sky Racing 2 Racenight</title>
+    <desc>Thoroughbreds from Leicester, Plumpton, Kawasaki, Bursa, Le Mans; Greyhound Racing from Dunstall Park, Romford, Swindon, Harlow, Youghal; Harness Racing from Vincennes.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6ImNGdzY4a2IzTjk3SVkyXC9DQVwvaE05UT09IiwidmFsdWUiOiI5aDhxeGZUUmlabmFLYm8xTzB4QnU5NUZWK1ZnTk1WcHhyUmZvS0tNNjRzNEJXbm96c09HU1h3ajhXYzAzTFwvTlpBYXJpNVl2T1p2WkRDQ3dNNHNDMm1VUWtCb3pOaDZJYnBIbTJjUnIxdElCaVc1aGxkcXRtSkxvbG53SExuelViSmg0NWc0XC91Zk12SXNXaUE3S1dpazQ1cVU1VTF5a3hiZmhJWW5ZdHdJeUlXXC9FMnFqcUFWNzZRYTM4QTUzNzgiLCJtYWMiOiI0ZjkxZjVkZDI0YjdiNzc0MjA3NjEyMTM2YWMwOWIwYWI5ZjA0ODU0MGVlNmYwMzg2MWM1MmVmMDU1ZjU0MjEwIn0%3D&amp;signature=833f0cb6d3af01b96a4b6eb23d356f51a2b0ba99ca53268459f07fc507aaba35</image>
+    <start>07:00AM</start>
+    <finish>01:00PM</finish>
+    <date>17 November 2025</date>
+  </channel>
+  <channel>
+    <name>Sama Dubai AE</name>
+    <id>SamaDubai.ae</id>
+    <title>?????</title>
+    <desc>??????? 2017 ?????? ????? ?????? ???? ???????? ??? ???? ??????. ???? ?? ???? ????? ??? ??? ????? ?????. ??????? ??????? ??????? ??? ????? ?? ??????? ??? ???????. ???? ?????, ????? ??????, ???? ??????, ???? ??? ??????, ??? ???????, ???? ?????, ??? ??????.</desc>
+    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
+    <start>07:00AM</start>
+    <finish>08:00AM</finish>
+    <date>17 November 2025</date>
+  </channel>
+  <channel>
+    <name>Sky News UK</name>
+    <id>SkyNews.uk</id>
+    <title>Mornings with Ridge and Frost</title>
+    <desc>All the big stories of the morning plus news making interviews, analysis and eyewitness reports from around the world.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IlpRZm9WdFpWQVRMXC9ZUDBXRnEzenpnPT0iLCJ2YWx1ZSI6IlkwQzloMERGdkx1YUFjMFpnc21hV0pSemxYZll6MXBZdERcL0EzWnBDMXFldENwQXR1VGUwUlRMWmliSzVMdVR0Sk1Oa3N2YjdCNzJ4ZG1mZHdaNjZxb2NIbEhIQzhjZlwvWmRudTNYWWtxMEZoR2ZPc3hRRityMkpFYVI5SDQ1eUxDQWZFSDlhZEJUSENkTGRETWlHWHNBPT0iLCJtYWMiOiIxNjdjZjEwNjI0ZTQ0MTJjYWIwZjI5MzQ3NjkyYzY2YzQ4NjliOWYxYjAyZDU1MDRlOWUyMDdhZTcwMDU5MThjIn0%3D&amp;signature=dcc6a1d4c52d8f3a5d3fa6519ac45aa15dda36cc61b3573aaba48fdea966a678</image>
+    <start>07:00AM</start>
+    <finish>07:30AM</finish>
+    <date>17 November 2025</date>
+  </channel>
+  <channel>
+    <name>Stadium US</name>
+    <id>Stadium.us</id>
+    <title>Cajun Pawn Stars</title>
+    <desc>A drummer's pad signed by Louis Armstrong; three unopened Prohibition-era whiskey bottles; Tammie looks at a World War II Inglis pistol.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IlhhKzZnSXM3ZlYrcitNc3JscXgrbnc9PSIsInZhbHVlIjoiNmdPQWZ4YzRRN1FzbHpIZ1lEWXZOc0VhRzVWY0FcLzZZQldrYm9iRXZJMjltUEJcL0oxMXVTWlExTGM5YWNnd2NkOFFlbTRkcVwvMVl1aUNDbUQ5XC9BK2tlRU11WDE0MkVKOTlzTlRNVFVlTE5JPSIsIm1hYyI6IjYwNzExNzE2ZjdkNzljMmYxYTBmNjVmNWJkNWIwNGMzMDZhZTEwNjkzN2NhNTZhMWY0ODVkMjBjZjUxMzc0M2YifQ%3D%3D&amp;signature=5efd493839395222eb29d9e87ca9f2691fabb60604f18d4c91ff340358445573</image>
+    <start>07:00AM</start>
+    <finish>07:30AM</finish>
+    <date>17 November 2025</date>
+  </channel>
+  <channel>
+    <name>TF 1 FR</name>
+    <id>TF1.fr</id>
+    <title>Bonjour ! La Matinale TF1</title>
+    <desc>Bonjour ! La Matinale TF1 est le premier rendez-vous d'information de la journ?e. Bruce Toussaint fait aussi intervenir les correspondants en direct en r?gion.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6Ilh6T0xXd3hDQXpNQ2pvc1orK2xSSGc9PSIsInZhbHVlIjoiSUJKekNVTVcxc05KZDZQUUlNTW1QT3IwalpzeW9oOTNrNnRZQ00yUTR0OHpLNkc1VkYrbnd5UWpiVEU4d0dqeENsMzBKWWc1OG83UzdKbFNSdFJKWGQxdDhQMGtBTHJ3YVIwTUs0VGVhWmhrUWJhZXNhY3h2Qld0eHJFdldORFVsSG50V2dTQUtMeHhhYlRHVUJcL2ZJS1pUSTNabm1VbDlBV0l6VDJkdFJmT3pRbW1JekpaNnJPa1FRR3l1RHBiaTd5SjBWTlY5TU5vVkkyc1dDek41Zkw0azFwTTNtWUZDaE5WMTJFc29kSkQzS1wvbjhJQjVITUcyYnRrRlVvcUU3IiwibWFjIjoiZjc1Y2VlMGE3NDA0NGZjYWVlNGVkNDBjODNiNDBhNzU0YTZhMTllNjRlNTUxYmM0MDFkZmQzZTVjYWFhM2IwZCJ9&amp;signature=26a5cfa4934aacba59680eb6239c2598001c2cdf92263375a4a6710cf8a37efe</image>
+    <start>05:55AM</start>
+    <finish>08:55AM</finish>
+    <date>17 November 2025</date>
+  </channel>
+  <channel>
+    <name>TF1 Séries-Films Fr</name>
+    <id>TF1SeriesFilms.fr</id>
+    <title>Petits secrets en famille</title>
+    <desc>Benjamin d?couvre un cambrioleur s'?chappant de chez sa soeur Samira, h?mipl?gique. Des traces de bagarre laissent penser que quelqu'un a fait fuir l'intrus.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6ImFoeTZqTHNkcG9BOG41aHMyRlBBVlE9PSIsInZhbHVlIjoiRURcL2lENEllVU5POVhuY2o4aUZydW02b0pub0lXNmI0clZTajFCVHhxVkdna2VHUUlHNkRFUTBXSk1WNko2NTJMZ3B5XC8raTI5aUNtVlRXTzdqc2hNZzBMeEQxK1RJb2ptbHozSGt0Z2NnalZBOWtwZU1BRnVvV3VNd3VvY3h3SyIsIm1hYyI6ImVkMDA5NGI3YzA5YzUyZTQ0MGQ5MGMxOWE5MzNmNjNmNWIxM2YwMDI5MmY1ZDIwMjU0MGU2ZDA5ZGNhZDA3ZTYifQ%3D%3D&amp;signature=01ac0b6981bd95f1ca9b7544c750a180ce5df066e83e1f5f016fb78723c06ea7</image>
+    <start>07:10AM</start>
+    <finish>07:40AM</finish>
+    <date>17 November 2025</date>
+  </channel>
+  <channel>
+    <name>TFX Fr</name>
+    <id>TFX.fr</id>
+    <title>TFou</title>
+    <desc>Santiago des mers ST / Ruben &amp; cie ST / Paw Patrol, la Pat'Patrouille ST / Super Wings ST / Dora ST.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IkVxa1d3YTduN1RNbkFqdHgzMXdqSWc9PSIsInZhbHVlIjoiVzRJa3dhQnJBTTFuYUVnN3RSQjNnMkNjdjhBd0crUzE4UDJDbUplTHA1azlnUDUzd0cwUHhOalwvT0ZGSWlLVzVvNndCbnNtYkRDYW95ejhTZzB1NjV4T29DQTVnTkx2QW91TFdsazMwaVN0RG5uSElNdjZPR0lEWXFyUVFEWUxPIiwibWFjIjoiODg0YTNlODA1OTNmYzRiYmYzNzA4OTQyNzg1ZTNjMDgyMjdjMTkzOWRmMGRkN2Q5NzhjMWM0ZmMzM2QxMzc5MCJ9&amp;signature=73f2f7dbabeeef3716fea9c6e8aa51678882287a7a955b79cb5b3c4568aa1e66</image>
+    <start>05:55AM</start>
+    <finish>07:30AM</finish>
+    <date>17 November 2025</date>
+  </channel>
+  <channel>
+    <name>TG4 IE</name>
+    <id>TG4.ie</id>
+    <title>Clifford</title>
+    <desc>N? m? n? s?sta at? Turloch go gcaithfidh s? fiacail a tharraingt.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IjVXN0FXd0xCdkFteDk3RWxzXC84NzdRPT0iLCJ2YWx1ZSI6Imw5MTRpbVBWdUFDRFloMzQxVVYwaUZVXC9qSW0rRjUwM3JnaHNUbWNUZGRSSXE0WmV5T2NpektSQmZ5bGVmQUpzY1hCNWpaOVZSZmFCbU9DVjM0N0lLM1dyT1hzODNIY28xeGFiMGZYUEFDbERRdFJMQ204dUN4bHM1SUhXckFldzFDbzNoZ1pvdVVsdkZidHNodlJzRmc9PSIsIm1hYyI6ImQwMmQ2ODAyYjUxOGM2OGNlOGZhZTBlN2EyNTA1NGZkZjg5ZTRkMmM2ZmVkYWU0N2FjNzI2YWI4N2M4MjdmMmIifQ%3D%3D&amp;signature=9844bc0556d5946b088713d11e9df3cc5792469d792f162774e07de7ee31886a</image>
+    <start>07:17AM</start>
+    <finish>07:30AM</finish>
+    <date>17 November 2025</date>
+  </channel>
+  <channel>
+    <name>TRT Cocuk TR</name>
+    <id>TRTCocuk.tr</id>
+    <title>S?per Tav?an</title>
+    <desc>Simon bildi?imiz ve sevdi?imiz s?per enerjik, s?per karizmatik ve belki biraz tatl? yaramaz k???k tav?an!\nRenkli bir hayal g?c?ne sahip olan tav?an Simon, bir yandan e?lence pe?inde ko?arken di?er yandan sorumlulu?un ve ileti?imin ?nemini ??reniyor.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IkhYQVZOeFhHZGc2KzNFdjZLbVpLaWc9PSIsInZhbHVlIjoibThzWmRvTHJ1ZjljSlFKMURzeDVZQjhRcEQySlwvQ2ZkWXZlWlpYZVZHUFc4SDBOUWFcL3Y5RDFaQnNicTBiOGdnUzZtZGlKenpFcmI2aTB4aHFLSUJtUTZlTUxRbjNmWFNLZk9JYjdMUXZmd1JsYmdnZzZ3RXdLbVhpU3hjUjNYTHNBNTgyaW1zRTRJSXV5RmVBM2k3dHVTZUZ3ZnZWRGREdGJWbWpyRWo3RGF3eTVBUHFmb3d0U1ZhRk9ZaDRoZmt4OVlIaXRQXC8yTUxpWk9TY3dvYW5sQT09IiwibWFjIjoiNDIwZmI0Y2VjMzk0YzZiYjcwNWUyOTI1YWQ2ODRjMmIyYTA1NGU5N2U2NjMyYTc4ZDg5YjI4ODNlZDk3MDc2ZCJ9&amp;signature=3a9533ce0236f39b505c5e9e26d74a338b0a7445775b8346b15ff3a8cc1f6b39</image>
+    <start>07:20AM</start>
+    <finish>07:35AM</finish>
+    <date>17 November 2025</date>
+  </channel>
+  <channel>
+    <name>TRT World TR</name>
+    <id>TRTWorld.tr</id>
+    <title>Business News</title>
+    <desc>As the world grapples with ever changing politics and crises, economy is always center stage. ?TRT World?s Business News gives you the insight.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6Im1FVVNrUkIrXC80M2NWcGVpSkpwSHNRPT0iLCJ2YWx1ZSI6IlREV3ZiaSt1dVRpRlVuTGJnaFRaQW03NkZyZ05kcWpzQXdoeW4zTFN6cTkwU1JXTE9jc2pZOU1pdVBXYm1hOHZkSHlOcXErMHVjcWZEbHdFMmhcL0UyVVR2NFdzcjdiT3h5SXptT3N2ZG8wS2ROdmdrRGkzcWI4MmFZYWxmUFVOXC83c2xWZVRYeW5QTjcxWU1yQm15Q1FCVVhmK0d5OHF1MFBlT0dGdVpcL1U4WTJlOFZHZmFGSGE3YkM4eFJ0MWtrd1pSWWwyRnJmVnlMY2hpWUJxZEdaUnc9PSIsIm1hYyI6IjA4ZWZhNWRlZDQxMmI0MTNlOWQxZTI0Yjc5NDQwMDRmYzdiY2IxYTY1MTIxZTJmYTU4ZjlmM2Y2ZDYxNTBhZmQifQ%3D%3D&amp;signature=f8804e369e8f0fbeaceb87042ac8049cbfb787b1e8af21d352b8c37fecf35070</image>
+    <start>07:00AM</start>
+    <finish>07:30AM</finish>
+    <date>17 November 2025</date>
+  </channel>
+  <channel>
     <name>TVNZ 2 NZ</name>
     <id>TV2.nz</id>
     <title>MKR</title>
@@ -205,11 +1285,41 @@
   <channel>
     <name>TV 5 Monde F-Be-Ch Fr</name>
     <id>TV5Monde.fr</id>
-    <title>T?l?matin</title>
-    <desc>Ce rendez-vous matinal se propose de vous informer et vous divertir, en m?lant rigueur, bienveillance, clart? et bonne humeur.</desc>
-    <image>https://epg.best/assets/program-icons?program=eyJpdiI6Ijl0VThlWTNRTVlIWGtBQjZkZ0JYZ3c9PSIsInZhbHVlIjoiVThYbnJ3WDZZeFJLVDJUbDlkTTY3cnBuQUQ0VWdpd1RXcWFvQVhwVmNvQWxpVjNMeGlPaGV5Mk03VVdCXC9nR3l2MzVxaE5YRVZoeWNcL0FxdXFycGNpOXBSSDJuZnpiRHhaQVUyaGVCVE9MbjEwWEMyc1dZblwvbXc5b2ZDMURhMmciLCJtYWMiOiI0ZmFhZmNkY2E0ZDA0NGI3MDg0ZjUwMWJlZGUzYjA2NDYzYTE0YWZhNzY2YTk5MzcyZTMxYjJjMGMzZTZmZmNjIn0%3D&amp;signature=7898a46cbe529ed6723d529ed79cd80ed12636c4a66609d3231bf0b3e7936520</image>
-    <start>06:50AM</start>
+    <title>Tendance XXI express</title>
+    <desc>Delvaux, bien plus que des sacs, c'est toute une histoire, celle du sac ? main en cuir invent? pour les femmes. La premi?re maroquinerie de luxe au monde a d?j? plus de deux si?cles d'existence et son savoir-faire s'exerce ? l'Arsenal de Bruxelles.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IlREY3R5ZnhlMmJoeWdrSENRY2s5K0E9PSIsInZhbHVlIjoiSXViSmZjbzg2NUtmcmlKNkd1Rm9cL2o1TlhDUUt1aDlraW9qdTNqT1h1c3RpdXV0VHJRMXU5dDg3cm1CRHYxOWgydlNlWEVHQ2FMWU9rbHpwMHZkNnQ0cTZkNkowenRISXdqb0pOeFJmd004PSIsIm1hYyI6Ijg5MjYyYjQ2MmYyMTliNjNiNTA5ZmI2OGEzZWZjMTZkMmM5NzBiMDQwZTFlOTg1YzQ0ZjAyNzBmY2E2NTJiN2EifQ%3D%3D&amp;signature=88095117eeb485d045ed520aa50e871eb1e3d9cb125d13cf84fbfcf45ed0b10c</image>
+    <start>07:21AM</start>
     <finish>07:30AM</finish>
+    <date>17 November 2025</date>
+  </channel>
+  <channel>
+    <name>TVA CA</name>
+    <id>TVA.ca</id>
+    <title>Un boulot ? l'italienne</title>
+    <desc>Un cambrioleur audacieux et ses complices se rendent ? Los Angeles pour subtiliser ? un ancien membre de leur bande le magot d'or qu'il leur avait d?rob? lors d'un vol qu'ils avaient tous superbement organis? ? Venise un an plus t?t.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IkZDempxM3VLU1lzdTFsdGtlWVhkaWc9PSIsInZhbHVlIjoicWw1YnliSHpzb2NPcVNBRVhPY0ErUUV5eUczSGZQbnFRVmtuMVArZXBNelZ1UFg4KzlWXC9YZ2gwRlc0SStZTENja3Iwc3oxc2pmaHhvRDAyOFFGcXFRZmFxVmxRKzFmMUtMZnVYTWo2RFZBPSIsIm1hYyI6IjdkYjM4ODAxZGU2NjM3NDdhYjMyNDUyYzk1NjNkYWViODI3NTRjNDQ3YjM4YmY5NmU1ZjI3YjM1Mzc4YmM5NjEifQ%3D%3D&amp;signature=29fcb39163c733b31a6642acaf98241f178755076e779503f6d6c0c210030490</image>
+    <start>05:33AM</start>
+    <finish>07:41AM</finish>
+    <date>17 November 2025</date>
+  </channel>
+  <channel>
+    <name>Tennis Channel US</name>
+    <id>TennisChannel.us</id>
+    <title>Center Court</title>
+    <desc>Tennis action from around the world.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IllzOTREdDZ2cG10aW90c3VwaG43ZFE9PSIsInZhbHVlIjoidmNCcjlqY1laSTRXNzROODQzOSsrTUVlRDUySDhkWGplaFdSbzdaNUhwVjE2SUNHOEdyN3BvcG1CRHNveFBTSDlHR1N1UjA5TkJMbjJyU0NcL09uOXpoWEJiZzA0Ymlmd09xN0prNEJ4Qm1rPSIsIm1hYyI6IjMxYTkwMmRmZGIzMGI5ZDkzYzc0MTA1NGMwOTkxNDU4MjczM2E1MTMzYmYzOWRjODlkOWFiMTM2ZWUwN2MyYzgifQ%3D%3D&amp;signature=150a02bcbe0de970c7e067b312376092811cbc81653767453b2ba280226ef4ab</image>
+    <start>03:30AM</start>
+    <finish>11:00AM</finish>
+    <date>17 November 2025</date>
+  </channel>
+  <channel>
+    <name>The Home Channel ZA</name>
+    <id>TheHomeChannel.za</id>
+    <title>Selling Ireland's Most Exclusive Homes</title>
+    <desc>Over in the seaside village of Dalkey, we follow estate agent Rena O'Kelly, and her photography team.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6Ijd5b0M1WVJZWExWZ1U5K0YrTUVUckE9PSIsInZhbHVlIjoiU21IYW5uckpPRGZaY1FQV3FFNG9vV1hyeWZxOEpXbktFR3hJODI4SThcL2ZHUDloblc2bkI2VGtlREUwVlFoUHpxRW1zNnk2YlV1UHRtOGwxQU9veXpkUU1KMUNxaXZLT2pweGlpbEVYTVpsdk9UeHMwbEd2MFZKSEIyTnlGd1pUQk1UZFcxQ240Z1FwZnBJZ1hVUHRXdVVUQnN0Nld4OHo0NXJPeVBuR0pWbjBkUVVJc1pYZ3pxWkFNb3NrOGtlWHRvOEN3R0dFalhLM3E1aEozSVVLRm5sYkdLS3VDYW9tVng0dStpVVdhSG89IiwibWFjIjoiMjJiMTFlZTlhYzUyODZiMDYwZTBkNjkzYTQzNzdiMDU4NjI1ZGZhMDVlYmM4YjFiZmMyZDM0NGU2OWU4NmZjZSJ9&amp;signature=7ae3a6e4b1002a10d355eed1b8e6b4c2a1d51f38e462650207a97fbc8efc69b1</image>
+    <start>07:00AM</start>
+    <finish>08:00AM</finish>
     <date>17 November 2025</date>
   </channel>
   <channel>
@@ -223,13 +1333,103 @@
     <date>17 November 2025</date>
   </channel>
   <channel>
+    <name>Together TV UK</name>
+    <id>TogetherTV.uk</id>
+    <title>Teleshopping</title>
+    <desc>Teleshopping programming bringing you a selection of innovative products.</desc>
+    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
+    <start>07:00AM</start>
+    <finish>07:30AM</finish>
+    <date>17 November 2025</date>
+  </channel>
+  <channel>
     <name>Vosges TV Fr</name>
     <id>ViaVosges.fr</id>
-    <title>FAIS TON SPORT A LA MAISON?! S01 EP22</title>
-    <desc>Retrouvez les retransmissions sportives diffus?es sur notre antenne.</desc>
+    <title>RETROSPECTIVE DU JOURNAL ? METEO ? L?HEBDO</title>
+    <desc>Le magazine d'information de l'agglom?ration spinalienne.</desc>
     <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
-    <start>06:15AM</start>
-    <finish>07:00AM</finish>
+    <start>07:00AM</start>
+    <finish>07:45AM</finish>
+    <date>17 November 2025</date>
+  </channel>
+  <channel>
+    <name>CW Boston US</name>
+    <id>WLVI.us</id>
+    <title>Weather Gone Viral</title>
+    <desc>A dam unexpectedly collapses, bringing terror and destruction to a small community; a dangerous windstorm whips through a playground filled with children; a group of tourists vacationing in Alaska witness the beauty of a calving glacier.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6InBCejFIbjFzb08rZWZhanVlU2pZbFE9PSIsInZhbHVlIjoiRk1FMjJ2Mnd1VUVCcjNLdThoNEFcLzNZcmJLUWx6cXdFNTlROHRwTnY2MjdEUFltRENtMHp6a3RzKzliNFNYeEVWXC9McTdkenJVZFM0Q1BiZzdVWUh1Y1cwNzFPTjluWlVIeEtlam0zdTRieVR6a2htbkswMUpMNko4clZ4bXVlSyIsIm1hYyI6IjkwYzNhMDg0MWFjMGIxNzlkNDBkNDZiYjQxMmViODg0ZDc4YzcwY2ViZjk0ODkwOWM2Njg5OTQ4MTdkZTRkOTMifQ%3D%3D&amp;signature=5258b846d3c4524839f9bc281c43510ad791435adf4cefb4676bad6865e27774</image>
+    <start>07:00AM</start>
+    <finish>08:00AM</finish>
+    <date>17 November 2025</date>
+  </channel>
+  <channel>
+    <name>Detroit Public TV US</name>
+    <id>WTVS.us</id>
+    <title>The American Revolution</title>
+    <desc>Opposition in colonial North America to British policies over taxes, land and sovereignty escalates into violent confrontation; war gives 13 colonies a common cause.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IkhYMjQ0QkN0eDdPdEl3dzMzUkFxVUE9PSIsInZhbHVlIjoiRWphVlBmRDZadUNSOER3SWNxNXVWYnd3YnZpY095ZFk3RmNxRHMxcGRaKzFuUEdFNmxwYmhydXA1dXRjV0Q1ZTNIYW0zVitMVWtnYlRDbmVObXpyTFc2bWFTWHVQbGpyMVwvVW4zZ2dLZEY4PSIsIm1hYyI6IjdlODc0NGNkYmJkNmE4MThmNDdjZGUyMzIzZjY5MzJjYjAyZDhhNzg4NTFhZjY3ZmVlNzJhNzc0YzNjMzkwYWUifQ%3D%3D&amp;signature=cdafce3900413e09e82889346db84435e6462175a58a3a8f38ce49294913e8bc</image>
+    <start>07:00AM</start>
+    <finish>09:00AM</finish>
+    <date>17 November 2025</date>
+  </channel>
+  <channel>
+    <name>Weather Channel US</name>
+    <id>WeatherChannel.us</id>
+    <title>Highway Thru Hell</title>
+    <desc>Al heads to a semi in a snowbank but a second rig hits it before he gets there; Jamie puts his LA Rotator to the test on a technical elevated roadway recovery; Kyle wrestles with doing a dump truck rollover without the help of his Uncle Rob.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6Inc2dyszUGJPbll4K1VYVlh1ZEw3Z1E9PSIsInZhbHVlIjoibEU1Q2s5aWRDWEkxK1p5UVlkb0dmNDRlbHlpZUQ1cXBScEZRT0FibFhwbVNNSk00ckxabVFjSVFSVFk4TllROThmWU9Jc3FMU3VyY1wvdzJlMzhjWk5GMk5BcVwvcXMxd2dkcTBYSEpxSmVTST0iLCJtYWMiOiJmNDc3Yjc0MzJiMDJkYzVmMzY2Zjk2N2Q3YTAyNGUxOGMxOTRiNjkzOWQ4MjJiMmQ4NzdlNmFkMTdiMWNkYjZiIn0%3D&amp;signature=78af60b82bf10912ab9e304633a3292456d38e39b8e94e6abf4ae17cb9eb8979</image>
+    <start>07:00AM</start>
+    <finish>08:00AM</finish>
+    <date>17 November 2025</date>
+  </channel>
+  <channel>
+    <name>Weather Nation US</name>
+    <id>WeatherNation.us</id>
+    <title>Live Weather Coverage</title>
+    <desc>Live top weather news, severe weather coverage, regional forecasts, and a look at your local weather every hour on the 7's. For more local weather, sooner!</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6Inh6VkdTSjVIMjNYQkIyMmsyMk94Mnc9PSIsInZhbHVlIjoic1NnUWhqeFlLRU4wOGF5YlpON2lsekZDeEZiS1RhWG4wSERvZldvU1NkWnRoalRiY1N4SFdocFZjcHcrSklSWUhBTlgxeHdQeHR4QXd5OTFTcUw5OGNtVXhTVnR5OGMrRUZUTnFrRjZVdnM3UFRLWXFCdVl1TVJzaTc2R2lwbVAiLCJtYWMiOiJkYmI1MjFmYzM2YzJkMGFkZmM4ZDljODU2YjVlZTViZmNlZjNjMDIxNmMwMGVkODM4MmFmMDgwMGVhYzRhYjYyIn0%3D&amp;signature=601da41cf3ed95859498c57e71ce2cc03bf464e3974d6fc960ffc6d0db91b720</image>
+    <start>07:00AM</start>
+    <finish>09:00AM</finish>
+    <date>17 November 2025</date>
+  </channel>
+  <channel>
+    <name>YTN KR</name>
+    <id>YTN.kr</id>
+    <title>??ON</title>
+    <desc></desc>
+    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
+    <start>06:50AM</start>
+    <finish>08:50AM</finish>
+    <date>17 November 2025</date>
+  </channel>
+  <channel>
+    <name>YTN Science KR</name>
+    <id>YTNScience.kr</id>
+    <title>???? ???</title>
+    <desc>?? ? ??? ??? ??? ??? ?? ?????? ??? ? ??, ??? ????, ??? ????, ??? UCC ?? ??? ??.</desc>
+    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
+    <start>07:00AM</start>
+    <finish>07:30AM</finish>
+    <date>17 November 2025</date>
+  </channel>
+  <channel>
+    <name>Z Living US</name>
+    <id>ZLiving.us</id>
+    <title>Rowan &amp; Martin's Laugh-In</title>
+    <desc>Comedy duo Dan Rowan and Dick Martin host this fast-moving comedy series; characters include Lily Tomlin's Ernestine the Operator, Arte Johnson's German soldier, and Ruth Buzzi's feisty little old lady.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6InVqdXBWSnplRnNGdUhwQVczM1wvWE9nPT0iLCJ2YWx1ZSI6IlpYdDlTN3ZKbUVaeVhvd0J1TVRzKzBMOHhtRTdXSDE0cXFQaWF6dlBJY3NvKzdySjVQVFgzK2w2NDFcL0tuTStaXC9SZldJQzF5WTRtbHdrRmUzd21nTDVvSXRwdjdVbGpHbTdZakhpTlVucWs9IiwibWFjIjoiMjcxOGRmYWFjMTY2NzdkNzRiZmVkYzAwNjcyN2FhMmNiMzg0YzYxYmMyNGRjOGE4YTQzNTk0ZGZiZGQ5ODkzOSJ9&amp;signature=1313c6177ce1351b56cdfa337f1158ef1b12a33346d7f6c328675a18a16822e9</image>
+    <start>07:00AM</start>
+    <finish>08:00AM</finish>
+    <date>17 November 2025</date>
+  </channel>
+  <channel>
+    <name>Happy RS</name>
+    <id>happytv.rs</id>
+    <title>Dobro jutro, Srbijo</title>
+    <desc></desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6InhOcFpucjdxNGFlZEh3RHNzbEtNOFE9PSIsInZhbHVlIjoiYk9sZDI0Wm5CZ2N1TmR1TU9oa3cwZmh1cUdiRjZGQTJtS2M3eE5mT0hLdFBOXC9nTXVEaUdrN0M5Rm1XUFp6aEtwbFwvTVd3Z0ZsSFUyMEpqYVBsak8zV3VBQUR0XC9wdGlDYm5zOHQxU0h6K2IyR1RMcEgzbjhBTkZuSiswRktRZHdjOE9iMFNyYzkxcjI0SStNY2JMU2ViZ2preTBqajJJVkdmc1FoQUNOSUFBVnY4NUJaRHlaOHhsQUFiR3Zadk03bU5MYzVDZWRMV1BhNXB6S05VbHBxb1dKVE5KN0lOUUpzeFNQZ1dyTWtiK09nRXNaQndEZ2s0VXcwbTFUR0VwMiIsIm1hYyI6IjJmNTc4ODljZjcwMzViY2M1MTQ2YTAwNTNjNzgyNzZlNTc3NjUxMmIwOThiM2I0NzIzYjhiN2IwOThmZjA1MTYifQ%3D%3D&amp;signature=a77beb0734ae231ab7280a47d95196b25335f7e1d2cafdd03a5b6d2d839bc14c</image>
+    <start>05:10AM</start>
+    <finish>07:50AM</finish>
     <date>17 November 2025</date>
   </channel>
 </tv>
