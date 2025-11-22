@@ -1,2 +1,623 @@
 <?xml version="1.0" ?>
-<tv/>
+<tv>
+  <channel>
+    <name>SKY Racing AU</name>
+    <id>SKYRacing.au</id>
+    <title>Sky Racing 1 Racemorning</title>
+    <desc>Thoroughbreds from Ascot Park, Del Mar, Gulfstream, Laurel Park, Aqueduct, Zia Park, Woodbine, Tampa Bay; Greyhound Racing from Manukau; Harness Racing from Motukarara.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6InRwYXhON1JMV0c2ZEgzVDFJOW9qOUE9PSIsInZhbHVlIjoiUnBSemlxYXlMY0FLQlhFQ3FQQ3Y2VE5ERldXR2lOMWdQb0VmM21vZTBXSEJFVzVQdVpZUU1oczl6MUVSNHJvZWhvRzBHZlBRUUF1RlFJWHJxem1oVzVWdmxVaGJJRDBFTHJcL1BUbDdxb25aY3BjQ1V1dUhQNE1lUlNpS3FRVk9uRTFYZjByZDZ5UUlLSDVpbk1MdXI3d3pZYUk3dzZ3QUxON2NFeUxnRWFVVWJxdjB0cmRHUlFBU29FZmhJMnBDaSIsIm1hYyI6IjkxZmQ1OTI2NTMxMDU4MzNjNDg0NWExMTZhNzI3M2Y0Y2M0ZjAyNDk2MDYyMzUyYTY2NTFhZDg4Y2U5NGY1ZWMifQ%3D%3D&amp;signature=cb1f894c3af8bd411ac03c58436c7be9b64fee511b651b8245a03c40bb33bbb2</image>
+    <start>09:00PM</start>
+    <finish>01:00AM</finish>
+    <date>22 November 2025</date>
+  </channel>
+  <channel>
+    <name>SKY Racing AU</name>
+    <id>SKYRacing.au</id>
+    <title>Raceday Sunday</title>
+    <desc>Thoroughbreds from Canberra, Taree, Kilmore, Swan Hill, Beaudesert, Clare, Bunbury, Hobart, Sha Tin, Ascot Park; Greyhound Racing from Richmond, Sale, Manukau; Harness Racing from Motukarara.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IkY5NkZKTktXVmtUeW1QRllQd1dWK0E9PSIsInZhbHVlIjoiUW5iNnkxSnlcL2ZTRXJYbGtVTVlBVFRMSlBpOE5TV1JXd0NjeURmeDN3bldSNE9MOE5LUzI5eE9kcEU4bVdZN2dTOTVUWnphSjErVnVyUXE2NE5yRjFNMFdSNm5iVVFVWlRSWkVcLzF1S25iRGpcLyt6d2FVTFhZWHR1ZWVoRkYwOWZXZ1dhN3JYd05ORktaaGxVMGRDbVdLZmNkYlJycU00dU5cLzdvREpNSUZjNElpdTlXazFPRmNrQlwvcDRHaHpsNEkiLCJtYWMiOiIyMzNhZDEzYmQ5ZDczYjYxMGMyNmU3NzgxODdiZDY1Mzk0YzRmZjM4MTc0YjA0Nzc4ZGIzMWU1ZjEwYmJhZGU2In0%3D&amp;signature=07cedbd82455fc34c1cfeca463a3795c28e868d2b82f266286c66aa0f76b5205</image>
+    <start>01:00AM</start>
+    <finish>07:00AM</finish>
+    <date>23 November 2025</date>
+  </channel>
+  <channel>
+    <name>SKY Racing AU</name>
+    <id>SKYRacing.au</id>
+    <title>Sky Racing 1 Racenight</title>
+    <desc>Thoroughbreds from Bunbury, Sha Tin; Greyhound Racing from Grafton, Richmond, Broken Hill, Sale, Gawler, Q2 Parklands; Harness Racing from Launceston.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6Ik94dUZYbFFCUTR6eEJ2R1dzNlIraVE9PSIsInZhbHVlIjoidUZWXC9vcFNOTGlcLzB3WVdKbG9CMUE1WUxqQ3ZDbCtXMW9pTld3RzdSWGY2eTRodFZKekgxVHY0M04zVzlWNUJZTFZxaEFiNENZN2RMTWJ4RE9JWFVSUVFzMnQrZGZ3UWVYem1FQkRQcm81VDdsc1g1RmZPQ01vUFMrK0lheExpSmx2c1dUXC9Qc3hqV2EySHlhK3hsVlBXWGlXRWJjdUFhTTlUT1JoQjNVZEcxR2V6YnBmTERKWThIOUhpeFF6cW5wIiwibWFjIjoiZDhhYmU1Zjg5OTEyMTQyM2JlMTZlYTYxZmRiN2Q5YzI1YTA3NTAyMzUyYjNhY2JjNmFkNWI2MzBjZGI5Mjc0NCJ9&amp;signature=3b7b8f1fe6335af192e16f241e0683996e5113f5a715e34d56dc260c758b83a8</image>
+    <start>07:00AM</start>
+    <finish>11:00AM</finish>
+    <date>23 November 2025</date>
+  </channel>
+  <channel>
+    <name>SKY Racing AU</name>
+    <id>SKYRacing.au</id>
+    <title>Sky Racing 1 Latenight</title>
+    <desc>Greyhound Racing from Broken Hill, Q2 Parklands.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6Img0YmNwSnFmMWE2ZloxdEFiOXJMb1E9PSIsInZhbHVlIjoicTc1NTBENEZoSEtjRW9tV1d5RmF1SThDV29wN3Rpck40bmFyM1FiWjZpbHhKemZrTHRBTE55SVltOTM0aDVFbmRGQ0h5ZElBUkVEUzZGSWgwZVNUd21LMmNyaXVxbU55U0J0VFk3K1Mxd2ZyYXBOZDExbEhRZW5lXC8ySnpSK0JvclgzQnJUSXpTZ3c3WWNlaGNPSWN0OFljemZ3WkxxOGZWSzF6bjBaS1QzYjJGazB3a1ZYWUlibG9cL1RjM1E4QzgiLCJtYWMiOiIxMjU4MWRhNjg4MmJkNzk0NTBiZGRkOTZiYzMwMmViN2JjMWVjN2ZhYzcxNDA4Y2NmYzM2ZDRiNWE4NjVjN2RmIn0%3D&amp;signature=f91224eb8d8cfbe0eaeba145e9180c4afec999a28760738cbcf1e49214298f79</image>
+    <start>11:00AM</start>
+    <finish>01:00PM</finish>
+    <date>23 November 2025</date>
+  </channel>
+  <channel>
+    <name>SKY Racing AU</name>
+    <id>SKYRacing.au</id>
+    <title>Sky Racing 1 Latenight</title>
+    <desc>Thoroughbreds from Toulouse.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IkluaEk3ZDVqY1hsV1VKOHM5Yzd6V2c9PSIsInZhbHVlIjoiOWwwQU5xXC94eGthQllZMk9RWkJPOGZiSE1EOWtjWkNUdFdlZ3Y0N2xVbFNTMnhnYUVMMXNRQlVlTHY0ZUJIbjNQMkx4RzVEOUEwQytuOGpiSTNYYVg5dmhIU2NZWVZ3Rm12ZVZSZkJcL3g1N1pLdjdNMW00WDRXemdxZEdtM25vYjhjSTdSRENUY2hmcmxjRmtWXC96TXl0YURTeWVnTXFKV0VEWFQyVHczUFVsK2YrRFpaVGNFUUNIU2dRNjczcnFXIiwibWFjIjoiZjY4MmY2NTdmODA1ODg1NzA0MTBjYWRlMjVmZmVhOGU0ZWE5MDdmMTE1ZmU0N2M3ZjRlNjhjYzA2NWQ2YjQxNSJ9&amp;signature=ab525a5519d69268bcaaf17780062d9be194b996d0378c38e3caa67034929297</image>
+    <start>01:00PM</start>
+    <finish>06:00PM</finish>
+    <date>23 November 2025</date>
+  </channel>
+  <channel>
+    <name>SKY Racing AU</name>
+    <id>SKYRacing.au</id>
+    <title>Formline Extra Encore</title>
+    <desc>Know the contenders from the pretenders as our team of Sky Racing expert form analysts dissect tomorrow's meeting.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IlhcL1c0VG81Qlc3dk5CVnpxTlZ5V1lBPT0iLCJ2YWx1ZSI6IitRaUFTVGt5cEFMTTBQU1Q2cTBoa1FhcUVMa3NYSThUdEZ2UzgwNnJYa3RMSjlyem45ak1DSXlFTEVpUkJmeDFqNnV2RitSSWxWYXlpN0hTdUs5S0xvRHIycnV3OUthcGlWa0pFUG5FbXdcL25POTNiTnlKb1dSOXhtR0YwYXAyRWRKOFdmSmEyZjJcL2xkaG81Z2RpcitobHBLaGxOWTlWUStLRmR6Wm1UMTF5M2U0UWRVSjJcLytYeFdtN09qM213byIsIm1hYyI6ImZlYTM4MDEyMDFiNWY1NmU1ZGI3Y2M2MTJjYTUwZjllN2NkYjllZTAzZGNlZTliYmNjNTVhMWI0ZGIyZTc4M2YifQ%3D%3D&amp;signature=9ce484ea21c7b4ca4c510916ad35c2c82403ed2cbc70bd3c9aa05b011a467f80</image>
+    <start>06:00PM</start>
+    <finish>06:30PM</finish>
+    <date>23 November 2025</date>
+  </channel>
+  <channel>
+    <name>SKY Racing AU</name>
+    <id>SKYRacing.au</id>
+    <title>Racing Replay: Taree Thoroughbreds</title>
+    <desc>Highlights of Thoroughbred racing from Taree.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IjBKWnJhcVNGVHJqQ2lFRTVUVnRCM2c9PSIsInZhbHVlIjoiZnBSaW5QUUFRaitqOXJjdHI5ZXNXMWJNM3hUT1wvSHFhVURaVlYyVmlFXC9GbDNYSVB6TGlOY1pZUVAzckVSTXBWRWZRQ2RIWG1wYVIzaEY0MXU5MFh3VmtFdnlRRG9qYlcyc3FmK0RTUW1qbUFCMk5NbkJ3NDM4cThzeUs3azg5NVYzck1reHFRSnlJdVBpV0xtbHBkQ2VKYWN5aG5SUG4wUHpJdlR4UWJHN0FxK0FiS1ZYSnZZcGU2eEF6MzNoWmoiLCJtYWMiOiI2NTc5OGM4Nzg3ZWMxYjM1ZTBhMmZmMWQxZjlmNTA0OTMzMjFhYjA1ZjUzYTJlMDA1MDNhYzBkZWE2NjJkNmZiIn0%3D&amp;signature=0e3118f14b3cc64f54fa4c82b5be9d18d51274bdfbb9913a19baba926ac0998c</image>
+    <start>06:30PM</start>
+    <finish>07:00PM</finish>
+    <date>23 November 2025</date>
+  </channel>
+  <channel>
+    <name>SKY Racing AU</name>
+    <id>SKYRacing.au</id>
+    <title>Thoroughbred Weekly Encore</title>
+    <desc>A weekly roundup of SKY Racing's best thoroughbred racing action including results, replays and interviews.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6InlFaE4weWNLZXNObFltQkd4b3VUeEE9PSIsInZhbHVlIjoiUnZ6VTZhY2RRN2RDVUcydjNHYnJMNzVleTIwSDZyMnhYRkZNcG9UZ1M4Zk0wdENcLzJBVFA3YVZTTVI0VkxROGJnc1UxUXFOVkt1dk9ROENtM0xubjFEUElzMmpQcXdUWmI5QTlhTHhsd1VWYmZWQjBZUk1qWmRqRFNJTmdWZzNqaFNPMFlWNVU2RHU4TGZaMjJZWFl4V1Y0OVg2TTZ0R29HN0duYVFXZStFell0Vk9uSGpVeFh1dmRERlRTamlcLzYiLCJtYWMiOiJkNzA1NzNmNDU3YmEyMDA3ZGRmNzJmMTk4NWRmNGU4OGI0Y2Y0NWU1NjU0MDU4MWJmNTA0ZGM2NDA3MGY5ZDRhIn0%3D&amp;signature=9c4dba520cfa26318be40a118347cea87f457d8d31fc53dd44c880787351faf8</image>
+    <start>07:00PM</start>
+    <finish>08:00PM</finish>
+    <date>23 November 2025</date>
+  </channel>
+  <channel>
+    <name>SKY Racing AU</name>
+    <id>SKYRacing.au</id>
+    <title>Formline Extra Encore</title>
+    <desc>Know the contenders from the pretenders as our team of Sky Racing expert form analysts dissect tomorrow's meeting.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IjVnT3k0M1dqR01QdER4WXRpaDB0dXc9PSIsInZhbHVlIjoiNWpUa29tdzl3YURQSURWQjRQTGtoMlhHNkRxK0ZsOFFjT2l6c1JLZzhzVXh6dzJkVThFbWxKNGxcLzZOT09iSlYzYVg0S0dVaW1BT2hMSVlwbm5TSHMxeks1Qmo0dk51NFBBSnV1bnFYQ3l3R2RRNVJMaUx0VDVTcTZQdFlsYUJhQ0p5Y21Sd24zV2pGVVZwREpuOVlsYlR6S3M5d0V5XC9iUTRncDRlNktodE81RHhOMjFxQno1MERtMXNZNW16M3UiLCJtYWMiOiIzNTkxODcxZTY2NmI3YWI4OWUwZTYzMzQzNzQyYzlhNTFmNzlmNWJhZmUwNjcwYjcxMjdhNGM0ZmNhMTcyNTVkIn0%3D&amp;signature=734e7412ae49ec21d8234a92b26b3e1c022ffa5cec681c8c52beefc8ad9c4b9f</image>
+    <start>08:00PM</start>
+    <finish>08:30PM</finish>
+    <date>23 November 2025</date>
+  </channel>
+  <channel>
+    <name>SKY Racing AU</name>
+    <id>SKYRacing.au</id>
+    <title>Racing Replay: Beaudesert T'breds</title>
+    <desc>Highlights of Thoroughbred racing from Beaudesert.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6Im1Pb3RKdlVVc2d0TnNncFg4RXN3dHc9PSIsInZhbHVlIjoia2hjV2xVNnQ0cEt6a2wxTitHcDlkSVdIVStMdWMraG9hTGpJT1B4cDRHZTFzSHZLTktmbGFcL0s1NnpqN1wvVGRLd2tSOXh4V1BxNWczMUM2aE5DNDJcL0V5YjhaU0cwNGhMVmNCbGhFREQ2WUhGWXY3MXdCQ1pxNEVYRk45OHVaUEJFdUsyYTM1dWQrY3N6WXNDSHF0TVB4SjA2c0dwU0M5RmZIRDBrc1lpbk9rSTg4SFFETnFEZCt2aU55dXlERUxXIiwibWFjIjoiNGYxZDY1MzE0MWVhOWI3MWU1MDFiNjQ2YmQyMTJiYjEyODNkZDY1YThhOWZhMjllODAyMTdhOTIyYTczYzhhNyJ9&amp;signature=8c1fe4972e857d7b449f03f3948c139c2eac1d0f563813ad18a9e83a275d73c7</image>
+    <start>08:30PM</start>
+    <finish>09:00PM</finish>
+    <date>23 November 2025</date>
+  </channel>
+  <channel>
+    <name>SKY Racing AU</name>
+    <id>SKYRacing.au</id>
+    <title>Sky Racing 1 Racemorning</title>
+    <desc>Thoroughbreds from Gavea, Del Mar, Gulfstream, Laurel Park, Aqueduct, Zia Park, Woodbine; Greyhound Racing from Shepparton.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IkxZaGZtcTA1cWtCQmdoV2xNaTFFZWc9PSIsInZhbHVlIjoiTW10TWVCZHNwTDFMUWJhUVRLQ3B6UnJQb1k1OURYWTU1ZDlWQnRIWk5xRXBlNnRNWmV6VDdKRkw3b0M4YnppZnN2cDNUOEo2T0ZZcUV3dHZEN0lGd3cycjZUU21OXC93aldHNEV6UnJtVUVBY2xsMFBBcnpPRlhDZ25jZGRySDVPODNCRkJybG85ODE5Y1k4QXBNSVdJaWZBU3hqTFhmd2lScGF4SHpSeHhUM3d2WHhJQXgrTGkrRTZPb3Fvd2x1SiIsIm1hYyI6IjcxYWNkODY0MGJjZTU4Y2YwOGY3ODAyMWI1YmNkNjY3ZWQyMDE0MDU4ZjhlZTg2YTE0ZmE0YzhhMjViZTkzNGIifQ%3D%3D&amp;signature=d14a0ad8d8587b306781543564c5ffead4787cb2a79c64e20fb43d4eb2a44cc0</image>
+    <start>09:00PM</start>
+    <finish>10:00PM</finish>
+    <date>23 November 2025</date>
+  </channel>
+  <channel>
+    <name>SKY Racing AU</name>
+    <id>SKYRacing.au</id>
+    <title>Racing Xtra</title>
+    <desc>Lewis Willoughby and Nick Berney break down racing and sport each weekday with the latest odds, moves and betting insights.</desc>
+    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
+    <start>10:00PM</start>
+    <finish>11:00PM</finish>
+    <date>23 November 2025</date>
+  </channel>
+  <channel>
+    <name>SKY Racing AU</name>
+    <id>SKYRacing.au</id>
+    <title>Sky Racing 1 Racemorning</title>
+    <desc>Thoroughbreds from Gavea, Del Mar, Gulfstream, Laurel Park, Aqueduct, Zia Park, Woodbine; Greyhound Racing from Shepparton.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IkZwM3NiRHBodkV5OXFGdG5vZVlQNHc9PSIsInZhbHVlIjoiOVwvZnFpak5va1NWTFdGRmNoK1BDdU9iT0d4OGt2SjhvZmJuV1pKNVE4VzdwZXBEQVJYcjVBR2VpXC9ld0s3Z3I5bDUzbGdQMTlhYUhIaU9HSDRtQ2xBRzJjZGZjYXF6ZjREZ1p6YWlxQm8rakw4Y3dQZU40Rld0dmdDSEpPbkxwUmI1NEp0dm9Gc09jalIxc29aVEdBcDcrUlFwNWE0dFlYQVdvVVF6RG4wdjVBRXJvMUJ3WTN2VStJa3JCUFI4TnoiLCJtYWMiOiI4YjA4MDYzNzI5ODdjNzJlMWI5NmM3OWUyYjAzZThhYzM2N2Q5MGM2Y2EwNDBhM2UxYTQyMzg2NjE3MTUxMjVlIn0%3D&amp;signature=64b7e079edb83bfabf65c04d28b58512ef4e5d07d29e57d04115cb21b0ed2c68</image>
+    <start>11:00PM</start>
+    <finish>01:00AM</finish>
+    <date>23 November 2025</date>
+  </channel>
+  <channel>
+    <name>SKY Racing AU</name>
+    <id>SKYRacing.au</id>
+    <title>Sky Racing 1 Raceday</title>
+    <desc>Thoroughbreds from Albury, Wellington, Gavea, Del Mar, Gulfstream, Laurel Park, Aqueduct, Zia Park, Woodbine; Greyhound Racing from Shepparton, Shepparton Extra, Geelong, Warrnambool, Addington; Harness Racing from Menangle, Horsham, Globe Derby, Pinjarra.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IkpDSlltbDlxaVVmS0pwNFR1Z2NydUE9PSIsInZhbHVlIjoiVm91cHA5N29Seld1SkxXbnFjSWo1ZXJMd2JwUEpKWDNpSHNuTkxZUGRXMWVyR3hmYnFOZ0pzZkw5aVg1WVordlNGenplZW1cL1BlV0FLMlhcLytcL2R4UkJleFd4NUtobEYxUmRKKzRvQ3YxN3FXNGlNS3Zic01uczJXUjM2TXduZkhWRG0yZVE1UUNSTmFOenRNQWJsMDNlc1FUQTZSTzZ4djhcL2Jsa2ZTeExhR2xUdVMzaUUrU09ONjRtYnZaME1KRSIsIm1hYyI6IjQ4NmUxNmQzNTY3YmI5MjJiMTNjYjViY2ZhNjAzY2Q5ZTFkNzE2N2YwMDlkZjA1MjEwZjAzYTQ4MmY0YjhhODUifQ%3D%3D&amp;signature=e55025767d6e649e8127a2219831a309119827d7accca2085a2b30b22dfe22b4</image>
+    <start>01:00AM</start>
+    <finish>07:00AM</finish>
+    <date>24 November 2025</date>
+  </channel>
+  <channel>
+    <name>SKY Racing AU</name>
+    <id>SKYRacing.au</id>
+    <title>Sky Racing 1 Racenight</title>
+    <desc>Thoroughbreds from Bursa; Greyhound Racing from Maitland, Nowra, Geelong, Warrnambool, Sandown Park, Angle Park, Mandurah, Launceston, Warrnambool Extra, Q Straight, Harlow, Youghal; Harness Racing from Redcliffe, Pinjarra.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6ImtHdXJrSGhZZytyOW1kZHYwZWdjUUE9PSIsInZhbHVlIjoiS2xINUgydlVCWGduWXNWRksya1lyOThVRSt3R28yenBTY3NybDRRTjZ0azRnTVwvWW5oQVVXTFBBYUpIcFN6RWpHMXJDbEFFRjhYSHVHbFwveXY1RHRuYmNRTlZLTVBzOXlaZ3VhWXFPWHQybkoyVEdsTHBRSUVOd09EOHB5U2FNMEJXZ3l1MkhTMllwc3ZDdG1SS3p6cDJPdU1lTWJrTGpmXC91TDhJeTJGbmg4aFdmcEhhbGR4dUJMUlZVNUZGNlZ5IiwibWFjIjoiNDFiNDk1NjQ0NTVmYzA5NjcxYjkyNmI5MTRhZGYyM2NkZjcxNDUxZjk3ZTk2OTkzOWU0M2ZmNzA3ZjMxMDkxNSJ9&amp;signature=9f3ff1b9a64802f6fa744f3f39e7c094b8f2cf5dcd127b9faaf22b96b0084faf</image>
+    <start>07:00AM</start>
+    <finish>11:00AM</finish>
+    <date>24 November 2025</date>
+  </channel>
+  <channel>
+    <name>SKY Racing AU</name>
+    <id>SKYRacing.au</id>
+    <title>Sky Racing 1 Latenight</title>
+    <desc>Thoroughbreds from Kempton, Sedgefield, Bursa; Greyhound Racing from Maitland, Nowra, Sandown Park, Angle Park, Mandurah, Launceston, Dunstall Park, Romford, Swindon, Q Straight, Q Straight Extra, Harlow, Youghal.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6Imw2cDE5MmtvYWhMOE04NWF2NURKMHc9PSIsInZhbHVlIjoiSVh5cU5Fc09sV2E2QitUS0U3TmFMajQyTWpyU1R6UnVmakZ6aHl1cld2XC9nZkFNVkxXUXBpWE15Z2V6N0FYM1wvRnZVV2ttbnNQaUhNUW5la2lyNDNROWduRHVVY0JqbjhveFJpZWR3Q0N0a0N1NlJPbVRHRFRRNXBINERma0w4MkJRMWZRXC9RYmtaa0ZkcXNWa3luWUlqTytNeFltMitYUmVNclk1S3FEOVhjXC9VTXJuMUlVU2RrWXdwSmtUQW5nTyIsIm1hYyI6ImZmZGNlMzIyMjc3M2FlZDE2OGY0MDFmOTViNjk3MzY4NmUxMjc0ODc4ZmQzOTEwMjU2NGI3OTRhMTA2ZjJlZGMifQ%3D%3D&amp;signature=f62723afc2821d5f2cbf67bae1de8e1d50a88d030e672dd29e26b6b555aaa0ef</image>
+    <start>11:00AM</start>
+    <finish>01:00PM</finish>
+    <date>24 November 2025</date>
+  </channel>
+  <channel>
+    <name>SKY Racing AU</name>
+    <id>SKYRacing.au</id>
+    <title>Sky Racing 1 Latenight</title>
+    <desc>Thoroughbreds from Kempton, Newcastle, Sedgefield, Wolverhampton, Ludlow, Bursa, Sanliurfa, Marseille Vivaux; Greyhound Racing from Mandurah, Dunstall Park, Romford, Swindon, Monmore, Sunderland, Central Park, Harlow, Youghal, Doncaster.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6Ikc4NVhUK3VnelR0ektpWE41TDVDclE9PSIsInZhbHVlIjoiNEFHQmtHUWp3ZEJGYVdMVTVwTUhJOFQ5Vkw5THdDXC9uQ0R3a1FNajJKXC9kRWxFbkh4S2xaXC9ZZnhackZwWDJvZkV6aGNhVEpHY01OMG9ha2ozQzIwbEJpeUJBZ1dZQmFvZ1VRTFwvVzZCMUpsemJEdnhrRTlBd2pIK3dYRnNwWUs5aEgzd0x2Tnd4cElvd3A5RlEzaHYrNXlGa3Y3aGhHUkg5QlpcL0oxek1ROU1lZmNVODFSRnhQeFFFTGtUR0tyVVciLCJtYWMiOiI4MzRjZThhMWE5NmI2ZmU3YmYwMjhjODg5ODNhOGFkMDZiZTc5NTgwYThjZjJhM2M2ZTE0OWE1YzJiNDdlODcwIn0%3D&amp;signature=f4f98a4fb5943a9be7be6169a88cebc5436088e2f4a4ac2deb00f1c97ab2907e</image>
+    <start>01:00PM</start>
+    <finish>06:00PM</finish>
+    <date>24 November 2025</date>
+  </channel>
+  <channel>
+    <name>SKY Racing AU</name>
+    <id>SKYRacing.au</id>
+    <title>Formline Extra Encore</title>
+    <desc>Know the contenders from the pretenders as our team of Sky Racing expert form analysts dissect tomorrow's meeting.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IjBFMmRCbTdyendpRFdrTGJITHRSYlE9PSIsInZhbHVlIjoiWWdsa1RSTHozMkJ4ZDRCbzVZOEI1UERkaGN5b1luMjdrU0xIbFZFSDJHR0p6SE5BNDN3Y2doVXdRYWxcL1dGYVRGZ2orVFJuVVh4WWNqYkZqemNoemcwbjBtaW83ck5BclpYVVpCWDRLUnpQN1VUbFhsVllaM1AzWnV1b0lpYW53MmxwM2Qzd3hSWjRVbVd1V3haYzh4QUZvempFTzllXC9NQXNWczY2S3NnN2ZFZHdBeGJ0RTFmYitUYVwvVGJTMHdCIiwibWFjIjoiNzI1MTc0NTI3ODJmNmExOWJkNmQxN2ZlNTM5MjM5YzE5MWJlMzkzZjI5OTE0YzkzOWYwYmMzYWUwZjA3NDBjMiJ9&amp;signature=e0df5bcc3f7a97a1944479095db809bbd4a8f30dbcff8d4e79b5fe4cb939a37f</image>
+    <start>06:00PM</start>
+    <finish>06:30PM</finish>
+    <date>24 November 2025</date>
+  </channel>
+  <channel>
+    <name>SKY Racing AU</name>
+    <id>SKYRacing.au</id>
+    <title>Racing Replay: Wellington Thoroughbreds</title>
+    <desc>Highlights of Thoroughbred racing from Wellington.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6ImhrQ2JcL0xNb1c2VXdxQnR5WTU4NlJBPT0iLCJ2YWx1ZSI6IlU2cGc2bHo5Um5tZWhybXpFTERrRE9JcGZmXC9abVwvbmpSWEp6XC9WRVBGVm5FVEdidWlkY2lCWEFMT2wyU3FlSWZnRjVJOHBGSjI5bXF1M3lIZ1pJQ1lkck5UUTBaSWhcL1R6S29ZNmtyWnhOK2pBQU1aUE1mR3ZOUDlHWlR1SEhOeitBZ3Y2a1wvOVQzYkl0ZVV3SXNXamhQS3YxalI1Q2RHRW01Q2V5ZDlDYVJOTzNocEJHZGpGamdwMlwvaGs2eUNyUiIsIm1hYyI6IjZiYmE0ZThiZGM4NTI1ZTYzMjBkNWRjYTM5NmI3NjVkOWU0YTI5MDUzYzNiN2M1ZGJhZTViZWU2MjAzM2ZiNDAifQ%3D%3D&amp;signature=52eb97f6d65af6d433f80a211f74c8d15a2c0f58ef405dc58a1e4b8e6c0a8f33</image>
+    <start>06:30PM</start>
+    <finish>07:00PM</finish>
+    <date>24 November 2025</date>
+  </channel>
+  <channel>
+    <name>SKY Racing AU</name>
+    <id>SKYRacing.au</id>
+    <title>Thoroughbreds Are Go Encore</title>
+    <desc>Caroline Searcy looks at thoroughbred aftercare in a program promoting the great abilities of racehorses away from the racetrack. TAG encourages owners to find the best homes for their horses and contains tips for the best care of our thoroughbreds in their new lives.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IjkrQVBFMXdiY3pUeVhzcnN4WHZ6TGc9PSIsInZhbHVlIjoiUHBNc2xiU0FxZmhqUm9YQ2VBd2dJem14ZmVGamNzVGZTME9hUW9wbTJra0pmK2hjaEpZWGdGaVI2YkpKKzhUd3BSanE3emYxeStOUDBsaWdkWXVLS2FOWHVMSkRUak1INVNmcmVYaU1weUhCbHZqYnJSYXBcL0tVeFBzZ1ZyXC9tcnlNYU5MdHk2YWRnNFFQeUtXd1ZSNk5rSHAxSmFJbFdoSllUOGJnZDBBXC83OFRicEp5OEh2WkZudFBKTjgzK3NDIiwibWFjIjoiYWJkYWNkZTAyOTE2OTFmMTIxOGVjNTQ0MzU2MTNjN2JkMGYxNGNiY2MzMGM4YzFhZGJhZDFkZjM5NDM1YjEzMSJ9&amp;signature=d7e996ebcc24e3dc3405fd59d9c4036d7a0aa3d0be2861b8ab22dbe04ddd430e</image>
+    <start>07:00PM</start>
+    <finish>07:30PM</finish>
+    <date>24 November 2025</date>
+  </channel>
+  <channel>
+    <name>SKY Racing AU</name>
+    <id>SKYRacing.au</id>
+    <title>Racing Replay: Albury Thoroughbreds</title>
+    <desc>Highlights of Thoroughbred racing from Albury.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6Indra3dmWjQrUnFFQjJXVTltZVVBSFE9PSIsInZhbHVlIjoibldaRFhTK2luaTNNM2VjTXdUTk9LTFhDdHg0MW1qdXhzRWNNOEJDNytHUVlEazdtcEc5UHVlR240bVFHYmpoR1h1aGVmTWZlUGFcL3V2bSsra2txSmRlVTJVSDQyVXU2ekkyXC80clNhc2JJRitzQlwvSkFRUTZYeGJ5RXAzOW9uWmNxZ1QzdGJkaVhrZ0o4UlRuaERzTjZ3cmJUWFJReUEzeWJBdkgxaHIyNFNQM0NJUnJWd2RRUzFtZGluU2NUTWI4IiwibWFjIjoiZDNmYTQzZjI0MGRlNGE2ZGQ4NGZjMDg2YmE0YzIyM2RkNGIzMWMxYmUyZDU5NTkyM2VmNjJmMzkxZGZhZmUwZCJ9&amp;signature=1ccd64757d98ff2119279d7be841308d3e95aff7158858134f62a69acd07fb11</image>
+    <start>07:30PM</start>
+    <finish>08:00PM</finish>
+    <date>24 November 2025</date>
+  </channel>
+  <channel>
+    <name>SKY Racing AU</name>
+    <id>SKYRacing.au</id>
+    <title>Formline Extra Encore</title>
+    <desc>Know the contenders from the pretenders as our team of Sky Racing expert form analysts dissect tomorrow's meeting.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IkU4cG1Fd1BUUklUSTF4amo4dGI5bGc9PSIsInZhbHVlIjoiODBoRnpTR0JuUDU2bmRYbU5EazJ1dmhzMExJaFpWZ3d6MlNhdzQzb0dwa3Q0VWN1SGlBTXVBTGJFbzNsWDJTaEh0U2Y1aGRsMTdFY3NsQldKQzRWMzJuWFF3ODZkakQ4WWFuajVxRzlJaFRNWVpiamIwMWpJRVBWUG5Feks3VkNLZjJmdUhMVUZiOEpHdHhnOTk0SlhSUDdHZFQxc3dtU0xtdDZUcDV0QlJYT1g2S3NKNTU3bWErUHVXcTVNajBpIiwibWFjIjoiODgzYWU5NDM2OGQyYjdhMTcwY2E4NTUwZTNlODgwZTczMjIxZjM4MzJjZDEwYWQyN2U2NDgzMTk5ODg2YjcxMiJ9&amp;signature=5538493de2348f298d66386e16b40bc92ce0b73f5392e182b5debec4f44afcde</image>
+    <start>08:00PM</start>
+    <finish>08:30PM</finish>
+    <date>24 November 2025</date>
+  </channel>
+  <channel>
+    <name>SKY Racing AU</name>
+    <id>SKYRacing.au</id>
+    <title>A Life in Racing</title>
+    <desc>Jason Adams sits down with Neil Brown to discuss his long and distinguished career in greyhound racing administration and his passion for preserving the history of the great sport.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IkZXRTkxNHg5Z2x0a2ZYUmFBbGppN1E9PSIsInZhbHVlIjoidlB1NEdnQ1RNUml3RUZycnRPQWsrN3hrZldUcCtSVjdodTg4a08xaVNSUm0ycjVuQStCdktXRVVxaGJkSndoQkV1RmZLd2FwQ1dFaXV6TCtMUDh0WkZFaUFoNlMwNTdEN05EUHNUTGpNbjQxc2V4V3Qxa3dvOStScUxXTVV6Nm9xZER4aGZxbkREYkY5QTdUYU5KaDVUYXNpenA5VVRrcnE2aVBpQjJUbTc1ZGlhT0FvV1lwOEp2NEpxTTlEMTlqIiwibWFjIjoiODE1ZjA5NGIzZGE3NGQyYTZmNjU1MTVlNTkzM2E5NjM5M2E0MzhiMzMzMzMwNWQwN2NiMjQzYmFjNTlkMjQzMyJ9&amp;signature=4e29f81af058fb2279d508b309858a5fa3f309ce146a0ab5dadc86d8ae4d0826</image>
+    <start>08:30PM</start>
+    <finish>09:00PM</finish>
+    <date>24 November 2025</date>
+  </channel>
+  <channel>
+    <name>SKY Racing AU</name>
+    <id>SKYRacing.au</id>
+    <title>Sky Racing 1 Racemorning</title>
+    <desc>Thoroughbreds from Gavea, Turf Paradise, Zia Park; Greyhound Racing from Manawatu, Murray Bridge Straight, Launceston.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IlhYRXRha3BqZHRtR0s1Njg1clc0S0E9PSIsInZhbHVlIjoid2hUczBCc0FJZmR0UnRNQ2d3MlZMam1SUFwvK1wvVmcwT214cTVOOExsNGdMRnhmU25jUnNyTlMzU05TQTV0aWRoNW1cL1Z1eVU3T24rK0JYbWxOTzFRM3l3UWhIU2lRV1ZIclNyYWhxeHlBcHJodEFxRjh3ZENkN2l0TDNXS1BlWjh3UFBWQ0NMa2h2dkE0ZUEwaHVsN1RoY2hGWDR4MEZpZE9GZG5IUDRFaXdXZHFqMlNOY2hPU3VcL1wvaVdtOUZDS20iLCJtYWMiOiJhODUwOWFkNTZhNTc0ZjA0NjJhNWM2ZmRkZWYxNmE0MmIyMWJlNDI3NTYzYjU1MGQ0YzI5MDE2ZDMxYmViMjY3In0%3D&amp;signature=de8af8ce4cafe60395f4dd4d55061d60407d082c831de382ffc74ba4a78f545e</image>
+    <start>09:00PM</start>
+    <finish>10:00PM</finish>
+    <date>24 November 2025</date>
+  </channel>
+  <channel>
+    <name>SKY Racing AU</name>
+    <id>SKYRacing.au</id>
+    <title>Racing Xtra</title>
+    <desc>Lewis Willoughby and Nick Berney break down racing and sport each weekday with the latest odds, moves and betting insights.</desc>
+    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
+    <start>10:00PM</start>
+    <finish>11:00PM</finish>
+    <date>24 November 2025</date>
+  </channel>
+  <channel>
+    <name>SKY Racing AU</name>
+    <id>SKYRacing.au</id>
+    <title>Sky Racing 1 Racemorning</title>
+    <desc>Thoroughbreds from Gavea, Turf Paradise, Zia Park; Greyhound Racing from Manawatu, Murray Bridge Straight, Launceston.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IjN3SGF5a0oxRDMwQ1BaaFNWWVgzZFE9PSIsInZhbHVlIjoiRFp4YzE0UENFbTBzODNZK21MYU5GSnVUOWFubndRMHM4NDU1S2ErNnAyYXNpTjU3SEh5SDE0emN2dlFSa2VkVlN5bENOeTFLNFBuMlp1RmtDcU0zTEQ3SHY0WGN0a2dHNDJVN05kXC9UVDRSTXdHVU5JYWRzQVUrc29HZ2pDcmY0NDJhTldMZkdvQW51OXpkZVdmZExqZXFTa1N5K3d5VkI5T2NRRVJCWjlpSlQxU0lPd0lXZDQybXhHS1hneWdRUyIsIm1hYyI6ImJjOTlmYTQ3YzA1YTI3NjMxZTEwYmVmOGIzMTUxYWUzMDFjNzczMTc0ZTA0NDBhMDlhYjIzY2Q0ZTg3NDE3ZWUifQ%3D%3D&amp;signature=61dea45006cdd5fef56bd479229938509cd221c261a5e786ee99f87a65dc3072</image>
+    <start>11:00PM</start>
+    <finish>01:00AM</finish>
+    <date>24 November 2025</date>
+  </channel>
+  <channel>
+    <name>SKY Racing AU</name>
+    <id>SKYRacing.au</id>
+    <title>Sky Racing 1 Raceday</title>
+    <desc>Thoroughbreds from Tamworth, Ararat, Ballina, Cairns, Gavea, Turf Paradise, Zia Park; Greyhound Racing from Manawatu, Murray Bridge Straight, Launceston, Horsham, Ballarat, Grafton, Q1 Lakeside; Harness Racing from Goulburn, Albion Park.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6ImIxaXBKTmZhTCthb2hON21JOXZFclE9PSIsInZhbHVlIjoiNTdhZFU0TlwvSkY5Z3c0cWVqaDhyWTZubTZEZWtEZ04xNlFSZGNYUE1YdVwvTjQzY0RValwvb3ZLRktEemVcL000RVRQc3BmSU5EdEh1eG1UUUxDbHhNdzNaMFhZcmcwMFYyVFNRWHg4UU55MEFqVXZiZnE3RnlwVzNYUmpKeDY4K1wvc3dKbEU5UjV2dXFhZHRCMUp5Z1B0dTdWb1JSNElrUkpwKzBCaDZ2aGVVeEJRclA1K2kxNXU3U0pmejJVME5iQnIiLCJtYWMiOiI3Y2MxYjhmOWYxZGYxNjFiM2M5MzRjOTNlY2I2NzBlNTM5M2I1OTgzZWUzZTEyZGE4M2Q4ZTdmZmViMzgwOTY1In0%3D&amp;signature=62eb313a530a242c89e1fee3547de9b38a7315d0d66279cd1f9d193559c9d594</image>
+    <start>01:00AM</start>
+    <finish>07:00AM</finish>
+    <date>25 November 2025</date>
+  </channel>
+  <channel>
+    <name>SKY Racing AU</name>
+    <id>SKYRacing.au</id>
+    <title>Sky Racing 1 Racenight</title>
+    <desc>Greyhound Racing from Ballarat, Grafton, Warragul, Bulli, Ballarat Extra, Gosford, Townsville, Mandurah, Q1 Lakeside, Tralee; Harness Racing from Albion Park, Shepparton, Port Pirie, Gloucester Park, Albury, Chartres.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IjEwd3ZETmdFcnpkeDJTVktUQmxGMkE9PSIsInZhbHVlIjoidGg4YUtWS3pTaDl3OUUxUEZTXC83RDhJY25Gd2d3amc1dzdiYkczOSs3SW9JNXRTcG1QZHlCb2hmUzg0UW1TOTRUM2NscDJHXC82dHpBYWZTWm9GeTk5aG9tN1N4UkVPc0RnWEU1TXh4K2JCeHJTUnNqYTNNNjNUbmMwUEl5RVNxT3RzRTZiTFwvWmVJOGh4TG1zcjJOMW9qbjhwaG5uV2JGOERHUDFEdkV3RlB0dlpVZFwvT0YxTTl3YjlCWjZSbmlxdSIsIm1hYyI6IjU2OWVjODlhMmE2MWE5NGEyZWJjNzFiYWYwOTJmMTM1MjVhMWI1ZDk5NWEwNjhmMDZkYTkyMDBkMDQxNGY1ZDgifQ%3D%3D&amp;signature=fb52c09c45b9ecf58e2c6d7ee506d2efed37bf14a8fc05d92768666351ce36be</image>
+    <start>07:00AM</start>
+    <finish>11:00AM</finish>
+    <date>25 November 2025</date>
+  </channel>
+  <channel>
+    <name>SKY Racing AU</name>
+    <id>SKYRacing.au</id>
+    <title>Sky Racing 1 Latenight</title>
+    <desc>Thoroughbreds from Southwell, Lingfield, Tramore, Adana, Deauville; Greyhound Racing from Warragul, Bulli, Gosford, Townsville, Mandurah, Sheffield, Newcastle, Tralee; Harness Racing from Shepparton, Port Pirie, Gloucester Park, Albury, Chartres.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6Im5SNkQweENOZXZcL0VxU2NiNUlPcWlBPT0iLCJ2YWx1ZSI6IlN6Q3JPc1RDZFJKR2ZMQkZRaE8rZUNiMXhTUHM3bmtvZ1FTNTFDT1pRS0plN0dqczF6cmcyRElMZVVoaWNKaFwvTVZcL0FoNkZuOTNpYnAydVBIVlZpZlpxR2F1NUF3U1QyeGVQK0ZRYUVoeHdZNFBkVEN1aDh4dmR2THhTa3VCYTExaHVEOTIzbitXdjA5RVpkbWJoU0hqS0tHanFEc0VtQjdIazA1VWxKMUI2c1hod2JOVktYMUhJZkhpamVVWjNPIiwibWFjIjoiOTkyZGVlYWQwNDA5YzcyOTI3OGUwOTI5OTJjMzFlOWQzMjM5YjA3Mzc4ODEwOGM4YjU0ZjU5MmZiYmQ3YWFiMCJ9&amp;signature=63dae0e1a959f28388496a3cdc9ed9ce0e52a83b9c993865e9b0e1c80d5cfedf</image>
+    <start>11:00AM</start>
+    <finish>01:00PM</finish>
+    <date>25 November 2025</date>
+  </channel>
+  <channel>
+    <name>SKY Racing AU</name>
+    <id>SKYRacing.au</id>
+    <title>Sky Racing 1 Latenight</title>
+    <desc>Thoroughbreds from Southwell, Lingfield, Wolverhampton, Tramore, Adana, Antalya, Deauville; Greyhound Racing from Mandurah, Sheffield, Newcastle, Romford, Monmore, Tralee, Oxford; Harness Racing from Chartres, Vincennes.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6InhlUkM5eVArTVNLN2Z1RE5sVmtmQkE9PSIsInZhbHVlIjoiUFRpS0tQemZSdk5oUDdiSytud1NHem0xMWtNNmp3S0J3OHlUVmowUWg0cmxGa054UkpWeFZPQVRUcDJrN09mR2U4bXlydjg4czlHS0ZBMVZjK0VNTnpPejBCVlVkMEpoazZtdTM2eFJJR0FnWTk2dlg1elJVM2JFeGc5M0w0Z0xsWG1zcVFxamtjWTU4MTBMVytJMW93bHRzcDBIbDNoWHpBTnZyMHlEZHorY2NlQmZBQlkyd1JTZ1FIK2p2Y244IiwibWFjIjoiNzY3MDI2M2ZiZmY2ZWZkZGY5NjRlZmQ5NDkyYjkzZDczNTk4YTVlZmQzYzJmYTEyODA2MjFmNWFjMjNiOWQ4MCJ9&amp;signature=4c0ad3276a4331219bfff831fd1430888bfe20329d673d1fc30879e1cc0e8f43</image>
+    <start>01:00PM</start>
+    <finish>06:00PM</finish>
+    <date>25 November 2025</date>
+  </channel>
+  <channel>
+    <name>SKY Racing AU</name>
+    <id>SKYRacing.au</id>
+    <title>Formline Extra Encore</title>
+    <desc>Know the contenders from the pretenders as our team of Sky Racing expert form analysts dissect tomorrow's meeting.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IlVhdk1RNzhPMkMxbEw1NXRHS0tCbnc9PSIsInZhbHVlIjoibklUMUE5Q1VveEhBVGVCY0xpaEE5emdUNFJCRzl6NklxaGlxU1lvQkxFSmoybjZCWVpuOU00N0xKbm9jdFU1TGZWSFZMRllEWW1GbE1RXC9UT05uNUo3STVaSXB1dHR3d1FpZmpQNzJcL0orbWJ0Y29LXC9jb3RmVXU1RnF4RjRlQmR4WW52aEkxYnhKY1pjd0pzekZqMDg1WVV4UCtsNTR3UjV1SitaZkZ5YzVmaHZFTmtIWmRwdTBuZUhaRTZZQ290IiwibWFjIjoiYjlmZjkzNTczMWNhYTI0NmMzOWIwYTdiZTZjYWI5YThkMmQ5MDFkYzYzZTE3MzI0MTRjMTU3ZGNkNTM2MDhlMSJ9&amp;signature=5c6125699ed34c16e716f85789a46d649285bf8afa15915afc1846ee358f09fa</image>
+    <start>06:00PM</start>
+    <finish>06:30PM</finish>
+    <date>25 November 2025</date>
+  </channel>
+  <channel>
+    <name>SKY Racing AU</name>
+    <id>SKYRacing.au</id>
+    <title>Racing Replay: Tamworth Thoroughbreds</title>
+    <desc>Highlights of Thoroughbred racing from Tamworth.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IktEU2pzZnk3U1M4Mmw3UGlVYW1YUWc9PSIsInZhbHVlIjoiSVlia0lESVZYTFJ5eWZ5VXBVdHp0RkJTUnY1TXhtWDk5XC9oVkh1SzJJdjNMOERoaGgyMW5Oeld2XC9adkY4RWh0eVVTcm5pT0dQZkJzb0ppUGlzQ2pHWnNLRkZja1dYeTUrZWFwMVwvaHduVENZbU15TEJSR1lSM3FabWNSRGM0b2xjRFJKaElvMCtKeHJyeGtxeDBGcjRUQ1hlbWNCUmgzT3BzZ1ZwSUIwRjdQNkRDUmRsMVg2c2ZqZ2YrMzF3eGxyIiwibWFjIjoiMTU2NTA1NTFmYTU3MDBjYTNkYWFmMmEyYWQyMjg3ODFjYmMxYTQ0YmUxM2NkMjQyZjI0M2IwZDdkMDEyODJjYyJ9&amp;signature=b1c4899ddf4331b4b407b98405a1e336d55bd514dfcb723751781d5c6d8b4851</image>
+    <start>06:30PM</start>
+    <finish>07:00PM</finish>
+    <date>25 November 2025</date>
+  </channel>
+  <channel>
+    <name>SKY Racing AU</name>
+    <id>SKYRacing.au</id>
+    <title>Thoroughbreds Are Go Encore</title>
+    <desc>Caroline Searcy looks at thoroughbred aftercare in a program promoting the great abilities of racehorses away from the racetrack. TAG encourages owners to find the best homes for their horses and contains tips for the best care of our thoroughbreds in their new lives.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6Ik5CbTltSFR1U3E1dHh6TmM0V3d0Rmc9PSIsInZhbHVlIjoiblJxZGpWMnEwUjlIR3pjbWhjTVBKRmhad1hLWERCbmhDVWhWRkZXcWU0RlBpZzljZVpHbGhLQ1czUlV6eEc4Y05FUEk1TkVabEtvc1F5ZzY3WjM4bEhXazBSSHUyR1lNdmp1VG9Id0ZpSk5acHZOR3ZjTHpsb2R1YmsyR1QzXC9tREExbWd2ZjVvWk5BM3ZmT0hJN3lVQ2VtWVBtYnFNUjlsb0R6TVZcLzZOTmVHaktudjNzdG5zclRka09XYnpUWXgiLCJtYWMiOiJkMDVhZGEzM2Y3NThiYjU3NjAyZjNjMjUzZGYyNDNmODE4ZmZhNzI4ZGNjYTg4MGUzOWZiNjAxZTcwNjVkY2YxIn0%3D&amp;signature=7018f39c6420aeb343a8da79b55d3789c7455544f9d7f173dd4d93b13a8e25e4</image>
+    <start>07:00PM</start>
+    <finish>07:30PM</finish>
+    <date>25 November 2025</date>
+  </channel>
+  <channel>
+    <name>SKY Racing AU</name>
+    <id>SKYRacing.au</id>
+    <title>Racing Replay: Ballina Thoroughbreds</title>
+    <desc>Highlights of Thoroughbred racing from Ballina.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IjdnV1hyMHFvWU1GZjNPTDZVSUtCQ1E9PSIsInZhbHVlIjoiRjhJazhRcWllWjNYbnFaaml0TE5RQ0ViUllXbFNvWjZnaEh1V3VaVEhVdGROYzgzS016MlY3eno1aE9oelwvTFVEbmtFNjd6XC9nRWhIVXVRaHRvXC9rTkQrNkpLakxUWEpRTTZsYXBZTnJDdndwdUZmQnE0b296c1NtZzVnZnVOOHYwVU9SNlpiMTJheExQbXY1dzdOTmtHaUlcL2dPamx4S2l5WG40ZDV1TzFvSk4wM0lzRG41amVFdXRZeXV4NnYweiIsIm1hYyI6IjlmYzgxMDc3ZjM4MzkzYTY5YjRiMTEwMTA1Y2ViMGRmY2MzODA2ZmVmM2Y4NjI5YjI1MDBjZDM4ZjI3Y2I5MWIifQ%3D%3D&amp;signature=889ccbbbe8642597d351acb54cf29d3df88d59ac8c947b353a6db39d9d83a666</image>
+    <start>07:30PM</start>
+    <finish>08:00PM</finish>
+    <date>25 November 2025</date>
+  </channel>
+  <channel>
+    <name>SKY Racing AU</name>
+    <id>SKYRacing.au</id>
+    <title>Formline Extra Encore</title>
+    <desc>Know the contenders from the pretenders as our team of Sky Racing expert form analysts dissect tomorrow's meeting.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IjFsK0loSldBa1IxdWpXWHRhNzdhU1E9PSIsInZhbHVlIjoidUl5YnFHR0RTNWtaNFZMaXZyNFNjMFdDT0ZpZ09GVFFEdlwvYVwvNUtyeUZvbktzWWdkQjlBTmdhSVdNVEdLdzRkek5ZMlhrQkgydm1HUUhTR2hBdVVrZ1RSeHBVdmxQZVJONlBLc3BsOVprRHVzUmVlWXJuNmJSb3dRNGlQUDlFSGljZWRwVzRZUUlSSVVGanVhWDRiZVFVVHlyMlF1ZENOc1A1eWdDanBqZmw0bGJhSmVSUHAwNHdPSlE0SHJkbEciLCJtYWMiOiI3YjRhYWQ3YTcxMGM1YjM3MDcwNjE5MWUwY2QwMTBkMTQ2MjhiM2M4ODA4MTg2Y2E3MThjOWEwMjFhZTcxOGVlIn0%3D&amp;signature=4fd92df5bf684d75c824db3f74e803230593aef7a10cfc62ca331b694308ca2c</image>
+    <start>08:00PM</start>
+    <finish>08:30PM</finish>
+    <date>25 November 2025</date>
+  </channel>
+  <channel>
+    <name>SKY Racing AU</name>
+    <id>SKYRacing.au</id>
+    <title>Racing Replay: Cairns Thoroughbreds</title>
+    <desc>Highlights of Thoroughbred racing from Cairns.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6ImJ2WmdRbk9mbVhId0xybjd4KzZsalE9PSIsInZhbHVlIjoiazYzXC9LOTZuVGtDRXdxRWdyczQ2WVNLMEpPRG9KNnJBNThDWlo3RFFsSjlFaytmNmhqVmNyN3RJZkdWb0RiMk91dGtHQk9WXC9nZEx6WkRkbVRrdklNbnJwVXRhTE9WNXNyNVduWFhYbGJJZEpKMlVwNVRUM0NHdlZtcDZJUXVScHlLQ3ozNkJlY3FqWGI3cGxLZldOOWkyMXBwbzJNYVNZSHpKVDVzaDZWamZxRUU2MEpwR1FRUVZNQ0ZVS3JUSHMiLCJtYWMiOiI5NWZjYWY4OWFjNGVjYTMxOGVmODAyMDdlMDgzNzM2NTVlZTRiNzNhNjg0MjM3ODRmMzI3YzVlM2EzMmRiZGFkIn0%3D&amp;signature=ff920ea021b2a1073ae80531630ebf2e369997c5b95b372a024933c088a4a093</image>
+    <start>08:30PM</start>
+    <finish>09:00PM</finish>
+    <date>25 November 2025</date>
+  </channel>
+  <channel>
+    <name>SKY Racing AU</name>
+    <id>SKYRacing.au</id>
+    <title>Sky Racing 1 Racemorning</title>
+    <desc>Thoroughbreds from Gavea, Turf Paradise, Zia Park; Greyhound Racing from Healesville, Ascot Park.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6ImpBU3hHK2liUFczVVZodVYzbjliZFE9PSIsInZhbHVlIjoidUxWdjRcL1VreHR5cWVwcU5uSzMwdk1cL0k2YVZ1WkxDSERSVGdzMmZTeVRuelowcldqS0RHWUhRdjFsT2ZCM3MrM3AyUDd2OSs4Rmo4MldHeTI2TzNSMFlVeDJNZ042RWZoTmt3VG5OaFRaQ0NGXC9lNlBWUDRjU01MU3V5MzYwU3Z5SnYwc2YwXC9QV0cxNVwvQmkrc2VVMGpZaXVHd3ZqbzNWR1dNMVhvVE1mcG1SK2pYY0trUU15bDBOZ0luc0hlYUwiLCJtYWMiOiJkYzI5OGQxYWIxMTQxZTRhMGQ5OGU5ZWUzYmRjNTk3NDFmZjM4NzJhN2UwOWZlZDU3ZTM4ZTM0Yzc4MGRiMmIyIn0%3D&amp;signature=4626c8a759aca814ab7e28fb755e9b02cbfca5b4c93ba741e936687a4fb38a84</image>
+    <start>09:00PM</start>
+    <finish>10:00PM</finish>
+    <date>25 November 2025</date>
+  </channel>
+  <channel>
+    <name>SKY Racing AU</name>
+    <id>SKYRacing.au</id>
+    <title>Racing Xtra</title>
+    <desc>Lewis Willoughby and Nick Berney break down racing and sport each weekday with the latest odds, moves and betting insights.</desc>
+    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
+    <start>10:00PM</start>
+    <finish>11:00PM</finish>
+    <date>25 November 2025</date>
+  </channel>
+  <channel>
+    <name>SKY Racing AU</name>
+    <id>SKYRacing.au</id>
+    <title>Sky Racing 1 Racemorning</title>
+    <desc>Thoroughbreds from Gavea, Turf Paradise, Zia Park; Greyhound Racing from Healesville, Ascot Park.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6Im5TcmFHMkNZOElUM1VKRFQxXC9EaEJ3PT0iLCJ2YWx1ZSI6Ino5ak5YaXE0NmdQcXpOWHpVemMwaHRaa3JvVkxUK3pZUUg4UVBDblJ5c1o1YThZWmVZaE1vWmIxWXN4cDBRVmZmUTMwRlJCS3BcL3VlZkJNYUpjOUhTSXRlZlhKVFNpWFRoUXhvXC9ra2ZyM09mOHMxNHFOUEg1WlpZMU1Dc2xma0tSb0J3XC9qYkwyWVpxVEhkQ1N4R3lISGlTWDBSS3VFK3pqdkRjZU1BczBkNWVQcE5KdUdcL3gxZm04SnVFMzVyUFwvIiwibWFjIjoiYTA2YjhjMDE3NDkwZmQ4NDJjYzQ5M2QxNGI1ZjE0ZWRlMDRiYTViZWU0NWY5ZGViMWZkYjQ5YmVlNDk2OWZhNyJ9&amp;signature=1a6c7d2bb23ab13a8c39505b4455f2879308d6a5b929a9057b0c6f352c4e1241</image>
+    <start>11:00PM</start>
+    <finish>01:00AM</finish>
+    <date>25 November 2025</date>
+  </channel>
+  <channel>
+    <name>SKY Racing AU</name>
+    <id>SKYRacing.au</id>
+    <title>Sky Racing 1 Raceday</title>
+    <desc>Thoroughbreds from Wyong, Geelong, Ipswich, Gawler, Geraldton, Te Aroha, Gavea, Turf Paradise, Zia Park; Greyhound Racing from Temora, Taree, Healesville, Bendigo, Q1 Lakeside, Gawler, Ascot Park, Capalaba; Harness Racing from Mildura.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6InNjWkdwbDNFTGE0dU1RaVpkS2wrUUE9PSIsInZhbHVlIjoicUpQd1FsTWNGUFptNlJLQXpoV1llR0REbU1wMDhGOFpuY2t0NmlhbXBBNVlJaE45XC9oWjlQNzNKQlVhK1RYa3JPTURCNVh0R1wvQVppcjMwdEo0eldLUXJqSlZsUW9yalRDeFZpcHpZd2RmdlhXWGxlMGZmK28rZU1BWkxLMkRwRUwya2pqOTdJRlNZOUdESlRweDF0QXRwUzMyK1krV0dYR05Fb3UrVzNhOU1ucVdtaWNFaElSdGF0bHhvanZrMkMiLCJtYWMiOiIzZTEwMzQzMDcyOGE0NjJhYzczNTA4NzljMmJlZGI0ZmUyY2Q1YTA2NjZhZGVjYTE0N2Y4Njc2MzM1MzEyZTk5In0%3D&amp;signature=06f01271acee7827f148b4ccdac9a986632504cb1e0a9957b336a0900c25b9a1</image>
+    <start>01:00AM</start>
+    <finish>07:00AM</finish>
+    <date>26 November 2025</date>
+  </channel>
+  <channel>
+    <name>SKY Racing AU</name>
+    <id>SKYRacing.au</id>
+    <title>Sky Racing 1 Racenight</title>
+    <desc>Thoroughbreds from Geelong, Ipswich, Geraldton, Launceston, Happy Valley; Greyhound Racing from Taree, Richmond, Bendigo Extra, Ballarat, Sale, Q1 Lakeside, Rockhampton, Cannington, Harlow, Kilkenny; Harness Racing from Bathurst, Bendigo, Redcliffe.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6InljMzkyaDJJMXNSRWE4bjBwS0V4bkE9PSIsInZhbHVlIjoiTlJKYW9qZm4xV21TS2d3dUxcL01kOThldXdYU0FlVXFqRTdhS3haREZpME11M2xXa2tQQ3BFdXlpWUU4NnFNQnFcL3hjOVdCcnk0cmhwNDMwY09LYTQzWjJGblwvb0d3WitMSTBMU1VTN0h2SkhmRVByeU9zU3kwMGxVR25oN1V3WUFxczhLZjU0WmloSWlaSHQrQjdHNnp5YTN0TDR2TGpnYUVYYm5lM3BEczN3aStwM2tRU2x4K1ZJTTcySktFK3hUIiwibWFjIjoiNWU4ZGI4NDAzNjM5NjhmYTIyMGU2ZmJmODZkZjEzMTBlZjQ4MDUyZjZjZWYxZDAxYzAyNmQ0YzkyYjI5MmIzZiJ9&amp;signature=20d77b6af7d14fb923b6f4c24e224a6da2fe4f09581e97a5adb58400ba1554d3</image>
+    <start>07:00AM</start>
+    <finish>11:00AM</finish>
+    <date>26 November 2025</date>
+  </channel>
+  <channel>
+    <name>SKY Racing AU</name>
+    <id>SKYRacing.au</id>
+    <title>Sky Racing 1 Latenight</title>
+    <desc>Thoroughbreds from Launceston, Happy Valley, Market Rasen, Wetherby, Southwell, Deauville; Greyhound Racing from Richmond, Ballarat, Sale, Rockhampton, Cannington, Ballarat Extra, Monmore, Nottingham, Harlow, Kilkenny; Harness Racing from Bathurst, Bendigo, Redcliffe.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6ImNMOXdXSStlSEVLSk0wb2ZuXC9UWm5nPT0iLCJ2YWx1ZSI6ImJwclg4Q09ZN1NwejNMS1NndFpkOGZXSjBjK2xUSkcrTXFxYTNwWGc0WlNJd1Z6WjgzTVBhc1NtUGRETERFSTZTbzFQNUZscWRvS1Q1d25UNmFUMnNGZ2ZlTVwvSmVRdFNpOVBLQW54QitCeCtQcFJDamJ1c253U0JiSkVCN1oxWGh5UjJwSUpxQnprNkJcL3ZvVVNRNytreERNTjRGeFd3eXVJQjBzbk9oSnhcL251RUd0WGJNcW1FcjQ2MjJOcnIrdSIsIm1hYyI6IjNhM2I3ZGJjZjg3Y2Y4M2UxMmQyODM1NjM3MDkyMGZlMzA2MmFiNzdkMjczMTFiYTlmN2M3MDJhMTY4NGVmMzEifQ%3D%3D&amp;signature=62d2eb2cd8b8b3f842e2c13030da11c138704732d6fb275c23d60dd89c70bf9d</image>
+    <start>11:00AM</start>
+    <finish>01:00PM</finish>
+    <date>26 November 2025</date>
+  </channel>
+  <channel>
+    <name>SKY Racing AU</name>
+    <id>SKYRacing.au</id>
+    <title>Sky Racing 1 Latenight</title>
+    <desc>Thoroughbreds from Happy Valley, Market Rasen, Wetherby, Southwell, Newcastle, Chelmsford City, Dundalk, Elazig, Deauville; Greyhound Racing from Cannington, Monmore, Nottingham, Hove, Newcastle, Sunderland, Harlow, Kilkenny, Valley, Doncaster.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IlNDQnRuY3JhOGZ2ZUVGZ0FkMGtOVUE9PSIsInZhbHVlIjoiQUFGVUtVcm4wVEZpaG5BendzMHRcL3Vpd0s5RkVmVVwvYzFsVjlDcjF6NW9Qa1JIYytrbmNNUlJcL1hDVFwvY2NYa2JJZWJCejhGNUx3S2pRaUY0WUxKaFRoVDY2SEZQMWpPb1BCU0xXYTduZHFJb2FGaTBCa2R3TnFlUXlseGIzQXdwSHljZk1SQ05LSkVEbHNya3VkOFNxNUFTQmtHUUU5VG1SaERXcDByclhrYmRIekgwUWdVM3Nia3RmbFVzMm15OSIsIm1hYyI6Ijc0OGZjZWNiYzU0MWJiNDFlMmZkZDZmMzJiZGQxNDg5MGVlYmQ1YzZiMzRhZmFhYjg4OTI1MjdlOTkxNTk4NzIifQ%3D%3D&amp;signature=733c5712a70892c2c8128e1eb9439ce0c6576f06a1f8028d7cca48cb0307545a</image>
+    <start>01:00PM</start>
+    <finish>06:00PM</finish>
+    <date>26 November 2025</date>
+  </channel>
+  <channel>
+    <name>SKY Racing AU</name>
+    <id>SKYRacing.au</id>
+    <title>Formline Extra Encore</title>
+    <desc>Know the contenders from the pretenders as our team of Sky Racing expert form analysts dissect tomorrow's meeting.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6ImVnUGhVM1lhVUttN2FZWlpCVkV0K3c9PSIsInZhbHVlIjoiaGl0dllFTmFkQ2RwcXB0Q3puT09jek85aEc2ZUJOZ05vTFMxU3VLSTNZZGhhSzhZTVF6NUd5S1lrS1NJSG81RDFaQWxjQ2t5RjBna0U4NlAwOVlncGszNWIwb3lWd0dtSGkyQll1ZmtUdFwvUFhEN0s2SWFrYWo2Z2R5ZnM3K2JYdGllTmwrVTduUmx2eE9jckdiZko1Yk9TWEJhYzczOE9BR2xjZU1KTVhvYVhVd0NrRGtNczFtMEFraVZ5RnViNyIsIm1hYyI6IjI5N2RhZGFiNGY1MTgyOWEyNjVlNDU2NmQ1MTZkYmRlMjZlOTViMWFjNWJmZjJjZWQwODlmNzU3NTc4ZDk1ODQifQ%3D%3D&amp;signature=65e9b9b027785fe300aff85c56bf29f0f89f87375b80deaad814ae2ab6e0ad30</image>
+    <start>06:00PM</start>
+    <finish>06:30PM</finish>
+    <date>26 November 2025</date>
+  </channel>
+  <channel>
+    <name>SKY Racing AU</name>
+    <id>SKYRacing.au</id>
+    <title>Racing Replay: Ipswich Thoroughbreds</title>
+    <desc>Highlights of Thoroughbred racing from Ipswich.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6ImUxRzF0RTMwcCs1V3FHUEptaXNhelE9PSIsInZhbHVlIjoiWDNcLzZYQnZPRVlIcVBDUU9oeW9nakJDN0lGOFl5ZHo2UDJkakdkMFRnRjFVb1BxNDlIdm83QXNlR1FjZWVxNmI5bW5aZ3VTMktNZ1dremkzaE01RWowNWppYVhJczk0UEdJcVVLWGVkeGZsT1pJRUhzcHlxWFdxUE9wdHJKYTdpVEFrWFlaTlN2c0NmZ21qVlZ5ZFwvYnBSUmR5MkszME1VQWpzcVJ6NGY2UjVsNGFcL1R1ZElhajRwS0pHZWtFVllvIiwibWFjIjoiM2IwYzM5YjBkZGQ0ZWMxYzYzYWQyYjgzYjlhMmM3ZjVjNTVkYmZiMzAwYzBmNDQ3ZjNiYzJlMzFjNjg2YjIxOCJ9&amp;signature=ef542ed7005ba3c12867e4246ffeefda7d0487a6cd9337ca3a3842c5757df3c8</image>
+    <start>06:30PM</start>
+    <finish>07:00PM</finish>
+    <date>26 November 2025</date>
+  </channel>
+  <channel>
+    <name>SKY Racing AU</name>
+    <id>SKYRacing.au</id>
+    <title>Wyong Showcase Replay</title>
+    <desc>Highlights of Thoroughbred racing from Wyong .</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6ImtWTnlpR1k2Ukd4UDlONGFXbTEzcGc9PSIsInZhbHVlIjoiU2RjNzJyc3JNUzNlTGM3a3hBM05UM1RYeHJMVkNxUU9XZjNaYlMxaUMzMEh3TmozVHJsVFwvenI2OGZLXC9SSWdaNDV0YVFjRG5vQTFyanozWXVNMVZLWU5PN1JGS0dLb3BCandTa3dNTGtBWVF1ME0xRGRSMzJkS05BWCtRRU5DWGZVd0hTamJHdE41cmJGM1RKS1hVN3pWd0ZyY0RCNm9jSzNFWnZGKzZjb0I3ZWYwbDJCOUJld3puNkVOKzVsRHQiLCJtYWMiOiI3YmZmOTU0NGEzOTA5NDliNDk4YjhlOGFjY2M4MDU3MzUwZjY4M2ZhMmFhOWMzNTFjODRlYWEzZjQwZGE5ODA1In0%3D&amp;signature=e5144634b90fd194f1866702bf62956aa2394b4ea2b9f95f89de70c2faaa842c</image>
+    <start>07:00PM</start>
+    <finish>08:00PM</finish>
+    <date>26 November 2025</date>
+  </channel>
+  <channel>
+    <name>SKY Racing AU</name>
+    <id>SKYRacing.au</id>
+    <title>Formline Extra Encore</title>
+    <desc>Know the contenders from the pretenders as our team of Sky Racing expert form analysts dissect tomorrow's meeting.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IldOcmliVXVuMGQxVnBuSmE2ZUYyM0E9PSIsInZhbHVlIjoiNkVSdE5kVVdEbHpvTnBrQ202b2QyQWp0WDQ1R3FxMkFrR0JQY0FoT3pOWWFxUUIzUTA1TVBCWWducU5aQjlxRVhVT1d1ZE8wMCtPb1FCQW1DajVkczFcL3lOczQ4c21MZUF0KytcL0hYY0lIQ01lNHJYcnFNVlNoektDUVRJdnBsT2hTWk00U2hudmRidFlWVzFOVlp5K2JTTkFMK0VUWnRZc2FqWExKOURMMnhUYTM0SFFYV3ptN3pFc2R5WCtTZk8iLCJtYWMiOiIwOWEwYWMzNjEyNDRiMDE4OGFlZjY0OTk0NDI5MTJjODgwYWM1NDBmMjY4YTU5NDI0YTc4Y2E2ZDk5N2RjMWQ2In0%3D&amp;signature=4defe752bf4a812a8203962ea848026b9d0747385707ed0107d7d4450b90d0ab</image>
+    <start>08:00PM</start>
+    <finish>08:30PM</finish>
+    <date>26 November 2025</date>
+  </channel>
+  <channel>
+    <name>SKY Racing AU</name>
+    <id>SKYRacing.au</id>
+    <title>Racing Replay: Geraldton Thoroughbreds</title>
+    <desc>Highlights of Thoroughbred racing from Geraldton.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IllkVk4rUjNhT2RWdFR1RFZiQ2d4VkE9PSIsInZhbHVlIjoiQk9oUm4zNmZ6MjJvTDdxTnEyOUd2czNhdVExNHNmd3M2c0NDRk1oMGUrRnhDZUNRME1GTEs0WmpINFhOVVU2c1JId013NHR4N2xzNnY1UDhtalZSamtSaGxEeURjS0NRS0VGeUo0eEFNMUt5Zk1yR3hKVlwvSXZvbUZRVzRXVHBsUmVxUG9Eb21IQUNBQlF2TldFYW9RUmZMMnRUeW9Kd3FpS0gxMzdKR1hGb3VXTzJOeExVN0tETThLZzZ3eDRKMiIsIm1hYyI6IjZjYTBmMTEzYjliZTVmMjI4ZTg2YmZkNDc1M2Q1ZmI0ZTNhNzljNWM1MjVmZmUxNDlhZGVlYmVlZTM4NzA0YzUifQ%3D%3D&amp;signature=dc754196f836289707c24f032b599b3ca823bd1bbb8581f3f1e8643c15a541c8</image>
+    <start>08:30PM</start>
+    <finish>09:00PM</finish>
+    <date>26 November 2025</date>
+  </channel>
+  <channel>
+    <name>SKY Racing AU</name>
+    <id>SKYRacing.au</id>
+    <title>Sky Racing 1 Racemorning</title>
+    <desc>Thoroughbreds from San Isidro, Tampa Bay; Greyhound Racing from Shepparton, Cambridge; Harness Racing from Oamaru.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IlVVXC9QdUJERm1qcVVoY0s2QnR4NG1BPT0iLCJ2YWx1ZSI6InB5aGwrZzhZMlwveU00NjhPVU1pcnRtM0lrN0RnXC9OZSs1Z0ZQc2JcL0h0UGNFbmk2bHhoU0phXC85TkpYRGptYUNTQXQ2d3hcL2cwMFBlcmRlem91ciswOWlxQnpHWlpZN1hyeEZiNVBic2lWdHM0c2pJcFJcL05xd2JjUHVzUnZEd3poSVBcL2VQM0Y5S2RrMmlXR3lLeWVvbXhcL0RSbHdOYzd4MXNQZkVtSk01TjNlc21nN3A4ZDhrSExiVVdlclpZTHJhIiwibWFjIjoiYmFlOGM5YmJlNTlmNWFkZTFiZDE5MTkyNjlkNmM1ZTE2NTNlNzk5ZTgxMWJlY2UxNjJmZDVkMjY1ODljOGRmOSJ9&amp;signature=6793d90d62377aa55c61f7bd5f51a9965001b080fa788342d84038be05b496f9</image>
+    <start>09:00PM</start>
+    <finish>10:00PM</finish>
+    <date>26 November 2025</date>
+  </channel>
+  <channel>
+    <name>SKY Racing AU</name>
+    <id>SKYRacing.au</id>
+    <title>Racing Xtra</title>
+    <desc>Lewis Willoughby and Nick Berney break down racing and sport each weekday with the latest odds, moves and betting insights.</desc>
+    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
+    <start>10:00PM</start>
+    <finish>11:00PM</finish>
+    <date>26 November 2025</date>
+  </channel>
+  <channel>
+    <name>SKY Racing AU</name>
+    <id>SKYRacing.au</id>
+    <title>Sky Racing 1 Racemorning</title>
+    <desc>Thoroughbreds from San Isidro, Tampa Bay; Greyhound Racing from Shepparton, Cambridge; Harness Racing from Oamaru.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6Ik5PUFcrVzFRaEhZWVZ2b3NWMWZsTXc9PSIsInZhbHVlIjoiOE5NeHNGTXM4R0krazhsYVVyZE54cFQwY2RIK1wvR1N2WG50SzBIZExTNFA1MHZFTEJYR3V0THNRSFprWVFYZ21CdGVSdmZxWnFxakJFSVZjaTFMUnJzZjFBSXZYMlJBQlwvMFlqXC9xZFFnaDNSdEtoa0h4UVQxcWozS3hHbEdIZ1B4eHpZSTJpclFSb1g1d2JRSmVnQktqYkZLdlg5UkI0TU40ak16SW9kQnlWOUJKam0zYXFWQUNoMW5Rc0NKTHZcLyIsIm1hYyI6ImY2NzQxMjc2ZmNlNmFhM2M1NzIyYjg1YjUzNTg0YTg2NmU5NGUwNTBlOTc4OWU4ZjFiMzM1MTZkZmEyZmYxYWUifQ%3D%3D&amp;signature=45135b5e6d104a13532cc89fd257bd7187fb8446e40016a6d3f28ad70c7b6446</image>
+    <start>11:00PM</start>
+    <finish>01:00AM</finish>
+    <date>26 November 2025</date>
+  </channel>
+  <channel>
+    <name>SKY Racing AU</name>
+    <id>SKYRacing.au</id>
+    <title>Sky Racing 1 Raceday</title>
+    <desc>Thoroughbreds from Hawkesbury, Mornington, Rockhampton, Albany, San Isidro, Tampa Bay; Greyhound Racing from Casino, Maitland, Shepparton, Shepparton Extra, Warragul, Warrnambool, Q Straight, Mount Gambier, Cambridge; Harness Racing from Tamworth, Albion Park, Oamaru.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IitkdUlLWFVUYUVCbFdnWTYrUlRmdlE9PSIsInZhbHVlIjoiMU5kTFFMMHFreG9BdlAyTXhFb09sUlRFNWNoNkFEZXV4NDU5YVVCcG9ObFZMUWorNVAyYWRJNndrYXBpbE5tWjBPbk13WGFhZ0x6XC82b3JNUEw5ZmZPejV3SjJqbjNKc2o5d0sxaGI3K3R6XC9MYkx4czIyaU9qeStmaVNjRTY5Y0paYmVYME1RSWNHQ2pkTnhlQ2x0ek9JN1RPSWJMWkFZb2MwR2pWUVNPcjFMNkVnZ09IVlZySW10Q2tkQWhscm0iLCJtYWMiOiIzYmJhYjEyYzI4YWI4ZmFkNjExMjdmOWRhMjYzZDlmMDgwNTY1YjBjYTIyMGFmNjkxNzEyMmY2NWQwMDg5OTdiIn0%3D&amp;signature=3020f5e9f75df6a3a2a80dc5765c5d50adaf2f166b2020ef12b5c43f04d13256</image>
+    <start>01:00AM</start>
+    <finish>07:00AM</finish>
+    <date>27 November 2025</date>
+  </channel>
+  <channel>
+    <name>SKY Racing AU</name>
+    <id>SKYRacing.au</id>
+    <title>Sky Racing 1 Racenight</title>
+    <desc>Thoroughbreds from Rockhampton, Albany, Salon de Provence; Greyhound Racing from Maitland, Nowra, Wentworth Park, Warragul, The Meadows, Warrnambool, Q2 Parklands, Angle Park, Mandurah, Hobart, Warrnambool Extra, Oxford, Waterford; Harness Racing from Penrith, Ballarat.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IjBxMXJZcmZJYXllWFBkRHZxSWlCRHc9PSIsInZhbHVlIjoiY05YbGJ6MW9RV0E3V3ppOVJJa3BMWUdZYzFqT3hHalNWWVwvRUM0VUhPZGV5ejVmKzhzNEdMM2tXMEdQdDNqNXhKOG1lMm9TRjVtS0czSDdXVFJ2OUpwSTJObXJtc0dXaWRuYTJFWUtxXC9PTENXMVpNNFh4SitHQjdpVWxteTFNWmdRNGpCK3NcL25GMENYN20rRERQMEg4SHBRUUhVbnFZTStIaGNpOWFRd2FzZXN3TWZlWFhCYTd0U1wvTzhJZVF4dSIsIm1hYyI6IjQ2YzkyODJlYmYwYjA1NDFkYzI0OGE3ZTVmYjFiOWUyNjIyNjE3NTg2NTBhODc5MDhhNTZmY2MyMWZmNTY3NmQifQ%3D%3D&amp;signature=9991ac98095454120c07143494e905c155024f3afba11093bce0d70f2802f63c</image>
+    <start>07:00AM</start>
+    <finish>11:00AM</finish>
+    <date>27 November 2025</date>
+  </channel>
+  <channel>
+    <name>SKY Racing AU</name>
+    <id>SKYRacing.au</id>
+    <title>Sky Racing 1 Latenight</title>
+    <desc>Thoroughbreds from Taunton, Lingfield, Uttoxeter, Thurles, Riyadh, Antalya, Salon de Provence; Greyhound Racing from Nowra, Wentworth Park, The Meadows, Q2 Parklands, Angle Park, Mandurah, Hobart, Sheffield, Nottingham, Oxford, Waterford; Harness Racing from Penrith.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IjdDeXFOS25IUFJjSURCTHVZNEd1MGc9PSIsInZhbHVlIjoiUGRpb3N3b291V0xUQjJhbXlOQktHQTBPZENwXC9YMnZEVlRmNWtkQUJKVFVhVjYyWUpMbENkU1FzYWsyQkdqYUNVTDhVVitKMjFTaUc3Z2FkbTJpNXVuZUxzXC9ibTROVXpXZlM5eGhPS2FOakxVMlpcLzhNTUdcL3NDYUI4TWhYNytnOE1lNGZXN1E2V1F4cjFUNlJ3UUt5YXAxa0x1ODE5dE1pdVwvZURkT1VjMkl6NVUzd3BLQWlVTWdlOE13MHNaTUMiLCJtYWMiOiI1YzIzZTQ1YTQ0ODQ0Nzg3OWMxZTc3OTJkYjk4YTdlZDkwMGUzY2M1NTU5MjllZGEyYTZiMzNkN2RjZGExMTQ1In0%3D&amp;signature=f0523f344a94f0b9270af428a1774467784af3d39d691c5d133cd3a0b361b7e3</image>
+    <start>11:00AM</start>
+    <finish>01:00PM</finish>
+    <date>27 November 2025</date>
+  </channel>
+  <channel>
+    <name>SKY Racing AU</name>
+    <id>SKYRacing.au</id>
+    <title>Sky Racing 1 Latenight</title>
+    <desc>Thoroughbreds from Newcastle, Taunton, Lingfield, Uttoxeter, Chelmsford City, Thurles, Riyadh, Antalya, Izmir, Salon de Provence, Bahrain; Greyhound Racing from Mandurah, Sheffield, Nottingham, Central Park, Dunstall Park, Kinsley, Oxford, Waterford, Limerick, Valley.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6Ik9mZTBVbEhEQ1lBQ21RcVY1QUlvWnc9PSIsInZhbHVlIjoiNW5iU2lxT2FwMHNuV3hSUml6ZHBIXC9iZFBRV21KR1E0RFZoME00S0RcL2YzakVOZ0tpXC8rTEI1VkRBa0hsK2crN0xBdjlXOTRqMWhSMWlcL0tHOUFNT1JCNE5kbmFFejFjQ1duYms5ZGZicUxFMGxhV0N2K2NWY3ZVNndQdFE0b0tFVEhsaWgxREYrcDFvVStkY25yZjJjZ25aNlBpU1ArS095V3RrYlg5NlUwNVVkcWhKRUJQWWxxOTF2bU04VlVzZiIsIm1hYyI6ImFlMTBjMmNiMWQ5YzdiYjA2ZTQzMGY4MDVkZDhlNWIyZTkzMGE4MGIxNDRkMGI3YjgzNTVkMzFlN2Q4Mjk0MmYifQ%3D%3D&amp;signature=b61623100d9145a7ee42234bf305b3efc811896d11c20879fc2763776e407d72</image>
+    <start>01:00PM</start>
+    <finish>06:00PM</finish>
+    <date>27 November 2025</date>
+  </channel>
+  <channel>
+    <name>SKY Racing AU</name>
+    <id>SKYRacing.au</id>
+    <title>Formline Extra Encore</title>
+    <desc>Know the contenders from the pretenders as our team of Sky Racing expert form analysts dissect tomorrow's meeting.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IlV5ZmltUWo4d3JXa08yZXJNV0N5MWc9PSIsInZhbHVlIjoic1dXN2w1eW4rUUR2OW42SjFISWVsWHorMVU2aFVkSExjYWs1b2RiMUlpUG44ejRJS2MxMmpTK0xtQzdkODY5dGxOaXhCTXBzZG9DU0p3VFwvXC9tU0ZrbVRMWFJRNW0yVk9OYk85eVVBb0xPZ0tIOGNKVjZGdXZBdzNjZGswWThlRkg1bmhUOWpBc2FaSkFqSUgzTEtcL0JGVG1WY2doZjlUdEMxSG5cLyt3Y05xTHQ5VzFCSjJtZ21Pc1l2XC9mVHRab3EiLCJtYWMiOiJiOTBlYTljOWM4MjQ2MmM3NWMyNjdmZjY3NDk1NDlmYzkxN2RmYTc5MzljYjUyOWZlYzAzZWQ5NDY0YzlmNTRjIn0%3D&amp;signature=32b57a22b92856a3de180e78cc61f49d748d3a8c36d60dc2dbc99bd8926c5782</image>
+    <start>06:00PM</start>
+    <finish>06:30PM</finish>
+    <date>27 November 2025</date>
+  </channel>
+  <channel>
+    <name>SKY Racing AU</name>
+    <id>SKYRacing.au</id>
+    <title>Racing Replay: Hawkesbury T'breds</title>
+    <desc>Highlights of Thoroughbred racing from Hawkesbury.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IkVUakxJN2hDbkRXMlBoa2RTdW15Zmc9PSIsInZhbHVlIjoibVwvXC82RHZFR3ZUbDE4bWZxXC84VklZeTZ4ZGZQbVVFOE55WWpjN2RcLzExZW1ZWGRVUU4xQUxGamZFUHMzS1d0MzRzalBIRk00cTFRSHlrbUdYNHU1eWlheHN4OTY2SU9ONlJMTEZKOEl1UEt2SzIrbXFEXC9kcm5TVElXOHBxVVVEZSs2dGVhU1UwVVZTYXBPYWZUYkFyR2pWR1wvT3RHQVhlMlwvZ3BmZGU2U1plQlZ0UDgyY1BsODE0ZStwaHl2XC91ZHQiLCJtYWMiOiI4NzE5YWZkZjNmMDFiMDE1MzljMWFjMGE0NzVhZDJmNmY4OTYzOTI2YmIwNzNhNzYxZjlmNzgxZTUxMjc4ZThhIn0%3D&amp;signature=2843c26f7fde7e521256d6a95059a26b91abea734a17fe2e03a0a368555c1eba</image>
+    <start>06:30PM</start>
+    <finish>07:00PM</finish>
+    <date>27 November 2025</date>
+  </channel>
+  <channel>
+    <name>SKY Racing AU</name>
+    <id>SKYRacing.au</id>
+    <title>Form Line Encore</title>
+    <desc>Know the contenders from the pretenders as the experts dissect the upcoming weekend of racing, and deliver their pre-race analysis for the biggest races.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6ImExemhMSVwvVjR3V3VkaXphWklIdmhnPT0iLCJ2YWx1ZSI6IjN3WGkyeXJEemJ5Y3MrcEFhY2VVTVpxTW9Qa0FhQmw2bm1CKzNJKzN4OTZUS0p0WmVMbUFrTDJ5WEF5Z1wvYkpVZXhZQzJvelhHaVFuSzE1eVwvNGxZZVBZdVlWbWN0Y3JNcmlyV0Z0cVg4QTVTa2MyNzJjWHVLZkFFR2F3K2Eyb1VOdVg4ZUxmSnRJT2ZReTc2am9sVjZuOHhpMjNkUXV3ODNxM3IrajQ0YXB5SmdTYzE4RDJQeTBEa0lEaXExXC84QiIsIm1hYyI6IjM0MTMyODVjZWYyZjQ4NTRiMmNiYjU5NDM2NjE1NTY0MmI5NTlmOGYyMzZlOWFjMTNlYTYyZWM1ZWM5NjUwMjkifQ%3D%3D&amp;signature=d0c2f7f3738190afbe0cdd8ff014150e2e9af73d25cff1945a0473e40ee0b347</image>
+    <start>07:00PM</start>
+    <finish>08:00PM</finish>
+    <date>27 November 2025</date>
+  </channel>
+  <channel>
+    <name>SKY Racing AU</name>
+    <id>SKYRacing.au</id>
+    <title>Formline Extra Encore</title>
+    <desc>Know the contenders from the pretenders as our team of Sky Racing expert form analysts dissect tomorrow's meeting.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6Im1SZmlMVzAwakJcL0JiM0prc2RwRU9BPT0iLCJ2YWx1ZSI6IkNFbW1hOU5MXC85cG5FSEU4M3JUQng4bHl6TG5RRXNNT1VNdE5qS1lYdlVTTFFFMk84VzdrcG5CeFwvaWlvOGk3a1paQmJIdEIrUFcxbVdxZkxBdkl4SmtCRXpZVkdFNndQYlE4TTJpaHZONmlzZTZPQU5VM3ZCUks4XC9VQWw0VlpBRlhpV1dXNlwvRVdJbWNzb2ZSckpzMlZRbTRVdExGRzhITzJaK2dtblNBS0xxa1dcL29MOXU3aXRPNVZNZkkzZzBcLyIsIm1hYyI6IjMyNmQyNGUyYmYyZWQxMWYyNTg2N2NlMzU2ZjQxMDM0OTIwNGIyYWYzNzFlZTkyNGQzMTg2OGRmN2JlYTUyYTcifQ%3D%3D&amp;signature=5fabd7e9f9a393b5fe6022ecbb09d0f40b12ce35f4135ef4c685e4249b1259e1</image>
+    <start>08:00PM</start>
+    <finish>08:30PM</finish>
+    <date>27 November 2025</date>
+  </channel>
+  <channel>
+    <name>SKY Racing AU</name>
+    <id>SKYRacing.au</id>
+    <title>The Playbook Encore</title>
+    <desc>Form experts Bernadette Cooper &amp; Michael Maxworthy analyse Saturday racing in the Sunshine State.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IklXcmR4SkdrYUxGR3B0RStsWHVzT1E9PSIsInZhbHVlIjoiNGlOTVh0SVN4QjhCRFFjeStaU3NPYnMyY2hTb3UySlkxcHNHOFpiZVd4ck5KOEI1QmhBZ3h5VTZUTXRNK09VVTcxUFdLS1ZmQXlvdmR6cDFRUEJSNEQ5eCtqNTFuOUNKd2JmcFd6MktCV0VqSHZldFRFQjg2WVQ5T3p0Smg5SVwvVzR0dml0NkRFa0dJM3NcL0NaRlVKaFBsMTdcL1M3bW1BSVprODJSUDBcL3hNdm5lMXJ4WGM2eXZLbUJoWkVNTDJQMyIsIm1hYyI6IjM4NmViYzhmNDE3ZDRkYWZkNzU5NDBiYTUzZThiNGNmYmI0YjQyZDJmMDZmZTNiNjk3YTQxOTc2Zjg4NzZmMGQifQ%3D%3D&amp;signature=45b1d6f58535ef70ba8eb324ad846da22b7b42cc99fcfbde62e238f8c0f5210a</image>
+    <start>08:30PM</start>
+    <finish>09:00PM</finish>
+    <date>27 November 2025</date>
+  </channel>
+  <channel>
+    <name>SKY Racing AU</name>
+    <id>SKYRacing.au</id>
+    <title>Sky Racing 1 Racemorning</title>
+    <desc>Thoroughbreds from Gulfstream, Laurel Park; Greyhound Racing from Addington, Healesville, Gawler.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6ImNPcnRkcEFCQVk0M3JXT29nNEh2aFE9PSIsInZhbHVlIjoicXRGWWhrZWt6OUtBNk1pOGlSdnpoSnZJRnIwT1k3ZnlcL2Y0Qjh1dnMyTjlOQkMxRUtYZVJPK1V0V1U4Y0VxK0lzeE9OZVZ2SlwvZEp3WlMxSm9jWFwvdXIreHJ5andSQ2RtdE1PdXNuVkpZWHJlUjB0V1JZeFwvWkd0TlE2NDhOU0lKeU5hekdBZzVnVE5CZGk1aURzRmVqSEhDXC9Za0hDK3BJaHBSdE51dGVhd0RlTzJuZkx1aXJDMTBNS0dDZWVUenoiLCJtYWMiOiI4ZjVmN2JlZGQwNjMxZDEwNGYyYjVkODc1MTBkYWEyNTNjYmEwNDg5MDBjM2RlMzdiMWQ3OThlMjhjMzFlZDc4In0%3D&amp;signature=e2d6e24415b0a71349ea5c5552144e06157918fa38d8a51588c53ca662044775</image>
+    <start>09:00PM</start>
+    <finish>10:00PM</finish>
+    <date>27 November 2025</date>
+  </channel>
+  <channel>
+    <name>SKY Racing AU</name>
+    <id>SKYRacing.au</id>
+    <title>Racing Xtra</title>
+    <desc>Lewis Willoughby and Nick Berney break down racing and sport each weekday with the latest odds, moves and betting insights.[(96057)] </desc>
+    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
+    <start>10:00PM</start>
+    <finish>11:00PM</finish>
+    <date>27 November 2025</date>
+  </channel>
+</tv>
