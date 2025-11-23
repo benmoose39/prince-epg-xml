@@ -3,16 +3,6 @@
   <channel>
     <name>CSPAN US</name>
     <id>CSPAN.us</id>
-    <title>Public Affairs Events</title>
-    <desc>Public affairs events, congressional hearings, speeches, and interviews.</desc>
-    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IkFCeDBuKzgzWHJaekUraTFhWmRWbUE9PSIsInZhbHVlIjoicE8yd2c1OG8xdnNYS2tqbklKSWF1Q1BBalFuODd5VWxHb3I5bDd5Q1FubDExZXdSbXlENE11UG8zanR1RHRlZStvM0xoRFJvNUkydlFlangrYVhaVXJudk1DR3pKTEJlTEtPSW5xWWx1V1NsUGJicEJEVEpaemdBSElQbDVTdmoiLCJtYWMiOiJjOWE5NGJmOGRmMzQxNzU1MDdlYzgzMTA5NzFhZmQxZGJhNjEyYWZhZTU0OWU0MDViMzRjNzUzNjRiNzY4NjIzIn0%3D&amp;signature=8bfc5f81653baeb526cf239dd0e6aabaf552777d5bc5edfc3ca9fcd200edc681</image>
-    <start>02:00AM</start>
-    <finish>05:00AM</finish>
-    <date>23 November 2025</date>
-  </channel>
-  <channel>
-    <name>CSPAN US</name>
-    <id>CSPAN.us</id>
     <title>House Democrats Meet on Trump Admin. Immigration Policies</title>
     <desc>House Homeland Security Committee Democrats hold a meeting on Trump Administration immigration policies.</desc>
     <image>https://epg.best/assets/program-icons?program=eyJpdiI6IlM0cHkxcGpXTmQ2TStiYXdKbzdERmc9PSIsInZhbHVlIjoicDd0ZWhnTTByaUQ4U1VXa1R2WU43d0tcLzdnXC9rNEgxOFhFSzQ3V1JPNnQxUFlFVmJQK3Jwb29kUG9qWGIyN2grZ3hQcHVGWldOWldjUEJcL2pudUJRSElSRE1zcWIyaFVHNkNWcUZ1ckNqdFE9IiwibWFjIjoiZDU4Nzc0NmM3Nzg2OTc1MWZjYjI1ZmFiNTgxNmIzYzc2MmJhMjcyMTQ5NDQxNzJjNjY4ZjEzM2Y4YmFkYmFmYiJ9&amp;signature=3e7f63b7e3b9aeabc4df10dea017a24c74d96fcb73618bae667fdc5350df8a6e</image>
@@ -28,6 +18,16 @@
     <image>https://epg.best/assets/program-icons?program=eyJpdiI6Iks5R25FOFRcLzVVeHRCc3VVQmsyQ3Z3PT0iLCJ2YWx1ZSI6Ilo0bW4xd1wvNkpHdzhleHJwTW1vVVdoY1dXV1RvbUhCVGlUQXREZElOR0xuQXoyeXRrOUVDam44RTZKeDJ5Mko4RTVYd1orXC8wS2ZcL1drS3lOM0VSWUNBbU1IRjZjNmpyWGc3NEs1Vm5YRmRvPSIsIm1hYyI6Ijc0OTgzYmFiZTdjOWE3NjU1ODEzYzYyYzNhZjllZWZlOGU3YzY1ZTY2NGJhMTc3NzE4MDMzN2ViM2RhYTUxNjgifQ%3D%3D&amp;signature=9fb8a5598a4d643d165ea706f68cac40e995b3a5e0e9a159bd6e44bda82b5539</image>
     <start>03:48AM</start>
     <finish>06:03AM</finish>
+    <date>23 November 2025</date>
+  </channel>
+  <channel>
+    <name>CSPAN US</name>
+    <id>CSPAN.us</id>
+    <title>Public Affairs Events</title>
+    <desc>Public affairs events, congressional hearings, speeches, and interviews.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IlwvSThUR1dBS21mV0pzNHUxVnQ1NWN3PT0iLCJ2YWx1ZSI6IlJpRE11RWdNdVgyR29PU3Y5RHJWZ3krSjVXYUR3STVxUk10OWl3cDhDOWlYbTh1UW1oZWtqV3JZbFNpK2VHZ3oyY3V4UUtVU3RPS0hnV2l3RURndVwvMmhFODBZR1B4YmZnQXZaTXUxTDRpSGlMMHdCTTF2QWFRcEhvYW90VHdDcyIsIm1hYyI6IjU5MDg4ZjgzY2RiNGVjMTZkODc2Nzk1ZGY0ZWQyZGFkN2Y1MThiNmZlODQ3MzRmZGIxZGFmMGE2Njk1NDc5Y2QifQ%3D%3D&amp;signature=7f04f13f42afbdd486125ab8b3e01ebfb51aa0e03abc2ee66006f386cf3f9888</image>
+    <start>05:00AM</start>
+    <finish>12:00PM</finish>
     <date>23 November 2025</date>
   </channel>
 </tv>
