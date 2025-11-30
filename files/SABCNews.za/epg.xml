@@ -1,2 +1,563 @@
 <?xml version="1.0" ?>
-<tv/>
+<tv>
+  <channel>
+    <name>SABC News ZA</name>
+    <id>SABCNews.za</id>
+    <title>The Week Ahead</title>
+    <desc>Join us for a snapshot of what's likely to make headlines in the week ahead.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IllleUNtS280MGtsdFVDcFk5c0crMVE9PSIsInZhbHVlIjoiTFFLbXE2R0dWR0htK0F0M2M0QkJyWUZoeTdkT211NW1CYzhvSHpXdmdqRmJpQVgyVDE1a0N3ZElMaUdGclN4XC9XR3IyNTBsV3dycE0wT3NsZEd5TkRJVml0aGhTeTJrOExqYXg5S0NyMnF1TkI1NDllbGYwMUp0YnVBemVhNEtVQXpwY21XYWlpTld1cWxweDJ5YzVzSnJqNE8yZzNsNFpwbGpcL1VDOXJ1Q2s9IiwibWFjIjoiMzJkNTRjNzgyNjQxOWVmMDdhMDcyZjhkMWRiOTlmNDEwYjQxM2Y2YTU2NTg2OGI0YmNiMzk2ZDIwYTI5M2VmYiJ9&amp;signature=d8d1914ed7c12c09922c300f1ab2037d3aedfe7759fa6377e7c81da0e3c78e83</image>
+    <start>10:00AM</start>
+    <finish>01:00PM</finish>
+    <date>30 November 2025</date>
+  </channel>
+  <channel>
+    <name>SABC News ZA</name>
+    <id>SABCNews.za</id>
+    <title>SA Today</title>
+    <desc>Invited guests give more depth on big provincial and regional stories that can be an issue of national importance. It also includes general news.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6InlWYWdCd1E2WlQ4elBiK29laHM4WUE9PSIsInZhbHVlIjoiaTlWZkFqSTY5Y0ZSdk1NOU1GU3QxQXJ3UVgyaE1hUEpcL2RmZWE5TXJMdGJmR1lZNHFKOTJpZGRZNzVQenlHb2JTNWFJRTN3TmNwSk44NnJrRWQrXC95N3RhdTFIdkpWakZRZGt1RjladGs1MlRrV2VNYWN0MktaWXcxTU10OU4wTmc2MTBtQjNDbGVjXC90MFY2Zm8wTTBLSklJTUQ1SWRJQXQwUEZYU3F6eXpVPSIsIm1hYyI6IjYxMzEyZWM5MThmODlmZDY1YWYwZWMyNTBhZmYyNzQyY2QwNDBhNmRmYWViOGU2ZjJhNjkxNDQ4ZTAwNTBmMDgifQ%3D%3D&amp;signature=a80b31a186ae435149d12d8b34c2351834b75b8c6c8e32ae00d14903e0f2c903</image>
+    <start>01:00PM</start>
+    <finish>04:00PM</finish>
+    <date>30 November 2025</date>
+  </channel>
+  <channel>
+    <name>SABC News ZA</name>
+    <id>SABCNews.za</id>
+    <title>Full View</title>
+    <desc>The show also features 30 minutes of market sense in-depth.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6Im5qYnZjYTFsNGRVVXVOdUZUWmxQU3c9PSIsInZhbHVlIjoiK2NIanVXUjdFODFkVjVZK3F5cU5HSlFXZ0NCNmpGbFlMWm5iM2ZQTUQydTFEejk5REdBNUtJSnFnMFV5WDF6MUpIQUdnWE9iSDZvb3dPams1TXZXaytMcVZTa2ZmYXBEdEFvS2JGeFBQR2NXS3hXTDdZajBsMlZoMEladFJqejA0U1IxdE92VkdRcCtjbXNcL29nUTZpaE1idXNsNVhzb2JkNFZUbmhcL2s0M1U9IiwibWFjIjoiNDQyNDFlMzZiNDFhMjZiZTkwZTM2NGJlZjIwMDVlY2I1NzAwYzlkYTcxNGZmYzI4NTYxNTJiZDU5YzYyYTMwMCJ9&amp;signature=16ba5df0f4250e28ea97fa845943df1ad6199918c84418f9a1e801fa708d552d</image>
+    <start>04:00PM</start>
+    <finish>05:00PM</finish>
+    <date>30 November 2025</date>
+  </channel>
+  <channel>
+    <name>SABC News ZA</name>
+    <id>SABCNews.za</id>
+    <title>It's Topical</title>
+    <desc>It's Topical gives you a sense of the nation's mood. Digital, pacy, interactive and engaging journalism brought to the TV screen.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IjhGRWhNU2RSUnNNamxtSFZMU3JpTGc9PSIsInZhbHVlIjoiTzRacERkOU9FS0FoeWlkSmxGYlRpZHpkUHhBS2RLVGVaT2RIWlRocHRkN0R0bHNVdlZjRVVTbWRjdHpYbWFOZU1OcUV1Q0VvbzJcL0pRazFtK3lsSEd2anI1QTBuR2luRWNZeEtJY1dTVk9McWJYZWhcLzFcL21aaitDWjd2c3JNNU9xYUZsd3NXSTJoa0t5WEpBT09cLzdZcmVZYWdDcWpzWFUyUjMxdm53REVvST0iLCJtYWMiOiJlOWZjNDcxZmEyZjAwOGU4ZmMyZmI1OTVhZWEwY2U4ZGQ1ZDI4MmExMTA1YTA5MDcxMGUwNWViMDUwMjVhOWMzIn0%3D&amp;signature=5060c8c9237076161deb0c4947f567d4b99974b043b49f2605bb4decb92586de</image>
+    <start>05:00PM</start>
+    <finish>06:00PM</finish>
+    <date>30 November 2025</date>
+  </channel>
+  <channel>
+    <name>SABC News ZA</name>
+    <id>SABCNews.za</id>
+    <title>Unwrap Africa</title>
+    <desc>A mix of topical news, cultural highlights and uplifting stories, with a special focus on groundbreaking technological achievements and success stories through live links to different countries and regions.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IlpRYjlEVzA1XC9nS0ZqSTRUaE5CaHFRPT0iLCJ2YWx1ZSI6IjBrRUx4UkR5K2ZWdTRTYklUWWJDaWNFQ091bDFHZTNIMk8rNXYxUW5vOW84dWhGZ1htdVRzMzNJZEhIa2lRZlFEM0xGZTdaaGYybnMxa1RvV3FycHhsaUVFZ0FMOTgrTUd0WjlhWmJBMUdVcDRUcTdtT2RyVmRONTJZcXIwM3IwUVwvcjhJZGhmdjk4VkhpQ2RhSWVkcWtBM0hYbEJjM3d0NmlYVTVyTktGaFk9IiwibWFjIjoiOWVjYTZkN2Q0ZmJjMTQxN2U3NzgyMDVmZDM5OTEzNGVhMmVmM2MwZTA0OWI5NjI0NjA3OGZlMjFhZTlhYjhkYyJ9&amp;signature=b33fa05b1dfa81184742df7501670aabb1f3c94fb69988f49c0850005a092a37</image>
+    <start>06:00PM</start>
+    <finish>06:30PM</finish>
+    <date>30 November 2025</date>
+  </channel>
+  <channel>
+    <name>SABC News ZA</name>
+    <id>SABCNews.za</id>
+    <title>G20 Focus</title>
+    <desc>An in-depth and thought-provoking discussion that interrogates world leaders, thinkers and agitators about the undercurrents of the G20 issues.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6InJFQmpDVlR6Y1BoMlFOTDI3aFJlQ3c9PSIsInZhbHVlIjoiMlV6TEh6XC9EeDZZUGZWXC9WUGdPZW40MjB2Tis1MW1hRW04Rk9Kc21OWFIzRytLRjFkcWk5UEpEbSt0MkZcL2xEK2Fmeml2VTEwR0RpZjZDTG1yb0Naa2h1eVdhcjhaRUhDUVk4bjBrWE1iQmpRQVpURHVSVFgwXC9sUWJyN3V3TGNOZys0cXZSY2phbXl5YnczU3ZqdEorelwvcTBQRHFmVmFLa1ljTFFaNDJHbTA9IiwibWFjIjoiNTdkYzIzNTI3NzE5ZDZlZGVlNGE5MzAwNTUyZTc0ZWEwMjVhMzMxYWMxYmJkMzJjOTVjYWZjMGJmNWZiMTM3YiJ9&amp;signature=d5ac5a1a6c9223a9a060e5e88a5b9a518efbd792cb638666cdd76fe99ba567db</image>
+    <start>06:30PM</start>
+    <finish>07:30PM</finish>
+    <date>30 November 2025</date>
+  </channel>
+  <channel>
+    <name>SABC News ZA</name>
+    <id>SABCNews.za</id>
+    <title>The Late Edition</title>
+    <desc>A 360 degree view of all the stories that made headlines through packages, features, and interviews.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IlgydklXM0diUUtENE14ajF0eGZyUFE9PSIsInZhbHVlIjoidkRlMkpwcDRIRGlLdDB4NTcydDNLTXZ0ZjFrS3RzaWlcL1M2blByZll6d3lETVprcmlPSFEreGlNNkh2bkkzU0w3Qjk0RnRpdjJVcFFsTUVJa0UzRHByT2hnZVhhQTZrYnJ6cU5mRzN6TEZhMkp2NFo1amphZEdabVVJMGVjdlRKa1k2YTFyR3BjNlEySElmcE1lTjhnVTg5WU1YblwvcHY5VEhBc0FLRHZrMUtENkVUWVZOQUtNV25FWWtnQ2twMGEiLCJtYWMiOiI2Njg0M2IyZjQyNWQxMjcyNmI4N2Y4MzAxMjljNWQ2NGM2Njk2ODkyZjgxZDk0MjM2ZWIzOTRkZWFlZGFjNzM4In0%3D&amp;signature=1ce8158673b3b971876d635cf1d0d576192949df77dfdf0a87ad27b93821d637</image>
+    <start>07:30PM</start>
+    <finish>09:00PM</finish>
+    <date>30 November 2025</date>
+  </channel>
+  <channel>
+    <name>SABC News ZA</name>
+    <id>SABCNews.za</id>
+    <title>Full View</title>
+    <desc>The show also features 30 minutes of market sense in-depth.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IjV4R0Q1Q0x2dzdQYnBISWk0VlFtS2c9PSIsInZhbHVlIjoiK0wyRXZIWjMxN2JQYVBVa21GVUlVanpESmIwMTBFQWFKT0p6UGhvcEIxQm83VEt2VGZsY3BmV284S1RkUEJNVDhuWXpjdlJoOW1cL2dWRE5zRTVlUXllNlR3ZlFDN0g3VWJLRlZyUGxpYzgxRVwvVERnN3VtS1lhSDRTejlJRVwvNXJXdGlOaEVDTzVnYmU5OGpwYmdoV3BFUm5OS2FHV1wvaHdScnhSWDlUeVVRbz0iLCJtYWMiOiJmZjYxYWMwNWUyOTBkODEyMzIzMzUyYTZlZjMzMTNiNzBhY2Q3YThiOGJiNGRjYjlhM2NjNTZmNzQ4MDk2YjI4In0%3D&amp;signature=d49b56821629141fba1bb2adaef49bb013e1ce140b3841e012b56928dd312cf3</image>
+    <start>09:00PM</start>
+    <finish>10:00PM</finish>
+    <date>30 November 2025</date>
+  </channel>
+  <channel>
+    <name>SABC News ZA</name>
+    <id>SABCNews.za</id>
+    <title>It's Topical</title>
+    <desc>It's Topical gives you a sense of the nation's mood. Digital, pacy, interactive and engaging journalism brought to the TV screen.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IkJVTkVyN2Z0ZHhvZ0xNQjJZZGoxVWc9PSIsInZhbHVlIjoidkE1TlVZdXBpRTB3bUlkNHlhcERcL2hrOW9hYlhSd1ZPSG9UVHF6U2h4d3VUc3hPazlnc1BrenF5R3NPb0Q0T1czaVRtXC92dEdHc3JpTDBvRk9ueUZZXC9LcFU1S1laeVBwcng4U05rNnNoVHN3K09EaDJFQzZZQWpJVjZYNG5wQzJRZjFzZEx2ZFdBYmtlcTdmSHA3UXZpV1p0UVwvM0dZa1BqTVg2eXRiaXdxcz0iLCJtYWMiOiI0NzYwZTEwMjZlYTkzZjY3ZGQyZjkyYzAzNTM3MTk3MGM1YWM2Yjg4NjIzYjViM2M0OTg1YTNmZTc2ZDIwNWEzIn0%3D&amp;signature=e1f2fd08728aa65cf64c1fd73a143e8000ebf822acb00ee6a7a05be4a7be5918</image>
+    <start>10:00PM</start>
+    <finish>11:00PM</finish>
+    <date>30 November 2025</date>
+  </channel>
+  <channel>
+    <name>SABC News ZA</name>
+    <id>SABCNews.za</id>
+    <title>Unwrap Africa</title>
+    <desc>A mix of topical news, cultural highlights and uplifting stories, with a special focus on groundbreaking technological achievements and success stories through live links to different countries and regions.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6Im8wVWMxZWgzK3JaVHI1eWh2eERoV3c9PSIsInZhbHVlIjoiT1ZYczUyRTF3bkVlV0lcL0JXVzNLbTlJbzlYMmdoVlJtUlZlTndGalBONjVnTHdyMTVPS0lmSXhsRTE4NjBySnhaOXN2SDJoclQzNUkrK012XC90dWtRdmFSSllTUXlBQjExcnU0OVdTRlNjRFM4U085d2FpZlVGYzk5RUtlWFBFcXo2b3RLRXZqc1dGVkJ2TzdVeUszWjNOclhYdFZmRWswZmNIQk5hdHlicG89IiwibWFjIjoiOWVkZTAyZmY0MDdhY2EzODZjNTgzMzEzNTNkMDM5YTc0YTI0ZGE0MDdlNjMxYjQ1M2NjZjYzODZkY2M0ZmM2ZiJ9&amp;signature=1fe3c7014c031f9d56a5c47950ca4c26774f2f9821715cb261a07f265d097078</image>
+    <start>11:00PM</start>
+    <finish>11:30PM</finish>
+    <date>30 November 2025</date>
+  </channel>
+  <channel>
+    <name>SABC News ZA</name>
+    <id>SABCNews.za</id>
+    <title>Trendz Travel</title>
+    <desc>We focus on the sights and scenery and celebrate experiences and locations in South Africa, Africa and abroad.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IldqKzBhT0hoM3NiRG4rQzJWUEFKN2c9PSIsInZhbHVlIjoiTlc0eUNFY3FlTnp6UkNnRWFOMHRNcEJQcHBNVmUralM3Tjg4elBWZHV3b2FHeWthTXZKM3JHWlhSMzJyaWV6UXdYM0J2dkQyNUpkR0UyNjN4NzdEQU1JZUx5aTdYRGFlXC9WU3pEUWZnTW9DbDBMaFNzSlRCRE4xcHZJMkJ1SXdoSjFIQ1VGS0F4bEU0NUFVRGU0TDNnYzhMRnZRbldHK1VNbXVVWFJmc0xYaz0iLCJtYWMiOiI3ZjFhZTlmNTY2YmRjZDQ3YzQwNjE3MjkwYjdmMTViN2FiZTJmOTVhMTIwYTFlZmUzNzJmNGNmZTIxYmY2YTgxIn0%3D&amp;signature=df11b0e27fbd433406a43fd532d0be4df71afe3f6665c39d8c940fb6d22bbb72</image>
+    <start>11:30PM</start>
+    <finish>12:00AM</finish>
+    <date>30 November 2025</date>
+  </channel>
+  <channel>
+    <name>SABC News ZA</name>
+    <id>SABCNews.za</id>
+    <title>The Late Edition</title>
+    <desc>A 360 degree view of all the stories that made headlines through packages, features, and interviews.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6Ik51eGlHa3Zrd0lPeEpVRGhDOHFLeXc9PSIsInZhbHVlIjoic3pxZGRaY2RYaGpZUjdNellMM2xqMm81MWpTaWpoaFBnYkRRN09aaE4yS2N4b0Z6STBwZGVzXC9DOGx4UTVzaUZkZVJpTXJ6Q21pTEtZQjl0dXVBXC9QOTEzSitTYWdKSjYwcks2ZFdROWdJUDdKaklPWWo4SFY1cWRLYktiNVlDYlwvV0FNWU9nemgzcWRSbmU5TlVlRDhzdlRmZ3RZZFVvXC9EaCt0UlBrVkszNW1SSFJXTUJjMUlON3kwTGpkOHhiVCIsIm1hYyI6Ijg2ZmE2OTQzN2NjMTIzZjY0YjVkYmM2ZDJmNmVlYmM2Y2EzYzRmMjMyY2UwNmM1MmYzYmQ2NjhlNDg4ZDc5Y2EifQ%3D%3D&amp;signature=5dd6a2acbb5178485d93a6100200b7ee7ab12bd188a91abf10e48e871b06cce3</image>
+    <start>12:00AM</start>
+    <finish>02:00AM</finish>
+    <date>01 December 2025</date>
+  </channel>
+  <channel>
+    <name>SABC News ZA</name>
+    <id>SABCNews.za</id>
+    <title>Face The Nation</title>
+    <desc>A hard-hitting show with the incomparable Clement Manyathela, where tough questions are tackled, and leaders will be held accountable.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6InczdlkwdWNpZjhHakpxWGc5enFwS1E9PSIsInZhbHVlIjoiZWpMdEIyb2FnZTFxMDNoRktZakdHdWEreDc5aUVNXC9scE96b055aUZ2ZndudVR2K2E2elZVMThTOWtQRmxlcVVkcWY5UnlURStDRDBtcVwvZjFkZFFXTFhXZ1doQXRhUk9vRm85MU4za29EalJuRVd2N2JFdFhXN1d3SFFYU0dsSVlVdDVnY1lQTzVNYTc5eXZaK3p5WFpnTVprV2VsaXIwdW9JOWluU3JJVGxlRCtyUzNNekdLUFlEdHhPR2JicDgiLCJtYWMiOiJhMDExZjhlNmY4NzZhNjA2NzEwZWY1M2RlOGM4ODFjNWVhNzc5ZTIyMjkxYTUxOWU2NDMyNGZiZTVlMDE5ZWM2In0%3D&amp;signature=e0f8932268dc101a9c44420de5d25d2001fa90bfea7d27d2074adfa690bf75fe</image>
+    <start>02:00AM</start>
+    <finish>03:00AM</finish>
+    <date>01 December 2025</date>
+  </channel>
+  <channel>
+    <name>SABC News ZA</name>
+    <id>SABCNews.za</id>
+    <title>It's Topical</title>
+    <desc>It's Topical gives you a sense of the nation's mood. Digital, pacy, interactive and engaging journalism brought to the TV screen.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6ImJONHE5T2w2ZkpRU283dzg0djg0SGc9PSIsInZhbHVlIjoiUnR5OHhNWk5jYjFlS3U3RkE5bzhLUnd1eGdmK2ZLSnlXODQ0aHMrZGZ2aVwvVlo2TTdvaVgzZzg2NFBXK3ZRcjR0dFhxZGVwaThzSDRQYmxsbzdHMjR0bzI4MFpES3hiK3V5aVRPUTV3Y250YzM4dytTQVJWdGd3QjZlUHdaUFp5MzFaNWtoTVB0Z0pxbUtyQjRKVGxsQXdRVTFJd1wvRlRrbHRDdDM1cUx6Mzg9IiwibWFjIjoiM2JiZjdiN2RiNmViYzJjNzY3Y2MxNGE0M2NmYTgwM2ZhZGIwZWNmMzk0YzdkMTlmNWNjODNlMTNlYTI1NzkwYSJ9&amp;signature=4701474a3cc1f979a45b983bb304c2a17a4f718c8917fbe703081e0b8c44186a</image>
+    <start>03:00AM</start>
+    <finish>04:00AM</finish>
+    <date>01 December 2025</date>
+  </channel>
+  <channel>
+    <name>SABC News ZA</name>
+    <id>SABCNews.za</id>
+    <title>Morning Live</title>
+    <desc>Before you start your day, we've got you covered with Traffic updates to help you navigate your commute.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IkIyTzBoNk50SHIwVElUbUZ6QjBXS3c9PSIsInZhbHVlIjoiRnpMcmFjdWxjbDVXampNbTdqTFBRTjdYM3BybytZSEs5SHZOZjZoaEM2dFdFNDJ4XC93MlNzTlwvaEZXZlNwOUw4VEdmeHNPcFZoM2o0RFwvTjBJU3hyWHRtQTJLV09oSDIxWkxVblduMU5KNXlObkU2RFwvQVBnZ2VpOGt0SzlNRStCYVRlNW9WNml2Q29WSVZzNHhsZ1RlanNoSjdXZnlEaFZXZ2R1Y0RDMW5Tbz0iLCJtYWMiOiJiMTJkMmQyYWMxZTMxNWJhMzA0N2Q0NjAyN2Y2NjY3NTI3NDM2YTQzNWMzNGQ0ZjJmYzdhMDcyNjMyMzg2MWQ1In0%3D&amp;signature=91bade46513b54ebed84fa038639163f6eac4fb2c5309d473af2c027703b055f</image>
+    <start>04:00AM</start>
+    <finish>07:00AM</finish>
+    <date>01 December 2025</date>
+  </channel>
+  <channel>
+    <name>SABC News ZA</name>
+    <id>SABCNews.za</id>
+    <title>The Agenda</title>
+    <desc>Delve into thought-provoking discussions on The Agenda, where pressing societal issues are tackled through insightful interviews and in-depth conversations.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IkNGU1wvSDNwdUhueStaYzFFSGlaYVFnPT0iLCJ2YWx1ZSI6IkRRUzBRUmxHSVhQcTNWNVEwQWZVYkw4U0s5SmJFRDhaN3UyUDk1WFFRM0hKQVFvbGc3SEh6THhNREYzQjZuZ09pUUJVbkdSNTlJc09jck9Fbkp2SXJnbFM5MVhkTDRMOGd4cFZ6eVRCRDdmaWtRVnI2TG1BeGZvbm9JWEZmK2d3M2JDZDVGUnZyQVkxUVhVdXlmdUFqZW4wZzFsNVB0dHJaQUJRZmt4bXBFMD0iLCJtYWMiOiIwYTcxMzhiNTc5MWUxNjk1N2I4MjQyYWRhY2FjZThhODM5MjE2OTc2MzFhNjc4ODM2NDE4MTBlODg5NDhhYzhmIn0%3D&amp;signature=2a6508baeb923397d845c0c199eebe72417f44dc6286853cfab05d7a6fa4bc83</image>
+    <start>07:00AM</start>
+    <finish>10:00AM</finish>
+    <date>01 December 2025</date>
+  </channel>
+  <channel>
+    <name>SABC News ZA</name>
+    <id>SABCNews.za</id>
+    <title>On Point</title>
+    <desc>This is a blended segment with 2 hours of general news and markets segment for an hour.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6ImJzd3FcLytNYWFVYVQxQVwvY1JFSTR2QT09IiwidmFsdWUiOiJmck5HS3l0S2tGMFpFd2JjR2NPSFNEYjVrR2VpckNjRmVrcExmbWlNT3Zzc0wxWUxlMVVEbXZ4UGd6eW9EZVpBWWh3RXVEcmxzUTNUaVBJQVoxem9qOWU5RGZsU3E1SGphSUUxQUtPeUhVYW9hMkpQR2lGU2oyU3FDS1wvMEtEVDZFNE9CNjA3MTNhNEo1K1Y1a2p4bVVwdHUxb3EwMW1Yc2ZPZmxGNlRHa3R3PSIsIm1hYyI6IjNhOTc2YzIyZGFmNGYzYTI4N2JhZDJiNWZhZjZmZTdhZmVlYmRkMmJlN2YzZmU5ZTc4ZDVkMmRlZTAzNDY1NjkifQ%3D%3D&amp;signature=310bfa79a2ebb2f9c11ead3efc36b5cdcf1677e1d485fc00c39437388de71be6</image>
+    <start>10:00AM</start>
+    <finish>01:00PM</finish>
+    <date>01 December 2025</date>
+  </channel>
+  <channel>
+    <name>SABC News ZA</name>
+    <id>SABCNews.za</id>
+    <title>SA Today</title>
+    <desc>Invited guests give more depth on big provincial and regional stories that can be an issue of national importance. It also includes general news.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6Im5ZKzgrK0lyV0dub01EVkhaMFFCRVE9PSIsInZhbHVlIjoiWmFUdTNIdmhoT25OTThNNXRTZkd4SG9PVHpFTHZMb1wvMWlPM2ZhQ2F3MU5jSTY1ZGtUTWFSOFBGVTNVUWpWUUx4eFlLZ3NpMHpValVaM2RiSGRCdnFKSG1UaTB3NlJtc0NVTWxpNmRNNExuYjBXWFdnMzJibXcxdjc2dlRRdGpWY2JuWTRlNzZ5cFRwWjNEdVF5RE1HRWpYTFJSWEE1dWxpOHF5TjBaUDhUQT0iLCJtYWMiOiI0MzRiZjc0MzliYjAyY2Q1N2UwZmExMjE3NDZjODI4NjYxMThlMjVmNjAwMTNjNTI2ODAxOTgxZmI0NGYyMGZhIn0%3D&amp;signature=9396880dddad4d79b54a7a5f70ac4ea2d0fb750cdba7bea5afd7afc6e42b1cd0</image>
+    <start>01:00PM</start>
+    <finish>04:00PM</finish>
+    <date>01 December 2025</date>
+  </channel>
+  <channel>
+    <name>SABC News ZA</name>
+    <id>SABCNews.za</id>
+    <title>Full View</title>
+    <desc>The show also features 30 minutes of market sense in-depth.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6Ik5SeUJRZE5TYkZ4RkdNMHJCbWhCdWc9PSIsInZhbHVlIjoiaFJRazJITktnaU11OHJISlA2dFRNaWxQeW5EUnI0SDNDTDkwbkk2QUs2clwvb1wvTCtwZ1lpd1NBNW1ZdjJqZ0UwOUxSNHFWYkduRjhtcENmWUNJbUNBdlpaeEtsdjlPZHNRUzlNYkNcLzg1UVZITjYrbG9na0lvUjNGbGRZR0Q0bE9JYUswQWlJQXIrN1BRVlh6NUphbWRrakgzQlg3Mm1maDVuZHZ4dzhMemdvPSIsIm1hYyI6ImM4OGMwNzBmMTAzN2FmZWI4NWZjNWJhZjEzNDVjZWE4YTAxMjdhMTY3MzQ2ODgyMGE1MWI5ZjFmOTVkNTVkMzkifQ%3D%3D&amp;signature=4b395cac8d98fa93252a47697a98931d0e2240217f2daed277d00bbd73bed5fb</image>
+    <start>04:00PM</start>
+    <finish>07:00PM</finish>
+    <date>01 December 2025</date>
+  </channel>
+  <channel>
+    <name>SABC News ZA</name>
+    <id>SABCNews.za</id>
+    <title>The Late Edition</title>
+    <desc>A 360 degree view of all the stories that made headlines through packages, features, and interviews.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6ImZFRXBUQitRdWVHTURNZTV0M0RxUnc9PSIsInZhbHVlIjoiZ3A2Z2swMTV5bUlXSXRFU01SOTRqdmdKb3p2VnFuQWR1Z2NzWkl3N1hTanBCcDI4eURUcytwXC9kS2VYSmFpY0pjQTFuZlBlWUxpU1NMTzd0Smc0SGhHNDJSRjdRejRNZmpLTHdGNkhEUHUwTHhHOG1MbHNXTDM2OCtsMnZyMUo5YUVzQlc0TXZsZ3FhYUk4ZWswV1NIVXhYS21weHlzSWQxZjhiaFwvWWVMOWZnSUFrdFVteCt1VFZScDRGd2xhQUEiLCJtYWMiOiJiNjRkZDFhNDJkM2I0ZDlmMDc0NDhhOGRkZjRjN2E1MWU0NmJhYzFmZTc5NmNiN2JmMTAwMDI1M2YzMTI2ODAzIn0%3D&amp;signature=d10c46f64e5f9ed898dc3e379c50750570608f3ed4f6e0bfa1578e5063ec001d</image>
+    <start>07:00PM</start>
+    <finish>09:00PM</finish>
+    <date>01 December 2025</date>
+  </channel>
+  <channel>
+    <name>SABC News ZA</name>
+    <id>SABCNews.za</id>
+    <title>Madlanga Commission</title>
+    <desc>The Commission will investigate allegations by KwaZulu-Natal Police Commissioner, Nhlanhla Mkhwanazi, that a criminal syndicate, including drug cartels, has infiltrated and influenced key institutions of the criminal justice system.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IlE4YVNIajZnYWVYQjErSzBMazhNa3c9PSIsInZhbHVlIjoiN2dKbjZpSG1CQmFmOUtmTG1hRnJ4SURNMDF1V3hBZ2FLcHpMTzZYQ0dDWG96eVBmaUtwaFI5clgrV0U1TmdMUmtvQldtQ1hWQldKeXE1dFFCM3J6YlpTMGFQRTdSU3hDeW94QjhlV29FNXhrZ0ZNcStQRVExZk9KRlVoUmxGWmh3ZVpqVkl0VTNjRVk3RU5hdzFIbE9WZUdrWnFQZ3M3UXREWktrMzZZNGhrTG5KdGRhN3daNGhnODcrMlMybVVQIiwibWFjIjoiYzNiNWJiNmMwNjlhNDhjMjQ5MDk3OTE0M2VkMTc0ZDY1YTgzNTU2OTgyZWE1NmRmNmM1NTEyZDI1NTJlN2I1MyJ9&amp;signature=58de1d48d5af4d4a9beb1f460748f2deb37f53dd0f4a1bb837b94343eff1b11c</image>
+    <start>09:00PM</start>
+    <finish>10:00PM</finish>
+    <date>01 December 2025</date>
+  </channel>
+  <channel>
+    <name>SABC News ZA</name>
+    <id>SABCNews.za</id>
+    <title>Madlanga Commission</title>
+    <desc>The Commission will investigate allegations by KwaZulu-Natal Police Commissioner, Nhlanhla Mkhwanazi, that a criminal syndicate, including drug cartels, has infiltrated and influenced key institutions of the criminal justice system.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IlRQYWxuREJzYUNoeTU0WUxueE1tSVE9PSIsInZhbHVlIjoiK0xXaXBXb1FHR0Q0NUJnN1IrVUJURXBLVGs0cFdoU3pwSE5kdG9EZUJ5Y25jSTJyd1FIemFzY01GMzdoWmZDVE9oWWIzVE1neE1SQUZjOUZKdWZTMEdMMTRySGE4K0s0TitJMGQ0UVNiWHJ0XC9SSkdqbXRmSnpwb1NEakVqRm5xTmdYcnRXUG8yT2E3MDV3d2cycUtIZ0p2cW5MWkM2TlJodzBmZUJWWEM1QkoySVFoR0FEUWdOYm1SK28rM05MQiIsIm1hYyI6IjNjN2I5NTc5OGIyYWQ3NDY5NzRmNDI4ZGZiMTU4ZTVjYmM5MjYxZWU2YWMwNWQ4MDgwOTY4OWI1YzIzZTMwNDUifQ%3D%3D&amp;signature=4e21397a7ee8e6e74f9be18e9b2769327e39846648814856b7d86b32644e180b</image>
+    <start>10:00PM</start>
+    <finish>11:00PM</finish>
+    <date>01 December 2025</date>
+  </channel>
+  <channel>
+    <name>SABC News ZA</name>
+    <id>SABCNews.za</id>
+    <title>Full View</title>
+    <desc>The show also features 30 minutes of market sense in-depth.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6Ik5XUlwvcm10OXUyYUtXMkI5QnhITEl3PT0iLCJ2YWx1ZSI6InJwTXNmcVZzUlF5Z05ZZlwvRmx1RlNXaVZLeE1mVXFXaUVmRjJ3a25Jd3E0dWdodlVvNFNRa3RjbkNxN3FQUDY0Y2NIOTVaQm0zUll2c1ZWXC81Qk1pckNENWdoT1pucnhTMGc5WEoxVUVreDRKTlo1YWFrdlFUdDhaVlNod0NWYVZzb0V6XC9KZ050aHZKZlRBTWJqQWJlRjVzeSthQ3AzYXNMRHpTeEdlTTVJND0iLCJtYWMiOiI5N2YxMTQxY2M3MWJkOGU0NTFhYjIzNTIyMGJlNjYxMjllYWU5OTU5YjdlYzhjMjZjMmNjMjNmMDk2MzM5NGQ1In0%3D&amp;signature=5504225894ecf09e8434eea901227abe9f1861c0aff25475b67289a35b713ce7</image>
+    <start>11:00PM</start>
+    <finish>12:00AM</finish>
+    <date>01 December 2025</date>
+  </channel>
+  <channel>
+    <name>SABC News ZA</name>
+    <id>SABCNews.za</id>
+    <title>The Late Edition</title>
+    <desc>A 360 degree view of all the stories that made headlines through packages, features, and interviews.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IlFLNFBtU20wNHJyYkNsWVwvYzdDNXZRPT0iLCJ2YWx1ZSI6IkJtRTlEQ2N5M2FHR3FSY2pjRzVxUzJnbDl5WEJsWVlDWUhETEJmMk5ONGhkYzNxZG5DRzVuMG5WdHVNT0lHV0VOT29jdk11dm5wVmlNYXUyR2ZEZDkzQitUeFNxTHFlXC9uTjl4VDNZbUVqMTVGUERVeWtKdzB3cEFFK0p4U0E0bytaQkE1UFwvV1E1ZGZmNkptR0pUT09oWUZqSlBsclNWYXhoeHpcL2VDQmRkSXQwbkxtYlwvMEdsOGtlRnZhVDNHUWkiLCJtYWMiOiIyNGYwNzhlNTkyZmQwZDY0MTI2YTgxNGQ1YmJmMTYyN2IyYjFmM2VhNDUzYTQ3NTAyZDBkODdkMGNlYWFlYzhkIn0%3D&amp;signature=abff213e51c45134059a625f17d6e34af3bd080b0eafbe4029786617db11eb27</image>
+    <start>12:00AM</start>
+    <finish>02:00AM</finish>
+    <date>02 December 2025</date>
+  </channel>
+  <channel>
+    <name>SABC News ZA</name>
+    <id>SABCNews.za</id>
+    <title>Madlanga Commission</title>
+    <desc>The Commission will investigate allegations by KwaZulu-Natal Police Commissioner, Nhlanhla Mkhwanazi, that a criminal syndicate, including drug cartels, has infiltrated and influenced key institutions of the criminal justice system.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IlJabHQrSTh3bGw0Sk1Xejc1XC9jZDdnPT0iLCJ2YWx1ZSI6InltRVE2RG1VV3d6aEplSVwva1pjelpQeFJXQmFNU3NpaGUrUlhLZEhGaXNjc1BLT0dZOG9meVBRTlB4KzA0VzlSNXZucGtwQWdZU3lDT0Y1NkJDc0tYUHFXb1wvUzZ6SG1LY00yRmxvOHpnYzZ5WDNrZGpBNjFyTWhoS0RRWGg1QWNNbFhLaDRwZWZPa3hsbGR2Rk1wd3ZGbno1TFFBK1ZJTSsyTHVXOThSXC9hQldPUVNyeUt2XC9OMjNyYVcrR2RTelQiLCJtYWMiOiI3MjRmZGEyMDA0MjJiMzNjYTEyY2M0OTc2NGU5Yjc5Mjk3ODYzYTY0ZjAzZDgwMDQ2NjUwMjFhNTVkNzcyMjIwIn0%3D&amp;signature=803c96b438a373b69e36fec28d1b086a07724a0949bb0a2900ba2da4cb6520c7</image>
+    <start>02:00AM</start>
+    <finish>04:00AM</finish>
+    <date>02 December 2025</date>
+  </channel>
+  <channel>
+    <name>SABC News ZA</name>
+    <id>SABCNews.za</id>
+    <title>Morning Live</title>
+    <desc>Before you start your day, we've got you covered with Traffic updates to help you navigate your commute.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6InpkM0t1ZnplcGppTks0UHdoWVBqdnc9PSIsInZhbHVlIjoiVUJ3ZVlQWU5pMWdLbm1BYks4ODV1dmc3SDZiRWZBaGl6NEpTeVpoNUhuNDl6ZEFuTnlZbU1BTXZzSTNxMmJ1Uk9CeVpOSnlQK0QydXFFVDhDVHhYR2MyYWtscFI3SjZoVlpKcXJqU2VWWWxXNzhLTCtUWXFKKzdFc1JRZEhPY2VYT2R3RmxzakZYV2xNXC83WWkwVDVkNXNUaDhieWgzVUxFZ0J6djQrUnh5bz0iLCJtYWMiOiI0MDcwMzhjZmI1Mjk0Y2YzMzIxYTcwMjc5ZDNmY2ZmNDY2NDZkNGQ3YjdlYmEwOGUxMTQ4YjFjNjBkMTdiMDQ3In0%3D&amp;signature=4dca7897793533048d85361d920cdeb610dba984737d2beebcca6577c35f7095</image>
+    <start>04:00AM</start>
+    <finish>07:00AM</finish>
+    <date>02 December 2025</date>
+  </channel>
+  <channel>
+    <name>SABC News ZA</name>
+    <id>SABCNews.za</id>
+    <title>The Agenda</title>
+    <desc>Delve into thought-provoking discussions on The Agenda, where pressing societal issues are tackled through insightful interviews and in-depth conversations.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IjB2SmxVXC9HTUg5dUNUdHpsY1p4VjJ3PT0iLCJ2YWx1ZSI6Ik8yVzhnMmU1QjMxdmE4Mk96dlVGMlp4bWhjN0ROYTNyRmVhcWswd1lQRjNOaHc0Yzg1YXdqNlNjbU1KOWdhVHZzTWpENlwvV1AwSzlobm1LMmh2MEFoVHJBMElwbDRIa1JcL3p2R1RvS3N5cldMTjJXV25MMGNHUW5hNG95RGtRWTJrYTFCdUl5MVUxd0Irb0dVK1JORmxvVmVJNFJxSmF3aWRpNUIzNW1vZDFZPSIsIm1hYyI6ImM3MjY1ZWRhMTMyZGJhZjFjZDM5OGNhODg2MjNiNWFjZTcxMTY0NDU4NjM4YmMzOGEyOTYzYTZiZDc0MGJhMmUifQ%3D%3D&amp;signature=2e5c15c0d7dbeb4d6a5ac3124f829b5141a45f6a7cd0c8f7637218ac1be39f29</image>
+    <start>07:00AM</start>
+    <finish>10:00AM</finish>
+    <date>02 December 2025</date>
+  </channel>
+  <channel>
+    <name>SABC News ZA</name>
+    <id>SABCNews.za</id>
+    <title>On Point</title>
+    <desc>This is a blended segment with 2 hours of general news and markets segment for an hour.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IlRiSnc5SVJWeHVCN3l0VVwvNFV6XC93QT09IiwidmFsdWUiOiJSTEdySHplb0lzNUR1SE9EYk5FSnkrSVNOVzhodXJZZEFlRWcrRHdpZG9yUXl1QjhiRjZDNWFSQUMwMWFnejd1T3ZVXC9rcDJKR2hIYk5FSFwvRUFVNlpcLzBXWmFwTkxmK3dBMXlidmFJYW9QUE1CSkhlWSs5N3RkS0dxcGNoQWtqWURreU1cL1lCM2E2amFnTnh1QW9cL05vMmN6SWtIVVY1MnBpWGxhV0JZb1Z4MD0iLCJtYWMiOiJhZTFjOGExOThkY2Q4MjBiZTQ1M2RiYjk1ZTM4NTRiNWU4MGRmMjc0MmEwMzMxNzdiNDdiOWM1NWZmMjcxMGUzIn0%3D&amp;signature=6d2211995b427d58911b66a9b78f450042cdfde2554e354ea407dfc94a18a7f5</image>
+    <start>10:00AM</start>
+    <finish>01:00PM</finish>
+    <date>02 December 2025</date>
+  </channel>
+  <channel>
+    <name>SABC News ZA</name>
+    <id>SABCNews.za</id>
+    <title>SA Today</title>
+    <desc>Invited guests give more depth on big provincial and regional stories that can be an issue of national importance. It also includes general news.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6InRmVkE2aVBHQitFUDZRVnhnc21VakE9PSIsInZhbHVlIjoiU2hvVkVkWGZqRjBFSlA2XC9FWENic1ZjcXk3SnF6UzM0ZzFKbk9yZEZ3WG85TUlJQ0RsN3IydVwvNmhLaGdyVklQemVRSDdIRUVEemE5a0R2aHpWS2MzOGRNQWR1YkdwcWRaZExHTDJUK1V3b2dtTGNIRTZxSllKaTc0MkVjQmthWXNCbW9OZXNXem9HU0JmaXZHU1lZNk5lSXpnQmd1Q2hscWU2NXpFRXErQnM9IiwibWFjIjoiNDE1YjQzYTJiYWI4MWIwNjVmZWQ3YjA4N2I5MTgxYWQ1ZTAxOTM5YTIyMGY5ZGNkNzc3MTcwNzFiMGQ2M2U5ZiJ9&amp;signature=21ea24f3632037c6cc380de2b98b7d7974b278f803c1dab126ef7d0aac1d3d5a</image>
+    <start>01:00PM</start>
+    <finish>04:00PM</finish>
+    <date>02 December 2025</date>
+  </channel>
+  <channel>
+    <name>SABC News ZA</name>
+    <id>SABCNews.za</id>
+    <title>Full View</title>
+    <desc>The show also features 30 minutes of market sense in-depth.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6Ik56TTFXZVJ1bGlaaDh2em9hZG5hckE9PSIsInZhbHVlIjoiaTcyZVwvSG91WlpaSWZyZ25mSUtDd2oxNUtsK01tRmttbmJ4ZVZuT3lRYW5FczBCUjZXMGo1cVlKRFZEbnFJdmY5cUR6OUNsbjBUUnJlTzBKUkpqY0djeEJxeGk4SFlXTEhnUG5JXC84R3ltXC9Bdk03UU1DNVUxb3lkY3RzeVJCd2tic0tmeFk4RDlPaEJ4M0wzSHA4YTNadlwvNXRTRXpPdTdmWnlJZjN6UndVTT0iLCJtYWMiOiIwOGRjOGQ5NWVhOGFlN2IwMzNhYWE1NTUyZjBmZGVkMTRkYTI5Y2QxYzYyYWI2MmE2NTVjNTY4MmFlN2Q4MjE3In0%3D&amp;signature=404162c63b85e1ade4334151955b79984872ec857fa76a0681851eeb4672e055</image>
+    <start>04:00PM</start>
+    <finish>06:00PM</finish>
+    <date>02 December 2025</date>
+  </channel>
+  <channel>
+    <name>SABC News ZA</name>
+    <id>SABCNews.za</id>
+    <title>Face The Nation</title>
+    <desc>A hard-hitting show with the incomparable Clement Manyathela, where tough questions are tackled, and leaders will be held accountable.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IjZUU2xxUmwwSml6bGxXNnB1S0NVc3c9PSIsInZhbHVlIjoiaktBK250UCtXbjF5RnVjMjVBQnFcL0RGSk1JeExWajRhWjE5cWdKWXNLVEJRTHhZem8rVzBacFwvbHRHTmFXeThBVVBtejJyeVlQVFQzUlwvQ2RBRzl2VHVvSHU2OGREaTR5Z0lXYldlK3hqdFpoY1J2cGtYYzQ0SjhTNHlHdGgrMU1ZWU42RnVhSjkyTnpNRjQzSUk2bUxxVjZ4SzhRY2p5NmdaT2dWbEZMZ1lvY3hIRDJZNGloSlhnc0o3XC9hVFhlOSIsIm1hYyI6IjYyMzMwMmYyODY0NzVhM2E1MTk2MDM0NDc2OTQ4YTA0MTExNWE2OTgwMTVlOGQyZWExYzQ0NzA1OGQ4ODM3ZWQifQ%3D%3D&amp;signature=c8408213293fec9593f0d618786a9033bb734e2b47c76b7d28d54a7b754696d1</image>
+    <start>06:00PM</start>
+    <finish>07:00PM</finish>
+    <date>02 December 2025</date>
+  </channel>
+  <channel>
+    <name>SABC News ZA</name>
+    <id>SABCNews.za</id>
+    <title>The Late Edition</title>
+    <desc>A 360 degree view of all the stories that made headlines through packages, features, and interviews.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6Ik9VNTlDVUkxTmJ1clB0NGI3dlFpOGc9PSIsInZhbHVlIjoiRnBnM3VtaDJSb294WHAzZFVRNVwvTW5Vb2NGXC8xZjJuUk44em1nSnpQdTJwalwvQmNZQW1KQVlqMVRNVlZJNW80TXRvNXlZZ3cxYXhacHlLWDRQbGJGZXNyWER2ZFVYRmJVV0MwWXRrVkJqOVhISmVIbUVKekJEdlFwV3d5N3JGbkJycDBwcmptbThmRzNsVU92cGVpdVpIYkZjQnB5ZGRHYTdtYXRub3R0UGFOOE43YWUzRGhFaE9QZ1U1RTVCTjRBIiwibWFjIjoiN2Y0MDRmNjVhNjE0OGQ3MDljZGFiYmM5YTFmODdiY2JlNzc4NmU5OGQzNGE3Yzc4YmE5YWUxNzExZmNjZTkzZiJ9&amp;signature=370a024fbf29b43bc58b8f2c4b92c11042fe3ad8d6881f9fd06c4f778651aec2</image>
+    <start>07:00PM</start>
+    <finish>09:00PM</finish>
+    <date>02 December 2025</date>
+  </channel>
+  <channel>
+    <name>SABC News ZA</name>
+    <id>SABCNews.za</id>
+    <title>Madlanga Commission</title>
+    <desc>The Commission will investigate allegations by KwaZulu-Natal Police Commissioner, Nhlanhla Mkhwanazi, that a criminal syndicate, including drug cartels, has infiltrated and influenced key institutions of the criminal justice system.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6Im5vV0hkWjBhTTE4R2NmR0NkVlkyY1E9PSIsInZhbHVlIjoiRXdjUXdJaFdXNG9rak9pTXU3NHE2OHRxRGExZ0NPeVp5VFNEdVwvTzFmYlRBaUR6dG5UUUw0U1c0V1VWYXN2bmZrUUc1XC9jWnFaMmxsZ0xZQVVTQmVKQ0o1R01pSThuWWs3TEtTSHRTYnJKdTczT05SYzYwR0QwMXRORjhaKzF4b2tcL3FFMVlGNEcwbXZHQVdmMDQza3YzaGNqMThUM2VEOVNHXC9WRStUbm1QSHB3UFNad25LYmRKWnh5VmtVYzE3QSIsIm1hYyI6IjYyYTk4ZGIyN2JhNGM1NmQ2N2U1NTNkYWRhMTEwNTQxMTczMDRkMDU3MTRmYjczZmUyOTVhNzk0YjQ4YjY0OGIifQ%3D%3D&amp;signature=f09f393fd71398a7e64d89d1d8025075a05eb0aa8a22c19919ee1f61ac2c496b</image>
+    <start>09:00PM</start>
+    <finish>10:00PM</finish>
+    <date>02 December 2025</date>
+  </channel>
+  <channel>
+    <name>SABC News ZA</name>
+    <id>SABCNews.za</id>
+    <title>Madlanga Commission</title>
+    <desc>The Commission will investigate allegations by KwaZulu-Natal Police Commissioner, Nhlanhla Mkhwanazi, that a criminal syndicate, including drug cartels, has infiltrated and influenced key institutions of the criminal justice system.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IlN0SHIwem02NFR6Q3NKSStZZWFSYkE9PSIsInZhbHVlIjoiaFlaZG04M3ppTmVaQmNMb3BuZ3ZSWGpOcFF4cG9UY2N3MGhNS05ZSVZ5aGxXbnNxYmdNTm93Q2dzY1ZWS3VcL1BNTll3UCtHSm9ON3FHMmhUV2pnSmZ3czdhZHNhZGdKZ1F6NlJpSUhCdFhLSUgyRTRQb1B4SkJQQkZNWWhUb1NlSGFHc25yVFwvSjhhanBYY1RmTG5CNWxGbEpJOVN0OThCT1NiQVJmaEF3TjJlZnNHQ05IaGRvOEowTEs2S2FmK2wiLCJtYWMiOiJjNWY5YTU5OTVkNDI4MmZiOGZiYjQ0MjhkMmNjZWJhM2IxYzU5ZTNkMDk3MzVhMTdmMjEyODU2M2QyZDAyMDc0In0%3D&amp;signature=a2b3803aa1ee230e07a67c4dbe9f90972788f14bdce89414ad42fbb1ba595fd3</image>
+    <start>10:00PM</start>
+    <finish>11:00PM</finish>
+    <date>02 December 2025</date>
+  </channel>
+  <channel>
+    <name>SABC News ZA</name>
+    <id>SABCNews.za</id>
+    <title>Face The Nation</title>
+    <desc>A hard-hitting show with the incomparable Clement Manyathela, where tough questions are tackled, and leaders will be held accountable.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IkFnSDI2alBNOVVVUUhxM2gyakR5bGc9PSIsInZhbHVlIjoiM0FseGFiaG1lS2dZZk8xWFlZKzl3RlFGMzU3UENHZ3cyMzJ4WWpYYitSYmdkNnl5OUU1QTArMGx0V0k1dmZTXC9makNOdUl3elwvY2NcL3JxNTVYQ1wvbGd2Q1hsbFpDeTQ5Y1gyVlwvTzNNK1RjYnZHeFU2dVRhdGhkM212aUlRVmRVdU55MmdZZ1krMG5WMVJZdkFiUkpLeTJ1NDdtQ1lcLzRVT0tmWUhJRVNOeGVncTJidFRVUWNsdVh1SG45eHlLWEZWIiwibWFjIjoiMGU3ZDYzZDIzOTgzZThmZTc3YzAyOWU1ZGRkYzIwNzVjYzhkN2E3ZDcyODM5YjllNGE4NzFkYTc2Y2Y4ZDI1MSJ9&amp;signature=107319083b4ef855dcd90cf2630e6d3605b8dba51de85357d9e3b081f2d63a37</image>
+    <start>11:00PM</start>
+    <finish>12:00AM</finish>
+    <date>02 December 2025</date>
+  </channel>
+  <channel>
+    <name>SABC News ZA</name>
+    <id>SABCNews.za</id>
+    <title>The Late Edition</title>
+    <desc>A 360 degree view of all the stories that made headlines through packages, features, and interviews.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6Ilh3dTZydVcyWEZ4QTlGRkZuc1ZoM0E9PSIsInZhbHVlIjoib3lYTDd3eXl5RU9jcTJkbnRBekh5NGJneWx0RGhjWWt6bjNVU1IreHVYQ1k2TDV1WCswaEV6S3NqRjk0d3A0ZVBnNDVmTnlGYkxqRk1FZGFaUDFNaXRhekNYUFwvc0c2Q3E0eElFTzFvNWhtNm9MdWJmQVJTN2plNlU5Q2tSTUwyenVoWE9obTNWZVNkVTBjdDhONm8rbnFsYXBKNFwvWjhrdjBZMnJnWmVwck92WklIYWFKdHh4UmRZMGJQZWczdGEiLCJtYWMiOiI1YTcwODJiZTI0NjdiNjliOTY1NzMzMjdkNGEyNmVjOThkOWVmYWFjYjFhYWM2MDVmNTI3MTAzYzdmY2RlNTI0In0%3D&amp;signature=c5e9122b1fa898d7c7976dcfec53ff295a7eb8792cbeaf05d89e06c9d7d14daf</image>
+    <start>12:00AM</start>
+    <finish>02:00AM</finish>
+    <date>03 December 2025</date>
+  </channel>
+  <channel>
+    <name>SABC News ZA</name>
+    <id>SABCNews.za</id>
+    <title>Madlanga Commission</title>
+    <desc>The Commission will investigate allegations by KwaZulu-Natal Police Commissioner, Nhlanhla Mkhwanazi, that a criminal syndicate, including drug cartels, has infiltrated and influenced key institutions of the criminal justice system.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IlVIcnlDV0JnRHJlWnhJM0pwMlhpR1E9PSIsInZhbHVlIjoiZHNcL1wvcXJkbkQzY2pUQzZrOUxjTFZPTVhGK2tkTHcybUJDUGNBMzVCOUNQbVpWUklFRnhWYVppZndPSDhjYjZ1ZkxUQVdodHI4aXVKcFlPdTVma0k1bmhzeEFkbUs4c2xsUkJzTU9XUHVXRGdaWmZNRDhSS01OT09lQkJEQ0crODRNR1J1Q09ZbThaYVRGb1VPVVhPSnRXM3BBcHhIOVVwbTdMUk5wcTZSeUcrYUNRM0hZWFVscW9FQUhnYVUyelQiLCJtYWMiOiJkNWIwNWJkYWM3OWI2NGVjNmEyYjk2M2IyN2JjOTYyNzFmODNlZTRlNTYyOTMxMmI5MjExMDkyN2JiOWIxNjEwIn0%3D&amp;signature=6a9d87b74eec8b7bd9167ca6238404a456e65b4e965c42fb6a6a0430d7a5b5dd</image>
+    <start>02:00AM</start>
+    <finish>04:00AM</finish>
+    <date>03 December 2025</date>
+  </channel>
+  <channel>
+    <name>SABC News ZA</name>
+    <id>SABCNews.za</id>
+    <title>Morning Live</title>
+    <desc>Before you start your day, we've got you covered with Traffic updates to help you navigate your commute.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6InBBVFpuUXVhdjZqZlJSYUhzSVwvcTV3PT0iLCJ2YWx1ZSI6InVCNEFWV2tST3RrK0Y0OEF5dHNpZ3diVG9Dak1GYzhsamlyaTJpOGNJNWJIM0lRTFFBSWZDRTh6eTM5MXNWeGZaTlhCYytOQ1AyMUFUMmZmYm5lOGVoYXBkRUVLMDFwN1A1V2lVRlpkTm90R2gzTkpTUjZYcXZyT2xuT3oya1BPOWpmTUdKb2E4Tk0zbVwvMHJWUXVGWTd4U01BQ0NhOUhSKzQ5Nm41ZXlGeXM9IiwibWFjIjoiYjY4YjY3YzJiMTlhMDYwMGE2OGJhY2QxNmIxN2FiZmMzN2QwYTYyZWVmNTg4NDdkMjJlY2FiYzIzOGE4ODg3OCJ9&amp;signature=14485172aac5f9a62a66e6c389ce92f3a4b9e0a816aa1ac8ee2d4861a83d06b6</image>
+    <start>04:00AM</start>
+    <finish>07:00AM</finish>
+    <date>03 December 2025</date>
+  </channel>
+  <channel>
+    <name>SABC News ZA</name>
+    <id>SABCNews.za</id>
+    <title>The Agenda</title>
+    <desc>Delve into thought-provoking discussions on The Agenda, where pressing societal issues are tackled through insightful interviews and in-depth conversations.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6Ik5TbVBsZEVOZldDWDFwQ2xkZ0RubHc9PSIsInZhbHVlIjoiM0VFdmJmS3hFVVB0SHFhYVJ6NjRjcHRXTitxd2xGWjRMaFdidFM1RW9meDhGcXErQTVVVnlpRGxaOUNYVVRpb3gxeDNrSWlReFdydnZWWXV6aUwwMEROenVqV3BBWEl6Q3dsN01MNWF6NVhrYVBsK1IrZFNjQXJcL1ZZaHF6Y1NtMFJPK3MxTTVOMUN2a3RYYlFNV0dcLzc3ZXFLQjhidVRcL3dobGZDbkVTaUxZPSIsIm1hYyI6IjFjZDY3YzRmYmYwMGExYjJmMGY0MDAwZDM3NDk3MWE3YTRlNjZlOTVhNDZlZTNjNjkyOGJkZWQxOTUwYzE2OTcifQ%3D%3D&amp;signature=0a548384e650288344d926f82ee6b55163483f6e7bb55a27fae8ebd622a5a074</image>
+    <start>07:00AM</start>
+    <finish>10:00AM</finish>
+    <date>03 December 2025</date>
+  </channel>
+  <channel>
+    <name>SABC News ZA</name>
+    <id>SABCNews.za</id>
+    <title>On Point</title>
+    <desc>This is a blended segment with 2 hours of general news and markets segment for an hour.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6ImFMOVpiVnB6MGpwRjlSTVlPWmNLR0E9PSIsInZhbHVlIjoiNnpTYzRxVUZDeXpKR0MrWGFaRDVibEw1bURmZWI1Y3NEaXh2bU56bnNUNnl3bDR4djFcLzlKbVwvM2NVWmw5XC9VYnlYSTR6WGdyUGhNOU5BK3ppYlwvUUVTNlliSVNJK0RRQ0NSSmUzSnYrdlQydkw5a21ucmdzZ3laNlI3Y21cLzlQSkMzYVlXSkJnU1VyXC9OTnFPaEFSQ1JpaU1aend3RkNWM3dyYW9pNWlVYXI4PSIsIm1hYyI6IjRkNDE5NDE4NTkzMmEwYTBhNTM4NzliMjVmY2MyYmUzYjFkYjQxYjMwNjlkZTQ2YWY1YmNiZTc0NjY2ZTI4ZWMifQ%3D%3D&amp;signature=791b52b4bb50a4667b354c8f6f476b10a7b1a33f077ed98149a1566df6f0ebd5</image>
+    <start>10:00AM</start>
+    <finish>01:00PM</finish>
+    <date>03 December 2025</date>
+  </channel>
+  <channel>
+    <name>SABC News ZA</name>
+    <id>SABCNews.za</id>
+    <title>SA Today</title>
+    <desc>Invited guests give more depth on big provincial and regional stories that can be an issue of national importance. It also includes general news.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IndQSUNuY0hrXC9SRjV5dnJ2V2VXR3F3PT0iLCJ2YWx1ZSI6Ik9DY0pkQjZhaDdna2d5T0RxaFo1eFpzY1A2ZGR0NGhuaTV0bkFIUk4zY0ZwczhOYzBRYzNFd2h4QVpNVWFcL0E1UUNOYW1XVDFVSzgzSHIrOVwvbFBVRUJ3QzdaaXdDaG1rNnFLWE0yZG1ZSUN2ZmVEZ3Y4ekpKVGl3dmpBODB4R0RSZTdPaWpMTWdsZTA2QStwK3pkVlhUR3IzeExkdE82eFZrYzlQTjdYRWhnPSIsIm1hYyI6Ijc1MjIwOTYwODhjOWE1NDZkMmMxMTM2ZjQ4ZTU1NzY4MTdhNmQ1NmMwMTVjN2I3MWYzYjJjNjhkZGNlNTZmZGYifQ%3D%3D&amp;signature=9f30ecd6fba8c2bdef3c2e71e48756859354b776efd26a59c8df6703ced94ce0</image>
+    <start>01:00PM</start>
+    <finish>04:00PM</finish>
+    <date>03 December 2025</date>
+  </channel>
+  <channel>
+    <name>SABC News ZA</name>
+    <id>SABCNews.za</id>
+    <title>Full View</title>
+    <desc>The show also features 30 minutes of market sense in-depth.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6ImxwWk9uQzlXd0pCcnZtR0NrWmVaXC9BPT0iLCJ2YWx1ZSI6InZ4MUJKZVhwMURpUVwvM2N5RWVcL1JGMmxZMFcrVjNYclwvb2FLcHZIVkNSaW9xTkNvTDJMdkVRR3RXQWlIMldBMm5BekxtVmx4SThia2VSenlaUW43djVnXC9IKzR3ZWROUVQza0FzT1psd3MzZnc0QzJ5N1BiNWZlUDd1R0pNeVJYRHA3UkdZK0RMRVhRYWlNdVB1aXhsdHNBUDFWUGtQNFFJU1JFQzV6OUpibTQ9IiwibWFjIjoiOTFmY2QxMzBiYTc0OTI3Mzg2NTQ2YmMyMWUyMDY2MzZiNjJkZGYxZjk4ZDZlMDljZTYwYzc5NjM5MjlkMDU3NiJ9&amp;signature=6b63c9c289a82ade88c7e78ae57c1e0ed61cd829daf0e5a3aca4be173c0c2eea</image>
+    <start>04:00PM</start>
+    <finish>06:30PM</finish>
+    <date>03 December 2025</date>
+  </channel>
+  <channel>
+    <name>SABC News ZA</name>
+    <id>SABCNews.za</id>
+    <title>Cutting Edge</title>
+    <desc>Stories are produced for Africans, by Africans, in African languages.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6InhwcmE2YmdNdXRsNHN2cHRhNUhDYmc9PSIsInZhbHVlIjoiSEI2WFAwWEpQRk5tSnBGZ1Nld2tNUDVcL2VQa0djcHVOUlRjdm12ZkZEYytoZWI0MVd2dzgxQWJwZCt3OUZHR1huV2UycVFCVWhycFJSSHB5UWc4MVF6T2oxU2RwTjZnQ1Q1S0ZMQW1sTWg3S002ektLMVBoUThLaU1VdFVub1VnMlJobGRIbVVBSVVFdjZpMTd1Tzlwd1paWHM2RXNNc0xDXC9vdEV3MWk1Nk09IiwibWFjIjoiMzgyZGJhMDYwNDM3NDRjNmQyNmQzYmVkNWZiMmNhMWRlMzMwNDlmMGYxNzZkODlmZDRmODI0YzMyNmNjMTFlOSJ9&amp;signature=af88b60862ac3d3c8444d4a3c97d6bf521eab9cc9700328c008fc6723a1327ce</image>
+    <start>06:30PM</start>
+    <finish>07:00PM</finish>
+    <date>03 December 2025</date>
+  </channel>
+  <channel>
+    <name>SABC News ZA</name>
+    <id>SABCNews.za</id>
+    <title>The Late Edition</title>
+    <desc>A 360 degree view of all the stories that made headlines through packages, features, and interviews.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6Ik93dTNJdEpRZUM5NHRPVSs3U25zNHc9PSIsInZhbHVlIjoiMjhWUVhnNktkRDR6ZkxTYnl0Zk8wREZYc0lDejhtMzQ3M0lvOGRtY2ZOUUpUUys5Y3FLZ3V6OVp3aXM4RlhrbVwvR2NMTTZ4bWdETVFUTmNYRElnZ05xMmFvQ3doR3RCNXdOTEF3aE54ODROaDlCTk5wemZKSEVaVFlzMWtaVTd4MTc2eW9NdkducFduZXJZODNrNjBzak11RDBxVzc2cGg3aktURlJMZ0xuVCt2OWkrWmh3N2sydVgrSllhUXhuaSIsIm1hYyI6IjI4N2JlMWNjMDcyODkxMjc4NGY3NGQwMTEwYjZiMGNkOWMxZmM3YmZjYmY5ODI1NTk4M2RlNGU3MmMxNjBjMzEifQ%3D%3D&amp;signature=a564da704fe6ea0b334c8271837a251f4aaab9a3fbc04928128d1aae3193a2f4</image>
+    <start>07:00PM</start>
+    <finish>09:00PM</finish>
+    <date>03 December 2025</date>
+  </channel>
+  <channel>
+    <name>SABC News ZA</name>
+    <id>SABCNews.za</id>
+    <title>Madlanga Commission</title>
+    <desc>The Commission will investigate allegations by KwaZulu-Natal Police Commissioner, Nhlanhla Mkhwanazi, that a criminal syndicate, including drug cartels, has infiltrated and influenced key institutions of the criminal justice system.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IkRsSE1hZGtJMTBNa3c0SEVUZnhtY3c9PSIsInZhbHVlIjoieEwzakcxa1p3ZzNiZ1dXeEtDdE9TQ1RWMHJjSUNCenVpdUFWU21nR0dQVVplY1NPVnBTbmhXUGtJbkdiYStnd0RMUzQ3Vml2Z01pcHNnenhBUUlHMCt0UXNxZGtoazBlUk9xRmkxWndkdDBsTUNKWDZmdVlrVmw3SXpveU1CSUhOcUVNejB2Z2pZbW5YNjhTY2lcL1JWakQyOE5KK25ZWVQ0UkVYQUFYMzg0RXd1SlZVOWNoUDdpUEhIZEp0VFJidiIsIm1hYyI6IjY2MmVjYjc1ZGU0NWQ2ZGJkZWVhYjkwM2EyMTc2NDkzZDRkZTIyOTI4YzA1ODUwMzcyMjAzMzA2NDJhOTA0NTIifQ%3D%3D&amp;signature=15f335518023d024bef0ce38951231d867c3a0b3258be5f9772dd7962df19b12</image>
+    <start>09:00PM</start>
+    <finish>10:00PM</finish>
+    <date>03 December 2025</date>
+  </channel>
+  <channel>
+    <name>SABC News ZA</name>
+    <id>SABCNews.za</id>
+    <title>Madlanga Commission</title>
+    <desc>The Commission will investigate allegations by KwaZulu-Natal Police Commissioner, Nhlanhla Mkhwanazi, that a criminal syndicate, including drug cartels, has infiltrated and influenced key institutions of the criminal justice system.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IjlaZWxQcDBzVWVrVHROb0hJUFpsVnc9PSIsInZhbHVlIjoiUm5xSk1oeU9yd296THptZmlSYWM3Sjl2ZzQ4b0RvaXhzQlRMcG9nYkdCVGNWaDF6Z1BIMUVTU0U4c3RvVGpYZzF0VE1LSEZUM25rcEo0R1A4ZExkSW1Qdm5uMjRMYmc4WXZPSkcrSHl5cXVnd0dUbjZmZEpGQlA4aGtyUzFNTXpUaGJCdnVEeEJBWmx3NWxIQmZWZFI1R1pZamJ3ait3d3pqZTQ5YnZBTmduaWZZMTI1RFwvSU9TRCtqbXdiRko3YyIsIm1hYyI6IjdhNmRiMTlhODQ5MmU0OWViNmE5NWMxMWZkMDZiMTkzMzUzNGU4NGEyNjcxMzc0YmIyMmU0MTZkZmI4MDhhNWMifQ%3D%3D&amp;signature=b5fdd75d610aa94c8264b002d2a4b5d41d0dc63f2df0a81d6a6c5d3f3cf168cd</image>
+    <start>10:00PM</start>
+    <finish>11:00PM</finish>
+    <date>03 December 2025</date>
+  </channel>
+  <channel>
+    <name>SABC News ZA</name>
+    <id>SABCNews.za</id>
+    <title>Full View</title>
+    <desc>The show also features 30 minutes of market sense in-depth.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6InM1V2NtNnZpNm9XTmU1d2dFZlZKZVE9PSIsInZhbHVlIjoiK3p0XC9nXC8wc2pGXC9iOHlDMktPbkdmbGI2NGhrZVVhZ2p3WmUwSzlHMGdSWlB5MTJVcms5YXdCeitsVHMydHFyMStqM1RDSTE1OGFPVXRLVGxuMFBLMktYZUE1eGhMeWFWQ2FLeW5CQ2RqTTdmRVBXOWVIMFhINTc0TzF3Und3MFV0SlhZN0lmWnRUSTQwRlYrOVpvZkFPdjB0VHZQSGtKSXE2emg1a2c4TFdRPSIsIm1hYyI6ImNiZTFlNjU2Yzk2NDk4M2YyY2UwNjAxNDAzYTA1NjQxNTkwMjA4MzU2ZGM1NjAzYTg0YzRlY2NiN2ZiY2FiZTEifQ%3D%3D&amp;signature=3db3f0a104b1657f10014f4737084fe5f6e92148237cd071cd89b91887c881fe</image>
+    <start>11:00PM</start>
+    <finish>12:00AM</finish>
+    <date>03 December 2025</date>
+  </channel>
+  <channel>
+    <name>SABC News ZA</name>
+    <id>SABCNews.za</id>
+    <title>The Late Edition</title>
+    <desc>A 360 degree view of all the stories that made headlines through packages, features, and interviews.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IllraVYwV0YrenJKc1VoNTZmUFRHTmc9PSIsInZhbHVlIjoiU3hDNWFiS0J1SkJuQWFWaVwvUGc0XC9ZU01FbTYzVklwRGZRdGJhZzBBbk85d1g2ajNRUUlYRXQ0Z3k1d1FtVWVPT0w3Q2FVbXlaSW50QzZoSkN5VVFNc1NFZ01JaEdnQmpuSjF2aUJUMlgrd3JLVGJVNmEyWUxuZ1FqeTMwSVA5QVhzUmVoZTlScFhVSGZPaE5odmFDQVVLbkFzSmJHaVk1emdIajF6UWJkbVBcL2JWOHFlcG01NjZSbEwzTnFnZ3J3IiwibWFjIjoiOTJkMmYyYWJkYmEyZWE0MGM4ZGRlNjEwODA3Yjg3Nzc0ZjVkMGNiMTI2MTExYzM3NjEyYjNmZGNiNjdjNzY4MCJ9&amp;signature=4101092699f18054c619f11d92b7f2276ceb8432dbb222795e6b620da31ad5f1</image>
+    <start>12:00AM</start>
+    <finish>02:00AM</finish>
+    <date>04 December 2025</date>
+  </channel>
+  <channel>
+    <name>SABC News ZA</name>
+    <id>SABCNews.za</id>
+    <title>Madlanga Commission</title>
+    <desc>The Commission will investigate allegations by KwaZulu-Natal Police Commissioner, Nhlanhla Mkhwanazi, that a criminal syndicate, including drug cartels, has infiltrated and influenced key institutions of the criminal justice system.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6Im1OUHVIVlJ2Z2ZPZ2lkcFwvaFlsb1JRPT0iLCJ2YWx1ZSI6InlHWmNhbENsVnZMcGszNitDK01LYjd1XC9GaVNLamxjWlwvTVFDM1dHYXgydlMyc1U1VXA3Zkcyb3pMTWFrcjFOaVFLZzhaOHRMenFxZWo4d2tmRzBnMzBZWmU5d1VncitvZlZJYlQwU284K1Nhbzh3MTlhUlNkQjNDbEx0dmRUSVwvRGp5Ym5xcHdXMnQ2UUxSRHQ5R1E3bkFGc053ZWRjNnBDcEtKeHdXUDRwNzlqc0NSeHNOQU82YkJ0b0h5K3R2SSIsIm1hYyI6ImRlMDcwYTAxOThmYmYzMDFiOWI4ZjYzZDExMzA1YzQzYWIyYjVmMjYzNjg1YTZlYzAwZWJlNWUyN2FkNjNmMjgifQ%3D%3D&amp;signature=9bc1f2692a412d945872072145576af806c240dddad45f9f2110b23894cfb2c5</image>
+    <start>02:00AM</start>
+    <finish>04:00AM</finish>
+    <date>04 December 2025</date>
+  </channel>
+  <channel>
+    <name>SABC News ZA</name>
+    <id>SABCNews.za</id>
+    <title>Morning Live</title>
+    <desc>Before you start your day, we've got you covered with Traffic updates to help you navigate your commute.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IkNKajNac3RHZ256NldyVkhlY1VvcUE9PSIsInZhbHVlIjoicWhZU1wvODhINHVFOTAzbnA2aFlLc2RldVdvVWZPYkdCMTZWMGJRXC9WUFFLVzhDZ2s1d2ZYT2ppRHhkTldxMURhVnVraWNMblN6T1dcL1poaW5MRUd5RFwvU1wvcE44OEJlOUlpXC91R2R5SXh3QnJXRmh0VXZsTERUMndYK0pydWh6ck85TTlRRWhuM0Y2QXJqVEtpTERlbUxYeURRTGYxXC9zaFVWbUhURE9oUXdDWT0iLCJtYWMiOiI1N2EwMWI3YjAzZTdmYzE3YjM3NDQ1OGU1ZTk3MGJkZjZjNTk3MzM5NDVhNzE4Mzg3ZTJjMDZlOGU2YmRkODJhIn0%3D&amp;signature=5dee6b117f4978ae4c5f3731d644b7d9070cfd6c36689f5a60928a28849d63f9</image>
+    <start>04:00AM</start>
+    <finish>07:00AM</finish>
+    <date>04 December 2025</date>
+  </channel>
+  <channel>
+    <name>SABC News ZA</name>
+    <id>SABCNews.za</id>
+    <title>The Agenda</title>
+    <desc>Delve into thought-provoking discussions on The Agenda, where pressing societal issues are tackled through insightful interviews and in-depth conversations.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6Im1JQkJcL3RPQWlINWRNSGs1MUhhTXlBPT0iLCJ2YWx1ZSI6IldoYTl6K0FkU1BQclFuWmh3eFR0YjhOeElcL0xNYkdwYnJpZFRLbXhmTWlGZSt1S0RCd1MzTEloaVRDUkVOWEtKazhNWjFkZEZ1XC93ZXJiZW95WENHY1daaExmWXdOMzRQWkpLM0JJek1TYW8ybndBQTQwYVwvdVFKTEw0NVdVVkZRK2crSXFVclZuNG80c0ZxdVBVbXlUUUJUM0JHcWNua0RzNDJhSnc0c0VSdz0iLCJtYWMiOiI3ZjI1MjA4ZDhmNDhhMGU0NTE3ODZhOTFkMTdlOThmMzJiZGExMmM2OGM5Mzc0YjdjZmQ2Mzc4ZTI3NjMyNTA1In0%3D&amp;signature=7c8a5942c2a2504563d24bc63380ed1508a5a4803b187d127310ef1b2884149b</image>
+    <start>07:00AM</start>
+    <finish>10:00AM</finish>
+    <date>04 December 2025</date>
+  </channel>
+  <channel>
+    <name>SABC News ZA</name>
+    <id>SABCNews.za</id>
+    <title>On Point</title>
+    <desc>This is a blended segment with 2 hours of general news and markets segment for an hour.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IkhaWE41bUxZMDdSak50Vk96T0FYcFE9PSIsInZhbHVlIjoiNzhTdW55YlNUSXl5R2hEN2ZJZkxqZHFxcTJTblFLWUxqQzR5cUxRVEcxajhZaVZWQmIwRHZWT3JuNGpvVXc4WXROODNDWnFPSzdjNUhVdnRqdkd6Z3JtRmQrRitNYUkyZlI0Z1pnZDFUWUFKOHZScG45VUNFR1lyc2ttSWRhb1FUUnUxcjZhRm9WMFJrMVNRc01CRmQ3S0o2cDIrMVF0b2dZR1lhK1VVRzM4PSIsIm1hYyI6ImZlMjJmMmFiNzAzNWNiYmUxOTY0NDFkMGZhZWMzMzAyYmNiMmEzYjIyYzk1OTJmNjg5ZWQ2ZTgyMGVkMzczODAifQ%3D%3D&amp;signature=4b5d8bbf7c5620a357f6961d9192897e84be56d7556552a2d8c0b0f5330f4260</image>
+    <start>10:00AM</start>
+    <finish>01:00PM</finish>
+    <date>04 December 2025</date>
+  </channel>
+  <channel>
+    <name>SABC News ZA</name>
+    <id>SABCNews.za</id>
+    <title>SA Today</title>
+    <desc>Invited guests give more depth on big provincial and regional stories that can be an issue of national importance. It also includes general news.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6Im9sQnFRaDFGVzBtWkNjR3dKcCtzZ1E9PSIsInZhbHVlIjoiN2UxNzE4S2FcLzNkaVhrMlZmY3VYXC9jczlpZ2daSUVibnQwMmJvWTF2YklRTUVmZWVKc3hxeGZLWCtCVXZDVmxwZ3FFZHlxMGxkd1wvK2pZNUdBb1lrRVNzWXFhZ0FBMnRYdWZibmNSbUVXVnJzU1N2U3d6QlMxY3FIYnJxSEdJU3JuQ1BTbWhJUWlFaUltc0RmUFcySzB6OUNUXC8yRW1GaFV2XC9IZmtVMmRnS3M9IiwibWFjIjoiM2Q2NDM5OGIyMzhkNDNjNTdlNjgxM2JhOTRhZGRmMTE3ZjRiYTU5YWI4OGE5ZTkxMjIxNTUwMTZhZTViNmNiMyJ9&amp;signature=cab126ab1e21f821e909d17c72ae7953c75dd13ea9da10563b7882a50d599715</image>
+    <start>01:00PM</start>
+    <finish>04:00PM</finish>
+    <date>04 December 2025</date>
+  </channel>
+  <channel>
+    <name>SABC News ZA</name>
+    <id>SABCNews.za</id>
+    <title>Full View</title>
+    <desc>The show also features 30 minutes of market sense in-depth.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IjczOHNFQ0h0SU8xWDZCQTBqYmJmbHc9PSIsInZhbHVlIjoibjk2dVwvSDlYcWFJaFI1T1drUUFCakNvZnhzUHFcL2NrQ2N3QlJkb2xBRUlWcWpvT2d2Z0RZZ3FDODFlenE3R0U1MHBaMkJqQk5Xa2VkRkhuTFMxV2x3eUhTUTBZTnVDV05TY1pibDZuWVNqdlFyRmxuWjBcL0E1eGRaZlwvVlhFWE56ZEZKWXpYc1cxSzBqc3ZBazlKUWROQjdqTURRQ3lHQjNzQU1QSkNEdUNcLzQ9IiwibWFjIjoiM2M1OTljODlmYjk2N2VmOWJhNWE5ODkyNmVjODlhN2NkYzM4YmFmNDUxNmU3NTExYTdiMTg0MDNjYjVhODUyOCJ9&amp;signature=313ce7b67daaa95bc885a30d0da97534e74818b4391ddd916d0df7fe847b4226</image>
+    <start>04:00PM</start>
+    <finish>06:00PM</finish>
+    <date>04 December 2025</date>
+  </channel>
+  <channel>
+    <name>SABC News ZA</name>
+    <id>SABCNews.za</id>
+    <title>Face The Nation</title>
+    <desc>A hard-hitting show with the incomparable Clement Manyathela, where tough questions are tackled, and leaders will be held accountable.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IjFDMzRKTG9TRDNEQ202SmYyYkF3emc9PSIsInZhbHVlIjoiTmtBd0JSYzNPMzlrbzE2cEdZRDFESFZmQ0ZTUHVNTXU0SUJRdFhlWEVpR0ZnU3FKNnlBMHAxaHpmR1ZDekQzYUNJZXhVdTRIdk90S2Qxa1VJbHFyaThHZWkxSXVOOStEY3ZCXC9xWFRvQjVXOFNCVzhSZWZ3YlhUYm0xTFphOVhZZ29xbDZTbXpDb3RwWHBJRktkM3RqWkZFUTd6a3JtTUtHZExSSENPU3U2NjVaY2tTVlNUMk5paTJuRnYrcFBiZyIsIm1hYyI6IjBhMzJkOGM5NmRhYTljMmZlM2JiZTgzZDE0YTQ4MTQzMTc3ZjdlNjI2MGIyNzRmNmYwMDQ3OGVmMTBlMDA1OGQifQ%3D%3D&amp;signature=f6c2fed935492739b647c7dbe42be5cecc9f67d01dcc354ba8073b3ea1318605</image>
+    <start>06:00PM</start>
+    <finish>07:00PM</finish>
+    <date>04 December 2025</date>
+  </channel>
+  <channel>
+    <name>SABC News ZA</name>
+    <id>SABCNews.za</id>
+    <title>The Late Edition</title>
+    <desc>A 360 degree view of all the stories that made headlines through packages, features, and interviews.[(96057)] </desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IldpYlBtSzFsVitXQWdIWnVua29HUkE9PSIsInZhbHVlIjoiaHdzbGlMQ0NtMEIxWW1sSjFnZzEyUGcwUWl3OHJQTFFyVmVITHRPN1VTcmxQSFNLT0t2VnRaYmpTN1VCbGdXazZqM0NhakMwWFcraStxeHByWDdhbWxiUVFVVk9cL2czYzhJZUhRak5jaHY2VStPTWRyVVhtWkhSYXVLYW1DU044a1pvd3RLWVh4Y0ZlOTRJcG5aNmg3TnRLUVdsczVuSVZraUtoeFwvR2hwT1wvVnhkMXR2dDZ3Q0V0WmZyNmVldElTIiwibWFjIjoiNmEzOTZkYTlhYjU1OTBkNTkxZGIxMzRjMTA2MzY3MGU4OGRmMjJjODRkZmZkZGEwMGNlZDhmNjkwMTA4ZGFkYyJ9&amp;signature=ffb483f66b4f2566e72fc65cdd8ffa64bc41a9b9aa85260fd7cf5e1b8a071e2c</image>
+    <start>07:00PM</start>
+    <finish>09:00PM</finish>
+    <date>04 December 2025</date>
+  </channel>
+</tv>
