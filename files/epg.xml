@@ -1,16 +1,6 @@
 <?xml version="1.0" ?>
 <tv>
   <channel>
-    <name>Al Jazeera English UK</name>
-    <id>AlJazeeraEnglish.uk</id>
-    <title>News</title>
-    <desc>Up-to-date news and analysis from around the world.[(96057)] </desc>
-    <image>https://epg.best/assets/program-icons?program=eyJpdiI6InV6cnFKYTlCMWJMcW1EMmxWRlNmQ2c9PSIsInZhbHVlIjoidkpYV1hweHZWQ1UxamtoT0tPOEE1ZDVrZFBpN2h2STBwcGt1VGFTYkpFbGlFcWl6SXRneFNISGx1K0FKMEJGUEVGaE41dmowK0VJemdsdTRVdDB1NlwvWXhaTmVGeUZoTER6SHdaRXpKQjlcL0ViSzRJSXlMUzU2YlhMcDRFVms1TmRXcTdCR2JCUlBhbnFJZDdBTDlQZGJ0c3lNaDNUcHJLdjhtYmZLSFNmSmUycVBPdDN0bFl6TjF5MVREYkVZaTIiLCJtYWMiOiJkN2U2OGZhNjBhOWMxNzY4N2RjNjA1MGE2NTYxMWNlYzI4YWIyZjhjZjJhNjU4NWRkMjI3YjY4YWYwODcwOWE0In0%3D&amp;signature=512f25b52f58897b5b0702c62d2dc3b550aeed4c74e2842e199583265293ee19</image>
-    <start>11:00PM</start>
-    <finish>11:30PM</finish>
-    <date>06 December 2025</date>
-  </channel>
-  <channel>
     <name>BBC4 UK</name>
     <id>BBC4.uk</id>
     <title>Mystery Road</title>
@@ -18,26 +8,6 @@
     <image>https://epg.best/assets/program-icons?program=eyJpdiI6InM5VDNUYWdzQW1Obk9FVHc4eW1aRHc9PSIsInZhbHVlIjoiSXpIbWQwOHhlYXNkZDVIcnJKSkRcL1ltdTErNytpSlZub0NaeUE5M2txaXZRaG5MYzBqZnZxMUpLYXBBamVzNWM1Ykttd043ZTRONWFHenZ6TWZBdUV2S0ZvaEM2UWRlVFplalcrcXRDMDUzSU9SMFFkZmVOZUlYXC82UTJER1VDNGJUUDhZQUNUYzZocUIrelZjSnFvWkE9PSIsIm1hYyI6ImIwZTg2MjQ3YTZjYzJmNzY5MGM1MTVhODAwY2RhNWNkNTQ0MzZkMzBiZGQ1NjM2ODBjYTBlNzcyM2I5NDk0ZDUifQ%3D%3D&amp;signature=fd81d69316021059c4e7ca26692721165b6170dbb4d222e7576e4aecec133b04</image>
     <start>10:55PM</start>
     <finish>11:55PM</finish>
-    <date>06 December 2025</date>
-  </channel>
-  <channel>
-    <name>BBC News UK</name>
-    <id>BBCNews.uk</id>
-    <title>BBC News</title>
-    <desc>The latest news from the BBC.</desc>
-    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IjAxQzBVbm54djlsZHhvVDByZnJMS0E9PSIsInZhbHVlIjoiVXpVVTZENktkck4yWWtrYlA1YjBVdVpERlwvNUZCaHorSlBQQ2txRWI0bmlQWnNMeXRxSld0SkZQY2ZvOEtaSWc5UWxQVE9lU0tLQU5cL0pxTFlJaEFIbTBCZzRDMmN6NVphS0U5cEdYZVd5amN6NERLT2ZKTFA0Z2JRVUhyZHh2NHZqcHFBMHNkaUNhbXRxWVJNa1NqSWc9PSIsIm1hYyI6IjM4ZjZiOTVhODEyYjc3ZDlkMmIwZWRkMTFmMjFlNWZhOTJlMjUxMmY2NGJiNjVmMTMyMTE2ODBkZWE3MWU4OWIifQ%3D%3D&amp;signature=9884f255d361589363568459437e75f9e735acd9318a9aa78f7219e021aaa789</image>
-    <start>11:00PM</start>
-    <finish>11:30PM</finish>
-    <date>06 December 2025</date>
-  </channel>
-  <channel>
-    <name>BBC One NL</name>
-    <id>BBCOne.nl</id>
-    <title>Match of the Day</title>
-    <desc>Highlights and key analysis from all the day's games in the Premier League.</desc>
-    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IjZLSWVwanJ0UTJWeU9kQm5lVFwvZGdRPT0iLCJ2YWx1ZSI6ImhPV085bU14WVJTaVBXRkVCM2NIMXZscUxzR2NSU2Nyc2g3WXFFZzdGQXhnWSsyMkdTb1g1b3V3OUhyc3NaSnZReERjZG5DRFRmVXMrMnl0K3hpeG1iSU93eWNkSW10KzJONXVGTkErdUNyeWFqVktKK3ZVbmZRQlY0XC9SbEdNdmxBcHpzRVRHWW96SU90OUxDenp3SkptZmpOQUV5ZWxsMVNCWGJ2VUFFWnNBOUszdnBJTVpjNkxiQmFUOW5pVlEiLCJtYWMiOiI5YTY4NGRmYmZmMDUyZTRkN2EyYWE3OTM0YTg3MTBiNjQwZjQ4NTI2ZjFkNmQzNjMyZjg2ZjAyNzI2NmY3MThjIn0%3D&amp;signature=d59d35f3bebc4c6158075a4c4a4d8b47a3f6a40ecf38b6f202752f2d77e9aff4</image>
-    <start>10:20PM</start>
-    <finish>11:45PM</finish>
     <date>06 December 2025</date>
   </channel>
   <channel>
@@ -423,16 +393,6 @@
   <channel>
     <name>BBC Two NL</name>
     <id>BBCTwo.nl</id>
-    <title>Hits That Missed at the BBC</title>
-    <desc>A look into the BBC's music archives to examine the all-time classic tracks that seem to have got everywhere except the UK Top 40, including Bowie's `Changes', Dolly's `9 to 5' and Johnny Cash's `Ring of Fire'.</desc>
-    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IjhERlVzOFB1TUxjeTIxRGIrNFN5S1E9PSIsInZhbHVlIjoiZDBWTW9OQnMzZXl4REphYWhQbzRzejlJNHVuaXBxbVhkNVlxRlZOUkIrN3VmSkRoaVdnNU5scE81YlAwc0pnUVVMK2lZU2FYWVdWNXV1XC8rQzBzYkZ6NDBXZElkSU5cL1IxNEVsRHpvXC9uM2NMNnBneVFiNlZRdGQ3R0gzRXNxYXJZVzhpVE9RdzgxMWlqb2liYTAyRTlTQzZQc0tGenlVTnBzRUhYY2UrN01PczE2VWFOXC9CUGhRSlwvbmtYUVV2alkiLCJtYWMiOiI1NThhMzYyNDliNjgyNWE2ODZjYWJhZDIzZmQ1ODgwNjJjYmU5ZmQ3MWJhNjY3MjUzOTMzY2Q0OWU0N2FjNTljIn0%3D&amp;signature=389bf1480eca7698543a24bd152a362c6835458dc27a4a62bd7211f0a7a2ed25</image>
-    <start>10:00PM</start>
-    <finish>11:30PM</finish>
-    <date>06 December 2025</date>
-  </channel>
-  <channel>
-    <name>BBC Two NL</name>
-    <id>BBCTwo.nl</id>
     <title>King Richard</title>
     <desc>?Based on the inspiring true story, King Richard follows the uplifting journey of a family whose unwavering resolve and unconditional belief ultimately delivers two of the world's greatest sports legends..</desc>
     <image>https://epg.best/assets/program-icons?program=eyJpdiI6InN5MWpROWlaeU9Ja2tibHlsOXExdHc9PSIsInZhbHVlIjoieEZJRm1XckxISFhMYWt1SlByOFE5NGxudmZIUU05MmZzNU9MSzFlZWxGbjB2bFNIT2pDSzluU3BJWU5UUzNHK2dZdkk4ZHgzQ2RpWFJjTDZJOHlPZGtFNlRWQzRTVkFlRWQwS0ZzZDlEMlhrUlwvdzRubkxDdVRLQkx2XC8xbVFja2ZuZ2dvOUt0aDRtTSsxeWswaXZUUEcxZXc1a244bGNsWFV6eUI0bkhMZVwvYUJPc3ZZOGI4VzdjdVo4T0lZQ2lLIiwibWFjIjoiNmJhMDFlNjg1MTNkNTdlYzZkNDZiYTIzMGU0ZDkwNzlmMTVlNGFhNjU4ZTM2MzJiYTIyODBkYzA5ZmJjYjZiNCJ9&amp;signature=c3aeae29e9eda33a62a3720e64995fff6bea5b00346b9054d45e333a83f7db4d</image>
@@ -641,56 +601,6 @@
     <date>06 December 2025</date>
   </channel>
   <channel>
-    <name>CGTN French CN</name>
-    <id>CGTNFrench.cn</id>
-    <title>?chos d'ailleurs</title>
-    <desc></desc>
-    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
-    <start>11:15PM</start>
-    <finish>11:45PM</finish>
-    <date>06 December 2025</date>
-  </channel>
-  <channel>
-    <name>Classica IT</name>
-    <id>Classica.it</id>
-    <title>Andrea Bacchetti esegue Bach</title>
-    <desc>Toccata in mi min. BWV 914, Corale BWV 691, Preludio BWV 846a, Minuetto BWV Anh 114, Aria BWV 988 - Suite francese BWV 816 - Andrea Bacchetti, pianoforte \(Genova, Teatro Carlo Felice - 2015\).[(96057)] </desc>
-    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IkZUb1hBYXdtaUZRdUNwaytUTUY4aEE9PSIsInZhbHVlIjoiQVJLRFFrd3I4cllqTHFKWkxqOGdvdlB0cm1CMDR4RndEQ1N3UjdKNEJ2eFpZemc5QjJPaVBkb1N4Yk5pN01Pd1dQZXNpU3BzSXhpeHlqQjI1a2J1U2tEV204aDNESWpiUVMyUDZrTkxsNzV3bXBcL2pDS1p4aEZaVklQays0MGgwIiwibWFjIjoiMzExNzllNDgwOGNmZjgzYzRiNDk2NWEwZGI1ZGIwOTA2N2IwZDk4ZjJkNmQ4YjZkYjMzYTQ3ZWFiNmIxY2UxOCJ9&amp;signature=3beaf0e4267e0e07ab6b761c2bb12974c2201684f95d6e3432204679caee4ab7</image>
-    <start>11:00PM</start>
-    <finish>11:30PM</finish>
-    <date>06 December 2025</date>
-  </channel>
-  <channel>
-    <name>EuroNews UK</name>
-    <id>EuroNews.uk</id>
-    <title>News</title>
-    <desc>The leading news stories of the moment.</desc>
-    <image>https://epg.best/assets/program-icons?program=eyJpdiI6Ik5qVU5MYUp4ays1UG1BTkVSZ04wYmc9PSIsInZhbHVlIjoiTWtJa1FxQ2x4UlhBQVJwYlwvR1ptRklRSFZZa1VBYmg5RUxsM0JaeXJIKytZTER4Z2JCRFhSMlYycmw4UmhzTkN2WlJTczBjNXRwV01XckVsckN3T0dNXC8wZkgyVnZOXC85M3JJVlorKzIzTkl1a2RpKzBTak9id0Vzb05WSkNRRDBGMGR2Qm1YckJjaTRLV3M5NE04blhBPT0iLCJtYWMiOiIyNzI5Y2E0YmZlY2ExYTJhNDA0NjlmZGRiNTQ4ZTRmMmFiY2Q2NDZmNzBmMGY3YThmODM2NjljZmU0ZjhkMWE1In0%3D&amp;signature=a930305758667997e9beaa19c1db80c46cf719a098e2dc705d01a25a6efd4360</image>
-    <start>11:05PM</start>
-    <finish>11:29PM</finish>
-    <date>06 December 2025</date>
-  </channel>
-  <channel>
-    <name>EuroNews UK</name>
-    <id>EuroNews.uk</id>
-    <title>5 Minutes</title>
-    <desc>The leading news stories of the moment.</desc>
-    <image>https://epg.best/assets/program-icons?program=eyJpdiI6Ik5taFdvaWRMb3hBYUZNN2dHSk5zbHc9PSIsInZhbHVlIjoiMkZaUFBGUzhlVTk3Ulo0V0dmbVV1TGFybzRFdkphUlMwa0tQK0wwTzJUXC9ZdjhBazRTYm9EcjI3SnlpV1R3OUxFbElcL3RUNlwvdUlRaW8zUU9wYmIrUjVudFZSSmF5bUozNW1hRGE0OURnOTE2dXN5REdRTkhuZThPSGhcL1B2YTNoY2ZSNlhvanRINFQ1eVNcL1FnRjhBRmc9PSIsIm1hYyI6ImZhODg3YzUxYzZmMjdhYWFhMWJlZjEzZmQyOTM3MTVmZWFlYTU1MGVkYzhiNzU0MGFkZGNkMzYzNzU4MzYzZjEifQ%3D%3D&amp;signature=2d166823792e864563a2707b534dd954df68a23b659372f3ac1ba6b91ec9041d</image>
-    <start>11:29PM</start>
-    <finish>11:34PM</finish>
-    <date>06 December 2025</date>
-  </channel>
-  <channel>
-    <name>France 24 Fr</name>
-    <id>France24.fr</id>
-    <title>Le monde dans tous ses ?tats</title>
-    <desc>Rapha?l Kahane d?crypte, en compagnie d'un invit?, l'actualit? politique et g?opolitique d'un pays, ? travers des reportages et analyses des correspondants.</desc>
-    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IjZlOHhrZ1pnZDdEZ0JmbnoyM2xcLzBBPT0iLCJ2YWx1ZSI6IkdxSGpPZjlablZodmd0MUhMaVhrTWhmRDlacTRPN3BSeWhSUXdrZHhBdnNiczhCZ0dYcU53b1VOUDVZYVwvZUw5dzNRK0dTNDZOYWhQdkk0YlwvSzNCUXpZOTN4aGY1bzhkdlRjUjRscjJuaVdqcFM4VGJRRHRjXC9IUmtRcDVMTjhGS2xvQ1ZOekNBVlA0RVFlbmVxRm9zWDhLVjQrZHVWTjhmYnIwWGJBUEhjdFJqelY1VTNDNUI0Q00xMWpPRllZSyIsIm1hYyI6IjdkN2FiZTc4N2VjM2FhNWFiODNiNzBlNTJlNWM0M2ExODMxMjNhY2Y4Zjg2OWUyYTI4NTI2MTM3MGMxNjRiYzgifQ%3D%3D&amp;signature=9b9953ffaf3ef6db689f8a8583b7522bb1d234485f400b853eb86e91d8f35971</image>
-    <start>11:15PM</start>
-    <finish>11:45PM</finish>
-    <date>06 December 2025</date>
-  </channel>
-  <channel>
     <name>France 24 Fr</name>
     <id>France24.fr</id>
     <title>Pas 2 quartier</title>
@@ -701,26 +611,6 @@
     <date>06 December 2025</date>
   </channel>
   <channel>
-    <name>ITV 1 UK</name>
-    <id>ITV1.uk</id>
-    <title>ITV News</title>
-    <desc>National and international news with reports and analysis from ITV's Correspondents in the UK and around the world.[(96057)] </desc>
-    <image>https://epg.best/assets/program-icons?program=eyJpdiI6Ijl4QktiZVwvdjg0XC9WaUZNQmJvbnFzQT09IiwidmFsdWUiOiJPVitQNExLSlk4UkZ3ZWt1YWVROFU5Y2Rra1l6WGV4NUdXXC9NMXo1ODRxUm5pNENuTDY2OWx3VGxZWjRLOHBQRFdXTFhvQVZrTU1rZmlrcDNXMDFPU1k0bHE2cytyQUttVVFzTm9KVGhFY1R0UURTY3RGcUdSckk2aXhrbG5Xd3lSQTR0dmRSVFBtck1PVlpwN0RlQWZ3PT0iLCJtYWMiOiI2N2E5ZTMxZmM1ZGM5OWQ5ZGZmNDNmOTJjZWFlMjI5NGZlZjliOTFiZjU4YzUwZWI2ZTkwNzIzNWJkMGI2MWQ2In0%3D&amp;signature=256ebb5dc8a9d51c60883df9c7fa56df3768b47bb2c60d3cb5da8831c58c748e</image>
-    <start>11:15PM</start>
-    <finish>11:30PM</finish>
-    <date>06 December 2025</date>
-  </channel>
-  <channel>
-    <name>Kuriakos Tv PT</name>
-    <id>KuriakosTv.pt</id>
-    <title>A Hist?ria e o Conhecimento</title>
-    <desc>Document?rios. Following the Messiah - parte 2.</desc>
-    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IlZldVJaclwvYXk0S3Nra2hZcWxVZEZBPT0iLCJ2YWx1ZSI6ImZZNzlwNG10Z0p5SlFCdDh2eVloUDY5OHZyelVaNlNZakljU204cTJZSHdhVENJVVV3S2U1YTBieDZCeWwzXC9Hb1huVWd3STBiYjA1VW9uVXhEditBOGora3F1R0tnWW1rUUNXQVdsY2FYZHphZ2xJZ3pvVW1FOTA4cm9JNnJnQm0xMTRMZTVRMUlGTFdxSEhBRWtsMmNJZDJPWGFhWFIxMFFGNVFjYitUNU1OcXdjRklUV0xzNEdKOHhZaXA5NnI1TVdjWXRCRk5nUUhuU25TU0M3NUJBS0hBb0l0ZXZtZ2JYRE56RHZYNkhkMTcwZm9RSkMrclFUNFBOeTZqM05SIiwibWFjIjoiNTIxNDBkODRlYmQ1M2UyMjNmNDMzNjM4YzljODhlMTEwZTZmMjBkZmI4MDZkOGNkYThmNjBkODNmODA0OWIwZCJ9&amp;signature=26dd9e4b5acf7494d25b9fd2127839f39f10fe57816d5f578e131112191d848f</image>
-    <start>11:00PM</start>
-    <finish>11:30PM</finish>
-    <date>06 December 2025</date>
-  </channel>
-  <channel>
     <name>La Otra ES</name>
     <id>LaOtra.es</id>
     <title>Cine</title>
@@ -728,26 +618,6 @@
     <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
     <start>10:56PM</start>
     <finish>01:02AM</finish>
-    <date>06 December 2025</date>
-  </channel>
-  <channel>
-    <name>Nick Jr UK</name>
-    <id>NickJunior.uk</id>
-    <title>Peppa Pig</title>
-    <desc>Peppa and her friends play some very active games in the garden and together they learn to hop, skip and jump.</desc>
-    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IkJNZzAyajhlakN1cWRzeEZ0RmhMckE9PSIsInZhbHVlIjoiZXdZK21mTHBHaVwvYUhXWkREd1BLRndpR3A1MzhCc3VMVHhLcVdUWXBCMGZENENHd1hneHVpY3JEVHpGTlVTUjduc1J2SmJ4VTRsRkpKQ0JPY29CZ1RKaHRwUFBKZ05cL25kS1NHRjB1bHpqU2JMSTdMV2hxS1wvWEM3QjFcL05RS2kyejBCdWpQNzh0WkdwZGhHTTltQUl4QT09IiwibWFjIjoiZTRlNmY3YjIzODc0MTAwNmY2YmRiZDM2ZmYzYzUzNjkxZjUxZmVjMjBmZWFkZDQ2MWRkODI3MjVlMzFlODdhOCJ9&amp;signature=a87c714467dd0ce36273a22987ee1825e65ff050a01c4eb557c392c30f42aa97</image>
-    <start>11:20PM</start>
-    <finish>11:30PM</finish>
-    <date>06 December 2025</date>
-  </channel>
-  <channel>
-    <name>Nick Jr UK</name>
-    <id>NickJunior.uk</id>
-    <title>Ben &amp; Holly's Little Kingdom</title>
-    <desc>Naughty Gaston is sent to pet school, where Miss Jolly soon gets him into shape.[(96057)] </desc>
-    <image>https://epg.best/assets/program-icons?program=eyJpdiI6ImUrd2UrZEcrbHFYM1wvbnRzU2l5SkN3PT0iLCJ2YWx1ZSI6IlVacjF3MzVCOFZTaDVTYzU4S01qYlpkNXRIeGhkT1dTZGtFdEFjR05XMnJ3cUxHc0t0V0MrVXVYdFwvZCt6U3hHNVpvRDVSRmNUXC8wOFI3TzBYTHhlWFVwSjFxUUtcLzJja1k0NEdvY2FWXC95UldUVSttUitYaHk3NUpqeVwvQmVOSE55ZDFwQm4xdzgwcXVSdmdcL01PdFF3dz09IiwibWFjIjoiZTRiYTI1MzU0OTY4NjUwMTU3ZDhhZWU5Zjg0OGM3NTk3MTdhNzYyZTdmMmFmZTAxNzNmMTRlNmUwNzdjZTNjZCJ9&amp;signature=9c27487f99c64a3b7548ab986a318d0832bc5046999b62cb023a99fabf5a965c</image>
-    <start>11:30PM</start>
-    <finish>11:45PM</finish>
     <date>06 December 2025</date>
   </channel>
   <channel>
@@ -763,71 +633,11 @@
   <channel>
     <name>RTP Internacional PT</name>
     <id>RTPInternacional.pt</id>
-    <title>Masterchef Portugal</title>
-    <desc>Rui Paula, Marlene Vieira e Diogo Rocha  vu00e3o descobrir os melhores cozinheiros amadores do pau00eds.</desc>
-    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IlN0UndSMVF1V2FxWVN6c1FyczVOQ0E9PSIsInZhbHVlIjoic0tiT2pIdk5wNXduZzJ6bGgrZ2tOTk1wY0pNR3F6cXEwbGZCZmhHU1pJVVhHZnhyOGZkM3JaWTJTUDVkT3MySWFuMXltSkhFMkFKM05PMzFUMmlLMVBWditKbUkwcG1XNmpIeUg2SEZMdjZ6UEgxa3dqcjJJN25NQ0pXYjZQVVciLCJtYWMiOiI0MzBlNzIxZGM3NjJiNTNiYTc5YTYyN2EwZjU3MjE4YWY4NmVhZWIxMzRjODE2ZjA3YzZlM2JiYzE2OTJjYzBhIn0%3D&amp;signature=6e530d111bde6577af311bbd8a90553e1a06ab0b6f899cd5cfb0943f193b7946</image>
-    <start>09:01PM</start>
-    <finish>11:30PM</finish>
-    <date>06 December 2025</date>
-  </channel>
-  <channel>
-    <name>RTP Internacional PT</name>
-    <id>RTPInternacional.pt</id>
-    <title>A Essu00eancia</title>
-    <desc>O vinho portuguu00eas e o seu mercado.</desc>
-    <image>https://epg.best/assets/program-icons?program=eyJpdiI6ImJrcTZFNGliTmF0eTA5WGVvWUdXT2c9PSIsInZhbHVlIjoiS2x1MVMyOGtPMENlZkloNG41TEdTWjI2YWZ5ZlkyYWZOUUlXaDhVR0t3ZDhhUUpRRGs4dXRFZFFRQ1hldUlnXC9pZHI1SnhaNHJXS1N0NXBjcTBrTkZjYWVnNkE1b0traDN0VG9cL2sySlA5SWZCZERadFBSRHBaV0ZcL0pTa0xJU3MiLCJtYWMiOiIzY2Q5Y2EzOTY4ZDhmZTdkNTk3ZTJkYWRmMDFkODM5MjQ1NjA4NDY4ZDA2Yzg3MTc4MTllNmVhMGQxZDVlYTY1In0%3D&amp;signature=3e3c1d40d8e808939c0a7f520565fcf0b80ce4dd9baa1f0b56c79afd93fde6ab</image>
-    <start>11:30PM</start>
-    <finish>11:45PM</finish>
-    <date>06 December 2025</date>
-  </channel>
-  <channel>
-    <name>RTP Internacional PT</name>
-    <id>RTPInternacional.pt</id>
     <title>Terra Europa</title>
     <desc>Terra Europa u00e9 uma su00e9rie de atualidade europeia, com emissu00e3o semanal nos canais de televisu00e3o e ru00e1dio da RTP. O.[(96057)] </desc>
     <image>https://epg.best/assets/program-icons?program=eyJpdiI6InJ2Tnhnbk5ZeGUwYlV4YklhODQ0WGc9PSIsInZhbHVlIjoiZFNVWGdCK2x1ejU0UHlhRVwveTkrUnFyZHZDZHNUa1gxRUN3YkpKMnNtS3o5emVKTWNTYkt2OSszaG9VQWhaVE4yYmN6dDRsZTkyZEVneElXQWQ1YnV3UDZuUDhZN3RGZmdtZHJRdVpqRThMYzBobFJSd2U1UjA3RGpuRTZlZ3R2IiwibWFjIjoiNGYxYWFhM2RhNWY2ZTc1YzdjNTQ5NWI4MDljNmNhZTMwMWVmNmQ5OTljZmI1NDJkNjQxZDRiZTg5NmZjMzBlMiJ9&amp;signature=2b466db91ec3838c84463ae7d1b6b634dbe5176fb17f4f7e7f6195f98aefbcfd</image>
     <start>11:45PM</start>
     <finish>12:00AM</finish>
-    <date>06 December 2025</date>
-  </channel>
-  <channel>
-    <name>Rtp Madeira PT</name>
-    <id>RtpMadeira.pt</id>
-    <title>Atl?ntida Madeira</title>
-    <desc>Talkshow quinzenal que leva a saudade ? comunidade emigrante espalhada pelo mundo.[(96057)] </desc>
-    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IkxaK1gzWVR5WFdNZ01Fa0pKWUN0K1E9PSIsInZhbHVlIjoiMGJUMEM3TEdqaVN4cEtrMHI3R3NaNlwvTFRXbjJLTXIrKzRcL0FXWUpZN0JoY3I5YURGWFU4ajJtenBpcUx6UWh4UURUWXM1R1MrRUVyeXlnd05DWmdoOHVpb0JYRkpScnVzdjRORlBxRDRpTERrN1hFVThpYmlReFE4NFdFam05Z2lmWmVlME1IY0oxYWpUUVZ1QWxXeEtWdUFZc01KQm1XNkpxTDJNc1ZBdW9CcUVTRUc0UGVVcFZEcHVtMk5IRzdFNDZaVDE5dGd0YUI4REdxMFRKOWZTK0VXSkxFYVF6bDJuaFMwVHJZUVZvdWF6MmtQQytCZXNKODBXaENuZzZhIiwibWFjIjoiNDE2ZDlhMDk0MGQ0NjM2MTc0NzU0ZmU3ZjU5MWVkMzg2N2U5NGRhM2NjYTJlNTIyODNmZTRhOGVlNzQxOGMxZCJ9&amp;signature=7f12c6ced3a44da64d29582ec2e6cdc5e7255b41ecd3052890dd05e1fb085569</image>
-    <start>09:50PM</start>
-    <finish>11:30PM</finish>
-    <date>06 December 2025</date>
-  </channel>
-  <channel>
-    <name>S4C UK</name>
-    <id>S4C.uk</id>
-    <title>Dartiau</title>
-    <desc>Darpariaeth fyw ac ecsglwisif ar draws blatfformau C o Bencampwriaeth Dartiau'r Byd 2025. Live and exclusive coverage across C platforms of the World Darts Championship 2025.[(96057)] </desc>
-    <image>https://epg.best/assets/program-icons?program=eyJpdiI6ImxtbDJDdVVRUmZPT0Z6VnFHSDJCXC93PT0iLCJ2YWx1ZSI6InlWNWh4ekxcL2hZQnVUOHNYVWZ4cEpoVUNjS1B3WkowUldsNXRwRWRQaWhLZ1BjRkxLeFhQK01QeGkrVmo5Nk80THVCMU1yOVBXSTI4REt1Qnh2OUlVdHF3MjlOUmprQTVKeDFHckNyQ29DR2tMcXFVRzBQbFFDdWpWb2FBczhWbFVQSExDQ1ZDM3kySm9hbHVxZE4wU3c9PSIsIm1hYyI6IjFkNmJmY2U2ZTQwYmJlODYzNzUwMGY5ZGI0YjhhNDE0MGJmNjdlMzdkMTlmNDU0MDNkYmNkODYyNWE4NDA2ZDAifQ%3D%3D&amp;signature=74e8759de30a7d30c246acdb6ab0a5d9350df3ed810a6faf40b0eb88b78bdbe8</image>
-    <start>10:05PM</start>
-    <finish>11:25PM</finish>
-    <date>06 December 2025</date>
-  </channel>
-  <channel>
-    <name>Sky News UK</name>
-    <id>SkyNews.uk</id>
-    <title>Sky News</title>
-    <desc>The main news of the day with reports and analysis from Sky News correspondents in the UK and around the world.[(96057)] </desc>
-    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IlRCbCszellVUXdmemVQeW52OFZ0ZlE9PSIsInZhbHVlIjoiMjExcjAxUVNQZlwvc3NKU21uT0c5R25vTTdXeXlHenBBVzMzUVdrM3JRQWFzaXRBYk51U2tTSExFME5kOGRvRktTekhPVHZ3S1MrU0lxa1FJenhRdXJ3clpNUit5NlZnQ0NJcXlaRkc1Y2hyWFBEMjNZR3NWRlJacVBQZGxcL2pDbitoYk8xQk11aHRMKzJLQ3lUQVVBaGc9PSIsIm1hYyI6IjRhNWViYTMxOWVhOWEzNmUxNzkwYmY0MGU2OTNhYTVhYzM1YjgzYjkxODQ2NDRlNTQyMjc1YWNhZDk5NDEzMzIifQ%3D%3D&amp;signature=c61fba467307946c7fcd246da480472b924f82665f3f321a7c7c3de36c01d7ca</image>
-    <start>11:00PM</start>
-    <finish>11:30PM</finish>
-    <date>06 December 2025</date>
-  </channel>
-  <channel>
-    <name>TG4 IE</name>
-    <id>TG4.ie</id>
-    <title>Scann?n</title>
-    <desc>Faigheann Violet, Judy, agus Dora Lee an l?mh in uachtar ar a bhfost?ir.</desc>
-    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IlVNOFVCUk1tUG9naGN6WXB6dkVYcFE9PSIsInZhbHVlIjoiYWtKa3VQMHN0NWtHVmg4SVI3T3psS0djaVdabEp4QjVBWUlhVkYwbFNxWGNcL2ZoNFRvU3c5eHgwbXJsTGRjTHdZRlMxb2c5cE1aYTdWZmVBQjl0WUpwZGxSYnVxUnRTdWVXZk1IWkxcL2xNK1dxeU8xYjlpNTZMcjN5WU84RkV2UGxUZFwvSjJYZHpvMzk2SmM0eHpxSWV3PT0iLCJtYWMiOiI4NGZmZGFlZDc1NTMyMGFjZjc4NTgzM2M1ZDVhODdjODhiNTY4NjJmOGJlZDg4Nzg1YzJkMjk3Yzg1OWIxNTJiIn0%3D&amp;signature=2a542bf97b4b92a084474aa7a8f3d96b1b994146344f98dc3a4f9cb51b63ff6a</image>
-    <start>09:45PM</start>
-    <finish>11:48PM</finish>
     <date>06 December 2025</date>
   </channel>
   <channel>
