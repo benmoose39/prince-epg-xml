@@ -1,53 +1,23 @@
 <?xml version="1.0" ?>
 <tv>
   <channel>
-    <name>Afro Music Channel PT</name>
-    <id>AfroMusicChannel.pt</id>
-    <title>Fresh Music</title>
-    <desc>As m?sicas mais frescas do momento est?o no ?Fresh Music?.</desc>
-    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IklCUlNKbElnUHZOV056Q3c4bTNvRlE9PSIsInZhbHVlIjoicE5UUzBiZlU4SU9QdHlVR2lJT0YydkJnaVBxQUtjdG9neWtFTHFlT1ZQRG93UG1BSlNiWUNhcFhZUHdnYUdjWlU3TXJ4SGFSU0ZkRWYwYWhQSTg4WGtramt2UE13UDBzYTc2K3k5dTBKbVBUbGtLQzVHa1MraFwvNVc5eTBcL1wvcUJ0ZWdVNmFzVThNOWpVY0s1UVIwa003Ynk4K2YxUDlxTWwxU1wvTTNQODhpUlV4ODFocDA2eG5mK0JITzlWOE5HS1ZVQVwvdHhGTXZ2bkRSbkxOUHhHUldacTlLYjY4UlhZZUpoNzZvdzZYMXlPMDFES2JiZVBBUzgxSWpcL2QrTW84QSIsIm1hYyI6ImY2MzUxZmE0NGU5MDkwMzU5MzA1NTEzZWFlZDE3MzdlZDg5YTE0ZTMyYjA2M2JmODY5YzRhNmNlYWJkOGRkMWEifQ%3D%3D&amp;signature=db0d2294eab8430c6eebc715afc950f777db0c5122e9ac71d8c49720719f8d4d</image>
-    <start>10:10PM</start>
-    <finish>10:50PM</finish>
-    <date>06 December 2025</date>
-  </channel>
-  <channel>
     <name>Al Jazeera English UK</name>
     <id>AlJazeeraEnglish.uk</id>
-    <title>A Sense of Community</title>
-    <desc>Parkdale contains the largest Tibetan population outside of Asia, and is a food mecca that is attempting to keep its identity in gentrifying Toronto.</desc>
-    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IncyT3I3Z1VXUElNYTQwSU4yaFk5VHc9PSIsInZhbHVlIjoiUVo3d1NxUFNwazcxQXhtcU9xRlZSZ3o1aGY1RzRHVnhzYU5OV084RGsreDB3NkI0QU1oZndmV2VtQ2l4dWpWWDM4ZEZhaXMrY3Vmb1FcLzh3angyQWMybzFVS2Q2MEFpa1R5cjQzMnEwZjVkUkpwVmdFVlVabVhEVW02YldKTnBBZTRMUVE1SEE1ZVZjMjBPOVljYWtVbFdUbFZ2YU80a3BWbW12ZkJWUjhWYUVaWjlwTTFMVFlJMWtZbmViT3VaSSIsIm1hYyI6IjcwZWFjNDA3M2E4MmEwOTg5ODY5YWJlM2YxZGZlMDQ5ODg2YTQ3Y2YzYTc4NmY3M2VkY2M1ZjViNTVjYzFlOWEifQ%3D%3D&amp;signature=1a5bf05f1d4cf7796319f207c05fc8c3a36423ca517782bd9324b9e77f2e9146</image>
-    <start>10:30PM</start>
-    <finish>11:00PM</finish>
-    <date>06 December 2025</date>
-  </channel>
-  <channel>
-    <name>Arise News UK</name>
-    <id>AriseNews.uk</id>
-    <title>Newsnight Nigeria</title>
-    <desc>Nightly Current Affairs, Analysis and Cross Examination of Key News Events.[(96057)] </desc>
-    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
-    <start>09:00PM</start>
-    <finish>11:00PM</finish>
-    <date>06 December 2025</date>
-  </channel>
-  <channel>
-    <name>Artv PT</name>
-    <id>Artv.pt</id>
-    <title>Informa??o N?o Disponibilizada Pelo Canal</title>
-    <desc></desc>
-    <image>https://epg.best/assets/program-icons?program=eyJpdiI6InhFNkYreER2QlVvVzVFSlc1U1QyS0E9PSIsInZhbHVlIjoiT3JwNTRlNTlhVVlReU54NGtwXC9NVjhoSDFVT2UxR01xaFlzZm1jS3VGOWNzMXZjcmNKMlFDeHdJZnpSRTVSa05NREl4b3QrNjRRQkt1QmM2WlM2dG9JYlJnZXQzeUxWODROUTQ2SGJaVTBTbkpVQTNXQVJVSVVLNU5kbm5SR0JDSkdtSG13UjdlR3pTVG5jR2xUSENJSkVcL0pOZDBZZnlhanI0aTZsZ2FwY0dNQkhuNXVwSHdHQUZkZTRBWVZZb2NwcW5SSHQ3cEo5TlUzVzlvVU9kamtBZWRBVDdUYjRxanFHdTduN0dYRFdRazFUY2xoOTRtcVo0S1gwMFwvU2VYbSIsIm1hYyI6IjVlNjI3MzcyNTJiMWJkNTU1YTJlY2JhNzczZjhmNDBhZmM4ZWZjZjU4ZDEzM2M0OGRiNzU2MjBjOTdlYjA4MzUifQ%3D%3D&amp;signature=0f29b29f653743d8208e1108bce91a18cfac280e28cab0cb9ab5ea2973a439f2</image>
-    <start>03:00PM</start>
-    <finish>11:00PM</finish>
+    <title>News</title>
+    <desc>Up-to-date news and analysis from around the world.[(96057)] </desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6InV6cnFKYTlCMWJMcW1EMmxWRlNmQ2c9PSIsInZhbHVlIjoidkpYV1hweHZWQ1UxamtoT0tPOEE1ZDVrZFBpN2h2STBwcGt1VGFTYkpFbGlFcWl6SXRneFNISGx1K0FKMEJGUEVGaE41dmowK0VJemdsdTRVdDB1NlwvWXhaTmVGeUZoTER6SHdaRXpKQjlcL0ViSzRJSXlMUzU2YlhMcDRFVms1TmRXcTdCR2JCUlBhbnFJZDdBTDlQZGJ0c3lNaDNUcHJLdjhtYmZLSFNmSmUycVBPdDN0bFl6TjF5MVREYkVZaTIiLCJtYWMiOiJkN2U2OGZhNjBhOWMxNzY4N2RjNjA1MGE2NTYxMWNlYzI4YWIyZjhjZjJhNjU4NWRkMjI3YjY4YWYwODcwOWE0In0%3D&amp;signature=512f25b52f58897b5b0702c62d2dc3b550aeed4c74e2842e199583265293ee19</image>
+    <start>11:00PM</start>
+    <finish>11:30PM</finish>
     <date>06 December 2025</date>
   </channel>
   <channel>
     <name>BBC4 UK</name>
     <id>BBC4.uk</id>
     <title>Mystery Road</title>
-    <desc>Detective Jay Swan's homecoming is greeted by guns and friction with his father. Contains strong language.</desc>
-    <image>https://epg.best/assets/program-icons?program=eyJpdiI6Iko1SnBRSXcxeHl1Q1dsSWlqTFNRUnc9PSIsInZhbHVlIjoiMGlYRDhIWHVjOGVwaW14SDNRYlI5ZGZUV05iNEpFNDNBQ0kwbVZrVzFvWjZadVFIRlNLSjhabFE4WEJBVXFpQ0I1S1V2STVRUWNDXC96b1VZRU1mcnVRRjFpY0RSenlwcXlcL0Nld01mOGxJYTBWNUFIdlBxTkdNZzQ3NjNhc0QzTUx4VkxYY1U0N3FURFRmaWJCelUwSlE9PSIsIm1hYyI6IjY1NWJiY2E4ODVmODViNDJkOTY2NTFjYTA1NGNhOTkwZmNmMWVhMjFmOWRmZTNhM2U5Njk0NmNiNjUyNDU0NjAifQ%3D%3D&amp;signature=3f17fa61a7b739db6946ee5ea264646e03acbeba1ac04bf687fc183c34d9da6b</image>
-    <start>10:00PM</start>
-    <finish>10:55PM</finish>
+    <desc>Confronting neo-Nazis is almost as challenging as attending a social event for Jay, while a cold case intrigues lawyer Anousha. Contains some strong language.[(96057)] </desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6InM5VDNUYWdzQW1Obk9FVHc4eW1aRHc9PSIsInZhbHVlIjoiSXpIbWQwOHhlYXNkZDVIcnJKSkRcL1ltdTErNytpSlZub0NaeUE5M2txaXZRaG5MYzBqZnZxMUpLYXBBamVzNWM1Ykttd043ZTRONWFHenZ6TWZBdUV2S0ZvaEM2UWRlVFplalcrcXRDMDUzSU9SMFFkZmVOZUlYXC82UTJER1VDNGJUUDhZQUNUYzZocUIrelZjSnFvWkE9PSIsIm1hYyI6ImIwZTg2MjQ3YTZjYzJmNzY5MGM1MTVhODAwY2RhNWNkNTQ0MzZkMzBiZGQ1NjM2ODBjYTBlNzcyM2I5NDk0ZDUifQ%3D%3D&amp;signature=fd81d69316021059c4e7ca26692721165b6170dbb4d222e7576e4aecec133b04</image>
+    <start>10:55PM</start>
+    <finish>11:55PM</finish>
     <date>06 December 2025</date>
   </channel>
   <channel>
@@ -55,9 +25,9 @@
     <id>BBCNews.uk</id>
     <title>BBC News</title>
     <desc>The latest news from the BBC.</desc>
-    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IjFXcHM2blhaNW1Vbjd5OHNcL2NrbStnPT0iLCJ2YWx1ZSI6IkJGNFE3cGJmQ0Q0ZVdpVFZEREtkSHdmMnhZM2hqTjYwOWhPRXp6N1dVZHRoV0Y1YTFCdkx5Y3JWd29zMnVucHJnbGZ3N1wvUlwvek01NFlyWXdPb1BGdDUwOU9aTFJTTG9zWjdPZFdVOUtVWFpTXC9QXC9tbyt4U244Qkh1MFprOVpFcUNwWGR4WFZuZXBDTkZGQUwyS1BaWlE9PSIsIm1hYyI6ImExZWY0MTA3ZGFjNDhhY2YxMWY2Y2ZmZDM2NWEwMTgzZTVjNzQ1NjQ3NzI2NTVlNjU4ZDU5YzlmYzBhMzFiZTAifQ%3D%3D&amp;signature=65bd1c39cf44dbdff14b8add47d71b863d92483bfd2ec7d823dc61682bcf660d</image>
-    <start>10:00PM</start>
-    <finish>11:00PM</finish>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IjAxQzBVbm54djlsZHhvVDByZnJMS0E9PSIsInZhbHVlIjoiVXpVVTZENktkck4yWWtrYlA1YjBVdVpERlwvNUZCaHorSlBQQ2txRWI0bmlQWnNMeXRxSld0SkZQY2ZvOEtaSWc5UWxQVE9lU0tLQU5cL0pxTFlJaEFIbTBCZzRDMmN6NVphS0U5cEdYZVd5amN6NERLT2ZKTFA0Z2JRVUhyZHh2NHZqcHFBMHNkaUNhbXRxWVJNa1NqSWc9PSIsIm1hYyI6IjM4ZjZiOTVhODEyYjc3ZDlkMmIwZWRkMTFmMjFlNWZhOTJlMjUxMmY2NGJiNjVmMTMyMTE2ODBkZWE3MWU4OWIifQ%3D%3D&amp;signature=9884f255d361589363568459437e75f9e735acd9318a9aa78f7219e021aaa789</image>
+    <start>11:00PM</start>
+    <finish>11:30PM</finish>
     <date>06 December 2025</date>
   </channel>
   <channel>
@@ -93,11 +63,11 @@
   <channel>
     <name>Band Sports BR</name>
     <id>BandSports.br</id>
-    <title>Gearing Up</title>
+    <title>A Anunciar</title>
     <desc></desc>
-    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IldhNmdkZTNuUlFuV1pSZTdqcmtvR1E9PSIsInZhbHVlIjoiZTNabGdYMjBnSFIzb1Q1RVE3bW0raW9cLzcwNXNCSHJIazFRcVM4VCtBSitPV3cwUGtoRHlvUEhXWit5dFQ4b0hYMmVSYmhSOVI2Z2lFTTNkWXlKdmdsNlNQSHJoTlhITWVub3FLd3dGeXZ0Mm55cnBMTnVvc3NsTnBBWXJud2pPIiwibWFjIjoiYWFhMWY1YTU1YWI2NTNmMDY0NGI2YmE2MmZjZDY1NTUxNmRhNWU5ZWE0OTAwODU1OTkzY2NkNzYxNGExNGEzOSJ9&amp;signature=ba4ef7b598add583c3e6e40553aca905c201e8f5c864e7d4d5a450c915515302</image>
-    <start>10:30PM</start>
-    <finish>11:00PM</finish>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IkFKN2pieEV3OGZXN1ZOaFFsanU0R1E9PSIsInZhbHVlIjoiUjBHamZ1OWZtajFkRklkQTdYbHR2T2p6bCtnRk10a1FZZFprNTlkY041eUVaXC9YcVZjaitJc09MWlpRcVNFRHFGZEpqZFNWVnNhMU5GeStnMThBMVlvb2dCMjJ3dnExVEdMREJTbGNpV0tlMlJqUlZRSm5cL3pkdnNpeUtIUDFRNSIsIm1hYyI6IjlkZTg1MGIyZWFmMmIxNzdmYTA0YTY1MjU2NzUyNmIyZGI4MjIwNzZlZmEyNjdmMmMzNzRlZDFmMmVlMmU4MzgifQ%3D%3D&amp;signature=8ffc2ac8aa2d64a9450be653b1900ab75bcd678528c8d327158077348ecece93</image>
+    <start>11:00PM</start>
+    <finish>12:00AM</finish>
     <date>06 December 2025</date>
   </channel>
   <channel>
@@ -113,31 +83,21 @@
   <channel>
     <name>CGTN French CN</name>
     <id>CGTNFrench.cn</id>
-    <title>Pour tout vous dire</title>
+    <title>?chos d'ailleurs</title>
     <desc></desc>
     <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
-    <start>10:45PM</start>
-    <finish>11:15PM</finish>
+    <start>11:15PM</start>
+    <finish>11:45PM</finish>
     <date>06 December 2025</date>
   </channel>
   <channel>
     <name>Classica IT</name>
     <id>Classica.it</id>
-    <title>Stravinskij - Suite italienne</title>
-    <desc>Il violinista Leonidas Kavakos e il pianista Daniil Trifonov interpretano la Suite italienne n.2 di Igor Stravinskij \(1933\) nella trascrizione per violino e pianoforte dal 'Pulcinella' \(Festival di Verbier, 2014\).</desc>
-    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IlZoK2NDMUR5aVI3TnBjWVAwVzlZbUE9PSIsInZhbHVlIjoiTjJZSUpUbzZvQVY1R2haQzhhU2lPUkI0cTBaYzV6WG1KbEJKRVpOeDU3bmN4OCtsWllROTlqRXZLb0JIVU9jXC96bWU2WjlkUlQ1Vzd1eWx4MGJcL0hwTnl6TTRDd3lyOENFc1VKaFZ0c1JkNFJDODRPd3Yzam13ZGdxcjVpUkFNNCIsIm1hYyI6IjRiZTQzM2JmNzUwOThjNWFkZWU3Yzk3ZjE5YTk5MGQ2YjU2NWNhMjcxMmZlYzgxZTQ5NWY5YmJjNWI3ZDQ2OGIifQ%3D%3D&amp;signature=4610cf0c31787b2e648c7f1db04efc4f065ce4b024165a9aba526e0919394bd1</image>
-    <start>10:40PM</start>
-    <finish>11:00PM</finish>
-    <date>06 December 2025</date>
-  </channel>
-  <channel>
-    <name>EWTN UK</name>
-    <id>EWTN.uk</id>
-    <title>Called to communion with dr. david anders</title>
-    <desc>Dr. Anders answers questions about the necessity of being Catholic rather than being nondenominational, the end times, and the difference between devotions and sacraments.[(96057)] </desc>
-    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
-    <start>10:00PM</start>
-    <finish>11:00PM</finish>
+    <title>Andrea Bacchetti esegue Bach</title>
+    <desc>Toccata in mi min. BWV 914, Corale BWV 691, Preludio BWV 846a, Minuetto BWV Anh 114, Aria BWV 988 - Suite francese BWV 816 - Andrea Bacchetti, pianoforte \(Genova, Teatro Carlo Felice - 2015\).[(96057)] </desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IkZUb1hBYXdtaUZRdUNwaytUTUY4aEE9PSIsInZhbHVlIjoiQVJLRFFrd3I4cllqTHFKWkxqOGdvdlB0cm1CMDR4RndEQ1N3UjdKNEJ2eFpZemc5QjJPaVBkb1N4Yk5pN01Pd1dQZXNpU3BzSXhpeHlqQjI1a2J1U2tEV204aDNESWpiUVMyUDZrTkxsNzV3bXBcL2pDS1p4aEZaVklQays0MGgwIiwibWFjIjoiMzExNzllNDgwOGNmZjgzYzRiNDk2NWEwZGI1ZGIwOTA2N2IwZDk4ZjJkNmQ4YjZkYjMzYTQ3ZWFiNmIxY2UxOCJ9&amp;signature=3beaf0e4267e0e07ab6b761c2bb12974c2201684f95d6e3432204679caee4ab7</image>
+    <start>11:00PM</start>
+    <finish>11:30PM</finish>
     <date>06 December 2025</date>
   </channel>
   <channel>
@@ -145,39 +105,39 @@
     <id>EuroNews.uk</id>
     <title>News</title>
     <desc>The leading news stories of the moment.</desc>
-    <image>https://epg.best/assets/program-icons?program=eyJpdiI6Ikk0VUswaUJqbHVLZlU4OERlMUVNanc9PSIsInZhbHVlIjoiRitWWGdEWW9qVHJ0YUplRVVqZmQ2UTVjTlFKRTY5eDhTVytsS1FJbjNQdXM2bUJCRUxcL2FBM05lREdEVGNlXC95ZkRxK2hhQ052ZE5zaFRhMmkzV2tKcnR1OHp3S2tPUDU3b0tKNG51UWY3UmFYYUtrU0hnS0pKYkw4UHhmNXMwTTc2SFk4M1VJMEI0a3kxT1VhaEUzelE9PSIsIm1hYyI6IjE1MmJlMThlMzM4ZmE0Y2IxMGE3MWI5YWU1MDE5YTkyZmFmYTkwYTVjYjc2ZDQyZTZjMjEwMjc4MzVkMzU1MGUifQ%3D%3D&amp;signature=d6d463a21c550c3cb33a08e655b87237c30e8e1fbbc346114b084db0e0f9ed22</image>
-    <start>10:48PM</start>
-    <finish>11:00PM</finish>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6Ik5qVU5MYUp4ays1UG1BTkVSZ04wYmc9PSIsInZhbHVlIjoiTWtJa1FxQ2x4UlhBQVJwYlwvR1ptRklRSFZZa1VBYmg5RUxsM0JaeXJIKytZTER4Z2JCRFhSMlYycmw4UmhzTkN2WlJTczBjNXRwV01XckVsckN3T0dNXC8wZkgyVnZOXC85M3JJVlorKzIzTkl1a2RpKzBTak9id0Vzb05WSkNRRDBGMGR2Qm1YckJjaTRLV3M5NE04blhBPT0iLCJtYWMiOiIyNzI5Y2E0YmZlY2ExYTJhNDA0NjlmZGRiNTQ4ZTRmMmFiY2Q2NDZmNzBmMGY3YThmODM2NjljZmU0ZjhkMWE1In0%3D&amp;signature=a930305758667997e9beaa19c1db80c46cf719a098e2dc705d01a25a6efd4360</image>
+    <start>11:05PM</start>
+    <finish>11:29PM</finish>
     <date>06 December 2025</date>
   </channel>
   <channel>
     <name>France 24 Fr</name>
     <id>France24.fr</id>
-    <title>L?gendes urbaines</title>
-    <desc>La \.</desc>
-    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IjNHSFJpXC9hM085bitJYUs4RFBNcHBRPT0iLCJ2YWx1ZSI6IjQ3MldBMGxNa2hlTDJsOEhcL2lQK1wvY2JlZk1SQk1iXC9oR1B6d0hBdmtCbks2MUtwbTFYVnlEeThxWEZISHk5RHloaWw0ckh6TUE5OTRRcnNKMTk3d08yWElLbm9PNzduZENXNkRKanVyVU9KYXdIWEZcL2syY3hRQ0poWVdsRnZTYnhFU1N5MUNwcHcrdlVzRUs2NTI4V3crMTNjS29Ed3B2VWthVVlpK2t6SXdISG1MNXY0b0QzM2cyTVdnYklxUGEiLCJtYWMiOiI1ZTRlZmVlZTU4YzYxYzc3MDc4ZTJiM2Y4MDk0ZTQ1MzI4MGI2ZGE5OWIyNGNhYzcyZDk3MzVhZWFlMzllNTUwIn0%3D&amp;signature=c48b2d672dddf76f4dd8cb579ef75942bb175275e2e3993d636dc299eed2766b</image>
-    <start>10:40PM</start>
-    <finish>11:00PM</finish>
+    <title>Le monde dans tous ses ?tats</title>
+    <desc>Rapha?l Kahane d?crypte, en compagnie d'un invit?, l'actualit? politique et g?opolitique d'un pays, ? travers des reportages et analyses des correspondants.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IjZlOHhrZ1pnZDdEZ0JmbnoyM2xcLzBBPT0iLCJ2YWx1ZSI6IkdxSGpPZjlablZodmd0MUhMaVhrTWhmRDlacTRPN3BSeWhSUXdrZHhBdnNiczhCZ0dYcU53b1VOUDVZYVwvZUw5dzNRK0dTNDZOYWhQdkk0YlwvSzNCUXpZOTN4aGY1bzhkdlRjUjRscjJuaVdqcFM4VGJRRHRjXC9IUmtRcDVMTjhGS2xvQ1ZOekNBVlA0RVFlbmVxRm9zWDhLVjQrZHVWTjhmYnIwWGJBUEhjdFJqelY1VTNDNUI0Q00xMWpPRllZSyIsIm1hYyI6IjdkN2FiZTc4N2VjM2FhNWFiODNiNzBlNTJlNWM0M2ExODMxMjNhY2Y4Zjg2OWUyYTI4NTI2MTM3MGMxNjRiYzgifQ%3D%3D&amp;signature=9b9953ffaf3ef6db689f8a8583b7522bb1d234485f400b853eb86e91d8f35971</image>
+    <start>11:15PM</start>
+    <finish>11:45PM</finish>
     <date>06 December 2025</date>
   </channel>
   <channel>
     <name>ITV 1 UK</name>
     <id>ITV1.uk</id>
-    <title>Romesh Ranganathan's Parents' Evening</title>
-    <desc>Joel Dommett and his mum Penny, Tony Bellew and his son Corey, and Vicky Pattison and her mum Carroll compete in the game show where success lies with parents.</desc>
-    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IjhnZmRtYkFNOWZXWVA4MzQ4OURmR0E9PSIsInZhbHVlIjoiT2dTWUJVYkk3Zm8yMXlUNkdYNlRCdVd2Nm1HM0JFTnRTeUZkZWNiTzBLNUE5RE1pVXFFTjB2OWl3Y1JQWUNJalFUcEJhZmpjbWpZTm5ZeHdxNmszRzhTVDhrTXRxVm0wQ01oUEV1UlwveDVIU2VGbXVzRjB6QTJlUzNORnp2MjF3aWZSUnYrOVdya1VzdEo4bjdYQ1NKQT09IiwibWFjIjoiNjJkOTE3YWQ4NjFkNDhkZWRkYTAyOTNhNjNkZGUyNWYxN2NhMGI2YTg1N2YzMDE1MTE1MzQ2MzZmOTllZjQyZiJ9&amp;signature=7244b13b25d5d759a134bd68c29622fcdafab6c39645f150355b584c8b923d52</image>
-    <start>10:20PM</start>
-    <finish>11:15PM</finish>
+    <title>ITV News</title>
+    <desc>National and international news with reports and analysis from ITV's Correspondents in the UK and around the world.[(96057)] </desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6Ijl4QktiZVwvdjg0XC9WaUZNQmJvbnFzQT09IiwidmFsdWUiOiJPVitQNExLSlk4UkZ3ZWt1YWVROFU5Y2Rra1l6WGV4NUdXXC9NMXo1ODRxUm5pNENuTDY2OWx3VGxZWjRLOHBQRFdXTFhvQVZrTU1rZmlrcDNXMDFPU1k0bHE2cytyQUttVVFzTm9KVGhFY1R0UURTY3RGcUdSckk2aXhrbG5Xd3lSQTR0dmRSVFBtck1PVlpwN0RlQWZ3PT0iLCJtYWMiOiI2N2E5ZTMxZmM1ZGM5OWQ5ZGZmNDNmOTJjZWFlMjI5NGZlZjliOTFiZjU4YzUwZWI2ZTkwNzIzNWJkMGI2MWQ2In0%3D&amp;signature=256ebb5dc8a9d51c60883df9c7fa56df3768b47bb2c60d3cb5da8831c58c748e</image>
+    <start>11:15PM</start>
+    <finish>11:30PM</finish>
     <date>06 December 2025</date>
   </channel>
   <channel>
     <name>Kuriakos Tv PT</name>
     <id>KuriakosTv.pt</id>
-    <title>A Rota - Temp. 9</title>
-    <desc>Programa de ?ndole cultural onde se viaja pelo mundo ? descoberta da hist?ria, cultura e gastronomia dos locais.</desc>
-    <image>https://epg.best/assets/program-icons?program=eyJpdiI6ImFcL1V3UEI0dTlQR2E5OHBsSVNDZXh3PT0iLCJ2YWx1ZSI6ImZ5cnE0dFhPZW1QVlFCTXl1OHVCYmcxNnlnT1lZaSs2MWx1TVdBTWsyeGxNc3NYcGtUWkh2ZEZ2XC9ETnZXQndOZWVlRU90UVwvY3FQZE5hdXhUcG5WNUNxenM4MlRackxwYUpHSTVGVTNTdnk4RStWYUxFb1crOEdhWWJTZjZjdXg4TkVaajd5amIySzQza002UDloc1FnaXdIXC9jelFwOFFQeHJhYWRzR054SWo4eUlGb1k5bUVKV0pEOXhRZEhraURVd3o0TDNEVjhsNWNkZERJcVBtbnY5aVd1eXJ2V21zTWxVQUdLK0hLTmZKT01cL3BqWWxXRnowXC9SQW4xXC83M1kiLCJtYWMiOiJkNGQ3ZGE1NTlmZWE2ZDYyNThjNjg0YmFiMjk2MzExYjMwZTU5N2ZkMzcxZDM0ZTIwMWFhNWMxNTQwMjUyNzhmIn0%3D&amp;signature=60c4e5747b8976e13487030adaf65fbec28b122ddc787f30f9ca54cd19fdfc5e</image>
-    <start>10:30PM</start>
-    <finish>11:00PM</finish>
+    <title>A Hist?ria e o Conhecimento</title>
+    <desc>Document?rios. Following the Messiah - parte 2.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IlZldVJaclwvYXk0S3Nra2hZcWxVZEZBPT0iLCJ2YWx1ZSI6ImZZNzlwNG10Z0p5SlFCdDh2eVloUDY5OHZyelVaNlNZakljU204cTJZSHdhVENJVVV3S2U1YTBieDZCeWwzXC9Hb1huVWd3STBiYjA1VW9uVXhEditBOGora3F1R0tnWW1rUUNXQVdsY2FYZHphZ2xJZ3pvVW1FOTA4cm9JNnJnQm0xMTRMZTVRMUlGTFdxSEhBRWtsMmNJZDJPWGFhWFIxMFFGNVFjYitUNU1OcXdjRklUV0xzNEdKOHhZaXA5NnI1TVdjWXRCRk5nUUhuU25TU0M3NUJBS0hBb0l0ZXZtZ2JYRE56RHZYNkhkMTcwZm9RSkMrclFUNFBOeTZqM05SIiwibWFjIjoiNTIxNDBkODRlYmQ1M2UyMjNmNDMzNjM4YzljODhlMTEwZTZmMjBkZmI4MDZkOGNkYThmNjBkODNmODA0OWIwZCJ9&amp;signature=26dd9e4b5acf7494d25b9fd2127839f39f10fe57816d5f578e131112191d848f</image>
+    <start>11:00PM</start>
+    <finish>11:30PM</finish>
     <date>06 December 2025</date>
   </channel>
   <channel>
@@ -186,98 +146,28 @@
     <title>Cine</title>
     <desc></desc>
     <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
-    <start>08:56PM</start>
-    <finish>10:56PM</finish>
-    <date>06 December 2025</date>
-  </channel>
-  <channel>
-    <name>MTV UK</name>
-    <id>MTV.uk</id>
-    <title>Ink Master</title>
-    <desc>Fueled by bad bitter blood, Sirvone Smith battles the relentless Tuff Tito. New school legends Jime Litwalk and Craig Foster put an old rivalry to rest.[(96057)] </desc>
-    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IkNXb3BQUjFBdnVmZlBRY0VPTFFDRlE9PSIsInZhbHVlIjoiaHU4cTBHaVYrK29yRkZxTGxyUHN2YnJUNFpNWUMwazFLS3VoczRsR041YjNneTNqQnFQQ3JtcDd1Y2l4MjFydjN5WEduKzg1dW4rMXhNblBmQ05NclVOVW9jTUJEY0hTUGoxNHUwalRJdmFWS1BFTzFvNnBwSXNteTNtN1wvOFwvcDZaMjVBNDRrOGpFT25vSlMzSWJhbVE9PSIsIm1hYyI6ImNkNjgwMWRhZjQxOTEwYTJlNGUwNWU5NDI2MDRjOTk3N2UxNzcxOWQ0NWZkODBhZmYyYjlhYTYwZTkzMmZkNDcifQ%3D%3D&amp;signature=3ad33f35978e7dc8aadc56fc581a7eec35d33d481430046d66507fed92efcad4</image>
-    <start>10:00PM</start>
-    <finish>11:00PM</finish>
-    <date>06 December 2025</date>
-  </channel>
-  <channel>
-    <name>Movies 24 UK</name>
-    <id>Movies24.uk</id>
-    <title>Hanukkah On Rye</title>
-    <desc>Sparks fly when a matchmaker pairs Molly and Jacob, until they discover that they are rival deli owners. Will a Hanukkah miracle keep their love afloat.[(96057)] </desc>
-    <image>https://epg.best/assets/program-icons?program=eyJpdiI6InRvWDNJVGwrQXp2MmV0WlZXUEhFVEE9PSIsInZhbHVlIjoiWmM5ZWlsRDZCQkFLMVZSd2p2WDZrS0VcL29hQmhHd0F0SEUwTWJEMzRVeGZuU0JtVHltNktBSFFSdVNLTnJrSmo5UXpWek1pTFo2Tk5GUWxHZWZCSDRQZHhuTTRVQXFDM0ZnMzlpNXpaSGE3dTNEeCtudnZvNmw3aHRQclwvTXptWVdMTk8raHVBRE9SaG9CZnRkeVhDRkE9PSIsIm1hYyI6ImRhZjkwYTgyYmYyNjE1YTM1NDQyMzNlMDgwMDJhNmIzZDVmNWZhOWFiZmU1NmZkOGE0ZTdlZTgxODE1MGY4ZWEifQ%3D%3D&amp;signature=133218a21c05b5c1b49216038abea5a0959e384ec8f1a43158989f3dbb6a6d63</image>
-    <start>09:00PM</start>
-    <finish>11:00PM</finish>
+    <start>10:56PM</start>
+    <finish>01:02AM</finish>
     <date>06 December 2025</date>
   </channel>
   <channel>
     <name>Nick Jr UK</name>
     <id>NickJunior.uk</id>
     <title>Peppa Pig</title>
-    <desc>Peppa and her family finally make it to Hollywood and arrive at the film set to meet Mr Potato and Hash Brown.</desc>
-    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IjVRenlRXC9DbTFxdGJDTWFXV0g5RXpnPT0iLCJ2YWx1ZSI6IkRINE05YWwwdGhXXC96QzM1WXB0K0F2bHNzZ29PZklKYURBNGVtSGFUQytadlo5WE53aXYxbVpnT2FrbTd4bHR4XC9laWpmOSswWVlYSmZSejF5TU5iWm9ibDBxYThnYldVXC9WNDh5dzdTTytNRjBodUdYUzVmV2hUTHRjSVJhNW82SFpvVTY3R1wvT2t4Q2YrTEJEdG1BR1E9PSIsIm1hYyI6IjZmOTA3YjZmNDQwZTkzZjEyY2I4OTlmZGExZjk3Y2FkMjU3ODdjNzI4ODAyMzRkMjIxZDVlNzRjZDlkOTg4ZTcifQ%3D%3D&amp;signature=c088206ee35f5be970b890b9f1cb723576d437554421114df282b8c2f89b6b35</image>
-    <start>10:45PM</start>
-    <finish>10:50PM</finish>
+    <desc>Peppa and her friends play some very active games in the garden and together they learn to hop, skip and jump.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IkJNZzAyajhlakN1cWRzeEZ0RmhMckE9PSIsInZhbHVlIjoiZXdZK21mTHBHaVwvYUhXWkREd1BLRndpR3A1MzhCc3VMVHhLcVdUWXBCMGZENENHd1hneHVpY3JEVHpGTlVTUjduc1J2SmJ4VTRsRkpKQ0JPY29CZ1RKaHRwUFBKZ05cL25kS1NHRjB1bHpqU2JMSTdMV2hxS1wvWEM3QjFcL05RS2kyejBCdWpQNzh0WkdwZGhHTTltQUl4QT09IiwibWFjIjoiZTRlNmY3YjIzODc0MTAwNmY2YmRiZDM2ZmYzYzUzNjkxZjUxZmVjMjBmZWFkZDQ2MWRkODI3MjVlMzFlODdhOCJ9&amp;signature=a87c714467dd0ce36273a22987ee1825e65ff050a01c4eb557c392c30f42aa97</image>
+    <start>11:20PM</start>
+    <finish>11:30PM</finish>
     <date>06 December 2025</date>
   </channel>
   <channel>
     <name>Nickelodeon RO</name>
     <id>Nickelodeon.ro</id>
-    <title>Un show cu Patrick Stea</title>
-    <desc>Cu sprijinul familiei sale, Patrick Star joac? ?n propriul s?u sitcom fals ?i tr?snit, ?mpreun? cu prietenii s?i adorabili din Bikini Bottom.</desc>
-    <image>https://epg.best/assets/program-icons?program=eyJpdiI6Ild3czNMd1Ayc1YwTk1IXC9pczBWbmtnPT0iLCJ2YWx1ZSI6IlVKQ2VLY1g2TERFOFdRWmJ4c1I5MERLYktqeDJHZGdQVmtFTHBrbUVRcExzYTJWTnZSZDhmZDlkMWhteDFwME02Q2F2N1pCTlwvblJocEFsM0tEeHZsR0V5ZU1NdmJYUWVLRFdJTVNUTTNJNW5ZTGtPNVdHc2tURFhtT3hZSWRQNUVPYU9cL2Z5OStZUzloTnNuQ3QyVVZzWjJHSEV4MTBhdHhWTTlWZXEzYmpjPSIsIm1hYyI6ImU0NTE1YTFhODVhOGFhYjAzYzAzZDg3YTVlOWU3MjQzZDc5ZDlmY2VlNzg2NWQwOTRmNzg0MDFmMzRhYTA1NGYifQ%3D%3D&amp;signature=9940409980d207e232983c27dd2e5045c7ff5f3b39619e24886f509be25ef74b</image>
-    <start>10:25PM</start>
-    <finish>10:50PM</finish>
-    <date>06 December 2025</date>
-  </channel>
-  <channel>
-    <name>PTC Punjabi UK</name>
-    <id>PTCPunjabi.uk</id>
-    <title>Punjabi Beats</title>
-    <desc>Punjabi Music.</desc>
-    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IllYSjMrNW5qeDF2SzNuKzBvU0hPQXc9PSIsInZhbHVlIjoiMVRWU2h2TFZNTHBhUUd0eGZldmJnT2h6b2xcL0p1UzhtemRtS3hNU2hKVGNyNEFjdFY1UUtSeVF4TTkyUHZKenBTXC95aHYwbFd4STNkdG5TV2w2Z2gybmNFUXVuMjJhZnJJcWdtZUpqT0ZZS3AzOGQ0Nnhueng0cEw2aHRlQ1JtTEtWZVp2S0M3WVZpYXVSeGFMMVlNSUE9PSIsIm1hYyI6IjI3MmE0MmM4NDM3M2E2NzhkM2NmM2UxNzkyNTU3MGRlMDU5ODYxNGIyMjVkZDczMWQyOTIxMWE2MDgzNzAwMjkifQ%3D%3D&amp;signature=8b1fe71fb005fcec0c82e2a989906e82a6d9f02feeab89f1fe9ef60d9d8f0366</image>
-    <start>10:30PM</start>
-    <finish>11:00PM</finish>
-    <date>06 December 2025</date>
-  </channel>
-  <channel>
-    <name>QVC UK</name>
-    <id>QVC.uk</id>
-    <title>Last Chance</title>
-    <desc>Don't miss the opportunity to load up your sleigh with delightful decor. Featuring a gorgeous collection of charming home accessories, grab these must-have items now.[(96057)] </desc>
-    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
-    <start>10:00PM</start>
-    <finish>11:00PM</finish>
-    <date>06 December 2025</date>
-  </channel>
-  <channel>
-    <name>QVC Beauty UK</name>
-    <id>QVCBeauty.uk</id>
-    <title>Best Of QVC Beauty</title>
-    <desc>All the highlights and star products.</desc>
-    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
-    <start>10:00PM</start>
-    <finish>11:00PM</finish>
-    <date>06 December 2025</date>
-  </channel>
-  <channel>
-    <name>QVC Style UK</name>
-    <id>QVCStyle.uk</id>
-    <title>Best of QVC Style</title>
-    <desc>Catch all the recent highlights from our sister channel with the Best of QVC Style.[(96057)] </desc>
-    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
-    <start>10:00PM</start>
-    <finish>11:00PM</finish>
-    <date>06 December 2025</date>
-  </channel>
-  <channel>
-    <name>RTE News Now IE</name>
-    <id>RTENewsNow.ie</id>
-    <title>Saturday with Cormac ? hEadhra</title>
-    <desc>Cormac and guests unpack the political week with lively debate.</desc>
-    <image>https://epg.best/assets/program-icons?program=eyJpdiI6Ik8ya3JOQzlrV0U2RWNWNzJPaWhXRlE9PSIsInZhbHVlIjoiRTYxTjFUTnE4WUFjcFV2cThvRzFld2F2ZnRoQ1NlR2N4WnprbVoxd3RyZ0VZZVZZQTY5aWdLWCt1SWFCViswTEJYWWxTYVhFOFBBUG8wOHQwRjh6UmNWUVZvaFdWTmtGSE9OQkFTUmZTR0FsQnRtclhxOXdUeFp1T0VUYnZVR1NIbGNsMm1QWG15NVA1UExkcmJBSThRPT0iLCJtYWMiOiI2YzM5YTkxNzIyZDYyMGUzMjNiNGY3ODk0NGZmZDJmODZkNGU1ZTA4ZGUzYmRlZTYzYmY4ZjA0ZWJiMjNmZGFkIn0%3D&amp;signature=62c07427875acd28b7f5cf4d9c35fac1707368c703435dd97a649a85d866e94a</image>
-    <start>10:00PM</start>
-    <finish>11:00PM</finish>
+    <title>For?a Pericol</title>
+    <desc>Eroul Captain Man ?i inventatorul Schwoz recruteaz? patru copii pentru a-i preg?ti s? fie supereroi la Academia pentru dota?i din Swellview, unde copiii sunt ?nv??a?i s?-?i foloseasc? superputerile ?i s? se lupte contra r?ului ?n echip?.[(96057)] </desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IkJ5SWFHODRLd1ZFSXRIa2s5YTBGUWc9PSIsInZhbHVlIjoiOFVOOE1FSHBMMnE1aVZHYTI4Y1BZNmF4bkMzbnNvN3VMQlNqQm5ocDlhbVF3bUJlMklIZUNyQnZacjZ5T1dqVFdsUFVtb3dhejhKb09WNFRnXC9qdEsyUVNVWktXRVlGbWtMNWRxWFMrVDlMd2h6aG8ybGJIZ2M5emhlcGNTaWF4Z3IxaU42TUFrK25UV2pLWkhaYXFpdz09IiwibWFjIjoiYjk1MmFmN2QxNjkyMTJlOTdkMThjYzg5NDVjZjRhNDA1YjAwZGYxZTkyZjNlY2Y4YzU0YTBhZTJhMmE4YmUwZCJ9&amp;signature=84533631c79ae5b8fe39fa3f62689688d2eb758b9f148a6cce4af1ef9a67ccd2</image>
+    <start>11:20PM</start>
+    <finish>11:50PM</finish>
     <date>06 December 2025</date>
   </channel>
   <channel>
@@ -288,26 +178,6 @@
     <image>https://epg.best/assets/program-icons?program=eyJpdiI6IlN0UndSMVF1V2FxWVN6c1FyczVOQ0E9PSIsInZhbHVlIjoic0tiT2pIdk5wNXduZzJ6bGgrZ2tOTk1wY0pNR3F6cXEwbGZCZmhHU1pJVVhHZnhyOGZkM3JaWTJTUDVkT3MySWFuMXltSkhFMkFKM05PMzFUMmlLMVBWditKbUkwcG1XNmpIeUg2SEZMdjZ6UEgxa3dqcjJJN25NQ0pXYjZQVVciLCJtYWMiOiI0MzBlNzIxZGM3NjJiNTNiYTc5YTYyN2EwZjU3MjE4YWY4NmVhZWIxMzRjODE2ZjA3YzZlM2JiYzE2OTJjYzBhIn0%3D&amp;signature=6e530d111bde6577af311bbd8a90553e1a06ab0b6f899cd5cfb0943f193b7946</image>
     <start>09:01PM</start>
     <finish>11:30PM</finish>
-    <date>06 December 2025</date>
-  </channel>
-  <channel>
-    <name>Real Madrid TV ES</name>
-    <id>RealMadridTV.es</id>
-    <title>Real Madrid TV</title>
-    <desc>No hay descripci?n disponible.</desc>
-    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IndkY29wZmpDV3AxWk1ENnRNMzFubHc9PSIsInZhbHVlIjoiWk9Idm1xaVZoQVIxSGlnRTRTalV0T1phVmk0ZDVXTDZ6TzNmVWZSXC9JelA1Skt2cGFBaURhczJmeU5jQlArMmNFRlVHdlZrNytvaEkwbkdCRjNJbU9ocVIrcmMrWmFhWkUzZUlsd3NsS2FvQjFqSmIrWVhsaHVhbitFUTNYTXRVIiwibWFjIjoiYTZlMDgxMjA3NzMxNDZkOWFlNzZiY2ZlNTgzZWRjY2MzOWQ2ZGFlYTM5YjE1M2ZkNDAxZWE5MTAzN2UzOWRmOSJ9&amp;signature=dc5d2b575030b6c22d542fcf2feb17e959bb53ed082c923c7f76d01d8e95e8db</image>
-    <start>07:00PM</start>
-    <finish>11:00PM</finish>
-    <date>06 December 2025</date>
-  </channel>
-  <channel>
-    <name>Rtp África PT</name>
-    <id>RtpAfrica.pt</id>
-    <title>Faro</title>
-    <desc>Ao amanhecer, ao largo de Faro, pescadores avistam um veleiro e descobrem o corpo de um homem vestido de forma estranha e atado ao mastro da proa. ? Abel Santos um importante e conhecido advogado da cidade. Helena Ramos e M?rio Justo da Pol?cia Judici?ria (PJ) investigam o caso.[(96057)] </desc>
-    <image>https://epg.best/assets/program-icons?program=eyJpdiI6Im1cL2RHU3k1OXkzSkoyOGFrT0pSOWFnPT0iLCJ2YWx1ZSI6InBjODJyQ2hjMVhiVSt1T1FqZ3dyMnM5VkQzUlwvUmw2UzZrelR5Y1VRTDlNMFpRMmNHR0xDS0t3VnRXTHNSK0Z2Q2ZIUTVmODNBSjVDdjI1WDdNKzFTS3dSelVBbG5GUU8wSkdOXC9IT2tOd0lUR2x1RmRScjVKOWR3dDlCZ0JGaXhOdzRoV1lUME1uZ1V2R2FmaHgzUmRtVzZjWXRoWXlOQzlHOWIwSUFYUFdGR2JRVk03NzZTZHlycTFDTTM3XC92ZkErdzBvejdSRFpmRXpyQkp0Z3o4XC9VcjhZVWNVY3FZbElHWXNabDFcL1VMbmhOR0NHZ1JGcUVReGhZQ1dldmF3WSIsIm1hYyI6IjdjYmM0OTdjYTAyZjE3YzZhMmNiOTdmZjY2ZjZiNTNiODFkNmVlOTllZjkzY2FlMmVjMTkyNjFmOGU1ODJiMGEifQ%3D%3D&amp;signature=d09d1343812874a466c1675058f80b060aa1e93e60d628623405c538120397dc</image>
-    <start>10:30PM</start>
-    <finish>11:15PM</finish>
     <date>06 December 2025</date>
   </channel>
   <channel>
@@ -333,11 +203,11 @@
   <channel>
     <name>Sky News UK</name>
     <id>SkyNews.uk</id>
-    <title>Press Preview</title>
-    <desc>A lively look at some of the stories that are featuring in tomorrow morning's newspapers.</desc>
-    <image>https://epg.best/assets/program-icons?program=eyJpdiI6ImdcL3hpNzdNZkZPZFZOWDVFeFUyUkhRPT0iLCJ2YWx1ZSI6IklqQTFLZWdYeUZpd2tCclZ5dXZ1clJZT1hqdVpGaERvbmlDdzgzSnkxdk13YytmeXNRQTFrRjlaN09RNXRjeGdlekc1Tm5ubFNuWWNNbTh3Zld2UFRBTzlCMVVZekZvdWpVNUV6S1RCNDBFd2tqTkRQeXU3WWtVMVwvbGlqNytyd3NSMDNTa3BoakI2cTVhNmd0T05IU0E9PSIsIm1hYyI6IjE1ZjU5YzIyNzNiZDBjMjlmODRlMDMyNDJlODg5OTY2ODdiODJlYjMyNzJjOTRjMGNiNzg3ZmMwYTJkOTU1MWUifQ%3D%3D&amp;signature=26d02d58c8cc63193b32ecef10b6e2f24dedfddbf8b7bdac9d31fdc1595fe4dd</image>
-    <start>10:30PM</start>
-    <finish>11:00PM</finish>
+    <title>Sky News</title>
+    <desc>The main news of the day with reports and analysis from Sky News correspondents in the UK and around the world.[(96057)] </desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IlRCbCszellVUXdmemVQeW52OFZ0ZlE9PSIsInZhbHVlIjoiMjExcjAxUVNQZlwvc3NKU21uT0c5R25vTTdXeXlHenBBVzMzUVdrM3JRQWFzaXRBYk51U2tTSExFME5kOGRvRktTekhPVHZ3S1MrU0lxa1FJenhRdXJ3clpNUit5NlZnQ0NJcXlaRkc1Y2hyWFBEMjNZR3NWRlJacVBQZGxcL2pDbitoYk8xQk11aHRMKzJLQ3lUQVVBaGc9PSIsIm1hYyI6IjRhNWViYTMxOWVhOWEzNmUxNzkwYmY0MGU2OTNhYTVhYzM1YjgzYjkxODQ2NDRlNTQyMjc1YWNhZDk5NDEzMzIifQ%3D%3D&amp;signature=c61fba467307946c7fcd246da480472b924f82665f3f321a7c7c3de36c01d7ca</image>
+    <start>11:00PM</start>
+    <finish>11:30PM</finish>
     <date>06 December 2025</date>
   </channel>
   <channel>
