@@ -3,31 +3,31 @@
   <channel>
     <name>Afro Music Channel PT</name>
     <id>AfroMusicChannel.pt</id>
-    <title>Fresh Music</title>
-    <desc>As m?sicas mais frescas do momento est?o no ?Fresh Music?.</desc>
-    <image>https://epg.best/assets/program-icons?program=eyJpdiI6ImtjdklXY1wvMVdabmNGYXFzcEZ3QXBnPT0iLCJ2YWx1ZSI6Im1xM0VraFNOMVpPaVFmSzE5SVN6K1wvaU9HdmdFWjc2Q1NcL0padE5xZEZcL1AwVVdQeGg2T3Job0kzNlNOajRLY1VRTHVJQlB6a1wvXC9oOHJ5QmxLYlU4Um11VHBGUXJLQkg3bVgzU0UzRzZzdTJyekM4djZKSVwvK1FHUDFqcXdPR1JYK2cwa0JYNVd0VG5xS2Zvd1RJUTdpb05JRmVLY2tPR09GTlhiOXdab3lWUVl6Y251b2JJOVdGaDZjc2x2SVFwbkRkdExGU09MT1EyTUVxV2VjNWxIcHFmdTl6bGRHeUwyNm5YV2xRdnVaa0NpODFYZ0ZPQjZHNjlWemhDVHJ6cGwiLCJtYWMiOiI5M2Y1MzE0YTFjMjlmMGQxY2U1Yjc1ZWQ3OGQ3M2E3ODE0YjMwZWFhMmM3Y2EwMTU5YjZmZmRmYzU2ZDgwMWQ1In0%3D&amp;signature=b8e94c10ad77fc4bcc9c1d993d560397a770ed0bbef89191af88130765ee4b59</image>
-    <start>06:23PM</start>
-    <finish>07:13PM</finish>
+    <title>Around The World</title>
+    <desc>As melhores m?sicas dos ?ltimos anos\u00A0e uma programa??o ?mpar, tudo isso em um s? bloco.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6Im5RUFp4akowU3dRZ1IwekJPNVNSRnc9PSIsInZhbHVlIjoicE41XC8zR0hPRGNSZXl6SEhDRUpnWFJ5Z1pOdkZpUmJOaDFGMHpuUVpXbmpPdTNFbDdvbFplRVhnVDZEN2FYMUFGNVJGeittUjMwUjBnbHVLQmE3YUhZU25oQzhTeXA3ODYwN1UwaUM0XC9nTkdqR0lFS3ZaQjdqQ3dPUG9iakdaYlwvSTJETDVvMmt1bW16aWZlaWJDR01pYjhzWHF0R0RsaUl6RGNVMU94R25qZDVRWUZGN0FhN1FIclQ2WE5EMWN1MEtLYlQ4bW9yVitOalFySk1DOXBDRWlZTnhDUHY4MkdSa1h4aGxMTVFBZXdibFlWMjdmZVNMT0VQQlZVT08yQyIsIm1hYyI6ImNjYjhlNGY4NDg2MDRmOGJkMzQ3NDljYjAyY2Q2Njg4NzRiNGE1Y2Q5NTVhOTFlNzUzZDU4Njc1NzJlYWRkYWUifQ%3D%3D&amp;signature=3abdc3b68522ac120672e9dbf9e28567f0ba2dd4be0d349d65b5ea98092398c8</image>
+    <start>07:13PM</start>
+    <finish>07:48PM</finish>
     <date>06 December 2025</date>
   </channel>
   <channel>
     <name>Al Jazeera English UK</name>
     <id>AlJazeeraEnglish.uk</id>
-    <title>Newshour</title>
+    <title>News</title>
     <desc>Up-to-date news and analysis from around the world.</desc>
-    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IjA5cUo3dWx2OUpDRndXM0trVE9jZEE9PSIsInZhbHVlIjoiMmM4SXh1YkNmZVJ0WmJIcDU1MWxPemZ0cVhWM3J2T3pEMklpSGx6VnJUZGRcL3lMbkk3bnZhOU9cL1Q2cEtaY0tLdkp3V2NkU09wMWlPZEtWTm4zbHVrNTVqSXp2Y2oxRmkzVHZBSzU4V0RibXhwMkJTUTlBVzNuaFdLWmpubWtIQUdrVnl1U2RCZURVYUd0UENlbWhcL2JoTDRNRzJsS01IeGtVSDh1Q2xMQ2lHNWxLVW02cUxrT1hEbkFnenBLbGpxIiwibWFjIjoiY2JmYzhlZmZiNzFlZTliZjRmODEwZjc2NzRkYWM1NDkzNTEwNWM3YmNiNzMyM2U3NWFkZTZhM2Y3ZDQxMDU0NyJ9&amp;signature=d31c364782f12bc432d8be81f0b95f91c3e5afb4be999ff2a46b78e9e0062e52</image>
-    <start>06:00PM</start>
-    <finish>07:00PM</finish>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IkIwcFwvWjlFV2l5Q2cxZ3FTMnFrazBBPT0iLCJ2YWx1ZSI6InlJcnhKUllDbDB1djQ4Rk90aTdQdkd2VlpqMlJ5TG5Fc21ZVGFtT1BcL0Y1K1p4bzVBWkxhdFlWaXFabVNOYzZxK1pMOUUwMXpDQjdCRkpMVHZGdXg5UlQraDJORndJaVpTbW5hUFo3WG9mZHBnV0M4WnlTOGxnYml6Rlk1a1wvZ1wvZ3g2YnFJbFprczNkOUtHeld3K1FpeTZcLzBYMWpTTHZlam00cWc4Qzd4ZXl4b21FSFhKXC90Q01PaFl4SXppUEpFIiwibWFjIjoiYTdkNTM4NWEwMjliNTAyNjcyM2FmMDM4MTc2ZDMwMmZhZmRhMzY5ODYxYWQ5NTNkNTQ5Yjc4MWQ1N2NlOTkzZSJ9&amp;signature=bdf9dccb98f84c6cb714f6b675fb14a8b30c125bd5a3175888778026133712c9</image>
+    <start>07:00PM</start>
+    <finish>07:30PM</finish>
     <date>06 December 2025</date>
   </channel>
   <channel>
     <name>Arise News UK</name>
     <id>AriseNews.uk</id>
-    <title>The World</title>
-    <desc>Global News and Analysis of the Political, Business and Sports News of the Day.</desc>
+    <title>Arise Special</title>
+    <desc>Special reports and a chance for another look at recent key events.</desc>
     <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
-    <start>06:00PM</start>
-    <finish>07:00PM</finish>
+    <start>07:00PM</start>
+    <finish>08:00PM</finish>
     <date>06 December 2025</date>
   </channel>
   <channel>
@@ -43,21 +43,21 @@
   <channel>
     <name>BBC4 UK</name>
     <id>BBC4.uk</id>
-    <title>..programmes start at 7.00pm</title>
-    <desc></desc>
-    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
-    <start>05:30PM</start>
-    <finish>06:58PM</finish>
+    <title>Snooker</title>
+    <desc>Live coverage from day 8 of the 2025 UK Snooker Championship.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6Ik14TlNyMTVjM3lSN2pQRXZpMkVzRGc9PSIsInZhbHVlIjoiM0ZlajZhS1NUWUpPXC85VURBbjQyV1ZmQ04rTFhsWjFsYU1weFN6d0RKUmtXWEtUVnZwTGloSUw3S1kwRFZzM2xQbzB1eUg1bFwvQUJyMlJCejM2akoyN1dpXC93amZnclU2ZWtRWVYzVEwwaG5QSGJuZDBWaG9VSU5ONFR5NkxneDM4YUtQa0RnblVqSU5rVGVTS2NTbWpnPT0iLCJtYWMiOiIwMDI5ODQ4YTYzNDI4MDU0YjM5Y2E4MmI3NjcyOGYzYjgzNDk3OWZkZTE4NmQ5YTIxNWU1Mjk4NTFkOTk1YmI4In0%3D&amp;signature=5c7b418181e0c47ebd738cc8fec0175c7725bc37ae6cd73a0ce2754addc41a85</image>
+    <start>07:00PM</start>
+    <finish>07:30PM</finish>
     <date>06 December 2025</date>
   </channel>
   <channel>
     <name>BBC News UK</name>
     <id>BBCNews.uk</id>
-    <title>BBC News including Sport</title>
-    <desc>The latest news from the BBC including a round-up of the day's sporting action.</desc>
-    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IktWT09xaVwvcFwvN3RiS0hJdnNnWDBxUT09IiwidmFsdWUiOiIzaTRNVmpvdVwvdVg0dFdCQkVNcE9qUFp4VjVvb1wvVEJFWkZjY3BsSzlWaVhWUHkwbUJRXC94TlwveGhkNVJzODN4OXFiR2hPb01CUFJ4Qm1JK3BISG9uZkQ2aXE5SHUyeHVnWVhNXC9cL1Q3QjczMDBtRGdWWjBERFlZRW92VVlSNGdsUDNoVlJ5QXRFSkFHMVRoWEMydEhRZ3c9PSIsIm1hYyI6IjMxNDFmMTU2ZjJhMzAxOWJlZDBiMGZlN2Y0MDQzOTcwNWY5ZjU5ZGQzYTYwZTJmOTM1ZDM1MDZjNzEyZDI5YjYifQ%3D%3D&amp;signature=74383c88965fdd07c03382bed23e186105b930fc76abb9bb3997ee509e513243</image>
-    <start>06:30PM</start>
-    <finish>07:00PM</finish>
+    <title>BBC News</title>
+    <desc>The latest news from the BBC.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6InUwRlZzVkplcUFIaStmQmM4RjRXdkE9PSIsInZhbHVlIjoieTJqMjRyejAxdVdPOTJ3R1wvbGoxT3F3UUZMMGhcL2JMU2pZSytTMkRJd1dOaittMDd5TUJLUGh5MVVxbDhvcGdGR0hEMVkwQUgwRG8xOHAxZlNPUzVPM0M5M3NaY0luTGdpcUxoTm5WTVE1ZThjdmZwSkREbWxxWks0QTRsZFhqc2ltMkc2XC85RWlqTmpwM2dsZFZ4dHV3PT0iLCJtYWMiOiJmZjZiMmFjYzg2ZDRiMGVmZGZhNTM2ZTg2MjQ1OWQ4N2JhNDYwYjJlNzExZWNjM2UyZTQ4NmNhZjFlZjNiNjJhIn0%3D&amp;signature=78aa839bd9ccf1e90667010a7d988c3c30ede4c79446ee4d82e22529cafb4613</image>
+    <start>07:00PM</start>
+    <finish>07:30PM</finish>
     <date>06 December 2025</date>
   </channel>
   <channel>
@@ -93,11 +93,11 @@
   <channel>
     <name>Band Sports BR</name>
     <id>BandSports.br</id>
-    <title>Esporte Agora</title>
+    <title>Acelerados</title>
     <desc></desc>
-    <image>https://epg.best/assets/program-icons?program=eyJpdiI6InpGVTFpaUdTdWQ2V24wWDVCdkw5RlE9PSIsInZhbHVlIjoiRFJvd0QxWlE2QWFCVUdsd3l6cDRhc0pGVEJ4cFlieTRpUDYzd3EwZWc4WW5KMW0zYVpYOHozY3VjUmJtYlltUkVSSEJ0MjNVanBXWHZSNTZZdUtnTXFsakpsVmdmc2xXc2lUVkhYenhSeUYzemdLZkxhajRFS3J3Y1ZLZ2l5Q2wiLCJtYWMiOiI5YjdiMWMwMDk5NTRiY2UwYTg3ZjBmNjA4YjljMzY5NWU5MjMxMmQyZTBlNGM5Mzc4ZWYyYjQwYWJhZDY4MzM1In0%3D&amp;signature=9afaee820c76f2ce452f54e610b6328fd6631896c734620c2a0aa66cf1a906a4</image>
-    <start>06:00PM</start>
-    <finish>07:00PM</finish>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6InJKOENVbnJ4SXlTcUdGbzBxTjBNamc9PSIsInZhbHVlIjoiMjAxSU00ZGxMVVZDc0lqSE5haFkyUnE0cHpqTmFXTGQzalwvOHdsM1BvVFFMVVJtejdpSjB6WTZIeWlnamhSOFl4UDdMT29ONnlDeW9CcGthXC9cL2dyQWpxMXhXWFdCQ3d2b3VmaWYwTjBlXC85dVwvRHZBQjh1Vjh3UzYwV3YrdmlvZCIsIm1hYyI6ImZlMThkOTI4YTZiNzlhMTgyODY2NjJjZjBjMTVmMmEzYTgyZDk0ZjRlZmQ3Y2QyMmRhNjAyODYyMDY1NWQzMzcifQ%3D%3D&amp;signature=189be572dbe47054ac9f19a9f9282c8711f99e2c030bc359b375d08ab713b363</image>
+    <start>07:00PM</start>
+    <finish>07:30PM</finish>
     <date>06 December 2025</date>
   </channel>
   <channel>
@@ -111,23 +111,13 @@
     <date>06 December 2025</date>
   </channel>
   <channel>
-    <name>CBeebies UK</name>
-    <id>CBeebies.uk</id>
-    <title>CBeebies Bedtime Stories</title>
-    <desc>06/12/2025. A different story read each night just before bedtime.[(96057)] </desc>
-    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IlJudUxOU3N4bzFCdFlNSGxnTXBFWlE9PSIsInZhbHVlIjoiam9MSG1mVkdOTWVEQnRWZlBWRHpESDF4RTJ5ZVBXZ2hZcUpuV0k1SzdzeEpLc0MyTCtaeHA1b2pOYlJKNEZnVFdFMWdaTVVMYWcyUUJOZ0FMbDRrVVA3UE4zeEl1MHYxVzdiUEZJQlRKSG0xeTZkTExkSmlFMFVicHdQSWZ1UG5WTGFsSmxLZ2tyd210SW9IdFBFOUNnPT0iLCJtYWMiOiI2NjZjNzBlYzk1NzMwOTRmNTE3ZTcxNjM2ZmFmMzdhYmE3ODU3MWQ1MzhlZGM1ZGM3MTBkODE1NTUyMDlkNGJhIn0%3D&amp;signature=5c66b4671146bb13b37e6e784c3528884d2d93750ce7955dd401b63302298dea</image>
-    <start>06:50PM</start>
-    <finish>06:58PM</finish>
-    <date>06 December 2025</date>
-  </channel>
-  <channel>
     <name>CGTN French CN</name>
     <id>CGTNFrench.cn</id>
-    <title>Dok Dok</title>
+    <title>Panorama</title>
     <desc></desc>
     <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
-    <start>06:30PM</start>
-    <finish>07:00PM</finish>
+    <start>07:00PM</start>
+    <finish>08:00PM</finish>
     <date>06 December 2025</date>
   </channel>
   <channel>
@@ -143,11 +133,11 @@
   <channel>
     <name>EWTN UK</name>
     <id>EWTN.uk</id>
-    <title>Daily mass</title>
-    <desc>Live from Our Lady of the Angels Chapel in Irondale, Alabama.</desc>
+    <title>Holy rosary from lourdes</title>
+    <desc>Pilgrims from around the world gather and pray the Rosary from the Lourdes Grotto in France, site of the famous apparitions by the Blessed Virgin Mary in 1858.</desc>
     <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
-    <start>06:00PM</start>
-    <finish>07:00PM</finish>
+    <start>07:00PM</start>
+    <finish>07:30PM</finish>
     <date>06 December 2025</date>
   </channel>
   <channel>
@@ -155,19 +145,19 @@
     <id>EuroNews.uk</id>
     <title>News</title>
     <desc>The leading news stories of the moment.</desc>
-    <image>https://epg.best/assets/program-icons?program=eyJpdiI6ImNMYmNaZzVKelhnWFJsaTJRSmR6Nnc9PSIsInZhbHVlIjoiNTk4YllYZDlYb2tMSk81dnRlM2xxczYrM0Qrelhna2UrMFpzNTlITGxFYnc2VmVjaW4yUlFsSzBcLzFrc1I2MGw5eklBYTR4ajFMenllQmVlSUxYVjJGWVF3NnZhUk4xSDJPTkR4NEVJeE1iRFBZamNnUkx4RW1HQ2ZhazdtZkJSUFg2NVNCeUI5VlVuSlJHUStOcmtHQT09IiwibWFjIjoiOTMxNmQ2ZjUxMDcxNWI3ODkwY2Y3YWZkYjg2YzFhN2EwNTA2MmE1ZmE0ZWIyMTdhNzE0NTJlYWE5NjgwMjVhMSJ9&amp;signature=7dd2d54535c7e8b1165e35b5cbbe5b87bcd8bd9f4299dc4f579b0a2a92094b4b</image>
-    <start>06:48PM</start>
-    <finish>07:00PM</finish>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6InZVTnE3WTMzcUlXTnF0R2lFOUp3Rmc9PSIsInZhbHVlIjoid25SYWFoXC9qXC9ZSTIyMEUrdUJScEkyUEVWK3VJMVZOblNvYVwvK3lhRGY5N2pveXVoRGpIMHVaeWZDSzlEbld2dEdUTHdZMmxDZll5ZTBMak1xalh5NDNJREQ4V2xoTExidmZ6VFBIUEFzWkRmaHRWRFZsTVpWbllIMGREOGZaQ0hGUEV4VTU1TmRuQTJXWjRCRmpDQXR3PT0iLCJtYWMiOiI1NjJiN2UxNGFjZjNlMjkwN2E2YmNiYzQwNTg5OGYwZWNmZmViYzI0NzlmOWQ3NGMyZmExMmRjZTk3YzUxNGY4In0%3D&amp;signature=a46b87021eaa6f72bed026d6c316b99f2ec8eff775f6ea6cd133f50e18ddeb30</image>
+    <start>07:05PM</start>
+    <finish>07:29PM</finish>
     <date>06 December 2025</date>
   </channel>
   <channel>
     <name>France 24 Fr</name>
     <id>France24.fr</id>
-    <title>La Semaine de l'Eco</title>
-    <desc>Karina Chabour et ses invit?s d?cryptent en direct l'actualit? ?conomique de la semaine.</desc>
-    <image>https://epg.best/assets/program-icons?program=eyJpdiI6ImE0NlptZ1hrdTUzOTJEQWtiOVB6eWc9PSIsInZhbHVlIjoicnhHVFdOcU5pN0tBekJTczh0OHV3Tld5QWE0TkNGK1d4a3ZPR3NBYUUwY2ZaUU1CMVphbEN2d0h0M0xUZGlQUWRrUXpwV2hxOHZRMHdMekVrVm5idlJMVVRpMElqSmRkcmdWb0xKb25KTU14UFBXYnl1V05LQVNFenVxMlVKZGYwYUNDUjFPdnJub2wxYThoWDZFOGxsVEZVcTlUZW0xSkZiZkY0XC85QjFWSlBNT1k0bDJUKzVBbEVadHRaRU5kUSIsIm1hYyI6IjYwNjk1MDhiM2ZhZjEwNjFhYjJkMjdhNWZhZTBjYjExNzMxNzM1MjdjNGJhYTJhODM4YTc0MjMxNGE3YzQwNTUifQ%3D%3D&amp;signature=a3751e2f7d878021222341373d331f32b6344a011692f8fcda2eefdba5c2cda7</image>
-    <start>06:15PM</start>
-    <finish>06:55PM</finish>
+    <title>Au coeur de l'info, l'invit?</title>
+    <desc>Une interview long format sur fond de g?opolitique, environnement, sciences sociales ou encore culture. Les invit?s offrent un regard transversal sur l'actualit? qui rythme le quotidien.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IjhFRXFTVjZiOGNDNEpOQ0tpa1RhQnc9PSIsInZhbHVlIjoic01uMXZ6K09kREVxK3hcLzJCVXEwYTZJRmxqNUxGQUNYc1dyZURYRCtnUnhicVBRdjB2Wm5oOFlNSlRMZ2xxWUU5cHpWem5NVmNmeDQrU285RTRreFNHM1crK2JVOVc0aWxVczl6c2I1YzZkczVoZzFSbUNnaE1TbklvSXZsWTU5cFhEUjQxWkErUzdXQVVlQldZXC9YaHpEWGJsZlZrSTNcL24xUElrdEhZemRKWmhPV1hDeG5EeEJFSnZBcDc2N203IiwibWFjIjoiZjFkMjJlMzg4Y2Q3Mzk0N2ViYTc5MjE0OTQwMzI1ZWU2MTY3ZDNlMjdlZWQxNzlkMGE4YWMyZjQzZDc3NzkyNiJ9&amp;signature=28bc2330198748abc837582b4452c02dda3ccba79579cfa849d370a8ba17f6a8</image>
+    <start>07:00PM</start>
+    <finish>07:30PM</finish>
     <date>06 December 2025</date>
   </channel>
   <channel>
@@ -183,11 +173,11 @@
   <channel>
     <name>Kuriakos Tv PT</name>
     <id>KuriakosTv.pt</id>
-    <title>Cidades de Portugal</title>
-    <desc>O Programa Cidades de Portugal ? composto por v?rios epis?dios focados na descoberta de diversas cidades portuguesas, no intuito de real?ar os aspetos de maior interesse e relev?ncia hist?rica e cultural de cada local.</desc>
-    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IlwvVDRBV2tzSWxDR3dzYVlGamV3Z2N3PT0iLCJ2YWx1ZSI6InhcL1d1YkRvdW5WUmd0cWpyd2FtTGxvcXNzSDVLeWdJK2YwVjlYelpaT3ZVdUwxZnNGdWsrSkFXc09MU3ZEbjJYandrMUVjUUJISTlxV2RMeUl0bUFkcGJhR1hLR2pUNHg0ckV5WmlsTDg5U1gyWnJNcHJyM0ptMEZHRHNYRkZEQlZpRXRqMTkweU5GSFwvdjhMbm1HcW54bUF2YmdjMkxnR0pTd1RjWUtIY3VkNVFqZU9NRjlJaHNpZDFxZFRWMGRDc1RxdDFOWjRzajZsRlFhVG1tMXdNOVR1N1NsOUtjdGcwMFwvUUlhZThmRzB3dTRrbEs5eFd6NXpOVGtWZ09RT2YiLCJtYWMiOiJhNmY2MTRhYzdjZmZlNTFkNmVlNmY4ZDBmZjVjNzg4YjI0YmViMWQxMGUxNmM4YjYwMGJlMjMzZDg0MTFhNjEzIn0%3D&amp;signature=b1c996965ced54825a21e88d0e7315fe95e063de049ca2a7897f47605254722a</image>
-    <start>06:30PM</start>
-    <finish>07:00PM</finish>
+    <title>Informa??o Ao Minuto</title>
+    <desc>Programa informativo, cedido pela TV Man? 1, que pretende dar a conhecer os acontecimentos que marcam a atualidade.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IndvNmEreFwva0JrbUtLMHRONEZkRDB3PT0iLCJ2YWx1ZSI6IllVNmY3WG1NS2Fobko2clF1ZVQzRUdLM3hkZDd6T0pXQjduMXhcL2gwbW1kNTZ3SHFyUTNMaUpFZFN2S0VnZ2ZGS3ZvN3hWOFdjbXBhZnc1elwva3JsR1JoeVwvRjM3UXpvampGaUUzcU9ITVl5cVRjZXBCckRyVUR0YVZObVY5U2Y0SEdzR2t4Zkc3UUtVbGdhZURmZERXVm1BXC9vNFV1MzJNbTkxa2JqcFJKMDVtZUtDZGVKU3JkdDBoa0QxaVwvZGNvaWpBXC91QVNMMGNuSkdwVjRiN1g5N3J0XC9pcTlRQzR4YkI2YzlRb2JlRWJVK3R4SjRtM3dtOXNVaTB3RDgyM2V3IiwibWFjIjoiYzFlNjdkNzM0NGEzY2JhM2FkMWJmZmMyOTgyZmEyYzM4ZjNlZWZmNThkMDEwNTE1NDk0Zjc0ZDMwNjYxZDg2NiJ9&amp;signature=eabeaaf95ef69eb79f30a5b96096fc7ef6376aef176a090f0399764456b3097d</image>
+    <start>07:00PM</start>
+    <finish>07:30PM</finish>
     <date>06 December 2025</date>
   </channel>
   <channel>
@@ -204,50 +194,50 @@
     <name>MTV UK</name>
     <id>MTV.uk</id>
     <title>Catfish</title>
-    <desc>Leanna fell so hard for Jordan that she sent him thousands of dollars! Though she's never met him in person she did meet his cousin. Armed with only a sketch, Nev and Kamie go on a manhunt.</desc>
-    <image>https://epg.best/assets/program-icons?program=eyJpdiI6Ik9mdmt6dEZiZVdXNVhkc1E0anM2ZXc9PSIsInZhbHVlIjoidzdseUJTSnNsWXJ5STcyeHlOckNHUCtHaVByYUJyTkpLRnZPUlpJY2xmOXM4ZG5GTmRXRTVLYzFCa3FKM2hQV2tjeDg2THE1T2NlQ0wzOUloV3VTT2V6cjhldnI3ZW9nelpMV2NxUTlKRno3MlpmZWlYN0VQT2U5eEZrVGlOQVlrZkUxQVwvOVZZN3ZWUEVhOE11bWp3dz09IiwibWFjIjoiZjgyNDg5YzhlOWVkNjNjY2ExMzMyZTk1YzU1YTUxOWFlNzE1NTM3OTYxNzMxNzdjMjVjMmNkNWFmNTAyMzFhYiJ9&amp;signature=d7d622f3df30204b596fa72de0d317b755c3b950273472b6e81d994ea7d10e51</image>
-    <start>06:00PM</start>
-    <finish>07:00PM</finish>
+    <desc>Chitara took a big leap and came out to her family when she met Priscilla online, but Priscilla ended their relationship unexpectedly. Now Chitara is determined to find out what happened.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IkxqZnp0YW5hQmlqRmZSM3lJdFRzcHc9PSIsInZhbHVlIjoiR3lhVWROOXdMdkpaS012TFBRRmhCXC9FWmZTeEJNZ3h3a1lDNFRsTUtkTnFoQmhVUUJ3Y3Vvb2kwbnJ2b0lDeXBCNTVLa2VnaU5BSzhJSE5hbFJwRjlEV2VxSlhRT3FqcnIxdXBPXC9hZU9Ma3VGY1U5ejd5elZkVGZldVV5d0ZZbWd2aldkM1RjV0haU2ZhWWNcL2hzRVdnPT0iLCJtYWMiOiJhYzJkYTFhMzRkNGE2OWRmYWIyNGNhZGNiNTFlOWMzMjc2YmEyZTVkMzM3MDAzMmIwYjBmMzYxYmZlMTQ0Y2ViIn0%3D&amp;signature=b2673656605934c78bdcb54798987d09ba2827d01f5821aae9a0a302a23c3335</image>
+    <start>07:00PM</start>
+    <finish>08:00PM</finish>
     <date>06 December 2025</date>
   </channel>
   <channel>
     <name>Movies 24 UK</name>
     <id>Movies24.uk</id>
-    <title>Sugarplummed</title>
-    <desc>When Emily wishes for a perfect Christmas like the ones found in the popular Sugarplum movies, she's shocked when Sugarplum herself appears to help her fulfil it.</desc>
-    <image>https://epg.best/assets/program-icons?program=eyJpdiI6Ik1ZR3JjQ1duNXBWbSsyc08zTjNDbnc9PSIsInZhbHVlIjoiZlhlemRjNUZDd0ZWbVhmZCs1YlUramNKK0dJeHJMOVwvMkhaWmowWHFJZUJic1NScGJyaGgxcWRSOUdjYktZcTVFaXB1OVNCZ1lPaXlmd3crYU9yUHJvcnBQUjFxa3pzeHNFVk42WnhJTFUzZEVRRUdudGxlTEtyN09JWmdmXC9Yelc0OHNYNlpVZ2l3U3B0ZUZqUGhLNWc9PSIsIm1hYyI6ImViNWZiNTVmMGQ2ZTA2Nzk5NDM3MGJiYmZiYzM5Mzg4MjlkMjc2NDUxNGJkMGExYTQzNDVjMDRlOTM4YTMwNzIifQ%3D%3D&amp;signature=bc3e3fdd317e290ea6fcf4186fdc4e73b02caef6dfac94eca2458e9688e3c654</image>
-    <start>05:00PM</start>
-    <finish>07:00PM</finish>
+    <title>Santa Tell Me</title>
+    <desc>When Olivia finds a letter from Santa promising she'll meet the love of her life by Christmas Eve - and that his name will be Nick - she's stunned by three potential suitors.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6InNlb0xDQjBtXC9XdUlRWE10ZG1MUVJRPT0iLCJ2YWx1ZSI6ImFWYThcL042YTkrcGtBcFRicEpLb1ROdXNCRmFzUFhVMFwvazlMdHQ1enFcLzNTWXF5Q0dnQzdGdFBtdHZKbE0wWVRsRE9KUFcyN3RVY0EwMnNEK1BIWTYxTTBYeVZUUjRUbU53MkdsU01XNk5tQUFwbkF1YmE5dGt0TWNGTzU3OFZGMWZ5R0JYWUdPNVNseXZzWkZ4T3hxZz09IiwibWFjIjoiNTQ5NjcxMTZhNzkzNGViYmZlNDI1OTE3YjMyMTE2ODFhZDNkOTZmM2IwMGU3ZWI1OTNkMWE0ZTU0NDVmM2NjMCJ9&amp;signature=7ba6114c3ce7eb3a95cf2e42f9ca39bb2900a7263c6f1321dec6f86db7ff69e1</image>
+    <start>07:00PM</start>
+    <finish>09:00PM</finish>
     <date>06 December 2025</date>
   </channel>
   <channel>
     <name>Nick Jr UK</name>
     <id>NickJunior.uk</id>
-    <title>Gabby's Dollhouse</title>
-    <desc>It's Christmas time in the dollhouse! Figgy the Elf calls and says that Santa Kitty needs help in his workshop. Gabby and Pandy get to help out.</desc>
-    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IjVLS2ZhMTVtRUJxQnE1MmI2eDljZkE9PSIsInZhbHVlIjoiZ1YxTG9kTW9aVTNWZDJuSEhodlwvSExNbnIzUDFjMDRkQWk5aFo1SkFoRjBONXl1RzM5MW5pVmJLblQ4UXFNcTVJQnVIZExNdVo1MTVcL08rZE1yaWtSTFBhZlpJOHFyczFoSm5Bb3k3TjJ2U0NnZlptSlwvNG5cL0JpWkM5SUVSXC9zeDJMSGJcLys5ZFNsK3ZTRmJkcVNQSDlRPT0iLCJtYWMiOiIxYWRkOGI4ZDE0ZWY3MzYwY2EzMTgyZjE5ZTVmZDg3ZGY5YjJhMjFiMTczMzM0Mjk1MTc4MTE5YzhlZmQwNGM5In0%3D&amp;signature=bbe75c510bf9f5ec1cb2ac4562f889bcb02a8378714937efdd5c58737a10d750</image>
-    <start>06:31PM</start>
-    <finish>07:00PM</finish>
+    <title>Peppa Pig</title>
+    <desc>Miss Rabbit shows Peppa's family around the Botanical Gardens.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IndEdmxRa1VWem1kODd0WGcrOFM4NlE9PSIsInZhbHVlIjoicHJkVVwvcVRJMlg5d1p1RTFwbllxdGtOTHBRdTBwVFkybW9ra0k0eWt0cUFCWnJzcjFOSFJZTHNPVWJwbDVVOHhxa3RBZlE0Qzl4VWdrYWFLNDRvNHEzR0NUZjZhc3Y5T0hXUG1vNnpoMG5mTjNGVXljVTFhQ3Q0QVFHb2tvVW91NkFCSVo0TTA1TmV4Y2t4Yzlka1Z3Zz09IiwibWFjIjoiMDQ3ZmM5MGY4OGQzMmM3OTczYjY5NDdmYWFhMGZlNDMxYjI4YTFlODJhY2NkMzkxOGFiZDRiYjkzZjNhZTNjNiJ9&amp;signature=2283189d550fc8fed42a4e54a897c03ec8cfa263463abe1841823d4277f58367</image>
+    <start>07:15PM</start>
+    <finish>07:20PM</finish>
     <date>06 December 2025</date>
   </channel>
   <channel>
     <name>Nickelodeon RO</name>
     <id>Nickelodeon.ro</id>
-    <title>Henry Pericol</title>
-    <desc></desc>
-    <image>https://epg.best/assets/program-icons?program=eyJpdiI6ImNvS2ZcLzNFNlRlT0hiT1Q2UjNOeE5RPT0iLCJ2YWx1ZSI6InozZnJyMG9GUHFNSnYwRG5WbnluR1wvU3h5b2dOZkNLcmlTN2ZKajU4aFgxNDBjRHdmdzhsSVA4eDNVODU5QmZzWGJFY1g4VHVJbEoydExXR2ZUdnNYUW5sWUR4Mm1mbVA5ak1VT0FqZGNydU1GeUExOGRcL1dWMzR2TFlrT0hqQ1NHOStYOFRPN0xiVVFlYThoRGNoWUlRPT0iLCJtYWMiOiJiMDIxYzg4ZGJkNjU1ODUwZTI0MzkxN2IwMTUxZDViMmIwZTI3ZmQyMjFhM2E0NjI5YzUyMzZmNjVhMjBhZWMzIn0%3D&amp;signature=08cf0f715441f8905a3fc5e04784d18c38206f5a4a3d1173518a6981c6e41b18</image>
-    <start>06:40PM</start>
-    <finish>07:10PM</finish>
+    <title>Transformers Sc?ntei pe P?m?nt</title>
+    <desc>Trailerul filmului Transformers: Earthspark.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IkN1UFFjMVBDbkNHMzB0NU0yK1dMMFE9PSIsInZhbHVlIjoiVXZIY3hCdGs3dkVaclJaNTg0OUFHejQ5WFVCM3ExQllKUHlEbkUzSFRcLzRLZlZ5dnhDVVdLd2Z4cUNnVXk1RlwvWWNkcTQrR1dnNVEwNFNuM3hiaTNiV3VCWEhJeVZ5c2JjRlpZNlwvY0xJK0NKVzV3dGwwbFFub0NtUDU3Y2NXQzJmTUdcL1psdlBqTXltdWhKZTFqUHFBamcydDdKZHhRN3hsczByWjJGajU5cz0iLCJtYWMiOiJkMDczMmI5NGI4MjNjYWEyYjljMjdmNWNiZTgxMmE5M2NkOTZlMmE0OGVlNGVmYWFlMzhlYTA1NzA3NTMwN2Y1In0%3D&amp;signature=38aea75fa6e91805cd6b4f7ef29d0d73c1e2cfe1a2773e107836be34e7f4c8d0</image>
+    <start>07:10PM</start>
+    <finish>08:00PM</finish>
     <date>06 December 2025</date>
   </channel>
   <channel>
     <name>PTC Punjabi UK</name>
     <id>PTCPunjabi.uk</id>
-    <title>PTC SUPERFAST</title>
-    <desc>Superfast News Update.</desc>
-    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IjVXUU0xN3ExUHdqQjNEWnFIY2RcL3R3PT0iLCJ2YWx1ZSI6IjBWWlRtbnBZVUhGUXU1bnBMbURNRTB1MWJudzEzTTY3SkhqbFlvWGRcLzMrNVh3UUxoQkx0Q2tjaUpWYUY3U1wvMmdzdmsyQnhvSENCKzEyYmg4WjI2dkF2Q0tjVVVKMkJPazMxaDBtOHp4Rmd6WCtMU1h2UVBWSjIrazNRQ0xnUVBXK1pTZ0VrSlBPNVFDa2dNc3RERUpRPT0iLCJtYWMiOiJjMjIzMjlmMDU3ZmYyNmU0NjEyNDE2NmExNDY2ZDhkNGFjNGM2OTg0NDcwZDA2NDE0ODI2M2NjMDNkMDhlMGI4In0%3D&amp;signature=717d07af6e6733d4374531173843084e9b6ee240c1a9e317d743c30012c13dd3</image>
-    <start>06:30PM</start>
-    <finish>07:00PM</finish>
+    <title>Nanak Naam Jahaz Hai</title>
+    <desc>It is the story of Prem Singh who lives in his own paradise with his brother and sister-in-law.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IjJOdklOMnAwZmpvVVZjRXNNdGRQR1E9PSIsInZhbHVlIjoidnF1cVwvbDdTUFV0b3VzMTRqZ0xCQ3kwa1JcL2lVOGJhcFplSmx5eGVVM2k3QlFMQXJybGFsTzRsVXI0Y0F5V3lVU28ybDZsTFE3RDE4eDNRQndabjR2ZFAyMW5nVENSYmdsQTRxR2R4aXA4bnNMd0tzSUZxOG9NZTBLbFRNZnVtWlwvYm5yOHNcL0ZZN1NoK1ZoKzhhWGQrUT09IiwibWFjIjoiZGJhZmFkZTBjOTU0NGRiN2JlZDJkYzQxNDRiYTFiNTRiOWM2Y2RiMTUwMGI0YWViMGUzNjZmMmYzZjNiODhjZSJ9&amp;signature=666b7c911c0b7180fa7d0bed7e3cc2a37faf9600cf1d8b4caab856d8061d852a</image>
+    <start>07:00PM</start>
+    <finish>10:30PM</finish>
     <date>06 December 2025</date>
   </channel>
   <channel>
@@ -263,11 +253,11 @@
   <channel>
     <name>QVC UK</name>
     <id>QVC.uk</id>
-    <title>Diamonique Christmas Spectacular</title>
-    <desc>A dazzling array of Diamonique jewellery just in time for Christmas. Our celebration over five days features all the sparkling designs you could ever want.</desc>
+    <title>Elemis Skin Therapies</title>
+    <desc>Care for your mind and body holistically and sensuously with therapeutic aromatherapy. Elemis are famed for their premier spa and salon treatments, and for the absolute purity of their plant oils.</desc>
     <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
-    <start>05:00PM</start>
-    <finish>07:00PM</finish>
+    <start>07:00PM</start>
+    <finish>08:00PM</finish>
     <date>06 December 2025</date>
   </channel>
   <channel>
@@ -276,8 +266,8 @@
     <title>Best Of QVC Beauty</title>
     <desc>All the highlights and star products.</desc>
     <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
-    <start>06:00PM</start>
-    <finish>07:00PM</finish>
+    <start>07:00PM</start>
+    <finish>08:00PM</finish>
     <date>06 December 2025</date>
   </channel>
   <channel>
@@ -286,28 +276,28 @@
     <title>Best of QVC Style</title>
     <desc>Catch all the recent highlights from our sister channel with the Best of QVC Style.</desc>
     <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
-    <start>06:00PM</start>
-    <finish>07:00PM</finish>
+    <start>07:00PM</start>
+    <finish>08:00PM</finish>
     <date>06 December 2025</date>
   </channel>
   <channel>
     <name>RTE News Now IE</name>
     <id>RTENewsNow.ie</id>
-    <title>RT? News</title>
-    <desc>National and international news from RT?.</desc>
-    <image>https://epg.best/assets/program-icons?program=eyJpdiI6ImhVU1FNbmFycEZoRmRwMENtYWFNMnc9PSIsInZhbHVlIjoiS0tCMkM5cGlaazJrcnhTS0N1S0pjeWdnV3dYVmorSklcL01ZNndHT3VxYWVGRWZheWM2V0pJc2xyU2lFTUZMaHBlR0dGbjVHTDNONWp5RkF1T2VrcmY4NytGR0I2MXd5WE1KckZlSVlCNWRPZFAwbFhSa2VJYlJ6YjFoc3NhZThiUk5GQ21FNzV0YUEyUlRoVXQxc3lPdz09IiwibWFjIjoiYTRhYWQ4ZTE3NDQwMzE2ODNkNTg4MGVkNTk3YzAxMzFhMDNlMTMwMDI0OWJjOTY5ZWMzMTBjMDY0Yzc5ZTc1NSJ9&amp;signature=d94b455c8251dc2c6f67b943bba1c09f5aa70a46a383b53b547d0019f4ecf07f</image>
-    <start>06:01PM</start>
-    <finish>07:00PM</finish>
+    <title>Latest News and Weather</title>
+    <desc>Latest News and Weather.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6InBHc2NiOVl5TVVtTVROV3JhRWVPY3c9PSIsInZhbHVlIjoiV0VZRzJYMzYrXC8xaVBWSjgxREdRMFBnOXNUeUJwNXNwbU9VTTRkWTRka2JSSXRBQVpmU3QxamJLeVRRRjVDRU9yU3RYeUtaT3ZZQXVTMHFsNnY5eW1GNXEyU3BwK3luaEtZelU0Zjh2NDZaam1KMnlSU2JoRDFhaGFYV09JUjhkN2gzUFhhbUJROFM2eFUyeHh1NGVNUT09IiwibWFjIjoiMWU3OWM2NmQwN2IzYTA4ZTg5Yzk3MjhmZDNkYjk5MWZiYTYzZTQ4MjQ2YTI0ODBkNmIxZDkyYmMzMzlkNmY5MSJ9&amp;signature=39090f7a60d0edafe409a00dc917de18075f07f91e5e4702b5322fd1f3914913</image>
+    <start>07:00PM</start>
+    <finish>08:00PM</finish>
     <date>06 December 2025</date>
   </channel>
   <channel>
     <name>RTP Internacional PT</name>
     <id>RTPInternacional.pt</id>
-    <title>Estrelas ao Su00e1bado</title>
-    <desc>O maior concurso de mu00fasica popular portuguesa estu00e1 de volta!</desc>
-    <image>https://epg.best/assets/program-icons?program=eyJpdiI6ImI2enlUXC9NdFc4eFJXQU1MYVBpSmZRPT0iLCJ2YWx1ZSI6IkIrV3Z5KzRRZ0gxd3FTRjI5NVV6RWxtSloyVnNramxjTXdTRjZqS3piRjUzc0src2d2ZjFcL3FySTJES0lKQXFYS3JcLys2enlHc0xielNxeXNBdG5raElscW03OVpXUFwvbFBQTHVtK2k5TktGa052SElTZGZCVjJ6Mm02XC9NeFVERSIsIm1hYyI6IjUwNjYzZjZmNmI4MTBiZWQzYWM3ZGIwM2RiZDY2YjYyZjcyY2U0NWY0NTJjYTRkYjc4ZThlZWYwZWYzNmM0NzUifQ%3D%3D&amp;signature=3500502f386d3fd958358e28f1dad6e098129be9fc797376961de74819f430fa</image>
-    <start>02:30PM</start>
-    <finish>07:06PM</finish>
+    <title>O Preu00e7o Certo</title>
+    <desc>No.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IjI5aHR3dGY2ZXBHTkw4YWJGeUowanc9PSIsInZhbHVlIjoiWGFhUVBvNlF0TEVCZjFNTmZZZG5PUlwvV0hCeGJFZUZpb0Vlc0JMTFp1NkVQU3Btb0JmazRaTUFNTWsrRzN4WXNrR2FcL0hJMjgxSkRtcWxNRFkyRjdoaldaVE5Za3R2N2ZmS3RtNWYyNjg4b1c0ZThQTDJwS3VaVFYxc0IzQ1lOQSIsIm1hYyI6ImFhMzcwZjQyOTI4M2RmNjdkY2M4MmRhNWFkNzliNmJmOWZhODM2Y2Q1YjIzOGMxMjNjNjIwYjFkYzAwODQyMjYifQ%3D%3D&amp;signature=6ccef2c7896b13577fdffd7e9df94ed3cbe110fc105494821613ac48d252f40e</image>
+    <start>07:06PM</start>
+    <finish>07:58PM</finish>
     <date>06 December 2025</date>
   </channel>
   <channel>
@@ -315,19 +305,19 @@
     <id>RealMadridTV.es</id>
     <title>Real Madrid TV</title>
     <desc>No hay descripci?n disponible.</desc>
-    <image>https://epg.best/assets/program-icons?program=eyJpdiI6Ill5SUFoWEFiXC9aa0J5Wnhid2FHRGdnPT0iLCJ2YWx1ZSI6InRJTGdVa1wvWWFRUzJrdnRuN2NocUwzTlB6T2JIdjdDZzJRUjA2UyttTmJsaFZEZVozcUhZd3pyQ05NdmRqVVk0MGpxQnpxY2VPY1VSVG1xSE1XU2p6dldXRk9nQ0plcENsOE1wdnEycGpYZjNjSUhIa0poaEZSWEJ1dFFQbjRsMSIsIm1hYyI6IjJlMjcyYTdkZTI2N2E0YjQ4NWE3ODhjM2Y4ZDJiNDc4NmE4ODg2YjM5MTAyM2VlZWVmNWU2NmNkMjFhOWM0ZjAifQ%3D%3D&amp;signature=6776dfe93ddf06080d9af471d46a6b247aa387021facb5d8f00d63987e2c9fcd</image>
-    <start>03:00PM</start>
-    <finish>07:00PM</finish>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IndkY29wZmpDV3AxWk1ENnRNMzFubHc9PSIsInZhbHVlIjoiWk9Idm1xaVZoQVIxSGlnRTRTalV0T1phVmk0ZDVXTDZ6TzNmVWZSXC9JelA1Skt2cGFBaURhczJmeU5jQlArMmNFRlVHdlZrNytvaEkwbkdCRjNJbU9ocVIrcmMrWmFhWkUzZUlsd3NsS2FvQjFqSmIrWVhsaHVhbitFUTNYTXRVIiwibWFjIjoiYTZlMDgxMjA3NzMxNDZkOWFlNzZiY2ZlNTgzZWRjY2MzOWQ2ZGFlYTM5YjE1M2ZkNDAxZWE5MTAzN2UzOWRmOSJ9&amp;signature=dc5d2b575030b6c22d542fcf2feb17e959bb53ed082c923c7f76d01d8e95e8db</image>
+    <start>07:00PM</start>
+    <finish>11:00PM</finish>
     <date>06 December 2025</date>
   </channel>
   <channel>
     <name>Rtp 1 PT</name>
     <id>Rtp1.pt</id>
-    <title>Estrelas ao S?bado</title>
-    <desc>Em Estrelas ao S?bado v?o brilhar o talento e as ra?zes da nossa m?sica. Isabel Silva ? a anfitri? deste formato inovador, que vai dar voz a todos aqueles que queiram mostrar o seu talento, interpretando os mais diversos g?neros da m?sica popular portuguesa, mas s? um ser? o vencedor.</desc>
-    <image>https://epg.best/assets/program-icons?program=eyJpdiI6InRNSm01c2xKcG9TaHExemtlRVdRUmc9PSIsInZhbHVlIjoid3NFRTBWMXpOWTVLeHM3STFnSkRuc2Jwem1wTlNkeUtXSGJXeU02WTRGY2RSXC8xek1aSGZCSU0xNE9OcExkTHNybkpRTGl4djFDOWpSTE5lWFwvcFlnU0RKbVFVTWxURCtST0NIKzd4Ym0zSHZsdjNITERTU01hUm5oa09UZ3VQNzgwK0VFRm9OVitlWWE2alQyTk5VNGQrYm9udnVFc1JDWVNIcjJrbmFxXC95OWVWZVwvUWNuR1UzekNtVUNYYkRnOFA3YzVJbnhBNXdPMnhyckM1TFdGVDV1bFwvVGtyYzRvaHRIVVpzaFcrQlVGZjhkZk1wS0xtcjdocjFUR0lIT0FOIiwibWFjIjoiYjFmMTFlZmJkZWQyMjlkOTA2NzY5YTMyZDY2MjI2NzFhYmQ0ZmIwMjZmMTE1NDVmMTFkYTU3Y2YzMWY2YmI5MCJ9&amp;signature=da0c82c440b325cd06424073f5002f8f7a37cd0b787d9fc78809b9ad6f26f541</image>
-    <start>02:15PM</start>
-    <finish>07:00PM</finish>
+    <title>O Pre?o Certo</title>
+    <desc>Concurso conduzido por Fernando Mendes onde quem se senta na plateia pode ser convidado a jogar e ganhar muitos pr?mios. Divirta-se enquanto se informa sobre os pre?os de mercado e sobre novos produtos.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IlYrVUYxTWptKzlqUVhRTDRjakYrbFE9PSIsInZhbHVlIjoicVFhTTZnM0FiaW1vQllFOE1WNnpFbDYrSVFha1kyODkxWUQ1a3ZQTFwvSFQ1cE51Y2lWSzFucVJrS1hVcjVjbDhKMTNNOHFDazZzQzVEeU1DU2x3OVNjd0NkOEFHNzNYXC9KZ2wxOUZWc2U3SkREbFZTRURCYkRUVlE0aG5nTGlmNmtLejhcL3FNRmNpb0lyZzNqaFR6WHRMb2xPTEVZM3RRT0pZMzRCczFZT2lGclV3WDVBTU1VZ3pxa1VqZ1RabW1sYWZPSzl3TjZzZzdGRTJaZ0FlcE8yNTRZM1RQTmJcL21PMHNVOWdySnpjRVNqbVwvRnBsa1RXTW9jZ1RZVW1KSE1GIiwibWFjIjoiOTdiNzRkMzUzOGE0NTIyZTYzY2ViZGM5MzNhOGRkNTZlZjlhODA3OWVlNjE5MmYxMDVmYmE2ZmMwOGQ4MmM0NiJ9&amp;signature=f08ffae42d474123cb0a4757187937973ba4619c539f3e038f6b6c9bbc6beb78</image>
+    <start>07:00PM</start>
+    <finish>07:58PM</finish>
     <date>06 December 2025</date>
   </channel>
   <channel>
@@ -343,21 +333,21 @@
   <channel>
     <name>Rtp África PT</name>
     <id>RtpAfrica.pt</id>
-    <title>Hora de Agir</title>
-    <desc>Hora de Agir ? um programa do F?rum da Energia e Clima que tem como objetivo unir a voz da ci?ncia, politica, empresas e sociedade civil dos diferentes pa?ses de l?ngua portuguesa em torno das solu??es para vencer a Crise Clim?tica.</desc>
-    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IkZZMDVyR2lZa3VybVpLeWdOdnNiQWc9PSIsInZhbHVlIjoiUUtNdUtuZW9IcU5nRk5Pc3oweitCRFBwQXI0bTNsaXdDdFhYN29GNXdyRjNYZkNmaGlIMTlsYmNLakszalpxWlhzU1BQVkVXREZjZ0dlWnVMTWloVnAyb2l1d29oZkpFaTU1SE5nT0huTkVuNk1MTHRyV1wvYlJlRlB0QTRxeDU1UGhWVFpmeFF4K1pEclRmWFJKczlrTm9sb2FBMzZNWklRK3J4N3d6TVwvUFpLZlwvRmhXU0wyV0hpOWRuUkpjbEdKOUxWaDdsYnFOU1poNUloTVpEd0Y0ck4xa0gyK0xKYWtSbHhEc28rNmxhWnMwK0VmSnVjS3JMdG9OZDhYMXZzbCIsIm1hYyI6IjJmNWYyYTE3NDNlNmNhZjNiMDNlOGMyZmM0ODM2NDE3MjJmODVhNDEyZjY2YTBiMDg2NDAxNWU5ODlhNGM0NGIifQ%3D%3D&amp;signature=33dcd2722f82158b1fcc4ffd4fab3f0d085b293a909cbe88b3bcdbfe16d057b9</image>
-    <start>06:30PM</start>
-    <finish>07:00PM</finish>
+    <title>Causa e Efeito</title>
+    <desc>Programa semanal de informa??o, cultura e atualidades com um jornalista, tr?s convidados e um comentador residente para o debate e an?lise dos principais acontecimentos nacionais e internacionais da semana.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6Im5ZcU5SVDdsXC9RN2Z2MTR6aVZIWlJBPT0iLCJ2YWx1ZSI6IlR4dWlcL2t6UWRoU0o1YVNYZ3NCTmQyNXh0WksyM1J6b0QyeFhQelFkUmtjUEJ4Q2wwYVwvVEtpa0dzdHA5V1p0MmlOUWx4UnAxZ2tDNjhnRno3Y1wvY1dtRWYyaDMySStWM3RSVm5BNkNGallySU1FQlQ0cUFMWHRwZEFnck5OVFZmVlBMc2wyRWhkNjJVUzJ0YlI3TVJuV3lMQUhDZ3NuekFTT1NqVVgzM1VRSmV3NU1QSXpJSnlYTzN2TkVBWkNQRVwvRkl2a1J5ZVJtZjdROTJ0d1Z0QzQ0dFdBcVpzemRVSStQemFtdmZ6eUtpcm0xMnRQcVFSTDNhYk1idnJKVnY0IiwibWFjIjoiNzY5MjFkYmI2MTM3ZjdjMGJkOThiMzlhMTcyZTkzMGZiMDk5NmU5MTVkYjM4MmU3NGM1NDQ0ZDMyMjlhZGFjNCJ9&amp;signature=c9268a14bd33e0d1dc72a7dc824498cfda5a7a083e6f5e3f2438ac1acf205709</image>
+    <start>07:00PM</start>
+    <finish>07:58PM</finish>
     <date>06 December 2025</date>
   </channel>
   <channel>
     <name>Rtp Madeira PT</name>
     <id>RtpMadeira.pt</id>
-    <title>RTP Not?cias (RTP Madeira)</title>
-    <desc></desc>
-    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IkJvTmNnUGRLY1JZMFJaXC8wWHN4R05nPT0iLCJ2YWx1ZSI6IjRKXC9sQkFJMnhrbFY1bjZCUzMyakhJYjhQaE8rSWhoenhmN3hQNFRKOGp1MVRYRFU3bjBGN0YzVDNENXJzNlBab09aendweWhHUjA3dGxHZlYrd1VjTTR0TE14R0VJT0lrNHhhbTdHZDFYNkxEbEFJU3o0aFwvMU5WYnd2TDZrZjFcL212TGdPWGVZNWhaTHpSOG1JSkNZQ01yUGowakxaT1I1bHRqNXQ2b3ZhTzB1UVVlUXVveTVibnhcL1NcLzJRMFBcL1dWcmlSYVwvZm9tUCsrNHJ3TkNIVVptbTNjeEl1YTJxQjJwVkdCSFhqM0NZN0w0R1ZwK2ViemhhZGxYVEdwd2JpIiwibWFjIjoiNmEzNTBkYjcwZTM5NTYwNTA5YWQ1OGIzNjMxNzYwZjE5NDAwZmE5ZDVhODAzNjMyY2JiMmQyMjFhNDRlNzhiOCJ9&amp;signature=26e7ddae142f585dbaa231fe48677987adcc8ee5da31dd216f2ffc5865ebc085</image>
-    <start>06:30PM</start>
-    <finish>07:00PM</finish>
+    <title>Not?cias do Atl?ntico</title>
+    <desc>Magazine informativo feito a partir das regi?es da Madeira e dos A?ores.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IkMxVU1ma1EwSzlYcVVVRmFHbGcwWHc9PSIsInZhbHVlIjoiVTJ6aE5NQ0p6ZTJkWitBZklYbEg5T0dqRnZtK3NCOWlVc0ZxS0I4V0Nud3FTY3NzZW82WHp4bCtnQmI5ejE4bnhLQnNlWTNwa2QzY3RFcjBNakh4SytYaHh2aVJ5a28rbEowbFVLNXJxcmxLbzZXUEhNNFR1czhwQkRsWWJnU0NHUU5pVE1keVhcL29GTVU0OEtYZWlCdkVLczV2WHJQYituNGhYbWRWRUE4cUhZQXY0UTNXZ3FOWVwvNzVnTVZkSWhlQmNNQUhucndDQXY5WlN0TCt1Nlwvc3AwNG1yMVwvOXlkVmppeU9ZazgzR2ZMU3p0OHFIMk80U1dIbllNT1FjMVkiLCJtYWMiOiI4ZTRmMDcyMjkxNGY0ODNkYThkOTEzZmZhZjAzMmVhODFjODEyOWZkNjc1ZThmZGFjYjEyMDcwNDdkMDdlN2JmIn0%3D&amp;signature=6ba6d1781ba4f7f338ff4c332eab033e07b807e05a6a0b883b567684139b2fb5</image>
+    <start>07:00PM</start>
+    <finish>07:30PM</finish>
     <date>06 December 2025</date>
   </channel>
   <channel>
@@ -373,31 +363,31 @@
   <channel>
     <name>Sky News UK</name>
     <id>SkyNews.uk</id>
-    <title>News Hour with Jonathan Samuels</title>
-    <desc>A comprehensive round-up of the days biggest news stories, including analysis and insight from Sky News correspondents.</desc>
-    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IktIMVl5KzJyZ1pKcExIQTVUcUpcL0dRPT0iLCJ2YWx1ZSI6Ik8rRzBxdkw2bjJudTF1OXVIejhvdUZ5T3pMQVpnbzRwMnBsK3J1cXNFam5FRVlZUUZnR1wvS08yRmJzSm41aFpLT3JibXhpelFLb0NhOXhKNzA0THdoQWRacGp5WEtTbjZLcjdpdlA1cSs1U0RIV3RtSU9MaFwvODFmckJ2TUlORDUydVFuRzNYdDQwanUzUzVTZ1l4QkVRPT0iLCJtYWMiOiJkOWU1ZGIyMjhlNzIyMjk5NmQ0ZjY1ZWZhNjc1NWZiYzFjOTVkNzRjOTgwMTg2OWNlZGQ4NmRhMTdhMzkyYjM0In0%3D&amp;signature=fb137da6853815fe103f070d7aa5d46ef9fa07965b4de9ff04ca9e9470d4a95d</image>
-    <start>06:30PM</start>
-    <finish>07:00PM</finish>
+    <title>Sky News</title>
+    <desc>A comprehensive round-up of all the main news stories of the day from home and abroad.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IkhuU3lGZnZHVG93R3Q3ODNSbGJ3TXc9PSIsInZhbHVlIjoibTZSN043OXJwTzFsWGsxbkZzRDU1ejFnM1R2Z0ZzTGlMaENSQ1FkUkpcL0F1b1hRcVN5UE81Y1grQnhjeWVsQ2hYb2FvdlptcjhOdUFCN0JCc2dMVFpHUjFhXC9mbyticXROdG5BbzI2MDBhYmVmeU1WSWcrb1l1djNlV21pWGo1Q0NuYmtqaHEwdmJTazNTY0gzY3dYSkE9PSIsIm1hYyI6IjA1YTY5MTQ5ZTQxMWRmZGY3MDRmMGMyZTI1NDRiYWIwNDIyNzMyNWE0NmRlYWQwNzBkNmEwMjQ3Y2MxMTMxOWQifQ%3D%3D&amp;signature=4c02d38d31cb9183d644d24e6cbf04cefb36e041356edc5c3c97f3438f3207f4</image>
+    <start>07:00PM</start>
+    <finish>07:30PM</finish>
     <date>06 December 2025</date>
   </channel>
   <channel>
     <name>TG4 IE</name>
     <id>TG4.ie</id>
-    <title>Life &amp; Basketball</title>
-    <desc>Cl?r faisn?ise faoin gc?itse?la? cispheile Chris Matthews.</desc>
-    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IlM4MnNLcUZGSkNwdUhVUitFem9xUGc9PSIsInZhbHVlIjoid3d1V2dRQzFydnk5QU1nNnY5ZTV5Qm1LVGxkMEtCbjlRRHpyaDJuOGdUdXorRTR5UEtkYnA5NDZpNnRyQXRQNDJTZFwvZlU1M1Jxbko3cXdrV05DOExINDJtcFIrTXVNSldtWHROWjl1WGZKK052YU5mUFo5Q3BUMlNLQ1FNM2l3OTFKRHZ3WW9tc2hvNXY5K2ljaWNrdz09IiwibWFjIjoiYjAzOTU1ZTUyZTMyNGQwZWMzMWU4ZjNhMjYyZDc0YzIxNTAzMjQ1ZTA1ODEzZmQ1Y2Q3ZjhkZDE3Y2VhZTEzNyJ9&amp;signature=f96525397719da32b4636d1f0ad67706d9af7c07513359acb43dc70fac76f190</image>
-    <start>05:55PM</start>
-    <finish>06:57PM</finish>
+    <title>Sc?alta na gCorn</title>
+    <desc>Tugann Gr?inne McElwain aghaidh ar Chontae Mhaigh Eo sa gcl?r seo.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6ImdOQVhqRFpodUhkaG1KUEVweEM5Q1E9PSIsInZhbHVlIjoiMGxUR2NDamRKOVorZ0VvallodVhDMGlmSUNhbHNZamU1RGVxXC81VG1EWVBuMnZJYTRsM09NUHRrTHZxTGlXMUJjK0Y2RHVsZUo1S0NDQUFMUXlKcFBTejM4c1JQUmp0Yjdad094NXY1ZXpxNWIwK0R6amdhQzFVZkNmY3lidWlDbklQV0xWNGxXdjFhY09oZE4rekdZUT09IiwibWFjIjoiOTIzZGE3ZWMyN2UxYjQ0NDdiNWNkMTFlYzQ2YTEyNTBiOTFkNzZlMjAxZjJjZDJiOWJlNTljYmYzNTNkYjI3NCJ9&amp;signature=c96915a9f451bbff2a3392053de6f805248835a6fdecfd265ec6d9338ff41bb2</image>
+    <start>07:15PM</start>
+    <finish>07:45PM</finish>
     <date>06 December 2025</date>
   </channel>
   <channel>
     <name>TV 5 Monde F-Be-Ch Fr</name>
     <id>TV5Monde.fr</id>
-    <title>Papilles</title>
-    <desc>Itin?raire gourmand ? travers la France, ? la d?couverte de sp?cialit?s gourmandes et des artisans qui perp?tuent leurs traditions culinaires. L'occasion de rencontrer un chef de talent pour pr?parer une recette r?gionale embl?matique.</desc>
-    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IkxndjFzczNjVGRwTVY2QU8wZXNUd1E9PSIsInZhbHVlIjoicm5GZFhPNVZ3UHFpZllldE0rdnpvSlNFaE1UN1d2WVRQYzBFZzd2NFNmd0FQY2dSVlNjVTdCTmtLOFwvOUM0VVM5RUY4ekthUjA5MDZFRTkyMlhYZ2NyVHhiVWdhSnI0a2JpaXBZbDFuM1FSRlFyRGdnXC9XYktZVjBiQ1ZsQTNjcSIsIm1hYyI6Ijc4MGYyZjg0ZDk3MGZiMjRhNTkwYTE0ZGNlYzI2NTc0YjMxZmE0OTE4NmQ0MjdiYzY1YTM5NTdjYTU1YmY4YzMifQ%3D%3D&amp;signature=fb5b2700b4a1352ec296fb55a67c3b4fce6d3c7779d8a95b450c8c4c6757080a</image>
-    <start>06:28PM</start>
-    <finish>07:00PM</finish>
+    <title>Le journal de la RTS</title>
+    <desc>Le journal t?l?vis? propos? par la r?daction de la RTS. Trente minutes d'information pour avoir l'essentiel de l'actualit? romande, nationale et internationale.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6InJSZkNEQUpyQWNDN0F0dzd3SnFHU2c9PSIsInZhbHVlIjoiZmhcL05rQTNaaEJsQWtTcFlrUlpTUEgxMmo4UEtUMTc2bXc5NVhpRnpBbUk5NmQ1TFI0ZUtxbER6YkJmdElla3hFTjRuZVwvSm9rQXBYY1NhQ3VualFHcnFlQWJkRmd5aFNlMmtac1BYamlYOXp5RlFQTCtoYm41cHdUblhNOGRkbiIsIm1hYyI6IjQzZDhiNDgwY2YxNDgwYzQ2N2M0ZWM2NDk0YWNmZmQ5YjQwMjI1ZGZjMDAxNzUwYjZmNjllY2I4OWIxOTRkZGMifQ%3D%3D&amp;signature=c8e64152e4014ab66cc2493ad2490e351d39b6f013f20b0326f957d90ca920f3</image>
+    <start>07:00PM</start>
+    <finish>07:30PM</finish>
     <date>06 December 2025</date>
   </channel>
   <channel>
@@ -413,11 +403,11 @@
   <channel>
     <name>Vosges TV Fr</name>
     <id>ViaVosges.fr</id>
-    <title>RETROSPECTIVE DU JOURNAL ? METEO</title>
-    <desc>Retrouvez votre journal du lundi au vendredi ? partir de 18h, en continu jusqu'? 19h, puis ? 20h30, 22h30, et le lendemain de 5h ? 10h.</desc>
+    <title>L?HEBDO - METEO ? ECO?REGIONS</title>
+    <desc>Le magazine d'information de l'agglom?ration spinalienne.</desc>
     <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
-    <start>06:30PM</start>
-    <finish>07:00PM</finish>
+    <start>07:00PM</start>
+    <finish>07:45PM</finish>
     <date>06 December 2025</date>
   </channel>
 </tv>
