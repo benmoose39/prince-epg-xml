@@ -3,11 +3,21 @@
   <channel>
     <name>CSPAN US</name>
     <id>CSPAN.us</id>
-    <title>Washington This Week</title>
-    <desc>Capitol Hill hearings, speeches from policy makers and political coverage from around the country.[(96057)] </desc>
-    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IldKZnNOWWpraTNUdVBSeGdhNis1TGc9PSIsInZhbHVlIjoiZ2g5VXBCenNScStUNlVDQlpIV1psbEJBSnpPRCtVdnF1YjNxU2hxcmpFUExjR2hUQzkzWU1lS0RxN3FpcmdldXRiWU11QnRiNm5sQkJ0T2tJSlJTaDBHdmtPb3V0MTdpblwvejdcLzhcLytHXC9jblJibjhuSnV5RjBOR1pFcXVlR2FCIiwibWFjIjoiZGFjNGYyYTE0MjAzMDYyMzdkYmIxOGYxODk4NjdjNzNhOWRlOTNmOTZhZWEwMzY1N2Q5ZDUzYzBjYTA2MGIxZiJ9&amp;signature=3862d22e48affb643623f4639eb697d798c9c0d7555f5f2b095292972e5874a4</image>
-    <start>06:00PM</start>
-    <finish>02:00AM</finish>
-    <date>20 December 2025</date>
+    <title>Public Affairs Events</title>
+    <desc>Public affairs events, congressional hearings, speeches, and interviews.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6InhHMmVsck5JSnVlS1ZlWWZGZUgxN2c9PSIsInZhbHVlIjoiTzNqUU1idXlremVyQ2s0clh5MngzRENwbkljK3Jtd0JcLzEwTDRmQk5vdDM5cWZBVys3TVNnR3JkazFCRzM0TTNFNjhEQnNGajBoZFIrSmtOdWJHWCtjMXdEWHd6M2c3T0dlQmJ5ZHBTN3RpZVZcL2tMR2lTb0Nack4rMDVYZDlYVSIsIm1hYyI6ImZjNGFiZTAyNDMwMWE4MTRhYjMyNzI2OWZjNWE3OTEyNGNkYmM2OTlhYWIwY2Q4MzY1OWQ3OTg1Yzc1MGYyMjUifQ%3D%3D&amp;signature=2603b19413e301eb57df51b226f711faf048cec070131f20de83daada55c44c6</image>
+    <start>10:00PM</start>
+    <finish>05:00AM</finish>
+    <date>22 December 2025</date>
+  </channel>
+  <channel>
+    <name>CSPAN US</name>
+    <id>CSPAN.us</id>
+    <title>U.S. Senate</title>
+    <desc>A highlight from a recent Senate session.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6Im1JZXYzUHRScklGWThVd1dYclRQbkE9PSIsInZhbHVlIjoiejRpVStEZWFaV0hIWlljajU2YmNtcnBrcjA4RkFKd1FRQ3RQNnNHWlBvXC95QnFaUlZkeFFYWTVPRmFWWWFRTlNHNk9wT2RCcUtRSWRmZUgwTFFPeklNdk5yXC9qZlBkUk91QW5FSmdGYzBlajVQY2JwaUVlY0pscDhTTEFiTTdjMiIsIm1hYyI6IjU2NGY4ZTRlMWQ0ODIyMDJmMjk5Mjg3MjEwOGFiODU1ODkwM2MzZTdlMTczZjljMTRhYTk2ZDg2NDEwOGQzOGMifQ%3D%3D&amp;signature=b4f561aaa564607172e1ebb804abf2252e8f70a03b4fa37e039662ce072b46e0</image>
+    <start>11:14PM</start>
+    <finish>11:37PM</finish>
+    <date>22 December 2025</date>
   </channel>
 </tv>

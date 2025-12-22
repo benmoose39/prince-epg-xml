@@ -1,2 +1,733 @@
 <?xml version="1.0" ?>
-<tv/>
+<tv>
+  <channel>
+    <name>GauTV ZA</name>
+    <id>GauTV.za</id>
+    <title>My Selector</title>
+    <desc>Get entertained through various genres of music.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6Iml3cVkzUXRKVzVOK3ZJSFNwNUEzWUE9PSIsInZhbHVlIjoiNGhMcVwvbDFINnlHZEFUQTJmS05TY1V2RTFvRWZuNUNUS2xNZFh2QU5LVVdGR3BFZUlWVGFcL00wdUYwaERQQllZQWd0c1wvQW9tK2JiQ0g2YXAxM1JzN096czU3NnJEV1lQTUxwY2Q4TkNlQk00Q2dpYWJqcEloYzR4a1wvK01RMlJIdGVQeVZ4ZWZxVk1GQ2NCUGZVRTZzZlFvdWo2QUtITTVFMDk4WWZ4dFNFWnV2QjlNYnZvdm9TWlB3KzJFOXZERCIsIm1hYyI6IjFjNzg0M2I1ZWFmMmUzMGQ0NWIzZTVmYjM5OWMyMWQ5ZjIwODM3MzQ0NDNkNDBkZDNhN2JjZTQ4NDllY2QwZDYifQ%3D%3D&amp;signature=600a569006bdd1a52719ca055979902d52e9fd81152f5cc467a48d0f73a4a98a</image>
+    <start>10:30PM</start>
+    <finish>04:00AM</finish>
+    <date>22 December 2025</date>
+  </channel>
+  <channel>
+    <name>GauTV ZA</name>
+    <id>GauTV.za</id>
+    <title>Gospel Songs</title>
+    <desc>Get spiritually uplifted through music and be filled with strength and encouragement.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6ImpTUWdnekZoWEhFNGJvZ2J2RUVaSkE9PSIsInZhbHVlIjoiS2dpMHFTdDN5T0NIUnhHRWxyWWFsOXR1TjNORmZPSGxWY1Q0OHZpXC9xRDFmeE5sUEh0ZzVLdzFDWHZlZEtKNjRQTnhOdXlYZVZ2QnFLRm95bUFoR1wvcnlrK29yRHFoald5OWJGNUNJRm5SSGlRam04anA5U2NlU2Y3WVlYZGM2K0JHc2tnWFhLeWYxMDFoS1FuNXcwMVZoYU9hNUhqMEFORjA1bFVZWEhWM1Z6dzZqTGtSU0pwR2lZdTI5T05mM3EiLCJtYWMiOiJhMmQ4MWYzMzgxMmM3ZjUxODU3ZWQ2YjY3NWYxNjhkMDIzNTlhZjUwNmQ2ZmJiNDA4ODg3ODBjYmZhMDE2ZTlhIn0%3D&amp;signature=28c7aeddb67609f9b3cb6a75374414752c78937260c1248ff1bb6f18b91e1f1a</image>
+    <start>04:00AM</start>
+    <finish>05:00AM</finish>
+    <date>23 December 2025</date>
+  </channel>
+  <channel>
+    <name>GauTV ZA</name>
+    <id>GauTV.za</id>
+    <title>Eve</title>
+    <desc>We teach women to love and respect their men again, learn to heal from their past and face the future with a smile.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IjNOOGxYVnUybE5xV1huQk9oZjZUYnc9PSIsInZhbHVlIjoiUjJhN1h2ZmlSa2JobTFQKzhpVnJlViszbjhBR08yeXA2dTM1V05IMFdEWlZHUkw4ak5ja1B3ZFA4V1wvNnVDWVZHU0ZwbWlRY0FqWGhXTXlyXC82aDVxUU1Jd1J6QzNIekZCR1wvWDR6NDhLaXNMOTBqbVhqa1ZlVDVhSENOY2YxT0pyR0FcL1B6U2RVR0hUTDNTelA1MzRZTjA3SXhxODVQNXk2QXpkY0t2N2ViZzdOZnN1Y1VCdkw0M0J6VDVYTG42bSIsIm1hYyI6IjNmMjc3MDE3MjM1ZDZiMzM5NGE4ZDc5YTZlYTZiZWQ1YTM1MjZhNjg1NmM0OGQwMDU1MDhjYWQ1MjQ2MjMwNTMifQ%3D%3D&amp;signature=8fc9c3792772316a182187f726398803abf4901daa40a771280de5f82202cf17</image>
+    <start>05:00AM</start>
+    <finish>06:00AM</finish>
+    <date>23 December 2025</date>
+  </channel>
+  <channel>
+    <name>GauTV ZA</name>
+    <id>GauTV.za</id>
+    <title>Apostle Ebenezer Ndlovu</title>
+    <desc>Receive spiritual upliftment through the Word of God and get encouraged, revived and uplifted.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6ImlcL1U0VGhzdTQzRlVOZzh3Y0VoN2VRPT0iLCJ2YWx1ZSI6IjdJS2xqVmFBejlSNnNVbzV5VEFqWmRQUFk4TEVwcTd0NU1ua1wvSWNcL2g2Y0VJd09xTjdhRVgranZaV1Q5d2kwd25cL0JTWEJoU1pBRitKdDA0YVFVdVJlTzhvKzRLMTdYWGtFZ3pjUlJLaTlzVk1RdUZtMUM5VHJzVzJ3VVhcLzE5WXF1OVJXazdNbDlIelZcL29pdERtWHdrNkdxV3pLRmpZcHhQaWltTGhXbTJvWU1EUjFCc25wdVBlaXpzYTBzVFVtIiwibWFjIjoiZGU5Mzc5MjE1YzZjZmQ4MTBmYzIxYjU1ODdkZTk5MjNmZmE5ZGFhZmU3NWZlZDEyYTJhZjlkNTdlZWM4ZmIzZiJ9&amp;signature=7c8cea43326f3a833ed8f127b36e83691c41cf8794ce631cff36de7e0d77c9ac</image>
+    <start>06:00AM</start>
+    <finish>07:00AM</finish>
+    <date>23 December 2025</date>
+  </channel>
+  <channel>
+    <name>GauTV ZA</name>
+    <id>GauTV.za</id>
+    <title>Baby Brown And The Legends</title>
+    <desc>Catch Baby Brown with industry legends as he interviews them about their lives and the industry they are in.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IlJsaW95R3ZiZklxbDJ1aUpCWnRmRnc9PSIsInZhbHVlIjoiK3ZLUDNYMjdPMGFBVVM4MUVJRWtKRXo5Qm5WcDNyajMxaitTdHNrWGFlSk1IRlYwQ29nVDFjUUx0Wit5S2hXTFRrV0tZUjBvRU9RZFFQNkNVR3ZjSXBBd2hqTTFcL3lsK0wra2xCZlVBUmRrZ3NcL2Z2XC9qbzl5ZkxtM3Q4NWpaRTcyK21NdVVpcGp3dXE0YTdDN0ZDdzR4OUhVWEYxdEZOWGVVQStVWEJibU1GcjJLTGhnbys4aURRZGdTaTlEeW1DIiwibWFjIjoiZjIyNmI5ZTUyMGQwYzVjMDIwMTVlNTIzYzNlNDNjMTQ4MWZjOGQwZDk0MzFmM2Y1N2Y4YjQ1M2QyMzJiMWNiNCJ9&amp;signature=9b03fb2c25fa140393e0cd0ff92c757acf9b8722ad84aec2ab94b170c9e2d132</image>
+    <start>07:00AM</start>
+    <finish>07:30AM</finish>
+    <date>23 December 2025</date>
+  </channel>
+  <channel>
+    <name>GauTV ZA</name>
+    <id>GauTV.za</id>
+    <title>The Ear Professor</title>
+    <desc>Catch Professor Mashudu Tshifularu, 'The Ear Doctor', as he unpacks everything that has to do with ENT (ear, nose and throat).</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IlwvZ21iODNSMkhEMWNFODBPWXJ3MGV3PT0iLCJ2YWx1ZSI6IklEckxDVFdkRTMxU241STVaSkhaYjJaSno5dnQ3NzhETnBTMzBjN0NNbnUzS2N2TVdCZ0ZZWSszQWFYUGViTHhzZnFMVmh0RGw2UGlOSDdmbnNwZjhZR0VRcXhhc1dyXC9PdDd5cFFUYWJSaVdGdjQ1SFBxUndhT1Z4TzV3bXJib1Z3M3hUK20yVWQzSU9IOURqRWpIT3c5R1lMYitLYlpUcWY2emhiXC9nVERnaUxNYk5sK3RaVTVRT3ZyUVBHbFZSIiwibWFjIjoiZjRhYjEzOWQyNDZmODAyNGI5NTU2YTBiODRmY2I1Y2IwM2JmZjQxM2RiMzUyOGI1MjU0YzhjYzk1Zjk2M2E2ZCJ9&amp;signature=0a17c9c0634c91f8b470770df6586d6ca674e7b088004adc7de15e9490159152</image>
+    <start>07:30AM</start>
+    <finish>08:00AM</finish>
+    <date>23 December 2025</date>
+  </channel>
+  <channel>
+    <name>GauTV ZA</name>
+    <id>GauTV.za</id>
+    <title>You Are The Sought After</title>
+    <desc>Motivational, informative and educational clips.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6Imtta2tHSmtrSnFnb1diaWRcLzdQQnB3PT0iLCJ2YWx1ZSI6IjFsSHA0NmNMeXhTQkhZNG1MRTVIZ0xOVWhCZEZhSE9tUTljQngxWE9SWkYwcndzUVpNQ0t2eDZTRnk2RXBlUVR0QnFEaGM0UmJ1Sk0zNUQxZU5TK2U1blE3YmJMWk1lbGVIZ3FmQ3l1SXhEakNGYjltbGY1QnYwUHUralwvcXhqNDRUbG95XC9RN0hlcmhoNWtpeUplS0JtWTh0NU9vTkhRQnJOMkxEQ0RudGNRSWl4ZDg1YW54cm1KbFFMYk5cL2lPXC8iLCJtYWMiOiJiMzZkMDc5MzM0ZjY4ZDE3Y2NiZDYxYWY3OTljMDdkNmQ1NmNjMGVmMGM0ZjFlNTFmNWMyYTcxMjUyYzNkYmYzIn0%3D&amp;signature=d56f97c63d099a74337ec63abca4658b25a96e999c784b7e23b9ad1f0b712b37</image>
+    <start>08:00AM</start>
+    <finish>09:00AM</finish>
+    <date>23 December 2025</date>
+  </channel>
+  <channel>
+    <name>GauTV ZA</name>
+    <id>GauTV.za</id>
+    <title>University of Venda</title>
+    <desc>A mix of educational, informational, and entertainment content, serving its community and fulfilling the university's mission of creating future leaders.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IkpaNTh0WFl4RmRGZVBUbmxYc3ltSWc9PSIsInZhbHVlIjoic3BYTmppMDI4SUpPNmRkQ3liNnVnM1NsOGxyT2w3WkU1b0dwY3B2akJaQjRRUWVYbXpxQkVMZ1p4bkZ0RjNJN1hOa3JaRTlsRkJDNlpHdUxXUFM0YWlaZ3ZnMlpVNjJIeG9cL1FtNWk0SU9cL1cxMm0zeERnSjBEQ0V1NTJRUUJuYWY5NHFCQm54Z0U1YmdOaUUxeWFOck9oU28rd253T2JnUmxlQ0o4U0luNnVPSCtQdEx0Tld3S0FMYys0RlVueFAiLCJtYWMiOiIzYmUzMWMxM2EzN2UxOGVkZGM5MWQxNDI3OWU4OWI2YTQxYzZjNWRhNmY5ZjhlMjNlZGY1NjdmYjYzNjI4MTE0In0%3D&amp;signature=4bc51dacda3ec0c2334c198618294d99368264217e49d183e30ca618af2b664e</image>
+    <start>09:00AM</start>
+    <finish>10:00AM</finish>
+    <date>23 December 2025</date>
+  </channel>
+  <channel>
+    <name>GauTV ZA</name>
+    <id>GauTV.za</id>
+    <title>Raising The Bar</title>
+    <desc>Catch Street RAP Freestylers showcasing their talent.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IkJJK0VyZDYrQkdUWFZEWnU2OWhXdHc9PSIsInZhbHVlIjoiQzFjMHQyckNZSWFrVVwvdkl6ZXdqaGFoa3c0MXVPVUhGNGFWUVhqMmh3OE93RCtIOXRFNWs1OTZtajQ4UUxmTHVDanpNbEZpUWE2dVwvUWdiNHRtNGQzV3QrZEx4KzZPOGFqdFVDeUo2WnhZVHZ5ZEdDNmsyRCs4dm90d3FqbWtnVFBGQjk5NXZsekU4cHE1SE5uRW9FdXRZYXB0VDRaVEJYenBqalkybzd4b2ljRERMTWVhRW04ekFSZHpxS0FFYlIiLCJtYWMiOiJmOTI5YTMwOWYwOTViYTA0MzJlZDYyNzM0NTY3ZmUyODExYTJjYzBlZGY2MmRjZGFiYmRlNWE5YWJmYmZhOGNmIn0%3D&amp;signature=82c10b0674e578ab5176eb648a0db94fc661e21c3222356947402adfedc94855</image>
+    <start>10:00AM</start>
+    <finish>10:30AM</finish>
+    <date>23 December 2025</date>
+  </channel>
+  <channel>
+    <name>GauTV ZA</name>
+    <id>GauTV.za</id>
+    <title>I Was In The Closet</title>
+    <desc>A talk show that tackles issues affecting the LGBTQI community.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IktiaFV3djhJU1wvamozVm94RlpPK0VBPT0iLCJ2YWx1ZSI6ImJYNE82VUlZTk5pUXdsYU5yZDZhYm1JbDBlcDd5UUlmamxubjhKemdISjNmUmxaNFNNOUFzT0dWY3FjZVdiS05xaloyY1FOVFBJSEVna3V3Sm45NEQzNk5aRzZnaE91QmpLTnB0bDBYb3NCZlwveVNjaFg0SGVaYWNCRjI5cXlCdlVTVlVoeWNJejFrdlVvdkYrQUR2N01Wbzl4aGJyVmtLRVFFSU0rcXAzWXFpUDVoUm1mTjJwM2Q3bGY1MVZ4OFgiLCJtYWMiOiIyMWY4MGU2ZjBlZTRmODlmYmY3NGQxZDFjZmRiY2I0NTFkZDU1ZWMyMjZhNjc2NWY2OTM3MTE2YzZkN2ZiMDFiIn0%3D&amp;signature=427a956b98478a8c4ff0a8eff67b74e7a7aa837747623547b16de293cd3dbb26</image>
+    <start>10:30AM</start>
+    <finish>11:00AM</finish>
+    <date>23 December 2025</date>
+  </channel>
+  <channel>
+    <name>GauTV ZA</name>
+    <id>GauTV.za</id>
+    <title>Filler</title>
+    <desc>Let good music videos uplift your soul.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IkhIUmpUbHhcLzVSRnl0dis5R1VuTUNRPT0iLCJ2YWx1ZSI6IkFrTDZwa1FNK2VlclpaYnhaN3AwNmtrWFFrekJTQTlaNW1WOTdDaEhrdUJjdlhGdG5mRzZIN0g2NXZFblJyanF3TVdLWlRSNHhcL1NNQ0RlNTJpOVQ5dk05RlwvKzFIZURVNGdXVU56Vkt0eU5LVlBEYkh3VEVMSllOVVFmdjREc2p2dGJSSFIwcTlQTkdTVkFiU2lLTFwvU0hcL1hnNjA3VmNmOFVOZ0lvcUh6bGRudlwvZmkrQ2dJeVwvTGczR2VKNkZRRCIsIm1hYyI6IjBmODc1YTQ1Mzc4MDI2ZjUxNGIwNzA4YWM3OWUwNjQ5Y2Y4NWE3Y2NmOTM3YzE4ZGJhMDU3NzRjYzAwMTNjN2MifQ%3D%3D&amp;signature=57b6309ebb7d288021a72b4c3ea0e2021c951011ad08b6b5a39399f02575bd06</image>
+    <start>11:00AM</start>
+    <finish>11:30AM</finish>
+    <date>23 December 2025</date>
+  </channel>
+  <channel>
+    <name>GauTV ZA</name>
+    <id>GauTV.za</id>
+    <title>Radio Thohoyandou Live Broadcast</title>
+    <desc></desc>
+    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
+    <start>11:30AM</start>
+    <finish>12:30PM</finish>
+    <date>23 December 2025</date>
+  </channel>
+  <channel>
+    <name>GauTV ZA</name>
+    <id>GauTV.za</id>
+    <title>Forever And Always</title>
+    <desc>We shine a light on relationships and health, promoting healthy and positive relationships in different situations.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IjRJbjlCeUxVUjNraXRaWjhrdW5hSnc9PSIsInZhbHVlIjoiMjQ1NUtmMFNPWFcrNVR5ZWtUYld3YTYwUWdXem1MejhQYnRWZ2owRUpcL00zb2Q3VjZsMHhueVRjXC9WV3p3NlF1XC85UjNjSURiQ1k4aUNHaEV1K0JKXC9pT25qNjZ3QjNweWNPWm0wcEdVSzhNZk5VaU1JaFBtTmc2VEtnaUUybXpQZXl2ZjZpS05Vbm5LdDZFVmhMSVhmOXcxQ25ZQldobmtMdElYYzNjZlE4UXd4U1M1eWR4Z0NweU5tWDF3alwvbnciLCJtYWMiOiI2ZjNmMzliYjM3NmZhMDdiOWNmNjM4OTc3ZmQ2MmU1MmI1N2RmM2E2ZDQ1ZjRkNzdhOWVlMWNmYjEyMTU4ZWVhIn0%3D&amp;signature=81dda0a3dbcf9e8984284d3638cbd59838236f7bf48cb1963d250a4ff63199cf</image>
+    <start>12:30PM</start>
+    <finish>01:30PM</finish>
+    <date>23 December 2025</date>
+  </channel>
+  <channel>
+    <name>GauTV ZA</name>
+    <id>GauTV.za</id>
+    <title>African Inborn</title>
+    <desc>We explore the history of South African tribes and examine their origins.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IjNjQnZMUytuT3NZTlB3RENjTGQ3MWc9PSIsInZhbHVlIjoibGJ4emV2NStlaEpLOWpYMlwvUm15QkluUndBVEVrdmVRd1wveVNhKzd6bUFzXC80NHg5WHk4UytlMHZLRFhna1FCZDB6R3lBbVlxRkRiZ3RJTmhBVFBZM3Q1M1V4b1A2SjUrZTNwYzRNRkg5Zit5bEVLMU43d1BpNmxwYkdtb05sOThaRGxTV3RNcDR4Ynl1d3BodmdqclJMdjNQU1BNTTVhOEp1VXhsTU1DS1lzT1d0ZGZ2QUcxZTBxRnNsaWx2ZU1xIiwibWFjIjoiNzI2MWFjNzdhNWQ4NTdlOWZiMzJiNTU3MDg2MjViOGZkMmYwZWVkZDE5MGNiYzU1NzFmZmQ0ODY0NzM5YTYxZSJ9&amp;signature=5b261b5d30244d587e34738555fc1dc3e2d5529b3e89c81b3ca1457b0b27eaf1</image>
+    <start>01:30PM</start>
+    <finish>02:30PM</finish>
+    <date>23 December 2025</date>
+  </channel>
+  <channel>
+    <name>GauTV ZA</name>
+    <id>GauTV.za</id>
+    <title>The Braai Show</title>
+    <desc>We give you a fun, insightful glance into the lives of SA's most intriguing famous personalities.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IngyekZ6eDhJZ1ozSU44MzRFQzdqUkE9PSIsInZhbHVlIjoib3hJbnFQM2tGV3RaeFVHSTN3Q2ZmbUxrMXpVK2RzXC9aaTJaZGdUbytZT3IxRGdtOFVkY1wvNHk3UkFobjFyTTdHTEpUOU1qWnJRTDJTWVFPc2Y3RkJQUnorc3o2WFlOV0tmdDliZ1JTZ0JxcVpkQ1YxSm5GMlZWMjdncXRTQUJ4OFFKMDNSa3NWd1hHQlhWSkwwZmhYUTJWRU9rYUFwVGVGOGdGZytFKzl6VEhRbEpLd2d6enk2OVJEKzlZWmJXZ1IiLCJtYWMiOiIzNDgwOTM0Mjc4NmJkOTI5YmNkOTFjZGUzNThiYWE1ZjFjMTJiYzYyMzQyNzM4NzA1ZGIwYjZlZWVlM2M2ZWUyIn0%3D&amp;signature=20cc0de7af631b50938b5a2e43ec61bf27b0397925259b43696da351bc5ad5bf</image>
+    <start>02:30PM</start>
+    <finish>03:00PM</finish>
+    <date>23 December 2025</date>
+  </channel>
+  <channel>
+    <name>GauTV ZA</name>
+    <id>GauTV.za</id>
+    <title>SA@30 Podcast</title>
+    <desc>Catch Jeremy Maggs on SA@30 Podcast, powered by BrandSA, exploring and showcasing the country through the lens of growth, potential and opportunities.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6ImtsZTlrTkdsbTN3bzNKa0xsYzZuOUE9PSIsInZhbHVlIjoiQndZbHBjajhuNGpOMmNockcyVFhzS1FmTXd5THZsQlwvQ1Z3cW9QQmk5Y1d6SThrXC9MaXBvSlR0eGN6WDhZU08wT0U5N3JTXC8yWkhzdjJBRTY3OGJGc0RwR0pWTlBHek56NEpzK3RYQXl6UDBpXC9VcFwvWG5oTHR1dWlkcDFkZlZxd3hWZzFRNk1UUjU4V21yM1wvYzNVYVF3bVA5dm1Id1J2MU9oZFZaZWRUNlFxRENYeHdlQVUzYlhvajR2WW04c0VWIiwibWFjIjoiNTA5ZTc1ZTM0OThjZmRkZjI0ZTc4ZGUyY2Y0OWVmNTVlNDllYTdlNjIxYmVmYWE3ZDNmMDE4MGUwYjQzNjhmNiJ9&amp;signature=bb1d47df945a9859e2b138bff93dd689b5a76702f1cfde57f84b43da677ba768</image>
+    <start>03:00PM</start>
+    <finish>03:30PM</finish>
+    <date>23 December 2025</date>
+  </channel>
+  <channel>
+    <name>GauTV ZA</name>
+    <id>GauTV.za</id>
+    <title>Business and Artist Talk</title>
+    <desc>We promote businesses, big or small, and upcoming artists by helping them sell their music. Both business people and artists can market their businesses or brands.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IkIxdXdnMEdGYWYxNUN5UWpQeTlDbGc9PSIsInZhbHVlIjoiSlhtNWM2NXdFZFlFZlFZdHRFOUtvNmV6aVJycVpcLzA5VGJhU3ZXMUhyMjMzeEZ3OStCWHpXbU0rZTBhMjFBZDJHZ2Y2eXFsYmsxT3JCVjNvcHArVUVFOHlZSWJVNDNabXRpbHNkanlFakdwV0x3TzJhVXpqb1FOT3JFYTM0em00UklETURrUGhNYjNpSUZ6bFJ3cTJmZ3prdzR4RTZ3S0czS2pnVjlxc3pZZDRKTGhvSmdPVm14NkJpRDZFWkJPOCIsIm1hYyI6ImVkYzMzZGE1MTdiNWE5ZmQwNmU5MjE2M2YyODk5MGMxYTlhYjJiMDZlODc5MWFjNWRhNzkwNTgxZmVhMWY5OGUifQ%3D%3D&amp;signature=2fbe5ca4862ed72f5e40320693691c525bc4b47b081f56e938a3aae8f90da6fb</image>
+    <start>03:30PM</start>
+    <finish>04:30PM</finish>
+    <date>23 December 2025</date>
+  </channel>
+  <channel>
+    <name>GauTV ZA</name>
+    <id>GauTV.za</id>
+    <title>TUT Music Idols</title>
+    <desc>A platform designed to discover and showcase the musical talents of TUT students from all campuses.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6Ik1JVmNWXC9KZld3WFp3WUdWbWdwbTB3PT0iLCJ2YWx1ZSI6IjVXYWY1NnpEbHZiTTZxWVFmUjZTZUJjNVprZzloT3NtSG1rbUxJV0hmelphXC9ERjYwS0J3Y1hcL3pzb21aT2xyWHhDTm9pYVQwdFJWelwvMXc4RmlWRzdGK1hpK3JJRmxcL08rSDhscWxQSnlHek5TUjdvTE5JXC8zR1p6K09zN21FN2RcL3B1Y3E4Mlg5bXFIZFAwaUxTUENTQnlNTEtzNnBsZ2lzNFV3ZkpBd1JkeXFXZnpONlRXY2lHNHA0VERPWWt6cyIsIm1hYyI6IjUxM2FhMTcxM2MzODhlZjhlMjdjYjUyYjc3NDA0MmU0ODU4ZjY3ODkyNDdkMDFjNmVkNjc1N2JkZTQ5MzJkNjkifQ%3D%3D&amp;signature=24a111f22b9ee2adba6796678f1e51c9e021f12ec80e50aa35baf56bbfa51dce</image>
+    <start>04:30PM</start>
+    <finish>05:00PM</finish>
+    <date>23 December 2025</date>
+  </channel>
+  <channel>
+    <name>GauTV ZA</name>
+    <id>GauTV.za</id>
+    <title>Radio Thohoyandou Live Broadcast</title>
+    <desc></desc>
+    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
+    <start>05:00PM</start>
+    <finish>06:00PM</finish>
+    <date>23 December 2025</date>
+  </channel>
+  <channel>
+    <name>GauTV ZA</name>
+    <id>GauTV.za</id>
+    <title>University of Venda</title>
+    <desc>A mix of educational, informational, and entertainment content, serving its community and fulfilling the university's mission of creating future leaders.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6Ik95Q2dZbEtQOEdnZFAyV2kza21PSVE9PSIsInZhbHVlIjoiSjdBQzRuak1zNU9qZUlZM00reEhqaXNKWm16N3FOcXBOc3RFN3laZVFJemhtcllYZnN5T3NDQVJiUDBZM3pZRkJsZU9MdklMWFA4UkMwckRlRTBlSWdHVjF0anQ1RlgxWVA4dlh0cEszTFp4Sitib002MWVXS1ZJREtmTlN6N0pBRFdPdnk0emtRUk5ZY3RUXC9YeFwvWnB5OWwyMEhCWkk2WDRjZWVMSjdidiszOHRsXC9zc1RUTXFzY0o0TUsxcTNKIiwibWFjIjoiNGZmMjQzNzg5NzZhMDE0MTJjMjc5ZmRhNzE3MTkzMzExMDE0NjUxNTY2YjBlMWQ2N2U5YmI0NGY2MGVmZThmMyJ9&amp;signature=7c2104d6abbca42d21a6f78829170d35959ead7f84225ab423e06b156cb7af0b</image>
+    <start>06:00PM</start>
+    <finish>07:00PM</finish>
+    <date>23 December 2025</date>
+  </channel>
+  <channel>
+    <name>GauTV ZA</name>
+    <id>GauTV.za</id>
+    <title>Living Victoriously With Apostle...</title>
+    <desc>Watch spiritually reviving healing words of strength and encouragement.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IlJtbjdGZmZsdmJmZFhqblwvZUJ3Q3dBPT0iLCJ2YWx1ZSI6IlJpSWJVZzZMVWJhRjZoNzc3cGtEWnE1RUY2S1loSXZwTnNXZXJjY0xlMGtpd3RJVzRrbENYeXhraWZxdERNMUdQWldGb2VnRWc2K2RjeEN3c2lGdHp4UFliRXB5SnVQK1VTTkxudlhJSFJVNTJya0dGMEpkZ3pIZm9Tc1g2amlRbGhkalgzSmgwMkVEc3ZGUUVucEhHbEh6b29UTFwvbk5NXC8xV3hUR2NaZ2NLSG5cL3p3Z3RCWlpMQmlkMDBha2hSMSIsIm1hYyI6IjQ5MDBiMjAzMWIzZmM5ZDgwNjU5ZjkwNzcwZGM4YmU2MThhZmZkNzZkZjlmM2RiOWM0ZjAxMjY5OWIwMTQ5YTkifQ%3D%3D&amp;signature=6f6e391f59de7602b5bfe779307f5364c5db20d97a065f34ac6ac7b24521c995</image>
+    <start>07:00PM</start>
+    <finish>08:00PM</finish>
+    <date>23 December 2025</date>
+  </channel>
+  <channel>
+    <name>GauTV ZA</name>
+    <id>GauTV.za</id>
+    <title>Apostle Ebenezer Ndlovu</title>
+    <desc>Receive spiritual upliftment through the Word of God and get encouraged, revived and uplifted.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IjZQa2JKcURTN3VJUE0xUHY0dDlLZXc9PSIsInZhbHVlIjoic05qK05yWmthSWpzb0Q1OE5BaWRNUGNFS2Y2Mk1CMFhQbng5VUVaQlJqYUJESmJRSUU0VGRHRG5ONVwvOUlVVFprXC80dDhUeEVZY2xoVXZVOG15NWpcL21MMUNMOGpMSmIrWjJBY0lEeXNubmJoTm9jQTJXN1ljcGVwVXl2R1VsMDExN0lONndpSlVMK0hKMTZMRlZlR1RvYURMb1ZBVUZHMVFEWGlJUnFNM0kwckpDU21XTHFtY3BxbHpDZEpFcFRQIiwibWFjIjoiZTdhY2U5YzkwMjk1ZGQ3MDBmNTVlZDk4YmE0ZjdlMWI5NWU0YzkxNzVkMDBiMjM1NGNiYmE2ZDNiODFlOTQ5ZCJ9&amp;signature=94eff23379021c443ab783c00748b8c340e1ddfe519db8ddd68a0cf7487b05b1</image>
+    <start>08:00PM</start>
+    <finish>09:00PM</finish>
+    <date>23 December 2025</date>
+  </channel>
+  <channel>
+    <name>GauTV ZA</name>
+    <id>GauTV.za</id>
+    <title>Gospel Songs</title>
+    <desc>Get spiritually uplifted through music and be filled with strength and encouragement.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6Ik8xc3FaU0Z2dnltMTdCdUUrRGVsXC9RPT0iLCJ2YWx1ZSI6InpRdHhtdE44WjZzcjhvUm1EYjAzR1BiTXJNME1PZldJY2VIampoWkFuK0NTZ0pRWThcL1BCSkk3UjZqUDBsa0c5bWx6Wm9ubHI2UjhcL3BLUVFpTVVEWDNRQkpGZXc1UDhvd2k2WndZdHJpOE16VDZ6Z2FFYWJHc0NrOGZLVUR3QStyc0Z0cTI5RFlrNGlJQ1NPVEpBdlJmS3JDYXZwUXJ6cTRKbjluM0tNVmZobWpRR1ZtSzRJTXNMNTNYelBwZ01PIiwibWFjIjoiYjFlZmZlMWNmZDMyMTcyOGYzNGVlNGI5OGM2YzlmNTRhODk1MmY4YWNlNDc1ZmFlMWVhNWFkNDE1N2U2ZGQwZCJ9&amp;signature=ff5f7f4877bdc05f32311824959991bb4fd3d00bfbbe0bf2850f0fe9c07d5530</image>
+    <start>09:00PM</start>
+    <finish>10:00PM</finish>
+    <date>23 December 2025</date>
+  </channel>
+  <channel>
+    <name>GauTV ZA</name>
+    <id>GauTV.za</id>
+    <title>Filler</title>
+    <desc>Let good music videos uplift your soul.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6Imp3ZXlXQTltS3JFell2U0drNG1yT1E9PSIsInZhbHVlIjoiU0dhOHAzQkRVbzAwUE1iRDNSMDNnNW5wUHJPREdDSUFoWEhqOXhFT3c4cGt4S284N2dubFZTd2tFZTloMU5WTnBPQkY5ZkcyVnVMU0FLbStyaW9TSm5IUWdoaWNMdEdWbmxjdlJBa2RHSFkxSXZXa09IeUIxV1hIb1B0eU1cL3NwaFwva0xKczdXVnJremcyMlNQQVRhWW5MNFAxU0Rza2hLT0N4aHN1YXRjblZxRzNnZEIxV0kzZlZ4NTVqRUVEbHYiLCJtYWMiOiJmNmIyNTkwZjhiMTU2NDQ0MDM3OWVhNjRhYTE0ZGJmZDQ2NzYzMmEyYjU0NGQ0MTJhMDVmYWQ0YmIzNmU5YWIxIn0%3D&amp;signature=1bed64bd2c02abfc93537148db9035726d42d079fccf48a3c4e56e97ef7df0f1</image>
+    <start>10:00PM</start>
+    <finish>10:30PM</finish>
+    <date>23 December 2025</date>
+  </channel>
+  <channel>
+    <name>GauTV ZA</name>
+    <id>GauTV.za</id>
+    <title>My Selector</title>
+    <desc>Get entertained through various genres of music.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IjhTa1pTUUZcL2hDNm1mXC9CQzlBNXUwUT09IiwidmFsdWUiOiIwQ1wvdFU5V3B1S0JWdDJcL3BNcWtYbldNVTF2VjlUWExVclhyaTZEV29EXC9ZbWl6NXI4bFlSK0diTkZzTHUzcVUxZGtwSGRGK0N2a2dKNWVzQWxvMnVnNnV2VEpLRlVaV2ZnZFd1OFJlS01UeFAyZ1wvY0RFZXNtSmVwcCtHT1o3UFZpVDREOVNBTzk5UUFCNlFIRnJsWFBZZVU3bFZ6M3pQbkhHY1ZOQXZsNjdybzdnUlVqVTNiWmxIWmlLQis2SVpuIiwibWFjIjoiZWQ3MzQ5YzE0YzQyZWY5ZDdjOTRjYmFlOWY0NjkyYWZiOGMzNTI0NTc0ZWNmNGIyYTMyMzk1NDNlMmZlMDkyYSJ9&amp;signature=6235f6f725d1ea5ee6d7c421fc12bae7e1e50586a32742bcfe5284fd51e39276</image>
+    <start>10:30PM</start>
+    <finish>04:00AM</finish>
+    <date>23 December 2025</date>
+  </channel>
+  <channel>
+    <name>GauTV ZA</name>
+    <id>GauTV.za</id>
+    <title>Gospel Songs</title>
+    <desc>Get spiritually uplifted through music and be filled with strength and encouragement.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6InJvczNRS2NYN0VyOXhqeHRwTWRtemc9PSIsInZhbHVlIjoiYWhZbVJsXC90M3M3b3FVTFYydDlBN3VSWnptbm52dmdXMHZlbldOcVRxbEpxK1VoekJRZGhwTTJiTFR0Y0VlK3loZFF2MXdWUnZYd3Eyb25RdHhMcUhydmhUNXRzZjZVMmllbk9YcmNVVTF5czgwdTBLbTUyN2VTN3BhYmh4WmRyZ0JPNmFnZHNtMCt1UkkyWkpUSlo0UjJ1Z1FhaGoxZ1F0REhEVk9KaHVNR1plRzB5NEExdWFRUEFqUmFxcG9XRSIsIm1hYyI6IjYzOTM2N2VlYjM3MTdiYWYzMjZjYTg3ODA0MmYzMGY2YjNiNGVmMjY3NjU5NDZhY2MwODZmMzEwZjlkMDlmYzAifQ%3D%3D&amp;signature=3adca48a6794f7fce913ae5f6ea9db5812126e5d8b6596123386fbf265b94e6a</image>
+    <start>04:00AM</start>
+    <finish>04:30AM</finish>
+    <date>24 December 2025</date>
+  </channel>
+  <channel>
+    <name>GauTV ZA</name>
+    <id>GauTV.za</id>
+    <title>Lemba Cultural Association Competition</title>
+    <desc>A clan that has brought at least 1 000 people will receive an award of R1 Million.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6ImpBR2JaSXdENnh4MjB6dit6Y1AyNmc9PSIsInZhbHVlIjoiVFZCQ2QxT1V0aHJKa3J1UzltZStISGRGaWdBZzFqZEFqUldcL09mdDZUU2hvRjlJWTJleXZ3WGVESHRXNmFiN2tmZHorNHhwNWVCZ2pqU1JJQ2NLcXRjZUt6eUhhUnZvajhtdERlRTJtdWFRTDBBNHBOUW9VM2dWa3ZwR3Izd2cxQUZSVFdlcHo3aVRBVWcyRjVSUmZRSEJaMHA3MzB3d2sxQXQ1RFV1SVNqVnJRWnR5K2t3WlBJM0VLMVRTTzYxZCIsIm1hYyI6IjY5YzQ3YTVkZDFkZTg1MDM3MzQxNzNkYmY0ZDA2ZWQwNjk2MjVlNWZhZGVlZjQ4YjQwZWFlMTI3YTZlZmY3Y2QifQ%3D%3D&amp;signature=5599d5abe402672cbc9cafa2fd87d358cc0aea131a90cbcb0760d6ca16fbb714</image>
+    <start>04:30AM</start>
+    <finish>05:00AM</finish>
+    <date>24 December 2025</date>
+  </channel>
+  <channel>
+    <name>GauTV ZA</name>
+    <id>GauTV.za</id>
+    <title>Talk To Me</title>
+    <desc>A vibrant talk show for the young that's aimed at educating and addressing diverse social issues.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IlBNT0E2aHBCSVVaU2Z4cGNyR2V0Smc9PSIsInZhbHVlIjoiWWFDWjBvY1F2M3hEN1wvMUlhWkNpeElRVHJHdW9yRDFoVHhseTBlbXd0aktIY05CZmdoeDJJcGtXZ3c5dG1LYzJVcUR2UUlJSUpFRWJGaGtSTVwvWGc2V2oyN3hLTFlObm92dzFBMjlOengwWGxJbDAySWJLZldKMHhkcVwvTjI4bHZzT0tlRExOWkl4WW83QTRiVkVqeUZpYzRaMEZ1ekdXV3luZUd3UzR3WHZ1S2hsdFlSaThyM2ZJRUJzN3cyWFFjIiwibWFjIjoiZGNhYjRkYWRmZTIwZDhkODg4Y2MzZTAwMmJjM2M3MDEzM2VhODdlMzYwMjA3MTU1MWViYzgyMmVlNDMzZDIwNiJ9&amp;signature=a0aa82fd514d9d976ccbc101e8ba48c4c5de6f621e3b7810ff8919b7a1f37f0c</image>
+    <start>05:00AM</start>
+    <finish>06:00AM</finish>
+    <date>24 December 2025</date>
+  </channel>
+  <channel>
+    <name>GauTV ZA</name>
+    <id>GauTV.za</id>
+    <title>Apostle Ebenezer Ndlovu</title>
+    <desc>Receive spiritual upliftment through the Word of God and get encouraged, revived and uplifted.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IndxUmxqTTBIRWhrbjk0cGFQUmp2U1E9PSIsInZhbHVlIjoiRWNoVWRQQzVxMG9jSmxlbXp4RDBsSXZHZ1JuS0ljcU1EM0V2VVp3ZmpJXC8yc0hZcHNaWXIrK0krdGczM3VjU3FwYzgzRkNseSthVDYxVjE0QWxcLzVQSzVlbXhzMmp2OXB0RldpT01iNVwvb3VHYVwvcFZDQnM4bDBtcGFhZG81cXdIdUNUQVFIbmZBSVUwREhVZUJGMlZhcWxlaDNHNjU1NzlMMzh2RlZnU1B2elVCcXhsZmZyckVyUTlIYXdKQ0o5bCIsIm1hYyI6IjNiZTFhYmVkMDhjMDU4ZDM1YTlkMzg4YjUzZGE4NTM4OWQ5MDFkNTM2NjYxZTJmYjU1ZmQ2ZGMxYzk4MzNlZmQifQ%3D%3D&amp;signature=e28765ad29821b72732efa43df3c6e2d8d01ce25b8c530e1292b407c4fce045b</image>
+    <start>06:00AM</start>
+    <finish>07:00AM</finish>
+    <date>24 December 2025</date>
+  </channel>
+  <channel>
+    <name>GauTV ZA</name>
+    <id>GauTV.za</id>
+    <title>My Africa</title>
+    <desc>An Afrocentric show with a main objective of creating consciousness about African homeland and history, breaking down the bigger concepts into smaller ones in a way we can all understand.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6Ilc0SEdlSGVHQVwvWHJCWW5ZcnpweVdRPT0iLCJ2YWx1ZSI6Ik1mZ21JUm00MWR5amRUK3h1VzJROG9tYk13SGdmQ0VyVklxRTRLSzZ4UFRcLzUrbXd0cUFBK080WHNiUjBqVTJUVCs0N1NJRENGRTFhNXZuMUdzXC8yMndHQTBzdjRYN3V4d2owdnp5YXViZGpMNHozVWh1ejVXbzFSMUpQOVVSdU12VDBUZ2lMTjdSNTFcL1VRODk2YWFiTDF2a1FHeWQwUlp4NlRwTE9kTWJtZm4wdzhsSFRBZWRXMEpyTmhzN3dMRiIsIm1hYyI6IjYwMDhjZDMzN2RkZGY5YTAyOTUwMTg3YTJiZjI3ODBhZGNiZWQ5ZTY5ZTY3YTIyZDVhN2ZiZTgwZGZkYzQwNTkifQ%3D%3D&amp;signature=5ee4bab428ed8ee8cadf878e26503e615e04451754e27be5a2b7b4b7f9e21d5e</image>
+    <start>07:00AM</start>
+    <finish>07:30AM</finish>
+    <date>24 December 2025</date>
+  </channel>
+  <channel>
+    <name>GauTV ZA</name>
+    <id>GauTV.za</id>
+    <title>UNISA Music Concert</title>
+    <desc>The concert celebrates and highlights an array of distinguished genres, including classical piano, opera, jazz, and traditional African music.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6Ilwvckp2NHJxN2FzSUNtam5WSit2cFFBPT0iLCJ2YWx1ZSI6Im9UXC9MWkpWTEowS1dcL0ZjTFF1WVV0UWtQZGRqUkNMQ1lNeFhiMEw4Q0V3UWxZK3JMZDZpZXFqYjdQa0pCalhUUlhuYVRMYU5mRFNmb2tvek9ZY1FaMnhuUkNDcnlvWEJWT2RrY0UzYlh6eFhnUEtQbk9yMWhXZ3RibkYrVEVrdjJyTXpyd2VZWjBkNklrdE9aYUtPNnkyeDR5dGlvWTBJejE0cUVaZXp1aW5EQXFEdzRBY3I5QlB2SVpOUVJVa3BCIiwibWFjIjoiODlkYzExMjcyNjM2YTFkNWM5YjNjMDQwNzE0ZDUzNmVmZjdkMjNlYTNhNjI3MmZhNjRmNWY5MTdlYTE3ZjlmNSJ9&amp;signature=8e559a2b6425cdcf139591ce1c045be356d9706fd18fd4614b9edc69ac0bd480</image>
+    <start>07:30AM</start>
+    <finish>08:00AM</finish>
+    <date>24 December 2025</date>
+  </channel>
+  <channel>
+    <name>GauTV ZA</name>
+    <id>GauTV.za</id>
+    <title>Gospel Songs</title>
+    <desc>Get spiritually uplifted through music and be filled with strength and encouragement.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IkZOZktKWldaRllWRkYyNkMzaTNBdnc9PSIsInZhbHVlIjoiVjZINEh0ZXJsampcL2V0a3FXNzZGUDNkN3prbUwrM3BRbzZXSzlOM3kza3UrdllJZExvYmZzVldrVXdPVzVZQzF6NTdKcFwvdFRsMDRjOFJzazU5SWlFeTRyc2xvZ2N1UHZQXC9HQVFjWVJRQ2NnaXRHZ2kwbkQzSUMwUjltRjBzMXdUNUtOTWZKMUtlazdORGtwVE9na0g3XC9jOWdYXC9kVVlDejdPdjd4RStzaDZzWjUrRHl3R3FwZkk2dzZCZ1RaT2wiLCJtYWMiOiJmZjkwZThiMWM1ZWMyZDAyNzE0Yjc4MjhkYjkzZmU4MzMxYmI0YTcwNjY5ZWVlMWJlMDRlYjk2Y2QxZThmNjBjIn0%3D&amp;signature=befea5bb00eed6c9340c2fc52e1b45f7d4963401d11aaae4c9bb29fc0218df55</image>
+    <start>08:00AM</start>
+    <finish>08:30AM</finish>
+    <date>24 December 2025</date>
+  </channel>
+  <channel>
+    <name>GauTV ZA</name>
+    <id>GauTV.za</id>
+    <title>SA@30 Podcast</title>
+    <desc>Catch Jeremy Maggs on SA@30 Podcast, powered by BrandSA, exploring and showcasing the country through the lens of growth, potential and opportunities.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6Ik1aRmJvUXpwWFBFSjRzR0M1OU9nMlE9PSIsInZhbHVlIjoiWEVVeHE4NSszZXZUd0ZkR2ZvNzhnN3ZHcGlcL0M0SlNNVW1LSDJCZG5TZkwxblQrQTNzNk8xN1ZsRUJ0a21EU1paT3dcL1RpNkp1NUxzQzFGSGxzS3B6U2NNc3pcL2JqMHNOTWFkeFhaWmVKWGFTTXAzeitIM1l1dnJaYmNENjNRVFlWTStsZk5mcWs2VnZVTUNnMUoySlkzUitLV2RUMWo5Q0FYTmU2eklsYTJvWFV3SmFnVU1jMjhnUWo0OTd0aUFmIiwibWFjIjoiMzQzMDAyNmU4ZjYxOWIzOTJjNDk0NmRhNGU5NDZkYjcxNDVmYWUxNmUxNTMyNDdjOTM1YTUyZDU5MzNhMWQ5NCJ9&amp;signature=13e1cba22b21f8dfbe25227c461e672ad9f4235d1b414df59f9bd3d5c88d6e37</image>
+    <start>08:30AM</start>
+    <finish>09:00AM</finish>
+    <date>24 December 2025</date>
+  </channel>
+  <channel>
+    <name>GauTV ZA</name>
+    <id>GauTV.za</id>
+    <title>University of Venda</title>
+    <desc>A mix of educational, informational, and entertainment content, serving its community and fulfilling the university's mission of creating future leaders.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IlVnMGdJbUNcL1wvd1VyMHVnTVowN0Y4UT09IiwidmFsdWUiOiJBcXJrZmVaWTkxUjNzbWQ4UlJYUSt5eUdnTk81ejNxY0NHYkRKZTB1bUtkKzMycVV6K3NvNFU5S3M3QXNiWmVoTndWbnlnOWVuWFpTRVMzTEc0V2VFVUdab25YclRveTFybjdtOXMzZGk1ZjRYUnIyN0pNeGZ4dGdKZmtkTGpXdjZ4UWc1dlc5MnZFeEJXR0E5TFk2V1ZKQzJja3JWbE8xMjhCTE9xS3Zsa2x1Q3dhSlVPK1Z3T1hrdkk3QVFRS3MiLCJtYWMiOiJmMzJjZjQ2YTlkY2RkNDI2NjY2ZmZmYWVhY2JiYjIyYmEwMDliZTgwM2FjZWQ1NTUwOGUzZDBmODY3OTQwOWYzIn0%3D&amp;signature=edbea7be432a102c419ed5357b06b935804bf968bcee2ec12b02f6dd10d887f7</image>
+    <start>09:00AM</start>
+    <finish>10:00AM</finish>
+    <date>24 December 2025</date>
+  </channel>
+  <channel>
+    <name>GauTV ZA</name>
+    <id>GauTV.za</id>
+    <title>Gate Crashers</title>
+    <desc>Fistos Mabs hosts a vibrant entertainment show.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IjFQU21zQlFhNmdBcDFFdnUwOEZXeUE9PSIsInZhbHVlIjoicXdkaTlwUU9aT3Jkd2M0clo0MVVrM1lDMjhRU3JWTVhvQzByV0JpcTA1Uk5WUGJTSzNVRWhiVG9XNElTU2dMMDlKeGtFSzg2dlV6Z0JZSndySDdhaDBxcDFKNjRPYlNCVWFpenc3Mk5PV1RETFNrNnBVZFwvTXU0OGo1SmdBb1BHelwvRDRYQTFKUEpkUkZnMTk5bmxra1wvSUZJSHU3SnZRRktYVm1ENWo1bkYwa29qa1wvbjZCUWhYOVM4T3pMYjZ1MSIsIm1hYyI6ImVhYjA3YjY3NjgxMTg5MTg4NDAwY2Y4OGEzMzNkMDBkMDQ3YzlmZGE4NDMwOWRjNzM4NWVjMjNjNTI0OWYyY2YifQ%3D%3D&amp;signature=b252101069ebe2a30dbed88f00e24425db7f7be9748cfa6ad8850adab437e7af</image>
+    <start>10:00AM</start>
+    <finish>11:00AM</finish>
+    <date>24 December 2025</date>
+  </channel>
+  <channel>
+    <name>GauTV ZA</name>
+    <id>GauTV.za</id>
+    <title>Filler</title>
+    <desc>Let good music videos uplift your soul.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6Ik5hVURkam9uUDBNbjNHUFhRSTJWbFE9PSIsInZhbHVlIjoiRHdYYzErNlhEQnA0YjlqZlZQWlZBc1NYZm10T0JERVhCQXFtdjNiY1RBSVRWYTd0Vk9Ccm5HM0Z5dHdRdmFpK3YwbGF3T0x0cVwvcXNxWm1UXC94eUp4R1F6alVrRkxXMzloU3YxU2JqT1JEUERXREtTQjJPWGJySTlDV3Y2Z3NRd1U2dytqdmVFZWhaR2pwb1g5dTA3eWlhNHpkRDh0Wkp5aFJ6enl6MFpITVUycFdSZEZJK2I1eDh1R295KzRUM3AiLCJtYWMiOiJkYTBjOWI2Y2NiYTdhY2EyNTkxYTc3Yjg5YWU1N2YwM2EwZTRkYmU3NzcxNjg2MDBlMjE2ZjkzY2Y0YTA1Y2NjIn0%3D&amp;signature=561cc3f2d53ef1dd542d1ba695c58f78373d3dd57769ed3ba0e95da96a06826b</image>
+    <start>11:00AM</start>
+    <finish>11:30AM</finish>
+    <date>24 December 2025</date>
+  </channel>
+  <channel>
+    <name>GauTV ZA</name>
+    <id>GauTV.za</id>
+    <title>Radio Thohoyandou Live Broadcast</title>
+    <desc></desc>
+    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
+    <start>11:30AM</start>
+    <finish>12:30PM</finish>
+    <date>24 December 2025</date>
+  </channel>
+  <channel>
+    <name>GauTV ZA</name>
+    <id>GauTV.za</id>
+    <title>Daughters Of Destiny</title>
+    <desc>We address topics that affect women's issues such as female empowerment and women's leadership. We also cover motivational, informative and educational topics.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IjhNTWE5UXpGVzltWHlSVUY3ekQ1YWc9PSIsInZhbHVlIjoiOHBwZHZvbWl1YU9CUjNsbnJta3NoeHc2bDV6WjB2U29OSHFmTmxOUThrWlM2SHdzTmk0d3VIMWYzakNGTE5YRzRhUUFHUk1BaFF6N2x3NWk5RGtWWDQ3YlNHZ2J4S0pnUWZYQk5oa212VWlsNHJXUXFJSHZzbzlQcHRpSVNVSDhcL3NhVk5xdjJTYm5xRTFMYSs4N0s3NUQzNGp6WDZ4ckc2MExsU1wvb3hBdDg2YTlvSUlqYzJIc0ZVSTlKUzRkZVMiLCJtYWMiOiI3Y2U3M2M3NmMwOTIxNmE3ZThmZTBkZGYyMDc2ZTFjYjBjODFkZmQ1ZmZiNzc1MmY1ZjY3YzNkZTMwOWUwYjc1In0%3D&amp;signature=607ca31d11233d85b9882dc62bb5fea1468f65fc12b97bedfcf8bd70c44cb9cf</image>
+    <start>12:30PM</start>
+    <finish>01:30PM</finish>
+    <date>24 December 2025</date>
+  </channel>
+  <channel>
+    <name>GauTV ZA</name>
+    <id>GauTV.za</id>
+    <title>My Leefstyl</title>
+    <desc>An Afrikaans lifestyle show.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6InNLTHpOK2dXZHl3Mkc3SThmdWZJdUE9PSIsInZhbHVlIjoiQ2p6NURjQWJRMW9SMlpOOTR4azZONGgybWREalZwS0pudkZHbERpK3BhSDhxWjBBZVJOUW1zeFdjXC84NXYzdzgrNjlSTHk0SGRFZGw1WEVaSTNhTU13UUI1VXpNV0tXQjZCQStkRkNocDI3b2QwK0NwNGJhcnVhcjFScGNvYVJiMjk1TDI4MjdJOERsaThPUlp2bjdLY2pCblFFM1NtS3Y4SjBWbjN3MlR1VVhIcFNaY3dYclkyTmN5SlJnUzVEVCIsIm1hYyI6ImZmNzU2OWQ4NWU5ZjEzZjVmZmY0NmE4MmRmMTY4ZTRmZDRhOWFiMWEzODRiNDc4MjU1NmU4OGMzMjcxODg5NWIifQ%3D%3D&amp;signature=7ae06cdaf4a1f3d5d6be11e002f17ac80119c6386fb4763b4d45369bc18cef0a</image>
+    <start>01:30PM</start>
+    <finish>02:30PM</finish>
+    <date>24 December 2025</date>
+  </channel>
+  <channel>
+    <name>GauTV ZA</name>
+    <id>GauTV.za</id>
+    <title>Successful Conversations</title>
+    <desc>We bring together powerful narratives from successful men and women, and the Journey into one compelling platform.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IkRRYXpvWFFOXC9JQlFRQUc5WWhQelhRPT0iLCJ2YWx1ZSI6IjRVQzBWRUlla2hKT3I1TEF0K0tsTHhGZVBMeGpkbE5ZU3ZBajJZNVVKcnhIMERGZjNRXC9zdFA2NUZtdkQ4Y1hRTEdcL2dEVHJjbTBzZittbm82dEFuSTBWM1R5Y3lZVkZtQjR4cVwvYmdzNEVhNGNkN0J5U0FtTnZKbUwzVGlEZTBOcTF3RG1qMkRmZ0ZwWGQ5SFZDS2FoZWdaa0JRZWhaUDYyR2RrVkdUUzNOVVduYjdGcVpiUlA3NFUxOW5OZmRHbSIsIm1hYyI6IjQ0YTE4YTRjYTI1YjZlNmFkNGYwYWZjMTNlMTYyZmIxODRmN2E1YTQxNzYyZjk5ZmUzN2Y4MzRjZjlhNDgwYWEifQ%3D%3D&amp;signature=7c1bfb6c00a4d0409cc86eb77afc0d32239a0de2f7274cb72c7ff6b0b7d5f7c3</image>
+    <start>02:30PM</start>
+    <finish>03:30PM</finish>
+    <date>24 December 2025</date>
+  </channel>
+  <channel>
+    <name>GauTV ZA</name>
+    <id>GauTV.za</id>
+    <title>Business and Artist Talk</title>
+    <desc>We promote businesses, big or small, and upcoming artists by helping them sell their music. Both business people and artists can market their businesses or brands.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6ImRYTnoya1pSeE5nTXV4bDgzZkJ5NlE9PSIsInZhbHVlIjoickFsejMybmN3b1pIcW5OV1RhZXpDOXdwSEwwYnU3UFc5V0wwcGcwSytYMnRxbHdDXC9tb1ZmR2RhQjMrNUhOVkt0eVE3YnltZVp1VHdXYnkydTE2amlcL0FWTlpocE9INWxpR052bVVQVXpTUTJra1F1QmhVa3FDdzQ1bmFrQnNkUmpcLzJCaHFub0p3U05sVFFIVkhMVlR6M3BHb2pMdEFtbUFFdGFGT1J3dGV0QzNac0RxOGd2U0JhakR2Z1RPRnpYIiwibWFjIjoiZjU1YWU5MTBmMGY2M2ZkN2QxYzA2NmUwOWQyZjE0MmUyNDhiYTZkNmMyNjE4ZWM5OTJlN2VhNjQ4NzMyNzE0YyJ9&amp;signature=c77d77e4354773463a874ffda77faa85e9eafb6131ef59d3222c6177bf75b325</image>
+    <start>03:30PM</start>
+    <finish>04:30PM</finish>
+    <date>24 December 2025</date>
+  </channel>
+  <channel>
+    <name>GauTV ZA</name>
+    <id>GauTV.za</id>
+    <title>TUT Music Idols</title>
+    <desc>A platform designed to discover and showcase the musical talents of TUT students from all campuses.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IjhTWkJiQks0MHFYY1VwZFprQUJiT0E9PSIsInZhbHVlIjoiQnJXOUtFenZRM1FJWWJ4Q0xVMlVYNFRnNEQrWUdVTHJvRHlXN0I1ZUs2UDhPcElcL2kyNGIwb1NTRjM1QWxSWHFmYzY1NFFXN2ttSDlPVDQ2U1hsckRVZFNzbFdZdERzaEpcLzBRdk4yOHRaSHRKOUhOODMzT0NUZ0NSYmhSeHY1MDZrZlJROHpRZ28rSzhrZ1p2eWpPM1RXdGFCRTVpODVWYTlCMW5oZHpYRXZaUFd1ZExYZDFya2ZmS0cxYUkrTTAiLCJtYWMiOiIwZDE4MTI3Mzc0NWYzNTRjZDI3ODViZjMyOWM1NzI4YjU1YTc5MWFiOWYwNmU1YmM5MDljNTUwMDQyNWUyYTEwIn0%3D&amp;signature=a0a708d4207471fc69651328636f94328560f5fb7f27506fcbaa1e0aedf21eae</image>
+    <start>04:30PM</start>
+    <finish>05:00PM</finish>
+    <date>24 December 2025</date>
+  </channel>
+  <channel>
+    <name>GauTV ZA</name>
+    <id>GauTV.za</id>
+    <title>Radio Thohoyandou Live Broadcast</title>
+    <desc></desc>
+    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
+    <start>05:00PM</start>
+    <finish>06:00PM</finish>
+    <date>24 December 2025</date>
+  </channel>
+  <channel>
+    <name>GauTV ZA</name>
+    <id>GauTV.za</id>
+    <title>University of Venda</title>
+    <desc>A mix of educational, informational, and entertainment content, serving its community and fulfilling the university's mission of creating future leaders.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6InowXC8xR3V3bW1WK2JRMWZiVzN3UlZBPT0iLCJ2YWx1ZSI6ImZ5WXM4T3B2UzVhWWJXc1NUeUpteFlHWm15b2czRnpabm9id2xTbkRiMHJPSklLK2syS0FIKytpSkxCQmxYbThhbXRQK0pmdkRcL3BSblwvdmhDXC8rMVZPeGV1NHBZZmUyeGJOUnlNUUdjT2xuWmIzQXFLZFdUd1lBNjZ0UHVDXC9FSkpnMVZDbERBc1o4ZWRpTlQ3dTgzY1hENWlPR2dnRHp5Uk4rcWY1TmdIMzltZU1MVXl4eVRjb29LZHpBa1JwQ0IiLCJtYWMiOiIzNjJkNTFmYzQyNGY3MmZkYWM3YTE0MzU2Zjc3MmI5ZGRlOTQ4YTBkNDY1NjI5YTllYmVlMTY4ODQ4YjM1YjZiIn0%3D&amp;signature=a27cdd2da94ec63eae91d5fa8e5b541762a905e4b50dacfcb2d1022b41eedb41</image>
+    <start>06:00PM</start>
+    <finish>07:00PM</finish>
+    <date>24 December 2025</date>
+  </channel>
+  <channel>
+    <name>GauTV ZA</name>
+    <id>GauTV.za</id>
+    <title>Living Victoriously With Apostle...</title>
+    <desc>Watch spiritually reviving healing words of strength and encouragement.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IlJnZmsycnhGMDJFRVlEVXJ3ZEROUVE9PSIsInZhbHVlIjoicVwvcElCczlPYkowclMybUNPNitTeHB5OUJDS0lmZk1odHdocm5tTUdCN3VheWJIMnBLMzZhQ0I3TDl1eVN0ekE3Zyt6TCtYKzlOXC91UTAwZFdzUVlKYU9LMmNJNEVORkgzUVpCMFwvUWwxUk5OWU5YMXN5enhNYmJnTDAyS2kzbG9ySEN4dG5KT25cL1lycjQ4UDJaQUVINEdnUTRaK1BDSjVHTFdZc095M0JaZ1piSHdpY05VNE9tTjFJMzQreGY0TCIsIm1hYyI6IjY2MmY2N2RjNzI1ZjliNjUzOTFmMWM2ZmZhYzQ0NzI0YmUxNGFiZTlhY2M0MmRiNGRkZmZmNDhkNjg5ODQ4ZTUifQ%3D%3D&amp;signature=ca07dc5e1ae25db1da2fb7defee845c8c4c8e31982d75b5fb4ea3c2d3f515dd0</image>
+    <start>07:00PM</start>
+    <finish>08:00PM</finish>
+    <date>24 December 2025</date>
+  </channel>
+  <channel>
+    <name>GauTV ZA</name>
+    <id>GauTV.za</id>
+    <title>Apostle Ebenezer Ndlovu</title>
+    <desc>Receive spiritual upliftment through the Word of God and get encouraged, revived and uplifted.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IjF2K0E1NTQ3MTdlRklnVXBPV2F1Tnc9PSIsInZhbHVlIjoiR2JJNUhIN2w3Q0F1cE15RUJxQ01WNTI1U2FkT25EZ1c3cUp4RTg2cityK3BhQ05XazhHV0ljdDl6VHkwd25ETUZPaGUwTEVIZHBnMnZ5XC9lSzJINkdHbnhMdlhMcTBkckhSRXAzNlFjUFdwVndKOGxxOXBrQnhBM0FzUUFzRitJcVZUVVRta1g2RXEreGQzbUt6MXF6TDErTEdVWkFVXC82RWpLOW1lZ0hsNURTVlJDZFZOaURsWnZrVWF3NHlDOWYiLCJtYWMiOiIyN2YwNzZlM2NmMTY2NTU1OWNkYmZjOTM1NzI5MDQ2YWZlYWIzOTdkNzAxYjNiMGEyM2VjY2FjNDBjY2E4ZTk3In0%3D&amp;signature=3132e8b604cfbf1bbf6c9ff026585bc0dc548dbb30193beb36129358dfe0404a</image>
+    <start>08:00PM</start>
+    <finish>09:00PM</finish>
+    <date>24 December 2025</date>
+  </channel>
+  <channel>
+    <name>GauTV ZA</name>
+    <id>GauTV.za</id>
+    <title>Gospel Songs</title>
+    <desc>Get spiritually uplifted through music and be filled with strength and encouragement.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6ImtEQlRHR25KTVwvVlROVDRyclJwMjRnPT0iLCJ2YWx1ZSI6IkszWTdOUk5YUjNuXC9neGNnME1TMGt6SHlaOHV4c2JCWlZjU3J1c2VsZ0sxR2tDTXhMTW5NMWQ3N3V5NGg1KytyVElBMm44b0ZsWUtZV3FaQTNJMkF6RmVuK1l1NEc1QTByekQrSTE3SUo3cVUxTmlUWENFNWhSczVqdytiZ2I3N1lXVXJtWE5xdDlaR2FkV3dmWEpnUklTb1B6bGRmOEhQTlhoR0k1TG51aWpoaCtBTTlUbzdwN2FVUFAxcTlXSXUiLCJtYWMiOiJmNzVmOWI4YmZkNTQ3NTQzNmJmOGIwODc1ZDE4MDQ4NGRhZGJiOGI2MDRhNGYyYTczZTc3OGQ3Njc3Yjk5MGQ3In0%3D&amp;signature=7dac06a5952f94aef03076d60e12bc9b202e9efaf454f85a6fab82ba03102496</image>
+    <start>09:00PM</start>
+    <finish>10:00PM</finish>
+    <date>24 December 2025</date>
+  </channel>
+  <channel>
+    <name>GauTV ZA</name>
+    <id>GauTV.za</id>
+    <title>My Selector</title>
+    <desc>Get entertained through various genres of music.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6InVtdjBRNHowNnE2REtadTlSYytDbVE9PSIsInZhbHVlIjoiZG10S3Fpdmh1bm5rT1p6R25PRTVOOGc5VnFmY3JlWnBHdjJqM0s5XC9QQ1BDWUxjdlRHdlhkR0J3c1Q5OEw5bUJTaHJNelwvazN3K3NTbkpLTU1RR3NyemFldzJMVHNOQktGN3VwZUJpdkdlWnlaRzhBeGprZ1J4b3lLMUI2aTdZZ1daYUt0YkZcLzJZZDhLSGlKdVJEemNDM1FORmMrUkEyb3YrQkNZbEIyUHEzZkFNRFFzTlNmcWFxeVFQSXUrSzE3IiwibWFjIjoiZWZhMGUwZWVmY2QxZDRlNjIwYWNjZmE4M2JjYWVjZWI3YmM4ZjE1ODM2NjBmOTBmNzE0OGI4MTBkNGUyMjY4NyJ9&amp;signature=0b537603cde323029e2c707741170fe70e1e2f4cbd3cabae75413a8d0af20fee</image>
+    <start>10:00PM</start>
+    <finish>04:00AM</finish>
+    <date>24 December 2025</date>
+  </channel>
+  <channel>
+    <name>GauTV ZA</name>
+    <id>GauTV.za</id>
+    <title>Gospel Songs</title>
+    <desc>Get spiritually uplifted through music and be filled with strength and encouragement.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6Ik9oeXh4MVprR2hIOTRiRUFGc2ZpTGc9PSIsInZhbHVlIjoieXR5eEZVY0t1M3RxVE1rQ3VEMmVKMTJNXC9XQ3BFODZMU24xR1pwNXFmU0FaMVl0U2Yyd0ExU1dFN2EwdzBZdTcyXC9HVlhYaGNUOGRoWnN6K2M3bExlVk5Pc3p2NGM0U3Y3RjhwcWFpUndFa2lwbFRUYURqdFA0a3ZVNXdZQ1Vkd2Y2R1dTK3hXb0VpNXpUTU1QVDFWcHNHcldONEJ1VHZma3VXVm1XZzdxd2xiMU5ZNW1weXlJbXNzR3k0VTFwRjQiLCJtYWMiOiJhNzk0YzRmOTA5NzM5NGYwYWFhMGZmYTMxNzg4MTgwNDdhZDg1M2FkMmE0Y2E0N2QzZTQ0ZGU1MThhMGUyNWM5In0%3D&amp;signature=45b40e804e748e3ba044ea71ab78d8ca79689ee6b64510c95248200163c977ff</image>
+    <start>04:00AM</start>
+    <finish>05:00AM</finish>
+    <date>25 December 2025</date>
+  </channel>
+  <channel>
+    <name>GauTV ZA</name>
+    <id>GauTV.za</id>
+    <title>Forever And Always</title>
+    <desc>We shine a light on relationships and health, promoting healthy and positive relationships in different situations.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6ImNoQkJkeWRBd2ZmMzhqSm5kcTdoV0E9PSIsInZhbHVlIjoiVVhsWFkyNDFmSURPc2NKMVwvQStQN3ZoNVQ5TU1abGc2eStic3FldG0xWUl6R3FGNnhZbXg5K0ExWU0xVWk1VmdKU1dHdUptOGlVcEJET2FqZGdHMm94NVlOdVhiNnA1SmVzTmpKOWllZ2lMVXd0MGZqRjVCZURtdnpqbnJiayt0MGRCMWFFOGd4eTRxeDhEU09jeUErU2FNNHJ5TFYzRnRPZE0rWDNZTmNIZGRLdTdPZ2lzUnJYMGFsN2RyMzRvVyIsIm1hYyI6ImRjNmIyZWU1ZGMzNzQyZmM5YTQxNzMwY2NlYWY1Y2RiODIzNjY5NWZiYTQxYjEyMDgzNGU0MzgzZjFmNjc2MTQifQ%3D%3D&amp;signature=af77f4df95bdc3315b372cfd8e688469e658f2f57a813618afb84b8185bec946</image>
+    <start>05:00AM</start>
+    <finish>06:00AM</finish>
+    <date>25 December 2025</date>
+  </channel>
+  <channel>
+    <name>GauTV ZA</name>
+    <id>GauTV.za</id>
+    <title>Apostle Ebenezer Ndlovu</title>
+    <desc>Receive spiritual upliftment through the Word of God and get encouraged, revived and uplifted.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IndKcTFIN1JUOVpXMGF0ZWpjXC9zbEt3PT0iLCJ2YWx1ZSI6ImVURVBob1I2Z0YxeTFJWitSamFCaEt0TW5XVDBvY1ZoUkxNNTZIZ2tEYk5CTVwvbmtlKzlYTWNJU3FmMmpsNndyajhqb1FXSVI5VVpPU0prZVZhMjhyVVRONEIybXF2MEd3bDZiOGNsRHpLQ3k0aVwvcVdGY2o1ZFVST1V0QTR1MDdsOFpHek5zd2FSVlwvV0pGd0ZmSmR5M0NsOFM0MlJuc2pxdHNRbVd0WDNPNmV5RWl3bFwvRkRqQWs2N1Fva3I4YVIiLCJtYWMiOiIzMGQyNGMzMjBiNTIwODhhODI3NzgzYThkZDBhYmJhOTUzNDk1MGFjZWY4NmQ1YTYxYTAyMjExMTY2NGM0Njg1In0%3D&amp;signature=00e94634711af72098531266d996337a6324f651d5b85beedd3b332baef04a53</image>
+    <start>06:00AM</start>
+    <finish>07:00AM</finish>
+    <date>25 December 2025</date>
+  </channel>
+  <channel>
+    <name>GauTV ZA</name>
+    <id>GauTV.za</id>
+    <title>SA@30 Podcast</title>
+    <desc>Catch Jeremy Maggs on SA@30 Podcast, powered by BrandSA, exploring and showcasing the country through the lens of growth, potential and opportunities.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IndMaTU1bmtVR1M4M1R1Qnc4TWs2MHc9PSIsInZhbHVlIjoiWFNIUU9wOVNcL1R1RHAxUE5ENXZ1SDJUbm56WkdjNU5OSGdSb3ZIZmt5VzZFRFdjaWNFVUo4KzNHUU81cW5QaHZRVHVMbzFkV3lOXC9LdEp6ekJ0bFBGUXR2UnYyOGxpWmlneHBtTG5wcTE4R05LOUgxVjNBOWNvXC9sM2kxUEkxOURmZitiVU5rVTlnNDkwRHFiU2dxTzNOa2Nndkc1MWpQamJ0ZFhZQzlUWGEzSFViU1FaZEpMcU1MVkxLRmZ0WVNyIiwibWFjIjoiOTg0MTIxNzlmMjdmYzdjMGZhYTAyYjViMGQzMWYxZGRmYWZmM2Y1MTQ3Mzc1YTNjNzVjNDFjYmVhNjE5OGEzZSJ9&amp;signature=564d67afbe6a1b8565e250f04480a59bbeb938d2158cf17e289d4e7a992229d4</image>
+    <start>07:00AM</start>
+    <finish>07:30AM</finish>
+    <date>25 December 2025</date>
+  </channel>
+  <channel>
+    <name>GauTV ZA</name>
+    <id>GauTV.za</id>
+    <title>UNISA Music Concert</title>
+    <desc>The concert celebrates and highlights an array of distinguished genres, including classical piano, opera, jazz, and traditional African music.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IkhkNkl2SThrUlE1MmljMXBlMEh4Zmc9PSIsInZhbHVlIjoiaEYyWW1PSUI4ejV6UmFmV0tNQXc3N1c5MDk5ckJjYVM0bFlGb0FZbjNRcmVQSFdWQ0ZFb2twbGs5QUViSWJvMGJFZm4yN25xbTRmYko4NmMrVm00QndLNE12TlRIRFI5QXd1anArK0gra21pWFA1VFVZYkNUemVIcHNqcDFcLzJjNWVCalNyamZRUUdpMzRMN2FwRnNFRUxrSjFtU215UzJ1NmtCXC9MeDYyR1FOelwvXC9XMGJ3SUlTXC9QUG9ldDQ0cUciLCJtYWMiOiIwOWNhMzIyZGNhNWQ0NzBhNDBmOTE1MWQ1NjBhMjE3NGE2MGVlMDkwYmM4NjQ0MGZhYWUwMmZiYmU0ZWNmMGIzIn0%3D&amp;signature=1e94053d9617d2beaeb04de5bbcdc56a4ce8c679e628e164a103e0e14e6ec5dd</image>
+    <start>07:30AM</start>
+    <finish>08:00AM</finish>
+    <date>25 December 2025</date>
+  </channel>
+  <channel>
+    <name>GauTV ZA</name>
+    <id>GauTV.za</id>
+    <title>Gospel Songs</title>
+    <desc>Get spiritually uplifted through music and be filled with strength and encouragement.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IlhaQ1lpdTZSWTlYNkV1aml1Y1VmK2c9PSIsInZhbHVlIjoicE40U2h5UGdYSXhpSE16TXV0RHBiSG1GaTZNYVdjb05wZk9HK2JyOU96UzZUbnppRGZsTWNwaXBzTHJNYmRHWThwbUN6d1QxNzJxMjF0RDlPNEVtYVRvMTlaQWFpYUdzMXB6SmlzSmxKVWs1WWxxN3VXRG9ta2UyYXZxR1ZGRHhtUnRObTVVVXZvbTR5MVZ4TDhXaTFEN2FmXC9cL25kUFYyRXJMN3Q5bER6Zk5zSWM1bTMrN2dHcThDcFJHVkRpSEgiLCJtYWMiOiIxNDEwNDkxNTkxMmE3OTE4YzU4NzIxYzI0YTg3NWVhMTY1MTk1MGI0NTNhNWEzNzE4ZjZiYzc4YjU5MGVlY2NiIn0%3D&amp;signature=d7bb65638adaaa2e325dcd17e658b1a66c829bb070037a01bcfb90f9ce916802</image>
+    <start>08:00AM</start>
+    <finish>08:30AM</finish>
+    <date>25 December 2025</date>
+  </channel>
+  <channel>
+    <name>GauTV ZA</name>
+    <id>GauTV.za</id>
+    <title>I Design</title>
+    <desc>We focus on educating the viewer about fashion. Upcoming designers are given a platform to showcase their talent and product.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IkJDU0xOcEJNR0xZSWVsbXRpQXBad1E9PSIsInZhbHVlIjoiM1lqeVkwZ0JRZHJ2SlVLNnpUODhuRXUwMTlUMlprSncycUFHZkx2T2toZVdoN3Zxa1wvTDJlNThjZjlqWmlWbHY3dk1jaStwZWE5SmZUTDhUUjFqXC9yRmZ0QmRlcFVSUDZtRU9jVVJJMHNodm90VnRMRTJzY1lHOUhrWFwvK0JCXC9HUlZXcU1FYTNsNHU1ZXBkUzJIVWJTWmFLQjJuenFrSnd6QTZVTWtyWTJOT3B5Z0xYUHBHcVo2bDNJTXNcL1EraWgiLCJtYWMiOiJhZDc4NDg4YzgzY2NkZTQyOTNiODU1ZDg0NWU1ZTJmMDQwNmFmNWE0MzAwMjQ1ZGY3MDI4ZGJjYWU0ODJkOGE3In0%3D&amp;signature=432823d1cd91a8419fd088eae38a8acdc78f9963327e5135a348cb460d98d968</image>
+    <start>08:30AM</start>
+    <finish>09:00AM</finish>
+    <date>25 December 2025</date>
+  </channel>
+  <channel>
+    <name>GauTV ZA</name>
+    <id>GauTV.za</id>
+    <title>University of Venda</title>
+    <desc>A mix of educational, informational, and entertainment content, serving its community and fulfilling the university's mission of creating future leaders.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IkttOVR5MXZuSDVEUWVSVDJ6NE4ycWc9PSIsInZhbHVlIjoianNJREFlRGg1QkVSS0FacjdlSmo1NVhiOExJcEY0SlA3alJIdkUzRHl4bVpjcUlVbmlxVWZaZE85dE82dUFlTlVCZG1sRnZPdTNmZmsxblh1WUp3TUhrQlhHb0U1QzZISk9QTStmUE4xNG1tSXdQVm1RSTM1Wks1K1ZVOVJOdWt2YWQ4WkJqcXVWb21MbDFuQzVkMzhLWEpMTWR6KzF2SmloMW5zZUtNRXA4ZzhNNkNEazJFTHp1V21XMFwvbTJmVCIsIm1hYyI6ImNiZDUxZDBkYzQyYzUxOTZiNzFlMmIyZWRjNTU0MzhmMjE1M2U0Mzc0YWQyOGE4OTA4MmE3MzVmNmI4MmFlMWUifQ%3D%3D&amp;signature=98d196d9931044af48812e043a51c5bda3631ac0acf6a73daddcb2acda3706a5</image>
+    <start>09:00AM</start>
+    <finish>10:00AM</finish>
+    <date>25 December 2025</date>
+  </channel>
+  <channel>
+    <name>GauTV ZA</name>
+    <id>GauTV.za</id>
+    <title>Weekend Hangout</title>
+    <desc>We spend time with your favourite local celebrities, attend exciting launches and fashion shows. Tune in to experience the vibrancy of Gauteng.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6Ik9qMUpzV05MWm9wbytkUHBcL3lcL25oQT09IiwidmFsdWUiOiJURHlEY2ZLcUIwcTB1S1VcL3BcLzJaNkpsTENSWm83NFg2VDRWZ2tSQzhhY0l5Qjl6M3BiOFJlZURiRmhWYkJkZGV5bjROUmNvTTZTeDhTSjZlYUl2SWRxNXRmNEl4bWdaazQwZGhvVkFGWlNGdGRGXC9Bdm4wSTZ5a1BJQ0JNazRvWFNTbHBUck05d2doNkhyZ2FtRXlMVm9XeksxZ3dub1ZpekZ1dGtLWU5jemtKdXdrWldyV3RFcGN1ZmRNMVl6bTYiLCJtYWMiOiI0ZmM5NjQ4ZWE4NTE5YjFkMjhhMGY3MWEzOTc0MzY5NWE1YTE0NjAyYTRkNzA0YmY5NDVlZTBlNTU1NWI5Nzc0In0%3D&amp;signature=f15becb227ff30f3c0d1866d2eee9a31ec27f87d62cc7bc44d25be192205bc23</image>
+    <start>10:00AM</start>
+    <finish>10:30AM</finish>
+    <date>25 December 2025</date>
+  </channel>
+  <channel>
+    <name>GauTV ZA</name>
+    <id>GauTV.za</id>
+    <title>Hopeville</title>
+    <desc>We bring hope to different individuals.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IkZNMjFHT1JBTGZHVGZoXC9GTml6NzJRPT0iLCJ2YWx1ZSI6IldJYVpmNjlJQXJldVNMa1l3Q0xqT29JZ1pPQ1N3NDRyRzRISjdQXC9MdFwveXhodnp6dXZLcUsxc2ZVRWZPN2d1U1d5NlJZcHRyZHZiMlwvaHEyXC9JNzlZQUxmVzd2MnN2ZWFEMk5MUEZscmh3dE00TzA0S0ZwZEY4MkVraml0ZWpJYXVkOUdGRVEzamFxMHJOOHRcL2xuakJLOU11STJEM1dDaDYxMFBtNkpXZ01vTlkwUVhWYzZKYVoxV2lxMkdORWFFIiwibWFjIjoiMTQ3YjM1ZGE2NjIyNjY0ODNjY2U1YzRhMDI5NjNiYzU1MWQ1OGI2MjQ3MDQ0ZmU5ZjNmMjM5NTgwNWI2NGExZiJ9&amp;signature=3d2ad52a7b84e620405d6e24e013456cbfb42f67e9a9facf067a81b88b19d74a</image>
+    <start>10:30AM</start>
+    <finish>11:00AM</finish>
+    <date>25 December 2025</date>
+  </channel>
+  <channel>
+    <name>GauTV ZA</name>
+    <id>GauTV.za</id>
+    <title>Alkebulan Authors Platform</title>
+    <desc>A platform aimed to assist African authors to sell their books and encourages them to write more narratives.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6ImNYNTllall1V2dtd3BQdEVzUW51aFE9PSIsInZhbHVlIjoiUUNQVnN5K2pcLzF5ZWcrWVNOZ014bmpwOTVYQTZJblcrVnNQMzhySHM1b29XQTVKa3phU0F4d2s0cU1aczJRRG4ycGxUTFAzM2h3ZlVMeUNXZkFFKzFlK0dDdkRRY3B4VWFySDR0bFhaeWdSVUQ5OVdRaTI2dmhWM01PVGcyTkVRVzYycEZzOHhDR0VXOUEraXg0T25Kd205dk03V1ZkYlRKbFlZRGRrNERqSWlnVnVGbWw4ZnBLenc5cHdxTENQZiIsIm1hYyI6ImNiMDg4ZTdkYmRmMWRiNjRjMWMwN2U4Nzc4YTgwNWE5OTU4OTVhY2Y3YzhlYjIxOGQwNWZiMzY3OWFiNTgwMGUifQ%3D%3D&amp;signature=b29744fd476968286b9611e58448531355bb9a0e844df3f87ef857c4ca8af016</image>
+    <start>11:00AM</start>
+    <finish>11:30AM</finish>
+    <date>25 December 2025</date>
+  </channel>
+  <channel>
+    <name>GauTV ZA</name>
+    <id>GauTV.za</id>
+    <title>Radio Thohoyandou Live Broadcast</title>
+    <desc></desc>
+    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
+    <start>11:30AM</start>
+    <finish>12:30PM</finish>
+    <date>25 December 2025</date>
+  </channel>
+  <channel>
+    <name>GauTV ZA</name>
+    <id>GauTV.za</id>
+    <title>Family Altar</title>
+    <desc>A vibrant talk show that focuses on educating and addressing diverse social issues.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6InNJMzVEZlY3b0Y1M0JoMXBCeEJqcHc9PSIsInZhbHVlIjoiUWRxdzVoSFcxNElUbmhBU0Z3R2ZqTmtvRGdKS1dVNG1sMVozaUdzR0xaOVRJbUlDTUtVRGRjekY2WGVqak1oTzJoZW1cL0dPUjFZYUdYR2NpQVZNMHRQUzV0S2RhMWVhZmVuQ1BoYjQ4anhkNnhnS283S3cwcE4zd3ZZTFwveHZLNlBHcUdiYWwyRWNvbXp1bVFmd0JsUUIrM2F3YU5pN2pIOTFURVlVSHJ5QmlxOHZhSlh6Z0VGSHFYSlhwbUVGdEgiLCJtYWMiOiJhZWMzNTYyYjBhNDE5NDY3N2QwNzJlZmYxYTNlMzQ3MjM1NzE2NmRkZjdkZWIyNjBiYzY1Yzg5YTAxYThjYWI5In0%3D&amp;signature=29bf690d412be2a5e603770dcd9325adc8d93d668cd7a167be15305db16dcf34</image>
+    <start>12:30PM</start>
+    <finish>01:30PM</finish>
+    <date>25 December 2025</date>
+  </channel>
+  <channel>
+    <name>GauTV ZA</name>
+    <id>GauTV.za</id>
+    <title>Filler</title>
+    <desc>Let good music videos uplift your soul.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6InMrZEFIdFRNT3dRXC9laXg4OWxnTUhRPT0iLCJ2YWx1ZSI6IkQ1U1UwUEpiWFludFFpV2xjUW05SlBneUkza3g1cE15d3pWQUFLXC9zQUgreGNnbU0wem1EOFwvU29ycm9nbmlwWXlNZUR4SXQxVGlSZ2o4VWV5OVJDenNxTzRweWl2cXpVTml5QUorbUxqalhvejVMSVQ1UnQ4OFNncE1nQWdFYjZ4Q1lmVzZFRHhlUG02bzRIdVQrNHVEZU5oeHArWXVGOXd0UkpKaWxWYmhHQUo0c3V6bXdjSDNna2k3WnlCck56IiwibWFjIjoiYmI5MjE5OWEwMzdmYWIwOTNlOTRiYjg5NjIzYjFiNjQxMTlmMmEwNWI4NjgzY2VjZjMxZjYzNjNlMmI1ZTM0ZiJ9&amp;signature=11bf25fb4e18667fac032d656d1786a2d07f4aed91f7ff39848fc6ba9c179503</image>
+    <start>01:30PM</start>
+    <finish>02:00PM</finish>
+    <date>25 December 2025</date>
+  </channel>
+  <channel>
+    <name>GauTV ZA</name>
+    <id>GauTV.za</id>
+    <title>Dreamers Never Die</title>
+    <desc>Catch Coach Samuel Baloyi as he empowers and improve individuals in order to thrive and strive for perfection and impeccability.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IkNiNE9iY2N5OEx3MzhpUW1kZUFFQUE9PSIsInZhbHVlIjoiMTBzRVUyNEprV1F2NllKQXlyWnNya05HKzY3Mml1MFFLU0lkS0FsdE9ja0s5YjdvU3E0NjdtUllYa253WmtaWmpKWmpoKzdDT0ZqNUNBVnlrOGZ5Z1FGOFI3b3FhNDV5R2FFMmJhRm9XZDhNdG5mZWY2R2RiVDdZclZtb1lEOThtaEtYUVBCdkJ1a1c2dWJBSis4QTBuWjcxK3VKUXNIWUxoQnladmtnb1VjbGdBZmRZM3VIczR1WVp0SXZiZng1IiwibWFjIjoiYjQ2OTgyZDExZTg3ODJiOGE4NzM5MmZjNDI4MmU0NDZlZmU4YWQ0NmM3MmU5ZTE1MDY4Njk1ODhkNmU3NjA3NSJ9&amp;signature=d82701c842430342de5077176f504847d19bf3179cc3ad83eac327bf10f92527</image>
+    <start>02:00PM</start>
+    <finish>02:30PM</finish>
+    <date>25 December 2025</date>
+  </channel>
+  <channel>
+    <name>GauTV ZA</name>
+    <id>GauTV.za</id>
+    <title>Successful Conversations</title>
+    <desc>We bring together powerful narratives from successful men and women, and the Journey into one compelling platform.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IkdBREVEeHF6elg4cXhCSys3TDJvV2c9PSIsInZhbHVlIjoiZzkrUEhadiszRmFqbnhlYmhkOUJQSDFIa2VJOTZkSGthQUlKOUozNFBQSkFmSlcyMmUyaW5rQVF2b2RqKzlkeHRyUHFkKzZmcTJOYnVVMFR6QndXcTd6ZmZrdlppWWtlXC9JWlhVeGNDamdjZ1ZGeUdqU2xTU3ljODFmSzFNdWNzcXZWRDFnNEJvNXdJUGJwUWZMWHpBeEhsdWhJTUN3TUtrYXhkZlVIekp6OENyeWxNZVduNW1VZHNRNVVwVTQ5KyIsIm1hYyI6ImM0ZmM0MjgxZDI4Y2RmOTMzYzljYWRiNDFjNjZhMThjNGI2YmRhMmEzMDM5MThhNDg5YjNmMTFiMjc1ZTVlNTQifQ%3D%3D&amp;signature=71d3266554811d51c9fc3c483a96d27ed706264df91f3dfc7944ec8b7f01bd5f</image>
+    <start>02:30PM</start>
+    <finish>03:30PM</finish>
+    <date>25 December 2025</date>
+  </channel>
+  <channel>
+    <name>GauTV ZA</name>
+    <id>GauTV.za</id>
+    <title>Business and Artist Talk</title>
+    <desc>We promote businesses, big or small, and upcoming artists by helping them sell their music. Both business people and artists can market their businesses or brands.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IlQ2T0NITFQ5Qm9qY3lUbHUyNVlhY2c9PSIsInZhbHVlIjoiWG9Yc2pCbnJuK3piOVBxeUxydXZLaGpQb2Vyc1hWUFdnSzd5TGRjMlwvaFlFVmpIeFFqMlNyVXZYR1VvTlYya3RMazJxOUI2czkyM0JIRHhDK2FXRmdYaFVTYWp1VHJjSHFIaXR5cHBsOW1CeHkrUTczWmVDMFFjUWdYc2NlT2xwZVB1dGcrODNyekxVSWxtdGlzWFk0c3RGa1RJMUd3ZTdDV1J5VGc3U1NMdEFuZXFFQWFtSTM1d3dJWVk2MW1uNCIsIm1hYyI6IjVmZWUwZDk3YjNlM2U2NzZlYTY4OTZhOWY1N2FhZmE4M2YwZjQyZjIwMjRhZGM2Zjc1NzM4ZDhlOWM0MTkxNjEifQ%3D%3D&amp;signature=a9cdb80ee29bd3dd8dbe74fb91aa5010ef326b1aa784f823db607841f0b5f77d</image>
+    <start>03:30PM</start>
+    <finish>04:30PM</finish>
+    <date>25 December 2025</date>
+  </channel>
+  <channel>
+    <name>GauTV ZA</name>
+    <id>GauTV.za</id>
+    <title>TUT Music Idols</title>
+    <desc>A platform designed to discover and showcase the musical talents of TUT students from all campuses.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IkJJVVRJaGc3MlJqZlZOWXV6eGpvcXc9PSIsInZhbHVlIjoiR2ZWNTJqM0ZDMmQyS2VieEhHOVwvM1B6QVwvbXRzd1lNV3pHUGdiS0s2YlwvUVZsMmxsdDJXZ2kzc2ZtSElXRHptSkdObWtcLzBXZmprMXh0T2x0clhiVDdnREhaMGZpVUVLNnMxYktcL0l0SllMTkZlOWlcL2pXQ1hOZStwRHduY0lrYUM2NHNKMzJ5V2RaVzl6WFpZNnd2WWlJT3ozRXhzaGd3TlBPSGVjSHlpQ0tLTlB3MTJ6S1JEV3FWaVZHSEtlVzNtIiwibWFjIjoiNDQ1Zjk2NzQzOWFiNDg4YmY2MDVhMzU1Yzg2YWY2MDk2MWNiNmU2NGUzYzMzZTI2ZmUzNzdjNDFlYmM2ODE3ZSJ9&amp;signature=dfc546061b5c917ac2276a03f62132cc33119079a32f12a5dcdb5417bd9cb041</image>
+    <start>04:30PM</start>
+    <finish>05:00PM</finish>
+    <date>25 December 2025</date>
+  </channel>
+  <channel>
+    <name>GauTV ZA</name>
+    <id>GauTV.za</id>
+    <title>House Of Grace</title>
+    <desc>We bring you spiritual revival and healing with words of strength and encouragement.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IjNqWVJ4ck1lN242ZFRJZGdjakIrSVE9PSIsInZhbHVlIjoiRW5JQllucmJDU2IrbXJzWktLdG9FZ05VdFwvVTZ6SEc3TkwwZElFYk9IKzlUUlA4M2NUaGgwd1BCbTZ1UklhU21RY1Bqc1ZSXC91bkJGaUd0Y2hpQTZJMFpXWVNseG5TK3o3VVZNZ0ZmaHNxTExBblduT1h2dFgyYzlocFwvWHNSdU5meGlZRkY1bUhWTXl3SlhnZ09xTHFEajFBM1pWXC9rK3BXaENIN3Y2TkM2TUgwa3pDcHFBbmJLVUxTVXZlR0RmUCIsIm1hYyI6IjYyM2U3ZmMzMzg1NDE1NzYwZmIwMzlmOGIzNWI5NzU0MWY1MmEyYjY2MTVlZjgzN2JmNWJkNDU4NzkwMDBlOTMifQ%3D%3D&amp;signature=14b6649cdfb9c8948f5fba1703d642db668917abdd82ecebc508e7d9f1d54493</image>
+    <start>05:00PM</start>
+    <finish>05:30PM</finish>
+    <date>25 December 2025</date>
+  </channel>
+  <channel>
+    <name>GauTV ZA</name>
+    <id>GauTV.za</id>
+    <title>My Tears</title>
+    <desc>Insights and implications of Gender-Based Violence: a widespread problem in SA, impacting on almost every aspects of life.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IjZaR25US01lbXA4UHBDQ0ZyckxOV0E9PSIsInZhbHVlIjoiODIyNm1PNTRJT3FRQVpZbElvK1BsQWI4ZGJmN1dnbnB3dDlQNlo3MjUrS1phcEI3Skh5SzZtUTcxSHo1Q2Fnek5YVmJ2WFp0dXphTVM5N1AzNXc5QnJaNUJ0UHkzbXkwU3dpaExQXC9WaUtKTHhPMjVqZVU5QjBycFAwVG5pdVBBaWF4ZDY2QUw3Z0pKekY0cTJcL1dsM1IwdFJDSEpEQXIyOVozamF5cUFISFFiZ3g2ZkN4ZzNcL2xTcFN3NGNuYjhBIiwibWFjIjoiMjlmYmVlMDkzMTVlNWI5NDY2OGU0NDVjY2RhZjlhZTRkYjAwMmFhYjI1M2RmZWVmNWI5NDdkN2MwMzIwNzdhNCJ9&amp;signature=cff43e5b90972faece2a38d78cd13acd3901c15dc3e3d42da5cf5db95c099ea8</image>
+    <start>05:30PM</start>
+    <finish>06:00PM</finish>
+    <date>25 December 2025</date>
+  </channel>
+  <channel>
+    <name>GauTV ZA</name>
+    <id>GauTV.za</id>
+    <title>University of Venda</title>
+    <desc>A mix of educational, informational, and entertainment content, serving its community and fulfilling the university's mission of creating future leaders.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6Ik1GWjVqem41NTZHVm1lQitMdEFyVEE9PSIsInZhbHVlIjoiWGxBXC9IRHQ0MGhpK0ZiUVZqNGNJSWQ0ZFo4UFhhaExYVWVaNUxDdVd1ekhzVU9YQ3FsU1BnM0UwSTE1MVZQSjYyVVVMVlJuSnFQRjI5OWF6UVo2TzNud2lIa2orU0grUXIxbDg4STV4U1hOR3JaOWFQN3FVSlJUN3pKOHdoVU83SThCZWNmRUxtS05lOUZoMGxWNjFcL05oSkVNM24yNkFqeG52ZlwvZmZ2ZDNkTmU5VTlSU01tUHhXWldFTEROY1pjIiwibWFjIjoiNDZmNzY2N2MyYmM2NmY4OTA3NjcwMGQ2MGViYzM0MDE3NjhkZWI5MTUzN2E0MjFlNWJiMmZkZjM0ZmY2ZmJmMyJ9&amp;signature=9503ee13cc0378f66534d6f4becaa6803b9122cd8e16af295d8a5958d03af3e1</image>
+    <start>06:00PM</start>
+    <finish>07:00PM</finish>
+    <date>25 December 2025</date>
+  </channel>
+  <channel>
+    <name>GauTV ZA</name>
+    <id>GauTV.za</id>
+    <title>Living Victoriously With Apostle...</title>
+    <desc>Watch spiritually reviving healing words of strength and encouragement.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6Im5xZGdKaXhtZEtzVGhHUWc4aHhjVnc9PSIsInZhbHVlIjoiZytuV0hZNUJTVEZHMGpETDNUbUtjZ3p0ZHlseTQ2QnpkVkZWVjNuQStLcDVUV083d1VIUmlvSEdDRXFhXC9xelFLbkx3NElrbXhHZmJveWE1cHlWaUNSUWxDSTl4bXZKdlkrM3lGSkRMZEhvbVQ0cEtHWnhJaXh0MkIyYjEzYW9ESTRlaTRpXC9IUzZLMytXcmQ3V3U2OUZIWWcrY0dqZUtONlhcL09jdGFBM2w0d2NRdTg2RVwvSThHczhSeXQ5XC93eEYiLCJtYWMiOiI1OTFjYTcxOTNlNDUzZWUyOWM2NmNmYjQwNTcwNzhiZmMzN2FmMjRjZjJjM2EwMGQ4OTg0ZTg0ZjQzNjc5MjcyIn0%3D&amp;signature=b9e670a8ef874dcd0efd3fc029801e67593755d6f254fdb9d9617dbde635c723</image>
+    <start>07:00PM</start>
+    <finish>08:00PM</finish>
+    <date>25 December 2025</date>
+  </channel>
+  <channel>
+    <name>GauTV ZA</name>
+    <id>GauTV.za</id>
+    <title>Apostle Ebenezer Ndlovu</title>
+    <desc>Receive spiritual upliftment through the Word of God and get encouraged, revived and uplifted.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IkxSd0JwZjBjUmdXSU1xcUJUYyt4XC93PT0iLCJ2YWx1ZSI6InVOWkR5VEZzV3Y1NEZ6NVlXYXVyUFZlU1lPT2wwVEVpcGlBUFpveUU3c3R6T1VzeG0yMEFleUtxOEdHVWY1UHNMUUp1SlJJVWNLcHhCRjZJUWRpcUw5R2psak5Ed21EWExzdlwvaGF4d1VITHJVOVNFZ3pSU0d5Y0lEOFVRc2U3ZWtWMG8zazUySE1cL2swejc2bnduakd3NDI1QkNrRnd2c1hLR2o5VVFiWTd6dE1cLzZwcVwva2R6SFpYUkp0Mm1FUmkiLCJtYWMiOiI2MDZmZjhhNTk4YjY2NTAxN2U0ZTExNWY5MWI0MjMwODY0Yzk2M2RkNTcxNjAzN2RhYzQ0NDNlYTUzNTM0NTliIn0%3D&amp;signature=82b53f54aa22c4dc0c8ea5f0dd2ee1a102b3d5151e20f06cb2f67e357e7677c7</image>
+    <start>08:00PM</start>
+    <finish>09:00PM</finish>
+    <date>25 December 2025</date>
+  </channel>
+  <channel>
+    <name>GauTV ZA</name>
+    <id>GauTV.za</id>
+    <title>TUT Music Idols</title>
+    <desc>A platform designed to discover and showcase the musical talents of TUT students from all campuses.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6ImhESFwvTkg0RVRTME9ZdXJabTVRR0V3PT0iLCJ2YWx1ZSI6Imp3ZnJWVkV0aGtQNHQ4SEpiWGhiWlZKeTZ0U2VcLzFLM2VybFN2OXJ6c0ZSbVAzSnFnUlFxbTJ6ZU1NR0FcL1ZhS0dlTHZBZjhGTlF5UjU2U0s2ckdCNUFLYk5LSVNqS1NuYlhjQ0tSMTFLMzBwXC9MazlDamM3NkVFSTZ4RzYrRkltbE16VFRhVytPRTJQVEh2XC9yR1A5R1d5ZHhZNUg2MzloM2w3ZjkwXC9rcndaQmxlZDBCR20yeDF3Qkc2NFhITlpCIiwibWFjIjoiOWM4ZGIwNTI1MmFiYWNmYjBhNDM4MTU5OGVlNjZjMGY5NWEyZGZlZGUyZjQxNGE1NzIxOWExNjFkMzRlNzRmZiJ9&amp;signature=817916b4ddf7608015ff5b7bb00d051b43f4c2c7deef52525535c9a5e3e45c16</image>
+    <start>09:00PM</start>
+    <finish>09:30PM</finish>
+    <date>25 December 2025</date>
+  </channel>
+  <channel>
+    <name>GauTV ZA</name>
+    <id>GauTV.za</id>
+    <title>Gospel Songs</title>
+    <desc>Get spiritually uplifted through music and be filled with strength and encouragement.[(96057)] </desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IkZrRlRFXC9USW5Ha3kyS25jRmUwUitBPT0iLCJ2YWx1ZSI6InhkTWpaNitPNVdwT0pkSHNEMXpJSHNpZWk5d09qWFZWNllhWG1ZSkdpUVBWXC9DS3ZYVXBidVg4dDNkVmtFUCtjdEhVb2YwbnVJeEZvRzdYRVcwd3BQQmc0Um4zQmkyTTVWZVB3azZKcEl4VmR2cDRGU3J5REhPbjFKNCtBUlNIOEE5QW5WNTkyckZMUHRcL0NQTjAyWW0zWE8xMnZzcTZ6RVo5ZUsyQWJkVzVDTDF1N0lCK0JkNUVwRlF2cU5kdzhLIiwibWFjIjoiNGU3MWNmM2JmMDE1Y2ViYTBmODczNDUyMTVkMWY5Y2M2MzFhZjVkYmFkNDJkZGRmMGNiOWE3ZjQ2MzYzOGRlNiJ9&amp;signature=20ab71f19ff992a02b0e3269461950fd8fba37c21a7c1b3f6fcf047f8c9aedd6</image>
+    <start>09:30PM</start>
+    <finish>09:00PM</finish>
+    <date>25 December 2025</date>
+  </channel>
+</tv>

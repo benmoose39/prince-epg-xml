@@ -1,2 +1,1433 @@
 <?xml version="1.0" ?>
-<tv/>
+<tv>
+  <channel>
+    <name>Fox News US</name>
+    <id>FoxNews.us</id>
+    <title>Live: Special Report With Bret Baier</title>
+    <desc>News from inside the Beltway.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IjNCSVdMR2UwQm1mNkQ0XC9uVUhZT3dRPT0iLCJ2YWx1ZSI6IlRvc2FhU252N21Deld2TytcL3c3YlM4b0VcL0l3bkc2WnJsZnlTb0dYSFAxK0JMNVFOM2lwZjN5a2dZU01sc3RcL2k0TWlwbUhUUmM4MHNHNWJlNTY0TkVZbGJCcUtUbG1EbWN4TjZqUWVqZ0VId2c3dDB4Z0puRWdnQzVsTERIeGdGIiwibWFjIjoiZDMzMTAyOTYwOGExZWI5NjI0NjcwNjkyMjBkZTM4NzA0NjQ3ODk0MWM0ZTZlMGFmMjczZWFjNWZjOTY1NGE1YSJ9&amp;signature=eb45b5476d39d1a919f31f4c9a20ec676b010a793e4581364e7ba97c651656e5</image>
+    <start>11:00PM</start>
+    <finish>12:00AM</finish>
+    <date>22 December 2025</date>
+  </channel>
+  <channel>
+    <name>Fox News US</name>
+    <id>FoxNews.us</id>
+    <title>Live: The Ingraham Angle</title>
+    <desc>Laura Ingraham aims to cut through the Washington chatter to speak directly with unexpected voices and the actual people who are impacted by the news of the day.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6InlXMmZLaFZlVWJVaHdOZHI1UGRHNlE9PSIsInZhbHVlIjoiQmdneHMxSExXM28rT3ZKQWh6aHhVa0RFTkkzb3o2ZEtqQjgycm1XNzNwQmdNS3VsMGZjQXN5UENNd01kZ09JejA0a3U0cEZ4YzFrcjR4V0wrN29sY3BJb1hvTVZ4TW1ycFlkYldBalwvUXB1T0VoeXNLRFRRazU0bldRSkRBWHFKIiwibWFjIjoiYzgzMDEzZTg4M2U1NWQzYTI2MTE1MTVlOTEyMjBhMzBhZjRiY2E1NmQxYTVkMmQxZDQxZjFjYzczNTkyMTUyNiJ9&amp;signature=f2e21c52642e0d371b92b10f980c3e46b69f9d0aaf2031b8b3a13f5ee32037db</image>
+    <start>12:00AM</start>
+    <finish>01:00AM</finish>
+    <date>23 December 2025</date>
+  </channel>
+  <channel>
+    <name>Fox News US</name>
+    <id>FoxNews.us</id>
+    <title>Live: Jesse Watters Primetime</title>
+    <desc>Jesse Watters speaks with newsmakers from across America to present news with a clear and direct approach.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IjBcL09vYjQ0WXRSR3hCTGNJRjkzaUlBPT0iLCJ2YWx1ZSI6InVUVFAxUGxwMDdNYVhOWlwvMlRTWG1wT1AxV3VRVHZqV0hCaVBLVUxDRzZuYnZ4UjBwK1h1SkdpeUxUVHo4RWd6ZkFsK1prRVZYNDlBb3h6RURyaFZcL1QreXlsMEd3ZFRYVVNOdDRkdTB4cTdvdkxqTkttNU9pWU9oQTlrdDJ6VlEiLCJtYWMiOiIyZWE1OThjZDdhMWUyMDE0NmM0ZGUxZDdhNzY5MjI5MDUyODM1OWNmMzFiNzdjZTA5Y2IzYTdmN2E3ODBjNDNmIn0%3D&amp;signature=931bfb4ba12e1b373104ab759596a49f72107b7995b0bd4a5f225b9fce8cd50d</image>
+    <start>01:00AM</start>
+    <finish>02:00AM</finish>
+    <date>23 December 2025</date>
+  </channel>
+  <channel>
+    <name>Fox News US</name>
+    <id>FoxNews.us</id>
+    <title>Live: Hannity</title>
+    <desc>Host Sean Hannity interviews political figures and newsmakers and offers his own conservative perspective on current events.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6Imx5QVJhM2Jta1o4bGEwdEN3XC9ZZUJnPT0iLCJ2YWx1ZSI6IkZSTjBybFZaRlhleGJ2cktyNHdTbzhTM1FwcTVEYUdaOHRTQ2w0cjNWQTJZMU5pUEY3bFg4ejBHZHd1V04wVU91K1ZuS1gybzVlQkJ4MmxIU1wvU2tjelRib2xuRURxZHBKbllMVFB3ZW1iZjgwMTFEVnlrNnFLTWNLU0Fab2hUZiIsIm1hYyI6IjJhNGE3NTEyNjczMTUxNzFlMjk3Y2QxNTAwZTVhZTc5YjIxMGM4YTViNTU4Njc2ODc2NjQ3YTQ2NzU1N2ExMTAifQ%3D%3D&amp;signature=b6e4fc045bf802a2ebce6481d942089baae1fb66a2b2dbc5c5a4753e572f0116</image>
+    <start>02:00AM</start>
+    <finish>03:00AM</finish>
+    <date>23 December 2025</date>
+  </channel>
+  <channel>
+    <name>Fox News US</name>
+    <id>FoxNews.us</id>
+    <title>Gutfeld!</title>
+    <desc>Gutfeld looks at the news of the day through a satiric lens fused with pop culture and features refreshing takes on the day's top headlines from FNC personalities, authors, politicians, veterans and comedians.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6Im5PeE9VRjlSSGkxaWx5aEI0NVZGamc9PSIsInZhbHVlIjoiXC9wdWVlUGc1eTYyeGRaMlY1QTkrVFwveWI1c1BLSk5qSTJsb1wvU1NHOThQQTVzZzhiMjV6bWhOUTBmbys3bHZGclUrdXhLTGwwbGtnaHk2NFBneHJLT2I0MmVSS2p3citQUVd3UGdSZU41ZmVDY29aWlBXVnhJTEdKUVlYZVhNXC9PIiwibWFjIjoiM2VlZTMxODMwZDQzYTVlN2JhZDA3MGYwNDllNmIyYzM3MWZlNzUyNzg4YWZjNmFhNjY0YzY1OGU2ZjMxYzdhNCJ9&amp;signature=3448db6063a75d36c4aaf0b5ac4796db2ea6822e0ddd74b79c03de03106e9543</image>
+    <start>03:00AM</start>
+    <finish>04:00AM</finish>
+    <date>23 December 2025</date>
+  </channel>
+  <channel>
+    <name>Fox News US</name>
+    <id>FoxNews.us</id>
+    <title>Live: Fox News at Night</title>
+    <desc>Hard news and analysis of compelling stories from DC and across the country; journalists provide viewers with must-see information and consequential news.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6Ikx3NXFmOU5QM0dTZW9aNGk1MkNRV2c9PSIsInZhbHVlIjoiR0NQY3FERjZUTWE4b0ZCUFRaVFwvXC9jUlo0M090MFZFRFk1bm12cE1FeWg1UnhkNHdSUDROSFpcL1VTeDBpVEMwTFBTYTcyVUhvQ0xxdE1cL1BwelJqdFhtaGtvRTJQTHJMYW9YYkxJYTJuc0dEeDFFcXJ4MVhcL3NRK1hUTXJrcEdHMCIsIm1hYyI6ImE0M2U4ODVlNWM0OThhYzZkYTRiODlmYjQ3YWYwOWQwNDRhNjVlOGIwZGI2NmIxY2I5MTQxYzFkYmQ4N2FhZWYifQ%3D%3D&amp;signature=e52e717f267a0fc2a7f71e47c02fca6e522533cdb95e2e29500786327ebff803</image>
+    <start>04:00AM</start>
+    <finish>05:00AM</finish>
+    <date>23 December 2025</date>
+  </channel>
+  <channel>
+    <name>Fox News US</name>
+    <id>FoxNews.us</id>
+    <title>The Five</title>
+    <desc>Dana Perino, Greg Gutfeld and Jesse Watters and rotating liberal co-hosts Jessica Tarlov and Harold Ford Jr. discuss and debate the hot issues across the spectrum from politics to pop culture.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6Im1BYjk1Nk5EQnhKMUFpdnhqZG9RNXc9PSIsInZhbHVlIjoiVzFLdFNnY2VSRGpKMW9YZHE4ZmRnKytmTTdkNlZuUXlJa2x5N0tzUGdyaWU3ZGtyWXpZSDlCR002MWZCVTFGcmpkcSsxXC9YTjZZQ0pcL3NEcHJIbzhFUHYzaXlpeGczcDJ6ZmpTU2w4aDQrQTlsUHF6cDRJOTFTVUhmemY3YVMxNCIsIm1hYyI6IjM3MjVhZDNjYTg2YTIzYzAyZjI2M2NlZjFkZDc3MGU2YWM3OGFlZDQzMzdmNTc0YWI3ZjVmYjc3ZWMwZjdlZGQifQ%3D%3D&amp;signature=678ec869e8f1f064f1f0823b0233be4461b98e5e74a57646d049fca5bc5f475e</image>
+    <start>05:00AM</start>
+    <finish>06:00AM</finish>
+    <date>23 December 2025</date>
+  </channel>
+  <channel>
+    <name>Fox News US</name>
+    <id>FoxNews.us</id>
+    <title>Jesse Watters Primetime</title>
+    <desc>Jesse Watters speaks with newsmakers from across America to present news with a clear and direct approach.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IjNNUGRpUnlISnVmMWNcL05RanFnNVZBPT0iLCJ2YWx1ZSI6IlBERnBGZE85bHJsVU5STWxka0Rpbk9LUVJIYUVLcHJkRWloUFRrWmNnTFJoZlVzRnFEMWMxTmR1SW85cnpERnVCU1RDWjJydUxWOGJhMUpESXYyeHZrYkUyT3NmYnd0S1cxbVwvSDNPeGROU1c0STZwRWoxR2pQb25QQ3VRcjFkKyIsIm1hYyI6IjM4NmNkYjIyNjUzOGNhZDQ5YTA1ZDk1ZjM5OWE3Mjk4OTJiNWQwOGE2YjQyOWQ4M2IzM2FlZTczNmFhZTZkYjUifQ%3D%3D&amp;signature=446b61d9a635dcce15c87a3170e130763b9cc8e5ed9da73420bf6264279d324d</image>
+    <start>06:00AM</start>
+    <finish>07:00AM</finish>
+    <date>23 December 2025</date>
+  </channel>
+  <channel>
+    <name>Fox News US</name>
+    <id>FoxNews.us</id>
+    <title>Hannity</title>
+    <desc>Host Sean Hannity interviews political figures and newsmakers and offers his own conservative perspective on current events.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6ImdscnljY2R4REUxdThIQUViOWNPblE9PSIsInZhbHVlIjoiWUk5TmVSelpqR3JjTnpnc2ozN3dzQ2tXU0w5UGo4T3Y3cm9LZVBtMTFYcHg2R2JqQmJ0V2FpRFJvUWxZUUY4d0hnVE43ck5xcWxSUGhuaUkwc0dLaUVkamxhN1dkS1N1M2ZQQXNZYWRBTmo1SGVHaEFUOUNqeFBMTU5CNDhuUWYiLCJtYWMiOiI1MDdlZDVjNmRlN2Y4YTNjZWRjYWQ0Nzk4NGMyMWFjZjNhZmFlNjBmZjZhODUwNDA5OWM0OTc4YzFiODlkMGEyIn0%3D&amp;signature=87b890b635ddb28ca20462e1c0d791751673508edfe44baead0a90f876de031f</image>
+    <start>07:00AM</start>
+    <finish>08:00AM</finish>
+    <date>23 December 2025</date>
+  </channel>
+  <channel>
+    <name>Fox News US</name>
+    <id>FoxNews.us</id>
+    <title>Gutfeld!</title>
+    <desc>Gutfeld looks at the news of the day through a satiric lens fused with pop culture and features refreshing takes on the day's top headlines from FNC personalities, authors, politicians, veterans and comedians.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IkdnbFJwbFVJUmdnWWdScEpYN0Z0MlE9PSIsInZhbHVlIjoiQW5hU05Velk2V29Od2c1MTZ6QlwvWFwvT0hPd2pMeUVYdkplbkViZEFSSlMyUXBNSktRK3dNMTFDbG84QlwvUGlRRm9ud1FZK2JKVlBWc25OZE8zSVpNbEtJV05FcG5hd0pxUG1ZZlRxRVNSZWpBSXJQM1BOM3dlQjZXb2hONzZJRzUiLCJtYWMiOiJlMTVkM2NlMDIyNTAzN2MyYjI3NjkwZjcyY2UwMTUwZjU3Zjc5Mjk0NGM3NmE4MjMzNDRhNDc0YmJkMjQ2NjEyIn0%3D&amp;signature=975f2a3be42c63d704852a6556ea59b58a741f7379958e15cce4b040fd4712b6</image>
+    <start>08:00AM</start>
+    <finish>09:00AM</finish>
+    <date>23 December 2025</date>
+  </channel>
+  <channel>
+    <name>Fox News US</name>
+    <id>FoxNews.us</id>
+    <title>The Ingraham Angle</title>
+    <desc>Laura Ingraham aims to cut through the Washington chatter to speak directly with unexpected voices and the actual people who are impacted by the news of the day.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IlBzNGNOenBqaE1YcXFoV2dWTGdldEE9PSIsInZhbHVlIjoiRFREZlFSSndJcGtCa0pDYm1cL3FwNUpueXV1YTE0XC90a0RXTnNLbGdPUGJlOW5YMGlPdHN0anYrSTJBOFwvaHJyemlKcmJrU0tIcXhZUmZUMHRUN3dxT1J6Z3dHaGluWDIyNUp6aTNtTjNvVUFQK2dFbVdHYzRBXC9lWmNpK3U3VTh6IiwibWFjIjoiYzkxNTdkYzcwOGViNWMzZGMwMGE5YmU3ZjA3ZTRhOGVhOWMxMTYzNGQ2MDA1MjBlZGI5NzFjZTg2YTMyNTg5ZCJ9&amp;signature=d39bf656307123ca79ca304c902c04521482ab084d6f5a85c1e68fa51aaef9b4</image>
+    <start>09:00AM</start>
+    <finish>10:00AM</finish>
+    <date>23 December 2025</date>
+  </channel>
+  <channel>
+    <name>Fox News US</name>
+    <id>FoxNews.us</id>
+    <title>Live: FOX &amp; Friends First</title>
+    <desc>Hosts Todd Piro and Carley Shimkus present all the headlines viewers may have missed overnight, along with a preview of upcoming news events.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6InNwN1RMaUdoZFRnczAxRjZkWm4zTlE9PSIsInZhbHVlIjoiRnQzZFFJNVhGQndKbU85RDBHbDg4d1NSdEF5RzVCaFlxWUx4cVk2T09lSVE0U2dqM2E3SG11OWcrN0VqQ1ZKd0FJMWVDYkkraDQ2UXRMYUtrb0NDcEZyN1EySEtrR2FxTGxXUjErR0F5R3lRdUtxZHpnV0V6UTM4eHgrNXRPMHEiLCJtYWMiOiIzOTNkNDkyMzRiMTEzY2FkOTczZTNkY2E0YjEyZjFhMzgwMGI4YjNlNDNiMzVkMmFkMzJhYmYzNzZkNzZiODU5In0%3D&amp;signature=a9533016c94bd1d2b1d33c812304ad86b81861fca5e98408709327a39ad485ac</image>
+    <start>10:00AM</start>
+    <finish>11:00AM</finish>
+    <date>23 December 2025</date>
+  </channel>
+  <channel>
+    <name>Fox News US</name>
+    <id>FoxNews.us</id>
+    <title>Live: FOX and Friends</title>
+    <desc>Co-hosts Steve Doocy, Ainsley Earhardt, Brian Kilmeade and Lawrence Jones highlight the latest.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6InBqU0pZSzVEN1Uya3grWkJBVDhZZ3c9PSIsInZhbHVlIjoiMmFaU1wvT2dhZXFKVXg3TFNCM0lLOGdMblFVeTZqdkdya1htc1Y4WkJvRldMMlQ4RVVWWjlmYVhoZ0ljbmROaXFaQVRrXC9mSFwvN2JvNTIrYVBRekt0S09NOW5GWFZOT1A5am85dmJISzNXc0JrdWR3U2xZYjZuTDgxUVJUekNmcTAiLCJtYWMiOiJhYzY4OGVhNjg1NmE3MTg5MTRjMjgxNjQ0Zjk3NjkwOGQzMWQ3NDgyYWY0N2UyNmNkN2VkMDcxZWJiN2M2Y2E3In0%3D&amp;signature=c63ed19388eff088e21a5fcb6b57e552d353739d266e1b595d01d1caffc0934f</image>
+    <start>11:00AM</start>
+    <finish>12:00PM</finish>
+    <date>23 December 2025</date>
+  </channel>
+  <channel>
+    <name>Fox News US</name>
+    <id>FoxNews.us</id>
+    <title>Live: FOX and Friends</title>
+    <desc>Co-hosts Steve Doocy, Ainsley Earhardt, Brian Kilmeade and Lawrence Jones highlight the latest.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6ImVaRm1keGR4aHE1SkZNODIwbjd4OEE9PSIsInZhbHVlIjoiSG9KbENyNWtrQ1ZqRGhDTnY2bTE4ditvYVRNUmVBREczTHNpVWh2ZXhUK1wvMk00dmNKXC9DeWJNN0FsUmRVRzFXcFNzQjZLelRGUHZPUVNUNzcrSm1BZ0tOaGtnVU1aMUt1UkpcL0duVkhoMGQ1WmlnaDNHMWpCMmF2aGJiT3NVQm0iLCJtYWMiOiJiZTFmNWExOGJmYjExZWM5ZTNiNTQ5MTZmZGIwMTZhYjc5YWM5MjI4NjdhM2I0ZWNhODU1NTZjZDY3MDdiZjBkIn0%3D&amp;signature=9656d5e28664c20fa7357c1d6abcc13a211a7ac1e64b96a6e3ddcab6688d79dd</image>
+    <start>12:00PM</start>
+    <finish>01:00PM</finish>
+    <date>23 December 2025</date>
+  </channel>
+  <channel>
+    <name>Fox News US</name>
+    <id>FoxNews.us</id>
+    <title>Live: FOX and Friends</title>
+    <desc>Co-hosts Steve Doocy, Ainsley Earhardt, Brian Kilmeade and Lawrence Jones highlight the latest.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6Ink4K0piOVlPbVorZVA1ZHA2RGZXUWc9PSIsInZhbHVlIjoieU4rdVdcL2tHcE1TTGQ3QUtoZGNrNm8ydnFueGtmd1g3Nmc2K0R1RE5BSUFDNkZlQTBHOHlWMG94MjAydEFvMCt2d1wvNXkwb3AyTzY4aDd6NE9VRnc3VlwvS1FiVmorOU9kblRaNHg0TldaS3l4TnN4NnpqdzAzaGJQRTl3N3BzWHMiLCJtYWMiOiI3ODM1MTIzMmVjNGM0ZjhmOWY1MzExYjg1Y2ViODQ5Njk0OTM2ODczMjZmNTk2NTRjMjU0NmZkMWE0MTZjMDVhIn0%3D&amp;signature=add3da8ff6d562963c66a0820118b45025eda5f832fa121327a870c6d599665f</image>
+    <start>01:00PM</start>
+    <finish>02:00PM</finish>
+    <date>23 December 2025</date>
+  </channel>
+  <channel>
+    <name>Fox News US</name>
+    <id>FoxNews.us</id>
+    <title>Live: America's Newsroom</title>
+    <desc>Bill Hemmer and Dana Perino cover current events happening around the nation and the world; guests pertinent to the news topics are interviewed and viewer emails are also answered by the anchors and guests.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IitxK0h0R2Q3YlpIRmVmOFNneDluTkE9PSIsInZhbHVlIjoic284QXRZajAyc0R3RHlUVnNSNWwxMEpcL2U4SFJtTTlBR08rd3dGVG1kNk9PckowWU1IMGRoKzh2K0xHbGg1OTRqN2xneFRWNzB2SzVzSitocHRaQjFKN3ppOTcxWVFZa1h2aUpocWhWUXo0V1g5UzRpUm40UGc1M0thNWNSejIyIiwibWFjIjoiODFjY2Q2MTlhODA2OTZmYjgxNjgwODBmYjY0NTUxYjg3ZjI3OThhMTdlZWUwYTJkNzVlMjMyMTIyODBlZWEzZCJ9&amp;signature=0add322e677ad84d3b37eaa4c0c26047939af935a6d53f0133ad7c7485940c27</image>
+    <start>02:00PM</start>
+    <finish>03:00PM</finish>
+    <date>23 December 2025</date>
+  </channel>
+  <channel>
+    <name>Fox News US</name>
+    <id>FoxNews.us</id>
+    <title>Live: America's Newsroom</title>
+    <desc>Bill Hemmer and Dana Perino cover current events happening around the nation and the world; guests pertinent to the news topics are interviewed and viewer emails are also answered by the anchors and guests.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6Ino3QVRkVEp1NXhpcGt0MExmZjJPWVE9PSIsInZhbHVlIjoiQUpzcmJHbXVxUFhwQWJJTFA1Z2RBR0lZQklKemVueUlYXC9hYysrY1Y3R0c5MFUzTlpKT3pnZEFGUzhRSjJEWThqTWZHcWROTE82aHluRmp6MzVTRnZGSk1VYlBvNmdYeWh0YlFrUDFMS3BUcWVyamlzQngyTERzMnZ3Q2Y0Y3BSIiwibWFjIjoiNTNjYTU4NDI1MDVjZTgyM2EwNmFjNDBiZTUxNGI0NzljMDYzZTdlM2M4MDIyNjFlODBiMjJjZTU1ZTFkZmYzYyJ9&amp;signature=729b8f28fdf97f3484ed15422d611a96e4917dd23d03c6cf7c11049a6d32fb27</image>
+    <start>03:00PM</start>
+    <finish>04:00PM</finish>
+    <date>23 December 2025</date>
+  </channel>
+  <channel>
+    <name>Fox News US</name>
+    <id>FoxNews.us</id>
+    <title>Live: The Faulkner Focus</title>
+    <desc>Emmy-winning journalist Harris Faulkner provides the latest news with insightful analysis and interviews with top newsmakers.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6Im1RZCsySU5XczFiSkh0bHpYMEdzVUE9PSIsInZhbHVlIjoib0NuREFySVpxdTZnekZKWkxXVk1UY01hdTNDbmd2aklYZzY3d3k2RlwvdVZkTjRac2gzODZXQ3FEYTY1TXp1U2dPNU53THU2dUNFbkdLcWhjVTRTMGNPUURjbFBFd3NlcStUVGJZblRcL0c2cWxYVlMwRnVuWU9JejFGUm1EXC81WVYiLCJtYWMiOiI5NzhmMWViNWI3ODEyMWVlNDE3MjZkYzg4ZDhmYjhlMjNhOWU1Mjc1OWY5ZGUzYjE3OTMxNmZlZDE0NzRhNWNlIn0%3D&amp;signature=020bf7904c330f5ad23fc2529d00f7fb70deaa02f8e40e3a8f20cb9c8f5d52aa</image>
+    <start>04:00PM</start>
+    <finish>05:00PM</finish>
+    <date>23 December 2025</date>
+  </channel>
+  <channel>
+    <name>Fox News US</name>
+    <id>FoxNews.us</id>
+    <title>Live: Outnumbered</title>
+    <desc>Four female panelists and one male colleague share their perspectives on the day's top news stories.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6InVaRmZ5eFwvNndtSk56TUJyd2dhRVBRPT0iLCJ2YWx1ZSI6IjNlNWNjMUhOTHZOZ1paSVA4bGFtWTZheGhMK2VSMHlSU3pPSklhYkhtTzFXOE42ZDYwbW42TExCRFJlT0JtWFVUMUFkSGZhXC9RZUVBeEhObWd6ZzVXdDdyWTJYRjlqenNjbkw3ZW5FZWlHV3ArelwvcElHWUh5anNTRE9lWlZjUWgiLCJtYWMiOiIxMDhlOGI4YzhmNjFlNWIzZWM3YmRmYzQ4NThlNzg3MzkxMzE1YWNmNjFjM2E0NWE2MzlhMzU4NjJlOTkxZjgyIn0%3D&amp;signature=a45468ff45fda1b804dca8a29d6ad620e5623363fb9056e7a6f848a932cc0d94</image>
+    <start>05:00PM</start>
+    <finish>06:00PM</finish>
+    <date>23 December 2025</date>
+  </channel>
+  <channel>
+    <name>Fox News US</name>
+    <id>FoxNews.us</id>
+    <title>Live: America Reports</title>
+    <desc>A look at the latest news and headlines with Sandra Smith and John Roberts.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6Ik1SNVRodG9yTGc3dHBBVlBweVNGWEE9PSIsInZhbHVlIjoiYTFOWHFFODJua0NDaUlkeGNzQ1l3N29ZSUg5U1wvSUJROUFMQUJzS0ZXc0VTQkdPV3ZHOE1RUWZlWFJyMXdTWE9oMytmTm9TWmQyMm5xajc5azY0WUI1MW56WmJGSmhkNmFab2tTNjFGKzNzZTF2SzNcLzBBRE9rQjgzRUpOTmZnWiIsIm1hYyI6IjdkZjdmOTMzOGU4ZDQ3MGFhZGRhNTBjZGYyY2JkYmFmOWU4M2FmNDRlNDYwM2I4MDdjOWNjMzY5NzllNTBkNmEifQ%3D%3D&amp;signature=a8eec4e3dc6a727b70ff989532dfab1aaed07f27b85d2a74b7ad336519608d06</image>
+    <start>06:00PM</start>
+    <finish>07:00PM</finish>
+    <date>23 December 2025</date>
+  </channel>
+  <channel>
+    <name>Fox News US</name>
+    <id>FoxNews.us</id>
+    <title>Live: America Reports</title>
+    <desc>A look at the latest news and headlines with Sandra Smith and John Roberts.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IlBtWHlEWWpzZzl1S2JNRjdRSjYzMXc9PSIsInZhbHVlIjoiSmczbUJvbjJRZ1lpU1RlXC9qSTJLaWc3WnRldndpT1hsbEcwcldlb0pGZHRHRnlpWkJjVGMzZjBLbENEOUJzSXY5WmJ0Vm54Q1M2S2d5Tm5wSndyTXJZUUt1dFRwRk9wOG1sUWF3ejljdzF6N1llb1wvdkJLd0pLNzYweGF4aEc5TCIsIm1hYyI6ImY3ZWNhZWZiMWNiNzMyMGQ1MDYwN2JkM2RiNDhjN2UwZmFmMDkzYzdjZTY2YzI2MmRmMWJiMjE4ODUxZDdjN2UifQ%3D%3D&amp;signature=77f97a24691f04635cac1675e498ccf2f3af050a285005e7b9b4622d1c32fdac</image>
+    <start>07:00PM</start>
+    <finish>08:00PM</finish>
+    <date>23 December 2025</date>
+  </channel>
+  <channel>
+    <name>Fox News US</name>
+    <id>FoxNews.us</id>
+    <title>Live: The Story With Martha MacCallum</title>
+    <desc>Martha MacCallum brings the story of the times with her tough but fair interviews and straightforward analysis; &quot;The Story&quot; captures the voices that need to be heard and the people at the center of every history-shaping moment.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IittUGhmK1NROHlWeVBWa2pUd1R3MEE9PSIsInZhbHVlIjoiYlNveEhXd0RsRU1kTTZITWFBdzlabTNnaXErUDNcL2JrZWpHMEVMZlo1ZkhzNXE1b1krMXlWSzY4SkExTnRSXC92RzlcLzkxQXRBV25PbFkwOFd1cHJPQ1VaanREN25iMGtEdkVHR3BCWXJlWHRIRmJ2TG5lQ2wyTjMyd0FGQ2wzbEMiLCJtYWMiOiIzZDJhNDRlMjFiNmQ3OTFlOTBlNjEwNTFkYTY1OWM0YmJlYThhZjMxODhhMDBlMDkwMGI5NWM2MzIxMGIwZjA1In0%3D&amp;signature=c889b0e0a941daa6260ab4731e979c2445eafa2c579fbfc2b3279914b95f53e7</image>
+    <start>08:00PM</start>
+    <finish>09:00PM</finish>
+    <date>23 December 2025</date>
+  </channel>
+  <channel>
+    <name>Fox News US</name>
+    <id>FoxNews.us</id>
+    <title>Live: The Will Cain Show</title>
+    <desc>Featuring Cain's signature podcast style and thoughtful perspective through conversations with newsmakers across politics, culture and sports.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IndaNUZMS29RTTNBd29LTCtWeWQ4NkE9PSIsInZhbHVlIjoiVXFrM2ZrUWJHVXpTODBPd28xcGl1amZDTVJMdWdxNzFwRGs1bUIyTFwvWWEzbFVxcjFUU1IyNXJlTmRvZmNOSTVqT3hwMHoyWnkrQ1ZrSE1WanNUZkVnZWd3eENUT3VBYXN1T0tjbWNNTmNsbzBYa2djMXRDR0labERUcEdPdDhvIiwibWFjIjoiZDkyZjJmN2RjYzI3MTM5N2YwNzdiYzU0OTYzZjRlNmEzY2Y1ZTIyNjJjMWZjNmI1NDI1OGUwMWQxZjdmMWRmZSJ9&amp;signature=937e122e3ae70388b1b3e56ffb76cd3acd8c105197868456fc268334b68fb1a2</image>
+    <start>09:00PM</start>
+    <finish>10:00PM</finish>
+    <date>23 December 2025</date>
+  </channel>
+  <channel>
+    <name>Fox News US</name>
+    <id>FoxNews.us</id>
+    <title>Live: The Five</title>
+    <desc>Dana Perino, Greg Gutfeld and Jesse Watters and rotating liberal co-hosts Jessica Tarlov and Harold Ford Jr. discuss and debate the hot issues across the spectrum from politics to pop culture.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IkdNbmM4REtVc25wSDhsQTFsN0pZWkE9PSIsInZhbHVlIjoiM0pBYm9IZVFkeGwyRlc0REJUSUNxT1lrbXllZ1VhXC9Wb3VkYmNwTlY5eE9PNkJ5dmozMUpZcFFcLzFRM0hUeTVpcE5zZDJ6NUN4b2FcL1lFSHVINzhCT3JiSTV1XC94YTFzRkdndkFNSjNybk9uclRBbDhwc0MyMGZCN2ZEa2p6UklGIiwibWFjIjoiZDk1YWQ0MTUwZWE3ZThjMmQ5NDMxY2M2OWE3YzhkMmNkNWE5MjA3ZWRmZDYxMDZjOTcxNTA0ZGIwMjIxMjYyOSJ9&amp;signature=494b8325b85678f86f6b42a44f6ff88b6118660b72cb49dc4eedad940f629468</image>
+    <start>10:00PM</start>
+    <finish>11:00PM</finish>
+    <date>23 December 2025</date>
+  </channel>
+  <channel>
+    <name>Fox News US</name>
+    <id>FoxNews.us</id>
+    <title>Live: Special Report With Bret Baier</title>
+    <desc>News from inside the Beltway.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IktxNkdkUHFjbWVBajZ4Z0dYc3ZMbmc9PSIsInZhbHVlIjoiREJuNEtsNFZOSFZiMlJIdG5ETkFuQ0NZM1IzNVhcL0M3M0lHQjYzXC9zeHdFOE0ram5tWUNpaWlQcFFUVCtCZk1LRVlsckJRZXJTNXVJUGJkeDdoM0Q0UldPZ0k5cURyRzhHd2FJdWh6RnRvR2FnUlpmU3JhVmxham9mV1dZSERNQiIsIm1hYyI6IjY1OTNjMTg2YTQyN2E1NDMwZDI3ODM0ZjgzYmJmNDdiMWUwZjdjMWJjZGQwNmEyNTEwMzNkOTI4NTk5NTY1MTIifQ%3D%3D&amp;signature=8ea7b7c00bb387a2d85cd7bdcec81046f4a7a71eda46678aeff3a01d47451974</image>
+    <start>11:00PM</start>
+    <finish>12:00AM</finish>
+    <date>23 December 2025</date>
+  </channel>
+  <channel>
+    <name>Fox News US</name>
+    <id>FoxNews.us</id>
+    <title>Live: The Ingraham Angle</title>
+    <desc>Laura Ingraham aims to cut through the Washington chatter to speak directly with unexpected voices and the actual people who are impacted by the news of the day.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IkN1N2VBWmtUeW5cL0VDaXFoTk5wUkV3PT0iLCJ2YWx1ZSI6Imx1Wkt3MkpSem9VK01LT3VxMUZPUHFvM1h2N3pic1pRVGR6ZHM2Y09VR3dYMFlQcFMrWnRRVk1ZMEVNWFlcLzBmRHVsTWVaQzJ3YWh1ZDhDdHhGcm1oK2h3WE1zeFdRVDB4SlR4XC80NTBCNlU5XC83N2RON0FUUHlCTGcrZ0dNNGt4IiwibWFjIjoiOGY3ZGQ2YmUwNmJjYzAyZjBmZDVmMmM4MjY2ZTMxYTdmMjI0YmExODc5NDkwZDRmYzg4OTU0OGRmZmZhMzU2NyJ9&amp;signature=2e9ee49d4690be82822d49887b22a4e6d1700e4a8d14e19c7122f7085f7415c2</image>
+    <start>12:00AM</start>
+    <finish>01:00AM</finish>
+    <date>24 December 2025</date>
+  </channel>
+  <channel>
+    <name>Fox News US</name>
+    <id>FoxNews.us</id>
+    <title>Live: Jesse Watters Primetime</title>
+    <desc>Jesse Watters speaks with newsmakers from across America to present news with a clear and direct approach.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6InpTZVdlTG1CXC9VenFPaldkaFVEVlwvQT09IiwidmFsdWUiOiJUUUNWSGVTeUwwNExSMDFvZ1plMUdRUTZQTytNYW1zR1hsNkpJNzFqUVluTlY0UHpydThPVnVRVEdUbW5nYzU4Tm5LUktYQ3YyRzQ2T3NhdWJHbDhPMFwvdTVrRmwxUUpMZU16VGcyXC92dmdXd1NjdlhoZGhkaTVXRFRuYlNQQllUIiwibWFjIjoiZjkwMGU4MGM0OTU1YmI2N2FhZjY4ODA5ODlkM2VhOWZmMzYzYTNmYmUxNTFhZmZiOTNhODM5ZTY3YWUyMWU5MyJ9&amp;signature=37e464040f1328fbcbc12ec56a12e5c4a1d1f51a5534c3658f405939c526bc62</image>
+    <start>01:00AM</start>
+    <finish>02:00AM</finish>
+    <date>24 December 2025</date>
+  </channel>
+  <channel>
+    <name>Fox News US</name>
+    <id>FoxNews.us</id>
+    <title>Live: Hannity</title>
+    <desc>Host Sean Hannity interviews political figures and newsmakers and offers his own conservative perspective on current events.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6InN4a1M4OThOZkpqaTZGM2V0c3kwYlE9PSIsInZhbHVlIjoiNnd3UVFYM05RRGZYcys4aUpsS1wvXC9PdFwvb2ttQk53akwwXC9rYyt6blM4YWV0VGFZc0h0U0tCOHBJY0p0cHZEVE1tajlMb2ZFZ3krUGFxVEcxRWNraklnbHYzSzJCSnNwRmV5YVB1Qm82UlZTYTFicklqN2Q4VkpYbW9mRnY0WEo3IiwibWFjIjoiMWI1YTliOTRiNzFmMmI1YzRlMDU3MWI1YjFjOGNiMDFiMWUyNGZmYjhjMDI4OGY5ZjQzZjk2NzI5NzkyZWU1MiJ9&amp;signature=da24e32fce9e92b22f45db2e7eb23b4cbe92297652dbea1aed089cec49baa198</image>
+    <start>02:00AM</start>
+    <finish>03:00AM</finish>
+    <date>24 December 2025</date>
+  </channel>
+  <channel>
+    <name>Fox News US</name>
+    <id>FoxNews.us</id>
+    <title>Gutfeld!</title>
+    <desc>Gutfeld looks at the news of the day through a satiric lens fused with pop culture and features refreshing takes on the day's top headlines from FNC personalities, authors, politicians, veterans and comedians.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IjVDdFVISkNnQ0tuYzNURFNQZTB0aHc9PSIsInZhbHVlIjoiNDBtMmtORVVOWW90a1wvVWY5eFZNQnVPNnR4dDdYcldCXC94cHJ4ZzFMQko2T0tjbkd4ZitidzZsRlE3TzYrK1ZpNHVUUXNzcDFZaVwvVjFlemlJZ1pkTSs5QkRTUkhWZmNpNTZualRsY2tzN3BDQ0FRNXhycTJwRDlFMk9BZUJPQmEiLCJtYWMiOiIxZDQxMTFiNTEyZDZlYzJiNmNmY2VjOTQ3Y2E5ZWRhN2RmMzA1YzQzNzhmNTQ4MzMyMGVjMjI0NWE0YTY4ODEyIn0%3D&amp;signature=98fe1a477287da0bde5493f317322fe48efa459a0e96bf6572ffbfe3cc20b7f8</image>
+    <start>03:00AM</start>
+    <finish>04:00AM</finish>
+    <date>24 December 2025</date>
+  </channel>
+  <channel>
+    <name>Fox News US</name>
+    <id>FoxNews.us</id>
+    <title>Live: Fox News at Night</title>
+    <desc>Hard news and analysis of compelling stories from DC and across the country; journalists provide viewers with must-see information and consequential news.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IkNTMk5yY1wvNVB5VXRTY2pXKzFBSWNRPT0iLCJ2YWx1ZSI6ImJTaTU1YzRGSUVHTEhORFhpRXgwdmhZUGpMRnJwZTdSVmFIOFZoVThEWHdKZ0d2VUdITnA3V09JMTZkaEVXNnpTamQxSHJ3S2xvbVYxMlpVZERjemFtVW9NbFVmRXRyTnNFWDJ2eHpOcjVCSGY4a0c1WGwrd1YzUFwvSWI1bEI4QSIsIm1hYyI6ImZiOWM4ZWVkYWIzNjU0ODgwNGIyYmVhMWRkMDg0YjlmNWMxYjk0MTM1OTg5YTM1NzVlODQ4NzM3NDc5YTA4NTYifQ%3D%3D&amp;signature=51ba1d982d0d43717c93a941d7d4815f6e8d3bbd2c9d35a225c1eb1dd19ff6aa</image>
+    <start>04:00AM</start>
+    <finish>05:00AM</finish>
+    <date>24 December 2025</date>
+  </channel>
+  <channel>
+    <name>Fox News US</name>
+    <id>FoxNews.us</id>
+    <title>The Five</title>
+    <desc>Dana Perino, Greg Gutfeld and Jesse Watters and rotating liberal co-hosts Jessica Tarlov and Harold Ford Jr. discuss and debate the hot issues across the spectrum from politics to pop culture.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IjFZMTNrU1lMc3pNcHBhdzJtUXU3Y3c9PSIsInZhbHVlIjoicDNyMGgxaVYzZnhcL3Q1aVlTUis3TU5Ed3dOOG5Kd20yRTl2QUVVbHhyeCtDcjl2cDE4OWdJZW1MdUk3RHJQQkFjNnVQYlg4SlBEYmdiN2s0b1BsQU5iZFZYMkRuZmJlVTNZUlMxOXhcL0RKZFVNVjhOWWIzdXoxRjFFbHJvb0tKYiIsIm1hYyI6ImIyODkyMTk5NmMwNDg1ZTM4YjJkM2MxNTFkZDlhNDIyOWZiYjBmZGU2ZDVmNDU5YTNjZjc5NmJkOTAzN2MyNzYifQ%3D%3D&amp;signature=2752f3d8b20a27e442b862fb56f0d1f60f9a840c53cd6e3eec8c5d7469c4810b</image>
+    <start>05:00AM</start>
+    <finish>06:00AM</finish>
+    <date>24 December 2025</date>
+  </channel>
+  <channel>
+    <name>Fox News US</name>
+    <id>FoxNews.us</id>
+    <title>Jesse Watters Primetime</title>
+    <desc>Jesse Watters speaks with newsmakers from across America to present news with a clear and direct approach.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IlwvdXcyd3JcL0VMd3RnNnVnTFgrK3NuQT09IiwidmFsdWUiOiJWZWt3aFJXTGFRMU4xRTExWHgzWUdRUGoxZjJ2K291S3g1T1VScW5MZUFWMVpwY051K0dIT2dUeXFaWWVhMUpBK0lqRmVJT0FLSUJcL3U5a1JkNkthOWlIQWhJWkFKc1JpMjc1YmRoa0lIMmo4Y3QzQ0J3WkVxRjZrNUY3ak9YMksiLCJtYWMiOiI0NGM4NzU0N2JjMmUwZDdlZDQ1ZDIzMjE2MjgxMDU5YmUwYThiMDQ2ZjdmYTQzNDI5YjJmODVlZGU4MzFjYmFlIn0%3D&amp;signature=337757d0a6b57d5f4133dec092942ede236136fb3981bad60adcd157035ea233</image>
+    <start>06:00AM</start>
+    <finish>07:00AM</finish>
+    <date>24 December 2025</date>
+  </channel>
+  <channel>
+    <name>Fox News US</name>
+    <id>FoxNews.us</id>
+    <title>Hannity</title>
+    <desc>Host Sean Hannity interviews political figures and newsmakers and offers his own conservative perspective on current events.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IlZxbVA1ZGxjTEpLS0JIWFVnT0VWVFE9PSIsInZhbHVlIjoicjhHdzFrQW1Vd1I1d0JIUGtISHdZcVpYV0lCb2U0aUxqY3AyRUZMaFY4OFdPeWxHcVdzM0FOSWtmUGw0WjhUMmZKU21mRHVYR0o3UTVtWE9JV0pxbTc1dUVuXC94ODdrejRnTWZ5aTZLMGlOUHowWjJtTFpLaHJ0elZrUDJhSytrIiwibWFjIjoiYzQ5N2E5MjllNDFlNGVhZjAxNzRhMjQ2NDU4YTliZDQwYmM5YmZmODUzN2UzZGVhZDJiNTkxMGQ4MTdkM2U5OCJ9&amp;signature=9c8bc4c39de2936074078c91f65096aa29c5a169150e753f70ae64b6bb45bb84</image>
+    <start>07:00AM</start>
+    <finish>08:00AM</finish>
+    <date>24 December 2025</date>
+  </channel>
+  <channel>
+    <name>Fox News US</name>
+    <id>FoxNews.us</id>
+    <title>Gutfeld!</title>
+    <desc>Gutfeld looks at the news of the day through a satiric lens fused with pop culture and features refreshing takes on the day's top headlines from FNC personalities, authors, politicians, veterans and comedians.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IlNYZGVxY3dCWXE1SkRyZDJOZHFtK1E9PSIsInZhbHVlIjoiZ2FuK0ZYdVplYkZcL1FLQjBlZ0NBMjB5cStqZFNcL1Y2aGN6RHFhMW1PNnVcL21LTlhtdUg4WUVPeVkxSmZDdlhnZDJEOUs3Slwvblhsa1RtMUxERm9cL2tORTdtTVlyOTVXYXlTRFpmOEE4Y2pZSjJWYjFKSmJmT1BRR0srYVJEVG5DbyIsIm1hYyI6IjFkYmMwOTU5NzZmODVmMTliMTkxYWM1NWQyNmViOWMxNmVhZjhjYTkyZjEyYjQ4MTZlYzVmN2E5YzQ1YzAyYzUifQ%3D%3D&amp;signature=1480b6a1a2a982a17202d30eac5df05c0360dc0706f9ef8cc42be4cb14733ac4</image>
+    <start>08:00AM</start>
+    <finish>09:00AM</finish>
+    <date>24 December 2025</date>
+  </channel>
+  <channel>
+    <name>Fox News US</name>
+    <id>FoxNews.us</id>
+    <title>The Ingraham Angle</title>
+    <desc>Laura Ingraham aims to cut through the Washington chatter to speak directly with unexpected voices and the actual people who are impacted by the news of the day.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IkFnTWl4TXk2dWVjT0V4VHYyWVFFTVE9PSIsInZhbHVlIjoiNWVUem1JeWFsclBobEVOb2hNTStLXC9PTW5iaGhmSU5tYmpIQytpUExIZm5wbE1rcG1BRDZrT0pKSTgrVVR6a2xZeWRcL0g4cjFBdUVtTzlkMFJQc1FvZGpiM1M5eWloZ3UwalBjb2xNK3FPeGdIZGdHUTJjQ3pxa3dIUjM5OExFYSIsIm1hYyI6IjI1Y2I5NjVmNGZmMTYzOTA4OGVmYjcwN2Y3YzcwMzAyZjllYmM4MTUzZmE3MGMwNmQ5MThiMzRmYmJmNmQ5ZjkifQ%3D%3D&amp;signature=8e32abe93cae75335ba6daa70e8bdf3710283ef173604fc44316d87ed22570b9</image>
+    <start>09:00AM</start>
+    <finish>10:00AM</finish>
+    <date>24 December 2025</date>
+  </channel>
+  <channel>
+    <name>Fox News US</name>
+    <id>FoxNews.us</id>
+    <title>Jesse Watters Primetime</title>
+    <desc>Jesse Watters speaks with newsmakers from across America to present news with a clear and direct approach.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6ImNQbU1SSkhJZ0lIcVFlZUxBeXZad2c9PSIsInZhbHVlIjoicnZcL2Zwa1owTG1UXC8rRXNuVzl2Z2JDTkxuRGs1dFJGOGJpWWVPSGFnMGxJS1JxN2hIQnltRVVTVGpkR3BGZzVlVUpqTHFpYjU4YklXQVVrZVdPRE53bEg2ZVNhR1RYUXZCN2VjT1VOemtrMHlQSm1oZkVWQUFvekxzNHVyanJrYiIsIm1hYyI6IjQ4YjAzMmIyNzc2YzNiN2U3Mzc4NTJjMjBlZTVhMmQyNWU5NzI4YzZhYmU0MTcyN2RmMjBiYzkxZjNhODc0ODcifQ%3D%3D&amp;signature=07a0f5fcd7e58f1c71b20f3d426e6b293fd054c18e83a922c21c15c6b5cb4935</image>
+    <start>10:00AM</start>
+    <finish>11:00AM</finish>
+    <date>24 December 2025</date>
+  </channel>
+  <channel>
+    <name>Fox News US</name>
+    <id>FoxNews.us</id>
+    <title>Live: FOX and Friends</title>
+    <desc>Co-hosts Steve Doocy, Ainsley Earhardt, Brian Kilmeade and Lawrence Jones highlight the latest.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IjJWNmp3NllVNjl2YkZjWUNZbGFWOEE9PSIsInZhbHVlIjoicDBGWWFXekpxNkFiSWRlZ1hpbmVrblF0clQyaU9SZVIxSHhcLzFHN1ZQZjVmbXlpamlXTHl3Y3ZnczNGQ250bHRHcm1cL2JjWVwvYWRkeFU0TVh6WU1FdDlIeVJUN0JpWTVMWVZGVkhPSjN1VVwvRlNmbFY0QUVcL2liZW5UeEw0aHZlaiIsIm1hYyI6Ijk3ZjNlOTE2OGE4MjNiNjJiYjA3ZWI1MDBhMmQwOTVhODE2M2YzYzAxZDI5ZDQ0NzAzOTE1ZjUyZjViMzAwZjUifQ%3D%3D&amp;signature=b4b9e3f6483cd10a17e9ab3ed8ded312d12fb32f46865ddb249d5c3302d28f90</image>
+    <start>11:00AM</start>
+    <finish>12:00PM</finish>
+    <date>24 December 2025</date>
+  </channel>
+  <channel>
+    <name>Fox News US</name>
+    <id>FoxNews.us</id>
+    <title>Live: FOX and Friends</title>
+    <desc>Co-hosts Steve Doocy, Ainsley Earhardt, Brian Kilmeade and Lawrence Jones highlight the latest.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6ImhcL2t3M0hpc1piN1ptNjdoWGlrdk13PT0iLCJ2YWx1ZSI6ImFuMytzZWlUOXNuVnhTQm9NSUJyQzdDbzh3SStXd05cL1U0K2tzS010NjhBR0FhdkVjekorNXBFaXJkeHdPekJCVG5kT3pNWmY0bkFLSkF6QTVvOU9tUlB0citVYW5pRllpRTF1SUJ2QmRqMTRuUzQrUkxEQUI1M3pPclhsdDJROSIsIm1hYyI6Ijk1MzM4ZjVlZDMyYmRmN2MxM2U3MTg4ODA2MzliMDczZjc0MDExZTAxYjE3NmRkYzhhYjZhNDUwODY4MDIzYTQifQ%3D%3D&amp;signature=20374772d08abe84666cca7eccd7ea665ecf320d7ece772477d584e2b12f480c</image>
+    <start>12:00PM</start>
+    <finish>01:00PM</finish>
+    <date>24 December 2025</date>
+  </channel>
+  <channel>
+    <name>Fox News US</name>
+    <id>FoxNews.us</id>
+    <title>Live: FOX and Friends</title>
+    <desc>Co-hosts Steve Doocy, Ainsley Earhardt, Brian Kilmeade and Lawrence Jones highlight the latest.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6InB2eVJQeHJ4cGNlVXB2dVVFODhuQkE9PSIsInZhbHVlIjoibzJHTmpKakh3Q2xNOWtJUWJBVDdLRGdFT0VUVmxIeEpRUitOZjgyWUxmdGt3aGdMRjdOSWVBcXRiNzJnY2RmTUI0cGZyd0JWMnhSYVlTTERNdzdydmo4Z3RFZVN1b2Q1dkNcL0FJajN2eHFJR055cjI2MHAreTQxWlVuZVBmSFFVIiwibWFjIjoiNTdkN2M2ZmI0NGJlZjMyMDczM2I1NjIyMDZlNzY3Mzk1YjEzNDJmYzg1M2Q3OWEwZDgzY2IxZTJjOTY4ZDNjZiJ9&amp;signature=9be8807298598a510909837432c97d38de4d984a0a70fb02a33703c67870ed76</image>
+    <start>01:00PM</start>
+    <finish>02:00PM</finish>
+    <date>24 December 2025</date>
+  </channel>
+  <channel>
+    <name>Fox News US</name>
+    <id>FoxNews.us</id>
+    <title>Live: America's Newsroom</title>
+    <desc>Bill Hemmer and Dana Perino cover current events happening around the nation and the world; guests pertinent to the news topics are interviewed and viewer emails are also answered by the anchors and guests.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IjFoZndDU25NNDB2dUFCdkNlQnNxbEE9PSIsInZhbHVlIjoiQVZ2M0FzOG5OWVRrUmZwRGZWaFFHdlB0MjMxMXZ5Q01PbzA0ZnU3NUw5SlZ6SEVKUWY3aE5JaVR0d1dvUUxYdUNcL3pPMTNOeWdwRzFQaE5NSTUxWWhlYVpLYnNyUTdPb0hOaTNEMUVScTdVVUQwRnFTZXl1dnlNclAwazRSOVNTIiwibWFjIjoiMjc3MTcxNzUzMWM0YzIzNjVjMTc2ZGZmMTRiOGNkOTgyYTA3MTRiYjI5MzcxYTU0YmIxYTdhMjMzNDlkYjU0MiJ9&amp;signature=40eb8cd94a0126ff8701cabeef783c37b3e288c56164fe7bba6ff81f53ce18b1</image>
+    <start>02:00PM</start>
+    <finish>03:00PM</finish>
+    <date>24 December 2025</date>
+  </channel>
+  <channel>
+    <name>Fox News US</name>
+    <id>FoxNews.us</id>
+    <title>Live: America's Newsroom</title>
+    <desc>Bill Hemmer and Dana Perino cover current events happening around the nation and the world; guests pertinent to the news topics are interviewed and viewer emails are also answered by the anchors and guests.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6Ik5WMlFzWFVJRndpd2prRjlhWFg3RXc9PSIsInZhbHVlIjoiTmVMN0dQOHhiclFscHBSZHl0OUpzT1lCRGJqY1B1UzVUeHlrOEJUeXdDN2M3ZEFYclhOY0R1MUtTck11S0ZRNWRMSlNtUDRJWTRtMWxSbHRWNlBrSkMrVVc4VTZabElXWWRPVkJGODQ2TWR6cE8wVlVBZDRrTnozemhBZ2VSTmoiLCJtYWMiOiJiMWI3Y2Y4ODNhNDAzNDMwYzUxMjMyZTA0ZjY4ZjM4NDE1NTE5ODM2MDMzYzU2MmY0YmU4MjM3NWE5MmE4MDNkIn0%3D&amp;signature=dbe40fc63238e6e816c8935ed9572e509b23f6013f31c03c3826328944518202</image>
+    <start>03:00PM</start>
+    <finish>04:00PM</finish>
+    <date>24 December 2025</date>
+  </channel>
+  <channel>
+    <name>Fox News US</name>
+    <id>FoxNews.us</id>
+    <title>Live: The Faulkner Focus</title>
+    <desc>Emmy-winning journalist Harris Faulkner provides the latest news with insightful analysis and interviews with top newsmakers.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6ImQzanJmR2U4UGNQXC9aaE1wdWNhR1hnPT0iLCJ2YWx1ZSI6IjlIVXdoaHpSd3hOZ1h3bTNMSWxFTVRiY25HbkxlZEZlaitVOFExUkJtcEZubXJlMVJIbThnenJLV0V2MG4yNUVVaVVIWXNvYkJrVEFpcm5mbFFcL1RweVdodkRnZWdjN0xEUjlIMGZWZzdRUVBmTGU2RGpBYjBoWTlXWWVnRGVKRiIsIm1hYyI6IjNjYmZkOTAyZjRmMTk4NGNhOGE0YjZhMmQ0MTc3ZmI3YjQwZWE0MzA3NTRiMjIwNjdkYWU0NTA4N2MzZDYwMTQifQ%3D%3D&amp;signature=a6e479a97fa153ea4dab8aaaca155679f56909c4f9b24ea31bcd4854db0e0a1e</image>
+    <start>04:00PM</start>
+    <finish>05:00PM</finish>
+    <date>24 December 2025</date>
+  </channel>
+  <channel>
+    <name>Fox News US</name>
+    <id>FoxNews.us</id>
+    <title>Live: Outnumbered</title>
+    <desc>Four female panelists and one male colleague share their perspectives on the day's top news stories.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6Inh6VTdHcW1LSzNiT1NhRmtLTW12WEE9PSIsInZhbHVlIjoib3BCRzN3UHpDTkhLY3NDZFNTK3M2ZWlRSG15N3F3d0Fkd3liT1BNTEVhN3pZQUpBeWpSaGNDUk1cL2RFbHVOeDA1YXQ0R2hsanFwZXBiRkh5Z01pN09aVHZoOU1PbFwvRDh1d3Jja29pcUk1QU1wVnI2MmNqRmZTSDJyVDV3dlwvNGYiLCJtYWMiOiI5N2EyNjJhNzc2YTYwYTE0ODRmOGUyNTY1NTRlN2IwZDlkYzE3MDE4ZDk0YmUyMjRlZDFmNWJiNzZhMzcyZmM3In0%3D&amp;signature=d54b44adb9c05554075ed29e00fe74c9322b19c8f42763eb52e77eb0e8b8352a</image>
+    <start>05:00PM</start>
+    <finish>06:00PM</finish>
+    <date>24 December 2025</date>
+  </channel>
+  <channel>
+    <name>Fox News US</name>
+    <id>FoxNews.us</id>
+    <title>Live: America Reports</title>
+    <desc>A look at the latest news and headlines with Sandra Smith and John Roberts.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6InJPQTZVVERxd1wvMmVEMGhwUVNzWDdRPT0iLCJ2YWx1ZSI6Ilh4QU5hQnBtejhkcm5LTmVldFRHQjRKalZrN3FWbHkrSDN3eVhpQkIybVpxTkRXQmxMYjBvazZZSGs0allCUnA5U3Y4RHRGVWZieUhnT1J3Q3YwVjh6MUJhb3ZjNVdvWGhBMGpzdmlnRTNPTnVKalRQV2pUNWxjVmtHVmE2Rm5PIiwibWFjIjoiMWE0MDNkOWMzOWY1N2U3Y2RiZTBiN2IxZTllNzc0YjcyODAwM2U5ZTA3YzczOGM5MTAxMWEyYzczZjZhNzAxZCJ9&amp;signature=46cd71dcb960539daabc047a3fc6691134308818f93692fb1c56e618d58dd697</image>
+    <start>06:00PM</start>
+    <finish>07:00PM</finish>
+    <date>24 December 2025</date>
+  </channel>
+  <channel>
+    <name>Fox News US</name>
+    <id>FoxNews.us</id>
+    <title>Live: America Reports</title>
+    <desc>A look at the latest news and headlines with Sandra Smith and John Roberts.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IkFJalwvNnNSeTNFaWJ3MDdVOFVmaWFRPT0iLCJ2YWx1ZSI6IjZ5WmtUM1JiODNyRGxjVFB6aUpNN3lmNkRtaHZwSDYrdXlVVTRNWDBtUlRiY0tJZnJhekhoWEx3aDNNWjBUZFdSQzZuSlN2V3pmWEJ4UWZsSkM4OVQ2a3Fra0pxdnllTCtheUo2NzFFbkVEK1pPUWwrQ0RuQUNYUHRsdWxnak9kIiwibWFjIjoiYTNhMDQyODhiM2JiZTM1YWE5MTA0YWYyNzljZTE2ODUzYjZhM2Y0MDVlOWQ2MDNiMzZkMzExOTlhOTAxM2ViMCJ9&amp;signature=c1644b99e96a6d03545a1ad0253203556be2fe94160a2dfe25c97d488762e3e0</image>
+    <start>07:00PM</start>
+    <finish>08:00PM</finish>
+    <date>24 December 2025</date>
+  </channel>
+  <channel>
+    <name>Fox News US</name>
+    <id>FoxNews.us</id>
+    <title>Live: The Story With Martha MacCallum</title>
+    <desc>Martha MacCallum brings the story of the times with her tough but fair interviews and straightforward analysis; &quot;The Story&quot; captures the voices that need to be heard and the people at the center of every history-shaping moment.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6InQ1Z1ozSUpHaXllRTJ5aVBBYkpQRnc9PSIsInZhbHVlIjoiQ25WN3l2XC9YdWxKUXZRWE5IUHRiMk5OcVlsR0lcLzRXckMwQ2M3XC91SmsrcmsxQXdYVXRiVVFkbzUzaUg1N25HdVBOQXdBc0pJb3FIVTkyeWxhVGZqckN3RFVOeXE1Y0I0NFdhUEFGbU5jeXpWYmxxeGsrZUE2RVBpeWRVWkdLK0wiLCJtYWMiOiI5ZTc0YWExMjVhODA5ZDdjNmUzN2MyZjA3MDAwMmQ1NzVkMzllODZiNDcyZDkyYzZlZjE0NjU3NmEzYzMzZmI3In0%3D&amp;signature=7c30183bf9d0758f12acd7e58e47f417fe93dd84f6c35e7d6db01f41f03c08d3</image>
+    <start>08:00PM</start>
+    <finish>09:00PM</finish>
+    <date>24 December 2025</date>
+  </channel>
+  <channel>
+    <name>Fox News US</name>
+    <id>FoxNews.us</id>
+    <title>Live: The Will Cain Show</title>
+    <desc>Featuring Cain's signature podcast style and thoughtful perspective through conversations with newsmakers across politics, culture and sports.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IkpiQTJ5ZlNwXC9PcVwvM1dpWUVFUVRoQT09IiwidmFsdWUiOiJMblJwVlRqd3orNkprWkZlYW45ZUlBUHRUcWJ0TGppemlFdm1SRjRSZkhLRnZrdTArQk1NM2NwNUJcL0tURlFld3paaHRGVFFLOGh6SmlMNEhoblBvMndvUWFpWFhrUjI3SlBYRkVwYkU2cW1lblY4T1dhWkpVcVpuQjErR1wvM3hPIiwibWFjIjoiNGM0YmI3MjNhZDBkYWVmY2Q5MDI3M2IyMDhlMjc2ZDQ2N2MzN2NjODBkMTI3Y2QzOTAxOGQ2M2E0OWE3NWM3MyJ9&amp;signature=ebe4415a13ddaa5e319b0c16452ea78cda9f1ca49536138c55b99ba5380f1aa0</image>
+    <start>09:00PM</start>
+    <finish>10:00PM</finish>
+    <date>24 December 2025</date>
+  </channel>
+  <channel>
+    <name>Fox News US</name>
+    <id>FoxNews.us</id>
+    <title>All American Christmas Tree Lighting 2025</title>
+    <desc>The Five' is lighting up Fox Square; join Fox News hosts as they kick off this holiday season.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IndkOWtOU0RSakx2TUUwdmlXNUF4bEE9PSIsInZhbHVlIjoiUzFZMCt3MjlBY3V1MFwvdlZZVEVQUEQrZjFjM0lSbkVaT05pTVhKRzU0MFg2U2dTRlZGMlU1dTRSOVlld3NnQ2xReVpQbmFHQnhsbWp0RGk0dTRxT0dac0VEUzVLdkdyRTFtYnVtYXp1VVNVPSIsIm1hYyI6IjlhZGE5YzM1ZDJjMzkyNDA2OGIzODJjZTAwMWFiYmVlNGJhOGI1ODFhYWI2Njg0NWRiMzI4OGY5ZGUwOTQ0N2UifQ%3D%3D&amp;signature=f78265ee32f6821e3209a90fe01b000678b1467d86307a1ffef6117000aa4267</image>
+    <start>10:00PM</start>
+    <finish>11:00PM</finish>
+    <date>24 December 2025</date>
+  </channel>
+  <channel>
+    <name>Fox News US</name>
+    <id>FoxNews.us</id>
+    <title>Live: Special Report With Bret Baier</title>
+    <desc>News from inside the Beltway.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6ImxsUnlBaXdWUWRNRG5aNnpnZXZ2a3c9PSIsInZhbHVlIjoiaFVoMGNiRzN1NUFkR3BDOTRWbjZTTTY5UURrV3dLZzNMQjNkdEt5RzZQbTFpS1ZXRWFGU25SVEl0WGxGSFBlMnVmYTZYZHltMnh6dE5CRFR0dmhoeVVXK3hGaW8wbFJZU1BUUkd6Q2tvODI5WDl5S1RYZEwzQUZRSERYenlOM0UiLCJtYWMiOiIyY2MyODI0ZjMzYjcyZDQzN2RkYmRkMTUxN2QxOTFjYzMyMzA4ZmY2MzA1MmJjYWE3M2QyODBjZDEyODQ4YzA0In0%3D&amp;signature=05ff8aef381937eb3246876a76c65291d23ae1419ea67d23c0761bf10e44b35f</image>
+    <start>11:00PM</start>
+    <finish>12:00AM</finish>
+    <date>24 December 2025</date>
+  </channel>
+  <channel>
+    <name>Fox News US</name>
+    <id>FoxNews.us</id>
+    <title>West Point Holiday Show</title>
+    <desc>Smith takes a look at the role the West Point military academy played in the nation's independence.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IjV6eDMrd1p3UzdQS2ZuY2wyREJPbmc9PSIsInZhbHVlIjoiYmE0TnFwQWVrN0l1VTdmOWMyQXdaOG5yekU2R3NZTUExRFBONWlpdmxLYVkwaExFcTc5ZFJNK0JrSmFJbElYdThUZFBxNnZCQXd3YVZkVm1seXU3cVZcL0pcL25EbjBneFhLR2d2VEFBclJtd2luYmRNQUJ2M01QSmlWdzRLQ2dcLzkiLCJtYWMiOiJjNGFkMDAyZmYzMmZiNWQ2OTFjYTUyYzFlM2UzZjY0ZTM3NDcyOWMxM2Q0ZDUwYWIzMGUxOTU2ZDlhOWMxNTRhIn0%3D&amp;signature=0caff9f332fa9f7d87f9a9b9195375c7af954ae249543f4532ba6bc4a1317ef5</image>
+    <start>12:00AM</start>
+    <finish>01:00AM</finish>
+    <date>25 December 2025</date>
+  </channel>
+  <channel>
+    <name>Fox News US</name>
+    <id>FoxNews.us</id>
+    <title>2025 Christmas Showdown</title>
+    <desc>It's Fox Family game night! Tom Shillue hosts a hilarious Christmas game show. FOX favorites go head-to-head to debate the most divisive topics of the season.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IlZxQXl4dG1cL1RlcXorOHMxVVwvdUR3UT09IiwidmFsdWUiOiJWSUdvNGpBbStXVWJvbGlZRWNBT3UyYVwvUzRtOUtyM0FaWVlFMG4zcUF6SVZ0dWdwSGVvSFwvZ3pHMmgwSmhIOGZXWDlXeFFiSnhiY01QYXFyK3ByYW5YY1h1RDJ1REM1WElkekQ3a0xsc3JnPSIsIm1hYyI6IjU2OTJiNzM0NWEyNjk1OGRlYTg3Yjk0ZDkyNzE3ZTRlNzAwZGMzNjAxZGY3MzBiYzk2MDBhMzNkY2JhMDcwMDcifQ%3D%3D&amp;signature=13589ff523c071453eae924f8b8a58d521eaa9bd974b4a28036f691b6382e6b6</image>
+    <start>01:00AM</start>
+    <finish>02:00AM</finish>
+    <date>25 December 2025</date>
+  </channel>
+  <channel>
+    <name>Fox News US</name>
+    <id>FoxNews.us</id>
+    <title>2024 Christmas Showdown</title>
+    <desc>Tom Shillue hosts a Christmas game show as FOX favorites go head-to-head to debate divisive topics of the season.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IkoyRGxDRExId2Q4MmtWSmtHSnorOHc9PSIsInZhbHVlIjoiTUg3dGlhU3dxNTVYbmNUeFh5YmIzNldpOTFud3RKcFRcL2toOE5LaHBvZitXZzUzK2h6Z3NvRFRKR3B0TlNuVnNJQWdcL3lTUnRSdDZjcmRQa3BjbmdTTmI4TllqN3RmNzMwM2lwYzdnRERzUlpLekpIMTZFMDEzOTlRM0JFNnR3cyIsIm1hYyI6IjczZjYzYzAwODM0ZDAxMmZiOTAxMGIxMDYyZjA0OGU1NWI0NWI0MTkzOThiNzNjM2RjMDQ5MTIwOWE3YmMzMDkifQ%3D%3D&amp;signature=30f4ee86e7cdc38920deb43b75ac3728e91deaa9fe14f5112f7838ab0fbd7cb4</image>
+    <start>02:00AM</start>
+    <finish>03:00AM</finish>
+    <date>25 December 2025</date>
+  </channel>
+  <channel>
+    <name>Fox News US</name>
+    <id>FoxNews.us</id>
+    <title>The History of &quot;A Christmas Carol&quot;</title>
+    <desc>Kelsey Grammer shares the beautiful history of Charles Dickens' &quot;A Christmas Carol.&quot;</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IllhWDhoOTJDVSt2UURjK3dEWDlPQnc9PSIsInZhbHVlIjoidXZtU0h1b0RXSzlRc0VjemNCYXBQd2JEUXRWRlExTFlPVWJnWWl5MTNHVnhhNFpYQU9XbG1IR1JKRmNzc21aWW4zUTJhMHZBZ1BJYlpyQ0pXXC9wTnRoaGxqQ0pBekFleEt2RnkzUFpQRVg1MmREMll3K0p2WkVzVFJmSlRDdVNpIiwibWFjIjoiNzU0YTVmYTM2Yzc2MmU4ZTA3YmRjZWY2YzdjN2IyY2ZmN2YwMmZjNzQ2Nzc3OTQ5ZTdjYjgyZTEyNGMxYzE1ZSJ9&amp;signature=9e474d3cad7a4a0dff29c1ff2fd82cb932319aa895cbde9a390ed6ba854dd7cd</image>
+    <start>03:00AM</start>
+    <finish>04:00AM</finish>
+    <date>25 December 2025</date>
+  </channel>
+  <channel>
+    <name>Fox News US</name>
+    <id>FoxNews.us</id>
+    <title>West Point Holiday Show</title>
+    <desc>Smith takes a look at the role the West Point military academy played in the nation's independence.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6Im9qVHZaOXhtbUI1OXVYYXZwRDh6c3c9PSIsInZhbHVlIjoiZXRyWk56YUhSaWdZbUJEa2ZcL3dTcFlhZUFIVjJGU3I0NXRLcDVuM01uXC9yXC9rUEw4dFpSOGt4TDBWYzFlb1lxVzNzK0hHU1RMTll1eHdBSDN2d09RV0tcL3R2cTk3MkNZMmEyTUR5N1FXY1lsNlY4XC8ySWJmZ2VnYmxvRHBcL0lwNFEiLCJtYWMiOiJlNDE3ZDVjMDg0OTViMGY1MzkyMTlhNjQzMzM2ZjRkMzY5OTcxMmY3OWIyMjAwNTlhYzdjYWY4ZGQ5YjczODUxIn0%3D&amp;signature=dd403b26141df485600d51e110185171c2a79931c7228e2f74723531ad669820</image>
+    <start>04:00AM</start>
+    <finish>05:00AM</finish>
+    <date>25 December 2025</date>
+  </channel>
+  <channel>
+    <name>Fox News US</name>
+    <id>FoxNews.us</id>
+    <title>All American Christmas Tree Lighting 2025</title>
+    <desc>The Five' is lighting up Fox Square; join Fox News hosts as they kick off this holiday season.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IkRyR3BtcEZNK3c1XC9sdmc2dEV5YXF3PT0iLCJ2YWx1ZSI6Ikw1dlRFd0xYZVQxa0pEOUdDcXJ5cGVYUnZlXC9HZFZHNmFqTER0Z0hEbVdpbXltOW9qUWY0amR4RkRWbW81QmNubGMxQXVVUkRXVHVjWmtPRndJXC9GeFl2VnNGck1sOEt2VWRTWEpUSmZCTGxtUEs1WmRJbjJvNkhONk9tUzdSdHQiLCJtYWMiOiI1YTRkY2ExNmY1YzFlZjk5M2IyMDgwNjUxY2Q3MzNjMGQ3MTk1MTlkYTA4MTJlNzVmZDExMjE4ZDkwM2U5Nzk4In0%3D&amp;signature=caad8884a7d56352ef3b6c055daebef2728a6a2c7e06708c29ff5c7b5b97c2c7</image>
+    <start>05:00AM</start>
+    <finish>06:00AM</finish>
+    <date>25 December 2025</date>
+  </channel>
+  <channel>
+    <name>Fox News US</name>
+    <id>FoxNews.us</id>
+    <title>2025 Christmas Showdown</title>
+    <desc>It's Fox Family game night! Tom Shillue hosts a hilarious Christmas game show. FOX favorites go head-to-head to debate the most divisive topics of the season.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IlZPXC9DT0VDbnZBXC9vNlRlcW1pYjhnZz09IiwidmFsdWUiOiI2ejJiQThzTk90a1dQakFuV1I3blMyVTVSekVncjEzUm0rTG9EUDRoZ1RrUk13alpJc3I5eEowSll2cm83Rm5hMlNyVkQzNHVkMXpOOWZHUUNyQyt4eVgwUFNJNDk0dFp3SzZmZzNsazZqTT0iLCJtYWMiOiIxOWU3ODUwZDUxN2Q0OTJkYmEzYTExYzg1Yzk2ZDkzM2ZmN2Q4YmM2NTQyNzVlZTczYmZkZDNmYTQxYTRhMTA2In0%3D&amp;signature=83da8818a3060f66ebd8a1742577d839621a381042160a7481c48520c4d20de6</image>
+    <start>06:00AM</start>
+    <finish>07:00AM</finish>
+    <date>25 December 2025</date>
+  </channel>
+  <channel>
+    <name>Fox News US</name>
+    <id>FoxNews.us</id>
+    <title>2024 Christmas Showdown</title>
+    <desc>Tom Shillue hosts a Christmas game show as FOX favorites go head-to-head to debate divisive topics of the season.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IjVGY05kUlwvWldLN2lxRnM5RThsQ1NnPT0iLCJ2YWx1ZSI6Ik1MK0JnTmlWS0t6SENwNHl6T01RK0ZNdW5WVlFcL3N6VGRWMUkzcURudWZBYWNlV0ZHNWhFeENSeU9YcStoN1lCTkhEaEtUY3NidGd3Y0p1MDhYME5BZkVRTzNyRGFHaitHNjJ0bE9vaTMzb09BM2JvUW1zbEd3aU1yYUprMCs5VSIsIm1hYyI6ImI4OTVhZTk5ZjYwZmYwYTlkMjZmNTMwMzg1M2FlZWZmZmFmMmQ0ZWRiM2JjNjA0OTQ0N2JhNjk4MzZiYWMxYzcifQ%3D%3D&amp;signature=2d1524871acdf47fa6239cba202401acc28931f5bd282fb6caf8b75395b61365</image>
+    <start>07:00AM</start>
+    <finish>08:00AM</finish>
+    <date>25 December 2025</date>
+  </channel>
+  <channel>
+    <name>Fox News US</name>
+    <id>FoxNews.us</id>
+    <title>The History of &quot;A Christmas Carol&quot;</title>
+    <desc>Kelsey Grammer shares the beautiful history of Charles Dickens' &quot;A Christmas Carol.&quot;</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IlJsRVVtU2dmelwvOFNxUEtycHVnNWFBPT0iLCJ2YWx1ZSI6IkJIa2M2bnd1KzVXd2UxdzNXbFo0WnBSK1JUaEhaOVZ6VG55WElIVElJWmNTTDVKbXJUYjNTb3A0cW55T2ZcL0VVT0VZRElkN05YeEU5Zk9xYlV3QkVzUkQ2cFU4XC9QQkgrWWpRS3pVM2xwNEFTaUxPQzVxTk5ndTBXNmNwQUpoNXoiLCJtYWMiOiJmMjYzZmEzMzBkNjY4OTc1ZGE2MWFmZWQzYjk1ZmU2ODQ5YTRlYzljYWY5ZGI2ZTE5ZTU2ZDcxYWU5N2QyMzE0In0%3D&amp;signature=47d71c8b91a50ca163a6a3aafb04fd00715e3fffd11d1ca78bb0be444eb9edb2</image>
+    <start>08:00AM</start>
+    <finish>09:00AM</finish>
+    <date>25 December 2025</date>
+  </channel>
+  <channel>
+    <name>Fox News US</name>
+    <id>FoxNews.us</id>
+    <title>All American Christmas Tree Lighting 2025</title>
+    <desc>The Five' is lighting up Fox Square; join Fox News hosts as they kick off this holiday season.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6Ilc0ZTN4ekJpQlRaSjBNRzB5SWJuR3c9PSIsInZhbHVlIjoiXC9kaG9pY0wzZ3hReW81emJ6a1hCNmw5cWhBaCtpR3RVUUtveFlQdmdDVmtaWmdpNlRDUnh3ekZPMDhnVVVrbkpDQVRPdHgrdnBkR1FBWTdrTEdFTzErYzY1a3FYZGRyejZpaHJoeTBwTUpGWmxiS2Y5WWYzUmR5SzZWTUd4V0JtIiwibWFjIjoiYjMxODBiZjdkNWVhNTI2ZmZiZWJhYzlhY2I0ODBiOTM2ZWRhNDI4MTJlMWRhMGNlMmI3NGFjZWRhNGQ0NGU0MCJ9&amp;signature=4aac910005c75e57b84ba64bf7d613fa0241a558f49a6c403f3418798f5b4494</image>
+    <start>09:00AM</start>
+    <finish>10:00AM</finish>
+    <date>25 December 2025</date>
+  </channel>
+  <channel>
+    <name>Fox News US</name>
+    <id>FoxNews.us</id>
+    <title>West Point Holiday Show</title>
+    <desc>Smith takes a look at the role the West Point military academy played in the nation's independence.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6InhKMEY0V21rXC9zT1JzTHFMMnhYYnRBPT0iLCJ2YWx1ZSI6IjNEeVpGbFp5TEZFWGJcL1dVTFJTS3JBQ0U1Ylkxd3hIZXRYcU5ERmx0S24zMXVtZWFUWkt0cWUxWXJFelNmVHNEdExRcjVvdU4yZ0w3QXhmbVNBdDV3XC9UemZcL1lEWjlWeDZkWGd4RHBzNEtBbWIrd1wvVFZrSmdRb1pVbTlWbTQzRiIsIm1hYyI6IjgyMzMzYzQxYzg5YmExZWIzY2UxYjFhN2QyNmIxY2FiMmRhNWZkM2JhNGVlZmRhYmE4MjdiZjczMzRjZTAyODgifQ%3D%3D&amp;signature=a072476723fcc026b8d5d955a9d6d1ff0539cbf2388d492e02307aa8a15e2bcf</image>
+    <start>10:00AM</start>
+    <finish>11:00AM</finish>
+    <date>25 December 2025</date>
+  </channel>
+  <channel>
+    <name>Fox News US</name>
+    <id>FoxNews.us</id>
+    <title>Live: FOX and Friends</title>
+    <desc>Co-hosts Steve Doocy, Ainsley Earhardt, Brian Kilmeade and Lawrence Jones highlight the latest.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IndMZXpxYk5lMU5NMHBaSWJjczZnb0E9PSIsInZhbHVlIjoiVGRkZlBaWW02djRIcWdibUIzYVdEejJhUWlaYW1pbW92SDBRSnE2V0tWVU1GTm05MEVHajZtN1BFYlp3d3pBVCt6aDk2NUs5M0s3TWJhNmF4TWZhZlhPRWs2MFRyZ3pmaTZzMkEzUGcycytac3VhOVNpMW03eVdRNWU3bEhYUU8iLCJtYWMiOiI3YzEwNjk5NmNhNTE2ODc1YzU3NjJlYzg1MDZhN2I1YjRiNWZmNmVjNzcwYTAzMjRlNGJhY2QyZmM4NTFiYTRkIn0%3D&amp;signature=c828e8a20efdce1052b859731a8d251acc8e4a84eb98290c867faefda18b2bb7</image>
+    <start>11:00AM</start>
+    <finish>12:00PM</finish>
+    <date>25 December 2025</date>
+  </channel>
+  <channel>
+    <name>Fox News US</name>
+    <id>FoxNews.us</id>
+    <title>Live: FOX and Friends</title>
+    <desc>Co-hosts Steve Doocy, Ainsley Earhardt, Brian Kilmeade and Lawrence Jones highlight the latest.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6Inl4VEJSbHRjQVdxa1pJRDJQXC9SMkFRPT0iLCJ2YWx1ZSI6ImI1cVhcL1pNMmtSWGhqbFE1eFZqbE1CdFcxd3hNelUrYXN1aSsyVGtrRjJxSnY5WmkrTkJTc1YwdDBvK014TjBKaU5zNHJQNXRtR2tYOEZqQ3d6dW0rM3haVjkrcnVVbnAxeVRPTTlmTHBLN2FJaFNhUFQ2dDNndG9nYTVoWk5DdyIsIm1hYyI6IjJkN2JhYzEzNzA3NzJkYzI0ZjA2YzI1MjI4ZmEyNDBmNzQ1NzZjYzk5ZGIwYWRhZGI2ZDcxMzQ3MTU3YTg1MGMifQ%3D%3D&amp;signature=5201096e5bddd08d1a54ad182783840d49ef82b6a9480bd19497fcf1e67b11ab</image>
+    <start>12:00PM</start>
+    <finish>01:00PM</finish>
+    <date>25 December 2025</date>
+  </channel>
+  <channel>
+    <name>Fox News US</name>
+    <id>FoxNews.us</id>
+    <title>Live: FOX and Friends</title>
+    <desc>Co-hosts Steve Doocy, Ainsley Earhardt, Brian Kilmeade and Lawrence Jones highlight the latest.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6InpkcDBxUDdTNGVESUdNdkN5NTBuZUE9PSIsInZhbHVlIjoiOStkK1wvV0dNOXJwTnFzU1dOalE1RzlEODUxMjZlVmhJMXRDNFhVS1F5NkNKQUJSb0oxUTVyZmR5cE1wU0JRZ1VpMjJpOEdFNGxveHduMU9HdGM1NWY1NUhkN3d6andYZGttOVNqQnpLZmsyZmRleWxEaWlhdFRDYTBRd3JROXI2IiwibWFjIjoiMTVkZmVkN2RlMDdkODdhNjNlZTUzZmM1MWIxZjJkMjRmNDIwN2EzZjVkODY0M2UwM2IxMGMxN2MwMTgwOWRjNyJ9&amp;signature=89c845f9ab1856f1b92bda8baa5c32e70a70b7354e4aae1f758d94ff10f5f027</image>
+    <start>01:00PM</start>
+    <finish>02:00PM</finish>
+    <date>25 December 2025</date>
+  </channel>
+  <channel>
+    <name>Fox News US</name>
+    <id>FoxNews.us</id>
+    <title>Live: Fox News Live</title>
+    <desc>Covering the latest news on the economy, society, sport and culture, with insightful analysis and expert commentary.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6ImkxUlJtd0g0UzlqUitQQldjd1NzcUE9PSIsInZhbHVlIjoiUzRyVlp4T3paSkZjU3J3ODRycjJYSU1vQ0RkQUIxUmJwZld0cjRBekh2UmdCeVBZQ0lnTk5NN2VhQk5RXC9mRzVLZFVQVzFMd0V4RDRjSWlwOGFxVXZOQWFUSE5MKzVkWlhtTVpFZ3pldFRUU1gyQnFlTXZURlNqY25JZkRCNkdiIiwibWFjIjoiYmI2YmRiMDBlMzc3NjM2ZGJhN2UwMjRkNGJiYTAzM2M0OGYwZDcwZTU2OWQ0ZmU4YzJhODEwNzllYjVkMzkwNiJ9&amp;signature=21e3e59f5f3d5f93e16635a6e8f13102f71fbcca9f02276728dbb0d54bbf95fb</image>
+    <start>02:00PM</start>
+    <finish>03:00PM</finish>
+    <date>25 December 2025</date>
+  </channel>
+  <channel>
+    <name>Fox News US</name>
+    <id>FoxNews.us</id>
+    <title>Live: Fox News Live</title>
+    <desc>Covering the latest news on the economy, society, sport and culture, with insightful analysis and expert commentary.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IllwVkI3WTV6OThtNExOY1E3WjVjbkE9PSIsInZhbHVlIjoiUWlzT254eG8rSGwrbFhiOXlnSnJmMTVCK3dnV1NDWWpKU28zWlBFMDFRWklEajJsOVVLY2tiRHZoa2dIblNDd2NhSFBnczBhR216TXE5VldyUVBVaXhNVnJzRjlvSUVsdGRCUjhmUCt6aFNvdVZndnhwellOMTVjNUt1WmxSU0kiLCJtYWMiOiI2MTdhNjYwMWY1ZGU4ZTVkZWI5ODI5ZGMyOTM2ODgzZmFjZmUzNTUyMjYwZmRkM2RkY2IwYTEwOGUyZTlkOTAxIn0%3D&amp;signature=adc918254e5cd6973ff0e4fce8d491efdc4f76778558fe61971ea0bc641f476e</image>
+    <start>03:00PM</start>
+    <finish>04:00PM</finish>
+    <date>25 December 2025</date>
+  </channel>
+  <channel>
+    <name>Fox News US</name>
+    <id>FoxNews.us</id>
+    <title>Live: Fox News Live</title>
+    <desc>Covering the latest news on the economy, society, sport and culture, with insightful analysis and expert commentary.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6Ik1sa2R6VFFJejNrY1hOU0FkK1RxQ1E9PSIsInZhbHVlIjoicmw1UkV4YUFUMXFRT1d0S0ZvZjhiK1FYdndBU2lzalVrUFhFakhaRlwvekZacnFYN1VQS2hSOFFBSDRtbFgyTFpKK0xOMUY3SEZ5aVFTRldPZzgrcHg4Yk1QN3hWRnpHczYrNzVjVTZMMGVMSms1elgyYklRa2xTSmRuZDVlZUtnIiwibWFjIjoiZGI3NzliYjQ5ZTQ4MjIxZWVhZjNjZWE1MzA4NTk5MjlkNjNhYWNhMDJlN2VlZDI1MTFiYjNmYWZlMzZhOTIzZSJ9&amp;signature=763e870ec629ae4e48f7d49260b30cfd2f84cf63559838d7813db92c60e4ee00</image>
+    <start>04:00PM</start>
+    <finish>05:00PM</finish>
+    <date>25 December 2025</date>
+  </channel>
+  <channel>
+    <name>Fox News US</name>
+    <id>FoxNews.us</id>
+    <title>Live: Outnumbered</title>
+    <desc>Four female panelists and one male colleague share their perspectives on the day's top news stories.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6Ik01ckMyNnliREdVMEk1UGFXZ2dUVkE9PSIsInZhbHVlIjoickFGcGN5MXNmOFN3XC9yMW4rbTRCVUZRcCtWNmx5eHRBK2tGa1JRcE9SN1NGOEJwQzRcLzFIY2xpMXgzUmhIRHpWK3NteWhFT2dZWHV5cys2VGt0SWM3ODdcL0pBMWZxUmM0MjN5RjJJTTJZQTk0d3hocG5sMWd3K1lUN0k0QVROU1kiLCJtYWMiOiJhMjg1ZjNiNjNmZjhkNzllM2NlZDBiMjcwMDVkOThjOWU4OTY4N2VhOWFiZWRlY2I5MjI0ZWUyNDQ1MGI5ZjM3In0%3D&amp;signature=0b160430f4ecba8bddb1a2d9bd4a9f70f40a37168bc149829baa0d90cd114cf3</image>
+    <start>05:00PM</start>
+    <finish>06:00PM</finish>
+    <date>25 December 2025</date>
+  </channel>
+  <channel>
+    <name>Fox News US</name>
+    <id>FoxNews.us</id>
+    <title>Live: Fox News Live</title>
+    <desc>Covering the latest news on the economy, society, sport and culture, with insightful analysis and expert commentary.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IlZUQjJcLzdTalRiWXhoek4yd0lZTnl3PT0iLCJ2YWx1ZSI6IkF2Tng5SWhIMW1CMHhYanVzWTdyT2trMWY1ZnlFemVMVCtKTFRpbnNOVklYRkRFT3hFNHN5bEVcL0YzU2ZhZkZ1eFR2NVB4YWF6Ym9NMmpDV3VndnhOMTh0UmVhUTBuYWhIWHFtS3BMejV5cDhJVUs4UkNjWjV2XC9ESHVNc2xNVUkiLCJtYWMiOiJiODg3NThjOTQ5OTliYTMzNDliZTljYzQzNWEyMGNkMmRmMDg1NGZkMDI4YWVkNTUyYmQ5OGVkOGRmNGYyODc1In0%3D&amp;signature=dc7db9f7ae16a977a16cc43f404e1fdce0dd1ceffd37b2a07813988557f13121</image>
+    <start>06:00PM</start>
+    <finish>07:00PM</finish>
+    <date>25 December 2025</date>
+  </channel>
+  <channel>
+    <name>Fox News US</name>
+    <id>FoxNews.us</id>
+    <title>Live: Fox News Live</title>
+    <desc>Covering the latest news on the economy, society, sport and culture, with insightful analysis and expert commentary.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6InphY0VcL3VORmp3VENrUEhjaG1rN3BnPT0iLCJ2YWx1ZSI6Ijg4YUxsSWpPQ1VIcGJ4ck1VeGs4Y2RYcjRGTFVlekdnOXFTSXVDSVpxYXhrVzVEdFwvWnIwQ2tnMjhkK0JKOFdJajhsNFJlNlwvVEJURFpMcGNoOHJkQ1V2YlQ3NGc4dWpDeDlTN25GSlVoNTJ0Z3U5UThEN3VUOTNBOXhVZVZ1eEQiLCJtYWMiOiJkNWViMjk3MGI1ODFmZGE1MjU5ZDJkZjdkMDA4NmNiNjRjODgwOWIzNjhlMTk3MTkxMzJmYzk5NWJlZjU1YmQzIn0%3D&amp;signature=92d51add7f09ca81abdf096f59127d1793e7f201ef9fbf193ef02b09c336177d</image>
+    <start>07:00PM</start>
+    <finish>08:00PM</finish>
+    <date>25 December 2025</date>
+  </channel>
+  <channel>
+    <name>Fox News US</name>
+    <id>FoxNews.us</id>
+    <title>Live: Fox News Live</title>
+    <desc>Covering the latest news on the economy, society, sport and culture, with insightful analysis and expert commentary.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6InV2RHpVSGpjQitneis5eUptbHhRcXc9PSIsInZhbHVlIjoiQnIwSDhuM0k4YTFFYmF4dXRIWHkwUWpnZGhwelVTWlBuTUFIZXg1S3pYeFAzemk2VVwvdmFFQmpmUHg3djhzeDUzUEhBOUtNelc2ZFNlU1dXZmhmUDdkZEtDTHIwaVc3N2hsMkhBRFh3Rmc0UVlUeUhZS1RwYzE0N1c4dlZvNlJqIiwibWFjIjoiZTkzM2ZlZGIyMTJkMzlhMTM4ODNmMTE5MDlhNTgyMzNmZDZhMzhiZjczNDZkZjBmMTJjNWJhNzQ0NmU2NjkzYyJ9&amp;signature=733084ad1eb6a55e1b33c2007970bb8c1932c002ec3ed8d1224e40a8330e0eda</image>
+    <start>08:00PM</start>
+    <finish>09:00PM</finish>
+    <date>25 December 2025</date>
+  </channel>
+  <channel>
+    <name>Fox News US</name>
+    <id>FoxNews.us</id>
+    <title>Live: The Will Cain Show</title>
+    <desc>Featuring Cain's signature podcast style and thoughtful perspective through conversations with newsmakers across politics, culture and sports.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IkhQQkFJRzQyc25xUWFPYmZZWWdhcmc9PSIsInZhbHVlIjoiUmZ4VDFIRkpGRlwvVGN6UDFZYUh4eEtrWWdSS3JOOHlMQTVNN0hIUUhCeEUrckdPYjhsVzg4S3NxMXF4c0pCTm8wWURcL3lxOFVHYnN5d0VsYXlKR3JoamdEVUdjQ00zTisrMDVWZ2NMRnVzdkJlR3puVmJsUnZEYzJTeUhwd2E3RyIsIm1hYyI6IjNkMTIzMzQ2MzdmNjYxMzg4ZTA3NDI4NWQ3MjZhZjA2YjE4NWFmMDM0NTQxZGMyNGIxZWIyZmFmNWM4N2ZkYTMifQ%3D%3D&amp;signature=b7549af08c971652c4acaf3dbfff40390201972e1aaacd05af2595542e2de56d</image>
+    <start>09:00PM</start>
+    <finish>10:00PM</finish>
+    <date>25 December 2025</date>
+  </channel>
+  <channel>
+    <name>Fox News US</name>
+    <id>FoxNews.us</id>
+    <title>Live: The Five</title>
+    <desc>Dana Perino, Greg Gutfeld and Jesse Watters and rotating liberal co-hosts Jessica Tarlov and Harold Ford Jr. discuss and debate the hot issues across the spectrum from politics to pop culture.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6Im50T3ZiY0xBSmRNUkdsWDZobXJjc1E9PSIsInZhbHVlIjoidWlHNnErVTk5K2lkSXJud281VmpLOHRTa2dKWURQMDVaNzFkMmpJZDVIVzZZNUJ2eUxjXC9sTldLbGpJaFRDMFlsekJqcjZyZTd5YjdhMDNDNEo0TVNWYTdmRFwvXC9BWmE3a2FBb3VFMjZ3a0xiSWJPcWpHdVZqR1IxZDdGXC9pWUowIiwibWFjIjoiNWQzMTZmNzE2N2JhYWE2YWE5NDZjOTZjNGI5NGUwM2Q0NzhjZjdjYTc5OGMzODczOGM0Y2Y4ZGVmZWFkM2Q0ZCJ9&amp;signature=8760d0ee06cdec10b08d9452b9c2df83a7729dba1a24dc2b106fc2f5457e6c86</image>
+    <start>10:00PM</start>
+    <finish>11:00PM</finish>
+    <date>25 December 2025</date>
+  </channel>
+  <channel>
+    <name>Fox News US</name>
+    <id>FoxNews.us</id>
+    <title>Live: Special Report With Bret Baier</title>
+    <desc>News from inside the Beltway.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6InNVMjRBS3RnZkdtVmZ3U1ZkV0phaWc9PSIsInZhbHVlIjoidnRFU1ljM3d0SXVPQVNNN1pRUnBwZmZOcHZQVTZ0OE1ick9ITE1wYzJcL1JtTXlkXC9tbnB2eFByNG42S1dGcXExNnpiY1BUZndlUXBsdFdQUmFYb3NvaGw3d3NBc0VxNWkxTjRqU3M1VE5pNDdEYVp4bXBxU1NXc0tab2dCNkZwdCIsIm1hYyI6IjJiMjhjZWNiMDY0MjU3MTllMTIwZTI4MjJiMWU0YWRkZTk3NWMyY2UxYWEyMzE5Y2Y2MWY4NjQ1Njk0ZGVkM2QifQ%3D%3D&amp;signature=3ce17be1a17e2371115c3e89e54d4b84ccce71863d40ebe6776723bdd0e810a6</image>
+    <start>11:00PM</start>
+    <finish>12:00AM</finish>
+    <date>25 December 2025</date>
+  </channel>
+  <channel>
+    <name>Fox News US</name>
+    <id>FoxNews.us</id>
+    <title>2025 Christmas Showdown</title>
+    <desc>It's Fox Family game night! Tom Shillue hosts a hilarious Christmas game show. FOX favorites go head-to-head to debate the most divisive topics of the season.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6ImYxSXdlcTlNT1AwOExIYnM4dDMzUEE9PSIsInZhbHVlIjoiVVJZMkpBZ0UxblBXUEpOdTBJTDllWFFxMGp2XC9EUDNwNUpuUmIxUlBsOUNicnJCemJsOVhJeENSZnlqSU9TeWdMZjdWZlVkSVh4Z3NEYTNRRDBEaHViazloMXBycVRvckxcL3B1T25FRDh6dz0iLCJtYWMiOiJjYjRhYTlkNWI3ZmQ3YTI2NDcxMDJmM2RlZTEyMzQ0ZmFiM2VkYTM2ZTY5YWM4OWI3YTVmYTM1ZjU1MzVjNTQ2In0%3D&amp;signature=dded29a482b196a60dbe78b6cdeed9ac77b167eb9e3c87e7dada4489d5565745</image>
+    <start>12:00AM</start>
+    <finish>01:00AM</finish>
+    <date>26 December 2025</date>
+  </channel>
+  <channel>
+    <name>Fox News US</name>
+    <id>FoxNews.us</id>
+    <title>The Patriot Awards 2025</title>
+    <desc>Fox Nation presents its annual Patriot Awards show from the Tilles Center on Long Island with FOX News' Sean Hannity hosting.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6InpkSDhjWWFyXC9ZUDg4RXFWNFZ0TWxBPT0iLCJ2YWx1ZSI6InlkdXBVcHNyZTIxTk8yTUpuRnlSTVBrZ1dqOHpiaGRhYmxmSTdkWnpLRHg1b2l4SnZudUwxbW5mN2xBMTljK3FPaEJBVFdqdWhlRnRBMHd4eXFycEE0WXR0V3ZJOTZxTHRNZUpRTURKK1RLRmhWVnFQa09yQ2tTdHVJYVBuTHRWIiwibWFjIjoiNmFlNGYzZTA1MmQ1NzVlYTAzNTgxN2U1N2M1M2M4MmQzZGRiMTJiNTA3OTFjZjhiNGI4MzU0YmIwNzg1YTRmNSJ9&amp;signature=21331dc6f893a6bcb70fff73e13c211ba8ece2f729b8099e364c892b6984f4fc</image>
+    <start>01:00AM</start>
+    <finish>03:00AM</finish>
+    <date>26 December 2025</date>
+  </channel>
+  <channel>
+    <name>Fox News US</name>
+    <id>FoxNews.us</id>
+    <title>American Kitchen With Chef David Burke</title>
+    <desc>Celebrity Chef David Burke is joined by chefs Brooke Baevsky and Shareen Pavlides to craft a spectacular holiday meal that blends innovation, tradition, and heartwarming flavors.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IjB3cVwvcUtkaVdMcWo1VzhrbnJRT3R3PT0iLCJ2YWx1ZSI6IjlFdk0xSDhJZXdiR2FZSWhpSU5iRkV4bHQzYmdNeG84bWw3MUhwN1NKSGNBd0NsdTNLNzhCSTNnb1FpcHlSeDhFeDQ2YVwvTWo0aENnQU0xeWorbW9IOEtSVzhWNGtpbHdTWmhFMGhlbHZxQT0iLCJtYWMiOiIyODNhZGIyMjZkNjY4MTFjYWIyZDNkMTU4YWEyZjQxMTMzMjgyNWRmZGM5NDVhZDdjN2E0OWRlMjMzNDRkZjQwIn0%3D&amp;signature=2aada6239bda03dc80133e5aa86fbcf4f4aa593162dfc6a81853de8b6ee4fb3f</image>
+    <start>03:00AM</start>
+    <finish>04:00AM</finish>
+    <date>26 December 2025</date>
+  </channel>
+  <channel>
+    <name>Fox News US</name>
+    <id>FoxNews.us</id>
+    <title>The Five</title>
+    <desc>Dana Perino, Greg Gutfeld and Jesse Watters and rotating liberal co-hosts Jessica Tarlov and Harold Ford Jr. discuss and debate the hot issues across the spectrum from politics to pop culture.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IkRMYXhmNFFXXC9JaXA5MEN3ckhBeTlnPT0iLCJ2YWx1ZSI6IlFBNnFBQk1jblpGQUJwenlmVmVrSnpVVlJybHhxcGp5ZWZab3NEd3p6Wk1tN0p4TTFqeURUaGQwKzk3ZERPYTJ5VnRNN1JXZkhIVENIOXhEaFpGNkpGSXdYWTF6OXo2UER0U1F4WHYxcEo1cFF6bFNOVFNydkJ3bEYwVURaeGhIIiwibWFjIjoiYTIyOWE4MDJiZTZhOTNiOTliYzRiOGVhY2NhZDk4MmJjMDAzMDE2Y2QwN2QxZDBkNzkxMGE0Zjk1ZDQxZjk4NCJ9&amp;signature=f1aa513a49fc46996eceb8188e870f47bae92c705a6fe6619884c3d14856fb4c</image>
+    <start>04:00AM</start>
+    <finish>05:00AM</finish>
+    <date>26 December 2025</date>
+  </channel>
+  <channel>
+    <name>Fox News US</name>
+    <id>FoxNews.us</id>
+    <title>2025 Christmas Showdown</title>
+    <desc>It's Fox Family game night! Tom Shillue hosts a hilarious Christmas game show. FOX favorites go head-to-head to debate the most divisive topics of the season.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6InhGNGtTdXNtOTJBcnlCXC9Ba21ZQ1wvQT09IiwidmFsdWUiOiJJcHdGZXFnS1lCUjZtbDBPYWVySE1mRVpMK0I3UVBjMmNpN2Nwb1dpcytNQXpcL2E0anExT25qb0xEbEdNbnM4Q1wvN1JJWHRuSWNnSUJudzBpNmdQSm1SNW9qQVkwbDdIcXpma09NaGZmSWs0PSIsIm1hYyI6Ijg1NGVhZjY0NWQwZTNiNjUyNDI1ZTNkMDNkY2EwZmM2ZjJmYWEzNmFjNTc0MDZjMGQ2Mzc1OGNjZTNiMGNmMDYifQ%3D%3D&amp;signature=d20fa2042c53368e259c6d5e822edb7a1dd2e9c1c87c4c1cbf8404bd6765a9b7</image>
+    <start>05:00AM</start>
+    <finish>06:00AM</finish>
+    <date>26 December 2025</date>
+  </channel>
+  <channel>
+    <name>Fox News US</name>
+    <id>FoxNews.us</id>
+    <title>The Patriot Awards 2025</title>
+    <desc>Fox Nation presents its annual Patriot Awards show from the Tilles Center on Long Island with FOX News' Sean Hannity hosting.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IlMxWFoyaEtmOU84dXJrcDR5NmlJMnc9PSIsInZhbHVlIjoia3pkOVlaQnBHKys0cVhtcmEyeFZLckNrWjVtbmp4OEQrTkZVQ3Y4OXNcLzB3RVFkV2tpVFRmb2FmdFAyR2xvQkxLbk5kVUZMXC9Kazl3d1dDNE1xSGZCdW9nNEhDZjJzRWFHN3d1cmozSjVwUEoyZStTR1wvenFcL3dTYTZ2UVBkQkRFIiwibWFjIjoiNDEwOWQ2ZjRmZGU0M2Y5YWFkZDE0M2QwMGQ0OWEzMDMwY2YwMzk1YjEwY2I5ZGEyMTA1YTUyNmUxNTQzYTQ5YSJ9&amp;signature=da163d64c5afacf39f5729b4f0b8d6ff8929683183f4f744e205bacbcf414ab6</image>
+    <start>06:00AM</start>
+    <finish>08:00AM</finish>
+    <date>26 December 2025</date>
+  </channel>
+  <channel>
+    <name>Fox News US</name>
+    <id>FoxNews.us</id>
+    <title>American Kitchen With Chef David Burke</title>
+    <desc>Celebrity Chef David Burke is joined by chefs Brooke Baevsky and Shareen Pavlides to craft a spectacular holiday meal that blends innovation, tradition, and heartwarming flavors.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IjBVRjlqMVR6bjd2MXBWUFFuakU4c3c9PSIsInZhbHVlIjoiXC9CbVZ4NGV1YTljUU1CSmxtektxNnkweTZaRlBSeU5LVVwvalV0NlNVRjR5dnhwR0IyNEd6eGdwSk9oWThVRG1hRnd5bmhVQ3hnbkg1WjdrdGpDNXo2MkNYZDNMajNld2hpWHNFQ0NnakU4VT0iLCJtYWMiOiI4ZjU2ZjliZjYyNzVhZmZhY2EzNDVmNmFiMWVkODUxZGRhMDA2Nzg4OTBhYWRhZWI0ZTYwZjQxNzhiZGU4NWE5In0%3D&amp;signature=2dd632e43da3f8eada04f6afd672027ed4865c82cb8e46e7789bcd988116b795</image>
+    <start>08:00AM</start>
+    <finish>09:00AM</finish>
+    <date>26 December 2025</date>
+  </channel>
+  <channel>
+    <name>Fox News US</name>
+    <id>FoxNews.us</id>
+    <title>2025 Christmas Showdown</title>
+    <desc>It's Fox Family game night! Tom Shillue hosts a hilarious Christmas game show. FOX favorites go head-to-head to debate the most divisive topics of the season.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IkkwT3prTHBNVmFjczllc0R1UGttN3c9PSIsInZhbHVlIjoibk9Xd1ROcEo4YjNpWCthYjlKWHU3aWkzTXpJWlZoRUtsWk04WEZPNnNaekhcL0RMdFFjUWxaTzhOTlpIbjVUcmY5RXNFdWh5THFGM21aQ1wvNVVKTEorbjVnVUVFUTQyK1JvQ2puWDRTclNQdz0iLCJtYWMiOiJmMjIwOTJjYTZhMDVmM2I4YWZlMDEyNjM2NjVhNzM3OWJkNDQ3NzMwYzlkZGZmMDRjZDRjYjEyNTUzNDNkZGQ4In0%3D&amp;signature=0800ce95d482b5637c8a3565418a01940d3fddae3ed51be937c6b8ee087f2c4a</image>
+    <start>09:00AM</start>
+    <finish>10:00AM</finish>
+    <date>26 December 2025</date>
+  </channel>
+  <channel>
+    <name>Fox News US</name>
+    <id>FoxNews.us</id>
+    <title>The Five</title>
+    <desc>Dana Perino, Greg Gutfeld and Jesse Watters and rotating liberal co-hosts Jessica Tarlov and Harold Ford Jr. discuss and debate the hot issues across the spectrum from politics to pop culture.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IjljdjZWc3BhZkZpR1RUSGxpRXd1U0E9PSIsInZhbHVlIjoiUkgwRVZWMzdrbTlIcGtITTA5dG1lTmJOdStpZEV0dk5WallERzRtazFTV0RQMGZhTUUwMTI5UklTTWY1WkttYUsySkpaMnRzVE5TM1JoMjA5THJqTTJzVlZiTEFlSFZTQ2FMWlwvMDNKNmFVWHlnQU5LanRVVlBibElxcXpHXC9GQSIsIm1hYyI6IjMzNjM4OWQ4YTIxZmJmZWFjMzFiMjUzNGRjMTdmMTY0YTViOGEwNDIxOTNhNTYxMWU1Y2ZlZjk1ZDkyOTQ2NmQifQ%3D%3D&amp;signature=5dccb00b28f8986e7110452d0585ad945bb02f342be0348d3c534358d13120aa</image>
+    <start>10:00AM</start>
+    <finish>11:00AM</finish>
+    <date>26 December 2025</date>
+  </channel>
+  <channel>
+    <name>Fox News US</name>
+    <id>FoxNews.us</id>
+    <title>Live: FOX and Friends</title>
+    <desc>Co-hosts Steve Doocy, Ainsley Earhardt, Brian Kilmeade and Lawrence Jones highlight the latest.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6InhOdUEzTDdCTFo1Qm5OSmVtZmh6YlE9PSIsInZhbHVlIjoicmxWMFNROTNRVE1LM2lQSkJTemliUitHVUI3Zm9pQ1dpMFRSXC9Ha2Rra3M0a0ZjVjc3VlBPU205eWxtKzYzQ2tPTHdqenVlWEZDYTFFQkJqb2lPZkYrUmRYelk5XC9IYjRtUjFESTZMdzJcL0JHQ2txMFpJRGozb01xNEdGb1ltNSsiLCJtYWMiOiIyODE1ZGQ5MTIzZWY5MGQ3ODQ1ZDYzOGQ2NGFjMjAzNTQyMWZjOTc5ZTgwMzg2NTU1NmNhOTM2ZmE4NGRiYmRkIn0%3D&amp;signature=f173e329625ff9d73d24002428d485c03d8416c8af66e14fd8d14879f5ba08dc</image>
+    <start>11:00AM</start>
+    <finish>12:00PM</finish>
+    <date>26 December 2025</date>
+  </channel>
+  <channel>
+    <name>Fox News US</name>
+    <id>FoxNews.us</id>
+    <title>Live: FOX and Friends</title>
+    <desc>Co-hosts Steve Doocy, Ainsley Earhardt, Brian Kilmeade and Lawrence Jones highlight the latest.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IjV0WlhwQ2xIZlFqXC9vQ3d4TTVEM2V3PT0iLCJ2YWx1ZSI6IlRNMTgwU3h1YmNURk5FaEJxWHM5SVwvXC9OWkJnRGVadDFXNEhOc1FyS3h6dlFCeFE1cFl3WTI2SXZRUGdYZG9wZUpiWGdYdzVNRUxnbTJFRlFJQnh1NTRCUnE2MWFyRDlGaUZRQ2JJOWx0cXQzbXFwck82cHpqd0dOUU5DTU5PNm8iLCJtYWMiOiJiOGU0MDM1MDc1ZjU3NjkxY2M2ZTdiODNjZWEzNjhiN2FhZDc5M2I3OTNlNmJiY2E1YjU1NjBjNGRjMGIwMjk4In0%3D&amp;signature=d37c78ab4fd0bf96869a409d6204064771da592f894bd0cedeefb91a9ec09a80</image>
+    <start>12:00PM</start>
+    <finish>01:00PM</finish>
+    <date>26 December 2025</date>
+  </channel>
+  <channel>
+    <name>Fox News US</name>
+    <id>FoxNews.us</id>
+    <title>Live: FOX and Friends</title>
+    <desc>Co-hosts Steve Doocy, Ainsley Earhardt, Brian Kilmeade and Lawrence Jones highlight the latest.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6Ikg0a3ZyZGFlalNmZnZjZUdDcyszWVE9PSIsInZhbHVlIjoia0IzSENKaEpSSnlWSENTYnhueVVVbW1LXC9XWXZWckpBNzlNOWxMVzB6TWthVlA2Q3psN3hpb01meThyUGtFZ1lYN1p6U210Y0QrSVRIeWZBc0ZEZ2puWlo2R3p3Y1wvZGU0ZHJhc1wvT09oT24yZFZPRXMwXC9RUkM3XC9nbTZjR1wvQlIiLCJtYWMiOiIxN2I3MDZkNzM3OWE5YTBjN2M0Y2RiZmE3OGM2ZTJiY2JiYWRmZGZiNzA5NmNhOTRmMjhlOGJlZmQ0OGRhMGY2In0%3D&amp;signature=5b34f8516ee2fdcb15bdff2ff88a680aa7ac00e7e845fc49b66f33baf1f54f73</image>
+    <start>01:00PM</start>
+    <finish>02:00PM</finish>
+    <date>26 December 2025</date>
+  </channel>
+  <channel>
+    <name>Fox News US</name>
+    <id>FoxNews.us</id>
+    <title>Live: America's Newsroom</title>
+    <desc>Bill Hemmer and Dana Perino cover current events happening around the nation and the world; guests pertinent to the news topics are interviewed and viewer emails are also answered by the anchors and guests.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IklOOE9xcUNJXC9ic2FVNTJ5SWtMOG9RPT0iLCJ2YWx1ZSI6IkhacUI2TzBib3dDV2tCNUlSdEs1c1dDUmxsYUhDV1wvRjJOXC8zT0dFZ0o0cTZVSkhRZTNBR3l6NVBIbThQY296K3FrUGtzK2w1WkZIT1BERnYzSFVPYzVWbFV1S1kyTmVxRGVLelJCZGl2b1hEQmhiYzFDSXRXTXVyOXBPY21MU0giLCJtYWMiOiIzOWYxMzA2OTc1ODhmMmE1ZjQxNmM2NjliZDViYTRiNjI0NjMyYjI0ZWNlNmM5N2VlNGQ3MzVlMTgxNmE0ZDNlIn0%3D&amp;signature=baaea83a04c691182dbb9515e861b55e3b810cb4bf3f99edba1f2b0b8e5699eb</image>
+    <start>02:00PM</start>
+    <finish>03:00PM</finish>
+    <date>26 December 2025</date>
+  </channel>
+  <channel>
+    <name>Fox News US</name>
+    <id>FoxNews.us</id>
+    <title>Live: America's Newsroom</title>
+    <desc>Bill Hemmer and Dana Perino cover current events happening around the nation and the world; guests pertinent to the news topics are interviewed and viewer emails are also answered by the anchors and guests.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6Ik1CdlZncW12TThMbFpJSHk2dG1VdXc9PSIsInZhbHVlIjoiUTBwcGV3TWIwYWdmNmlnS25MR0NkSGEyYnhVcjNPWjNPK25SekNwSDU3VjBvdHVTRFVMZ2ZGbUJQN2ZoU0NiNzRcL3RsWnppcGlNUDNpYjhoWGRJTHZjbVZtcVkzaDI4SXhUUEZubmw5OXN3d0ZhNHF0RlZcL0ZiRTA3eGhNZlkzRyIsIm1hYyI6IjkzMDc1OTNiOTQ3N2QxZTlkZDI3MGIzZDM5MzVkNjQ5Yjc1OTg1YjYxYWJkNmZmNmZjODdkMmE5ZWYxOGViN2YifQ%3D%3D&amp;signature=b478c94634ab89e267be8efc0de3c5266dd365dced31b8ba4d1f6646d8c7fc44</image>
+    <start>03:00PM</start>
+    <finish>04:00PM</finish>
+    <date>26 December 2025</date>
+  </channel>
+  <channel>
+    <name>Fox News US</name>
+    <id>FoxNews.us</id>
+    <title>Live: The Faulkner Focus</title>
+    <desc>Emmy-winning journalist Harris Faulkner provides the latest news with insightful analysis and interviews with top newsmakers.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6ImZaTXV6M1pSejcyVDI0SDlsUU5QZFE9PSIsInZhbHVlIjoiNWRmZlpraGZuR1lKRXdGOTNoS0M1TGR4UjQ4T1VmbHBQZGIzaTVCOHNYeEw0XC9McWJHRDZjZktYd0ZVUUtmRis3dUM5THUzSjM5YjRJbDY5T0w5K0w1TFk2b1d3SHRQRDhLM29PTUM5bDVZZVhQbFdXeDgrSUUyc3FyWGF1aUpYIiwibWFjIjoiYWViMjlmNjAyOTg0ZDQyY2Q2MGZlNTkxYThlNmNhZDdiNjg4OTBmMTNmNjdiZTJmYTU3ZjdhMDBiM2RjYmQ4YyJ9&amp;signature=a8ab28ce942ca2a9a027cfc283ba78df50058ffe8cb315aad90025e92644ab7d</image>
+    <start>04:00PM</start>
+    <finish>05:00PM</finish>
+    <date>26 December 2025</date>
+  </channel>
+  <channel>
+    <name>Fox News US</name>
+    <id>FoxNews.us</id>
+    <title>Live: Outnumbered</title>
+    <desc>Four female panelists and one male colleague share their perspectives on the day's top news stories.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IllwRlB2MWU1T0FoVTlUQmZyZXBJdkE9PSIsInZhbHVlIjoiUXpldjRXNlhCaHpzWU0zNE8xTVRxaDdnYzVYWlVMWnBLc2p6U3FrOGdldnlvZjliTU95STBqd2JOZm9QUUtocFhoTE54ZHc0dUpTSE44d25UOURmUWFWMHZ0WEdReGR1OEFoa2xtZjB0Tm9RNDkzOVZ4QmZiNVQ5V3VjNkVHYVIiLCJtYWMiOiJmZTdhYTJkMzVhZGJjZDBkMmM2ODQwNDdkZGJiOTZjZjU1ZjY1OGNlOWFmOGIzNmNkZWQ5NDc5ZjcyNTUyNDRhIn0%3D&amp;signature=31a0b8339137e8b61ba52f74d07b0d77b3ba39191339793af98b6ffa544ca2fe</image>
+    <start>05:00PM</start>
+    <finish>06:00PM</finish>
+    <date>26 December 2025</date>
+  </channel>
+  <channel>
+    <name>Fox News US</name>
+    <id>FoxNews.us</id>
+    <title>Live: America Reports</title>
+    <desc>A look at the latest news and headlines with Sandra Smith and John Roberts.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6ImJEQ1J2WnhvQ2h6SXJERTFpQXVrMmc9PSIsInZhbHVlIjoiNGczem5KOExRZGVsNisxdE5GeWdwbGNuU3k3eCttRUFMWGQ5cjh1ZStcL3IxNHRFNHdUK3ViVnllczkwTW1EYlN1YWxlRVJKaGV6ektDMVJORDlQUlFLdjNLTkJVdzZQTUxZWVI2aHBTVkRla2Z6NXdMT3pLTE91NDZEcm5lMU8wIiwibWFjIjoiZDk2ZDk0YjZhZDVhYjg4NzVjMzhiZDdlZWIxZDljODFiMThhNDUyY2Q1OGJhY2IyNzg3NWQyMjFkMzA2NmJmZSJ9&amp;signature=080d9226561956aab4069b302a88fb977b89068810d48e2da80608633189bb73</image>
+    <start>06:00PM</start>
+    <finish>07:00PM</finish>
+    <date>26 December 2025</date>
+  </channel>
+  <channel>
+    <name>Fox News US</name>
+    <id>FoxNews.us</id>
+    <title>Live: America Reports</title>
+    <desc>A look at the latest news and headlines with Sandra Smith and John Roberts.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IjFpVnVWNjVzTHpWbmhaUWdLQjVFOWc9PSIsInZhbHVlIjoiZ2xHNmJjY3I0SHp0RmxsMzNQZEU2NUtGMXhSdU9EY0NqQWVsVEZ6c1wvdzVFbHdaK1F6WXhad0hTNnpYZzZscTVlZEZ4NjFub0k3eHZHanIwc21kd2F1cTJKTitTeXM3U1RQRUo0Nm1ocHRrS20zV2VhVHJHVDZmaUptYVRpc0R0IiwibWFjIjoiMTcxNThhM2NiZGM5MmI0NWY2OTgyZDM3ZTA4OGMzNzllMWZjMDU1OWMwYWM0OTNiNTg1MWFiNmQ0YTMyODViYiJ9&amp;signature=6b4c785f74553ffaefe5d19b987d83f150d686bf71821e6af89d3ea465d7f37e</image>
+    <start>07:00PM</start>
+    <finish>08:00PM</finish>
+    <date>26 December 2025</date>
+  </channel>
+  <channel>
+    <name>Fox News US</name>
+    <id>FoxNews.us</id>
+    <title>Live: The Story With Martha MacCallum</title>
+    <desc>Martha MacCallum brings the story of the times with her tough but fair interviews and straightforward analysis; &quot;The Story&quot; captures the voices that need to be heard and the people at the center of every history-shaping moment.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IlRaUXY3SndONzd5a0VmZ2FqKzE3bHc9PSIsInZhbHVlIjoiR2hDRWxYZXA4ZWRZMFpQekdhTTFMemxmN0d2Y2UzR21YMnRaTVA0WUFPWDd2ZHZPUGJtbGJVTHZsdTBQNjdVMFo0VWJsblgzXC9lRE5cLzdUY3B1UDBueWpOcFEybktpZ2h5b09nRlVkRXpWeFlqekJnMjEySlZOS1B3eXZBQk11WCIsIm1hYyI6IjRkZmQ5MGFiYTE3MTFkZjRkODViNjg5OGE1ZGQ3NzAyZGY1MmEyMzUxNjBhNTIwNDY3NzM0MGMwNGM4NmNjMDAifQ%3D%3D&amp;signature=80ce727157adc9e3e784e4b7207830d46191de8c613fdeb0d7b4266b7c5e4f6e</image>
+    <start>08:00PM</start>
+    <finish>09:00PM</finish>
+    <date>26 December 2025</date>
+  </channel>
+  <channel>
+    <name>Fox News US</name>
+    <id>FoxNews.us</id>
+    <title>Live: The Will Cain Show</title>
+    <desc>Featuring Cain's signature podcast style and thoughtful perspective through conversations with newsmakers across politics, culture and sports.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6Iks1REZ4STh6cmRLa2NZQVRIY2F3YXc9PSIsInZhbHVlIjoiTWZKY284aUZySzF5TlpXaEpib3llbGtZcUdON010bXFLdTd0WDBCK1FcL0VWYnlmSFlianFVSlE2ZUg5OFlBTmZSS1A3bzlFUjF2SzBzQkJweWhsYXhWMWdwNWFzakprV0hzSnJLSXR0NmR6XC9yZXFudkoyYzhsMThHRWRFUTk3WiIsIm1hYyI6ImVlNjhlYmNhZTgyMmUwZjk4MmIzMWQ0ZGMxMmIyNzJkYmYwYmI0MThiZDBjYmQ1ZmI3NTNhMTZlNjRlMGJkNGEifQ%3D%3D&amp;signature=be573a2daf00f82e249a34968b58271d3a84b00255152810581042de29915e61</image>
+    <start>09:00PM</start>
+    <finish>10:00PM</finish>
+    <date>26 December 2025</date>
+  </channel>
+  <channel>
+    <name>Fox News US</name>
+    <id>FoxNews.us</id>
+    <title>Live: The Five</title>
+    <desc>Dana Perino, Greg Gutfeld and Jesse Watters and rotating liberal co-hosts Jessica Tarlov and Harold Ford Jr. discuss and debate the hot issues across the spectrum from politics to pop culture.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6ImV4OVZhNWFwam5USm85Tnk3WE5SWXc9PSIsInZhbHVlIjoiUHFcL0d2c0pQZWlMaHV0S1wvK1F6K29rNmRzSDlrZHpIeWNneEFza0lPOFJOZXp0SE1nWGwzM0ZxbnNpUEhTRmc1NDRFelB1SFB5N3NkZHk5cFNcL1IwS0RWR3BVMXkzUlF4SVJYZmg0NXI0TDE2SHVFcDdDbUdGUzlBUFBhQWkxVFEiLCJtYWMiOiJiZDdjNjU1OWU3YzAzYzUwMTQ0NmY5MjQ0MWM4ZDJkNjdkNmZlZDk5NzQzOTY1Yjc0ZGRlYTBlYjQwMzY2ZDEwIn0%3D&amp;signature=e4ed3f91dadfb7cd857dc6ed4a92565d98f9fc4011e19d1b9c2383480607465c</image>
+    <start>10:00PM</start>
+    <finish>11:00PM</finish>
+    <date>26 December 2025</date>
+  </channel>
+  <channel>
+    <name>Fox News US</name>
+    <id>FoxNews.us</id>
+    <title>Live: Special Report With Bret Baier</title>
+    <desc>News from inside the Beltway.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6ImFINmJIMmlwUEFQUkQ0bWg3QlZhbVE9PSIsInZhbHVlIjoiQ2p4NnUzakZCQzlQTlJFRUduRHlxS3FsSTNvYUJoSTJLQTFWZGk4b2d2NWlaTnVxcHE5cVRKQ0VQYVBvXC9iMGZPWEI4bnppbkZHajc2U1lxR2ZkMzY2WnlGQUtzYXkwME5FT2xIREdoUDd2YllxdG8yc3MzWTRqbFZaU25nVkUzIiwibWFjIjoiOGI4OGM5ODU0ZTNkMDk0M2Q1ZjYxYWRmNzA2MWFlNzMzZDkzMjhiOWE1NDdkYzAwOGVlODlhZDdlZDc4OTMxZCJ9&amp;signature=4e3c2a52deba7a4465b6f95657c249615a58b8e9ef3adc63b606f63e95cfb17c</image>
+    <start>11:00PM</start>
+    <finish>12:00AM</finish>
+    <date>26 December 2025</date>
+  </channel>
+  <channel>
+    <name>Fox News US</name>
+    <id>FoxNews.us</id>
+    <title>Live: The Ingraham Angle</title>
+    <desc>Laura Ingraham aims to cut through the Washington chatter to speak directly with unexpected voices and the actual people who are impacted by the news of the day.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6InVOTjNvSUJyRHphaURLMXhJbE44TUE9PSIsInZhbHVlIjoibWU4KzN1OWpIQTlcL1oxSkJ2ZmhXamtYUktXN2E0azZvbFBJUkxYWUF6Ymx2K21PdkNhRjZtWFBnY0U5MHlMVXNqQ1Q5NW8rSG9BY2xRMllYMFJ5eHNob3lXZ0VyMlFqVUhXRWRrZE9NWENMUmtEcWhPUkpjQUs5Z05jVHF3Y1FqIiwibWFjIjoiZjZhZGFmNTE2YWQ0ZTRhODhjOWIyYzk5Y2IzZjk2YzRhNzkzNzlkNWI3MGJkNmEzZjU2NjMzNDU0ZTRhMDAwZSJ9&amp;signature=0c852595f2592766e8946c63888f346ee1ac5379a8071b57d977c6a2de702f89</image>
+    <start>12:00AM</start>
+    <finish>01:00AM</finish>
+    <date>27 December 2025</date>
+  </channel>
+  <channel>
+    <name>Fox News US</name>
+    <id>FoxNews.us</id>
+    <title>Live: Jesse Watters Primetime</title>
+    <desc>Jesse Watters speaks with newsmakers from across America to present news with a clear and direct approach.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6ImpFN3g0VXBiZHJuSEs2V0twSGJXM0E9PSIsInZhbHVlIjoiQ2l4czNFZW91YTkrK2pLUjNJcjF5QjY3ZXUyY2Q5c0JHZll4TWpFRUROUlo0ZXZXQ0xoZzZvQnlIbHdVZ0lvdWNTcmV1TXF5RmdcL1wvV1dlK0RkOVBHNGw4Y3ZVT0JvVDVKekVrY1djQWg1TW1RVHVMbEFHVjdZWldCV2NyMHB1SiIsIm1hYyI6Ijk5NjcxOThjMDcyYTUyOGJhM2JhNWE2NjVkYWNlMGIxOTVhYTM4MTY5YWRiYmMzMTM3YmRkZWNiNDY4ZGRhODAifQ%3D%3D&amp;signature=0e471bc1f4496661bb71af96f087eb202c7953d6b41c688a8c4503c23b3dbd7f</image>
+    <start>01:00AM</start>
+    <finish>02:00AM</finish>
+    <date>27 December 2025</date>
+  </channel>
+  <channel>
+    <name>Fox News US</name>
+    <id>FoxNews.us</id>
+    <title>Live: Hannity</title>
+    <desc>Host Sean Hannity interviews political figures and newsmakers and offers his own conservative perspective on current events.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IjZhdDlmVStFd3RISFZodGNcL25cL2RyQT09IiwidmFsdWUiOiJtU2J2czY2QlhtTk5yMFR4NmlQQkV4clpTd3RwQTBkaHpMck84MUYrQlRYcWxRS1NRem8zRUZLUGx0c3NJbFNrZlVZZkZ6VlllMXFWWGpFXC9oXC9md0ZJQ3pacXVCQnJsR0dzd3FUSVhPSG83WDB1MWowS1wvZkpoczRwSFNpSHFEUCIsIm1hYyI6Ijg1OWY3OWRkNjU4NjRlNGViNjFiMTUwZTc5MGM1ODk2MjExYzY5Yzk4ZmU1NzdhZDk0YjI4OGYyZGQwNzM3ZjcifQ%3D%3D&amp;signature=3c8e1d826377c3e460e1a1cf7ab230d7653832ee3354fe4a28db9b41f7567437</image>
+    <start>02:00AM</start>
+    <finish>03:00AM</finish>
+    <date>27 December 2025</date>
+  </channel>
+  <channel>
+    <name>Fox News US</name>
+    <id>FoxNews.us</id>
+    <title>Gutfeld!</title>
+    <desc>Gutfeld looks at the news of the day through a satiric lens fused with pop culture and features refreshing takes on the day's top headlines from FNC personalities, authors, politicians, veterans and comedians.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6ImczUUVLZ3d4RXNSNWRwREVKTkphamc9PSIsInZhbHVlIjoidlg0VUdEcFN1S0ZnM3E0eHRaQUFKdG9sdVVmOFRDNWZnaWpPdHlHVzJCMHZCSDNQQVByYVhQRTc2bWQ0a1RNS09UbFdYeE5UVllpeHZYUTlRN2VnV2JKVGgyVFJ3UDM2eDY5UE8wbCt2WTBvMFhYcHJkaWZVcGJTZHV6Z2s0SzYiLCJtYWMiOiJmM2M2MWM0M2E2MWMxYjZkYTQwZmEwNTg5NDQ3NTNkN2Y4MjE5NjM3YmE2NzEyNGI4ZjNjY2MwZTY4NmZmZTc0In0%3D&amp;signature=0a360f77b53067c088665be2f2cb6f0f5dec824c46767ae904fdeaba9f3c6625</image>
+    <start>03:00AM</start>
+    <finish>04:00AM</finish>
+    <date>27 December 2025</date>
+  </channel>
+  <channel>
+    <name>Fox News US</name>
+    <id>FoxNews.us</id>
+    <title>Special Report With Bret Baier</title>
+    <desc>News from inside the Beltway.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IjhYQzBkT3lyTUF4cVpNdnA3NjFHOHc9PSIsInZhbHVlIjoid1hldnlJTVhJa1wvSjRVYVp2OGZcL3Y1STRPb1VzQWIrS2pBZ2hiR0ZWbm1nSFUrRWtiZTFuQUNybTJHSUJxREVRTENJam9ITEtyakR2UVwvNFlxdkZOeEE3S3NDQjJaNnRoSUhhY3MralFBZUc4dStiMGp3dnZNSFJwYmVrMnNDb0UiLCJtYWMiOiJlNWNiZDM0OGJlMWE1ZTJmMmIyZjdhYWVkZjU4MTI0NzY2NTQxZDBjNmNjMDJmZTEzMGVhYWI5MWY4ZWM3MmIzIn0%3D&amp;signature=fc4a67136cfca365c859e0442078a6a24df2bdc9ed972c92d096b0e5437cd904</image>
+    <start>04:00AM</start>
+    <finish>05:00AM</finish>
+    <date>27 December 2025</date>
+  </channel>
+  <channel>
+    <name>Fox News US</name>
+    <id>FoxNews.us</id>
+    <title>The Five</title>
+    <desc>Dana Perino, Greg Gutfeld and Jesse Watters and rotating liberal co-hosts Jessica Tarlov and Harold Ford Jr. discuss and debate the hot issues across the spectrum from politics to pop culture.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6Imd3OTVwcjR2aFMrZkdCbzY3NkNycEE9PSIsInZhbHVlIjoiOVBNVmFQY3JjbDhKUm5QY3ltY29DR2dJQ0ZVd2RQZ2lLaWhqbGZ2d1hwUGdGcHVkcWNSUmRwNmRvdWU3UmpZbXVWaWJNQXFTejcyRkdDUGtaZGlyem0rQnZRd0wwN3h3UEdoUzFnclF6R2ZhS3FnWXl0bUdxMEtXdFdMc2FlZXoiLCJtYWMiOiJhM2Y4NjJiOTg0NTMxMzk3NzU4NGEyNDk2ZmEwODhjOTVkNDg0MjczN2RkYWM1MGRlNDE4OTZmN2IyZmYwNzYxIn0%3D&amp;signature=f2e250aed1a394c18cc5b768660d9c479de883a3291192877db9a742d876299e</image>
+    <start>05:00AM</start>
+    <finish>06:00AM</finish>
+    <date>27 December 2025</date>
+  </channel>
+  <channel>
+    <name>Fox News US</name>
+    <id>FoxNews.us</id>
+    <title>Jesse Watters Primetime</title>
+    <desc>Jesse Watters speaks with newsmakers from across America to present news with a clear and direct approach.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IjQ2d2xXOUttaUtubnQ5aXJQdXlzUlE9PSIsInZhbHVlIjoiWU0rWnRjUTgwek9EUnlDXC9VMXI1ck1MWmpyTXlicmt2cmJ2KzRJeVwvVEQ5RVpjRlBZb1FEazlKeVpMZmtubmQyUmx6UjdxQk5welFiUXlaYjBUNWRybUlneEFiVUpJc0xwMlJBXC8xTHAzVkFhVVhmaFR1RU1KVWxcL3dcLzFvT1k2TSIsIm1hYyI6IjEzYThmMjJmOTg0YzY5MGUyODExOTUxYTRlNGYyYTJiNmJkYzRlMTQxN2RlMjAzMWNkYjM5Yzg5MWE4NTE3OWEifQ%3D%3D&amp;signature=5ecebac2ed610dc2d57d05c4c2a8c5cb58b11c4b212de57bad043c484d65a3b7</image>
+    <start>06:00AM</start>
+    <finish>07:00AM</finish>
+    <date>27 December 2025</date>
+  </channel>
+  <channel>
+    <name>Fox News US</name>
+    <id>FoxNews.us</id>
+    <title>Hannity</title>
+    <desc>Host Sean Hannity interviews political figures and newsmakers and offers his own conservative perspective on current events.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6ImxTdm5iTjdoWEM2clVoR0tmTHgxaFE9PSIsInZhbHVlIjoiaitiaU15ZmtmNzNFaHo3bm12TGJ0cHQ3eDlWXC9TY2JLTEptcXJEVm1FUGoyNWNNSG9yZ1VVbDUrZ3g4OGk5K3pZY20wckN3WEEwOG1Ra1RIdXBNZHd3R1U4Qk9cL3F1S3d3K1lldkRIN0E3UklScjBCc1RUZDRuenF1SGU4aTdWXC8iLCJtYWMiOiIxOTdkYTI5NjU5OTEwZjJiM2NjMjNkYzkyNTljNjFjMzQwYTEyMmEwN2YwNTg1ZDhkMGViNWY2OTc0YjQ5ZmFmIn0%3D&amp;signature=eaa6afe4627637a49f2bd42d17bbf2c2f7e530e718bf307ffd94d064e212275f</image>
+    <start>07:00AM</start>
+    <finish>08:00AM</finish>
+    <date>27 December 2025</date>
+  </channel>
+  <channel>
+    <name>Fox News US</name>
+    <id>FoxNews.us</id>
+    <title>Gutfeld!</title>
+    <desc>Gutfeld looks at the news of the day through a satiric lens fused with pop culture and features refreshing takes on the day's top headlines from FNC personalities, authors, politicians, veterans and comedians.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IngxaU5YWWkyVEdBRGlCMlhQK1lwZnc9PSIsInZhbHVlIjoidDFJbjVMRjVaWE1WZTRpc0JjemlsZ1ErYUpFMGFWTmFHUWF1RzNRUjBiQTFmU3Q0N1JxV2JxdXF0cW93aXBsUU9TUkpLT3B5YkpDanFlZ09VWFdtUnFURGVGSWxKclVnaERDNWlORGg4NEtyYW43MHpXUW8xVjRjMTVEeUkxXC9FIiwibWFjIjoiNTc5OGI5YTYxNDhmYmRjYTc4ZDA4ZmMxNmI0Y2FmMWNjZWQyODdiYzAxYzkyYzYxNjg0YmM1ODAzYzQ4YTJkYSJ9&amp;signature=ca54eb49ff41cb84912169eff13337757eb722fe798d5232741df6359b8c3b24</image>
+    <start>08:00AM</start>
+    <finish>09:00AM</finish>
+    <date>27 December 2025</date>
+  </channel>
+  <channel>
+    <name>Fox News US</name>
+    <id>FoxNews.us</id>
+    <title>The Ingraham Angle</title>
+    <desc>Laura Ingraham aims to cut through the Washington chatter to speak directly with unexpected voices and the actual people who are impacted by the news of the day.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IkNiZVJ4QWJ5WUxZNlQ5MGhSTUhvZ1E9PSIsInZhbHVlIjoibmkydzJrY01WamgzcTlsZU5lYkViaGFOVlFBVDNZSm1KWUdRZkc0MXNQTDdEajBRZXY1NnJoanpCR0MrbjArNkx0bEdCRG5wZVZsaUlsTStrMjZubW9UUmRQcmdLTUhKTXVYUXE5U3F3aUZ4aTh4THVyTUEzR2tBZzI3S1dOb0oiLCJtYWMiOiJjYjYzNzYxYzY3MjRkZmY3NWE0ZTczODk0ZTZlNjdjMDhhOTg0NmQyY2MwNzI0MmQ3MmExMzgzN2Y4Y2Q3MDNkIn0%3D&amp;signature=b38ec5cd3c4a29e5fd5c4777d14c2ef929e8cb74d754c8afa75dd6386765751e</image>
+    <start>09:00AM</start>
+    <finish>10:00AM</finish>
+    <date>27 December 2025</date>
+  </channel>
+  <channel>
+    <name>Fox News US</name>
+    <id>FoxNews.us</id>
+    <title>The Five</title>
+    <desc>Dana Perino, Greg Gutfeld and Jesse Watters and rotating liberal co-hosts Jessica Tarlov and Harold Ford Jr. discuss and debate the hot issues across the spectrum from politics to pop culture.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IkxPV2V3N3ptNGN1RVVvZjNCSGdBVlE9PSIsInZhbHVlIjoiYkNScmRrQWFBQUVKSGVGdndtZ3doUWRwNHhWS3FJY3l2VUZCbkRcL2N2bDRQXC9ZRjhid1ViSFZMRllHWVdBWm5rU0RkQkxJcTlSR3VIcUNlSFwvTFp0RTlISFpDXC9rd1BLaEtRUzRcL2hhUnd3XC92OFg0S1pOSEdsS0hDNGxDK3orUG8iLCJtYWMiOiJhN2NjZjNiMTMwNjQxZjViY2JmODc4MmI2ZGJjYzMzZTFjZmZkNjc3MTZjODFmZWNmNTFjMTNmYzkwZTUyMWQ1In0%3D&amp;signature=33b927bd37143f7275d587f425aae5d04da89a85667a7e63a8a96ed77ad6aa04</image>
+    <start>10:00AM</start>
+    <finish>11:00AM</finish>
+    <date>27 December 2025</date>
+  </channel>
+  <channel>
+    <name>Fox News US</name>
+    <id>FoxNews.us</id>
+    <title>Live: Fox &amp; Friends Weekend</title>
+    <desc>FOX &amp; Friends Weekend, hosted by Rachel Campos-Duffy and Charlie Hurt, highlights the latest in news, entertainment, politics, and sports.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6Ik5xXC9hUHFjSGhpN0lhM2FvWm1xeThRPT0iLCJ2YWx1ZSI6IjZtYWRyMGVzM3ZLVWxqck8rcld5V2laV1JsUVFaTzY0SnFud0REUmFWWmhOcm8reEhKTDZjcW5QQklxbVpnZW5FbkZTUlkxVFZPUUszakY5d2ZmXC9MYzJCakVvZjN2QktBZlo0YWRsaVE5VnZYeFwvREpPVEhmS3pjeWwyaVNYUUkiLCJtYWMiOiI2MTdkMjg3Mjg2M2RkNWM4N2M5MTI3YTI5MjEyNmUyMmIwZTcwZDIyMGY0MWMzYzA4NTRlYTQxMWQ2ZTkyYTM1In0%3D&amp;signature=b77721ebc4085d641ac3d04b7e14869d9eac1cd6068ae4486e8dc3d8293d778c</image>
+    <start>11:00AM</start>
+    <finish>12:00PM</finish>
+    <date>27 December 2025</date>
+  </channel>
+  <channel>
+    <name>Fox News US</name>
+    <id>FoxNews.us</id>
+    <title>Live: Fox &amp; Friends Weekend</title>
+    <desc>FOX &amp; Friends Weekend, hosted by Rachel Campos-Duffy and Charlie Hurt, highlights the latest in news, entertainment, politics, and sports.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IlNRd0pDZWdZaDFHaE4xTlFjbmhJdXc9PSIsInZhbHVlIjoibU1qVm1JWFVmYmVydlZXcTBBazZQN3M1T2VOR1wvN2xDRm44eHkzQzY2S3VyNjRJa1d1MlBtanVKc1wvcmgzcFNEc1JoZk43VVp5ZzkwcTJMQXVEVW9YQjBqWFlGYmZBbGtFTWczZVg4TG9Ta0xtM3pIbEtIdDZEXC9VUkVMdDNSVlMiLCJtYWMiOiI3ODA5ZmRiMzY3M2JmYTI0ZGM3ZjEzYzE5MmRkODE1NWZmZTk4NWU2OGQyMDlmOWJiYTI1OTM5YTAwMDNmYjAwIn0%3D&amp;signature=b47e3bef08be1f534c8b0489762f322d99754af6d5c05248f8ab05d34a153df6</image>
+    <start>12:00PM</start>
+    <finish>01:00PM</finish>
+    <date>27 December 2025</date>
+  </channel>
+  <channel>
+    <name>Fox News US</name>
+    <id>FoxNews.us</id>
+    <title>Live: Fox &amp; Friends Weekend</title>
+    <desc>FOX &amp; Friends Weekend, hosted by Rachel Campos-Duffy and Charlie Hurt, highlights the latest in news, entertainment, politics, and sports.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6ImttV0xCcFZFajcrcDExTWNkeVpDbmc9PSIsInZhbHVlIjoiTEhmekhCRkViOUN0bmVVaUZuaW1RUmVUV1F1S2Z2anBTdXk1cUVcL216QVwvQkcxbndKSDJyakR5eEEwZTc0UHRKMXpJcUxJRUZ0VmhUdTZBQlVOeDVsbzZDNkFaUENBYStFQitkXC9pQ0QrNXNQdERadmFQNDNQMTBaUVRzZzM5elUiLCJtYWMiOiJkMDc0NWY5ODBhZmZkOTE0OTc3Y2MzYjZiY2YzYTE2ZTVkZTViODFhZjEzZTdmY2E0ZmNhYjRlNWU1OWIxMTgwIn0%3D&amp;signature=53a7f74720435dae7d009c15a4ca1fb1c0a3b7af8f1bd4fadcb51d45f9f07c2f</image>
+    <start>01:00PM</start>
+    <finish>02:00PM</finish>
+    <date>27 December 2025</date>
+  </channel>
+  <channel>
+    <name>Fox News US</name>
+    <id>FoxNews.us</id>
+    <title>Live: Fox &amp; Friends Weekend</title>
+    <desc>FOX &amp; Friends Weekend, hosted by Rachel Campos-Duffy and Charlie Hurt, highlights the latest in news, entertainment, politics, and sports.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IlwvSnA4eUpyWjhNXC96K0VZUllPUnpiZz09IiwidmFsdWUiOiJyeGUrWEdyc3NlSUVTaTQrRndsWFVoazVGc0hDK2RUZk1Ta0oxWEQxSXJBaDJRWTRPU2J1d1pCYWUwc2pKNXplRFlGQU8xbGZcL1FIcVl0YzVybnExZllGQmtneVVSUXRSTDlsY2RlMEtjb0JrSktaN2VVY0JcL0V2K25JUXNuWjZTIiwibWFjIjoiNWU4ZmJiYmQ5MmRkOTNmMDg1YzczMzNhNjRjYjhkNTg5YWY5YjUwZWRlYTM0M2I2ZTY2NmU1ZWIzYzQ0NmFmZCJ9&amp;signature=672b16090f8dd1cff00549cbdf19b9a365a3f16efa2ade8930a7ff6d4780b385</image>
+    <start>02:00PM</start>
+    <finish>03:00PM</finish>
+    <date>27 December 2025</date>
+  </channel>
+  <channel>
+    <name>Fox News US</name>
+    <id>FoxNews.us</id>
+    <title>Live: Saturday in America</title>
+    <desc></desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IkZiOGdsUXE1ZExCdkZUZWkxYTRhRVE9PSIsInZhbHVlIjoiZkhCaXorZlRJZVl6ZFVQbjIrSmZMbHJnZWwwWWRYV1o4bkJmanBLaUp6TnpmVnZac0lyWngwWWdcL2lITVlzbzF5ZVZHV0Jpak1XWWo1eHJpaVVcL3VIelphM1JnMGNRY3hMVmVJMFhoYWtueFpnblpvQlp5VXR2RTNaa2xRK0JPYiIsIm1hYyI6IjM0MDgxZWI3ZjNkMDBiMGUwZTM1M2JhZmY1NTI5YjlhYzMyYzdkMDNjZTEyODY4ZTUxOTI4MTgzNmEwMzc2OGIifQ%3D%3D&amp;signature=a2882de8b908dbeac4f7a4f74690c6421528eb12a2d9cdf009338d753a2562b8</image>
+    <start>03:00PM</start>
+    <finish>04:00PM</finish>
+    <date>27 December 2025</date>
+  </channel>
+  <channel>
+    <name>Fox News US</name>
+    <id>FoxNews.us</id>
+    <title>Live: Saturday in America</title>
+    <desc></desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IlZVbFdtZVduTk04MUdJWFhHWk1udEE9PSIsInZhbHVlIjoiNWx4dXVFZ3RRc0p5SU01Z3F5d0JZTWZ2dG9yeUJTUlgzb0R4VnYyemoweUlUNmF1MmN1XC9aZk9SVEw4Z05VVDFoYlBlcFo2TE9Ydm9iVjF5V3NGYms0TTlncnZsZzFVSFRPNFBDTTNEVkhwZ2x5MzJrVVBmMTI5Q21qV1V1V29xIiwibWFjIjoiZWE3NTVhZjFkOTQ3MzQ5MDljNzMwOTUwMDM2NWUwYzBiYTliNWE5N2E4MmVkMjQ1YjJlN2RhZGI0NjdmNjg5MyJ9&amp;signature=2369e6e8f6bfa54378bb04caa926344eec66b8642fb688a2b2aac54a863a3db9</image>
+    <start>04:00PM</start>
+    <finish>05:00PM</finish>
+    <date>27 December 2025</date>
+  </channel>
+  <channel>
+    <name>Fox News US</name>
+    <id>FoxNews.us</id>
+    <title>Live: Fox News Live</title>
+    <desc>Covering the latest news on the economy, society, sport and culture, with insightful analysis and expert commentary.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IlBWOGI4OVp1WUZGcGY5VmRrXC94bjRRPT0iLCJ2YWx1ZSI6IkMwcjhCOVd2aTI2aWJuU3czXC9WME1aQTVMczBDWVV1Y1VWaG1FelV1eHNIWVVrRHpuN1VkWjdHV3pVWlZPWGVzSTBCbkZNUllRaTNyRWZMb3Z5VmQxRUF6R1U3ZFFUSUNGNXBsM1RxcFh5TXFBTXVsN3Q1TnFKamZaWCtJaXlhQSIsIm1hYyI6ImY5NzUzZjA1M2RmNjg1MDMwOThjNmUyYzg3NjYxYzE5Mzg5NWRkYmI5MmI3NmNlNzA4YmEzYjE4NTI3Zjg0Y2IifQ%3D%3D&amp;signature=92fc1941eb49db9c36c8726fb16769708b93afcc071fa4c1769ee7c272645404</image>
+    <start>05:00PM</start>
+    <finish>06:00PM</finish>
+    <date>27 December 2025</date>
+  </channel>
+  <channel>
+    <name>Fox News US</name>
+    <id>FoxNews.us</id>
+    <title>Live: Fox News Live</title>
+    <desc>Covering the latest news on the economy, society, sport and culture, with insightful analysis and expert commentary.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IktzbHVsamgxd3BOQzNFMW5DN2E5Tmc9PSIsInZhbHVlIjoib283YWgrSDlKZHdJc1BVczd0Z2Y1NnZFQmZRT3RFc1RxNmJ0QTFXdmdKTnBXVENhdmY1c1F6M2lqR1pmSkRCczY3czNabU9lTVdEUXZVRUdQWG9MbFNFMU95ZVdVV1hycHpvUTUxNTNZeXQ5ZnM0RTRMVE50VkUyV2JGeTh1WTYiLCJtYWMiOiJlZWY2Mjg1YTNmMzUwN2E4MTFjY2QwODMyOTMxOTllMjQzNzYyNzRkMDFlYjA5ZmE4N2Q1OTlmYjg5MjM3YzgzIn0%3D&amp;signature=a386d86e9dc9f0838029a3821de8362c73da81e41159b3ae024b819ff0dffb25</image>
+    <start>06:00PM</start>
+    <finish>07:00PM</finish>
+    <date>27 December 2025</date>
+  </channel>
+  <channel>
+    <name>Fox News US</name>
+    <id>FoxNews.us</id>
+    <title>Live: The Journal Editorial Report</title>
+    <desc>Paul Gigot discusses news, politics, society and finance.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IkJudjNBTnlhT0NFdUQ5MUdkOXVmQ2c9PSIsInZhbHVlIjoiTnc0NlJxTFwvZXJtY1wvODlaOGJhaE1EQkw0bXFtOGRwWUhCaXhiNElUV0hZb1lMWEVUdFwvZnlQQjBNdFU0a3pPOXl4YTRjRnd0NTNIMElXSzRjeDkxeWlyUTJGcjc2YzUwa0hoUkVuT1hVbDBtY0FYMFh4V0pFOFByRnkrODJVQ1oiLCJtYWMiOiJhMmRhN2E1MmIzMjU0MGEwOTA4MThiM2MyZDNkNDQzNmY3ZDFiNTgxM2JkNDczOTllMjE5OTljZjA1NTZkM2NlIn0%3D&amp;signature=22cdabb2c01644649fc77f613174242c8101e19c473d076f97a7bf91cb5ee2fc</image>
+    <start>07:00PM</start>
+    <finish>08:00PM</finish>
+    <date>27 December 2025</date>
+  </channel>
+  <channel>
+    <name>Fox News US</name>
+    <id>FoxNews.us</id>
+    <title>Live: Fox Report With Jon Scott</title>
+    <desc>The latest headlines, news and analysis.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6InBwdDVHbHBLWlZlcWFHRUZlNDdKMFE9PSIsInZhbHVlIjoiWm5WeDRJaDV0MEEwQjFwa2llNHFyUUFhOGJtaXA1MkJ0Ulg5UlROdUZMRlNBNGRpUU41SG53SWtQWXhPa0RPd2JHOWg4SWxHdEhOc0l4MytPRDFpaXorWU45SzVVc0p0bVJ1dUcrd0J4WERKSGJMbnpxbTlMMzFoMnZJNGRTV20iLCJtYWMiOiIyMjBmMGQzNWFkMWEwYzc5ZTk1YWY2MjVlYmRiYjgwMTU4YzMyMDEzOGU5OTgxYjJmZDg1ZjJjMGVhMWU5OWY5In0%3D&amp;signature=e6c35f586aa9bc9a5164670208ac1ef99f304b339a7000a83941b8f1adcc87b2</image>
+    <start>08:00PM</start>
+    <finish>09:00PM</finish>
+    <date>27 December 2025</date>
+  </channel>
+  <channel>
+    <name>Fox News US</name>
+    <id>FoxNews.us</id>
+    <title>Live: Fox Report With Jon Scott</title>
+    <desc>The latest headlines, news and analysis.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IkFWeVF4VWNnaGhneFduaVdhSXJDZ2c9PSIsInZhbHVlIjoib0duU1JkcmV2UEl2M3JKZGhpSFo2cXlmSTJHZkRXYWMyTFRUVk5nWXVxVXVrdmFcL1R0MGxxbGFkWkNLSkFtWGdZQ2pNTkk5NkwzVk4zalp0eW1hK0htTWI5Q2lsRGZJdktyV3lUcFBYQTQyYlNTSTNWRGE4eThiXC9vR0wxMzRJZyIsIm1hYyI6IjgzY2Q3YmJjZDVlMmRhMTQ5NGE5NzcyMWI5NmNkYTczNzk3MTVmZGNkMjI3MjJlMjdmMTE0YzQ2NDM2MzBhNjgifQ%3D%3D&amp;signature=b6c09370aa2c63e3ba671238525d20e98e5b8ad4a116376f0caa67f54eb3fc06</image>
+    <start>09:00PM</start>
+    <finish>10:00PM</finish>
+    <date>27 December 2025</date>
+  </channel>
+  <channel>
+    <name>Fox News US</name>
+    <id>FoxNews.us</id>
+    <title>Live: The Big Weekend Show</title>
+    <desc>Rotating panelists discuss the big news of the day and react to the top stories.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6InVES0d5dStzd3IzcTZ4b0pBT1BmYUE9PSIsInZhbHVlIjoiYU9QRlhcLzQ1Z1U4bFNFemhrZFJvOG5pSlBRb1wvTTZibXZxQm9Wenl3SjZPOXc3SE45czM0ZStrK1lpUVVVMVVFMG9uUnhNTEMzbHRcL0c3TWN1UXNhMGNya0phbDdHdGJmZDdKWW8raGI4Z3RJdHRHWjBCTnliVU4wYXdkZWJ2SXYiLCJtYWMiOiIyZDg0MmZiNGM0NDE2NDU3NTFjMzgwZWJmODc0MTFhZTBlNWExYTQ4NDQyZTI1ZmZkZjljYjE0MWRkZGFlY2Q2In0%3D&amp;signature=317d0c065fad454873d8e718362aea1d62bb7b1516636cfbb9a998101fef49bb</image>
+    <start>10:00PM</start>
+    <finish>11:00PM</finish>
+    <date>27 December 2025</date>
+  </channel>
+  <channel>
+    <name>Fox News US</name>
+    <id>FoxNews.us</id>
+    <title>Live: The Big Weekend Show</title>
+    <desc>Rotating panelists discuss the big news of the day and react to the top stories.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6Im1NS2VSakFrVEJZS1NUczdGVERud3c9PSIsInZhbHVlIjoiaVVHK09oRmx0Snl2TUNqSHo2Vm82c251VjZtYW55WGpnenRUSWR6ajJqU3ZBQXluZnBDSzNzR3VDSmREQzZTSERweGNpNDRCZUF6bU5SU2E0TEg1bXlWSFRIMHNBTnBKTUxLaUhna1l0eHcwNHZYbHJzc3dqcjFSdHdPcEcybWYiLCJtYWMiOiIxMTVmZTkyMDkwNGQ5MWE4N2VkZDI0Njg5NDAyNmRlMjVhYTY2YjQ2OGUyNzFlYzg5N2U0NGU2YzU5MzQ2MTM2In0%3D&amp;signature=794a465962fd8af182eeff73b968548c93f6d19d07f14737ceebf6e61d916630</image>
+    <start>11:00PM</start>
+    <finish>12:00AM</finish>
+    <date>27 December 2025</date>
+  </channel>
+  <channel>
+    <name>Fox News US</name>
+    <id>FoxNews.us</id>
+    <title>Live: The Big Weekend Show</title>
+    <desc>Rotating panelists discuss the big news of the day and react to the top stories.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IjZ4d2JcL2xEZW9GcjFmTGRYSVJ5OFwvZz09IiwidmFsdWUiOiJXczFKYmFJcER5cUZhRmtCYkdJNDRvWnp2XC9JdWt6T0orN1Q3dTJjODF4dVBrTW80eFZtSTdVVEdKUVB4ejNyc0FZaExkd09NVDArbVBaOENXNmE0c2lvOFoxRDdYWjMzMlpFY3dFSUREaDc1SkZubUYweVwvM3A0c3hTanY3MDkyIiwibWFjIjoiYzU5MDRkODc0ZTIxZTg2YTJkMDI5OTM4MmMwMjY0MTdkNDNjYWZhZTZhZTFkYmE4MzRiNGQ4NTk0ZGY2NDUyNSJ9&amp;signature=7e87a9f0fcecdb6578044af03d80d6be8baab27701f71d76162060b5b359905e</image>
+    <start>12:00AM</start>
+    <finish>01:00AM</finish>
+    <date>28 December 2025</date>
+  </channel>
+  <channel>
+    <name>Fox News US</name>
+    <id>FoxNews.us</id>
+    <title>Live: Life, Liberty &amp; Levin</title>
+    <desc>Explore the fundamental values and principles undergirding American society, culture and politics; examine their relevance to the nation's future and everyday lives of the citizens.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6ImZsTjVcLzRPa3lWY1g5clM3aEhmSkxnPT0iLCJ2YWx1ZSI6IjdcL3lWYndFN1NtN3Z4NDdPKzN0em91N2FtVDJoUjJrM2ZZaEcrcTBzYUEzbkJqblVjQlJZNmhoQ3k5Q3RrZWcyQStMbXU5NTBHNis2Zm1ldnhNc3VxRjdpQXdBMVBGUE53SDQwcjJTcUQ4S1puVmw0amdlTTJcL3J2S29zZEttVEoiLCJtYWMiOiJiOGI3YzYxNTBjNGJhZjZlMjA3OTdiMjIxNjljNzRkYTI4Y2E0ODAxYTM5YjhiNmMyYjk4ZjgwZmNhNGFmNmQzIn0%3D&amp;signature=abb02c120a14231f04496af57fa4b8cf54c55efcca4739609afc90bd161316e5</image>
+    <start>01:00AM</start>
+    <finish>02:00AM</finish>
+    <date>28 December 2025</date>
+  </channel>
+  <channel>
+    <name>Fox News US</name>
+    <id>FoxNews.us</id>
+    <title>Live: My View With Lara Trump</title>
+    <desc>Presenting in-depth analysis of the issues and stories that matter most to Americans while offering context and solutions to help bring the country together.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6InBJajFmQ0xmMHVzWkkwRUhaVXVubUE9PSIsInZhbHVlIjoiQjNUaytsVTRnZCs1MGJ5U0xSVU5wSHNhRE1Kd0JoVFJOQm1nMFJTTjVHSklzK2tGMnFsTWxBekdQeW9kOUZMQ3dleDQrSU1SSzdaMkpLVEs4SWEyN3hFVlY5TWZPb3IxQ29vblZ4MW1FM3JZOE1OMlhSTDRnQ3loRlZDbWlyMDQiLCJtYWMiOiI2OTI3NjJiODZjYjdjMjZkNzEzZGZiNTcyMDI0NjE1YzhhYjhmZjIyM2U3YTQ2ZGFhMzQyNDQ3NDZhMTY0ZmFjIn0%3D&amp;signature=73fd727010bbc5a1954804eea4877f68b624b759562cddfacb19661c861fe2de</image>
+    <start>02:00AM</start>
+    <finish>03:00AM</finish>
+    <date>28 December 2025</date>
+  </channel>
+  <channel>
+    <name>Fox News US</name>
+    <id>FoxNews.us</id>
+    <title>Live: FOX News Saturday Night With Jimmy Failla</title>
+    <desc>Host Jimmy Failla welcomes guests to give a humorous perspective on the stories America is talking about and everyday issues.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6ImxkbnNMdVZncDFNNXVUQUN6NTJQREE9PSIsInZhbHVlIjoiZXBITUY3bjk4c0xMM2ZLNGdMZitIa25zVytXQU5WbElRUmN6YStteHllam1DQTJya1IwRXl1NjFzTGRDRkRPWWZ2SXFucHBQN25HN3lMU3BPTUJkZGROZ1JHa1RSN1ptMTlSSGc5TjRjQlozdzFINmpqMWE0VEh5MlFMMENTd3EiLCJtYWMiOiJlMGI4M2U2MDQ2MDIzMzE2NTZmYTJhZDlkNjg3NjQ2NDI5YmIxNjgzNjk5N2RmMGMzNjA1YTRiNmMwZWNhYzNjIn0%3D&amp;signature=2c8074f53168bb684bfa4faf4f64b8f3409cb4f92cab88b9c47e595085b22005</image>
+    <start>03:00AM</start>
+    <finish>04:00AM</finish>
+    <date>28 December 2025</date>
+  </channel>
+  <channel>
+    <name>Fox News US</name>
+    <id>FoxNews.us</id>
+    <title>Gutfeld!</title>
+    <desc>Gutfeld looks at the news of the day through a satiric lens fused with pop culture and features refreshing takes on the day's top headlines from FNC personalities, authors, politicians, veterans and comedians.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IlZBM3dPNjRvUm1CaEU3T2s2c2s4Z1E9PSIsInZhbHVlIjoiR01sS21BenpYNm5WQUFoblJuSkZicTFUWEE3b2g0UThZbmtyYlhRSWtCWTQzdEdzS3l4cVZocDNNOVkrZEZBZWt1aXBVYTRzQXVIemZ0ZFlKVEI0NDVvRk5DYXJjRDBBTHdBOWpiT1VudTZIeHUzeXRMUjMxNTQ2K2RwbVZYK1MiLCJtYWMiOiJjMTQ1ZjQ3ZDc2ZGMyZjg4NDBjZjBhOTczMjQ4OTM3YTM1Yjc0NWJmYTU0NTUzYjAyNDk2YTczZDlmOGY2YjBmIn0%3D&amp;signature=03c1c0c17241f3993311bdd65124758a595937dd1bfa6c5760d0585df98f24fb</image>
+    <start>04:00AM</start>
+    <finish>05:00AM</finish>
+    <date>28 December 2025</date>
+  </channel>
+  <channel>
+    <name>Fox News US</name>
+    <id>FoxNews.us</id>
+    <title>Life, Liberty &amp; Levin</title>
+    <desc>Explore the fundamental values and principles undergirding American society, culture and politics; examine their relevance to the nation's future and everyday lives of the citizens.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6Im5UbU1rV3dpelI3Y3lGYk9ocFJrRkE9PSIsInZhbHVlIjoiTUJLdjBxVXdMYWJhcVNUWlIzZ25iSWhFWUVSR0xtazBHU2xaZFloTld6cEJwRmkwKzdUQUdFN09jWG5QSEZlek92UVVDWjJmU0VudjlSVnZ4VGEzeHQ3UVQxNWdwZ3U2czNRc1puNDBMc0thMFlNMUdSck1qem4wbUZtSDdjdXIiLCJtYWMiOiJhMTdkYTM3M2UxNjdjMWUxMTQ3NzJlNWVhZjZiMTNiODNlMzBiMGEyNmQ4NDgwYTg3ODBjM2Q4YWRjZGVlNjQzIn0%3D&amp;signature=2579c8617edb1c44c084af15377968b17ca7b060a3a32bc29da23b75ff681637</image>
+    <start>05:00AM</start>
+    <finish>06:00AM</finish>
+    <date>28 December 2025</date>
+  </channel>
+  <channel>
+    <name>Fox News US</name>
+    <id>FoxNews.us</id>
+    <title>My View With Lara Trump</title>
+    <desc>Presenting in-depth analysis of the issues and stories that matter most to Americans while offering context and solutions to help bring the country together.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IkVob1JyTjQrKzNlSk1LSFRESnZrSnc9PSIsInZhbHVlIjoiY0Vsc05JQ2lqaXA3YzZDa3JyREJvdnZrdGliam82ZFdGaFhyWFpHQUtpOGlyUmpqcmR3U2k5VmtLc2dhUmZOVEx4RWpOeUhcL3lHbVRFY3R5N01ad3ZDNk1QZ2xpQVhPUDdqVHplbEJRamJzMllWcnBrZHMwTXBhSlwvaUpSWXh2NyIsIm1hYyI6IjBiMjQ0ZDkxNWMwMDg3MTM2OTY2ODNmOGU3NmVjMTM3MjVkYWI0YmQ3Yjc2YTg1MWI4ZjIxMDYzNTE1M2FjYWUifQ%3D%3D&amp;signature=3ae31607c657c1e3cb828d133585cc5cd59c3fc2b16e2e47ad8e5784845e14bc</image>
+    <start>06:00AM</start>
+    <finish>07:00AM</finish>
+    <date>28 December 2025</date>
+  </channel>
+  <channel>
+    <name>Fox News US</name>
+    <id>FoxNews.us</id>
+    <title>FOX News Saturday Night With Jimmy Failla</title>
+    <desc>Host Jimmy Failla welcomes guests to give a humorous perspective on the stories America is talking about and everyday issues.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6ImRvMmd2RnV5M1wvTkVGMmtrd0h1RUFRPT0iLCJ2YWx1ZSI6ImhVdVdUY2JiV3VoQStydnJcL1o1MTA0THVmYTI1TDFcLzJJTGRBaXJaWE1ocmxVSFc5UzRIYTlBWlpBd1BBZmdvQjZOR3lnbERSNW82YzFEcnZ6eHpDc2RETm1kaGNMY1BaWHJibGdtcVhVTVN1MEJJVWdpV0RrU1pHQUh6NHJqRG4iLCJtYWMiOiI3MWJiYTQ2NTcwNDhmOGJjNjVlMWQwMjUwY2Y1NTk0ZTE5YWIyMDY5YmY3YzcwMDViYTdkZDE1M2Y2MzBlZGVkIn0%3D&amp;signature=e34598211fa936833738731651763bec99b7019e2aa630d55d9419b4c8387f05</image>
+    <start>07:00AM</start>
+    <finish>08:00AM</finish>
+    <date>28 December 2025</date>
+  </channel>
+  <channel>
+    <name>Fox News US</name>
+    <id>FoxNews.us</id>
+    <title>Life, Liberty &amp; Levin</title>
+    <desc>Explore the fundamental values and principles undergirding American society, culture and politics; examine their relevance to the nation's future and everyday lives of the citizens.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6ImwrSGNobW9WYzVsOGhxN1BqRGh4OWc9PSIsInZhbHVlIjoibjExaURHSExQVjdJaitIUWtSS1ZBXC9hb285dVZiV1hWb0VTdFpJMFUyQzY0Q0h4S2VRRFRIQUc2eDFoaUF2WTJMTEljU25aQm50R0oxY1wvRnN6YTZkNm12SkdacjI1K3BKZllhWEN1MkExMXFITTlXMnBKSDZpVXRHS3RUcTRFNSIsIm1hYyI6ImEzZjUxNDgzY2ZiZDE0Y2M0M2FlNDljOGE0M2IzZGY1ODg0NmZiZjkyNmNmNDljYzAyNTYzNmRiMGUwNjhmNGQifQ%3D%3D&amp;signature=48a5e5eaf33853b49bc2bad68aa08a22843934ed42d8f58637275673af97ef55</image>
+    <start>08:00AM</start>
+    <finish>09:00AM</finish>
+    <date>28 December 2025</date>
+  </channel>
+  <channel>
+    <name>Fox News US</name>
+    <id>FoxNews.us</id>
+    <title>My View With Lara Trump</title>
+    <desc>Presenting in-depth analysis of the issues and stories that matter most to Americans while offering context and solutions to help bring the country together.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6ImZnazUxNldjZjJuYisyQzEzNnpHXC9BPT0iLCJ2YWx1ZSI6IktmNUpuYTZmTGg4XC9wTjVyYUl4d1Zad3VRTGR6a1FheFQ3eVV6U1loY1NUYk94UVJKSmk5RGNKS1RabHBkXC9oNmJcL2M4bUl4ZDFucXRwMk1TZE00UDZNZE4wREExc0xlM2pDeXhMXC9YeEdSc2RPSWI0ZEV4OEltVThESnJHVytqcCIsIm1hYyI6IjZlNGJhOWRhMDViZjI3YTAwNGExZDA5MWI3NTM0YWQ3ZGViYmQ0OWZjYWE3MjcxNTU5ODc2MjEwMjIyMTdiMDcifQ%3D%3D&amp;signature=9fcc3dbd653a8f91f6f1ab8b5b6dff412d60bde31efcc92d33db612d01458d3b</image>
+    <start>09:00AM</start>
+    <finish>10:00AM</finish>
+    <date>28 December 2025</date>
+  </channel>
+  <channel>
+    <name>Fox News US</name>
+    <id>FoxNews.us</id>
+    <title>FOX News Saturday Night With Jimmy Failla</title>
+    <desc>Host Jimmy Failla welcomes guests to give a humorous perspective on the stories America is talking about and everyday issues.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6Ik82bzFhaXBrc0d3YUdkUUl0QTZXTmc9PSIsInZhbHVlIjoiNm5DRFVHajZrbmFBU1wvSmhPKzVxM0IrXC82eHdJZ1hiRE9YemlmODk5UFwvZW0raUladTNVdU56S1lwaTNQREd3VHVSMW9uOFwvb25xbGFcL1d0SHJZWFA0ckFqK2tsNHlkanhPNElWU21FanlDOThnZVVCUmp2NDJKcFBycHhEdmpTZiIsIm1hYyI6ImU2ZWQ5YzQ2ODdiZDNiNjNkNjA0MTE4NTJmOTIwNTlhOWJkNzIyMzQwM2E3NDRkNjkzNWNkMTc1ODRkMmUwNGMifQ%3D%3D&amp;signature=a3c53dfbd89918830b0cbc1c4e8469b459c706a65e6e2e8bd712e6e0fade41c4</image>
+    <start>10:00AM</start>
+    <finish>11:00AM</finish>
+    <date>28 December 2025</date>
+  </channel>
+  <channel>
+    <name>Fox News US</name>
+    <id>FoxNews.us</id>
+    <title>Live: Fox &amp; Friends Weekend</title>
+    <desc>FOX &amp; Friends Weekend, hosted by Rachel Campos-Duffy and Charlie Hurt, highlights the latest in news, entertainment, politics, and sports.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6Ing3a1BSUkpQc0RCNlNzWTJlRGtkUFE9PSIsInZhbHVlIjoidzlIbTNlaFlsM0tmdjRXMG1cL3ArU1RPZWZDYml6YkNDVzc5U2s3Ym9OdTZydmYzU2RcL2UxY2RaUkxUNFJUZXIwdWc0eGdUaWlHTFROSVhJSXJZSjd4M2Zva3JTM2Q3dldId2MwU3lRd0lxZHJZT2VNMGlcL3lMRUdlSndDU2k4UnEiLCJtYWMiOiIwNmYwZmM0NmYwY2ZmODFiNWI0Y2NlNmEyMjAwNjc0NjQ1MDEwNTY2Y2MzMDdiMmE4YTkyOWJiM2Q4YTY2ZGRmIn0%3D&amp;signature=5d3a6de6658a7cfdd27cd40a82803cb6c5770dfa585e6394de1ef4f43751b42e</image>
+    <start>11:00AM</start>
+    <finish>12:00PM</finish>
+    <date>28 December 2025</date>
+  </channel>
+  <channel>
+    <name>Fox News US</name>
+    <id>FoxNews.us</id>
+    <title>Live: Fox &amp; Friends Weekend</title>
+    <desc>FOX &amp; Friends Weekend, hosted by Rachel Campos-Duffy and Charlie Hurt, highlights the latest in news, entertainment, politics, and sports.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IkJNZHpJXC9ET0M5VkFlZ0ZkNXk0dTJ3PT0iLCJ2YWx1ZSI6IkY0ZW5tdVl4SUp0bmhHcEE0TVpmYm02Mkw1RkFrbVUwV1RrUFErbHZyREJyVWtHM0p3V2krYnRTT3RGR1VFb1dFVWJkaDVPTjZEY0dOQ2U2NEI4Zlk3WVwvOG5LMWY5MXB1TlwvRENBNWxKdnRyUGxDaisxVkhZVklNbXdHSlV0b0EiLCJtYWMiOiI4ZDM3NmFiNjhiMWY4Y2E1YmMwZDdjYWQ1NzQ3OGEyZWE4OGE5MzhhNmRjMjNiZDU4ODM2YzEzNzAzODNjNmZhIn0%3D&amp;signature=dd785c5eef5d880b66ad9086b5bdd9ab46f303c3b9d3ae3e98743a360611b786</image>
+    <start>12:00PM</start>
+    <finish>01:00PM</finish>
+    <date>28 December 2025</date>
+  </channel>
+  <channel>
+    <name>Fox News US</name>
+    <id>FoxNews.us</id>
+    <title>Live: Fox &amp; Friends Weekend</title>
+    <desc>FOX &amp; Friends Weekend, hosted by Rachel Campos-Duffy and Charlie Hurt, highlights the latest in news, entertainment, politics, and sports.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IkxvY2hyTVwvWlJnTXY2R1U3SGpnOVl3PT0iLCJ2YWx1ZSI6InpORHA1dWFPU1g2OEFERVA1SHVOR0xrcTY0Nk9YMlRTbmZha2RzeVg5VGVwRUlxa1BjM0ZHMjBYN0hHTTZQY2gwd2Q3dlJHZlc2QUxsZnVoRFVONzhOekpRWm5HbXBCVmNGSTFVRWVlUWhTZW9MckkycXBZR3MzZ09MTlwvYlhRaCIsIm1hYyI6ImU4MDZlNTExYTIwM2MyZWYzODg5M2JhYTA3NDkwNzEwMjdiOTQ2N2NmMWY1N2YzM2U4MWRkZGFhMTUwMzJmYmEifQ%3D%3D&amp;signature=50ade117a7267d7cad488e06bfa3267099d6033584f51984c24569d076e7e929</image>
+    <start>01:00PM</start>
+    <finish>02:00PM</finish>
+    <date>28 December 2025</date>
+  </channel>
+  <channel>
+    <name>Fox News US</name>
+    <id>FoxNews.us</id>
+    <title>Live: Fox &amp; Friends Weekend</title>
+    <desc>FOX &amp; Friends Weekend, hosted by Rachel Campos-Duffy and Charlie Hurt, highlights the latest in news, entertainment, politics, and sports.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IjdJMUdSc1BWOThSd3Ard3lVazZPM3c9PSIsInZhbHVlIjoiMmpsNUExXC9ZdEhWQ1A3SDdpcXVuWG43OVNPQmFjREVXTWlnNnFWWFJPekpFZktsRU1FVExRNCtMR2FZQkZWZ1JscGkzcG1qbW1FM3F6ODFaSTlzaURhVCtSQXdCNjhhUFE4K3Z1Y3NzdmFtQkl3ZXJcL3BoMGRRYjZwdmZKQVo5VSIsIm1hYyI6ImY4ODk2OTQ0NTYwNzdmZDc2NzAxZmI4N2U4OTY1NWI5ZDI4NTdiNWEyODFmZWZlMTM4ODgwNjYzMmFkNDljYzcifQ%3D%3D&amp;signature=13526a1702bfc6c6826003533a636bba3aea9665356ff149a02f88ae119d9f93</image>
+    <start>02:00PM</start>
+    <finish>03:00PM</finish>
+    <date>28 December 2025</date>
+  </channel>
+  <channel>
+    <name>Fox News US</name>
+    <id>FoxNews.us</id>
+    <title>Live: Sunday Morning Futures With Maria Bartiromo</title>
+    <desc>Analysis of recent economic developments and interviews with business leaders and newsmakers.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6Imo5WE9cL1ZHSjRjNUhybHVrXC9BWGhTZz09IiwidmFsdWUiOiJUSWI3UjNCbkRvUVQyd3h6bFJYaG1LOXRGRTdSN005TFlYSlBTSTV5aldWd3NYOFNOcGs4UG9pcmNOd0d6RWV5UGExdWVJWGRENWFpNWFBNVdqV2ZtZ1d0ZU5lTmxmMkhGUlg5dUp2WDBuVzhjTnZCS3FzYlpSaHBOTmxGMnBTYSIsIm1hYyI6ImU3YjM1NWUwMDE5ODhmZDhmODAxMTkzZmIxYmYxN2QxNjg3ODUxMzlmZjhlODc4YjdlNjg2ZWU4ZTJlODMyMDcifQ%3D%3D&amp;signature=2bb703b5e4542686a757b3549c5bd11309787cd180bacb879cf22fe4657c22bb</image>
+    <start>03:00PM</start>
+    <finish>04:00PM</finish>
+    <date>28 December 2025</date>
+  </channel>
+  <channel>
+    <name>Fox News US</name>
+    <id>FoxNews.us</id>
+    <title>Live: The Sunday Briefing</title>
+    <desc></desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6ImlaNU1hbER5Wk1Vbis3aEVlekNleFE9PSIsInZhbHVlIjoiUG4xVjBGQ0ozcDZCcDR4NHVPQ2FTSGRualhLbWpFRjFUNU04Z0hveVJsVHI3UzZHTmF0M1Z6QlwvWVBGa1hzbVRoblwvQ0o2RjlhYjVtNjdXTXJoaUtxSTRcL0Z2UGhxVW5IOE9PNUQ1Q0xSNmFheVJCaXdLSTZSbjFOMFd4U3ZPdVoiLCJtYWMiOiI4YjUxNWJiNzU1NzM1MTg0ZTdiN2U5MDZlYzdjODZkYTE3ZGVmNDUxMzdhNjhjOWUwNTM1NzQ2MjRmODc2ODZhIn0%3D&amp;signature=b16f383e0ee7628b6418db9d083791b866bd7936c3b962d620970353e13ca506</image>
+    <start>04:00PM</start>
+    <finish>05:00PM</finish>
+    <date>28 December 2025</date>
+  </channel>
+  <channel>
+    <name>Fox News US</name>
+    <id>FoxNews.us</id>
+    <title>Live: Fox News Live</title>
+    <desc>Covering the latest news on the economy, society, sport and culture, with insightful analysis and expert commentary.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6ImJ1SDFhenJDNHlTQjhBXC82R2dFY1ZRPT0iLCJ2YWx1ZSI6IklLbG9mbnk5RXpQNXlLRU0zZEdxYk9HV3p0b05UTlA4NW5aWXl5NnIxWUZJd1Q2Nm12cjBhS1ZzcnE4Q05GU2dHYmZ5XC94SHBNXC9xNDhQa2kyVUJzR29uU1gwMmhnMmp5SWZ6N3hPS0R5UFBwMlkyTXJ5UlRtSFd6UnpuVlFlXC9OIiwibWFjIjoiYTExNjFlMTdmZDMzMDhhYTNhMDIxNjdiZjhjNzc4YzhmZjZmZjc2NDIxYzU4NmU1M2RmNzQzNzE2MDNlNTdmYiJ9&amp;signature=e7879bee39cbc9fceb740afb7205ae1294ae7842d1fe89f3d03c67bfb0a53d33</image>
+    <start>05:00PM</start>
+    <finish>06:00PM</finish>
+    <date>28 December 2025</date>
+  </channel>
+  <channel>
+    <name>Fox News US</name>
+    <id>FoxNews.us</id>
+    <title>Live: Fox News Live</title>
+    <desc>Covering the latest news on the economy, society, sport and culture, with insightful analysis and expert commentary.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IkVqUUlGVk1kMWxsdTJQamlRN0xEVGc9PSIsInZhbHVlIjoiTWpvN0xUUk90YVBrRnNIcmNEQkRlNythWjRcLytwb3FuZVlRUXU1RVlsWEVXZEJkN01XTWZKTCtHRE9zWllXWnZGcUFsOUo0YWVEMUtNS2Y1WmhoV0kwQlwvQlRQQ1lWWXFJZGhVQkZIa3dNWU5ERmdsMEFSNzJjOERhTnIwaG5lRiIsIm1hYyI6IjA2MzkyMGE4OWEzYTc1NmQ0N2VmNjdjZWFmYmM0M2E0NGIxZTdjZmM0ZjQxYmNlOWU2NWI3Yzk0NTQwMTUxM2EifQ%3D%3D&amp;signature=326fb3ab6d15389221b94dd74fd2957e5c9231c537df53bbc4139d98073c65cf</image>
+    <start>06:00PM</start>
+    <finish>07:00PM</finish>
+    <date>28 December 2025</date>
+  </channel>
+  <channel>
+    <name>Fox News US</name>
+    <id>FoxNews.us</id>
+    <title>Live: FOX News Sunday</title>
+    <desc>Anchor Shannon Bream interviews the biggest newsmakers of the week and leads guests in providing context and analysis of the issues facing Americans.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6ImVwSGRFTmdMb3l6UFwvXC9SZkVtTnNQUT09IiwidmFsdWUiOiJIQjZzb2lEQ3M1TWhibnBKWUtvYlcweWpuM013OFwvSDl0TmR1WisxZnFPR2hPODNxWWh5bVphWCtVTWtIdVZsYXJTRlhOQmladDFPbk9VZnBXRGVzNnFXUGVSTVg3MHNvM2RQU0RJNzVmZkIxUXhNMlk2alFSVE1INE5Mc1wvOUVKIiwibWFjIjoiNjhlZTNkYmM1M2MwYzE3MTZmNmQ4Njk1MmUyODE4YTkzOGY0ZTkzNGM4NjJjMjQwYjM5OTAyYTk4MDQ5Yzc1YyJ9&amp;signature=fca504d1f2585e8f94707d455c609325882cc278913c1327672c1b86761822dd</image>
+    <start>07:00PM</start>
+    <finish>08:00PM</finish>
+    <date>28 December 2025</date>
+  </channel>
+  <channel>
+    <name>Fox News US</name>
+    <id>FoxNews.us</id>
+    <title>Live: Fox Report With Jon Scott</title>
+    <desc>The latest headlines, news and analysis.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IndNXC9JY2Uzc1d6eFl0WGNtaW4rcDdnPT0iLCJ2YWx1ZSI6IkJsQzRKWjE3UE9INk9haGtYWHlnemdwYWZLTlFDZXUxOHZIeU51V0Vic2h5XC9rZm5KRDQzRDNHWEY1Sm9XOTNcL05wZzEyYlAwZnNFYUhZNVFtMnNIcEdYT2tUb1BDVEpPMkdQYWtqQVhZaFlLZk8rM242Mm9hQituK1EyNDZ4bTIiLCJtYWMiOiJiZTBhNDIwNWUyOGE4MWY0NzJkNDYwMjk2ZmFiYTVjMjNmMzQ1NjRmMTZhYjQzOTk1MzIxNzgxMzE0N2E3NDhhIn0%3D&amp;signature=d69b81389011bc2c93963ae6e9f7c77488e527e66eb174369d93015912b4a68e</image>
+    <start>08:00PM</start>
+    <finish>09:00PM</finish>
+    <date>28 December 2025</date>
+  </channel>
+  <channel>
+    <name>Fox News US</name>
+    <id>FoxNews.us</id>
+    <title>Live: Fox Report With Jon Scott</title>
+    <desc>The latest headlines, news and analysis.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6ImRvcFRES3k1b2N1dWFnVmxESTlHNVE9PSIsInZhbHVlIjoidWlreUYwdnBVODJOSUdGRllMdDQwekYzYzdybEdNWk1IMXZEeVV2Tkx6TERTZHpZV1BVd2JJcDRVK2NcLzVDTlEyM2VTZVRmV2JjdDk5dERiQ0p1THp3b3JJRlc0RXBhc1AyOFZFWVlPN3ZtNTNjMmlUdmIrUFwvSDU0dUo1MzFGbyIsIm1hYyI6IjM0ZjkzMGE1ZWQ3OTZkODQ5YjA5MDM4MGYwMDY1MDRlZWRmYTNiOTFiYjM0YWI2ZTQxMzFiNjZmZWE4ZjMzOGUifQ%3D%3D&amp;signature=81b9f800c44b6be9e042fb4262139cd67ff9766b9610c616861eb89ddf3b8c94</image>
+    <start>09:00PM</start>
+    <finish>10:00PM</finish>
+    <date>28 December 2025</date>
+  </channel>
+  <channel>
+    <name>Fox News US</name>
+    <id>FoxNews.us</id>
+    <title>Live: The Big Weekend Show</title>
+    <desc>Rotating panelists discuss the big news of the day and react to the top stories.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6InJoYUdjNEU2TmNmUHVCNk92em5xQVE9PSIsInZhbHVlIjoiNWFWaHRjWDBUMzRIWlNcLzFMTG5SOHpMUnhlcE1UdXBPNERpa3U5aDV3VWkwMzdUOTJjTzcyNFhwXC9uZlVSMzRUQWJEV2hJVlJHUE9lUlIxR1lCYXFrRXVjdmlCUzFDMXFxb2NVQnZMZkl4UzJtOStrUW1pVk1CU2E4TWxpUzJUcCIsIm1hYyI6ImQxNWM4MDk1NmMyYTQ0MGE4M2ZmOTIwZGE3ZDNmNjgxNDk0YWNmZTdiMzA3MGUxNTdiMGViMjdmODRmYTYyMzAifQ%3D%3D&amp;signature=995a5d70af26011fef055f2c4030872aaab8dc2bc5840a2fd2ed3ad02056b59a</image>
+    <start>10:00PM</start>
+    <finish>11:00PM</finish>
+    <date>28 December 2025</date>
+  </channel>
+  <channel>
+    <name>Fox News US</name>
+    <id>FoxNews.us</id>
+    <title>Live: The Big Weekend Show</title>
+    <desc>Rotating panelists discuss the big news of the day and react to the top stories.[(96057)] </desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6Ik1BUjNuTmlIenZYS2F1QkZVcEVkMHc9PSIsInZhbHVlIjoiRUNUK25YWDh6VWNvcFlOejVYckYyV28xUlFNYkdMamlTWW9oaitleFwvK29KWVlXOFh4bFJkNndFMWNmalB4TWhOWU9hbFltenZyNFdQbzl4WjFqUHhTcFZBeDhTQ3N6UVVNNklqK1RzU3lHcktnb2FTSlhkd3FmK1ZSNlJuWDZIIiwibWFjIjoiMDI2ZDkzZDAyOWFhNDI0YmJmMzdhOWY3NDk0ZTJhNzUzZTUxM2ZjMWVlYzdhZWJkZWQ3NTZjNTM1MzUxYTFmYiJ9&amp;signature=5b9e75eb4d3374bb7289a2876f8f73515ce961ad1bd30527db80f3c1cdb75599</image>
+    <start>11:00PM</start>
+    <finish>12:00AM</finish>
+    <date>28 December 2025</date>
+  </channel>
+</tv>
