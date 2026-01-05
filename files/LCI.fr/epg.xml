@@ -1,2 +1,623 @@
 <?xml version="1.0" ?>
-<tv/>
+<tv>
+  <channel>
+    <name>LCI Fr</name>
+    <id>LCI.fr</id>
+    <title>LCI Direct</title>
+    <desc></desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6ImZFRGltdnRkUmVjaWhcL2JZSHFaOVwvUT09IiwidmFsdWUiOiJoN1dTejhnczdVRTVYMHYwbE1zWlJxaUNKOU5wc05BOVNEeTlvbkhLcGduRGtJNlNTN2xGQ3gzUDhCXC9qelBqSXpTbzUzSm9iSFRTU3FcL2l4YUEzcUdWNStQUWFjOXIxREVLQitxS3VxVGg5RXUwYld3aUlWcnQxd08wZm56QWF3IiwibWFjIjoiYjM2MGUzMjJkYjY4ZDIxYWYxNmIxNDFiOGIzYjZmMzU1Y2ZhZjc5MjI0MWZiMzI0YWJiOGZlMWJlZWQ3OTg5NyJ9&amp;signature=4350631bbe1fb7dd64e14e03330459824ca1ffe0720f8a01f18e9bfd3935da2d</image>
+    <start>01:30PM</start>
+    <finish>04:00PM</finish>
+    <date>05 January 2026</date>
+  </channel>
+  <channel>
+    <name>LCI Fr</name>
+    <id>LCI.fr</id>
+    <title>Le grand dossier</title>
+    <desc></desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6InIwb3pleFJ4QktGZytjM1wvNU9kSWZRPT0iLCJ2YWx1ZSI6IllMSnQwNVpsNGNLYlRwS0grcjV1NlBuVmNrZUhIM29hY0VMTElNZ1FISzNQRVRFbXlWMFJRY0xwZHpcL081NGJSS3hQNUV2eFBwV01BU1NnSDREYVJxTVc5OXlKNWtIa1ZYdXZncEZ5MnVhbkRIbkp3TDVhZEFPOEZGSUN0UjZLdyIsIm1hYyI6IjQxOTk0Mzk5OGNkZjE0NDg2NDk4ZTE1N2MyZTRkY2FhNWIxMTI2YTk0NmE5MTAwZTdlNTYzZmY1MTFkMjk3ZTcifQ%3D%3D&amp;signature=029d6b9d7ddf5482875779c9f0278b5a8de23e2f162f1c3c15e6908735635e5e</image>
+    <start>04:00PM</start>
+    <finish>05:00PM</finish>
+    <date>05 January 2026</date>
+  </channel>
+  <channel>
+    <name>LCI Fr</name>
+    <id>LCI.fr</id>
+    <title>24 Heures Pujadas</title>
+    <desc></desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IlBzc0lGRlBmeVZSeVwvY0ZWNnJvMHFRPT0iLCJ2YWx1ZSI6ImdEeXR0WkZlb0pRMUZ0b1BxMEtkSlFBZnNaQ2JrRmQyM0dBMDZlYjdoU25RZm85SUlmNldmS2xoczlSbEZ2WllHZWgzeWtiems3NG9OYkh1bm1mVjQ5bnRBK0VqdndcL0o1ODRFOG45dnpoUHlNaDM3UVd0ZEQ0TXhTdzF3USs4RyIsIm1hYyI6IjljMGFlZDVmNzg0NDU4YTczMWU3OGJlYTFlMGNkYzJkM2ZkMzc5ODlhZWQwYjMxMjUzZmE2NTc0ZTU1YjJiOGIifQ%3D%3D&amp;signature=e4af8f9b24ea3e148e589c161ec71420a43484026be947f829cbd640938895ca</image>
+    <start>05:00PM</start>
+    <finish>07:00PM</finish>
+    <date>05 January 2026</date>
+  </channel>
+  <channel>
+    <name>LCI Fr</name>
+    <id>LCI.fr</id>
+    <title>Face ? Darius Rochebin</title>
+    <desc></desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6Ijh2eW03XC9RQUpab0h3Y1wvU1M0bDVPdz09IiwidmFsdWUiOiJ4YUd6VzdXK2NEUDBuT2dHdGJ5bFhmVFJydlVpenZSR0dMWXhDRXVaVGdXZGtiS1lNZHF6MnJXbDJlQ3BrRVROcms2OWJpNlhBVzVLK1dsMlRTeXJYdmhxZk9pUkNKcVE5SnFtRjgxNThYSmdHSHRUYUpPaGJSWkNxV3R0SEMzRCIsIm1hYyI6IjQ1OWQ4YjUwNWQ3ODZhMmFkNmZiNDhjNTkzMjhkNTU4NjQyYzQ5NWI5NDY2NDUxZGM3OGUyMTUyMGZmOGI4MTYifQ%3D%3D&amp;signature=6f421b5e16e14fcec8e758799f35b16de8e40c36c4c0d3b0ddb42496c9955be3</image>
+    <start>07:00PM</start>
+    <finish>09:00PM</finish>
+    <date>05 January 2026</date>
+  </channel>
+  <channel>
+    <name>LCI Fr</name>
+    <id>LCI.fr</id>
+    <title>22H Darius Rochebin</title>
+    <desc></desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6ImJRVzFZSG83OFU0bFUrOFBnd3hPOUE9PSIsInZhbHVlIjoiR0JBeXN0S3lKT1MyWjZMeVEwNkxsd3h5anl2SEIzb3lcL2ViSW5Sb3Q0ZG4wYnVzcTBnYXplNE8rREdBNWRTZWhOeGxNc0NNUlwvUFFjNXRkc0R0RzVwXC84M2h1MFwvd0VhR0JOdWMrNnNWUXZiTkl4c3d2NmxLcWJyQ2dGd0xDblwveiIsIm1hYyI6IjQzY2UzYmNkYTlkNzg0NzkxNzAyMTYxZTg4ODM1ODRkMDI0N2I4MTFhMjJlOTU1MTRmOWI3ZTc5Mzk0NTgxYTEifQ%3D%3D&amp;signature=a8d8a3bfde838265fa04d90f580c8264de1a7e9fddc36cdfc7185b3aa9e318ce</image>
+    <start>09:00PM</start>
+    <finish>11:00PM</finish>
+    <date>05 January 2026</date>
+  </channel>
+  <channel>
+    <name>LCI Fr</name>
+    <id>LCI.fr</id>
+    <title>Le 22H</title>
+    <desc></desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6InhSTEhCWkptY09XXC9MdVpOYjhKUkVBPT0iLCJ2YWx1ZSI6Ikx3OVdPM2tkU0ZkTmJYcWJ5QzBhR00zUFdqTTlzOUw1bDJpZ1ZHRndnSUM2ZlZnVEtmYkI3MzhLYWkwS3JxOHVKWUxyNjZLUGdoTzg2N0dJWDdWNkhhTjI2c1wvZ3B0cDAzQldDMHZPXC9cL2RPeTdHTFdBQVNvYTlJQlBXemlwWklcLyIsIm1hYyI6ImZiZDEzOTQ4NjFlMzM0ZjU3Mzg3OTFiNmZkMWE2ZThmYzVkZGI2NTRmZWJhM2ZiNzU5NGQ2M2E1YWJhMDg0YzkifQ%3D%3D&amp;signature=698865c87e27619eeb737ec6dc1985ae70e3c2d9579d4bf3d12526946fc8ddc8</image>
+    <start>11:00PM</start>
+    <finish>02:30AM</finish>
+    <date>05 January 2026</date>
+  </channel>
+  <channel>
+    <name>LCI Fr</name>
+    <id>LCI.fr</id>
+    <title>Histoires criminelles</title>
+    <desc></desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IjVPaEI5bCtHOTFEMUJrdmdrblpQVUE9PSIsInZhbHVlIjoiY3RPSlZXajJza3FsbG9LbDlnOFwvZDRZN3F5MFpRV0Y5ZkJ2M3lDazJPRVJ1ODZaaDl4akh6R2VGQTlGWUpISjJ3UnF6enZuTDdtS0t5S0Q0M0hpQjViZk5UV0dOVElwbEFCY2R4Ykd0eDNpY242N3UrSWFMZVVyS0lDdDQ0czlLIiwibWFjIjoiNWE4OWU0NTgxOTlmYTYxMTZlZTI5ZjMwYmQ0MDJjNDQ3NTc3NjIwMTNiOWRiZDhkMzQyMjZhZDZlYTM3NzA3NSJ9&amp;signature=48b77600b6fb54dea1477e8134a7362524b6b115e0e26606907c85174fcb058a</image>
+    <start>02:30AM</start>
+    <finish>03:30AM</finish>
+    <date>06 January 2026</date>
+  </channel>
+  <channel>
+    <name>LCI Fr</name>
+    <id>LCI.fr</id>
+    <title>Les grands reportages LCI</title>
+    <desc></desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IkQ4Q3lwbWtvWmJ0K1wvU0dkZmhoc2JnPT0iLCJ2YWx1ZSI6InJOUFExdEEyT2ZyYk1JV1JRT0FxY1NRcTlvRjZnWWFPZ3A2c0dtOWxYc3Ayb29PUTRoamlrYUlaUWxpdFQ0U0hRdkRMWFNiSGJhOHM4XC9Qa3FzZFRSVDl2TmpDQkpLMEtPZHFCYnp3MVJFWTd5bWc3K1cxeE9EWTNuemhYcFJuMSIsIm1hYyI6ImIyZjE3N2M4NzQ0MTczNGU3ZmNjYWMyZjgyMjk1NmMwYjc0MzM2NzZlYjRlOGJkMjAyMDNmYTJkMmRkZmU1NjUifQ%3D%3D&amp;signature=0ad82267dbf8466a5290af069a7b68d5c3ceffbaae1b19cc996142d377033315</image>
+    <start>03:30AM</start>
+    <finish>04:00AM</finish>
+    <date>06 January 2026</date>
+  </channel>
+  <channel>
+    <name>LCI Fr</name>
+    <id>LCI.fr</id>
+    <title>Le 5H Info</title>
+    <desc></desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6Ik9JYmFVTU1KQVwvRWtVZ1N3OVNnNWt3PT0iLCJ2YWx1ZSI6ImdXWnVQUnpseW5jcldSYkpvTGVQK3I5Q1V2YlhVdnBhZmxMMHQ0bU5NN3UwZGV2emE0aG43bUlVaitlb09VTTdlRlR5cmRXVHB4MmtJVW5LZTU0cnlmZnhTSmJKeDlkVXNIR1ZTcDVrTE12MFZXa2xzMGEydTZ1T1h3T1dHQjJnIiwibWFjIjoiNmQyZTE0NGNkMmIyZmM2MzAwOTRiNzI0YzBiNmM5NWJiNTU1YWNhZDg1NmQwYmMzNmZhMjE5NWM3ODQwMGUzNyJ9&amp;signature=0bc889c1c7f79fe9b257b413d71de3d8609c7b97141f3ff2a99502908a0fb4d1</image>
+    <start>04:00AM</start>
+    <finish>04:30AM</finish>
+    <date>06 January 2026</date>
+  </channel>
+  <channel>
+    <name>LCI Fr</name>
+    <id>LCI.fr</id>
+    <title>Le 5H30 Info</title>
+    <desc></desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6Im01QzdHc0ROWStcL2FNWmZEQnRqb1FRPT0iLCJ2YWx1ZSI6IkZjYU9jK3RoYW12RFBsSGFQSUR0UU1NUnF4YmRaellVckJGVmp2UGZHQ3BURHo4XC9qdERXZDVhVWgwNFNBcEdneXB4U1FLT29iNWNibXE3SWp2bGZ5d3BnT1hTRmRJSm54VEE3TTNZcEZCYk5DRWRoN2pVVmlMTDFtZ29FYUNIRCIsIm1hYyI6Ijg0ZjFlMmEzNjNmMmIxZmQwZTZlM2Q4OGM0OTI4MzY0OWY0YTQ0NWUwZWZhNTc1ZGM4ODE4ZDUyMGRhMzBjYzIifQ%3D%3D&amp;signature=141ccf7ccfb3f42e3062121335b1ca761036778bafb59bded272cad763aef7a1</image>
+    <start>04:30AM</start>
+    <finish>05:00AM</finish>
+    <date>06 January 2026</date>
+  </channel>
+  <channel>
+    <name>LCI Fr</name>
+    <id>LCI.fr</id>
+    <title>La matinale LCI</title>
+    <desc></desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6Img0OGRsXC9tUjhYMHBMUGpya1FhVlBRPT0iLCJ2YWx1ZSI6IktqZENLdnpXc3BHWGZwaU9kb2FiQ2l2aklFOUtrY3pYNldZQWdNK0UyVnVDaFNHVWRkejhrUTdlXC9UYUt0b3hlUGowRSs3ekhQTERhVHhkeGNaQWd6VTV0QzY2VG5FcXZCRjF1Z0lDbVMyWFwvTVB6d0dLNUpIaHZKalwveEFaVU41IiwibWFjIjoiOTk1Njg3NDVhMmU1NDFlZjZmMmZiYzc4MWFkNzVhM2U4ZmMxZjcwYjYwZGQ4OWJhY2MzNjJmMjFiYzcwMWQ1NiJ9&amp;signature=94c7973de6f59656c39ba12b4229ccf3559706c75f403b6fd8b254409faa3581</image>
+    <start>05:00AM</start>
+    <finish>08:00AM</finish>
+    <date>06 January 2026</date>
+  </channel>
+  <channel>
+    <name>LCI Fr</name>
+    <id>LCI.fr</id>
+    <title>En toute libert?</title>
+    <desc></desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6InE5Z0FLVUVsSmt2NWFnY3JwXC9ZVXh3PT0iLCJ2YWx1ZSI6IjFtcERRZ1JIaCtFbTJnd2wwbkl3am5DbVFreUx4M3FGOW5MSGZIQk56RkY4Sk8zNysycGdlckFOXC9oQjgyK0l3ZGdBaUdKS1U4MkV3a3R0eHZleTlYcHlcL05iRUhpWHR5aUxldlRqQlBaQ05iTE44YVMyaEJoRjZQMDNMQ2duUVAiLCJtYWMiOiIwZjg5NmEwNzhhMjk2OTMxMzM3NjBjNmZjY2Y3M2E0M2NiMTcwMjA2ODkyOGZkMzgxZmIxODRlMjA1Y2MyNjc0In0%3D&amp;signature=f5904ebac5e1649e57dd9deb78d8fd9b2956b9d3ddced6ff429659567b7564be</image>
+    <start>08:00AM</start>
+    <finish>09:00AM</finish>
+    <date>06 January 2026</date>
+  </channel>
+  <channel>
+    <name>LCI Fr</name>
+    <id>LCI.fr</id>
+    <title>Cartes sur table avec Doukhan</title>
+    <desc></desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6Ik5UMTNjd09UbWNNYVIySU5OczN5SlE9PSIsInZhbHVlIjoiZ1NKaVwvQUpkU2hUQVJNMXJrRnhJcFVQT0ZNMU5tUzNER0pIKzZ1bXdSSW9sTzZLV3JWNHE1cFFremdJWDdVdmhXSDdOYlo5RjJkenRIV0RlRDUyVmZDUmpDT0ZwSlZNelBhMk9YbUw0Vm5PWUNqOGVPK2NnaVNrTCt3QUlvcGlEIiwibWFjIjoiYzJlMmY1MWU5ZTk0M2ZmNWQ2MGRlYTJiZmJmNWE3NTYxNTFlZDkyOTJiNzkzYTgyM2ExZDFmZTQzNjdjYjdkMiJ9&amp;signature=684c077cb48691f59a28a8464d034c85e994a8e2f105d8ea0486f1a2528c4b1a</image>
+    <start>09:00AM</start>
+    <finish>11:00AM</finish>
+    <date>06 January 2026</date>
+  </channel>
+  <channel>
+    <name>LCI Fr</name>
+    <id>LCI.fr</id>
+    <title>Brunet sans filtre</title>
+    <desc></desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IjZkdUk0TjlCZFVPdERRK0ZuSGNRK2c9PSIsInZhbHVlIjoiZlRicDlwcGNtbisyTVhqSnB5QUE4Y00wZ3dNYU1mRVZxNDBscUtHOCt5ZSsyQzJVYlAxZzdiM3FBVXFtMks0dkwxZGFGaGNSZ3FER1NyQWFYNG81MnJmNzcwNSt4ajY2NDc0cTFPTlwvXC9oMVdpNXdLQUdiV2VGRkx1ZlNRemZLNiIsIm1hYyI6ImY1Nzk5OTI0MmRjNWE2ODE2ZGM2NzIxNTdjM2VkMTAyMDg1NDI5ZGQ3NjViZjkxYmY3MDFlMDg3MTZiNmNiM2UifQ%3D%3D&amp;signature=3c00534ad83c89b8097df9307be1a63dcc6e6185e46917dd664f48d9d863b058</image>
+    <start>11:00AM</start>
+    <finish>01:30PM</finish>
+    <date>06 January 2026</date>
+  </channel>
+  <channel>
+    <name>LCI Fr</name>
+    <id>LCI.fr</id>
+    <title>LCI Direct</title>
+    <desc></desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6Imo2eXZob2tqS3UzYVVmdnd1ZEI3K2c9PSIsInZhbHVlIjoiT0JhTjl2VXdOdEhkSHcyc1pncHQzVER0UStKazRZMzAwcmFvMjFwbXM1S1wvdEJOeWRtSlRhUjNVT2hZdERxeXlXaHdlRFQxUkxtbDlEXC9ZS0tIMUI1K2FsTWlheTVWUFUrbTNDWHdVbUt2dFVpRGRBWXhVSW96N05SclBVY1VkbCIsIm1hYyI6ImVlMTFkMTgxMDU1YmU0MmYzOTI0OWQ0YTE3YjUwYWM3ZTdiODg2YWNlZDU5OTUzNTM5NzFjMzcwMjAxYmEzYTMifQ%3D%3D&amp;signature=d0831206da4d168a4b09847f5517d5d002eb357894168b4bcda9c0babb0ecea0</image>
+    <start>01:30PM</start>
+    <finish>04:00PM</finish>
+    <date>06 January 2026</date>
+  </channel>
+  <channel>
+    <name>LCI Fr</name>
+    <id>LCI.fr</id>
+    <title>Le grand dossier</title>
+    <desc></desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IjdzaXVYKzczbDRxNStSQkhTXC9MdWNBPT0iLCJ2YWx1ZSI6Inh6czJscEJJTWdMZzVIZGxuSVRpSzJPRmczc05LdTdoMkVTYVU3M3ZoWVBiaVhxUDR5TlQ2TFA5cDE5MU83YXhFWUQ5TFI4dVU3NkUxZTdcLzFFaG83UVdSd21CZFBcL1ZmWHVFemd4VTRZTnAzWThJaEVrMUxobnlHeWhrMTJDVEciLCJtYWMiOiJkOTI4MGNhMTgyYjAwOTI1NjkwZmRjNWY1M2M2ZTcxZjk2M2FjZjg2ZGE0YTM0OTBkOWMyZjBiYjg2ODJhMzQyIn0%3D&amp;signature=390eb8cdee2139bb364d332395ff2adf76d44935bdb90e7a60eea4c8edef378d</image>
+    <start>04:00PM</start>
+    <finish>05:00PM</finish>
+    <date>06 January 2026</date>
+  </channel>
+  <channel>
+    <name>LCI Fr</name>
+    <id>LCI.fr</id>
+    <title>24 Heures Pujadas</title>
+    <desc></desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6InVsVTVyNCttd0FxNVQrSnZKNjdhaGc9PSIsInZhbHVlIjoienJJamZSc1d0cmhLS0ttejdNMElqRTZZUE00eE9yN1Zrb3YyazUyK3JBNzBXVG5FOEpLRnVwVHByQnVSNXM0RHA3WitQb3dxWml5eDFpUFVESUxEa2RnRnlKbzFaOWhhaTNNY3VCNUx4ZjhiWWo2K05XNnAyZGJXVzdkWmUrWWciLCJtYWMiOiIyYzBiNzBlYjhmMTFjMjE5YWZmZGQwNGZiZWJkYzE5NzllYjE0ODI1NmEwYWE5YjE1NGI1YmIxOTZhMGQwZTU5In0%3D&amp;signature=76d518f0664208a6766d3a5beb2c21a11c68c57a95371155cad00db1b2141ed5</image>
+    <start>05:00PM</start>
+    <finish>07:00PM</finish>
+    <date>06 January 2026</date>
+  </channel>
+  <channel>
+    <name>LCI Fr</name>
+    <id>LCI.fr</id>
+    <title>Face ? Darius Rochebin</title>
+    <desc></desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6ImtUR2RQNjdTUnFudDFoeWVqWENyd1E9PSIsInZhbHVlIjoiXC9SUGlESGRJd0FtSVZxQys4YmdsdUlyM1VETDVYNGZVbWVmcjJcL2o1bmxWVWdYRDRUS0lBUnlTK2YwM1J4RGlYNlM4NExrWTU5NHJpUmVyS0lQUEpIVE1cL0p6alZKS1VWRzBzbkxJSUl0UGU2c25TNndqYUtwZnVoRTRDZm52cHEiLCJtYWMiOiIwNWQxOWJhODM3ODRjODEzMjRlN2QzNzllM2NhOGVhOThjMTZmZGQ4MzhkYWQxM2Y1YWIwMjJmYWE5YzE4ZDgzIn0%3D&amp;signature=e14029ebdbdcb8d59c6eca8bcd783a33cd6d1e3d14266c94bae1e558f9f0bca2</image>
+    <start>07:00PM</start>
+    <finish>09:00PM</finish>
+    <date>06 January 2026</date>
+  </channel>
+  <channel>
+    <name>LCI Fr</name>
+    <id>LCI.fr</id>
+    <title>22H Darius Rochebin</title>
+    <desc></desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IlwvaTkyRlR6SHB3OGF5TFwvWDFYbHFGdz09IiwidmFsdWUiOiJ5XC9MY1pTTFVwZWgxanl0QXU0MlE1Z0FINDgrSm4zU3MzMlZKWUtiZzd6Z1NOMGljYkM3TFJVV1JSazVxVWhtcWtqcEpKRWtMaFwvdGptV29RRFRcL1U2RE1pYlJOYnQ5UGZadUJlUTVPRjhEOTRXejNBRythdGdJMXJmRlNMOEtKQyIsIm1hYyI6IjBkYTg5ZjVmZjMxZjEzYjQxNzQzMjMyNGQwZWY2YjBjZTZmMTgyNzJlOTFmODAyZjk0NjZjMjI3NzZlMDZhNzcifQ%3D%3D&amp;signature=7b4fba62e45ab0c17878e6a6db6491bd35c8e042d748f33685609097a2ef69aa</image>
+    <start>09:00PM</start>
+    <finish>11:00PM</finish>
+    <date>06 January 2026</date>
+  </channel>
+  <channel>
+    <name>LCI Fr</name>
+    <id>LCI.fr</id>
+    <title>Le 22H</title>
+    <desc></desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IllUTTJlWGJjWU5lYVdPQWJJQlhaVHc9PSIsInZhbHVlIjoieXgweTFXclNISzZHM2VmdFFaU3kxNmNCRnhqazlMaHdMXC84ZkNlYURjek9FbUlNUElZcnJrd1QwTnNYVkZ6R3JLUnA1ekl3dFBCblVzc1IwTjk1YmxqWkFhbmNsNCtFWjBQM3krVjZCcmREU1h0a0FNaWVScHVqU0Q0ajZGMTU4IiwibWFjIjoiYTk4NzA3MTMwYWE5NDRmOWQyMTFmNTE5OWNhMjUxNTRlZjkwMmZiN2NlMDFkYWE2OGQ2MjFlNmQ1MGFhMjFmYiJ9&amp;signature=5be22b7df6dda05706f30879914bd1769c5d4b587aaa5e5971cd805bff6a7bfb</image>
+    <start>11:00PM</start>
+    <finish>02:30AM</finish>
+    <date>06 January 2026</date>
+  </channel>
+  <channel>
+    <name>LCI Fr</name>
+    <id>LCI.fr</id>
+    <title>Histoires criminelles</title>
+    <desc></desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6Ik5nZXBHSGFhR2RiVmxRQXNselwvUUxBPT0iLCJ2YWx1ZSI6Im1aVTEwSkZTZktCaUFDbzNXSmw5bFwvWGtyeG1aUUZhUFVVampoc1FCNzJQeHFJTzMrbXM1cTc5VzRrRlpuVm5qMlNpSFB4VnY2UlFjRWVzakpcLytaa1BlUG1lNTlWZTFDdWZwUjNmZnoyMW9FWWU2UjlEUGE3UlppUkRmRmxNUUkiLCJtYWMiOiJiMjk3ZGNhMGYyYjk1NzRjYTc5MzcxZGNiNDM0MTE5Y2Q3MzY1NTBjZTkyMDBmMWI2ZWNjYTA4NmI4YTE0MWVkIn0%3D&amp;signature=774ca9e5d6c0e2b524a8b74e10b5134f59e3b8e0f24122d2a20eaf197b741809</image>
+    <start>02:30AM</start>
+    <finish>03:30AM</finish>
+    <date>07 January 2026</date>
+  </channel>
+  <channel>
+    <name>LCI Fr</name>
+    <id>LCI.fr</id>
+    <title>Les grands reportages LCI</title>
+    <desc></desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6InR4RTNVb3lXeGN4WUNRalhYNFo2dEE9PSIsInZhbHVlIjoiU3lpbTRqb1d2dkZvNXkxNmtkWjNMd2ZBdEVWdGRId01CbWlXZml1WjZQNlZZSmZyanZWVVdkeStLS3E1bUhQaEJwV1d1cUFYY2JTM0JGVGJSWk9RbXlERGJCa2JzQ1VpMG9JWnNQajgyZVN0VVpNdjl3OFhnUUVTSlZONXNaZVIiLCJtYWMiOiJiNzFkOWFjNTVjYmMyMTY4NjBkY2YxNmQwMWVhM2Q1MzI0NGYwNzAzOWZmNmEyYWVlMmM1OWQwNjgwOTU3NDU1In0%3D&amp;signature=ee9df564a7f2dcfff2a8f960eb3a103ad86aefd1dae248d287c1f194095bbf76</image>
+    <start>03:30AM</start>
+    <finish>04:00AM</finish>
+    <date>07 January 2026</date>
+  </channel>
+  <channel>
+    <name>LCI Fr</name>
+    <id>LCI.fr</id>
+    <title>Le 5H Info</title>
+    <desc></desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6Im85VmxaVVpUSFBSYnBpRmM3XC9vbjJnPT0iLCJ2YWx1ZSI6Ik5XV2dZbWpLd2VsUDVFNTBtRVIydjhTdnJDeVB4YmZhWVVvNktUQU5BOWg3REUrV3BFQkVMMDVwbElSV3E2ZmFWRDJtRHFXaXRTb0RYWktqMmVicU9xNEx4Q2ZOZzZCXC9mTnRZT09yV1ByencxRm1YVHQ4ZHNOTGo5ZE1zWUN5diIsIm1hYyI6IjhkYmMxNmZhOGFkZmM0ZjVmM2M1ZDA1NDczZWUzNWUzMGZiN2I2YjQzOWI1NWYxYzRmMWE5MjQyOWRiMWUyMzMifQ%3D%3D&amp;signature=a729062bf3ebaa62df02bca0229d3b2e02e44bac1b76c09bb6bbe9968270c6aa</image>
+    <start>04:00AM</start>
+    <finish>04:30AM</finish>
+    <date>07 January 2026</date>
+  </channel>
+  <channel>
+    <name>LCI Fr</name>
+    <id>LCI.fr</id>
+    <title>Le 5H30 Info</title>
+    <desc></desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6Imh5XC93RWNHMnFOaHZkY05FellRdVBRPT0iLCJ2YWx1ZSI6ImFVekZRQVwvVVJTR3JiRjBDQTh2ajFKT2NOUUwrbHIwcnpuNzRPWWg3Z0pCcm9UeVNIbkFhSGJwbEJhNDZveDBtNGhKY1ZPanVudWsyMjk5XC9mbXI0K2E2ekM2eHJXMnNmazZsSkV3aE1CMkkwcWx4XC9JS3Y5Y0lVVzdxMnVZbE1nIiwibWFjIjoiYzZlZmE1ZDAzODgzNDI4MWM1YThmMjJjMTU1NTBlODQxZmZkY2NkNzEyY2UzYzkxZGRlMzAzN2FkYzY0MWRkMyJ9&amp;signature=514c842ede1813df1f7e6846822d7c28610cf65360b6091a788aee9877e3b9f8</image>
+    <start>04:30AM</start>
+    <finish>05:00AM</finish>
+    <date>07 January 2026</date>
+  </channel>
+  <channel>
+    <name>LCI Fr</name>
+    <id>LCI.fr</id>
+    <title>La matinale LCI</title>
+    <desc></desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6Imd0UEFscXFyejRxVGE4aGxndzJnalE9PSIsInZhbHVlIjoiUU1HWkhGVndVRVlDY0tPb0Z4RXRLNFRDcFpTVnp6bFdKTjFhMFwvWmNzRDY3amxRT01welJvc3BOMDVRcVRuNEl6Qnl5NHlVcU9XR2hZWkU0YUttemNGcll1d0VXcEdcL2Z0SHpkbmlwejVcL3hJc1J1YVwvREF0aDl1aHoxdTFlT0o2IiwibWFjIjoiMGYwYTc4MWNiMGU0MDFlNmNjYzQ2ZDY2Y2JiY2EzOWZjZWU5NzJlYjhkNGFlN2Q2MDQ5NTYwNTkyNzBlOGMwYiJ9&amp;signature=cbfeabe330db637c9f9e2dfbe7a5772af84ba99776025a6c150a9ffab17760f1</image>
+    <start>05:00AM</start>
+    <finish>08:00AM</finish>
+    <date>07 January 2026</date>
+  </channel>
+  <channel>
+    <name>LCI Fr</name>
+    <id>LCI.fr</id>
+    <title>En toute libert?</title>
+    <desc></desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6Im5kN0o2TTdGeTVJTk9KQWhxOERmdVE9PSIsInZhbHVlIjoiY0JYR0JwRkczYzVwVmFyVlVYclwvTFFKOUVnNVZDTXpLbUk2cmhKVU9hWWhlSk4yYXcxcGk1bzZXdzF5RFJONWUxS0Z1ZXIzRkh1SU41bTRTOGpqcFAxdVYyXC85UTNOeW5FT25CMklNQkowN1puUnE5WitBM2ZSTmpZN0NIMmNneSIsIm1hYyI6IjJiZjQ5Y2NkNTk3OGU2YjI3MWEyMmM4NjAzYjRjYzA0M2I4NWY3YTI3YmMzMTI5ZDEyMmNmYmExNTA4ZWQxMTYifQ%3D%3D&amp;signature=53ef1d469f2243ba662466f3e1182650a298ed9747d39372c74fb96ff2d5775f</image>
+    <start>08:00AM</start>
+    <finish>09:00AM</finish>
+    <date>07 January 2026</date>
+  </channel>
+  <channel>
+    <name>LCI Fr</name>
+    <id>LCI.fr</id>
+    <title>Cartes sur table avec Doukhan</title>
+    <desc></desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6ImVkK1R1aTV3cHZPRGVwRjNCYUlWV1E9PSIsInZhbHVlIjoiNTkrdnJqSkQrVHJaVEFyb2daNG1aeWU2YUZRSWE1bDdSOGxMZjBkWXpTa2JZajJPUXIrXC9vaFlpREtPSmxtSTJNWHcxZG1XOEtJb1RFYWNyZms3ektvUW1KOHBCQ3pPdUZcL0xtWlk2QndBYU9DR21hSU9vTmduOGk3WW5lbHV6dyIsIm1hYyI6ImFhMjhmOGMyOTgyOTIxZjcxMjgwYjllYmRhYWM5Y2UyOGNkNzc1YTExNzRlNjQwNTkyNTJiODI4MTc2YmQyMmIifQ%3D%3D&amp;signature=4262dad8a7974d358daf7d32ffbdf783a040fbd1d0efdace6da04cfc79b4efcf</image>
+    <start>09:00AM</start>
+    <finish>11:00AM</finish>
+    <date>07 January 2026</date>
+  </channel>
+  <channel>
+    <name>LCI Fr</name>
+    <id>LCI.fr</id>
+    <title>Brunet sans filtre</title>
+    <desc></desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6InRSRFFcL0xNZEs4dkxCMHRycEhMM1hBPT0iLCJ2YWx1ZSI6ImR6Vk1FQ3pKMW5SMDMxcm5EaW00aUErNnlTUGFCaytvS1l1dDhhN2tJMHg1TWU1bzREbkduRmxEeXRRTDZvN3B6VVwvUmFYSHJ1Zjlsb3dQeGZmMzVJS29vUDhiNDVwbDNFSjd2WXc5Vk5jK2JLQTZMWXhGajZJeERubjFFd2tvdiIsIm1hYyI6IjI0YjUxMGIyNTU2MTBiYzgzOGJiNWEyYTkxZjQzNGRiOTViNmI0NzMxZjkyMmEyMzk1MTNjYzAzMTc3ZTE4MTEifQ%3D%3D&amp;signature=3d713ca639c9312e31f2c90aeaa6f397a807f1927f884b97dfcfba08510aee6a</image>
+    <start>11:00AM</start>
+    <finish>01:30PM</finish>
+    <date>07 January 2026</date>
+  </channel>
+  <channel>
+    <name>LCI Fr</name>
+    <id>LCI.fr</id>
+    <title>LCI Direct</title>
+    <desc></desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6ImVtZmNmeWxzWVQrOGVTZXBGaUk0Mnc9PSIsInZhbHVlIjoiWklFVGpDVTI3bXZRT3hOcUxiMVdOUm5KaFdSbDcrN3JpdExQRXBcL1pBYlc3VjFzdUd3TkkxYVh0dEszZWNxUmpla01JS2RHazNaMm1kcTJJcndheHRtb3ZLd041eFp5RUNsV09UUTNBcWo1SnI1cWRRNTZTWUdEVGdvY0UyTFdDIiwibWFjIjoiZGRkYTFiMmM0OTkyYjAwYjIxYzlhY2Y2ZDVjMTY3NDNiMWM4NjExMmFmYjQ2ZWMyNWM3MDM4MTFhODY1MTAwMiJ9&amp;signature=c41e6f5ec31c24c634b85b85a7397ad2b8a6f2f448e372a22a8cca4e23b76bbf</image>
+    <start>01:30PM</start>
+    <finish>04:00PM</finish>
+    <date>07 January 2026</date>
+  </channel>
+  <channel>
+    <name>LCI Fr</name>
+    <id>LCI.fr</id>
+    <title>Le grand dossier</title>
+    <desc></desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IlBCaDhvTldkeStyd1NGY3ZYTVQ4QkE9PSIsInZhbHVlIjoiNTQ0NGpyc3ZXRk5WUjlWMVdOakc3WCttdHMxd1lSMWpLTXhKSWhkNzZpcGNzMWRQWEV1TXJJcDlYY3drYXNRK1BHaHdGSDY0YmZOQUVGKzYyNWFaQnVCVncrNUsyOW80VUMyeFFBWDZkXC9hRkN6YXhZeXFVQVdWUEpEaUIwemdcLyIsIm1hYyI6Ijk5OTAxNDNhNzU4ZWI3ZDVhNmZlYzQyZGNiZmExMzJiYjYxMjA0YWFhODJmZTdiNzBlYjg3MTE1MGNjOWY4NmQifQ%3D%3D&amp;signature=f697bbbb6a24b43e5cb0fabe26c4c38f2525b04043e3f707c296eeda01e537ef</image>
+    <start>04:00PM</start>
+    <finish>05:00PM</finish>
+    <date>07 January 2026</date>
+  </channel>
+  <channel>
+    <name>LCI Fr</name>
+    <id>LCI.fr</id>
+    <title>24 Heures Pujadas</title>
+    <desc></desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IldRMzFwM1ZzTHVkSUl3U2xPcXNSdGc9PSIsInZhbHVlIjoiQndNOWlKSEdBekZKMGs2alVtdWd4TXF5RVN3TkN2RWtPSmU4QzZzeW1QWE1pdEY4bEx2YzRneVNoekZvTnJKMVRcL1IxYWxxWEhsdXNmeWp3ekF5b1lSa3dCZWljZ2tXVFMzZjF3SlwvbW5MUW1LQ3VBN3BDREhLKzdcL0s1MGFVTmQiLCJtYWMiOiJjZjBhMTY1MzBmMzEyMzc5M2VkZDI3ODEwZGE0NmMzYzU0ZDU4OWE4ZDJjOTc3NDQ4OTBhNjQ3YWRjYzY3NjUxIn0%3D&amp;signature=68c614081eefd42b27bc879afbe974fad1f9befb66964b39f4dc205f21a23b22</image>
+    <start>05:00PM</start>
+    <finish>07:00PM</finish>
+    <date>07 January 2026</date>
+  </channel>
+  <channel>
+    <name>LCI Fr</name>
+    <id>LCI.fr</id>
+    <title>Face ? Darius Rochebin</title>
+    <desc></desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6InY1ZUduWDVwMWk5ZnBEWCs0WlNRNWc9PSIsInZhbHVlIjoiMUlxS2p4dUlaRXRzVGs4M1ZSVG1obHZPZ0QrR1BmcUIzazV1cHB4amlDV3V0YlRlQWRjWnRLQkZvdWR3amRMSHBYMkw5cDkxbzZYd0JFbEJoRE1ZdEx2SUI4R0FuTFFEbmUrbHhaRnJWOVlpUFowc3h2bVVvd013YllXRHhFbEUiLCJtYWMiOiJhN2JiNjIwZTQ2NTJlZDg0ZTlkY2NiYmYyZDNhYWE0OTEwNjcxNTBmOWI5YTFjYWJkYjNkNDgzY2VhM2ZlMmY3In0%3D&amp;signature=657b2823f01cf600fc6fac803c5fd41bc7942a428a7e9d56f119e84d56d080ed</image>
+    <start>07:00PM</start>
+    <finish>09:00PM</finish>
+    <date>07 January 2026</date>
+  </channel>
+  <channel>
+    <name>LCI Fr</name>
+    <id>LCI.fr</id>
+    <title>22H Darius Rochebin</title>
+    <desc></desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6ImgrY0IrV1wvZDA5VmZzMlFZRDQxOURnPT0iLCJ2YWx1ZSI6IkszRE5Ld3B4Rk1kVFB2OTI5MmZ5NlltSmh0Y2lGXC9RWndhTXU2RExDYzNnc3pEUndzWFpPM0hBK1NwSHRDb0tTNWgyMitoNjl6VnhrdkV6OEp5bUpsTEZsV1JuY0JCallzUTQ4NXduUksyc2QxM2tzdVgrcjNxYmlGSjlYcGZUUyIsIm1hYyI6IjBjMjExOTFlYmU2YmM4Y2ExNDI0MDU4N2E5NTM3YWQwZDgyMWIyNmFhY2RmM2RiMGYxYTM0YWMwOTI1ODBmMmIifQ%3D%3D&amp;signature=23df9cd49f28a82abd5d16a21270532830396a449b1c26c739eff6d9f1363ef8</image>
+    <start>09:00PM</start>
+    <finish>11:00PM</finish>
+    <date>07 January 2026</date>
+  </channel>
+  <channel>
+    <name>LCI Fr</name>
+    <id>LCI.fr</id>
+    <title>Le 22H</title>
+    <desc></desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6ImZzZTdoVFY4ZmlTZm5TMXNTK1orU3c9PSIsInZhbHVlIjoiRDBjWUEwMFQyTFNWQTRhYndKcEFwRGhVM2tVMnBKSzFnS2RtR1JIelwvM2xwNmFHQmVOTWNmYTVGdEkxZ3J1NDRKdFY1MVpJWWhWQTRUY3FldDBTUWNOVk15dGxBakpjMEd6azRyc3A4S1NOVVljS1lFaUc5R21xME8xYzRWSXpBIiwibWFjIjoiOTY1ZTJhMmZkYTE0MGNjMjA4ZGM2Njk1YjQ0N2Q2NWFkYmVjODM0YzI1ODVkZWExN2ZmYjQwYmJiYzY5Zjk4NiJ9&amp;signature=9e4b15ec078d37b7c4709b720f2b2adff8e7e70eca2f4695fd9abf275af70028</image>
+    <start>11:00PM</start>
+    <finish>02:30AM</finish>
+    <date>07 January 2026</date>
+  </channel>
+  <channel>
+    <name>LCI Fr</name>
+    <id>LCI.fr</id>
+    <title>Histoires criminelles</title>
+    <desc></desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6InVaTFQwMGFoU05yOG5FanlmbGlTNWc9PSIsInZhbHVlIjoiMUVnaXpNU09QRTBZRDk0emY3NytyUWZrRmpRbUhQN21RdnBLeXRlY21oNldEK05CcVl6M01zQnRYOGV6NGNKbkg4STgwTDJ6TFRLXC84bkxiclB4WTlvamI2YXVTamxQSjV6MHVcL0tkQWJUZTZOOWtmbVFqUFkwWjR6Y0RVVDNFWSIsIm1hYyI6IjhhZTM2YTlkYzI0OGUzNGM2ZjdhMzYwYTRmYzY4ZDdlNTQ0YWQ1ZTBkMTQ2NWIwOGQ2ZDY5Y2IwOTkxMWIyM2MifQ%3D%3D&amp;signature=f1f962ea4e139225ebb52cc4d66c88278079ea3cd75dd47124dbf04752bc86b3</image>
+    <start>02:30AM</start>
+    <finish>03:30AM</finish>
+    <date>08 January 2026</date>
+  </channel>
+  <channel>
+    <name>LCI Fr</name>
+    <id>LCI.fr</id>
+    <title>Les grands reportages LCI</title>
+    <desc></desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IlV3Q3E5Y3htXC95M1NXUHlnN0lKcWNBPT0iLCJ2YWx1ZSI6Im9RZUUzeTNhQzFvTEg3OFpKcGxlKzZNUFVObU8wbnZweExtY0dYaHdBS2paUkkrTERLNzdFMldlZXk1NUdoMDRrTEVzNUFuT3VvY3VBYm8xa0xFQ0NNVFlKZ1FLM21CTU83Tk1pbllwdktKaDhxNnFwWTNOY2FqT0dxYjRwSVd2IiwibWFjIjoiNWU1MGVmZDIxNzE4MWI3ODUzZTMzNmRmYzUzZTFmOTA3NTgwYjAzN2ZlMTI5ODhkNjU0YzJmZDNiOTk3MWQ5MSJ9&amp;signature=fa602a845eef50713a2f5c1b334d2508b4f06807991f80e17bebdd87f0fdbc50</image>
+    <start>03:30AM</start>
+    <finish>04:00AM</finish>
+    <date>08 January 2026</date>
+  </channel>
+  <channel>
+    <name>LCI Fr</name>
+    <id>LCI.fr</id>
+    <title>Le 5H Info</title>
+    <desc></desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6ImgrbUQyWVBIdVwvdnpDWkl1aDU5ZWFBPT0iLCJ2YWx1ZSI6IkRyRnkzMVdaVENqOVNmWEozbWUwZktzWDEzRzAxY1NcL1hyRHdha1JXcnM1Z0FjcG9ucTd2UUxteW1HUGNvZkFRYnJwcEp0TmNhQnppVVNVd1FnSk0rbG9GalZxK0hrQzh0YUMxdWEwa2UyNzJmWDVwSXYrNSt6WDlkeUxHSWJiXC8iLCJtYWMiOiJkOWRjN2IzOWRmNjliODRlY2ZlOTJkZTkxYjQwMDdkMzA2MDg4ZTA5Yjg5YTA3NDZhM2JmYzQ5OGYyOTA1ZGUwIn0%3D&amp;signature=8f6a913eb10f4590426c84b7dc1b3f239b4e017fb554c2fdffa42305d1407a3e</image>
+    <start>04:00AM</start>
+    <finish>04:30AM</finish>
+    <date>08 January 2026</date>
+  </channel>
+  <channel>
+    <name>LCI Fr</name>
+    <id>LCI.fr</id>
+    <title>Le 5H30 Info</title>
+    <desc></desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IjBGXC9qMFwvVjlRU0p6eUowa0U4SkR2QT09IiwidmFsdWUiOiJjMzVhbXdZd0xYdVwvRkxGMXZyYnBRNDlvYmZHODhYcXVjZmd4R3IyZkVOWUlsajUwUHpTM0Z6ZkNFaFdiN1FYRDlhaUwyMG1Ga1pDdVwvOFJpeSs5dW1QVXBLTmRvdnlvUWhcL0lPR2dwMHNvYnNNMHlDRzZZUVFnT3ptZnE2dUt3MyIsIm1hYyI6IjEzNzUxYWE4OWYwNWQ0OGEyZmM5ZDNkYWRmNTFkNjc1NDU5NzYwMDRlZjk0NDA2Zjk0ODdjOTNmYmY0YmMwN2EifQ%3D%3D&amp;signature=f7883d5f5f41999f0ffac9eea5df7b338b7a2b516084e4781d2afd25e14b1337</image>
+    <start>04:30AM</start>
+    <finish>05:00AM</finish>
+    <date>08 January 2026</date>
+  </channel>
+  <channel>
+    <name>LCI Fr</name>
+    <id>LCI.fr</id>
+    <title>La matinale LCI</title>
+    <desc></desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IkVxSnFVQ3FyWjQ0SUdNQkZTZk5ZXC9BPT0iLCJ2YWx1ZSI6IkJJNGY4bHB4eW9QVVgwZXZHcVV5V2U3OHloMWhEME10ZmNRRzRLeHhBdmlIYmI3T0Z3RTFqdXNwYzY1MkFlK2N2NFVsVGxsSFVCRUc5SE15MmxIdE9EeEJIU0lHVVBpbkpIdzJhek1PQkhkMXlXZjJXZEJtZmRySHBuTE9IM2s0IiwibWFjIjoiMWRiOThhM2IyOTkzNmI0ZmE0NTljNzA2ODFlYTA4OGRiZjFlZGZlZGQ3MzlkM2FjMGZhZGJkNTIyZDU4Njg4MyJ9&amp;signature=82424bf18df487b345bbe7bafbd70be6dfa91325d3577878ebb8ef19fd3193c1</image>
+    <start>05:00AM</start>
+    <finish>08:00AM</finish>
+    <date>08 January 2026</date>
+  </channel>
+  <channel>
+    <name>LCI Fr</name>
+    <id>LCI.fr</id>
+    <title>En toute libert?</title>
+    <desc></desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6Ink5eDlvcmRQcW5QNU9yWkZ2WXQzcUE9PSIsInZhbHVlIjoiQlB2bjVJcnEwS3dyVjNuemp4b3FcL3E3Q1BSTnFQXC9acTN0YnJxYTRxRXEwQndDUXV4ekkzaldPUEl3OThyVFZPWFUxMVwvNldZZWFjZjZVNG9WQlErRTdrdEM4ekY3SlVIbHVOejlzQW82bFFaS3FpS1YybTJvZEh1b3doMVRTakIiLCJtYWMiOiIxNjNkMmI3ZmZhNmE0MzgwMWIzY2RhNDk5ZTA5M2I5OTczOGRkNzVlZmViZDVhNDAwZTYxODVhNWUwMTE5NGI0In0%3D&amp;signature=653e435cf4c5041f7f701d2ef7db4efd628c3b405e98466d829bd6d110a93b03</image>
+    <start>08:00AM</start>
+    <finish>09:00AM</finish>
+    <date>08 January 2026</date>
+  </channel>
+  <channel>
+    <name>LCI Fr</name>
+    <id>LCI.fr</id>
+    <title>Cartes sur table avec Doukhan</title>
+    <desc></desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IjErOVQ5U1FmdGVlT21OUXRuc3JRM0E9PSIsInZhbHVlIjoiSkUyYUh6SE5wUnNEOVBvZGtJVTRPelN1UjlwWFM2YXdocHNDVis1Mm9kVmJsSFpHaFEraVpzdGhWQjNnNnN0K09OejNJTU9DMkVNcGhNNDRRRlpxYVlqanNDVVZ1eXBkYUxFV1NBWmo1XC9ucDJNWHJiQ1M5RGdCckdhNGhtMTFNIiwibWFjIjoiMjM3MjA3OGU3YzNjYzE5NDg0YTRkYmNjNWJlOTBlZWRhZTdiM2JiNjA5NWM3M2Q1ZjQyZGZlOTViYjNjYjdjOSJ9&amp;signature=343e94c67ce493590e8905eab840821b327e846b870ad66b08dc01d5e066cac8</image>
+    <start>09:00AM</start>
+    <finish>11:00AM</finish>
+    <date>08 January 2026</date>
+  </channel>
+  <channel>
+    <name>LCI Fr</name>
+    <id>LCI.fr</id>
+    <title>Brunet sans filtre</title>
+    <desc></desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6InhjQlN0aXhVdlRJejlNdk9YME1uZEE9PSIsInZhbHVlIjoiWGFUU2lGb202dlkyXC9SRzRURlwvaU9ldmRhVXZvVkhkTU12d1orWFM1QTJWXC85ZGJmWlV0aHhnRzM2SW9Ma0NvK2FDNmpwRThvbDNqZDFDaEVXXC9jYko5dUY3WHUrbnJZUENYdjM4ajZGcXhISlpzMFpZcnZcL3JZV1BvemFHUzUxRCIsIm1hYyI6IjYxMTAzMjg3YjE4YmM1NWJiZjRmYmU3YzQ4YTNkZmU3OWRkMDc2YWEzYTVhMDhjZGY2YzQyMDc1ZjRlOTI5YWMifQ%3D%3D&amp;signature=7f106a2a46b52541c4ff2c22b8a6df8c7b969707ca5763de42ebbff7ddf8a348</image>
+    <start>11:00AM</start>
+    <finish>01:30PM</finish>
+    <date>08 January 2026</date>
+  </channel>
+  <channel>
+    <name>LCI Fr</name>
+    <id>LCI.fr</id>
+    <title>LCI Direct</title>
+    <desc></desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6InRQOUFHTG16cHRKaElnMWI0ZXkwelE9PSIsInZhbHVlIjoiZVwvd2FoaTBTeDZ4Uis4XC9cL0JSZDBGMlwvOHNFTlBtdkpVYXNMSXpwNis0a0pWV0JxYUQ3VFgxb0czVDdwdFwvcWFFTko2RXF3bnhBK3lNMU9KZ1o1TzdXN3ZtM0tFT2FhK1RDcTArS0tORW9jcFhcL0ZsdHB1b3JSZ2E0RzdoVDlHQmYiLCJtYWMiOiJiNTQ2NTJlY2M3MDE5Yzc5YjczNjcyODU4Yzk1ZmNmNzU5NTA4NzgwYWNjMWQ3ZjIzOTFlZmVjMDdjY2FlZDYxIn0%3D&amp;signature=2d196a560153eef765f3884bea40b009a12333e26f9ca143e66ff0adb64a576f</image>
+    <start>01:30PM</start>
+    <finish>04:00PM</finish>
+    <date>08 January 2026</date>
+  </channel>
+  <channel>
+    <name>LCI Fr</name>
+    <id>LCI.fr</id>
+    <title>Le grand dossier</title>
+    <desc></desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IlVUakFrM1hpU2UwMTJwT3lQWFlUbHc9PSIsInZhbHVlIjoiUE9OUXdINWVjUUVIUHd0UnVUR0d5VTZ0Z3Q2VG1Nb1VYRzBwYXprYlwvbXZpSkxaUmpOaFVnMEZSa2h1THdvcDIxZENmWGZtcWdUcnozM0FIK0t2cjFGU2k0OHJ5UXBZbDFjd1lGd295NGl0M01kSGpBRW1IVmNOZEVcL2hManRRNSIsIm1hYyI6ImIwMGUwNWQzOTk1YWI3N2MzMTNmMWEyNGQ3NmE5Yzc5MmRkZTNhMjhkY2RiZmJmYTg4MmM3YzVlZjdhM2YyNDQifQ%3D%3D&amp;signature=2960971c79beb55fca19373fb94219fca54156c37d4a331adb34ff138a42d524</image>
+    <start>04:00PM</start>
+    <finish>05:00PM</finish>
+    <date>08 January 2026</date>
+  </channel>
+  <channel>
+    <name>LCI Fr</name>
+    <id>LCI.fr</id>
+    <title>24 Heures Pujadas</title>
+    <desc></desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6Im80ckJ1YXVibWFicjVSRVwvSzRUczN3PT0iLCJ2YWx1ZSI6ImhGTE5UMFRzdElHdWZLMUtxdHNva1RmTFVZRGU3dk9MMk90QjhWcXkzMWp0S2NHd3ZcL3QzVU5nMjRBb2ZpdXg2SkJ0c3FUc0Z3YVBUR3VDZnNBSzNETTk4Tm9tU3lSZnpcLzZrMnExQXFSQ3daZUF4RjVkK2IzWWxZVWpZVWhXYlIiLCJtYWMiOiJlMjBiZjBiOWNmYTFjMTQ1OTUwZWZmY2VhYmZhN2RkMTJkNzg3NzYxOTNhNTY3NDc1MzBmY2RkYzE0NmQzZTYxIn0%3D&amp;signature=d7af0c4797a5f30f1cde2e1384e561529049dd36054b6d5ebb1b17d192b87dca</image>
+    <start>05:00PM</start>
+    <finish>07:00PM</finish>
+    <date>08 January 2026</date>
+  </channel>
+  <channel>
+    <name>LCI Fr</name>
+    <id>LCI.fr</id>
+    <title>Face ? Darius Rochebin</title>
+    <desc></desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IjhXUlMwNDlJbGY3QVlpQVJBYUUyQlE9PSIsInZhbHVlIjoiSGd0SlI0VDRvNXJrcFZkZXNcL1RQaVJwM1dzbm9VSWo3MmZsRXg2NjBLZ1hKYXBRWWdyS0xsNFd6OXhVV1FySXVVcXFEWVBxVkhNd1JhR0JORjJHcVhXTkJPdzBtZmJna0JlMUpXbVMxN3ZSXC9RUjJUQmkzQ1kxVE4wb2RkOTE4SCIsIm1hYyI6Ijc5N2RkMzQ1YzkwMGUyODZmZDJjZmU2MGIxMmZiNzgwNTc5ZjFjMDA0NzU4MzYwMGU5ZTYxMGMxZGRiMjEzYmQifQ%3D%3D&amp;signature=4bf0b7395ed6b5c69a8dde9228e6b44d36a60972c8b5a3498a09f709fb53a030</image>
+    <start>07:00PM</start>
+    <finish>09:00PM</finish>
+    <date>08 January 2026</date>
+  </channel>
+  <channel>
+    <name>LCI Fr</name>
+    <id>LCI.fr</id>
+    <title>22H Darius Rochebin</title>
+    <desc></desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IkJhRW5QUzVFWkhEdUNyeXVcL0dQVWF3PT0iLCJ2YWx1ZSI6IkJzc2VYbW4yUEUybitCWW9NMFVYVWFZQ3ZWTCt4RWo2Wjc5WUNleWxiWWtGcUFPa1RmWnpmWklpZ3dzSzJiSDM3Tll6elhFZE91c0lOUUtBbXlVXC9NXC9GZlVaRXMzT08zT2tNMkxcL1cxY21uVkZKa3JaSkw2bG0xVWRVY211T1ZIIiwibWFjIjoiN2EwN2Q0YjIwOWI0YzFmZjAxN2I0YjhhNmM0MzgyZjFhNWQ0NjExMjIyYzFlMjJhMTA1NjRhM2E5ZDkyODMzZCJ9&amp;signature=1f5649c3e6473efa84b1fb7765eb82429f980dfdef3fadb8aae80bcaa1a93d67</image>
+    <start>09:00PM</start>
+    <finish>11:00PM</finish>
+    <date>08 January 2026</date>
+  </channel>
+  <channel>
+    <name>LCI Fr</name>
+    <id>LCI.fr</id>
+    <title>Le 22H</title>
+    <desc></desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6ImxUSFVoNlcxQmpJRSt1VDlUWWNFVkE9PSIsInZhbHVlIjoiVlZlQzlmMWo0bkNCVG5SMXJhRUU1U01SNnp2UUpFK3RhK1NkQVNwOENDazI5cW9YXC90VE5RcmJpNWVtMjFuTU9qeFk0XC91K0MyNWdNY2VwSzZGd0l0aHlFV1dGR1pFcU1mTE9oREM5R3BWejBDY0F1cGxwU1pVamVhcytIYUFONiIsIm1hYyI6ImFkNmZiNzc4OWRmYzRiNjQxYmJkODYxMGU0ZTgyYWM2YmNmNmMxOTQ2NTQzODQ3N2QyOGRmMmFhZmNmMzY2NGYifQ%3D%3D&amp;signature=0d94c6598186270574de62b3e6638a370a5006e4972c136eaf4127b73c599db8</image>
+    <start>11:00PM</start>
+    <finish>02:30AM</finish>
+    <date>08 January 2026</date>
+  </channel>
+  <channel>
+    <name>LCI Fr</name>
+    <id>LCI.fr</id>
+    <title>Histoires criminelles</title>
+    <desc></desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IjFocmlxXC9Ba2JBXC8zRWNSbFBOaWhZQT09IiwidmFsdWUiOiIzZkxmYytrTTc5QXpHRk0yQXB6N2czOStDTlRYMmtoOTJZOUlDcW1LNmdHOERKYlFCWUZqOVZLTWhpWG5vb3E4OEZQVFI2akd4d2RSUTJBV005TnhLTFFDZ1F5ZFBtQXZ5ZFJcL1wvUDJ2ZXVBZjdBR3hrUkhGbHA3N1BETUFwVHA4IiwibWFjIjoiYTIwZDIwNTM2ZWEwMWU0MzgyZWQxOGIxNGM1YjJkMmY5YzNjNGY0OTJiZGQ2NmIxZGQxNTY4ZTBhMjcxZTZjNSJ9&amp;signature=0bbe63cf4efb67a32184fd0f3e812463066fbadd5fcb910be14a173a0bd7e077</image>
+    <start>02:30AM</start>
+    <finish>03:30AM</finish>
+    <date>09 January 2026</date>
+  </channel>
+  <channel>
+    <name>LCI Fr</name>
+    <id>LCI.fr</id>
+    <title>Les grands reportages LCI</title>
+    <desc></desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6ImRGZXRvQ0xocjMxR1JcL25yUUg2WTlnPT0iLCJ2YWx1ZSI6Ik5aNndsb0pDNkdRZVd1aThvOFR0Q0dLNWhrUXo4dzhzMVRnczZcL3orQlwvc2pxUXdZTzYwRVFYeUdFYmp3Qk4xZitKclByR0p2Mm1oSWJpaVh4ZkpHVFJiV3dVdFNweGFOZlpZMFp4Y1lsaDFwR0VQZlBZYzlEN2NzRVU4NW84aU0iLCJtYWMiOiIxMjI1MDMwZGJmMTU2NTJhZThiYTdiNmRiYWVkNGM0ZjZlNjUzOTVjYTk1ZTI0MWRiZjc0ZDk5ZWUwNjFkMmQxIn0%3D&amp;signature=927ed6895fcb662b3f75ef07b9cdee01c9719f63d2637d020e4c2d9d4742d6a7</image>
+    <start>03:30AM</start>
+    <finish>04:00AM</finish>
+    <date>09 January 2026</date>
+  </channel>
+  <channel>
+    <name>LCI Fr</name>
+    <id>LCI.fr</id>
+    <title>Le 5H Info</title>
+    <desc></desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6ImRCVlwveFk1SWtTV0dtQis2blhpa0dnPT0iLCJ2YWx1ZSI6Im9xT2t5S0wxK3BOMXFcL0NEQW5xb1ZtRmUwVFdtWDB2eTNlejFEbUJqaW9zYzZoNTRxSHduNllhYVBLZEtcL0hkOUZpYkdyMDh2VVlDKzV5VUpzODM1U1g0VStMaUZBdUpXaUplT0IwalN0VlBPQ2FjSkJTQmtPU0hmZFJcL0UrY1h5IiwibWFjIjoiZTYwNTM2YmYwMGFjMDgwMjQ4MWM3ZGMwZjM5MDU4NTk5NmEyZWMyN2QxNjIxMmY4YmZkMzU1Mzg3Y2EwMjYyMCJ9&amp;signature=9494b00b13dde493e64b3aec15faf790fac47a9a98e6ded4143899d16c479583</image>
+    <start>04:00AM</start>
+    <finish>04:30AM</finish>
+    <date>09 January 2026</date>
+  </channel>
+  <channel>
+    <name>LCI Fr</name>
+    <id>LCI.fr</id>
+    <title>Le 5H30 Info</title>
+    <desc></desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6Ikd2QnpPdlwvZmFzSmh3RWRqU2RmcUhnPT0iLCJ2YWx1ZSI6IkpobUVpQXcrNkVoN2lEOXFuWUkzQ2wxNEZFbnFOdUJQNUdmeTI5d0IrSWExeXU4azFwa2VySkNuM0d2K0NnQnVRUnpKT0tNVUErM1JXdHlVWG10cGpUdGMwT3FOaDZhZVJNdlwvWEpkS085RjRYaXc1dzZjR3RnXC9aTk05dkFJTkgiLCJtYWMiOiI5NmIzNDM2MTNkZDUyYjhlMjc3YjljNGUzYzU1YWE3NjA2YzUxNTFlNDIwYjQxNDk0OGRhYzVhOGM0OWY4YWY2In0%3D&amp;signature=af71061c0721efb760a14654e122fc4ac0d604bc31820cfbecd7091e9cd49ea9</image>
+    <start>04:30AM</start>
+    <finish>05:00AM</finish>
+    <date>09 January 2026</date>
+  </channel>
+  <channel>
+    <name>LCI Fr</name>
+    <id>LCI.fr</id>
+    <title>La matinale LCI</title>
+    <desc></desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6ImdcL25HNWhlZGRYY1pqWUhOUm9RT0NBPT0iLCJ2YWx1ZSI6InMwbVVRMXZ6NVE1VWd4Y1I1amRVNjZnV3p4VUxuMjllejB2ZTdBeHo3aDJMT2djWkNZN29JUHNvNXQxR0FDYjhzQmt1ZW5WS0JDaHlKb0VSUHBoS0RNenF2S0h0VFFMcUs3aUhCVzRyTXNka21FSmxMekVJdVpBWGpqYUdxV1wvSCIsIm1hYyI6IjlkY2FjMzA2ODE2OGMzMDA4ZmYxMGI0MDVhY2I2NDJjYjM5ZTk5YzFjNDQwMWEyMzMzNmUxYWEzZmYwNmY5YzMifQ%3D%3D&amp;signature=6462fb5f73b10ec6c945f08298269dc1904c744e3dd8f921671832de8f242a21</image>
+    <start>05:00AM</start>
+    <finish>08:00AM</finish>
+    <date>09 January 2026</date>
+  </channel>
+  <channel>
+    <name>LCI Fr</name>
+    <id>LCI.fr</id>
+    <title>En toute libert?</title>
+    <desc></desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6Ik1OTWlZWlpqYlJ6R0Jtb1NCM1Q4R1E9PSIsInZhbHVlIjoiS3p2eXpFY2tZZHNwdkhMR0lKSWRlNng1T093WklvRzkzTDFSOG01VDJkVGlcL2Yrckc3bEQ2Z2k2WHlScFNLK2tZZXVvSE5qWXdNZGZMaytlcGV5OU90TFUrRmRCRG91VDF5QU4zM3FLZDRyTlVQMTRXZWo3eTNCZ1wvNDRFN0VURiIsIm1hYyI6IjIwOGFmMDAwZGQ5NGFmMGM0ZWMxMDZlNWNmODRhZjBkYTY3NTY4ZTg1NTY4MDg0MzU1MzcxZDc4YTg1YjRlOTUifQ%3D%3D&amp;signature=3724ef974e2d79b2a169b343484213f31e9cb8219d51d946fb4504df15dda87a</image>
+    <start>08:00AM</start>
+    <finish>09:00AM</finish>
+    <date>09 January 2026</date>
+  </channel>
+  <channel>
+    <name>LCI Fr</name>
+    <id>LCI.fr</id>
+    <title>Cartes sur table avec Doukhan</title>
+    <desc></desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6ImZcL1Zzd1ZYaXN3M3g3ZmhNcCtYdmtBPT0iLCJ2YWx1ZSI6InB0K3hMZGVNd1FpVExhN2ppN25xdnNtSERYUm83RUpkakxhcXNtVFFvNDA0SmdEenVBVlZRR0ljdm40OXhGd2x0ZG9PcTJhUEVHcEdBdm1vYk1vSCtobU50azd6VHRFQkZBclhMMm5vN1RTbUVwZnZsRDBXaUlxbXRYVEF1SjMzIiwibWFjIjoiYjczNzIxNTdkYmYzYTZhM2UxMjY1M2FjYWE4MTQ4YTlhMTY4ZmM2OGQ0ZGQxOTE2MmQ5NDA1OTA1YmJkYjJmMiJ9&amp;signature=6000afd499a859c3facea317143294cd67c176473922d7dfcc998bef5c2f3509</image>
+    <start>09:00AM</start>
+    <finish>11:00AM</finish>
+    <date>09 January 2026</date>
+  </channel>
+  <channel>
+    <name>LCI Fr</name>
+    <id>LCI.fr</id>
+    <title>Brunet sans filtre</title>
+    <desc></desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6Ims0eEtLSzNWRzdDYWh3UVZiT2cyV3c9PSIsInZhbHVlIjoicW5jRk1FdHA1YytiSzRrSU50YkZVK0d4ZVFNSnBTZGRTaXNuNzNxS1RtZTU3NnB1c2hqcWtOV2pkalhiWW1YNlk1Rk5cL0toWEx2ZkRNOUh1OVVHR1NyQlp6a1k4RUdGK2p3TlE3OHBsdytQZGgyQUNpU2RaZmhsRDkxN3g3NTNwIiwibWFjIjoiMGRhYmFmZDU2ZTgxNGYxMmY3MmM5MTRlNzhlM2VlZTM0MDkyMDkyYTYxMmNmOWQ4OTM0MzJiNDQwMTNjYzdhNyJ9&amp;signature=cb2acb668c087b7c3efcebd988c90510cad2fbc7e26742d3265a3ffb662fabcd</image>
+    <start>11:00AM</start>
+    <finish>01:30PM</finish>
+    <date>09 January 2026</date>
+  </channel>
+  <channel>
+    <name>LCI Fr</name>
+    <id>LCI.fr</id>
+    <title>LCI Direct</title>
+    <desc></desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IkpWYU0wSlRDMUVGTG1MeDR6QjJPUFE9PSIsInZhbHVlIjoicmlxOW5vMUFzODJnazZnUUQzUUwwcm5weGNmK1dISzcrOTVaa2NKNTBPMHc4cklvWFBJVk5saUM0RzZOUnRcL0FiOTNKMkNoQlhLOU5VTHJCa0FDZjZXbGFvdmZpdkIxTG1qbnhZMG9rVzFFNkVJdVpMK0FDM2hYTWJ0V0JOWkxhIiwibWFjIjoiNDczOWUxYTcxYTBhMGFkZWE1NjY4MzU0MjU0MWRkZjNjZWQwYjgyODczNDZiZDAyZjdiODFlMTg0ZTIyODYzZCJ9&amp;signature=93c4b3815f7eff0d7ac4fafc2b69e839fbc6358c6a2d8e308b4a81c525089490</image>
+    <start>01:30PM</start>
+    <finish>04:00PM</finish>
+    <date>09 January 2026</date>
+  </channel>
+  <channel>
+    <name>LCI Fr</name>
+    <id>LCI.fr</id>
+    <title>Le grand dossier</title>
+    <desc></desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IkFKVEUxYUd4WVNXNFVyZEpoa3lHZkE9PSIsInZhbHVlIjoiaXBRNXdZTXVVdDlWZlNVZ3MrUEcwRU5QNEFhbGo5eU5iWkpxZlM0cGFzXC9NUFRWa3E3c3BrekI2dkZ2ZlZPQ1k4c1M4bWlOQ3RMeEQ2RkJMK0J5XC9tNGN5WkhJSVFEejlmc0tUTTFqajNycGIrQXEwQlRIQWtNaHJWVFBxMlhOWCIsIm1hYyI6IjY1ZWI3YThiNTc5ODgxMWIwMTY0NzAzYTQ3OWZhM2NmMWFhMDUzYjM3ZDI2MWI0M2NiNTZmZmQ2OTQ4MTE4MzgifQ%3D%3D&amp;signature=14350dd8a3373de826515eab1e54ea32411bc9086028f3f907f10b8de9f1bd41</image>
+    <start>04:00PM</start>
+    <finish>05:00PM</finish>
+    <date>09 January 2026</date>
+  </channel>
+  <channel>
+    <name>LCI Fr</name>
+    <id>LCI.fr</id>
+    <title>24 Heures</title>
+    <desc></desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6ImFkeXQ3YUVPOWxyVnRTYnVOY0dDaGc9PSIsInZhbHVlIjoiUUhySERqZ2V0ZDBmRlRNbEVZak80NUFrZVZ2bXExT3V0YU95S08rM2x0cHdoeGI4Zk12SG1BRnNtZmlUd2xJdnN1TkEwTjhzeXpcLzRTUlwvajZkVWpMS1ZcL2VcL01mNUxqYXlwTDl2K2ZNbnZRWEErYVRJQVRJdmpNOUdPZ016QWZEIiwibWFjIjoiNGE4ZDQwN2UyOGI1NzBjZmRlNzJhM2Y1NjdjNzA1MzYwYWMwYzRmOGE1Mjk5MzVmMmRkNjcyODRhNGFjOTU5NSJ9&amp;signature=bbcede784e6b2bd77ff2939212cabf548759696fb710b130042c8731479347ea</image>
+    <start>05:00PM</start>
+    <finish>07:00PM</finish>
+    <date>09 January 2026</date>
+  </channel>
+  <channel>
+    <name>LCI Fr</name>
+    <id>LCI.fr</id>
+    <title>Un oeil sur le monde</title>
+    <desc></desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IlNrbDg0dkRZSGFKeE5zSFh6MnMzTVE9PSIsInZhbHVlIjoiTjdxdEUya09xZUZFTkJGaTFDYVc3YjVjbytcL1M3T1RpM2tCQ3M2cGVEekN3bUpsdFwvY2VvVXF0UHVjXC96SkRmZFpNRDNwblZ3czVPYVRZaGZFWExMQ2tkNjVLdTc0ZVVuTm9Pa3luQk5ZQUs2VHZoNTJGeFA5WFMxN0hcLzd4bEc1IiwibWFjIjoiNTg4Zjc1OGZkMjA5MTQ2YWYyYjA0Y2EzZDNkM2Y4YTVjMjk5OTRlMWY5NjBlNjg4NGNlZDZkNTcxMzZiMjQ3MyJ9&amp;signature=aa6e6eb2dfc4f019e67a76b69244c0fc67f265eda76ef2db25e7debf6690e424</image>
+    <start>07:00PM</start>
+    <finish>09:00PM</finish>
+    <date>09 January 2026</date>
+  </channel>
+  <channel>
+    <name>LCI Fr</name>
+    <id>LCI.fr</id>
+    <title>22H Nivat</title>
+    <desc></desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6InkrSzBpMnNTN1dPazRpSFZwSmQrb1E9PSIsInZhbHVlIjoiczBMYWYyTXQ1MDVZRzk1bk5Veld3QVFJV1VrZ3kwaGY0ZFpOZE1aOUFmRWNxTjQ1bGxUQkd0UXBKV1BOTFpXdjExMkVRUFFtdXFzbXg0VTUxSFVoS1pFNU1LaEgrclBCY1JVSEFob0poTHRJUW9qNnNiM1UweGdJYjJrK1hLdzIiLCJtYWMiOiJjZjBkYzhiNjY0NGJlNGVhNTgxNGExNGMxNmU5MDcxNzFjNzc2MmYxMzQ4MWY1MGI0MTY0OGQ3MTEzMTdmZjVjIn0%3D&amp;signature=3496fb27c157a281130faf7b50349e4527723545a4af2bc230b10e4c36922ed9</image>
+    <start>09:00PM</start>
+    <finish>11:00PM</finish>
+    <date>09 January 2026</date>
+  </channel>
+  <channel>
+    <name>LCI Fr</name>
+    <id>LCI.fr</id>
+    <title>Le 22H</title>
+    <desc></desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6InVZTmZjN21EdVVCVG1TYjB3TmJ6Z1E9PSIsInZhbHVlIjoiaWJaaGtEMk9SbCs0NXM5RmFHY1ppRTBEUFwvZ0hKTFdleENONTkxWGRXbzFRSHpCc2pKT2h6MEJnakxiR29ueUxXRVk5UXlWZHdzK041NHpwaEZPV2U5VHJ0Kzh2OG54bVV3T3ZaaXZRVWU3WWRTMHZITmx3SXdKb3pZcU10SWhnIiwibWFjIjoiNTY4MThkM2RkOWI2N2QyNWJlMjViNjAxMTVlN2JkMDc1ODZiMTI1ZjBjYjkyYjRiNjE0YjkwZWI3M2ViY2FlOSJ9&amp;signature=9370c4583d999da738d8555ee997dba3eb01cfb693201dac8184ab7f498162bd</image>
+    <start>11:00PM</start>
+    <finish>02:30AM</finish>
+    <date>09 January 2026</date>
+  </channel>
+</tv>
