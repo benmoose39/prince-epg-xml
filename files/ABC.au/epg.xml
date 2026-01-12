@@ -1,2 +1,1353 @@
 <?xml version="1.0" ?>
-<tv/>
+<tv>
+  <channel>
+    <name>ABC AU</name>
+    <id>ABC.au</id>
+    <title>News Breakfast</title>
+    <desc>Start your day with the latest overnight developments, breaking news and today's top stories. Emma Rebellato and Catherine Murphy bring you news and interviews, joined by Johnson Raela with sport and Nate Byrne with weather.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IkhrV0JMUlVnXC9IbzlmTXpUbzFpSCt3PT0iLCJ2YWx1ZSI6IjdyTVpqMEYxTm1aZTRncTM2ODlNYVVZREVrbGgxN3A1XC9HenJEd0lHa29YUExRM3ZqeUdRR0xLUVRFZHRSMmF3eGk2MG9NdTloWmxhbnJ0Ym5lbnlGRWhxb0FwY3g5RkE4TjBBWUljcEF1Y1wvVDQyVGVKZDFyK0xRd1BJM0ZIRnpVUTUwUU1PYzlIR2FjOTZ2YkpxZm50WXBuSkRsWUwxTjBhQ3ZRYml3WXhkS2hFSGFzN3RRc2lWZ2RpeEFwZ0xwIiwibWFjIjoiMzhmOWUwNGRlN2MzNzZjODg3MWIxY2FiYzg0YTc5MDNjMWFiMzkyYTRmYmZiMDZlMTMzMTc4MmE2ZDRiN2ZjYyJ9&amp;signature=126321308a3ed898f730f5bc105ac44672921922bc85bacb20748ebf793ba9fa</image>
+    <start>07:00PM</start>
+    <finish>10:00PM</finish>
+    <date>12 January 2026</date>
+  </channel>
+  <channel>
+    <name>ABC AU</name>
+    <id>ABC.au</id>
+    <title>ABC News Mornings</title>
+    <desc>Stay in the know with what's happening this morning. ABC News brings you up-to-the-minute news to fuel your daily conversations so you can stay connected and follow the discussion across the day. Presented by Gemma Veness.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6Iml2aUx5RG1JUmp6QVhyenVGa3EyQUE9PSIsInZhbHVlIjoiNndaaUhoZHNQZW1wNjJ6MWFKc21mdld5dDJoTDJ3dm9ZNk9WTFhHN1JlNksyNWhqMG11K2NLbmdybkFNMFdvc0VZWFNCcEFYdnNXSHFUckJVcW1RZ2VLN3B3anJLNURRYWg0TmJ2blJxdjdtczZSQ1FhR0QralFyOFNnR1FrY1wvQWMweWZZaXlMazBBdTNMakMreHNSYUJRZXNnbERXMWdsQkloQ29wdDczVzUzaVVQUEdvcnZLcVJ6TzIwVlNaUCIsIm1hYyI6IjMxYmJmNzQ5Yzg0ZGZiMzk3ZWY2NjA5MDA3YmQ4NWQ2N2QwYWM3NzlmNzBlN2RlNmE1OGFlNmIxMGQ2MWFmMWYifQ%3D%3D&amp;signature=044a11f3c9e328870706a975575504af006681743e3080dfb8e44ee507c77c16</image>
+    <start>10:00PM</start>
+    <finish>11:00PM</finish>
+    <date>12 January 2026</date>
+  </channel>
+  <channel>
+    <name>ABC AU</name>
+    <id>ABC.au</id>
+    <title>The Great Art Fraud</title>
+    <desc>Lies, forgeries, manipulation - and fraud worth $86 million. How Inigo Philbrick deceived the super rich of the art world - and ended up going from paradise to prison.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6ImlteFhHb0dKaG5hUzFKSmJ4QVhvVmc9PSIsInZhbHVlIjoibEVPVnhQZ0ZjbnZrXC9YZUdzeXU2dEcxYWJycVdpOXlDbFlkbTl2ZzUxZVYrYWMrRUdiWTBuZmd5YWh2STVUamZxdE16ZnJNazhUMmo3WTA3S2xWWUtCNkF1QXdocW1adkZiYUtCREJCWFpkN2J0SnhyNnNZOGF3VUR0U0FER1BZR0hNbm80anpzT3Exbmd5dkxjazV6enFLR2hOMmhDZjZhMG1Sbnd3NGJLZ1NydWk3cis4cTR5VFVRNUo3aHE2bCIsIm1hYyI6ImQyNjM0NDJkOThjNjc2NjY5MTA1NDA4M2UwMjY0ZGE3NGViYThlNjkxYzVjZTg1MWVjZThlNjU5OGQyY2Y0ZDkifQ%3D%3D&amp;signature=cf6995aedf6ef21801e7e2dcc0a394a47d3572ebd0cf455d67529703a56b92bc</image>
+    <start>11:00PM</start>
+    <finish>12:00AM</finish>
+    <date>12 January 2026</date>
+  </channel>
+  <channel>
+    <name>ABC AU</name>
+    <id>ABC.au</id>
+    <title>The Penguin King</title>
+    <desc>The Penguin King's story is often comical, sometimes tragic, and ultimately triumphant: a rite of passage set on one of the Earth's last great wildernesses.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6Imh6TjljaTJqdms2MzN3Tm1xeGtcL0RnPT0iLCJ2YWx1ZSI6Inp4T0paRE5udFwvSThSeUJ4QnE5cU9VNk5MRUhNeEJLNmdrMFBQa0FrTlJWTVhUdzZYdUlINVVMeW5iNmpCbU5ZRFJpUkhvWkhIbjQyUXBMMlpFOThjK0VSY21MUTc0dmZpcHJXTTd0ODFnWlc3T3FiTWY0S01ITWN0eHAwNUVSZ0hmcG5cL2ZUdU1OWHJtVVwvWVlPVWR4ZUdDT28yamw4aWlydE5mN2NaTXBPZG1jQm1DUlJYd3RZMGJQUU9kMWQ3NiIsIm1hYyI6IjZiNGE1YzUyMGRmODI2NGEzOTJkMjQwMzIwNDA4Y2VmNGU4ZDExNWM0OTMyZTIzZDc5MDUyMjc2ODE1OWY2ZTkifQ%3D%3D&amp;signature=1fdc5bfeb76d27bbebaee2a6804e083b8ac76f5d1b39182e6c82f8dd28893405</image>
+    <start>12:00AM</start>
+    <finish>01:00AM</finish>
+    <date>13 January 2026</date>
+  </channel>
+  <channel>
+    <name>ABC AU</name>
+    <id>ABC.au</id>
+    <title>ABC News at Noon</title>
+    <desc>Ros Childs presents the leading news at lunchtime, including the day's top stories and the latest news as it unfolds, with reporters in the community across Australia and around the world reporting on the issues that matter.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IkRaU0lPNVNpSTV3R053QmxyS0Zaa2c9PSIsInZhbHVlIjoiZ2NDR0V4emtWUVlnSm9uUUt6eXpJTWJ5WmFtNGl4MmtxU0dOZ3BCUERUZ2lKSDJkMmgyTkJMVzRkVlNRNmhMODc2WXNHN0hFSmR2TkQ4cUU0XC9wYnhkdUtKOEhOOGxGVmNhcWw3a2VIXC85XC9Ca3dcL0hXdHBDVTdkZzhVMWJEM0psTG8xYllac1UrWFlrOU1OclAwVURraFNLeTNMbzJXQThlQ3FzNTFWbFNoZ3NZMFB2T1g5MlwvbEZcL2JKdU02NUo3IiwibWFjIjoiZjBhMTYwYjhlMzIwNTc4MWE4NWJiNzY4ZDUxNGMxMzM3YTZjNTc4ODIzNzA1YmY3NTU2MmY2NWRiMjdmNmMzNSJ9&amp;signature=53101e785a5d5fc8a25d580cd22cdb6a33e76759254c3464651a4914e52134c9</image>
+    <start>01:00AM</start>
+    <finish>01:59AM</finish>
+    <date>13 January 2026</date>
+  </channel>
+  <channel>
+    <name>ABC AU</name>
+    <id>ABC.au</id>
+    <title>Call the Midwife</title>
+    <desc>Rising rates of gonorrhoea in the district cause alarm, and Trixie cares for an unmarried first-time mother recently diagnosed with a mental health condition.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6ImRBWFwvajR1SW4rdmNmSWVVSUhEczF3PT0iLCJ2YWx1ZSI6InE2RnM4QTFYWUxuZzRkYTB5S1FqMTBPVlF3a2xjdU0xOTF3eXM4d09VU2cxaDRmXC94ZTBvK3pSZFpJRVRDb1ZadUljalVqeUVCNTFyWEJ5eVgxdnNLU250UGNoMHpWOEdTbVNBU1UwMFZCTElYZHc4TlM3UGg0cTltSVBBWVVIXC9TTENMUFo0WnEzUFJSM1ZRQWROSE1vWWRJc3dwODdDS2p2czVNZUZpZ2JvVUJoWjVPVXNPendJNTRVTGV6N0pDIiwibWFjIjoiMDg0ZGY3MDJjZGZmOGIzZGIwMWQzY2JjMmIxNmExOTI3ZmY2YTE0M2UxMGU5YzcyYjU2MTg5NjM1YTk4ZTFjOSJ9&amp;signature=4290d9e7371afe2000b79b4ae25a8668afb04d41a370a1cf9e45de3006cbe21d</image>
+    <start>01:59AM</start>
+    <finish>02:59AM</finish>
+    <date>13 January 2026</date>
+  </channel>
+  <channel>
+    <name>ABC AU</name>
+    <id>ABC.au</id>
+    <title>Restoration Australia</title>
+    <desc>When a charming old Queenslander travels 800 kilometres south of the tropics to an eco-village, it needs a complete retrofit to become uber energy efficient - but will this come at the expense of its heritage?</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6ImFjMFd0VllNOTZNQTF1VjZLMm9rTWc9PSIsInZhbHVlIjoiR2ZzbHFnTldJeEVOMGd3RWZxUGh0U3J1UXlSSkRKT0tjeEduK0tQN3lXcFRiaHJpNGNKUjBwNjRodzF5QVYzS0NVcWtqZEFKV1l1VUhRZitIajJ2UEgwRXV5Q3FjdjBrQUl1T2pcL25HVEZaUEZRXC9ta2x6b3Eya0FOSTJNR0lVaGJMNnU2VmJVYkJKeUh1bnQ1QzZteW42aW1IYzY3VmZvSE1GaFc1aThlWDNOOFpFRnFQR2I3dCtqVU1oZU1SSVkiLCJtYWMiOiI2MzBlMTc4ZGEzZTE5MmI5MzY3OGY0NDdlNDQ2ZWRiNmI3ZWVjZjg1MDU3YzcyNTU2M2M4MTVmMDIyM2ZhNWVjIn0%3D&amp;signature=1ac5d7b07b4aeba2de9175aff4f90dee8aad2ed2f3dfc1b89eb305398214e50a</image>
+    <start>02:59AM</start>
+    <finish>03:57AM</finish>
+    <date>13 January 2026</date>
+  </channel>
+  <channel>
+    <name>ABC AU</name>
+    <id>ABC.au</id>
+    <title>Would I Lie to You?</title>
+    <desc>Rob Brydon is back as host. Sorting the fact from the fiction this week are guests Charlie Brooker, Professor Hannah Fry, Danny Jones and Shaparak Khorsandi.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IlhlNWRFdm90TlNucVl6enVpY2ZFMXc9PSIsInZhbHVlIjoiV3lldEYrZW9XRUpZRk5pXC84TGpKTEUzZGZvUGhVYU1reVhKaHB5bExJbUFGbWg3R3Nod1ZGT1pTV0ExUytrTUx0UkpJOFBTQVNXQzRTaXhaM3dqVkdGZjUwQk4xZElxeE1FTHM4T2k1NWxJQVFUb1dMXC82aCttNHd4MUpjNCtvTUhWcmtHc3VnVmttckNLdGhGMTV0dlZcL3R2c1pBKzA5OW1sRG9yK2Y4c0VlMVp0Y09iNXJIc0RhcXpFWGZPZE5OIiwibWFjIjoiZTg4MTFkMzhlYTQ1MzJkODVkMGQwNzZhZGUxY2NjYzAwZGYwOWI4NzJjZDFmNzMwODM1MzM1MWMwMjhjOTI2ZSJ9&amp;signature=8553495955b8827781d6d66d4e88c26f6902c7a887bfb5ff237f2c811db92bb1</image>
+    <start>03:57AM</start>
+    <finish>04:26AM</finish>
+    <date>13 January 2026</date>
+  </channel>
+  <channel>
+    <name>ABC AU</name>
+    <id>ABC.au</id>
+    <title>Nigella: At My Table</title>
+    <desc>Nigella Lawson shares another selection of her favourite dishes, including a breakfast of fried bread and tomato hash inspired by her university days.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6ImxFNlpZQmdqRUliOU5BUm5tSUszYXc9PSIsInZhbHVlIjoiYnhxeWN3eGdYRWFFRzNJNGVqYnBndDNYMlNBS1Q2WTJHUEpXRERMbk9OTGMyNjdZWEExbnpiT1NPYVQrQWphcHZlNHAwV2xNTkpNTlpXTWEzNTZtZEtcL2FWQktuRkpIOWl2QzJXbVo3TlRUVUN5emY0cEF3WkZ1dEVCaGVjQ0R2bDM1SGFwNWlnc3ExTzlpdUZQSmdQZ1g2ZlFpejUrMU9GR24xQXdwV2JkS21mZ2ZsSysxMWl2eU5aaEpqZDZpaSIsIm1hYyI6IjUwZTUyYmU0Yzk3ZWRkYjhiNWNmNTgwNTNkMDU1ODYyYzUyYzk4NWQzNzY5ZDIxN2ExMGE2MTdjN2VkNTA5M2QifQ%3D%3D&amp;signature=96427d60267d27a9e55f01ad8de8f43aa9d78a3c6491b9307dd5ce3ebc41a5da</image>
+    <start>04:26AM</start>
+    <finish>04:56AM</finish>
+    <date>13 January 2026</date>
+  </channel>
+  <channel>
+    <name>ABC AU</name>
+    <id>ABC.au</id>
+    <title>Grand Designs: The Streets</title>
+    <desc>We revisit Jitinder whose house remained unfinished when we last met him - thanks to problems with moisture and his resin floor. Kevin goes back to experience the full majesty of his home.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IlprVWl6YkZBRlhlcTh6SWt3MkN4NGc9PSIsInZhbHVlIjoiV2s3RFRrODN5TTlmbmJBUHBWS1FocTdJSHpjS1VTSjgzald6eTRDVFRVODBXNHhkWWxRZ2xub0FySGhTMzYwZFRteFhIVzhpTVNrU1wvYmQxdnZUZmhuT3A0MTZFS1MzaXJXUHEyaFFsd2Q1UFR2WTRrcW9NN2p4UWpPTjBUdFFZWDRVTFdDNlFGazVCVCtBQ21GTGZjamRid1hnN1VlOXpMOE44cjNFSEVCQURTSlpMMXVNNlVuRzFNU0xMZGVJcCIsIm1hYyI6Ijk5ZWM4ZmQwYTgzNzg5YmY3NmQ4NjlkMjc0NjhhZDU5NDM0ZjMyNzIzODVkYzU5YWYyM2IxOTcxOTBiYjM3YzQifQ%3D%3D&amp;signature=4ce34ccc66b2cde93b8ba6ce2fcaec132c36e4b6404deadb4e740d0d94be11c7</image>
+    <start>04:56AM</start>
+    <finish>05:43AM</finish>
+    <date>13 January 2026</date>
+  </channel>
+  <channel>
+    <name>ABC AU</name>
+    <id>ABC.au</id>
+    <title>Long Lost Family</title>
+    <desc>Two stories of babies given up for adoption by their mothers: a man who's spent over a decade searching for his mother, and a woman who's spent her entire life needing to make amends.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6ImJYbXZSM0FNSHJMYWNZZlJ1eStkXC9RPT0iLCJ2YWx1ZSI6IjZmbGZkXC85V2taamNQWDdUODZBRHYrbWZDeGYzR3lMOUZnRUlvRjEyYisyOGNyTFczWDNWYWx3N1dUZ2NSeTExVXZGZlFLWmZCRjhkRWpWTjUwODR2Tk1jVmIxblBGTlRzWG10RnFjcjR3RzlrQXZ0Q3hJOFI5cU9KRzNnaWRQclZaSlpTXC9LR0hTTm9idjY5eVlFTG5jdE9PXC9kaTY3SGJ6Q3hHRDRTYUlObUxXbXNpdlV3N05IcXZLVDdmWDBkciIsIm1hYyI6ImJhZGZjOWExMmI5ODY5YWQ0NGNkM2Q3YjBkNzI5ZmVlMGZkZTU0OGRiN2IzMjBkZWQ4ODBhNzVkM2U1YjhjMjgifQ%3D%3D&amp;signature=1d207d6a9e22a546fdd4159a7a5c392c4a15757b5e8fe88603ab68a1a92c8cff</image>
+    <start>05:43AM</start>
+    <finish>06:30AM</finish>
+    <date>13 January 2026</date>
+  </channel>
+  <channel>
+    <name>ABC AU</name>
+    <id>ABC.au</id>
+    <title>Antiques Roadshow</title>
+    <desc>A return visit to the enchanting gardens of Arley Hall in Cheshire finds Fiona Bruce and the team of experts hard at work. It's a rich day of finds as family treasures come under scrutiny.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IjJwaDZwbWx6VFRGTDdaTzRTQVwvaU93PT0iLCJ2YWx1ZSI6Ilc0SkRqbUliSVVTMVFrRUMxaXNuVml3bFRBQ2dXc2NSWDVjSWJBOTJ6Q1JpU3U5cFRFZ1JFbmVQcW9ybGlGanpPUHpGZHdlTk9yb3FFYjNUZjhFdVRsOTlyNmhxa1cwZkhtcWNZWFlvRFNURDBObVdSN2dPWFM3SWJ3NThDNzZQM2FPUXY2T3p3a25yNEdwd25QQkNHT0wyU2lnaXZaOENJVWx1OHVEdzFwaVwvY3pOc21KeHJxbGR5SzMxdGlqZXEiLCJtYWMiOiIzYmU0MWQwZWRkMDQwNjc4Y2I2ODA5ZTAyNzFkYTY0YWMwYmQ1ODdmZTNlOGVlYzQyZjczMjkzZTczYTQwY2U2In0%3D&amp;signature=f2c3d00c8e5aafcef03c55c88e6f6c3c5c5e645e9e6fe66180681ad3a7fae292</image>
+    <start>06:30AM</start>
+    <finish>07:29AM</finish>
+    <date>13 January 2026</date>
+  </channel>
+  <channel>
+    <name>ABC AU</name>
+    <id>ABC.au</id>
+    <title>Hard Quiz</title>
+    <desc>Battle of the duds! Which returning contestant will seize a second chance to hoist the Big Brass Mug? Sydney Swans fan Matt, Pete Sampras expert Kaushik, reality TV devotee Josh, or Barry Manilow fan club president Julie?</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IjdtUVkya0dYRDF1TlZVWUF6T0pqYlE9PSIsInZhbHVlIjoiSWZjTGROZm1RYzBGYWVWK0RvQTVVZ2RkWVVZS0pNd1h0MEFHVmVmXC9BUzJKRDlZTm9xYnNQSjhzcTNGREg4NnpvV0lPdU1mRTN2b2crSjBJM2VaY0hDbXM1a2lseGQ5R3Y1U0daaXpwZFRZVVJqNGMwWE9WSkNRUFUyN3pkNURtUG9oc3hFMWhTVTh4VjdtRUxNQ2NmeVlybWh2OWZtT2RGb05xZWg5ZHBDbE1SQU5iNWJLNTNXTzNsUnE5SU9naiIsIm1hYyI6IjgzMzFjNGQwZjFiNGNlYjQ4M2QyZGE5OTk5MjY1NWU5NDk4ODUwZmM0NGZhYjRiYWFlNGI5ODdjOWIwYWVlMWQifQ%3D%3D&amp;signature=db18ca30a3e90cac54dcf35c755c040ae9604429ac4b7847d55e1e2da935fbad</image>
+    <start>07:29AM</start>
+    <finish>08:00AM</finish>
+    <date>13 January 2026</date>
+  </channel>
+  <channel>
+    <name>ABC AU</name>
+    <id>ABC.au</id>
+    <title>ABC News</title>
+    <desc>News from where we live. ABC News NSW brings you the day's top stories, exclusive investigations and original reporting on the issues that matter to you. Presented by Jeremy Fernandez.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IjB0QnJEcFMyQ0s5MWd1dDVOdUY5OGc9PSIsInZhbHVlIjoiRnJtVnJGN0NRNk5ERGl5UlFPckJ2N3kxQUdZUXdXbDlJRUw4WFBQbFBqREFQd0pYZGlDaXZvT3Q2Nll5Slp0RWJpZ1R2amx3NVVFUm9aUERqTDRKYUticzI0YTVwV0pFOThvdWpRY29CbHFtblA2Nko5ekk1bGZqdjJ2SWtcL2VFN2V2bDJybWd3RzJqa3Q0b3FqN1wvM3NvTWVJTnNONzhIbjI1SFZvdit1RmNrOFc0Y1VjVGhxNkx0VEV5dDkrd28iLCJtYWMiOiI5ZTI0YTM5ZDE5NDNjMjA0NTI5ZmRiNmVmMDJlMzc2YjUyYjRiNjhjNjIzNzMwMWFmYzFlNjc2NTI5NWIzZDk1In0%3D&amp;signature=aa4081eb8eaac3057582acb9540a405fe9af9da2232b064e2a7088824b92c956</image>
+    <start>08:00AM</start>
+    <finish>08:30AM</finish>
+    <date>13 January 2026</date>
+  </channel>
+  <channel>
+    <name>ABC AU</name>
+    <id>ABC.au</id>
+    <title>7.30</title>
+    <desc>Michael Rowland presents Australia's premier daily current affairs program, delivering agenda-setting journalism and interviews that hold the powerful to account.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IlJreW04XC9NZ0hhUWtSQk5NV01WTFpBPT0iLCJ2YWx1ZSI6IlpSakNTdlBOdmlhNmlHSmJWeUZaK21lRHVudndmcTRDcHpUYzJUbjlCRzhHN1A5UkJ2SXR3VHVQSFhPbVRMNVpDRmluOUdZWStvV0pVdnpYU2RJak9RT0JKM1RwaU1Odk5WcnFqZXRZZ3pzRHdKdXU5NFlSRVdjVDhBUFlvTzVpcW1YbUUwVjBFd1U0ODdhSmVTYUJ4ZDh6SmRlOTI3UHRIdEdQWllXOGZyV2pcL2RzZ01TTHBxb09qSCtjR2Q1MFwvIiwibWFjIjoiNjY2NjgwNjE3NGI5NjYwZjU0NmVkMTg0NDdkNjkwNjRjOTc4ZjJmMDk5ZTFlYmFiOGEzMTEwNTRiYzYyMTQyOCJ9&amp;signature=db578c509135f96092b8eded5ccb0428a308c007f3df1d90c6435f1899a489da</image>
+    <start>08:30AM</start>
+    <finish>09:01AM</finish>
+    <date>13 January 2026</date>
+  </channel>
+  <channel>
+    <name>ABC AU</name>
+    <id>ABC.au</id>
+    <title>Dr Karl's How Things Work</title>
+    <desc>Guided by a pie-tastic team in Perth, Dr Karl embarks on a culinary odyssey to uncover how Australia's iconic meat pies are made.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IkxkYlNEWGhDXC9QZGdYcDVCZWZpTnJBPT0iLCJ2YWx1ZSI6IkRUMTA4NUdYNTRodEFoZUdsNXRwUlZkZjI5aGhveXJoVzVFa1paZnpTaUNGZ0VCQ2NZdVhNY29VMUFsRDlLV0p3SVArTU9wQXpkWjRWbHpORmNBWEZ5S2txSTF4MkI1WHQ2TCtQY0tQWEdORm9seTlGMTVVMW81YzNmTHY5OTVORnVMdFY0SjBKWVFzTVZXcnNuZzdISk5TeVRWR0VpTHdEc0xtWUpcL1NidGJBKytFXC9sWktcL1JFQWZwR0RoNDU2SCIsIm1hYyI6ImU0MzQ1OGJiNDM2MDJiYWFjNmE0NWQ5YmZhMTdhZTgyMzIwNjI1ZDRkZjMxYTE1ZTI5Nzg4ZDVlMWY2ZTFjMjkifQ%3D%3D&amp;signature=13d9be9e95c052777f69921f551a6d24273076912fe0e8d0a9721692d91809b0</image>
+    <start>09:01AM</start>
+    <finish>09:31AM</finish>
+    <date>13 January 2026</date>
+  </channel>
+  <channel>
+    <name>ABC AU</name>
+    <id>ABC.au</id>
+    <title>Human</title>
+    <desc>We follow our ancestors as they step out of Africa and into the wider world.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IldkaUZ5azRac3laaUNyYlNLZ3RpSHc9PSIsInZhbHVlIjoidFlUTFVjWWxJd1U1QXZmQVZVM0VFU1ZYeHpxMEplb2gyQkxiOUY0QTZEbjBPdWlLd0oybFNHeURnUjhuSHVaa0h3OVR6YURnSGRUTjR1K2ZTcWlIZFU5d04rNEcya3R1NkNYc2hHVVdvcXhiOEhrWnljTjI5elwvRUZPTXRkNFcwMGo3Q2JxRTgzMnNpYjFDTGZVN0wremFhcmRrMHoxUDBuTWwwMXhhVjQ5NGd2UjVnejFZejVtXC9WS3Rhd1RcL2NBIiwibWFjIjoiYzRjMWM5OGI1OTJjNjJmODQ1NjcwZjE4OTczNTAwNzYzOTAyNDU1ZTk4ZDc5NzE4ODliOWYwYmY5NGU4OWZjMyJ9&amp;signature=b57ccb1c3c599abd6609a60a87d09bf5d63ed30b10e505cf20f141864c1d7cd9</image>
+    <start>09:31AM</start>
+    <finish>10:31AM</finish>
+    <date>13 January 2026</date>
+  </channel>
+  <channel>
+    <name>ABC AU</name>
+    <id>ABC.au</id>
+    <title>Grand Designs Transformations</title>
+    <desc>Two Melbourne couples transform their homes - one will be monochrome, the other exploding with colour. Both battle setbacks and doubts as they chase wildly different visions.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IndIeXViZjNMNVY5MkZjaGU2S1liOEE9PSIsInZhbHVlIjoiZG13cVA3eU01R2IyRjdBaEtqSmowbFloNmVtWkhUUjV1YXFnU0lpTVM3S2RoN0JreGFTT0tcL1ZiYTFRZVVNV0Q0R1JsSnRFdFRSN0pqWkxDV3M3MWxpYm8zZ2pWM2phZHIwT2JGRjNcL1ViY0RyYVVqT3BIQVE3c1JCVUhxUWRtVm0xZ0syQlwvT1pqb3hwZVYreG1zeWZmXC8wTFBUUHZKSE1iSGRPdXhGYldFVHlqNGlKUkZaMWdibGoybCtrR2FmZCIsIm1hYyI6IjJjMThkZWRhMDAzMmUzMmIxZjFlYTM2ZjdmMWIzNzI2OWE1OGI0ZTNkOWU5YzIwNjlkYTcwMTBlMDcwMzVhMWQifQ%3D%3D&amp;signature=237ec9d325b4b91598b7f2179046eb69341a009d40bf5e9eae483e99a04b3640</image>
+    <start>10:31AM</start>
+    <finish>11:34AM</finish>
+    <date>13 January 2026</date>
+  </channel>
+  <channel>
+    <name>ABC AU</name>
+    <id>ABC.au</id>
+    <title>ABC Late News</title>
+    <desc>Follows the stories with the latest on the day's events, explaining what's happening and why it matters, with reporters across Australia and around the globe uncovering the facts. Presented by Michael Tetlow.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IlNCYW5nb3pcL0psSUM3UlI2aEhUN2JRPT0iLCJ2YWx1ZSI6InM5Z2wySkpJMU11OE41MThnRTVcL1VjSFQ4WW1hdG81OGE0b0orT01SOWxDZ2RFejQrdlpcL1dYcUZnUFI5emgwVnRjaHV4SmlLSHJYOGpPXC9xR3BDb3I1RHM3ZmdvWUdLd3pFZFwvdmY2dDB5VUN1ZzVKakVEQnFudkdUVGtTMHd5TDB2OTlmRWZ6anM4dWswR0JSOXJ5ZnVQajVaYkZDUGFtXC9sOFhKQXdBYTN6MGZEcmZZRnpDUEI1UFlCZFc3OFBYIiwibWFjIjoiYjU1MjU0YjU4NWY5ZDE2MzJjZTc2NDM4MmUxMGIzMDJiMDNkOTU1ZTJhZTZkYTU5YTA0ZmQ2NWE3NzVlMWRkMyJ9&amp;signature=eeaacf41d53fdd1cdac74feab29c9ff1d339fc9a78efbc13ab829454fcc07860</image>
+    <start>11:34AM</start>
+    <finish>11:51AM</finish>
+    <date>13 January 2026</date>
+  </channel>
+  <channel>
+    <name>ABC AU</name>
+    <id>ABC.au</id>
+    <title>Australia's Open</title>
+    <desc>Part two of Australia's Open counterpoints irresistible on-court drama with the nation's off-court divisions as they are unintentionally revealed to the world.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IitkRll0NUNwY2pwKzUwRnNlRnZuT3c9PSIsInZhbHVlIjoiYU9QMXBqRmFUXC91aXRGMU1yRTFPcktUTlRHTHQ5emFyYlRcL0Urc0czTFJxb1Q3V01OOCtsK3dBQkVaN2RpZXh4RjZKOHVRSEpBSVwvbkJUWUlINFFoOFZ4NEZ4cnZSb0tDbkVCYjMzVGs5ZTV3MUd5MG0reVFNWDlldkZCMGJhOXFqaWxmQUZDMTJPYkRUOFB5cG5rSkZDQnhKRjRcLzE4Um95XC9OZUxKc0p4M2hFdXd4K0RMMXp4UXByRFZpZ0dJMVYiLCJtYWMiOiIwNDU3NDg2ZjNjMGQyZjc3NjNkNTUxMWUwYzY1NTJkMzI2Y2Q1NWQ3MjEyNjcyNmExMGIyNTllZjI2MWQzYjVhIn0%3D&amp;signature=ebf0455fcb1c4f62fbdfad47ec38a9dce0cc9e09fc7486156632261ac8b8da8c</image>
+    <start>11:51AM</start>
+    <finish>12:44PM</finish>
+    <date>13 January 2026</date>
+  </channel>
+  <channel>
+    <name>ABC AU</name>
+    <id>ABC.au</id>
+    <title>Grand Designs: The Streets</title>
+    <desc>We revisit Jitinder whose house remained unfinished when we last met him - thanks to problems with moisture and his resin floor. Kevin goes back to experience the full majesty of his home.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IjM4MkRhZFh6clwvZFcyanRjWGhXM1h3PT0iLCJ2YWx1ZSI6ImU2QlJ2QzBhVHQraWR0dTVLUGp5clI0XC9TeVdZeEJ3MVYzb0s2dzNiczRnWjlOS1JxbmZzQ0VMYjNVT1l6OXdwcGlzRllOdCtUWXlkM3RMT25FdE81c0ZEbE1VQnhcL1BpUmtZeEQ2cGp0bTdVVkNNYUxRbFR5eW80OGF2RENIcnJMNjhQejJpXC9tS3FiQ2k5cllsVDNiUmxNcE45WnU4UEs0MHppNzVkcU9iNk8rVm1TQmdqY3RsWlNwUEtsVEphUCIsIm1hYyI6IjI5ZGQyZTJhN2EzZjE5MjZlNWQ2NmUwOGY3ZmRmM2YyYmYzZmQ5N2U3YTVkY2U4NjJjMzA5MmNmNmU1Yzg3MTgifQ%3D%3D&amp;signature=c5e3f1321d63899ab2d9b691c0f64db971659637086408a88ad28939f413e6b7</image>
+    <start>12:44PM</start>
+    <finish>01:32PM</finish>
+    <date>13 January 2026</date>
+  </channel>
+  <channel>
+    <name>ABC AU</name>
+    <id>ABC.au</id>
+    <title>Long Lost Family</title>
+    <desc>Two stories of babies given up for adoption by their mothers: a man who's spent over a decade searching for his mother, and a woman who's spent her entire life needing to make amends.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6Ilh1VzI4SXBrMkdSOFV3N3FlcjU0Z2c9PSIsInZhbHVlIjoiVWk5WjJzK1RsNHBSSnh2QzZNUWduVmp0ejlTZEdPWnk0NEVHWHpaYmFnWWpoenZ2anExK1pMNkNGaDAzXC9zYWJrMnlDZXNHS1oybUJrYWhzcUV2eXRyTGZ0bVN4XC9vczJUSDVySXBJYmprOXhOdGd0czEyT0xHeXRDRDJoSzF1RTJvNUVmYmpPWENZS3E3VklQQ1ZJYzVEVWlvdmV6MlB0NUMwMFhUSzRNenVhazRwWVB2R0hDWE1TcjZvbXVjenkiLCJtYWMiOiIxZTg5MDA5YmFkODc4OGEzZjRlMDBlNmIwN2Q1MTkzYWE0ZDU1YjI4YzcyOTkxNTJkNjNmOWU3NzMyN2U4MTNiIn0%3D&amp;signature=8c4456742c0a50bf8b334056bb31db56f47f7a7a6662da403806034b43554656</image>
+    <start>01:32PM</start>
+    <finish>02:22PM</finish>
+    <date>13 January 2026</date>
+  </channel>
+  <channel>
+    <name>ABC AU</name>
+    <id>ABC.au</id>
+    <title>rage</title>
+    <desc>Australia's longest-running music show is home to the biggest vault of music videos from a diverse range of artists, genres, and eras. They curate the best clips of all-time to entertain for hours.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IlFQZWRMcFhKeVBqdmZBZklcL1d5SndBPT0iLCJ2YWx1ZSI6IjdwWTArSlV6ejhScVRuM0M2aTVMSlpnSzhEcmN3T1FPSEsxWTY4VEQ3NGFSTU1uYThZaHlkNnVGeFJkZUVYbURTNTk5anptVDlxNHBGSm9GMDhybFMyYWpmdTFtQTl0bjVvRlwvaU9hRCtsXC9ERHEyV2JXVElFblNmcDlycXFyQUpCc2tFcE1MVGdXaFFjVVROZFV0S0tubFwvK0cwQlNhNkFubG02N0lhbEZkektjQ1hSNGp2RnBKM3p4UU5jRFhpSCIsIm1hYyI6Ijc4NWQ0NzBjODUyMDU1ODQyYjYzOTBiY2JlZWRkYzkxMTIxMDQxMzRlMDFlMWQ0Y2RlMWExOWYyNmMxMjljMDgifQ%3D%3D&amp;signature=f7103714bb3017ca632fc08b8ad20ae064b9d229f6d299365a176d2c20456520</image>
+    <start>02:22PM</start>
+    <finish>03:26PM</finish>
+    <date>13 January 2026</date>
+  </channel>
+  <channel>
+    <name>ABC AU</name>
+    <id>ABC.au</id>
+    <title>Close to Me</title>
+    <desc>After a fall, Jo loses all memory of her last year. On her return home from hospital, she begins to have flashbacks that make her question if the fall really was an accident.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IllJRU8yK0UyWnZZSEhKNFBKcUk2OEE9PSIsInZhbHVlIjoiTmVFK2h2ejRjbEIyQWZXUU9SKzhzQURtN2FxQXVtdFA4SHlDR3pEK21yeG81U1Y4amRnZkJNVVEyb05KZHVOM0JyRGlJVkhHS2VUVEp2RVFlZGQwMlc5NVc1UEZmVFNOSkRLZFpDTlFCM3hKUTZHNElvUitUc3d5Q3BUVzZiN3liWjZFUWhLRjhBMVwvSktPMjhLM2xaNVpUeTdVRmkxRjBHS2tVN0RCZmNaQ0QyMGsxbjdMajhlaHVIKzhTNTdqeSIsIm1hYyI6ImJmNzg1ZjQ3NzdlMDYwNjM1M2Q4MGY1YzNmNTYzZjg4YTMwZDczODNjNzNkYjMxODI4YjVjZGUyOTA2MzY0MGEifQ%3D%3D&amp;signature=1b3ebbd3f908da22aa1124708a0a043c8e1d789c6a387c15c0112eb8b5a6cbf8</image>
+    <start>03:26PM</start>
+    <finish>04:14PM</finish>
+    <date>13 January 2026</date>
+  </channel>
+  <channel>
+    <name>ABC AU</name>
+    <id>ABC.au</id>
+    <title>Close to Me</title>
+    <desc>Struggling with symptoms of her brain injury, Jo seeks help from a support group and makes a new friend. Back home, Rob admits to something he's ashamed of and more family revelations unfold.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IkdsckFLXC9cL1RYZTFTdGJcL0NFelo2a3c9PSIsInZhbHVlIjoibU9zdUJLeVVCbjVMYU1RSzJJdFdVcHFJdkJIRzZFWHVieGtCYWs3T2tZaVdsTDlKd3pLR29FXC9SaUU4WkhqNHZUekJLcFhUaUFLVjBGV2U5WFg3a2t6UFJBQkM5S0RNQnM2T09wdndQaUVVandPZlRvYTJhSkJCUGZRZ2JVOXJxR0hjckZPWHdmQ0QzRUZhK09hcG53UjY2aHVvMXNMYTh5Z3VKRW9FODRhVzg1VThNaUR3dEU4Qk41eVN5UGdHdSIsIm1hYyI6ImFiMWUxOTM4MGJiMTllMDNiNGViNjY1NDMwZDc3ZTk3YWIzNGE1ZmMzNGZhZmI0N2I4YWE2MWM4ODgyMjM0NzgifQ%3D%3D&amp;signature=be7fd305f19178459cb3985de14db93b184d2aa641efb3f7f2335073e265f14e</image>
+    <start>04:14PM</start>
+    <finish>05:01PM</finish>
+    <date>13 January 2026</date>
+  </channel>
+  <channel>
+    <name>ABC AU</name>
+    <id>ABC.au</id>
+    <title>Gardening Australia</title>
+    <desc>Millie Ross harnesses the power of a hot compost, Sophie Thomson gets espalier tips from an expert, Jane Edmanson revisits a stunning native garden, and we meet a landscape designer with an iconic style.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IkFzOEZ0MTJDXC9ZaDYxXC9vZFRsQ2FqUT09IiwidmFsdWUiOiJJTmx0R2RmZ01FXC8yV1dCNzJiVjRnMXpqZEhTc0s3RlliM3hISERFOUxWYmhMbFwvQlJLZjFjN2RFdE9CQkJ1M2pvYWlWa1hqSVdTT1BSMEd0OFpKXC9udWFpUGNHa1l2ZVRNY2lhVFBMOExTemVpYXM0M0xSVVBPSWJac3o3MHk3QXM3N3F1bjc0Z2ZcL0pJTGpHcDRMaVg3a3hPT2d6dWhsNmVFWXY2OVdVdGRzeEtIWks4WDBWcVhEQU9MY2xacXdjIiwibWFjIjoiOWM2MGQ3NThmNmIzYzExNWM0NjEzYjQyMTM3NTg0YjhjMmZkZDMxYWU0MWU1ZmU5NTdkNjllZDY4NjhkNDY0YiJ9&amp;signature=a1e3b6d5266310d499df94aba29e1fde3c4131218fc6b44af01c5206c71b2406</image>
+    <start>05:01PM</start>
+    <finish>05:59PM</finish>
+    <date>13 January 2026</date>
+  </channel>
+  <channel>
+    <name>ABC AU</name>
+    <id>ABC.au</id>
+    <title>A Bite to Eat with Alice</title>
+    <desc>Alice has some treats in store for funnyman Dilruk Jayasinha.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6InYrT3dNK0Z4aWV3OTliRklJa2F4Nmc9PSIsInZhbHVlIjoic2pQb1wvYWdHeVFmXC9QTDNJQisyQmtkWm1Ga0FNWURoMHlsNWhEcVRwY1dRdTB0bEowXC9ZNk92SlNtRFlqRkU5YmNxb09zdERNSnVtQmtTaHZTMUZSK1FSNGlCbWhKZVFWRnFXWDhcLzQzdlQzV0xyMFRSRDBjSlNSOXMyOGVpWDJJXC83aUFTNWRGRnQxY2l4ZW0zME44RGxTVGNkZnBzaTZndnVkNFdoRkNWQUtXY2Y2d2lNU0FZVWhvNjVhTU40UGsiLCJtYWMiOiJhODcxYjM5OGQ1NmNiYjAyYTM2OTZkYjUzMmZhMmViYTI5ZGFlNjkwNTg4NGEwMDk0ZmJjMjhkMjYzNDg1MmYxIn0%3D&amp;signature=8c8368255706663bca67939976cdf8a814de7b5ff61dfedb287c5fe3886c15e5</image>
+    <start>05:59PM</start>
+    <finish>06:29PM</finish>
+    <date>13 January 2026</date>
+  </channel>
+  <channel>
+    <name>ABC AU</name>
+    <id>ABC.au</id>
+    <title>7.30</title>
+    <desc>Michael Rowland presents Australia's premier daily current affairs program, delivering agenda-setting journalism and interviews that hold the powerful to account.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6ImZFUXB2UGorTUlGWVJJNU1NN2dOOUE9PSIsInZhbHVlIjoidTJwWGlneGV0ckJ6cDA4ZDdOc0xkZXhKdll3anl2alk0T2lEQ1hSQjVRdVB6NVwvaXp6ZHVQelFDNHNSQW1TdTdKaDhGUjIwRHNHdzlndlFmYm9xYkVHVmVOU3Qwb3JrcGFCTm5hSzN2NWVXRk5UTXFsOEx0OXhvcFJNYzNrYnV3OHhHb1lqYU9DdThKcmZxYkJhUnlmUnpDUWV3RDZGUVhpUmdiaUVXTnpWNk9RK0x1ZndHa05IdlwvQ2tsNGJZQVAiLCJtYWMiOiJlNTA2NmYzOGM3OWJhZWJmYzQyZWI2NmUzYmJjNzdhYmQ2MGE2MGNjY2Q3YmY0NTI3M2FmY2M0YTQ2MjYzYzY2In0%3D&amp;signature=33b92a088d196164bc21f784f03e04f9fef6b9ef9f8fb0ba2b797f7e6b09faf0</image>
+    <start>06:29PM</start>
+    <finish>07:00PM</finish>
+    <date>13 January 2026</date>
+  </channel>
+  <channel>
+    <name>ABC AU</name>
+    <id>ABC.au</id>
+    <title>News Breakfast</title>
+    <desc>Start your day with the latest overnight developments, breaking news and today's top stories. Emma Rebellato and Catherine Murphy bring you news and interviews, joined by Johnson Raela with sport and Nate Byrne with weather.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IklqdlZiXC9ibHprUmc2NnpnY2xpQmpBPT0iLCJ2YWx1ZSI6ImRTRXQ0eWZiRmg3K1ZRd1hnWDhlQyswWk5hTDhsWHczZ1JsTjRYNWE1RHoxXC9pZnpMSW1xVVVXZ29GaldzVmNnMXc2ZU5YQzFpWUJsenN2OXpsdE1PK1Y2OG9KNU9xV2I1b3hoNlllMXJGRHo5RDZSWHNibXN4dVwveVwvNlwvZGN3XC9mXC9xMHorUjdROXdvSUYwS3EyYzdZSjJVVjJXaHhYS3htRWtMRGlIeStaZ09DS1o3dGVxZFdsbGp2VU1jdXZDTyIsIm1hYyI6ImM4ODFiMmJlYTVkNjIxZDViY2Q5OTZiYTA1Nzk3NzFmNmJlNGQyODVhNGMxMDBiNmIwODY3NWVhN2JiOGJjYTgifQ%3D%3D&amp;signature=2793771ee54b2749dd9939e98c8e422211010dfd0f1d9a50772de4b52fffdf66</image>
+    <start>07:00PM</start>
+    <finish>10:00PM</finish>
+    <date>13 January 2026</date>
+  </channel>
+  <channel>
+    <name>ABC AU</name>
+    <id>ABC.au</id>
+    <title>ABC News Mornings</title>
+    <desc>Stay in the know with what's happening this morning. ABC News brings you up-to-the-minute news to fuel your daily conversations so you can stay connected and follow the discussion across the day. Presented by Gemma Veness.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6Imxua3pnMXJQT2F5OGVncVNyVDJWdUE9PSIsInZhbHVlIjoiOTRpb1FcL3FLbjhhUDBwMk9NcndIc0ozXC8zZzQ1OW1PY2pnOFlrU3JINTFKVmFleWhuMXNsOEkyTUJzSWRRMTR4YWN4TjRUdmg1Q2F3MG1OZHVZXC82RkRlclRuZ0Y0OWxrSWd1V05sMVdUYk1oamJyaHlXQmo4ZnNWQ2V3NUJuZHJvU3dxYUZFbnBxenZvMHNZR0dOdXVtcVFIUG9VaEhXeWlBUW9XYVkyY3ZwOEUxeWlSS2d3bUFrSFBTMVpBOUI4IiwibWFjIjoiNzA1ZmVhZDRhMjVhNjFhZTE1OTBiMWUxNDdkMzkxNDQyZWYxNGJmOTkyYWI1MTUwYTE4NTMyNjQ4NmM4ZWNkOSJ9&amp;signature=b39645e0136089436eb7f43f603984cfcc7b9168db1d82cc0cd5f7504a05fe25</image>
+    <start>10:00PM</start>
+    <finish>11:03PM</finish>
+    <date>13 January 2026</date>
+  </channel>
+  <channel>
+    <name>ABC AU</name>
+    <id>ABC.au</id>
+    <title>Australia's Favourite Tree</title>
+    <desc>Dr Ann Jones and Paul West travel around Australia telling the stories of eight remarkable trees from across the vast and varied landscape, before a panel of expert judges will crown Australia's Favourite Tree.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IjlZakpJRFQyNWdOejQyYzZYN3NXYWc9PSIsInZhbHVlIjoieGRnTWREdk1RS2FTSVwvbUJleWpUMWFyQjNPMWVXV08zeXVCWlA4TXUyblRNZE9JRWhRZEkxT29wWGhIUDdreDZwZXdCZnNVMFlpZFJMWllSemh1XC95c3IycjNJRjdyNWt2SzBUUnVWSzZRMnBJWmxTM3grXC92VElqRFBTMGtITDZhR1FJaUpqR20zNlNPZWE3UWlzQ2tFaWt2ZUFrb3VsempnUDJBTFBrK2hlQlZDUlJWeStveVExK21uaUxNNlhKIiwibWFjIjoiNTVmODdkNTM1YzVlZGQ4NmZmOTU5ZDk3ZTY3NjNhM2ZjNmVmZDY4YTdhNzVkNTdiMDRiOGFmNDlhNmEzNzgzNiJ9&amp;signature=6094f92d67accb37cf880850974f0dcbbf203e0dbce437091eb5d34c211bb1fd</image>
+    <start>11:03PM</start>
+    <finish>12:12AM</finish>
+    <date>13 January 2026</date>
+  </channel>
+  <channel>
+    <name>ABC AU</name>
+    <id>ABC.au</id>
+    <title>All Creatures Great and Small</title>
+    <desc>It's Baby Jimmy's Christening day. There's a surprise announcement from Tristan and Siegfried makes a promise to himself that he might struggle to keep.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6ImRmaU84cGpmbUZXVEs1RHR6dE5EWVE9PSIsInZhbHVlIjoiUDFsTittSU9ybjRzUnlzVXg1aXgzZWJCcGRDRXlxZFJaMVBQVjNZNWRuY3hWQjdudHFYMlFGbDNoVzk0dk4wYlg1a0ZFUlwvZ2tVMlFmVVVsdEZudEZ1Zlk4b0g3Q3Z6NEI5YmJzU1MxeTg3MTRTeDB1cTRjZHRSS0dNVHlaTUkxVkp6UXp0d2ZxejhZTExuTEs2M1pmbFdFZnNYSXptSGt0RUE4WWdNWXRzM21BalEwOHh0dkEwUXJIcEFsNVhJSSIsIm1hYyI6IjQ0YzcyY2NmMTAyNzQxYjZjMWIwODNiZjI0YzJlZWMwM2ZhMDJjMmEwM2ZhZjBmNzMyNjdjOGUyNzJjOGI0ODcifQ%3D%3D&amp;signature=176b919a4c65855249944a872f776ade53aafd970b42bb8803b85c419ec79851</image>
+    <start>12:12AM</start>
+    <finish>01:00AM</finish>
+    <date>14 January 2026</date>
+  </channel>
+  <channel>
+    <name>ABC AU</name>
+    <id>ABC.au</id>
+    <title>ABC News at Noon</title>
+    <desc>Ros Childs presents the leading news at lunchtime, including the day's top stories and the latest news as it unfolds, with reporters in the community across Australia and around the world reporting on the issues that matter.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IlNkQmlaU2lGOGQwRWlJUERyaW1uUVE9PSIsInZhbHVlIjoiR0RZSWx2Q2Zjem5EWWRBT2RHU2pFMnhEbmxLeXEwdnJPYVZzYkhQdlwvaDNIdzZteGVtTUl6VVdpOGVESUNPQUQ3TCswWVpocTRcL1FtUmNGeUtneHdoNm1UWHUxVVg0WWFkQytEdGRNRFVPc3VBU2dkSmU0Vkxoa0FDVTRzbFwvR1ZpaWpGa0lXRlZ6YUhCdG9Ka0tHOCtydjZpWnlCVHFLQXZDNzUxMTBuaXNYdko1T1loYjJSOXZDR0xwc2FvN09GIiwibWFjIjoiY2ZhOTk1YzAxYWZhMjdjYTE2ZWZmZTc5YTZlMmMyYjYzZDg3ZTdiOWJiNmJiNzRhZjQ5YmIyZGIzNTkxNzc0OCJ9&amp;signature=107f13afe4e919c8bb60eed6e26a3aad56dafc1508ca64fce59d2fd5a205d5e6</image>
+    <start>01:00AM</start>
+    <finish>01:59AM</finish>
+    <date>14 January 2026</date>
+  </channel>
+  <channel>
+    <name>ABC AU</name>
+    <id>ABC.au</id>
+    <title>The Cry</title>
+    <desc>The police begin to investigate Noah's abduction. The world's media descends on the small town of Wilde Bay. Alistair and Joanna are scrutinised as speculation spreads on social media as to their guilt or innocence.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6InUxeFZHS01wcDUwa0h0R1JzSEJjR2c9PSIsInZhbHVlIjoiYnNzK0N1Y3hcL0RmQ3RLcWp3a1lNbWl6RGZZb3FoeDhDUGRxcnpcLzkwWU9HUkp2UXZyNWtvVFFoMFZQdHhDeGRidzI0MW5SK1EyRUtFOGdFVnhQclVDeHVTdEJqdUgwbTVrMCs1UjVNY29pTGhpeW9ZU2EwXC9xTlY4N1JqSTM4clhYYXNSTmlkNWFLZW9iUzdRZ3AwS1VFaXVPWFROc2JSME9BZ0lBeU9JYkFMZ2w3MlhSclpidXpUTzhMaDhaTXdHIiwibWFjIjoiMWVmMWVjZmMzYjc2YTMxMjBjMzgxMjMyYTA0ZThlZTcyNzk4ZGQzZGViY2JmMTBlYWY4Yzc0ZTU4NDk1NmUxZCJ9&amp;signature=b098478e5a708f0cc45366454b9d77db82b4da4a228f28ed84d8d3b8e3e2982b</image>
+    <start>01:59AM</start>
+    <finish>02:58AM</finish>
+    <date>14 January 2026</date>
+  </channel>
+  <channel>
+    <name>ABC AU</name>
+    <id>ABC.au</id>
+    <title>Restoration Australia</title>
+    <desc>Host Anthony Burke meets a family aiming to turn a tiny war memorial church into a holiday home in the face of local hopes it would be kept as a venerated public landmark.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IjRvNHRcLzFlUUJGTktHMEUrTmhTVnRRPT0iLCJ2YWx1ZSI6InFhRmk0cmpONTdZMUtJMWJMbUVsMmNDRVp2VjRhWG5TV0dCSElFS3FoaEhGN1wvUWhhWjA2Q0t4Um1xVUtSZHRSd3d0ZDNcL2Zya0pUODNcL0I4WmxkdXgwK2IxU1R3WHZLN2Y5VHIyakVFR2RmWGpoQnhhRTROcUhtWm1VRFwvclQ3b3VVSG9zNyt0cmRGN0xuM21KRHd0QkxZMHZkMlhtV294RWFyWEwyMHVmam50VUI2MGw5U05DY0p6Q0Y1RHArXC9IIiwibWFjIjoiNTY5NDhmYjYyNGZjMjY4NGY3OTNkMTZiZTIzZjIzNDg2OThjNzRkOTI5YjU5NTgwY2MwMTY4YmNkNGRlZTA1MyJ9&amp;signature=7354158f105019de3d74ac1497e21a1c623d81f939ce8e5acfb9cb3c9ba5b9f8</image>
+    <start>02:58AM</start>
+    <finish>03:56AM</finish>
+    <date>14 January 2026</date>
+  </channel>
+  <channel>
+    <name>ABC AU</name>
+    <id>ABC.au</id>
+    <title>Would I Lie to You?</title>
+    <desc>Rob Brydon hosts with team captains Lee Mack and David Mitchell. Sorting the fact from the fiction this week are guests Jack Carroll, Bridget Christie, Gabby Logan and Big Zuu.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6ImdxSHVzNmVDS0hiSjFBcGNEZFZTOEE9PSIsInZhbHVlIjoib1hwWmxDNFQwRWVlS2ROcFwvKzE4cEhXaEJcL0NuY29XMkw4aXVoUFZmWG92bHd5d1pYbnR1ckpJTFcrdUM5aXkrcmlRV2RSZHVtOEJuZ1pFRlJvT2VzbWVCU2JcL0Nqa0VIeVp5Nkp6N0pyT0VyZXl5XC9Kc1lBWExyd05IcERBZ0tVNkkwOHlQKzA1T1NSdzN5TG5RNjlwN0hHM1hSOUN5Sjlpc2ZSOWZ2Ryt2SkVITzhFV3pXcmVhMDRyTkN1YkgwQyIsIm1hYyI6ImY1Mzg1ZmVmMGNiNDI4MTgxYzc5MTc1Y2VmZDUyZmI0YjFiMzRiOWZmYWQ2ZTJhNzkwZDRiNGFkOTliNWZjMGQifQ%3D%3D&amp;signature=78794ce66d788e89b9aaa37be240ce644c2522f0e0d877eee0f811e0041a08c1</image>
+    <start>03:56AM</start>
+    <finish>04:26AM</finish>
+    <date>14 January 2026</date>
+  </channel>
+  <channel>
+    <name>ABC AU</name>
+    <id>ABC.au</id>
+    <title>Nigella: At My Table</title>
+    <desc>Nigella Lawson shares ideas for feasts throughout the day. With friends to entertain for dinner, she rustles up Mediterranean spiced lamb kofta with garlic sauce, followed by rose and pepper pavlova with strawberries.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6InlZN3Q2SzVobU5rRTQ1TGp4MHNSSmc9PSIsInZhbHVlIjoidzJxZzByVks2alJYbDVPeEZ5WTArSVJCNDl6eGZkUWZFbVBkNjZDSFdwZkpPdWwwaDdEV1JDUzBkZzh3VXMwWFR4YzlieThLN1NvMDBxOEN6RmVXeU5xMnl6QjJHbGt1NVkwOXBLQitPT1N2NDhOYmVONEhnazljOTY4MVRnVzZUVzRvcE55T0lXbTJHcDl4NHJKeEg5WjAwcXBFTVBFRVNpVVFPQ0JJdW51N0tDVnNcL01cL2ZMWmkxOHlwd1FFbDkiLCJtYWMiOiJjY2VlMzZmOTdlN2VmOWFiZGVkZTI3NTVhNzRjNGQ4YmRhZTFmODc0NGUzOGVjOTk4YWQ0NzNjNDdhMDA3YjMyIn0%3D&amp;signature=34f93a13561c03d9da54d17bd5345641406955da2b40fb8f3d88018ca1af6f86</image>
+    <start>04:26AM</start>
+    <finish>04:56AM</finish>
+    <date>14 January 2026</date>
+  </channel>
+  <channel>
+    <name>ABC AU</name>
+    <id>ABC.au</id>
+    <title>Grand Designs: The Streets</title>
+    <desc>When Jane and Richard met, Jane revealed that she was building her own home as part of a fresh start, Richard was inspired and decided to do the same. Richard chose a plot three doors down on the same street.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IlBlV29aNDFOWTA4Yk1YSmRGNFluclE9PSIsInZhbHVlIjoiUDhxTmFcL3pER1dnQTdkQkF6OW1IcTVsbUhFV0dCUUNPOHptVnB5RFZPd045Z2plUWRGWlRBZDJsZkFyNGlGZlwvZkxKUHkzUWFPRyt0eXBwaFdtK2s3Q3REZjdxb3ZxT3hjYXp5VllNTjJ1UlRjaWRGRzhKYytGdVJaZ2dhbGxOQzVyUDhVVHVcL2pVcXdiRTZHV056Q0dTTWNRM3l2cU52REVJbUFpcUozcGxoaTE3SzI5Q2RiaksrWExOTjhBUUdpIiwibWFjIjoiNWU4N2VjNjE1MzI1M2NiMzAyNTE3MzI1MDM5MzcxZTI0YjNjMTk4MDk0M2NlNTRlZDJiNGQ1MjFjNGU0ZGQ1YyJ9&amp;signature=9229341176ec31dc285e5645a58cf0c7b3922ba4bd69ba6c0093f6e9bf2c1d34</image>
+    <start>04:56AM</start>
+    <finish>05:44AM</finish>
+    <date>14 January 2026</date>
+  </channel>
+  <channel>
+    <name>ABC AU</name>
+    <id>ABC.au</id>
+    <title>Long Lost Family</title>
+    <desc>The story of a woman desperate for a second chance with the baby she gave up for adoption nearly fifty years ago, and a sister searching for her brother who mysteriously disappeared forty years ago.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IkREakpIMXh3RUpGN2grMGxIQndBcHc9PSIsInZhbHVlIjoiMDhsN25nRmJpdzlcL0FyMlRDWG1cL2dhcmVuXC9wdkg2Qjdudm82TGxwcFNKbXhHbFhxalwvdUJ1SFJBVjM5cGNiYVZZZHVDS053REhRaThnRTREWXhJUEJDUXF4c3NSR3luWlo0XC9DM0JNN1ZWTkRWS1NmM2xXNkZTSWxVdWdJTWpnNDR5NTRyT2t3U2gzeWVsV2JTNEtLaUdXb2g2ZDZOK2FUd3g1Ykl2UGpzV09MWWsya0xCTlJ4Y2tOVUxMWDVHc04iLCJtYWMiOiI4MzVhMTA1OTdlMTkxOTRkYjFkNjZkZjQ3MDQ2NDBmOTQ3Zjc0YzFmZjU2N2M5MTZlZGY2M2FmMGY2YTdiNTk2In0%3D&amp;signature=5b69d5aec9f8a07af83d284ef6e28dc4dd4901a12003d806a61dc7ac6a7f635d</image>
+    <start>05:44AM</start>
+    <finish>06:30AM</finish>
+    <date>14 January 2026</date>
+  </channel>
+  <channel>
+    <name>ABC AU</name>
+    <id>ABC.au</id>
+    <title>Antiques Roadshow</title>
+    <desc>Fiona Bruce and the team return to the magnificent Broughton Castle near Banbury in Oxfordshire. Objects exciting the team include two very large portraits depicting servants who worked at the castle in the 18th century.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IkxNcjRxRnZBTXU1NE8zd05QRml4Snc9PSIsInZhbHVlIjoidTc1eTF1c000cHpXY011eE9BaGtOWlNrNjNaWUNsUDlaTEFqY1wvdnFxWjVOUzFyaGxnQ0hoNFlYOFZlZ3ViQW1GRElrQjNNeHN4eXJ2S1hhd1VhN05cL0JSNHltZGU1SDJZWnBTZEJ3SXl5S095b3JcL05KQ1wvRWJ0ZHZCbHU2cTdKVDAwT2tLRGZ2NStGVEtkZGd3dE8wd2JhXC9nK2J4VGl0VzJkNE9yODlXYTVwVkpXYU1NXC9pR2htYjA1eTd1S3p5IiwibWFjIjoiYTNmNDg1YTFmZGQwNTA2ZWI5YWE4ZWZiNDNlMjkyZjdhNDJiNzJjYmE5YTA1NTI3NDUyNTZmOTdhMWZmZmRiOCJ9&amp;signature=8742c4d2304fb6940585a1b8616929622bf5e06b5b75131faff38396a1cca269</image>
+    <start>06:30AM</start>
+    <finish>07:29AM</finish>
+    <date>14 January 2026</date>
+  </channel>
+  <channel>
+    <name>ABC AU</name>
+    <id>ABC.au</id>
+    <title>Hard Quiz</title>
+    <desc>Quizmaster-General Tom Gleeson pits a Julia Gillard diehard against a fan of teen soap Gossip Girl, a Tiger Woods obsessive, and a gentleman with a perfectly normal interest in Jack the Ripper.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6InJKNzVlaURJd0Q0VHQraWpheDQzK2c9PSIsInZhbHVlIjoick50NXp6Y0RLZmt1N1BMTnE0WGE4Wjd3b2psRis5RnVJQnpUSm91dktWbWNwc3dNSFBPTktcL3kxa3lpWVgrejk2VWJNc0ZXalFFWGxTOFBMZUl0MHJsYzZQVDRVU0UzdHBTQzd3MFdrS2F2ZURBbDhKWjZXQTlmaUJ3NW8wWklaMVZuTTBNcFdcL1VEWWlERVh2QzZ4R0hcL0k5NFM5U29ORnlRMEVcL1MzZEt0UE9IbXhjY01lOGdpNVE1RTZvN2F0ZCIsIm1hYyI6ImM1OTFmMjI2M2U2YjViMmQyMDdmNDNiMGQwMmY2NDUyYWU1Y2IxZTBlMmI3M2IzY2I3YWNiM2MzY2VjOWE4NWQifQ%3D%3D&amp;signature=bcb071eca69c0bb1694747aa54c5cc25e1bfe6ec22170d0b1f84e4d3eda56844</image>
+    <start>07:29AM</start>
+    <finish>08:00AM</finish>
+    <date>14 January 2026</date>
+  </channel>
+  <channel>
+    <name>ABC AU</name>
+    <id>ABC.au</id>
+    <title>ABC News</title>
+    <desc>News from where we live. ABC News NSW brings you the day's top stories, exclusive investigations and original reporting on the issues that matter to you. Presented by Jeremy Fernandez.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IkZ1N0hDbkk5UzcwM01qYjlzdkRFZ3c9PSIsInZhbHVlIjoiQ1dtVzlpQlZKcnVlSGptaEY1UlpPRXdVMTF5QkVEQ0puTDZXdDNzY2Z2NXM5dERMdjdPNWxNdVVMakc3TktXU1h2dzd1bVkyMSs5SDk0VWtUK3VkMWtBQ3VXaVA1R09udXNtdWNBMWI2dkpLREkzd3ZPSlJteGR5bnptTTBPR1BWQW5jZElKYithakdyWTBHXC9uc2ZSVkxOcmZDYkF1SGdMZ0pcL3ZkalVwVGJkTjQ4cmNhZ2ZGZ3dPWGlKSWl4WkoiLCJtYWMiOiIxN2VlMmJmYjllMmFmZjkyZTBjZDY5YzViZmNiOGQ2NmE1ZTM5NmI4YzM1ZjFlYzQ0NjBlYTNhODZiOWM5YzUwIn0%3D&amp;signature=7253bba1cc6194a48f7b8c1ac5cd198966b014558fbc09ad7c42481b60bc0ba3</image>
+    <start>08:00AM</start>
+    <finish>08:30AM</finish>
+    <date>14 January 2026</date>
+  </channel>
+  <channel>
+    <name>ABC AU</name>
+    <id>ABC.au</id>
+    <title>7.30</title>
+    <desc>Michael Rowland presents Australia's premier daily current affairs program, delivering agenda-setting journalism and interviews that hold the powerful to account.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6ImJLXC95MVNsRCtyVkdXWUh1dVwvZkJBZz09IiwidmFsdWUiOiJUaVpTVVwvTDBqRlZSTmNwdVY0QUhiZ1FadWlyck15aWJMMnZoOE04eEdsckY0RU5IYWlmakNGdW14UjlPWWlPV2NMaUdVTU9jTzB6NUdYdVB2d0R5eUpzVTM4V2ZVczE2dTFVS0VlekZNakJ3MGoyYThvWCtDWko3S2NRZmRlcHZYR25MSEhQSmdjVUdzVEMxaDFvUUIwdEROSXRrblc5MUdBVWhaYXdFSExuXC9zc0U0emZpbk01THM0eVkraUtqayIsIm1hYyI6IjRlNGM4ZWVlMDRjMGIzNzY5NzNhNDRkOTFmMDVhMDcwZjI4Njg5MDcwOGM3NGNjNzJlYzM0ZjBkMGJmOGFjMjcifQ%3D%3D&amp;signature=97e3e7e7ce11e1ee0902b67db1544b907492f8d7806c2f7e3fef612da76a423f</image>
+    <start>08:30AM</start>
+    <finish>09:01AM</finish>
+    <date>14 January 2026</date>
+  </channel>
+  <channel>
+    <name>ABC AU</name>
+    <id>ABC.au</id>
+    <title>Hard Quiz</title>
+    <desc>Four know-it-alls try to get their hands on Tom Gleeson's Big Brass Mug, but which eclectic topic will win the day: the French horn, Franklin's lost expedition, kookaburras, or the film American Psycho?</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6Im1pY0thS2o2QVN4T0xub0NXeTdWeGc9PSIsInZhbHVlIjoiS2crWVpEelZOZHdBdVhEempJOCt6dEUwUnU3TG1idkJ4aFZweTMrUWRpdmk2NGZDUzBYQ2lIK29oQno0WThvQXowRXk0a2NoMHB2VitmXC9jb3hhclp0ZForT21yXC9SQmRJZDlVREVXeFNpclB4ZVFHbE9GcjdCMVUrOFRvTEpHVXl2OFoyT3J6SkdxV3p0NWxybEphOHhWR0xYZmIyR0lmcnRzbFVzRFBwbFlQeDl5ZVQ3XC9KSGRLRnlua1BLRWk2IiwibWFjIjoiNjQ3OTliOTQwNDcwMWU1ZGJiZWMwNTZhNzcwMzk5NDE0Mzg5NTU4OTk1ODY3ZTBhZDZlMjk1Zjg3N2Y2YThkNCJ9&amp;signature=170feaaee0f8dd29fedacfb34addae9f6d660c5e4b25c45e455ccc549e37b3a8</image>
+    <start>09:01AM</start>
+    <finish>09:32AM</finish>
+    <date>14 January 2026</date>
+  </channel>
+  <channel>
+    <name>ABC AU</name>
+    <id>ABC.au</id>
+    <title>The Weekly with Charlie Pickering</title>
+    <desc>Charlie Pickering is ready for 2026 as The Weekly is back with TV's best wrap of the week's news. We watch it all, so you don't have to.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IlVwNkRDSUhybUJGXC9JTEdUZzhteVNnPT0iLCJ2YWx1ZSI6IkNPMXl1TkFXSG1TY0lkS0lyWmYwcHg3WVZyOWFSTklmYTNTZ1czVUg0Y1NsMGVLemRlMVpWN2s3S2xvdkhLdktjcXdOMXkreExaTkxPamFPc1VDMVdDYWQySmhCTTZsK1lvdkExdjMwVThrOElzTkk1bVlIaGlBR0d3SFByZG1hMXZcL0d5UStreXg3cVg1anhLSlVYUWFtZlwvbFhBY2pJVWFvMEZuMVhnQXVZZGhMZ2JlV3ZnTENzRWFcL0NCYzIybiIsIm1hYyI6Ijk3NTY5ZDk0OTk4ZDRkMTcxMDlhZDIwMzU1NGU2NzVjOTU2MjhiMWJiZDhkODhkNzQ0YTkyMjdjMjA1ZjFlMTQifQ%3D%3D&amp;signature=49d673fba450aa77cce10062107d6f0676eb1c6f2277496dff72cf0d95a3d2a4</image>
+    <start>09:32AM</start>
+    <finish>10:01AM</finish>
+    <date>14 January 2026</date>
+  </channel>
+  <channel>
+    <name>ABC AU</name>
+    <id>ABC.au</id>
+    <title>Spicks and Specks</title>
+    <desc>Can bodily functions be musical? Find out in Look Ma, where Solomon Frank sucks the air out of his clarinet while Hatchie, Will Gibb, Marcia Hines and Dave O'Neil try to work it out. Kate Ceberano performs a musical medley.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IkI1UEhQajhINTZSaitoekgrdjBHMVE9PSIsInZhbHVlIjoibXBDM1hSRUpQQ3Q3UWNDXC9rYStWWHVPMTJvVHhmNFlZXC9mQVl3em9zNjRuRFVvUlU3SFk4bFlUSGNoZzVBVG14MUNHT2JkbjBxUmdtNmQ3aFwvclQ1Qlg1bXhzSjdVcWhSaVgrVnBzbktjS2VyeGdEbVZoUWtOZVpUcEJ4aStnSDN3OXF3blVVU0ZWcVlHdnFuZzI4bHFhTVFaeDdZOTAzakx3bGtGVjh0QVJjYm9wSzNvdHg2Y0dPc1NEXC9CRnNBRCIsIm1hYyI6IjY2YTY1N2U1MmYwNjFmZDA1MzZmNTRmZmJiNDAyNTI5YjM1MDcyNTRjY2QwZTkwMzViMmEyNWE5NTgyZWUyM2QifQ%3D%3D&amp;signature=87d411c86b1c81def6a3e27e134493ed673b6ec8356db7c4fbeac79d36e87896</image>
+    <start>10:01AM</start>
+    <finish>10:31AM</finish>
+    <date>14 January 2026</date>
+  </channel>
+  <channel>
+    <name>ABC AU</name>
+    <id>ABC.au</id>
+    <title>Changing Ends</title>
+    <desc>Alan gets a shock to his future whilst Christine gives an ill-judged interview in the local paper causing friction on the close.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6ImwxXC93cUFuS1QrV2ZhWFZLcytET1B3PT0iLCJ2YWx1ZSI6IkpiYWgxM0I4cnhyZ0pMbER5eEJJaDdJbEkwTVJYY2hVVXltTDYxZjhUbFc5ZlFDSTdVK3V6UFFuSEJlVmZZYTBrbXpyT05oWFd0UUdcL2JaeGc1UHMzdTVKZXVhMkZkYzQ2cmdGWHcweTRGWHcxZWwyMUpyOENnRjArcWJHa3dMeW1iZkJGRXY3UktcL0l0Q1RMeVFDZDAyVVV6cnpWUTZVaGxleXZFb0tpenBuZDRBWW5VUkZhTHJiRDlTQnZXZTRrIiwibWFjIjoiMmZhNmIwOGZjMGJhNjYxYjUyYWFjZGM4MmJmMDAyNTgxMTlmNWRjMzJlNWI0MzE2NzUxNTNjZjI2MjY0MzE5YiJ9&amp;signature=8869b80a9882711f0cdcdd0650d4b3627095b8d1a571568239b576bf6cc969e8</image>
+    <start>10:31AM</start>
+    <finish>10:55AM</finish>
+    <date>14 January 2026</date>
+  </channel>
+  <channel>
+    <name>ABC AU</name>
+    <id>ABC.au</id>
+    <title>Changing Ends</title>
+    <desc>As a heatwave looms Alan tries to write about the man of his dreams, which proves tricky given they're in the same class, making Alan as hot and bothered as the temperature outside.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6ImNLZ3lobVVDc0lBRFg4WjVDcThpNkE9PSIsInZhbHVlIjoidnZkNnplK045MjBmVGRzdG9sc2tWNkJQWmZJKzFNTGRjWEhmNjlHK3dPNVhCUnhscFBUYitISEFqMVZLT0U2NGxOdisxdzFHMUNieXVnZVp0OGFSdU5HTnlpQzZBckxpK3lHSUFyQ2RkajlaXC9yclFZM0dMenZicldBWUI0Y2RvazlTVjN2MGZLQWtucjN5aWt1bFRcL2xvQlwvT0hUcHZpK0NKc25rU05aKzdrN0Fxb3BMZUI0bkU4NUtuSUdkNld6IiwibWFjIjoiZjNmZTBlOTIzZGI4NTM1MDJjY2FiZjJlMDM2NTBkNWIyNTRhNWVkMDQ5YmIxZmJkMGIzMTA5MmYyYjE2MmUzOCJ9&amp;signature=8738c0fb145a03a8b2c401d54dc8375a9fd7644896c2df0d565dbd6fee84f5b7</image>
+    <start>10:55AM</start>
+    <finish>11:34AM</finish>
+    <date>14 January 2026</date>
+  </channel>
+  <channel>
+    <name>ABC AU</name>
+    <id>ABC.au</id>
+    <title>ABC Late News</title>
+    <desc>Follows the stories with the latest on the day's events, explaining what's happening and why it matters, with reporters across Australia and around the globe uncovering the facts. Presented by Michael Tetlow.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IldlRmtPQXhwMXJNYkY5VjdWZk9JcGc9PSIsInZhbHVlIjoiR2Rka3JOd3V1UnR1QVdxXC9mZjQ1OWQ2K2Q0VHY3RkszM21aaVJFTFUxSjJXVVlFYjJHUjUxM2t2RWZ6czJxVDJvN3FRc0JsZUpIY3VGenA0SGRDOW9BVUNzT2NvU25QUmlxZ2o4OHhhNFVXbkFsb2RxREFycHdwTlF1VkxIcmpnaW94aHcyR1FpN3pycWd0YkxFbmtubVZocDA4UVNjeHpHOUw1akVTTEdkSTV4QnhUV0dxTWlQanVGMFdQSUVYRiIsIm1hYyI6ImNhYjJkODdhYjQzNjQ5NTNhZDc0YTA1NjRiYjdmNDY2MGYyMTJkNzg3YmU2OTNkOTQ4ZGJmN2YxNGQ0NGM3YmIifQ%3D%3D&amp;signature=1d2d3f766b76de55808c351d84baeffc568fcb4b5df8b505d110a08ef8dd3ca7</image>
+    <start>11:34AM</start>
+    <finish>11:51AM</finish>
+    <date>14 January 2026</date>
+  </channel>
+  <channel>
+    <name>ABC AU</name>
+    <id>ABC.au</id>
+    <title>The Jetty</title>
+    <desc>Still reeling from her discovery, Ember agrees to share information with Riz.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6Im05VStNbW53TktoVHBMVjdlRkFVWUE9PSIsInZhbHVlIjoiR1dHc2ZNZHZlMDFZRjdubVR6M1lDMytER05rcHZDV0R2THlTRDVlQUtxOU1hUzE3b2x0cmt1M3lUNFZ0WTk2YVU0K3VISWtmZ2s0cFwvZm9weXIwTFMrbHhEMzRoTG1ndmhWQUtuTU1OOG14MlZHWEY2NDlTWjNiYjdhRGVTaFIxa1RDbWJjUjBJSFlNV2QwYlg5dTF3WURlWnFJV093M3UrV1pxOHZYSXkzODFBOVdrT0xJQ3JxcmV1Mm9Mc3RYQSIsIm1hYyI6ImVmOTY3NGYzYjJhYWMxM2EzMmY3MDJlMzQwOGY0OWMxNWM3MWZmY2JkN2I3ZGU4N2EzZTRjNjdkMmY5MTUyN2QifQ%3D%3D&amp;signature=4761d407633f4e67089b08f5271417b714ded8d0292dfda5bbc4f1f737d9890c</image>
+    <start>11:51AM</start>
+    <finish>12:52PM</finish>
+    <date>14 January 2026</date>
+  </channel>
+  <channel>
+    <name>ABC AU</name>
+    <id>ABC.au</id>
+    <title>Grand Designs: The Streets</title>
+    <desc>When Jane and Richard met, Jane revealed that she was building her own home as part of a fresh start, Richard was inspired and decided to do the same. Richard chose a plot three doors down on the same street.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IjlSdkhcL1Q5Ulp1WkpIUFVHeU5pdStBPT0iLCJ2YWx1ZSI6Imk0N2NXWDFtMTdwVFU1TTFjWXVaQ0laVWNZajVITkkySUROVnpuNGFyR1ZqSndOMG5VMTJ0SWdSTjUzbkhCc0FWU0dPYXl2eWo5ekduclk4dlU0Ylo0OGsydXpySVRGZlZQY3BOYytcL3FTbzN5Q1g0YUJTV1wvSTRlNlJQTmJRZ25haEYrYm5OVTNCaVdoU09VUDc3TXRwYlk3elg1QkIyQndobWdvb0pNeXlPM1lyNGV1bnVCM0N2TlFLbnh4N1dTIiwibWFjIjoiNGJlMmQ4YjY0ZTBjNjk4M2UyODA3MGRiN2I2YjE1NzAxZDM1ODkxY2RhYjZlMzJhYmViNzIyMjA2YjM1OTAzNSJ9&amp;signature=818ebe7b38de11a8c7fba55651465d68225a700591e6451f94a37d0f0ca9e488</image>
+    <start>12:52PM</start>
+    <finish>01:40PM</finish>
+    <date>14 January 2026</date>
+  </channel>
+  <channel>
+    <name>ABC AU</name>
+    <id>ABC.au</id>
+    <title>Long Lost Family</title>
+    <desc>The story of a woman desperate for a second chance with the baby she gave up for adoption nearly fifty years ago, and a sister searching for her brother who mysteriously disappeared forty years ago.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IjZnUmNMNUtjTmJvaDZIZWloSk02emc9PSIsInZhbHVlIjoidjZ2NXUzK21RdlI5aXZjd0t6MUJuOFRyVXRrT2ZTSGduOCtxSjBjMU9zd1QzZDZScGQzWnpMMHloajdRV200bEdhTUlmNExDbWNZWGZwbGJJU3lMbHJ0MzBQTlwva2JwQUhJYUdDT05aZzEyeHBzcmF2WXFVbUFGUGQ2WHd2NStWOVwvaytKZXdDQ0JqVDNjU0hFenZHK0ZqYmlSd0d0dGxZVnRNRDlndW04dGtQUmpsVTJGUUtOMWN1eUduQVJFMVgiLCJtYWMiOiIyMzA3ODRhNmMwMWQzZGNlMTdiZmU1OGI1YTEyZGI3NWRmMmI5OGU3ZjQ0NjZjNzU5NThmODViNzk3YmU2NTYzIn0%3D&amp;signature=b6b0e965eaeb350ee238aceabc9354740b8421dcde3124aed7a941709d14426c</image>
+    <start>01:40PM</start>
+    <finish>02:27PM</finish>
+    <date>14 January 2026</date>
+  </channel>
+  <channel>
+    <name>ABC AU</name>
+    <id>ABC.au</id>
+    <title>rage</title>
+    <desc>Australia's longest-running music show is home to the biggest vault of music videos from a diverse range of artists, genres, and eras. They curate the best clips of all-time to entertain for hours.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IkkxeitEUVhiSzVydm5VUFdmdEJLTmc9PSIsInZhbHVlIjoiQXI4U2w4ZTN0WDhiazdOV1NPOEtmMVwvc3ZvZTZaS3JGcHByMnUyTGc5K3NcL3hLWmVDS1JUT3VTbnRVUmN1T1VhelpyYXFvcmp6SVB5bDRSWkNuclpNVFwvMmNlUTJnS21SODJ2Tm8zWUdiYktPQVgyajVLU3VcL1lnbW85bkxhdFhYWjlWU1RYTUFCTGtPNWxCUkZtXC9rSmlqQ0dNZ215Tm1ET1YzN2srS2JhdXFTWUxPckdoenBqZHp0V2VCTXh2S2IiLCJtYWMiOiJlMDA1NTFlMWM1YWE1N2I4MDc0YWM5OTc4NmU1OGM2ZTQ5NjNjMTA5NTQ1YTE2Njg5MzA4ZGFmOTgxMjgzYTBkIn0%3D&amp;signature=6b6f0dd5640c50a75383f8ba4a19d4b62090c0287760b24dc4be79f06bac3b25</image>
+    <start>02:27PM</start>
+    <finish>03:25PM</finish>
+    <date>14 January 2026</date>
+  </channel>
+  <channel>
+    <name>ABC AU</name>
+    <id>ABC.au</id>
+    <title>Close to Me</title>
+    <desc>Rob insists Jo report her latest memory to the police, but she refuses. Sasha comforts Jo with some exciting news, but Jo's joy is cut short when she realises who the stranger from her memories is.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6Imc0ZDhjMTk3eGpnb2ZlSGttZURlMUE9PSIsInZhbHVlIjoiM0tWdEc1dlJnaVZRalQ5cnp0VFJpelwvWmRhNmZvWXdOVitqUGt0QTdnZDNHTHBRXC9nT2QwQTc2cUM4clgyM0JZNkRrVmRjc2JuZjM5amZSNDVmR01lMjExSXJcL3U2ZnlXcFIzczZyQ1BaMWExaXF4QUhpUHRSUE1YOTdtVTc0K0IxSGU0SmkyZUxDK1MwdzdUVXZcL21BQ2QybDZqSEYrOWU0ZkNNVUNSdmQyUlwvZEtOVFQyb3Y1RWhqSVwvYXV2VlY3IiwibWFjIjoiMzZjYzkwMWIwM2QzZjZjMDk0MzIwMjdlYWJlNzk4OWRlYjY2NzI5MzJlZTJkZWI1MDgyOTRjMTdiYWQxZTA4MCJ9&amp;signature=fa279d1dc1f9b282e54aaf1891f4b55fb5df27e3e97b5da5ece2064a72c63a58</image>
+    <start>03:25PM</start>
+    <finish>04:12PM</finish>
+    <date>14 January 2026</date>
+  </channel>
+  <channel>
+    <name>ABC AU</name>
+    <id>ABC.au</id>
+    <title>Close to Me</title>
+    <desc>Jo tries to find out more about her relationship, as her hallucinations worsen; Jo's father tells a story from her childhood and she starts to question her theories about the fall.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IldQMzBZWThDbWJpNEdZT0VSUEpDK1E9PSIsInZhbHVlIjoiaTZWcktla0w1RFpjM1BwMGFjZjJCd3d6ays4RG4xZUl2RzBnd2JWSDY2cUcyUnVvUG1nRWhRczVueTRKTkZ6c1l2YklVNVBET2U2ZUdEMUNXZ1N6aVo4QW1Jb0dFVlo3a0Z2VmZUMTdwODNiaW9UalVcL0VZc01QaWQxTWkrMXRxZVNEcTVDdXVObjBxRW5WMTR0bFN1bkZHeUs0aTdxeDNCaER1cG1waDJuMjRzZ0Zjc3BjQ3ZOblVYTTg1b0swMCIsIm1hYyI6IjRhMThjNGU4MDQyODNmY2VkOWI4MTE0YTZlMGRmYTg2MGNmZTczYzgxZWJkM2U0YWU2ZTA2OTQ5ZTZmZmQ5MTYifQ%3D%3D&amp;signature=c607493ad34b86bdf00443e219a0ff1db7d1338e666db11375d5ee4bfed4dbbd</image>
+    <start>04:12PM</start>
+    <finish>05:00PM</finish>
+    <date>14 January 2026</date>
+  </channel>
+  <channel>
+    <name>ABC AU</name>
+    <id>ABC.au</id>
+    <title>Gardening Australia</title>
+    <desc>Costa Georgiadis joins a school's celebration of a 30-year commitment to the local landscape, Millie Ross builds a blooming letterbox, Josh Byrne meets a teenage beekeeper, and we visit a tulip farm bursting with blooms.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IjI2U0hyTDVnSkZZSEJ2b2ZwS2Z1d2c9PSIsInZhbHVlIjoiRzNZV3ZSTDFqaXFhamx0T2JlaWlsNXNXemI5Q2JZZ2ZiOUF6RVhqR0taTEp0MndaRlJ5MTZBQ0JEczNRWWJMa1d5TGZncHhcL0Z2UzBFUit4N2NnZmJyVndneDNaWGE0MXpnVlZpUUt1VjVQdTRLQVVDVGJkWUVuQzNNd290S0s0VUxIZGdCYk56aWVwMGJXVkxyQVV6MG5RWGtRMHY3MTBCMVZiQXpnWkQzNXd1MHZjTnM5dXdyb3ErOXpJZzRFZSIsIm1hYyI6Ijk0YWVlNGU5YmI2MDhlZTJiY2U4NGU4ZDVkZmQ3NGRhOGUyNzZjNTljZmFhYzM2MWI2YzkzZjkwZWI2YWZmZDUifQ%3D%3D&amp;signature=e7a8631a8f56dce7f7c4ea60154df5e10959caba0550e5f66240cb3156a2e5e4</image>
+    <start>05:00PM</start>
+    <finish>06:00PM</finish>
+    <date>14 January 2026</date>
+  </channel>
+  <channel>
+    <name>ABC AU</name>
+    <id>ABC.au</id>
+    <title>A Bite to Eat with Alice</title>
+    <desc>Journalist and author Virginia Trioli joins forces with Alice to revitalise the Tuna Mornay while Alice attempts to change Virginia's mind on kale.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6ImxcL1RLanRVQ3F4c2hqTitmdldBbUZRPT0iLCJ2YWx1ZSI6IjU2YVJqeFpxSlpBRnFcL3hoTXowdTlkR2tmTkdJRlRNdFZvQzBBSzlxZjlPNWY2cEpvcXpLUWFST1ZaVG1WXC9tcG9lUkpMR3dRMk00Tlk5eDQ1NCtkVjJVMEhVNmpvZFJVSTdWaDZWRFVDVm8xeEF6RXVOVWU1UHFyODh5VmdiYlNGSGdNQXM1NHhDYld2VWZVaXZ1OHdzTlFvd21mdzJXcTJTbXZRekUxUFoxelBVYklIV0xVK283dnkrNjhBaWJcLyIsIm1hYyI6ImUyNDRhYjc5ZTRkNmRkNzRkMDM1OWMyMGIzOGEzNDdjOWRkNTA5N2E4ZGMzZmY3MTUzNzdjOWZlMjI3MmRhM2EifQ%3D%3D&amp;signature=8a4279c99646b53f3aae22f999166245e38e2aaacb91657f3f523a8e63fc50d5</image>
+    <start>06:00PM</start>
+    <finish>06:29PM</finish>
+    <date>14 January 2026</date>
+  </channel>
+  <channel>
+    <name>ABC AU</name>
+    <id>ABC.au</id>
+    <title>7.30</title>
+    <desc>Michael Rowland presents Australia's premier daily current affairs program, delivering agenda-setting journalism and interviews that hold the powerful to account.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6InRKZm50TExVTWNiRzh3b1VER2F0VGc9PSIsInZhbHVlIjoiZk1DMzBJVjRqK3ZvelRDNFlrbUFtSFduXC9BXC9vZDZIZ0RPK3RZS1ZMVHdLbkZcL29jamFsSTdzYnBnajZobkVnODBaU1AraFRnbzIrRkpPbDdORGV0RDV0ZSt4OW5FK3FcL0hcL2NleHFxWk4rbGZXTnRyWUxcL2JVS2xRZlwvMWllK0UyOFd3K3cwVjZKVGY5U3FVdWFBdnI5Q2ZaN0lpXC9IbmQzbmNSMm5yMzN1U2hcL0pJMGVJZ0ppTDZ1VmpkT0xhRUhmIiwibWFjIjoiYzVkMWQ0NTgwZjBhZTc5MjFhZTNiMjNmODkyOTE3NjM1ODYyOTM0Zjc3M2VmNzAyYjVkNjkyNzJhNWFjYzdkMiJ9&amp;signature=1f2e977aaa27f6a21c4d28a4dbf49cf173b53a8c102a83ed159bd5fe17e5cede</image>
+    <start>06:29PM</start>
+    <finish>07:00PM</finish>
+    <date>14 January 2026</date>
+  </channel>
+  <channel>
+    <name>ABC AU</name>
+    <id>ABC.au</id>
+    <title>News Breakfast</title>
+    <desc>Start your day with the latest overnight developments, breaking news and today's top stories. Emma Rebellato and Catherine Murphy bring you news and interviews, joined by Johnson Raela with sport and Nate Byrne with weather.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6ImdVXC9pSjVEbndpYVNsRVcrSEpQTkxBPT0iLCJ2YWx1ZSI6IlpsaHkya3gzSGhHallXTGhZblJPZkN2cldiRWYxWVBBUEx6K0tVWnNGZ1NxQmVSakdGcG9jd1JzTGFGRnlWV3RiVzNLUEdEU2p5YVFpQ2ZmaHRmb3NlZU1WQlZLZFA2ekdPanJkOEZob281OWVBbmlFa3NBbUdieGxqSmNIZ1k1R0tcL0JjWmJVOHhqQUdvODBuam1CQ0E4T0NFRVpTR3BaXC8xZ3hzRFEzMWhlTlhpSHRmQWxDcElKWnc4cUc2QlU0IiwibWFjIjoiNzNlOTY0NjA5YTRiMzE5NjBkNTVjOWE3ZWI2ZjE4M2RhZjA2Y2NiOWI4NTkxMTE4OTc5MTAwMDVhZmMyM2EwNiJ9&amp;signature=3044c6b1c74ef68da5fdefc6982bb7549089d96beac140d625adbfff37ff1c34</image>
+    <start>07:00PM</start>
+    <finish>10:00PM</finish>
+    <date>14 January 2026</date>
+  </channel>
+  <channel>
+    <name>ABC AU</name>
+    <id>ABC.au</id>
+    <title>ABC News Mornings</title>
+    <desc>Stay in the know with what's happening this morning. ABC News brings you up-to-the-minute news to fuel your daily conversations so you can stay connected and follow the discussion across the day. Presented by Melissa Mackay.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IjBNbnJqY1RhRGoxcGZRVVROUU12aWc9PSIsInZhbHVlIjoiYmRiekh4aXBVSWJETUwwWHNuTlUyejlnZTR6QnIxcm9ocTZzRmVyeFFJYzVKMkpQaURuMERjZXBvZWJGUGl4enVlbk9IZTBXbFAwSXBYSXIxUW5OaE1JTW9peEQ4UUQ4OUVqeXh3c1wvVTdYS3pmSlM4YlhjXC9HSTVOUklcL1lcL1RjVmo1VDZxVmpjTDNEQVNwdkxlUTZjcmtRNEZldE1YWWFPbWFERWVZUk1RM2lYd3p2VHlZNVZwN0V0NEltemJNaiIsIm1hYyI6ImI1ZDhjODJkYWM1YzhhNGVjOTkzNmMyNDM2MzBmZDg2NmYzMmEzNmI5YjIwY2EyMDc1NjQwMDhlOGZmZTcyYzQifQ%3D%3D&amp;signature=df8c3df16be632d1e9fc43050a1524e16707d4256a58ac955f750851d01fb182</image>
+    <start>10:00PM</start>
+    <finish>11:00PM</finish>
+    <date>14 January 2026</date>
+  </channel>
+  <channel>
+    <name>ABC AU</name>
+    <id>ABC.au</id>
+    <title>Hard Quiz</title>
+    <desc>Four know-it-alls try to get their hands on Tom Gleeson's Big Brass Mug, but which eclectic topic will win the day: the French horn, Franklin's lost expedition, kookaburras, or the film American Psycho?</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6Ik05WVhUWEE0NEIwdk5rd3Y4WGIwTGc9PSIsInZhbHVlIjoiWnNMTlJQZm5Cd0ZaVWpReFlSRjhCWWJzUjJBNzI5UG11SWk0RUMwYmFUditWZXNDcys5bW05OWRjT2lPOXpRMHQ5dmw2RHZiRmtmOWdjMmxhWlwvNkFzWThKZFdJUXk0OHIzYXdOM2Rpd01kWExuNktVU1dqT21HN1VvMGZCbmFHUkwwNWNPeXY4RDFrXC9zYUQxcXNxdTdEekdUTXowQ2xwSk95ZjgwMWZUSGEwZ1FSUWp3a0VEOXkza2lDaEdHTjYiLCJtYWMiOiJiNWU0MmUwODUzOGY1MTY0ZDQzMGNhYmJkZTVlZDkwYTdkZTJhMzA5NzJhMzJkNmMwOTBiM2RiMzA3MmQwOGJiIn0%3D&amp;signature=fc2008ae4faae2ff077142f59e86c184d87dd1a3e73eb897ea3e9a64230ed1d6</image>
+    <start>11:00PM</start>
+    <finish>11:32PM</finish>
+    <date>14 January 2026</date>
+  </channel>
+  <channel>
+    <name>ABC AU</name>
+    <id>ABC.au</id>
+    <title>The Weekly with Charlie Pickering</title>
+    <desc>Charlie Pickering is ready for 2026 as The Weekly is back with TV's best wrap of the week's news. We watch it all, so you don't have to.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6InBkSEl6dEpvcDVRRUl1N0F4VHlpOXc9PSIsInZhbHVlIjoiejVGYTUxNlwvT0ViNzhDTWhKVDYyWTBiajJLa0FnVGI0XC9NelNVbkFXSXBqb3FWZ3ZOVGE3MWhhbFwvVnIrMGZQbEZqWHlQV0FHMXo1XC9QTkV6NG1wMWJmbW9CeEZCT1BFNVF4QVhBT2pJd0RtSmVRdzZ0UDUzeU56R0pwbXAwcTRIKzU1cGp4ejd4MU9hMXlFeWFTVGpOaDFtd2xzWWEwOVNCR0xkQURJOVd2NXlnSEZTMEFzajRZaGxFZzFqQUc0YSIsIm1hYyI6ImI1YjFhY2Q5Mjk0ODhjNjE5M2I4NWMyMTcwNzNhMDE2NjY3NGYyYmY5MDFmMTBjMDUzY2U0NWMwYWNiZTBlNGIifQ%3D%3D&amp;signature=37eee5c42add23e204ef8f880c75d4a3f90d1f685cbd88980afd4d7e5c2f98ec</image>
+    <start>11:32PM</start>
+    <finish>12:10AM</finish>
+    <date>14 January 2026</date>
+  </channel>
+  <channel>
+    <name>ABC AU</name>
+    <id>ABC.au</id>
+    <title>Changing Ends</title>
+    <desc>Alan gets a shock to his future whilst Christine gives an ill-judged interview in the local paper causing friction on the close.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IklIT01RMDk5Y0h6OTg5YkVFWTI0WEE9PSIsInZhbHVlIjoiTk9UdU9oZUQ4SEp0QUczZG5KS3lcL0ZUTVo3dmlJUHM5azRzUWcyRjlkZ3BvZTg2N0Y2VFhQVFRTWThDeEVVNjJzb1hNcVpqc0VmaGczTjZqQzJ6dHIwcWVXQVVXekN3a2hNbDZ2b2pnV3kzT2VKTTREWldjeXhsaXRGNzRnZU9Yb1o5TXdTMU10bkZDbjZyZ3BraERxZG4xY1dyRXhjeGJNMm9vS2hycGEzUmtEUkxURDkyZENUZkcwOEZLMlFLNiIsIm1hYyI6ImU2MDRiY2E3MjJiMjlmNWIxYTBkMGY1OTM1MDFmZGY1Mzk2NTkxNmFiNmE1YWUzN2ZkNjZiNWU0NWFjNjQ0ZDkifQ%3D%3D&amp;signature=cc696ec079616a49df8502e1154b2caa2c3e079d60b9d94106cd029b761d09a5</image>
+    <start>12:10AM</start>
+    <finish>12:35AM</finish>
+    <date>15 January 2026</date>
+  </channel>
+  <channel>
+    <name>ABC AU</name>
+    <id>ABC.au</id>
+    <title>Changing Ends</title>
+    <desc>As a heatwave looms Alan tries to write about the man of his dreams, which proves tricky given they're in the same class, making Alan as hot and bothered as the temperature outside.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6InJFbmRqSTVRN29JRFVOXC9xanoxMkF3PT0iLCJ2YWx1ZSI6InNPcHltRndcL0M3UXdVRDR0d0FseFUwM0hpN1gxKysyODd4YUdMRFVjaXgwbG40eFQ4RVBIWmVXcW1WRnlXWEI1alB1SlFiek9hMnFkUjU4TE9MUkY0QVAreHFLd1pRY0dpRW0zZHdqeW9KcVh5Tkh2Z2pJUGxWcXlrRWw3dTRCYTV0SWc4blU1U0k4Z3JMN1B3UlJoZnlvd0ZadU0wNUtrRmE0dE50dUF0VWZGMEI0andWbHNpQ0t1MlZxbkNMclciLCJtYWMiOiIyNDBiYTcyMzc1ZWRmZDk2YzViMTI3MDE0NzMzODcyOTA4NDE1YjQwNzhjYmQ0YzYxZTFhNTE5MTdlMmU0NGUyIn0%3D&amp;signature=b7f202b45d3f63a15f5bd911063e860121252c3bff4380193cc87a7e3bba0b22</image>
+    <start>12:35AM</start>
+    <finish>01:00AM</finish>
+    <date>15 January 2026</date>
+  </channel>
+  <channel>
+    <name>ABC AU</name>
+    <id>ABC.au</id>
+    <title>ABC News at Noon</title>
+    <desc>Ros Childs presents the leading news at lunchtime, including the day's top stories and the latest news as it unfolds, with reporters in the community across Australia and around the world reporting on the issues that matter.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6Imw3QkVUUzF4VVhZSXJFQ2s0RFhlR2c9PSIsInZhbHVlIjoiV25cL3JLVFNzK2pqZk43SXFNN1UzSXdSQ2M4UVBBS2w2SmtrQ20reEd6TURUQ0haQnlzR09zUHg1aWNjbjNXdW9IM0NpVE55VFwvTUlsMWJGTlwveHF0SUlxcmxwWFIzM0dmcVFPSFY0Qm5sT3kxRjV6UGhSXC80cmVVZ1lvOWUyN09XVk5qOXFaRDVBSWJmczFSWVNpSjFWdE1pOEJaUzcxNmx3VTlyeHJnSkdabnp2NExNdkU5anJ3XC85YUg5RzlKdDciLCJtYWMiOiJmOTdiMzZlYWZiOTVkNzQ5NTBhNjZjOThlYzI5MTc0M2FkYTU4OTExNThlYjNhNmE5NzBlYzZlZWFkYjAyMDMyIn0%3D&amp;signature=25031f08ab6b073ff39f4d7d8c244b5efd978b4fe4e2d784dafbbe8b096a7556</image>
+    <start>01:00AM</start>
+    <finish>02:00AM</finish>
+    <date>15 January 2026</date>
+  </channel>
+  <channel>
+    <name>ABC AU</name>
+    <id>ABC.au</id>
+    <title>Miss Austen</title>
+    <desc>After uncovering Mary Austen's outrageous lies, Cassandra's determination to keep Jane's letters private is stronger than ever. It is joined by a second mission: to secure a home for Isabella.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IllsbWV1eFwvR0U4U3BSd0NmSzlqaUJRPT0iLCJ2YWx1ZSI6IjZXb29IMGVhd3VMQk10VzNXOUh2RFExZHl4Z082bFpNcGw5VVFrMmR3VUZPSXY4cUtKQUZnYU5oeE00Y0RcLzhlTEFCOVM2OWNCV0tlMjZ2QXJjcEwzWWpnaXM3cER4bHBQdU1hVnVReVI1eXZwa0RPWGVzdWZhTWZDVmJ2T0JPRDZjWmhPUnk2eTF5MXIxOURqQ3NibmxGQVpvVE9DbGpreVU2SDlpXC9IV3BLVUdFTnJmZ3ZJWjB2YnhUUlk4a3pXIiwibWFjIjoiOThiMDYyNzk1ZjZmYTAwNzBmMWUwZjQ3NWQ0MTFmYTExZTJkY2QzZTYzYzhiMmQ3NTEyNjEyMjcyNjc4ZDhmNyJ9&amp;signature=aacd2a6d68ed272b0a67f6321235a5871feae69c0fdc3b0dd4b71bf95f7819f3</image>
+    <start>02:00AM</start>
+    <finish>02:59AM</finish>
+    <date>15 January 2026</date>
+  </channel>
+  <channel>
+    <name>ABC AU</name>
+    <id>ABC.au</id>
+    <title>Restoration Australia</title>
+    <desc>Host Anthony Burke meets a Brisbane couple determined to return a vandalised, graffiti-daubed wreck to its rightful place as one of the city's finest mansions, no matter the cost.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IkxQRzl6TkVqQ2RjR1pWOGpVcEczaXc9PSIsInZhbHVlIjoiS2xqNFk4dkVJVE5XMERkZGRsVHJjR29YUW8rNEc1a201YnNFZjFOQUdnXC9LRkttVUJkNDdTSFRmUjhmajR0QkJUZFlhak9IczU1Smp1Q0pDaTJPN2FpdHdobWNxNzR0S2JoK1BYZmxucnNrcWxQOGZVdms5NGlsbFwvNjFqT08rNlJpTXM1Q0F0Sm02U21CVWkxXC9XcnI2Z3czQ09FWXB4S29zckNYY2s3ZEVGclpcL2hVblpqWVRWZjlPQndRNldOeiIsIm1hYyI6ImI1NzAxMGVlOGFkNjlkYzAxYTBmMDhmYjlkMDM5OTFkN2U5YTkxNjM1YWMzMmZmNjE2YjVjZjhmYWMyZjVjMTUifQ%3D%3D&amp;signature=93e318611e246ee480234b4882bca8270142e275fc360c821fc0c190affc9cb5</image>
+    <start>02:59AM</start>
+    <finish>03:57AM</finish>
+    <date>15 January 2026</date>
+  </channel>
+  <channel>
+    <name>ABC AU</name>
+    <id>ABC.au</id>
+    <title>Would I Lie to You?</title>
+    <desc>Rob Brydon is back, with Lee Mack and David Mitchell as the team captains. The guests this week are guests Sam Campbell, Will Mellor, Kimberley Walsh and Charlene White.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6Ijg3TndXbGppaGZsaWdBMENaVXZGMHc9PSIsInZhbHVlIjoiMTRwMHl2YzRJemI5eGVSTit2Zm9pcmxDa0xSclhDcmpyb0pcL1VEcEN6blNLTFhubCt3Tm02Q1BFWmFjZHczbHpJdXVsN1lXYTBVTWt4amUxODFwaDVoSmwzdEtxTFVJRVZoTm9zdHlaZUdvV2h5S1VjMWRVd3QwMlBpVXg2UFwvRkdCd3lPSlZyWkpsb0Z3RWVBbStWUG03Vlp5czlaeTdhTFBjNm80eG1vREtFbUdlVUM4bnB0R094S25kMU03aCsiLCJtYWMiOiIwNGU2MTFmMTFiNDQ4YjIxZmMyYTdhMzAzODI4OTBiNGE1ZjJmNzFjODA5NzJhODYzNDA0NjQxY2UzYmM2NGIyIn0%3D&amp;signature=9e2fd46c3231712985fc76343de831285953f3700d8400c353944b46310d0cd4</image>
+    <start>03:57AM</start>
+    <finish>04:27AM</finish>
+    <date>15 January 2026</date>
+  </channel>
+  <channel>
+    <name>ABC AU</name>
+    <id>ABC.au</id>
+    <title>Nigella: At My Table</title>
+    <desc>Nigella cooks more comforting and inspirational recipes, with a supper perfect for winding down at the end of a long day - featuring chicken with red grapes and Marsala, followed by a sunken chocolate amaretto cake.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IkVuWnA5bUYzOFFidDQ0dXhjZTNqS0E9PSIsInZhbHVlIjoiWktiV09VeHJ3Njg1NGt2V0xFVDJHY1hCbHMzK0s0MEtkclFzS0lzbkpFSUdjQ0VxUnZMRUpJa2kzNWVcL3BvK0RuVyt2WitaTGFZTmMrRTlhMDNoOE9UU2FWdEFRTFFqczFYQTRcL1BoWmVrZTl0b0VxYUxkXC9DUDJuMHE0cnRqQ25oakVLOU1YcTVtamNxd1Y0YnJXOFl0K2NqTDB6VXgrK0VuOWJhMVlVTnJ0angrRENTZ3FGcnkwcjNKMXU2UzkwIiwibWFjIjoiZDQxMDJkYzcwYmNhZWU5Yzk2NWNjYjM0MmFhNWY0YTJlMTNmMjM0OTQ3MzgyNzYzYWE2MzFhNTVmNGM0YWRlZCJ9&amp;signature=0d62094b972b68a60fba1a12f24316c99f8ef0328b1e24a351c20bf12f22fd5a</image>
+    <start>04:27AM</start>
+    <finish>04:57AM</finish>
+    <date>15 January 2026</date>
+  </channel>
+  <channel>
+    <name>ABC AU</name>
+    <id>ABC.au</id>
+    <title>Grand Designs: The Streets</title>
+    <desc>Tom and Lori want to escape the anonymity of London so have decided to self-build at Graven Hill in Oxfordshire giving them access to countryside.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IjI5Q20xWjNZcVNzSHQ4WjhiTnpjb1E9PSIsInZhbHVlIjoiXC9HbmlcL0xxNE5TejVwU2MrVTJpOU12VnZuOThnaWowR2VBQXpUYlk5WjRMVndiWEVydVUwU0dxdGRkcU5ETWVFMW9BSGlXdmxqS0xzRjU2YUVKdUREMEZ2Rm1NUXZNOWdrcm1xZ2RXd0hxZnpjRGM5MnNuTnd4dHNIcThXUVc2N1dLV3VmNWthZWhkUEhlMUFBWG5TRGRxY1FrMXNXSHdHclI4T0VOVG45dkMwdm5Od1duaThcLzZBTldldDdVaXpBIiwibWFjIjoiNzBkYTgxOWZjOTA0NGM5YTY5MWE1NzdiNTkwYjg3MTgwNDgwMzAzMjY1OWEzYmNmNTQzN2IzN2RiMTQ5MzAxYSJ9&amp;signature=64e5dfa1f47eaa47324262404e873499ba6c6f2154b305f0f3a6f944565c53c2</image>
+    <start>04:57AM</start>
+    <finish>05:44AM</finish>
+    <date>15 January 2026</date>
+  </channel>
+  <channel>
+    <name>ABC AU</name>
+    <id>ABC.au</id>
+    <title>Long Lost Family</title>
+    <desc>A grandfather who, after 20 years of searching for his birth mother, is running out of time; a woman looks for the mother who disappeared when she was a toddler.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IkxFSFEzNDlyUHRFZVwvNnVaU3ZWY2JRPT0iLCJ2YWx1ZSI6IlwvMmZ4RnJyUnZabkRPemYzK0g4VkZYazdXeTU2eFwvTnpcL0JTS00zcEtFWk1uVERUbnRkd1MyVG01Um1CajA0bzFJVlVFa0lCeUZ6Wk9WeFZFekRKbFVoTnVCN3RwR0ZLdHhxVlwvQVc3U0JraFlrV3IrR1QwekxnWndoamlyQzZsUFhGMUttSnZQelg1MWhkVHBIa0M4eGRtTWdyYlZWdlV1OGFGRVFZRWdWOVdvQ3hsbTNLclNidDFYWG1jTTdrWUQiLCJtYWMiOiIzOWFmODZjNTQ2NDgyZDNmMDc2ZTk2OTAyZjU1YTViNDMzYjdiMGE3Y2IxMGE1NzU0NTU3MzY3YjJjNDI2NWQyIn0%3D&amp;signature=956d18ed271c01a35b5aabfca9cfdcf6d86fb18f393ef87f6e791a50155215df</image>
+    <start>05:44AM</start>
+    <finish>06:31AM</finish>
+    <date>15 January 2026</date>
+  </channel>
+  <channel>
+    <name>ABC AU</name>
+    <id>ABC.au</id>
+    <title>Antiques Roadshow</title>
+    <desc>Fiona Bruce and the team visit the moated manor house of Baddesley Clinton, just 15 miles from the bustle of Birmingham. It's a busy day of valuations, uncovering more fascinating finds.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IjNLcCtWVGtPK25ieG92T3ZlQVRYTHc9PSIsInZhbHVlIjoiQnZRNVBLdUJLUDZwUVR3dUo5VlFuajZ4d1BmR3RcL2swb01vYnpUNlVSQjBaZGFnOVRoTzFQWXRJRlp1aUJPbmRvWlN3cktkSWkxT0pHU1BVRXQxREFqQlZsMXNMRUpWMWhUSkFidTUyYkViNmNnNExUMEJMTmc4c2VJcTdNeUZuT0pTR21vN2VNUkFxT1JVMUxnOXYzMmwwTE1sbmRHbTNvYzFpM3JqZ01JRVA5STZKS2NyMVJud3RQN3hoN0FVNSIsIm1hYyI6IjEyYjE5ZWU1NTc1M2QxZmI4ZjRmMjNkOWRlNjJkZjM4ZWFkN2VjOWI1NzI4ZTFkN2ZkMDdhZTliNjE0OTAwYjcifQ%3D%3D&amp;signature=ebe08e4ba9f50090adf99a246ba4535f5f93a841a35b6035eee914f465199fbf</image>
+    <start>06:31AM</start>
+    <finish>07:30AM</finish>
+    <date>15 January 2026</date>
+  </channel>
+  <channel>
+    <name>ABC AU</name>
+    <id>ABC.au</id>
+    <title>Hard Quiz</title>
+    <desc>Tom Gleeson hosts a clash of epic proportions. Where else would you see the clarinet go head-to-head with Transformers, Australian pythons, and Islamic political movements? Nowhere, that's where!</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6InI5bThtZEtjRWE3OTlWYXl3cExnaHc9PSIsInZhbHVlIjoiR2tXaE5jSG1OZW1pYnpEb2VvUmhFWWNaNkduMDd3cmU5UGprakFRMFRwSXhjXC9IdXNCeElrOWRkeFc2SGJ3XC9hZU44VURLbFZWZjl0NEJZXC84NTYyQnNJWXNSaURpUkhOd3hUZFZpMElhNEM2Wis4WWY4U3R2VFlTUHVkbE1NcG9vaTU5QnYwckloVlpiRmJJVGs2ZnZxWFE0cXpJbk0xWDhjMmFoNitYQjZhcitWeTVmaExzNlpheHVIVkpqMk1cLyIsIm1hYyI6IjFkODU1ODM0MGJmZTA2ODI5OTZiMTVhN2JhMmY5MjM5MzMyMmE1YjAxN2FlMjJlYmJlZWJmNTVlOTAzOGZkMzQifQ%3D%3D&amp;signature=95e64efdc284b6b05980e594475306a828b827856eb0dd1e47bccc5b3e176ef3</image>
+    <start>07:30AM</start>
+    <finish>08:00AM</finish>
+    <date>15 January 2026</date>
+  </channel>
+  <channel>
+    <name>ABC AU</name>
+    <id>ABC.au</id>
+    <title>ABC News</title>
+    <desc>News from where we live. ABC News NSW brings you the day's top stories, exclusive investigations and original reporting on the issues that matter to you. Presented by Jeremy Fernandez.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6ImRcL2xOcGhIaklzTWk2MG9TbXVoM3hRPT0iLCJ2YWx1ZSI6Ikd0c0VuQjBkcDh5OERLZkt6YXJINEsxWGJ1YVF2bVpzaXRuMjlRZE5nTWVTaWpwXC81QU5XR3Bmc1JBSmNQN1ZxN1poUzlVYUlNXC9cL0EwT1ZoaHZ2eVduV0ppUWhZWG9RTXRzT0tjcXQ3c3BDZ3JkNzlXMksyRnZBdVFGanZoZUhReVVrT2pxOW5ENkJBSmlHQm90alhXZEE3ZWFaOWp6U0I2Wm9Xa1NyYllOYXBMY1wvcGFZOGl4TXMrblhTQVdtTkkiLCJtYWMiOiJhNjViNTk5NjlkM2JiNmM2ZDFlMTMyNjIxNzI2MzA0NGJkM2FlMjQzMzczODcxZTA0MTU0ODMzZmY3MTI1MTE2In0%3D&amp;signature=7d392888f6173935fc3608ae146d0c37ed0eeba619a461a7f51bb2133f0999f3</image>
+    <start>08:00AM</start>
+    <finish>08:30AM</finish>
+    <date>15 January 2026</date>
+  </channel>
+  <channel>
+    <name>ABC AU</name>
+    <id>ABC.au</id>
+    <title>7.30</title>
+    <desc>Michael Rowland presents Australia's premier daily current affairs program, delivering agenda-setting journalism and interviews that hold the powerful to account.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IityYzM3N3RXTDViS3dMVElGT2RMM2c9PSIsInZhbHVlIjoiWFlSOFpBRFVvam41UnE0S0hTWFgyVXpMOGFNdGtLOHErQVR4YW9cLzJVdllMYU11cU9wck1QMUQ0cnpHQXhqWU80SzNoNXZYQlBiSVdsRTRwQWNPQmdFOFk2VXBDYnJheDd3M1FvZjh3NHpNZDFKYW1obkMrTHY0ek00RnlqOXZ3c2FlVTU1TklFYlIwajZGR1ZpYVRNMXU5NXplQnBZaW9YT3NnXC9lR3hGNG9qb0FCbFl2XC9qNGNJXC9uWjlQWmkwRSIsIm1hYyI6IjNlYzcxZGY3MDAyNjMxZjEzNDE0MDJkMzk4MWM4NWVlMzcyMmNhMmNhNGUzYTY1NjZjMjU3ZTQwZTQ4OTE0YTIifQ%3D%3D&amp;signature=a4da7ee519f53b4bd44563b8b59cfda2788f9e9833d2bb7d06f074cd1d218872</image>
+    <start>08:30AM</start>
+    <finish>09:01AM</finish>
+    <date>15 January 2026</date>
+  </channel>
+  <channel>
+    <name>ABC AU</name>
+    <id>ABC.au</id>
+    <title>Grand Designs Transformations</title>
+    <desc>In Brisbane, a classic Queenslander merges with a modern home. Meanwhile in Dubbo, a rundown church becomes a rejuvenated wedding chapel.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IjFxdzJuRnJlRlFYSjhIdXRVYjJkXC9nPT0iLCJ2YWx1ZSI6IlFFcmxLMWRvTUxOTW1aZHF5MFFsK0J6SlgzeGx3VlkyUFZ5SksxUkRDZnd3SkNxSXdUQnJWU2E3SGRyMjZYWmpkb1lnZEhoMWhKVVU4QU5MRzlUbzNKSmIzM1NKaE4xUFwvVlRmUDYrMjJRWG1hRXZkNnh3ZXlaeHpua0hsSjJyR1RSRko5UEp5dFcwVXdyaXNSQXd4NHRlWDNJK1lyclRnU1V2MWRMcVh5K0JwUWcrT3NrQUwxWHhZcFM3cGVnS2kiLCJtYWMiOiJhMzI5ZGRiYjdlYjZhZDlkOGJkMDQzY2VhOTkwMWVmMjQ5Y2NmZTI0NjZlMGYyY2VlOWMzNWJkYmQwY2M5OTM4In0%3D&amp;signature=26bc8f8a48cf7dada2ed56465bc973a682e915b93a885331271f8e8d644104d1</image>
+    <start>09:01AM</start>
+    <finish>09:59AM</finish>
+    <date>15 January 2026</date>
+  </channel>
+  <channel>
+    <name>ABC AU</name>
+    <id>ABC.au</id>
+    <title>Alan and Amanda's Italian Job</title>
+    <desc>Amanda and Alan take on their first major renovation project, designing a traditional Sicilian walled kitchen.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IjhvdzJtTWpTZERSOUk5NlFEM1F0U0E9PSIsInZhbHVlIjoidVlXNWxndkpCaTBNOTJjZnFOWGRnejNtc2YwYkZNMktTeXNkUmlXb3VFUjV5Wm1WejJMWWE1WlZaclVWbEtWc2sreVRSNmZjdHcwK1wvUzBXUFN3Wlh5bW10R2cxRFJsY3h1R2N0aDVESVhoVEtBSDhoZm1nTnFpNDFOYlBhbHVBZmk3Y2JqeWZCZDFcL0g1YnZsXC9EcHpCWnNvUXpMR2pHZDc5bTFna1Z3MVwvbVZOU0ZEN090eVhIYXNpSTVteGpxOCIsIm1hYyI6ImE0ZGZlODljZGFlYWVmMzUxN2NjYWVkNzAzMjExYmRhZmM3MzUyZWQxZjFhYTg4MTYzZWRkOTBkMmY2Y2ZiYjMifQ%3D%3D&amp;signature=48ff049589576c4ec9aad0b7f68e2966b0802e3618fa7b59cd0e1c2bff532449</image>
+    <start>09:59AM</start>
+    <finish>10:31AM</finish>
+    <date>15 January 2026</date>
+  </channel>
+  <channel>
+    <name>ABC AU</name>
+    <id>ABC.au</id>
+    <title>Goolagong</title>
+    <desc>Evonne navigates controversy, pressure and the fight for equal pay, while personal loss and burnout drive her to walk away from tennis at her peak.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6InlpN3JaVCsrRnNyMnpxempnZURhXC9nPT0iLCJ2YWx1ZSI6ImtKMmdMd1dyajlEMXdweHFCcGJtQXdFb1wva1ZwV2d5cUlvWTZVUW1kOFc5MzNmMXZ5YlNUN3M5U3NWQUNFWTgrZVJsM3B6OG0rc1dKbWttZUJTZ0NSVjE1Y0tIR2NvRzJWd0JCR1Y0Q3BrNGhWckQzb3hOVjVGUmJKUVc4T01abk5kMUhcL2trVmFRY3RyRHBSaWJRdE56cGVPODgrd0ZCUkk4XC80T0JZMDd0ajdSY1lZdFpSQXhWR1dMVWlTSldsMyIsIm1hYyI6ImJkNjI2MGM3MTgxNTc1MmYxYTlkYWEyYTFjOTI5MGZkNDhiYWEyOGIwOWM3MGRhNTYwYTZhY2RkNTM4OTA1MGMifQ%3D%3D&amp;signature=f964ee77b22d127e03d1d2f9c5ddaed8bf18982ff81d48e0c544cf55099eee0f</image>
+    <start>10:31AM</start>
+    <finish>11:38AM</finish>
+    <date>15 January 2026</date>
+  </channel>
+  <channel>
+    <name>ABC AU</name>
+    <id>ABC.au</id>
+    <title>ABC Late News</title>
+    <desc>Follows the stories with the latest on the day's events, explaining what's happening and why it matters, with reporters across Australia and around the globe uncovering the facts. Presented by Michael Tetlow.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IlZXeUMyeEg1eUJ5TnlVNFRqVHpNSnc9PSIsInZhbHVlIjoiZGVNZDd6ekVjOUFZK2l6WnUycWpodngxMDVGR2xoQndHV0NnckVyQ3hDMEFYam4wb2x4R2dDUEFmYlhFOFFrbkR3NTUzOXgrVXZxaG9ZWEE3d1wvencxNnVDUmUrQXVEOEszdnNDemFpNk1WeGhVbXRabjhwamczMDAya1FwWStuaGtMTnBhb1pVQVlDWGlIalh3M21aTFQ1enFLb2phbkttXC8rQlBaY2FrR2E0ZlprclNEQWgwUjNwMGxaNXF6N3oiLCJtYWMiOiJlZjQ5ZGJjMTEwZThjMjEzMzljZTU5MGJjZTMxODFmNjllNTQzYmQyMDMzNDdhOGRkZGRkNmJkOTgzZmFmYmUxIn0%3D&amp;signature=9471bbb1d2a1e51d7db49f2a96bc83b272f25c9adb8c4e362ddae909448945fc</image>
+    <start>11:38AM</start>
+    <finish>11:54AM</finish>
+    <date>15 January 2026</date>
+  </channel>
+  <channel>
+    <name>ABC AU</name>
+    <id>ABC.au</id>
+    <title>Grand Designs: The Streets</title>
+    <desc>Tom and Lori want to escape the anonymity of London so have decided to self-build at Graven Hill in Oxfordshire giving them access to countryside.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IkJmamc1M1cwbERQMVlvQzZoNytCa1E9PSIsInZhbHVlIjoiTGFSTU45WG5yK2xcL2plNXMwWHFXQUlsMmRQWE55XC9sU002V2RvTzE3c1d2b3ZVSTdjNmZKT3pTRzNCanpwaEVXa3ZGZ0VNaGhFMWtQVExaNXpQUDB2NWQ4a0tMM0xiTU43TVwvMXRLZ3diRDdUQWF6Z21pZEFRS3NYK2lHMnZRYUZ4NmtjV3orTnAybWYyUmd0WjJqNGc3ejRQeVhcLzd4aTVNMVBGcHdWSGxPOEFjdDBoZUVwRzEydlB0ZFhVemhScyIsIm1hYyI6IjEyZjI4ZjM5NDE3ODU3YmY1MzhjZDllOWY1ODU0ZDAwZGYxZmQ5MGRjNGUwOWRkZDQ1MGMxM2ViYTgxNDI0ZGUifQ%3D%3D&amp;signature=6e48f8f7a0587943366a0f245024dca68fa99b40147b024454707abb8dbc1719</image>
+    <start>11:54AM</start>
+    <finish>12:42PM</finish>
+    <date>15 January 2026</date>
+  </channel>
+  <channel>
+    <name>ABC AU</name>
+    <id>ABC.au</id>
+    <title>Long Lost Family</title>
+    <desc>A grandfather who, after 20 years of searching for his birth mother, is running out of time; a woman looks for the mother who disappeared when she was a toddler.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6InE3WEh2SjNxQmJid3FnQU9FdzUwcHc9PSIsInZhbHVlIjoiNnNVZU41akU1RVZvc1FQb2c0dm9UaUtXQmowWU9KXC8xdENERFBhemdQMzRCZzBKajlMOE9TejVIanB5aVJqaG44dGx5QVpOZnQ5eDZVd1FIT1dZMGZiaWxMSTJtcncxNE9DaHZod040XC9wUUdcL3ZPR0UwMUJxeDRhKzJYd05BSnFKR2tmZ0pTR2o0dGdlMGN4V0tJMk9lZWJPZGgzR2x6RG1scE0xOTFNZW85d1BPcTk0YXBIMDZDOGVqbmduTkVWIiwibWFjIjoiZWViOTE0YWNhNWVlYjc0OTBmMTlkMDMyN2I2MjBlNzJiNzQxNmZlOTIzM2JlODU1NGRkZjY4MWUwMGRlZGFkNyJ9&amp;signature=3d49751a69780945ebd00c4725e66dae64a62e1717d5675237339740c0618f24</image>
+    <start>12:42PM</start>
+    <finish>01:31PM</finish>
+    <date>15 January 2026</date>
+  </channel>
+  <channel>
+    <name>ABC AU</name>
+    <id>ABC.au</id>
+    <title>rage</title>
+    <desc>Australia's longest-running music show is home to the biggest vault of music videos from a diverse range of artists, genres, and eras. They curate the best clips of all-time to entertain for hours.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IjBVVlRuWEJYWlZScHRIRGZoMTlIcVE9PSIsInZhbHVlIjoiME9BZWVLR0ZhNlJCWG5XNG9lT1ArcktNTWRpNWV0NXVyZGZpdjRnQWdhTEFZWWcweUpidUZoNFU4aENxK0lYYzB6MTg0dmlMT1FacG5cL1pLZW1OK205Y2Z1RnpYNkNcL2ZNTkhzUmM4VXdDVUdDMVhkRmw1WHZhUG5BQjRDdVZ4YWdkbmsyY3BtaDVzOUdzaDFUQTF1d2hZQ2NCbU1cL3V3UUx1SUs1WkpIXC83KzZqRkF2dG5YdVpBS0lzdVJEOHdZZSIsIm1hYyI6ImI5NzFmYjc5ZjlhNmVhZjkyM2Q0ZDA4ZDQ2NmRmOWZlZGMzN2U0YzBjYzY0MGM5ODFlOGU3MWU4MWQ2YWJhNTMifQ%3D%3D&amp;signature=028ce988e1efe5aee40352ecda8324a82bd98434c7da6a74b91da51b00d17f63</image>
+    <start>01:31PM</start>
+    <finish>03:25PM</finish>
+    <date>15 January 2026</date>
+  </channel>
+  <channel>
+    <name>ABC AU</name>
+    <id>ABC.au</id>
+    <title>Close to Me</title>
+    <desc>Rob takes centre stage as the year that Jo is missing plays out through his eyes. There are always two sides to every story, and it's not always clear just who is to blame for what.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6ImxVK3hXMHd2OWtBNVY3Y09TOWxCQXc9PSIsInZhbHVlIjoiNEV2YUxtdzBhemVOMWdJN0I1cHFJbTR4QkxqRmJUaHNObTVFUURVbjdKeittY1B4N0RTRWRIcDEyeDdrWmt2TlZCN2w2ZzdiTVB1SXc3MkRMbXVhbHhZdm91V2JiZG05VVkzYXdhV0tDSU5kUkxPRGI1VkxObWxJT1dXSVwvdW83MVo5Vk8rckt0NXJDRklEOGVNK0k5MkgwUHBVVk1aMTRoM1BVdUFUV2Q4TEJuTEFEYmVCTENoeWJQbDU4U0hvYSIsIm1hYyI6ImM3MzUwOTJkMTNjOTE4ODJmNmZlNjkxMWRmNzg1MmE2Yzg0MzE2ZTU2ZWVjNDRmODYxMjk3ZmEzMzg3N2Y3NDkifQ%3D%3D&amp;signature=f10b815a9e4b9d41650cbcc133c1b1683d134f35fa7237845a74a9ca8f75b1ed</image>
+    <start>03:25PM</start>
+    <finish>04:14PM</finish>
+    <date>15 January 2026</date>
+  </channel>
+  <channel>
+    <name>ABC AU</name>
+    <id>ABC.au</id>
+    <title>Close to Me</title>
+    <desc>A buried childhood trauma resurfaces and forces Jo back home to confront Rob. Jo sets the family up for a big revelation and finally learns the appalling truth about what happened the night of her accident.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6ImpsckhtbVlmR3JCSTF6bWFtYzdCZkE9PSIsInZhbHVlIjoid01wNHd5VVBsRHdvQ0hKYjR2SzczckxcL1lsWTl0cHFvZTl4aUtVYWRINjJQWGFHaDNvSGcxSE1uSWRGRzhUK3VSRlc5Tm5QRVwvbmVmN2x3eXRTUFdKK2o3MVVyR1RkVlJQRENuNW9vOVp2ZXFKaTVoSE9VRUZVQlY5RXB5QUJKWGtCZk9cL3FCVXJEMERBMzFUa0F0ZFA4Ykh5RjBsN0FxZ1pcL2JCeEEzUUJCNGx2VHE2K0tPVGRscWY4WlArTXlVRSIsIm1hYyI6ImZmZGYyMjJjOWEwNzkxZWI1NjI3ZjU1NWMyZDRiMDlkMWIzMGQ0ZTg5ZDU0Nzk5ZjczNmQ0YWNmN2U1YzUxMzUifQ%3D%3D&amp;signature=a4741d346eaab6bba0b3ebcf4cb5221ee1b9c6802435855f90823d6e89f80ac6</image>
+    <start>04:14PM</start>
+    <finish>05:02PM</finish>
+    <date>15 January 2026</date>
+  </channel>
+  <channel>
+    <name>ABC AU</name>
+    <id>ABC.au</id>
+    <title>Gardening Australia</title>
+    <desc>Sophie Thomson shares tips for maximising spring colour, Tino Carnevale visits a garden with a bright future, Costa Georgiadis visits an inner-city balcony garden, and Josh Byrne improves sandy soil.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IjNvcGpKelRXajBsYTQzbGxmR1BWdVE9PSIsInZhbHVlIjoiYnoybHlcLyt6cm5uSEVFWjk1TWYrb2dicUpMUWN5YmRWZ3JZK0VXYXIzQTVYMlwvS2pKWU1RcVcxMGtMZis5a1FSazNlMzM0Y1BtY3FxandQZ0NoaVExUUw3azdYQThKZ1Mzc2xCOTZtQyszTmZXNUVPNlwvVExPdmhZU0F0U3hJQUV2QnVORzR0c3pjSVoyN1NCV0FCNDhyalhFOUx1cDdLWWZCNzY1TUdzWHYxNkdLVDNPR1pXOVwvQ0g2a2IwSTBhNiIsIm1hYyI6IjIxNTk2MDFiMWZjNjdlMTZhYWVlYmNlOTE0NjcxNTE5Y2RiMGIyMmVmYmExMWE0MmRiN2YwZjI2ZDljMmZhNGUifQ%3D%3D&amp;signature=e132104a1438aad0e8b5c2076ee4cb998df87427650ad287f2496a520bdb596d</image>
+    <start>05:02PM</start>
+    <finish>06:00PM</finish>
+    <date>15 January 2026</date>
+  </channel>
+  <channel>
+    <name>ABC AU</name>
+    <id>ABC.au</id>
+    <title>A Bite to Eat with Alice</title>
+    <desc>Alice tries to get comedian Lizzy Hoo to take baked beans off her banned list after getting her on-side with a delicious lemongrass dessert.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IjNSOWVvVlwvTklJWWRzT3UxbHF5TWZ3PT0iLCJ2YWx1ZSI6IlBaQ01YK09tNlZtbzhGK3BaUHNjOVhtaUR2ZVQ0eUJQYnBma1oySkxkQ2FCdDhqbGRlUkNCU2ZlVVh5SmFZQVppT01aamtwem9UQldodlJSQjJyNEdCUXgrRHMwQk1EKzNDdUw2Z3FPVEVVWWl2Z21ZV2kwcTMwV1hUbjY2UXhhOVVUYW9RNk5QSnJyZDU4eEdLVExzcURqa3RRQm43S1JNdm15ZHhueWdjTWltWlpqUHJiTmhTd0NkMVFUXC9XYjkiLCJtYWMiOiJkMTBlOWM2MTlhODQyNTAwNGUxZjEwMzFmZjM4OGM0ZWU0ZWU4MWQ1MjMyYWQwOWRiNjUwMzJlNTIxNzcxNTI4In0%3D&amp;signature=a09b5fd66e3e27d270a3e683ec1dfa2af80cfe11d47d8c971ec253426f1aa993</image>
+    <start>06:00PM</start>
+    <finish>06:29PM</finish>
+    <date>15 January 2026</date>
+  </channel>
+  <channel>
+    <name>ABC AU</name>
+    <id>ABC.au</id>
+    <title>7.30</title>
+    <desc>Michael Rowland presents Australia's premier daily current affairs program, delivering agenda-setting journalism and interviews that hold the powerful to account.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IktkSk1zMHlLXC9cL0VMeEU1MVFoclJxUT09IiwidmFsdWUiOiJjbHJ2VmQrakJQMzFQN1g0alBLb3cxb1wvWnFMU3ZpNEVCNUI5OTJCNjFObXJKeGZIeURBczNPY1RUWmJ5UmZxQWRnTHZiaG1KZ1ZxbVZyUFhVRzBFNWU1VWtZSWN4ZGcyY1h4ekd3eEtlazJVbWFIVExNTlplVGhBcWV3SnhBQnVqU0xXWlZpVnR3NysrYlBJWUsySDg5T2JwZnQ5bnRsVzRFMG9wdEZFeHdER0NZT0N4TjlZalBaWHZjbU1rTXJlIiwibWFjIjoiNTRhY2YyMjA3NjJhMzBjZjEzZGE2Y2Q5MGYyMjlmZmQ0ODdiOWQ5M2ViMDc1YTEyYTU1ZTlmZmU5ODc0ZmZiNyJ9&amp;signature=d1d36c71f0ba6baec24d60c770d4973c0ce0e766fa40530d99ca08434e1f62b8</image>
+    <start>06:29PM</start>
+    <finish>07:00PM</finish>
+    <date>15 January 2026</date>
+  </channel>
+  <channel>
+    <name>ABC AU</name>
+    <id>ABC.au</id>
+    <title>News Breakfast</title>
+    <desc>Start your day with the latest overnight developments, breaking news and today's top stories. Emma Rebellato and Catherine Murphy bring you news and interviews, joined by Johnson Raela with sport and Nate Byrne with weather.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IjJJd2dKUTJVZXNUZlBMNVwvS1pMbDBRPT0iLCJ2YWx1ZSI6Ijh4VE01cHJGV0cyQTJFalQwU2tMSEpqOFVUWm5ZY0xUZCtvQlF6ZEE4aGNBZFJ4WFF6UkNcLytvaG5KOFB1VHN0bXhwN1wvNDVUdEJnUEVzUDBLT3ZjUWlzVEprQUlFU2tYZmxGSWhlK3Fqa2lNNWVHRCtMbFUwd0p4SlVtRGlzendzcEE5cUo0MFVaU1lZRDNxKzJVdFYwWmIzenN4TnljTWZ5cDBWbXZ4R1ZneFVHNmdxckUwMDM4MkpZYmFmSm9OIiwibWFjIjoiYjZjYmIwMmJkYzc3MmIzMjQ1ZmE0OGMzNTQyZDM4YTFiOWM1NGFkMzQ5YjhiNGYwZDI0NGFhMTQzODMzZDhlMyJ9&amp;signature=75c5e0c643c1856278ce50ae3ad70164305b10e30d780182cfc1e07d41580b55</image>
+    <start>07:00PM</start>
+    <finish>10:00PM</finish>
+    <date>15 January 2026</date>
+  </channel>
+  <channel>
+    <name>ABC AU</name>
+    <id>ABC.au</id>
+    <title>ABC News Mornings</title>
+    <desc>Stay in the know with what's happening this morning. ABC News brings you up-to-the-minute news to fuel your daily conversations so you can stay connected and follow the discussion across the day. Presented by Melissa Mackay.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6Imd4aDBhV012NEFnUzZIS1A5azJWclE9PSIsInZhbHVlIjoiaUduZDdScEJNSW5uV0FIRFdIMFp2T0hTWVwvRUxwaGtFRElcL2dqdXZJV1wvalU4OWNqUnlLeEc1cFc2XC9aWUlQYnlzMVNDU1cyanBBRHVPbGp5NVdWeGIxT21HK1diRFlrR2doemRaeUh0YnNpVW9JNlE0YkFZY3lOa2h2N2JtY1dneWp2MWV4ejQ4dGpGMEFTMDJ2RGRMTU9cL3FFRjZSbHpvaFNjVE52bzFPNHRTMWViaGM2aWRLZGJzUGZPNWRkTEIiLCJtYWMiOiI5NGRmMjBmMzY2ODdkM2U4ZWY0YmQyYWYwZGEwYzMxZjllMTk5ZmFjYTA4NzNjZmE2NjBkYjZkOTJmMWE1MjA0In0%3D&amp;signature=678bd9874496c1d8119da1bd40d1174f507bd5574b5c0b80d2eb481818f25d34</image>
+    <start>10:00PM</start>
+    <finish>11:00PM</finish>
+    <date>15 January 2026</date>
+  </channel>
+  <channel>
+    <name>ABC AU</name>
+    <id>ABC.au</id>
+    <title>Solar System with Brian Cox</title>
+    <desc>Join Professor Brian Cox on a journey to the volcano worlds of our solar system and explore alien landscapes. See planets and moons covered in volcanoes, with eruptions so violent they reach space.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IitpR2JTTWQ1MTR5SEtyQlJcL0VYUXJ3PT0iLCJ2YWx1ZSI6Ind6dXEwRlI4U0FTc00xbUxcL2lvVlZoeFZ5WG9Tc3o3Sk1ZY3NDaGQ2QVk3Y0VmMlVHNng5cE1wVDhjZkF2dDRzV3l4MWhxSURPSGpUVkJQRVwvM25MU2pjTkZQMjEzRjBzZjVBWjFCeHFrSUxXdmRHSlwvUUgyRDFIV1d4Q0xNSHdUXC84eTlGTUZOaVZmQnZhYUdoWXZEY2pCQmFsY3ltQno0WXVyWTdOQktVK1BvYWFFb3JpWnRFVVwvNUlPODBxOUtXIiwibWFjIjoiOTcwNDUxN2QzNmY5N2Q5MmY5ZTM4ZDI1YTQzMWE5MDQ3YTU2ZmQ4NTE2ZTI2MWM3OWI0MjE1MWRjMjE0ZTAzNSJ9&amp;signature=379c9a7c3d9da3519a40d2283b9ca8e57a308ecba927545b72d05c626677a864</image>
+    <start>11:00PM</start>
+    <finish>12:00AM</finish>
+    <date>15 January 2026</date>
+  </channel>
+  <channel>
+    <name>ABC AU</name>
+    <id>ABC.au</id>
+    <title>Antiques Roadshow</title>
+    <desc>The team visit the Bishop's Palace in the heart of Wells, Somerset.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IjVBSWdlQW5xQnMrdE5rSjBtV082Q0E9PSIsInZhbHVlIjoiK2t1ZVhlcVl3XC9CcUpLVDBScnNaYmVLSDV2WERKWldNVjRjeUh3STBLREJUV2l1UEIrK1pCa09Fb0MyTmtNN3ZETXRSelwvWmtJd2UwODJFZTh1WTNibDRaeXhKVjZHdVR6RG9XdWR4QzVjZktTRjJVbXFVT3dxeDQybVhIKytLMGlHdGFrNThQNllsb2U0cTlvczNLOGFnQzR2czBGbXRuK3E3OWRFYmZiTlZpN3VhZHdBcEFtSzJITGFaOG1XQUMiLCJtYWMiOiIzYjEwZTUzNGI5ZmY4ZjNjNWQ3ZGZkOWQ4Y2RlMDFlY2Q0NjcxZmFjOTRmN2I1NjIzYzBiMjFmYTljM2QyY2U0In0%3D&amp;signature=6b440ee875923e17321775f501983b2965286ed9540b0cd96e8e71b9948f53cf</image>
+    <start>12:00AM</start>
+    <finish>01:00AM</finish>
+    <date>16 January 2026</date>
+  </channel>
+  <channel>
+    <name>ABC AU</name>
+    <id>ABC.au</id>
+    <title>ABC News at Noon</title>
+    <desc>Ros Childs presents the leading news at lunchtime, including the day's top stories and the latest news as it unfolds, with reporters in the community across Australia and around the world reporting on the issues that matter.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IkhLMjhTUUJ6N1dJVDFtWDdFVDl1V0E9PSIsInZhbHVlIjoiMnhHTEFaUVVpQ3VHV0ZrWGk2MWh4VXIxVEVoUkp2TmYzR0dReEc4Zm1PY2VWQUt6Y1dRSDFYYTNsWkgxTndcL2xHeE1jb2V1THRvbUtFbVA0YUtydTZQdnZ3Qm1RRUZnWnhBYWtmcDR2eFJkQUhZSVY1NTZyQXp1RlpydHNEQ3ZHNldnODBtK2JvdEVDR3pwblBKT1AzazZac0JYRTlIWWp1bXMzYWU3UmJmTVBOOHJudGNKb01lUGhtTmVxT1BXWCIsIm1hYyI6ImRkZTY3YjllNjgxODJkMTYzYzE2NzhiNjQ1YjBlYjQ2MWVmMjI3NWI5M2RiM2NjNDhkZTFiMDNiZDJkMmYwM2EifQ%3D%3D&amp;signature=e71a04daae757c49d79a2180661f34916cecb0d6b3cf8004defe087c4f1a5270</image>
+    <start>01:00AM</start>
+    <finish>02:00AM</finish>
+    <date>16 January 2026</date>
+  </channel>
+  <channel>
+    <name>ABC AU</name>
+    <id>ABC.au</id>
+    <title>Muster Dogs: Where Are They Now</title>
+    <desc>Lisa reunites with the Muster Dogs family as Banjo and Chilli's pups find new homes with five young handlers. These perfect pairings mark the start of the next generation of Muster Dogs.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6InVIRGg0enhyU1ZtOFJJVE1uSXpDQUE9PSIsInZhbHVlIjoiTHRCaFVLYzNsYm1rQ1hMMjdSNitITVhGczl5MTJcL2lDR2ZBa1RoTXFNYnlGU1BVbEE3cVhycmFRUEQrS1FPVkRWK0RcL3R5Undhc0xValZWR3RuQktBTm1zd2E5czR4QWNNQjU3eHQ2Q2hSU0FxdTV2cU5pdG1mT0Y5V09kbW9WVll6VzB4Z0xMNmlyUWxFc2tWSnhFdk9PSE5URGZZNFU3ajkrcnBuV2g1S0JZQzBTQWRiVzZRS05WdUtNcSs2clQiLCJtYWMiOiJlYTExNTJiMTQ4OTNiMTg3MGQ2NTMxMTRkZDUxYjZlMTU1NmNiNjM5NGFhNzYzNzU2NGRjZmJiZWQ1NzhiZGI4In0%3D&amp;signature=1600b8916ff7d914072c4ac68dd6927e5ef7e20e7e3a1d1c65ba6089ad22f0e1</image>
+    <start>02:00AM</start>
+    <finish>02:48AM</finish>
+    <date>16 January 2026</date>
+  </channel>
+  <channel>
+    <name>ABC AU</name>
+    <id>ABC.au</id>
+    <title>Goolagong</title>
+    <desc>Evonne navigates controversy, pressure and the fight for equal pay, while personal loss and burnout drive her to walk away from tennis at her peak.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6InU5azh0RFYrNmNOS095ZGJ3UERkc1E9PSIsInZhbHVlIjoiWTJFNk1wd2MxSE9ZMWk0eVlLS3c1U1Q3TnR0SXd1KzFrTE5KZ1hpbnBzamdCeTQ0WUlha2JXcFBEWWFLZUtGVlp3Y3l4dFM4Y1hIdDBHZXFndGlsNlVNdTRPaDd4WTNpaENGb0RjT1VFSDNyOWhuOTZ1dXJ3d0h0S3QwWkNmUDRwakIyTUY0V2tldDF2dFJoUGNybjB4OW50M3FSd2dTRHUzQ1BCTTdPbTBUVlJCeHpabzdQdlk3aVBqN1wvVzBqUCIsIm1hYyI6IjRhYzRmZTdmZGY3NGNkMGQxZGIwMjgzZWUwMDQ3ZmRhY2I2ODdiNmE4NWFhZTRhMzgxOWU2MmYxMTg1MTc1NDEifQ%3D%3D&amp;signature=9a6252d113f5f87972fba45b618e47c27528b159e2136c30c65c3c292c0878cb</image>
+    <start>02:48AM</start>
+    <finish>03:54AM</finish>
+    <date>16 January 2026</date>
+  </channel>
+  <channel>
+    <name>ABC AU</name>
+    <id>ABC.au</id>
+    <title>Would I Lie to You?</title>
+    <desc>Rob Brydon is back with Lee Mack and David Mitchell as the team captains. Sorting the fact from the fiction the are guests Craig Chales, Amy Gledhill, Shazia Mirza and Jeremy Vine.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6ImZIYkhpaFMzcHI3UUlvUnV2cEhvM0E9PSIsInZhbHVlIjoieVozNFN5Z25KWHh6QjZpRnVzc3Y3dnBvaWFhNVwvbHBmUGZcLzhERTN0NzBsSzZNWGd5TjA0R2lSOHd4RlIwVlMzM0tZWUE1TUNZak00eEZLcXlxNW8xUkV6bWtIbGFDWHp2WHNFbXZIbnBhN0p6cHoxOURqbVNBdnRVRk0xSERlTjd6dlwvbEdSajhXM2k4YVFhV1hNR29LRkVDVktXS1l0Q0g5ZmN2ZkNpOGdrUWZCd0FWTnlmRW1SXC9wdmJcL0w0OVIiLCJtYWMiOiJlN2I2NjcwZmQ1YjA1YjEwZGQxY2VlOTU0YzMyZDIzZDM4ZTdjMjZjMDAxN2I3NjdkM2ZmODdlOTRiMDE0MWJmIn0%3D&amp;signature=85817acb4553fe9f9e67cefaf6423505fed935f169ca9e921c2a73cbd22582bd</image>
+    <start>03:54AM</start>
+    <finish>04:25AM</finish>
+    <date>16 January 2026</date>
+  </channel>
+  <channel>
+    <name>ABC AU</name>
+    <id>ABC.au</id>
+    <title>Nigella's Cook, Eat, Repeat</title>
+    <desc>Nigella explains how captivated she was with a recipe she heard about on Twitter, a dish where all the ingredients were familiar, but the finished article unlike anything she had tried before.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6ImtPVUlXdHhyWTRJcjh3ZjhBVERJVnc9PSIsInZhbHVlIjoicHB3YU5QdkUyeWNcLzNXa2ZWR3pMbEZlTXphb3NcL05UNzYrZmlpdGZOUGlRdWoyVmVcL1MzWlBMS3MzVGpJczM1bE9DRW9KeEhwVmdwMFNCTzQxUW5DazJyOEJYOE9PdUU0dkc2c200OHNOMlFWRmE0bVBzY3hUZGQyYmZlWlhzY3llN3NZY0xRc3JuZmNINldkRyt6YU9nY3F5b2xCTXBvN3J4b3phNnU0NDVsY2VlN0pHb1wvR01WWGthbHFoOWJcL2QiLCJtYWMiOiI0OGE0MmI0MDFlYWI2ZTllN2IyZDhlMGYxYTJkYTBkYTQxYTM4ZjEyMjI4NzJlNjkzMGY0ODJhNGU4NDVlMzEyIn0%3D&amp;signature=ac6d0630a81fecad47f55f7589259dc4836f2301b1f6c9b975b8daa663d478e1</image>
+    <start>04:25AM</start>
+    <finish>04:56AM</finish>
+    <date>16 January 2026</date>
+  </channel>
+  <channel>
+    <name>ABC AU</name>
+    <id>ABC.au</id>
+    <title>Grand Designs: The Streets</title>
+    <desc>Jonathan is self-building a wildly experimental home in York, pushing his concept further than ever - building up three storeys which has never been done before.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6Im04aExrRHhBN0RZYkVCRVwvSzlncGF3PT0iLCJ2YWx1ZSI6InY3M001SEJ3ZXNza1pidU1ST1h3OVU4V3NIRGV3M0NPRkFtSEc3Q2hDRktUU2c3TndvREQzSlwvRkJyaXR0dUs1SUZUSWpKbEprbERKcXVMXC9yNnlzTmN0SG5HaWtRRnVCNmE3QktUQU1KblpXcVFEaHo2YUJDeGZQMm9kVERsOFdDTkliWmpVTkVvQ2U5NEdaVnBUdnpkamJJbWJwVTRaMU9FT0JZSVNPaVB0SEFNNUZIK2kxdzM4WDl3XC9GWTUwVSIsIm1hYyI6ImExNzc3ZmMwMjRlYWI0NWExMGFkNjJjNDhjODRiNWIyMjljMTU5MjJhMzg2MTBjYTU0NThkMzkyMjM3ZTU4NjgifQ%3D%3D&amp;signature=c3a7fd7816a4e7888154999b9698c1ed76fca6312f4d63543a7552e56d696ca0</image>
+    <start>04:56AM</start>
+    <finish>05:44AM</finish>
+    <date>16 January 2026</date>
+  </channel>
+  <channel>
+    <name>ABC AU</name>
+    <id>ABC.au</id>
+    <title>Long Lost Family</title>
+    <desc>A search on behalf of a woman desperate to find her older sister who she has never met; a daughter longs to be reunited with her father who she last saw when she was just five years old.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6ImpMR3hKVFI5WHN6SzkxbXhYNzcyN1E9PSIsInZhbHVlIjoicE45Nlp3eFhaNDJwdnpBcktqbFphQnBWenhMbHlSVDJUVXU2MTgwazVKRkJiWTdycEpOZnNhNDdRZE1FaWhzNlByc1FsUlBtOFwvMDFGcHNZS2VQVFRlQ1liaDM4SlZqeis2QmJMNEJtVjFuUHVrYndcL0tod2x1ZE42TGFDWkN2TlNSaDdcL28rcm55VzRRWXB2QTV5bW5zZEhPbm45TjRuaHBcL1BHUmhqRVowMHh4VjhTTHRoOSs4RU9EQjNUQjN3XC8iLCJtYWMiOiJjMmM0M2U4YWQzMDczOTg5NDJkZGEwOWE2ZDY1NmYwNWU2NmI2YWI3ZjEyNTBmNWJmNGFlOWQ3MjYxMTMwMzJlIn0%3D&amp;signature=b6ffa9e2395cdfc5781bdc22b89a3a12250340a4213e67dc8a8f43468129deee</image>
+    <start>05:44AM</start>
+    <finish>06:31AM</finish>
+    <date>16 January 2026</date>
+  </channel>
+  <channel>
+    <name>ABC AU</name>
+    <id>ABC.au</id>
+    <title>Antiques Roadshow</title>
+    <desc>A return visit to Baddesley Clinton near Solihull finds Fiona Bruce and the experts poring over more family heirlooms with memorable stories.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6Imt0QVdIWnhZcGRiZUFYeVFpTUpZVWc9PSIsInZhbHVlIjoidzlRRlBjSWQ3UEQ5c2l0WWhPSzAxaWdzZlpwUWFYdUR0R1JSVXdPVVlOVEs3SDZxSmpcL3M0TjNvWVJ0QXNiVVR0MzdUNVU5dkl6ckNQV3RcL1hYTGdmeHZvcnBWTWNCMVM0QllZWHB6anJwb1FvOWRhM21CZEQ0dHFuZGdRK09ZY0NVWVRjTWFPUGtvejV6azJ0bWNmYzRDOFRBeTJUOEZVOStMXC9JOWZEQ2w3TnZKbEdyeWxQY2JMdW9iNmVBcEVrIiwibWFjIjoiNTlkZmU4MmMwOWIxNTY3NDgzNGQ0OWFhYzhlNTZkYmU0NzYwMDlkMzQ0NWU5ODcyZTg0NzA3NDcxNzg2Y2ZjNiJ9&amp;signature=92b6fb26be31fffabd9f22369597fb917237048166ccdb05e4829c2949f05d37</image>
+    <start>06:31AM</start>
+    <finish>07:29AM</finish>
+    <date>16 January 2026</date>
+  </channel>
+  <channel>
+    <name>ABC AU</name>
+    <id>ABC.au</id>
+    <title>Hard Quiz</title>
+    <desc>Tom Gleeson hosts the quiz show where the only prizes are glory and a Big Brass Mug. This episode's topics are: Rafael Nadal, Spongebob Squarepants, dingoes, and New Yorker cartoons. And, draw!</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6ImxzOE9UZ3JSaERNZjU3TzRPWHkyNUE9PSIsInZhbHVlIjoiYW5MZzJqS1JFdU9DK1BJR3Q4V2RzbFdvV2ZLZG1uYmVZelJYUHhTbmJpUWxsZFlwSTE0bGc1QkxDTkdqcTdHN1lraVZGdDVxMVpxdmZkdUc4QVVcLzE0N1pWMnVOMVJnMDd2XC9oeDNrcVFcL085dGRnREJ6ZDJWaWZCd21sWU5wa25IRnRTTVwvazFZQTFQOTNFdHlSMXJaa0tzWVlPeXFFZ1VCbUw5QXJOcmY5dXc4RWU2RjgwQkt3ZVhkb3RTRlV4WSIsIm1hYyI6ImQxNzVmMjk5ZjQ3MGQ5MWE5OGRjYzkyZTJiODU5ZmMwNDdjNmExNjg1OTVjOWQxNjMwMjgyNjVkOTRhZWM2YWIifQ%3D%3D&amp;signature=042d61835b649546abc49fe7c4daaca7b6856cb6fc8548d342b48bf7f882cd3d</image>
+    <start>07:29AM</start>
+    <finish>08:00AM</finish>
+    <date>16 January 2026</date>
+  </channel>
+  <channel>
+    <name>ABC AU</name>
+    <id>ABC.au</id>
+    <title>ABC News</title>
+    <desc>News from where we live. ABC News NSW brings you the day's top stories, exclusive investigations and original reporting on the issues that matter to you. Presented by Lydia Feng, plus sport with Chloe Hart.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IlUzVW9BYnkwSWNcL0VxWlFEK1Vuczd3PT0iLCJ2YWx1ZSI6Ikk2Y3JUcXQxTWVKd01sZzhXSzVUZ01Jd1hCcTM2d0tQRTdpOExJVFdmSklETXB5K1d1NGpiT2FlMnE5M0hpcTYydHBjZFZwejdLblBYTWErc0JjYWtjV0tJVXFxMG1Fd2d6eW1EWlVhZmdmeW82VnNza0JYK3lxOGRLYlVUQTFnQkZvSGpjbWtwMjVUOTRIdGlEd1pmSENCY1ZFU1wvMGRmNm9ud1BIUWdqNWh3XC9DcUlBTHVYOXozUWlrRVVLbjZ4IiwibWFjIjoiOTMyZWJmZGYwYWFiODkzOTNhYjc4MDI5OGJiMTQ3MjhkMTZiM2Q3M2I0YzBlYjU2NzFmOWVhMjcxNDJhOGFmNyJ9&amp;signature=9ec4c765b473e0b54933a2225653bd16570378bb8c956fb99d8ae6a8171e3099</image>
+    <start>08:00AM</start>
+    <finish>08:31AM</finish>
+    <date>16 January 2026</date>
+  </channel>
+  <channel>
+    <name>ABC AU</name>
+    <id>ABC.au</id>
+    <title>All Creatures Great and Small</title>
+    <desc>Tristan and Carmody can't see eye to eye, but a quest to Pumphrey Manor might just bring them together. Helen tries to support James when unresolved feelingsresurface.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6ImFzdjYxXC9OTmJneGdEdFZRaUo4YkJBPT0iLCJ2YWx1ZSI6IlI5MUI5N3creGZlbWJTeTZaM25QMERyenpWeWNyTDJkdDhjZ1B1WUtFcWJpM1ZMVERMY0tJZjNycERxOEU3TStaNDdQVTdDTFMwdG5jQzVOdUpGcHNSWmNsV1llWHJVa0dsRUxtWXYrMktJcjF1SGsxZ0VEV0lyQ3E2N0xpbFRxSFErXC9RK09kaVJFbE5nZ2hVQ0NEQ210OWk3V2lCRE1KNm5rMXR0VHBoZUdqM3BYNlZqMnZoN2M4ODJ0RkRMOVkiLCJtYWMiOiI3NDEwZmI1ZDhhNTNhMWQ5ZDJhZDI4MmIwMTlkN2ViNWRkNmY3ODRkODVlMjU0NjU3YTQ1YmFkOTc3NjlhYTM0In0%3D&amp;signature=1d9ba566718975364828503a1ee48c595e239ede666426cb42e76e8503049bd4</image>
+    <start>08:31AM</start>
+    <finish>09:18AM</finish>
+    <date>16 January 2026</date>
+  </channel>
+  <channel>
+    <name>ABC AU</name>
+    <id>ABC.au</id>
+    <title>Art Detectives</title>
+    <desc>A producer is murdered in a recording studio. Can Mick and Shazia track down the killer?</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6InNHdWdodVdLMEw4SEVwQStJdW9tUHc9PSIsInZhbHVlIjoiS2MrZnFVdXlURVJLV1NmTU45RENPcSszQ2tqV3BjSFBWK2dGXC94XC9kWll0MDBcL1JldEEzd3hcL0RUWmZveElkczdicEVLeENxRlI4XC9aRjlFekh1cTFcL1NBT2U0T2kycDNadHlUOW01RklNXC8yWnQ4dmVhcWVcL2dnN0xGQ3JabmdsVVJmdzFXQ2ZvbkQxT3NCWStkWlhlVnZiUXhnNG5PTllNWVwvXC9zNjdoc3RlaU1ncGd1Rlh2MnpPUmttU1IwM1IzNSIsIm1hYyI6IjY0NmRlYzJlZmM3ZmI4NTAxOGMxOThmNzA0MDYyZDVlZmU3Njk5YjNiNjhkYTExMDdmZjhhZjhmOGIwOTUxMmUifQ%3D%3D&amp;signature=a36f0043d1a30b5771a3a8be40740ee5e9c689c8f863aae076b1e2df84308f0e</image>
+    <start>09:18AM</start>
+    <finish>10:05AM</finish>
+    <date>16 January 2026</date>
+  </channel>
+  <channel>
+    <name>ABC AU</name>
+    <id>ABC.au</id>
+    <title>Hard Quiz</title>
+    <desc>Four know-it-alls try to get their hands on Tom Gleeson's Big Brass Mug, but which eclectic topic will win the day: the French horn, Franklin's lost expedition, kookaburras, or the film American Psycho?</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6Ink4SFY0NjVkZ3RRNjJwZzBab2V6Wmc9PSIsInZhbHVlIjoiS21NTlFsSjdyajcxZEpjS2M5Q3ZNTW55TjRmNmVFOXlsc2ZKRE5ncytCTUtXRXp4TDlMenhoVHhPQXU4UGY3SDJKXC81YkYxT1wvR0xcLzFSM2V5a250UGJDYXFvV0ZBeEZVNDhNWWlLXC9peHNUQ2k0OE9KWG5UVXlOUVR3eTlBRlVRVjVLQ2VtemJoZkFxXC96Wjg5ZjhzNjlnSFd6bHNMYnVBN1V2bXdJOXFuaUpzYTdqWlFkalMxQWVLSWtkNTE0UUEiLCJtYWMiOiJiZTI1YjY5NzcwMTFhZTA5YjEwMThlMjgxZGZjOWU0ZmRkYjhmNTc2MzE0NjNkMzQ5OTkxYTk1NGE4ZWJlZDViIn0%3D&amp;signature=34c582340a3c2c0296a56ae66d641c47f42ba32fe39958bf5fbb419248bcfd00</image>
+    <start>10:05AM</start>
+    <finish>10:37AM</finish>
+    <date>16 January 2026</date>
+  </channel>
+  <channel>
+    <name>ABC AU</name>
+    <id>ABC.au</id>
+    <title>The Weekly with Charlie Pickering</title>
+    <desc>Charlie Pickering is ready for 2026 as The Weekly is back with TV's best wrap of the week's news. We watch it all, so you don't have to.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6InBlbDlXRVpzM3lMOU5NZUpBNm1pMFE9PSIsInZhbHVlIjoiTlFWSit5QkJDXC8wUSt4SDlacGp6ajltbHc1c0JsTVwvM0hib1doaDIzbitQTlY4XC94RHNcLzZLb2VcLzU4N1k4TlFMVUpZU1ZEY2s5Zmt3Rjk2UkZETjcwdTdXUjJuNWxTUklKQnEyZlBuY1VGdzg1UHh4TnQ1eW5jOHFSUmJwcnpPRkkrVUQ5Y1ZzSU9rNnVIWlJFaE05ek96dkpGTnpoWit1bFNIUEpsNVwvSk5iOEErZG5hZXZqSm5XbXp5QTV2ZnFjIiwibWFjIjoiYmEwYmU1NDYxOWZhNmZkNGNkZWRlZWNkM2M3ODgzZWQ4YzMxZTI0ZDM5ODQ4Y2NhNGYwNGU5ZTgyNmZlYTM0MCJ9&amp;signature=f0493a1b47cf5ca594578aa87b576e59e28f39bc905857e74f1cda910257fd5d</image>
+    <start>10:37AM</start>
+    <finish>11:05AM</finish>
+    <date>16 January 2026</date>
+  </channel>
+  <channel>
+    <name>ABC AU</name>
+    <id>ABC.au</id>
+    <title>A Life in Ten Pictures</title>
+    <desc>Muhammad Ali is one of the most photographed men in history, but just a handful of iconic shots and private snaps reveal a new story: an extraordinary life through a unique lens.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6ImdTbll6VXA3VjJzZ2twSElmTjZtbXc9PSIsInZhbHVlIjoiYk84QkxwVHdJRXNsWkJKVFVKZllSQWI3WlBXVVhFRUJ0OEp1KzNyeng2Z2NSeWt1dkJhNjFrYXZLSW1ORHRHVWY4ZmNTdGdvWFNcL0RHd2VHOGNQVXZQSSswNWxNam5Lb1hUODVpXC82TGhwSFFrclJEMkpMZjhHVkpVeVdidXdCZUZPXC9PcHhpQXFzdVwvTGExZm5uSGVWOWJWSnprUkgyRkRuMVp2SU1qK3hhU3VxTmdWRHp0VHhjWVpTbmVwMzRNdiIsIm1hYyI6IjExZDRhMjZlYjMyMWEzNGM4ZGQwYWM2OWQ2NDJjM2QxYmJlOTQzNjM2ZjVjM2IyZjFkZGQzMzhhMWQyYWUwN2QifQ%3D%3D&amp;signature=f745b86e517696acf7fef4831f2f1dcb21a00c2e7af7d7732bb9d2c3bf10648f</image>
+    <start>11:05AM</start>
+    <finish>11:58AM</finish>
+    <date>16 January 2026</date>
+  </channel>
+  <channel>
+    <name>ABC AU</name>
+    <id>ABC.au</id>
+    <title>ABC Late News</title>
+    <desc>Follows the stories with the latest on the day's events, explaining what's happening and why it matters, with reporters across Australia and around the globe uncovering the facts. Presented by Michael Tetlow.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6Ildqb1ArMld1OW5SMXVRVW9cL1kwS1wvUT09IiwidmFsdWUiOiJMeGVMUHFJZCszZTVLck0wV1pjdGZXWW1GMmZBWXV5ckc3cElPeVBXRHJ4UzM2ajFWSFY2VitIeGxjSnhcL1lrM3c0WDU3WGxwRXkrRml1S285UmVkZkNjNWZVUHZaQXNKTjZrV0tYZkV5SFo2UE1JS0IybWxhVGZTUXVkT2tqSHFSOWMwUDIzVk9iTFJKZGw4a0loV3FJakJwMjE2UHphRDBlblFLN1Z4bmdqNlwvbDR5Y1V0U1FlNzBSRkllNDBBRyIsIm1hYyI6Ijk0MDVlMzRkNjcyNWE2ZTZlMGM5Y2EyNGM5ZGIzMmFkZWRiNDY3ODIyMjc3M2E1ZTUwN2Q4M2NkOTZkNjNkMGIifQ%3D%3D&amp;signature=94629defac0c27f86c5c63a22b27b9948ce58ca08b5729466dfea7ae873a1252</image>
+    <start>11:58AM</start>
+    <finish>12:14PM</finish>
+    <date>16 January 2026</date>
+  </channel>
+  <channel>
+    <name>ABC AU</name>
+    <id>ABC.au</id>
+    <title>Silent Witness</title>
+    <desc>The Lyell are called to Kings Cross station museum, where they discover the bodies of eight victims entombed below. Nikki and the team know this will be a case like no other.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6ImYwZWZUdWhYMEVnXC9uanY4U2ZQNzdnPT0iLCJ2YWx1ZSI6IjhhOWx5eGN3bk5JMW9IRmFiS2trQzJcL01pUStmUm9sXC9mZDM4NEk4UWo1c2Eyb2s3THNKeThaZ0ZRSW1jaDlaMXJsUDdyTU9hOXF4Rll6Qzc1TjBYZWNxS2VscXhVK1hwcVkxWUxrTFgzXC9QN01KdXVybTBwTmM1eG9Ub3I4aDZ3SGFHa3hDY0s3QmJhM0NmdWY4MnFzTVVQSjZVK0hSQWpOQmVJOXN3Y0JNXC9mRGhyNnB5Z3B4bmZoTmdBRmVkY1QiLCJtYWMiOiI2ZTljYTM3NzNkYTFhNmVjNGFjNDgzOTA1YjFhOTJlMjI2OGEwOWM3Yzc2OTRlNzU5NjNjMjEzOTg2ZTU2MjE2In0%3D&amp;signature=722fead1d726253f5fb3bf8e9a5d37672fb8a4f1a1d2f059885b9c450d126d98</image>
+    <start>12:14PM</start>
+    <finish>01:59PM</finish>
+    <date>16 January 2026</date>
+  </channel>
+  <channel>
+    <name>ABC AU</name>
+    <id>ABC.au</id>
+    <title>rage</title>
+    <desc>Your weekend begins with an all-night music video marathon. rage brings you New Releases showcasing the latest in buzzed-about and boundary-pushing music videos.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6InRvTmRDMjdtcnZHcm9LczZabzFnOVE9PSIsInZhbHVlIjoiN1VZNVVnYmNZTGJQREpjd0U1RUF2QlFRbnRHOEpZM1IwYmtaOEg2WXNFbVo3NVZ4OHJ4YjRaYm9WV1orc0lcLzlXN21rZGhvYjlpZjVHSUU2a2tXeGVYb0ZscXpFKzVMVlVjS2ZLWkY2MFwvVVFnVExlZWJiVmRKMFBYblBUazFMWThQVHFwWUsxbkNTQ3JsdUxBek1hMFBZNWZndkpWK0h1aXNka2FmNHNiSEZuUDd3Wk5Sd2VlWmtFYzNjS1FFdFYiLCJtYWMiOiIzNGRhOGI5N2YwOGJiYzUyZjM4OGQzYmY0MGYzNDRhMTllNDk3OGEwZmVhMWM1ZGY5ZTExNTA3N2UwNzdmYmE5In0%3D&amp;signature=62327559324d82f6eeef61ff72086df8b2cbeb80873012f19e9e9db10ddf8202</image>
+    <start>01:59PM</start>
+    <finish>06:00PM</finish>
+    <date>16 January 2026</date>
+  </channel>
+  <channel>
+    <name>ABC AU</name>
+    <id>ABC.au</id>
+    <title>rage</title>
+    <desc>Keep the party vibe going as the sun comes up with continuous music videos, from new releases to classics and the songs we've long forgotten.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6ImVPWHM4YUZSc0UrOGhOU0tENWNVdnc9PSIsInZhbHVlIjoicGF1ZGcxOEVKTTc5a2RFSE01ZlkxNVVPMHVGVllhaDliZlhHazQwd0pEN1JQWHZTNWFVNUowT2VnZ1VHOEFLd3B5YWhPVUJxNFhuVkRSNmwrb3ZGMlRwM0h5QXRidENGaTJqbUxLVkpmUXFGRjFxT2M3WThPTWtjUmlFVGR5V05HTVlMQyt1WnhSNHhwdkFQbG5wZTFkNHlvQzlBYm5iQVpHN3JSMG02YlJFXC96WlwvYktFTkFObUdQNVFCbzdqU2EiLCJtYWMiOiI1ZGE1ZWVmMDRmMzA2NTRmZmQ5YmQ3MTA3ZDAxODk1YzY0MTdiZmVhNDA5ZDYxOGVlY2QzN2ExODRlOWJiZjdmIn0%3D&amp;signature=7983ef50493031e711c8544bfc8141dfe00dcfcf77ae6afc5d264b9bb5b17dae</image>
+    <start>06:00PM</start>
+    <finish>07:00PM</finish>
+    <date>16 January 2026</date>
+  </channel>
+  <channel>
+    <name>ABC AU</name>
+    <id>ABC.au</id>
+    <title>rage</title>
+    <desc>Counts down the hottest music videos of the week, with the latest chart-toppers and brand-new hit predictions.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6InUweXNaRnFzcGo2b21oQ0ZTMTFBZlE9PSIsInZhbHVlIjoiVG5kODZ0cEszYytzMk1QV3FoUm1tNlJIUUxreXRTQTJMSGZaQXBBZE1YZldZKzNoU0ZYdEJneUJpUXdlcjNWdkpjdTJtNTJkMG05SE5UZUtGZXdMbHRaVUZcL2pmcEhmTDVoUWxDUE45V3lUUVRqN2tRMG9JOWtFUlFOemllcjJQdktlZngyMGRrYmY1K3hVa1VtQzJwVWFoK2s5T0h0QklpVEhvSmhwTUJzSlNmeFwvMW9kZEdDd2tYaVBkODE4VVIiLCJtYWMiOiI5ZWE5ZGVmNGIwZmU1MmZlNTljMzdjMTJiZDVlYmQ2MzJjNmFmZGQ1NDkyODk0MjNhNDE3OTkxZjYyYjhmZDVlIn0%3D&amp;signature=ac02451f542a7e9118d1fddb7815b908a505dbe6719fa7bb97f1b554a7793b2a</image>
+    <start>07:00PM</start>
+    <finish>08:00PM</finish>
+    <date>16 January 2026</date>
+  </channel>
+  <channel>
+    <name>ABC AU</name>
+    <id>ABC.au</id>
+    <title>Weekend Breakfast</title>
+    <desc>All the news you need to start your day. Fauziah Ibrahim and Johanna Nicholson bring you the latest news, interviews, politics, culture, weather and global affairs. Plus sport with Daniela Intili.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IktnY1VsN0RBaUhLTW1EQlJiem94SkE9PSIsInZhbHVlIjoiazEyV3g5RDlZWVBWYnJQZjhFVTVkeUpKd0g2Y0JnMnlYallTNHBLaHFYVWs2VXhObDVOcEpHUFo5bWFpT1FNdlRTZUJPbGVVb04xdUl3dHJmcEJ5RG9xaGNRXC83S013YkRmN1hVa3g4V21vbFpkV3djV1lPUE9KYnJ3VHU5MytMXC9BVHFDdjJnV3gySDFrdHFTbWJZWDNyTzVQaWFjQ1RxN2x1QXpocURYdEs0RlFrbkZCM3FFRmY4T1ZKV0JcL2l3IiwibWFjIjoiNGUyMjY2NGVhYTk0NmUzOTdjNzI4MDdkN2IzYTM3NTEzNzEzNmQ2NzQyYmEwYzIzZTIyOTU3ZDEwN2I1MjUzMSJ9&amp;signature=1d7882544fb3f54a618fe840063c65a9e02dbcea5025812314c8444b318ddcba</image>
+    <start>08:00PM</start>
+    <finish>10:00PM</finish>
+    <date>16 January 2026</date>
+  </channel>
+  <channel>
+    <name>ABC AU</name>
+    <id>ABC.au</id>
+    <title>rage</title>
+    <desc>Keep the party vibe going with wall-to-wall music videos, from classic hits and long-forgotten tracks from the vault, to the latest new releases and special features.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6Im1rXC9iSnZVYUZmaUZcLzJ5SkNtSVwvZnc9PSIsInZhbHVlIjoiRENOYUpaVElCb2wrb0ZNTmlKanhuRnAyV3FXd1wvTUNEbUJweHYweCt6b3ZrQTNRNVpFdnVuazdKSHdidjhJWEp4U0o1NDAybmRycXdIcnM2YVNwVkJvQXErYzVNYnhZdHZBWXNJd3BPWXBQWmFRQ0Fsc09BOTVoZWxZMGVIdnBrZHFLSnpUdzllcHNKK0cycVdTVlRJbFhqcnRXT0VuSVhhaHpzdWdZMW5wUDRSVnIzQ0s5XC9cL0xNdUI4eVpPZDhHIiwibWFjIjoiOGY1MWRmYmE1ZmJlNWIyYTdmZWNmMjNhOWQ1MzljYWRjMDM1NzVjY2JiMWJjNDViZWRhMjEwZmEwM2FiNjc5MSJ9&amp;signature=6e1de90525d90c9be916b210c5b5f53fe4797d400d32a216f6294874345e14c6</image>
+    <start>10:00PM</start>
+    <finish>11:30PM</finish>
+    <date>16 January 2026</date>
+  </channel>
+  <channel>
+    <name>ABC AU</name>
+    <id>ABC.au</id>
+    <title>rage: Guest Programmer</title>
+    <desc>Australia's longest running music TV show is home to the biggest vault of music videos from a diverse range of artists, genres and eras. Guest programmers curate an all-night playlist of their all-time favourite clips.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6ImtYMzBCTytIaGU5S0RnQThwRnFFTEE9PSIsInZhbHVlIjoibHQ5cXdLMmpmXC90ZDZVZTdid0sxRGF4cG9pV3o5MVFvR21PWU1XMVpndnJIS2hUNjh6OWYrSHBiaHV3a3lmR1d1QlZocmNDb1JuUUM0Y3M2TGthQTlHZU1uNmFUNFpcLzgxQnlVbWxcL09jTEwydmRTdDVtR2t0c1A4akVQd0tod242SjhmaUN2bitIdHVWd0hWWFR5XC91eTg1U2NGMVRIbUJpRU1ubTlOUTBIWDF2TWRrczVZdzFkSG5iZDcyWjVWciIsIm1hYyI6IjNlN2E0MmE5NGQwNzVhYzE0ZjAxNTg5ZDQzM2RiNjQyNDcxYTE1YTdiMzkxNDAxYmE4NThmOTAxNGNkODk2NmUifQ%3D%3D&amp;signature=c76d2cfd8ab5e551527ef727259ddecc1c3e9c3b344944d5c3bba06aad36dffb</image>
+    <start>11:30PM</start>
+    <finish>01:00AM</finish>
+    <date>16 January 2026</date>
+  </channel>
+  <channel>
+    <name>ABC AU</name>
+    <id>ABC.au</id>
+    <title>ABC News at Noon</title>
+    <desc>Melissa Mackay presents the latest from ABC News on the weekend bringing you today's top stories and coverage of events as they unfold. Plus original reporting, analysis and updated news, sport, weather and information.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6ImlzZkIrSW1MTUs5ajZvNlFEQzVMVmc9PSIsInZhbHVlIjoiMjFIMEQrVFV3c1J5SWozejNkclBMNXZKWkVXbkxzdkQ4Qkp1T0FZZHE4Tk9KMzg5cld4RzRCU0w4QTlnMFVwcjhDYlJTT201eDhxbE5HWER0bzlMWDBlNVFiZ0hhWmtMSnFEVForVjlZM1dvNGI4M0ZWd1wvOWF3bDA3WnMzOWlGVnpIRGdkWFZLY1ZVK0RIbEUzU01CODJjdG1MMzBBSHJlSDdRcnJYRmozMHE4TkZ4QWh1RVdtMzh1MERqbXdtVCIsIm1hYyI6ImUxMThmNTZjZThhNmM5Mzk3YTU3MWY4MDgwMjljNDYwZDQyY2VlYmE4NTkxOTdhOTJhODYzYjNmYWI3NjhjNmYifQ%3D%3D&amp;signature=9269f28595bee7e3495055626aa13030d2eb85c0c63ca668e798490fb79b7bc8</image>
+    <start>01:00AM</start>
+    <finish>01:30AM</finish>
+    <date>17 January 2026</date>
+  </channel>
+  <channel>
+    <name>ABC AU</name>
+    <id>ABC.au</id>
+    <title>Call the Midwife</title>
+    <desc>Rising rates of gonorrhoea in the district cause alarm, and Trixie cares for an unmarried first-time mother recently diagnosed with a mental health condition.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6ImVKakVRaHc1bGdKc1h6amtaWVwvdWdRPT0iLCJ2YWx1ZSI6IkhXbHBKbDJySURHMG1HU2lJQVp6S3M2WGZOdFp6YXMrb05cL0s2NU8wZktIZERodjd1RVV2Uks4cVVuaFdLeUYrOU9TeklZU1BXTkNUbEZHakFXdUR4aXRJTXV5eUJIaitMZnRTNGNuYyswQ3R2Sm96SDR5NkNsRW5UT2dWYTZTTDJ3MnBteHk1aTJhY29XTDIzK21vOHBsMVFacUpiZW5YYW5cL3VMb3lDaUxFQkRpOGI4UzRDZUxIY0NrZVA4VFVXIiwibWFjIjoiNWQ0MDQ2MGZhMDMyOTE0MjgxNzc3YTk3Y2U0Y2QyMTQwNTlkYzBmOGM3ZDJiNTA4OGJiNTI3YzcwMGRkN2I1ZCJ9&amp;signature=c7b4977a96ba60bda5a12b36a7bd31325825eda0beac66bdca77374c5cabb070</image>
+    <start>01:30AM</start>
+    <finish>02:30AM</finish>
+    <date>17 January 2026</date>
+  </channel>
+  <channel>
+    <name>ABC AU</name>
+    <id>ABC.au</id>
+    <title>Art Detectives</title>
+    <desc>A producer is murdered in a recording studio. Can Mick and Shazia track down the killer?</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IjQxVUVKblllYlR5VVIyVll2YlUrVXc9PSIsInZhbHVlIjoidUdMZEZueEZYbU5BUDFuelwvQlZ4eUZIRGZrd3RQdG1ndVdUZ0N1Q0ZBQklOY3JhMlE3eGgrQU5EZGlcL0VaeXk0WE10dTRtQjJTSWJXbTF5Rm9BZnZQdldXWkEyempTaXRyODNwRGQrQlcyZUFVK2RyWjhOZXd5OEliWFJOMGY3UHNIUExzbDgyeElJWmR0S1R1NTZRcmZDbWtibklVUklranNiaDdVckhXaVRWUmdFcTA2cFNEVUtNS3FqVitwTjIiLCJtYWMiOiI0MDBmNzEzNzBkZmIwNDg1ZDk2NGU3NTY3ZjRkNWRmNzRhY2JhNmMxMmY3ZWMwMWNlZTQ1YmFkYWUxOTlmNDc5In0%3D&amp;signature=8a1b4f53f9054116bce4ace586341ae240eb1951dee99aabb2bc348fa1bf51a0</image>
+    <start>02:30AM</start>
+    <finish>03:18AM</finish>
+    <date>17 January 2026</date>
+  </channel>
+  <channel>
+    <name>ABC AU</name>
+    <id>ABC.au</id>
+    <title>All Creatures Great and Small</title>
+    <desc>Tristan and Carmody can't see eye to eye, but a quest to Pumphrey Manor might just bring them together. Helen tries to support James when unresolved feelingsresurface.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6Im1mUVZ1ZFVxUHRwVHhwV2N0MmtaSWc9PSIsInZhbHVlIjoienVWVFhlczNqa20rdnlSajV2QzBpbDRTR0tQblwvdVBYcGp6d3RrUUNOUk9OUmJXM0k2UDk1cmpZSzB4QlppWldnU2ljWmFteWpTM0NRWnd0Yk45QmU0VTdIOHBJYzNpTWtzbnBjWnBacGw3OUtjZ3VMNlNQWXhzNlRnUTFHK3ZOTit2XC9yanNwQkxvaUs3N3RRcGZoYnhhNGFxdVU3cXZzcnZsQ1ZWOW13VzRDT0RXNnFjSW5mNSt1dit6MW1uS0kiLCJtYWMiOiJmOTIzODNiMWNlM2UxOGNmZTk2NGE2N2U4ZGIyMTA3NThmMGI4MDUzM2Q1NmVlNzI2MWVjMmU2MGNkZDBhOWM2In0%3D&amp;signature=f9d09cad1fdbd8052a80ee0770c94b1d4122d3190af283e4e6f9aeff39b4d1ae</image>
+    <start>03:18AM</start>
+    <finish>04:10AM</finish>
+    <date>17 January 2026</date>
+  </channel>
+  <channel>
+    <name>ABC AU</name>
+    <id>ABC.au</id>
+    <title>Extraordinary Escapes</title>
+    <desc>Sandi's joined by BAFTA-winning actor and writer Jessica Hynes for the ultimate staycations in Jessica's home county of Kent, from a luxurious windmill hideaway to the Elmley National Nature Reserve.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IkI3OVNSUmZRSHFGc3dZcEN5eVVDTHc9PSIsInZhbHVlIjoiUzBYS3JsblwvTmhuQk5IeXR6aUlabmw4d2M4MVZoUmNTdXA1Q1FTWEFqNFJFWTRwRHNkMFpveXlhdFN6cTI0cnJaXC9nVUd4djFNTnNyVFVFVjM1dFZ4allWQlp0c0FYSVlPeFlhXC95XC9sOFpMaFwvVGMxd1BTb2pobUNLekl6eU9JR3JTZWFXZlhxR3ZkY2lDSVIxUHhtY1p3RFwvSVJZcWFjSm52VWFrNVJtMHZQbzRYV1BzNndRdEkxekZuQ3ZcL3BkTSIsIm1hYyI6ImUwZjE3NzA1NWZhZjM3YmYwMzI0YjI5YjZiNjY4MDhkMDZlZTI0OWQ1MWVkZDJjNGNkMmUxNWQyYmMzYzA4NGUifQ%3D%3D&amp;signature=22cebaf9e949717d63f0dddcebb6dc1222ebb6eaf4b292f58ce2d4fad540ffb7</image>
+    <start>04:10AM</start>
+    <finish>04:59AM</finish>
+    <date>17 January 2026</date>
+  </channel>
+  <channel>
+    <name>ABC AU</name>
+    <id>ABC.au</id>
+    <title>Human</title>
+    <desc>We follow our ancestors as they step out of Africa and into the wider world.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6Ink5aG5HTHhqQk94NW1WMXEzcTdEQVE9PSIsInZhbHVlIjoidzcrVTFXXC85cWRVTlRtSkpWNTJwWnRabUdGRXVPQ2VmZDZPclYwbVBlMUNuTmFpRDBaVW8xXC9INTMwOWI1OWFhRGNQUjJORjM2TGJFYzUyUkpPNVd4UWVHaEFGSFJhNzNpd2pTWHNWZGhzSVpoMEM0T05iYXhyVUFjZ3hJajkwdExmWlI4UklDZjZ5Rkw5cmpTV0VBZFwvQ1hDZHoxSWxWNnRRQkRtbEI0QTFJQ3lnSEgzY0tpZkdCaGYxWnF2SHMyIiwibWFjIjoiN2IyNTA2MGViOTRiMWIzZmQ3MGYzYmE1OGRkZTBiZDYyODc3Y2ZiNzYxZGJjMDU4NTMyMDdmZWNhMDAzMjBiYSJ9&amp;signature=418cad339f67856eb0d1a6331211cae8dbf877395a65c334236f029080076b7c</image>
+    <start>04:59AM</start>
+    <finish>05:59AM</finish>
+    <date>17 January 2026</date>
+  </channel>
+  <channel>
+    <name>ABC AU</name>
+    <id>ABC.au</id>
+    <title>The ABC of</title>
+    <desc>David Wenham travels backwards in time with the man who came to define Australian cricket, Ian Chappell. For the first time, Ian discusses his recent stroke and how it has changed this next stage of his life.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6InVHMyt5SXdNRkhSbnNQRm9BNGxqenc9PSIsInZhbHVlIjoiZ3JBSHRPVTBGV1wvbGI2aTdEZ29kdXBIQkdUVkYxejlxWVwvRVExQ3JjRnRPZkRkSTI3R3Q2M3AwOVYzUG9FYXZqTUhJTjVcL0g4VWxhUFpzc2RNc2FmbE9maktNdlNmR0xcL0dPWXpNSXdmNjhYaTB5bzlyeWVsY1lDYzNKV0FDWlU5R1pUbjBra2l6ditaZWo3blwvVUNcL1JldDcyNCt2dmFmc1lacTdZa1lFMk04bFwvcEYrT2NFMVF1aFFHbG1DRDZiaCIsIm1hYyI6IjE3NDQzMWVjOThlNDRjNGJiZDZjODFmOTMyN2U1OTZiN2RiNmFkMDM0YzAxMzBkNmY2ZjRkNGNhYzEzNGMxNDUifQ%3D%3D&amp;signature=920854b5263993034dbe0c92a3a8b1efdbb0c22515446955c2399b37936baac6</image>
+    <start>05:59AM</start>
+    <finish>06:28AM</finish>
+    <date>17 January 2026</date>
+  </channel>
+  <channel>
+    <name>ABC AU</name>
+    <id>ABC.au</id>
+    <title>Dr Karl's How Things Work</title>
+    <desc>Guided by a pie-tastic team in Perth, Dr Karl embarks on a culinary odyssey to uncover how Australia's iconic meat pies are made.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6Ik0zRXZYNEZadVBaYmp2ZnRNUVJaU1E9PSIsInZhbHVlIjoidk1uZVltVENOZ1J4VFJFdzIwS3ozVDVJUE1vVTNEc0gwWTlxVXcrVDNqRHhPK0hYczlcLzEwamhGR2tPUVwvb1E5TVZiZ0M0RGpleWRxMTlaNTRCdnBLSWFsQkFiekJzK0tIVElEaStpd3k1VTlIcVdoSElsbHlhRExIWTBPdUhFZnJMenNhUzlxMThcL08yTDVKQ01udlZoXC9KbWtkdlVCUThDcDlJV0JEcDhtT1wvVFBCZzZLQk5YMnFETjhcL0t3RGtuIiwibWFjIjoiMDhmMTE3ZTYwYWY2NDRiODcwZTgzMWYxMGRjNWQxYzljYmJhYTQ1NTM0ZDBjMzZkNDI1MzkxODEzMjhhNDk3OCJ9&amp;signature=2e0ed3a581dabefbc5c22c86e5c0f72090dd16bd9e619176bf71803fb99fcb7a</image>
+    <start>06:28AM</start>
+    <finish>06:59AM</finish>
+    <date>17 January 2026</date>
+  </channel>
+  <channel>
+    <name>ABC AU</name>
+    <id>ABC.au</id>
+    <title>Back Roads</title>
+    <desc>In this special 100th episode of the program, Heather Ewart looks at the great Australian pub. The nation's very own unique style of watering hole, the humble pub sits at the heart of many communities.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6ImFmQUo0aUpvS0VEaFZ1djRValUzWVE9PSIsInZhbHVlIjoiNm5JbzdjYjFvemE5QUdWMFFsXC9xMXBjbGhVNTA2WitQNHVpXC9zVUdhZGZvOE5LazFLOUZEaUY2UVFcL0ppS2ErYVwvbTN3czhcLzBkaHhmZVNXc0Y3RWxjNGhpK2NuK29oSHhKaWtLYzZldVQxV0NWd1dEc1hNclRFVmN3YUh5SjZQZjBRbFdFVyt6VDNhZlpOc2tsSkJwZTZcL2xBUUtmRkprZFNHTlVodmdvVklkbzhSUEtVc3BHTER3NXFCa3BjZWxuIiwibWFjIjoiZGRiY2EzNzY0ZDc3ODYzZTM5Mzc4MjNhOWRkYzY1NjAwMjk4YjQ4YzAwYjY2OGU4ZDQ0NzA0YWY4YmFiOGNmYSJ9&amp;signature=032b8ff28525f4dca688037d63a704adb41ea16dd990715e39a6ce702bd6cca3</image>
+    <start>06:59AM</start>
+    <finish>07:29AM</finish>
+    <date>17 January 2026</date>
+  </channel>
+  <channel>
+    <name>ABC AU</name>
+    <id>ABC.au</id>
+    <title>Hard Quiz</title>
+    <desc>Four experts battle it out: Ryan knows all there is to know about guinea pigs, Patrick has a penchant for vintage sneakers, Steven is a Peanuts comics pro, and Katharina's an expert in Penicillin. Who will win?</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IkFjK1Q1ZHppeWdYM0ZHNzZKOSsybWc9PSIsInZhbHVlIjoiQm9hdHI4WDBLTU1XOEliUmtodEhHSHZKd0hSbWFYSTJNNFlZZ0czcWhOVnBHSDZOXC96UGdVNVJpQzR6NVZLYVFaTjY3bTQxVWJJdXgrV0g3eCttZllvXC9uUGhJTE9pOVwvaVE4eHhFcXk0TmV0MXVjSVI0ZEExMkh3U216M05wS3V6OXlhMEszUWZNUkFYWW81NmFOUlhTU0xLeDJOT2ZBUWIxNEI1aGt1bFB4RCt0M2tKSWY2TjhhTEMrT0NOXC9QZiIsIm1hYyI6ImI5YTEyMDcxZWE0YmFlZmI5MTZjMDJkYTFjZjE5ZTY3MDFlODcxOTQ4MTI0YmJlZWE0MDhiZGQ5ZjAxOTVjMGQifQ%3D%3D&amp;signature=a7f52bc58f3ffc561f1221199444323288d6e326c750262e332f5ef6a9b4d9dc</image>
+    <start>07:29AM</start>
+    <finish>08:00AM</finish>
+    <date>17 January 2026</date>
+  </channel>
+  <channel>
+    <name>ABC AU</name>
+    <id>ABC.au</id>
+    <title>ABC News</title>
+    <desc>News from where we live. ABC News NSW brings you the day's top stories, exclusive investigations and original reporting on the issues that matter to you. Presented by Lydia Feng, plus sport with Chloe Hart.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IlFQWjFBUU4zdnBaNWNmXC8ydmpiXC9UQT09IiwidmFsdWUiOiJ1b29cL2hKK09nSFdPU2VSR25FNEV0RjRZSnNWSDA0ZjVwV0VvcGVPbElGcGtWSENEUkFPcHRNOHJhaDNOUmROMWh5VDJCQjRrYlNuR0hnUTh4YktsV05tdjY3akg2YnI1ZnR0bkV2RnVPM1RZSWhXZXlFejVVUCtteXFFcnd1OXpKRXp1Tk5GZkZOajhrMnZvVTA2eXJ3ZHlCWENWUlNnNEdcL0hQa0VkODBJcFpXdkZLUzRibUlGblpOS3JVU0k2NCIsIm1hYyI6IjE5NzQzMGI0OTIyNDRkOTUyOTQ1MDU2YmIzNThhZDUwMGRlMTEzYmJiYmZmZTYwMzk0YzVhZTk0YmQzOGVhN2MifQ%3D%3D&amp;signature=fd73675192bee7c470f35a35afb3b464856f0cc2f4c834d9e622246e86724516</image>
+    <start>08:00AM</start>
+    <finish>08:31AM</finish>
+    <date>17 January 2026</date>
+  </channel>
+  <channel>
+    <name>ABC AU</name>
+    <id>ABC.au</id>
+    <title>Call the Midwife</title>
+    <desc>Rosalind needs all her skill as a midwife when a disabled baby is delivered at the maternity home, whilst a gas explosion in an old tenement building shocks the community.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6ImdSa2Qxc2pScXhIOFNRM1pFZmFnclE9PSIsInZhbHVlIjoiTEM0RmFaMElkY1dWUVRJdWNuTWVoU2lwVHVVRXhCTVNpdUg5Zm1zOWxRcHlpQnIxanBwRlNUYllaT3RhY2t2UkRMdGV6Nm5ZQ0UxYkVqbTFMbExucGk2bGhcL1FpaVppemU4YWE1b2lZOGtGa20rYytmVHpkZnM5WUVGMVJSVVBvckJOblh6TE8wK1I4cXMxRmpHXC9HYytjNmwzcDVobXVia1BDMzBhS3pibmtnbFNCUzM5b1JBUVpWTE8ra0VHYXoiLCJtYWMiOiI1YmM1NGYxMzk5YzFhNDM3MDk3ZmY2Mjc5ODVjOGZhYmUzOWE5YTAyM2E4ODc5YWJiOGNkMmFmMzU1ZTMxMzEzIn0%3D&amp;signature=5d73fcb8d093ef8e7fe075f4820763bb87fdbdd04f0b476d5a187348e9cb6ff3</image>
+    <start>08:31AM</start>
+    <finish>09:31AM</finish>
+    <date>17 January 2026</date>
+  </channel>
+  <channel>
+    <name>ABC AU</name>
+    <id>ABC.au</id>
+    <title>Vera</title>
+    <desc>Vera nets two cases when an ex-prisoner's body is discovered on the banks of the Tyne. Has our former inmate been served cold justice? Or does his death run deeper?</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IklSdmdIQ05VMFdnOXgzcDEzTHRrMFE9PSIsInZhbHVlIjoiOHgrK3NNcDZrbFZSa0swaGJ4Qlk4UHdoQ0xaZXhzYm5ZMXUyVTBUc1ZnYVdUS05TOVFBcTRIK1VXMFYzUklJanEyNXlTM0l1ajdGUHk0Z09UamNrNnZ2aGprK0Q0cGJxNFVvNk9jdHdsc3lvdGtWekt0YVJzdTIzXC82cTBnMGtTVlpLQXpEQ0M4ZHRtZW1jRmZKRTVGVlhoTjhGTFlcL3F6N2IxZmlkZkl4MHIwWW9XWGgreGx6XC93UWhTV1oyNE9JIiwibWFjIjoiZjM1YmRkY2E3MWVmZDFlZGE2NTJiZTdhNjBmZmJiZjYxZWM5ODllMmQ1ZDAwYmUwNWI0NGU3NDJlNjVhYWI4MSJ9&amp;signature=bff9bd9eda97dfc678543c2b99ca14a04a7fade474123dc5c4cd69971f3a24a0</image>
+    <start>09:31AM</start>
+    <finish>11:03AM</finish>
+    <date>17 January 2026</date>
+  </channel>
+  <channel>
+    <name>ABC AU</name>
+    <id>ABC.au</id>
+    <title>Goolagong</title>
+    <desc>Evonne navigates controversy, pressure and the fight for equal pay, while personal loss and burnout drive her to walk away from tennis at her peak.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6InFXODVGSEg1NmZGSng3V1I2V2JqTmc9PSIsInZhbHVlIjoidVJsUytqNk81MHFiMWVkQ2NVTUNEejloQTJsMjRiUHhVS0hFVkRxQ2pyWmtHRFJhampkbk5wemJNYmxpVFF3ejU4TktJRDFEZmhmeTZFcE9CdkdNTEw5ZllWcTFwMXNaS29TV05JZ3krd2FBQmJscEVSa0ZLbk04M1lNd0hPQVJnbkJQemJSYUJjY3ptcnR6WFk3VUV5ZHR3dGNPMmFNdXE0NFN1bG54Qnh0Vmw4V3VPNHBHSk54RDFOczlJN21hIiwibWFjIjoiZGU3MWQxZmY0MjI1NzRjZTA4MjM5YjY1ZjBhNDY2MTExMDcyMDhmMjk1NDg3MzEwMGYyOWIxNTZkNWViZDllYSJ9&amp;signature=f6ab9f3dee3d61d96f196612f92c30d35f1161a5f93086fdf6d5f6245feb16f5</image>
+    <start>11:03AM</start>
+    <finish>12:00PM</finish>
+    <date>17 January 2026</date>
+  </channel>
+  <channel>
+    <name>ABC AU</name>
+    <id>ABC.au</id>
+    <title>The Jetty</title>
+    <desc>Still reeling from her discovery, Ember agrees to share information with Riz.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6ImtLUWIrUFwvUkllSGRuTUhwVzRLbFpnPT0iLCJ2YWx1ZSI6IkNEeU1xeGg2bE5IOU44bDNuUlk3aUZSajREMEZMTWU0U0NZQ0J5YzNuOFwvYjRRcFBMeDNxYkd6amY3bnd2SXQySklCWE9XMEJ6MzYwWm40SlZQbWUzZkFkdnhEODJJVHBYdURCOGxYdEVjWHc4K2w0djVSRXRBQ1wvRCtuUmJWN01PekRQWnQwSW9Ra1FLdjZ0N21pVTErS2huRVwvV3Ftb0poYlNyOXk3NHN4UkV5STRGRFdSekVkam80YVhiQXNSRCIsIm1hYyI6ImM0MjJkMzYwMWIxMDFlZjE4MzQ4YmI3ZmZkYTA4YzE3N2ZhNDNlNmI1M2I4NjBlYjU0MmQ4OTBkZmYwM2M3OWIifQ%3D%3D&amp;signature=b2dea91d10593607b23e223e0c7cf28965eb6c76b71d4298c7190a9acc1c54d3</image>
+    <start>12:00PM</start>
+    <finish>01:01PM</finish>
+    <date>17 January 2026</date>
+  </channel>
+  <channel>
+    <name>ABC AU</name>
+    <id>ABC.au</id>
+    <title>rage: Guest Programmer</title>
+    <desc>Australia's longest running music TV show is home to the biggest vault of music videos from a diverse range of artists, genres and eras. Guest programmers curate an all-night playlist of their all-time favourite clips.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6InpYaFBPQ3B4WHFleVdvRFwvdG9QV2pnPT0iLCJ2YWx1ZSI6IkRFeWE2YXNVdDJUTGpDRlQrYzRzZUdaQmFyXC9DZlpVWHRTMDBFVUpoY2JraGZmNW5Sd3lLRDA1ckc1TDROazRYTGZKUVBLYWs0MHZsZXF3MkY4MFRNc0NyTWpBR1RHY0czNnR6WENNa3FiNkpjNW9Pd3dcLzczajZpNXhTTHFmS2lwNHB5NDdmeFYxamdCWWZRODF2eUVTRkE5cXFGTmpzcko0cXJPSWwzNXVYVlBESGVWcTZZdVkxWFwveEFmRUNKQyIsIm1hYyI6IjlmYjliYzMxOTZlNzE1MTEyZGVhODNjYzAyMDI5OTY0YzZjNjgyMTc1NDdlNWUxNDZjZjFjMjIyZTNmZmZkZjIifQ%3D%3D&amp;signature=c109a1a5ac5c6ec88f74d815264bcac9c1a4fe2cf9c72c97bb1a03ea0b6ed431</image>
+    <start>01:01PM</start>
+    <finish>06:00PM</finish>
+    <date>17 January 2026</date>
+  </channel>
+  <channel>
+    <name>ABC AU</name>
+    <id>ABC.au</id>
+    <title>rage</title>
+    <desc>Keep the party vibe going as the sun comes up with continuous music videos, from new releases to classics and the songs we've long forgotten.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IlRKTFVIenJUOUpvc1hCZ0o3dWx3eXc9PSIsInZhbHVlIjoiNXVsa2UzNUhwNDBkaUZlTHZGN0poKzF1RlJQSGRRXC9lZHBjeXBZZlwvNW43UTVxa0NLNHBKMk9FRWxoTldOVEVQaWx2dUJhMXdlNkxtZ25LcmJRUjlOcEdkMzlaZjVkUzNjYmx0Yll5WnoxSUFPalRGMENSKzhXbGFadGhCWVhnUHg4OEo1QVhHK1l2MUdwY3lXTGpsVWlCYnRXNGpjYmN5blRFb1ErTGtRcmlXY0lIODBueHRFS0lSZStXciswVWwiLCJtYWMiOiIzNTE0YWUyODVkMjBhZGZlZTI2MDIzZDY5YWZlNTRiZDUxYzBlOTkxZjQ0NTk1MmJjOTk5MDc0OWMzNDM1NTQwIn0%3D&amp;signature=2c728523129f40140550be13f71d6243d6c5ae9b86c3b58983f70e18f329c4d6</image>
+    <start>06:00PM</start>
+    <finish>07:00PM</finish>
+    <date>17 January 2026</date>
+  </channel>
+  <channel>
+    <name>ABC AU</name>
+    <id>ABC.au</id>
+    <title>rage</title>
+    <desc>Keep the party vibe going with wall-to-wall music videos, from new releases to classics and the long-forgotten.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IjhUNzFtU2V5TGI4MjZoRThWejdYOGc9PSIsInZhbHVlIjoibTVzcWE3aVVPekdKQ3U3QzBZZUJCNTZWVElLV1BMQ2ZoZ1ZWMGg3M0hra1h2RldZWUluODVvcFZkN0g3MnhZN1U2N3BkT2pscFpVVG5PdjJcL25jYllFM2c4M1hac2FWaWJHRytONXJmVERDcGExcHBFcyt2RHR6RzNxUnRwbk5iK3h6REZlWmx3bmRKa2RJcTZwSUxxa1R3NFI4NDNxemM5RWhES2h6SmZ3a3p2cENwbHoxVVd0aHVxV2cwVWhzaSIsIm1hYyI6IjUyMjRhYWRhNDkyZTVkZjY2ODY4ZDdlYzNiYTAxNmRhYzBjNGNiMmJiNDVmNjNmZjM2M2EwMjBjZmQ0OWU1MDUifQ%3D%3D&amp;signature=d6e856738e9ae17cae8bb51127f6f0862f021e090641543a4ca5e6838dee1d5d</image>
+    <start>07:00PM</start>
+    <finish>08:00PM</finish>
+    <date>17 January 2026</date>
+  </channel>
+  <channel>
+    <name>ABC AU</name>
+    <id>ABC.au</id>
+    <title>Weekend Breakfast</title>
+    <desc>All the news you need to start your day. Fauziah Ibrahim and Johanna Nicholson bring you the latest news, interviews, politics, culture, weather and global affairs. Plus sport with Daniela Intili.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IkE5YitLM3hyN3Z1YW5ZcVpLenVib3c9PSIsInZhbHVlIjoiOUFuK29cLzVUQ1d0U2trdEtcLzFMWks3UDRJalBVMlZRV3FnZk1qZWNxdUxLU0U0QktTOE84WXFxSTFYeFBQK3UrMDQyWERoUFpDVk1pOHVwbFhNXC93V2xNcFlWNGpQSkcrb1RISG14amJmQTRCaHNaRjYyS0ViN2o2QzB6QjN2MFBrZ2RXY3l2U3pnK2NsdXBVaHlkTndOZnBqZUpseDBWaytERkd5dW1Xc1BST2xFb1RXUmZ3N0FMeFRlZGljXC9CNyIsIm1hYyI6IjU5MjNjMzBlZWQ5NzVjMWUxN2VmYjJhMWEzMTFiODE3NTBlNTI4N2FjZjAyMTExZGE3ODcyNmYxMjg4MmMzOTcifQ%3D%3D&amp;signature=da437c6c9a0946b817746ab840410e340d3f3aab5573c6665b13053b968ea953</image>
+    <start>08:00PM</start>
+    <finish>10:00PM</finish>
+    <date>17 January 2026</date>
+  </channel>
+  <channel>
+    <name>ABC AU</name>
+    <id>ABC.au</id>
+    <title>Pilgrimage: The Road Through North Wales</title>
+    <desc>The pilgrims head to the Llyn Peninsula and the village of Y Fron in the North Wales slate landscape. Later, they go through the Nantlle Valley, before they see an imposing medieval pilgrim church in Clynnog Fawr.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IlpBSUVLRm1jQkVZaEk5azJvOExLTlE9PSIsInZhbHVlIjoiRG5qK2VYaUh6WHBySjhQWWc2VHF2XC90akt6dTl6SnJvc01RSDBuenE1aFJ0STdcL2V6MmFjRnRBdFNMYk44NlFZQXNzQ3FuTjRLUWp2OGVLaWJDNGRiUWVWTUhoVEVHdEN4akFyXC9uaERocmtpME0zZ01MZXdIcHBybk52WnlBZ1RIaDV3Vjl3Q1loTkVCQjNLd3g4REJvelV1NDk5Q2txRzZxQzBDTWtrK1dxTFBOciswRFFHU2tFdzNKOERLVHJIIiwibWFjIjoiZmE2ZjA5YjI1ZjhjMzc5YTc0MDQ2OGQ4MGVlNDFmMTQzY2RhYTYyNGYyMTY4YWFlMTc3NDcwNjA2ZTVjNTM3MyJ9&amp;signature=cf8d9093867152761177c567e16c3f631634788ccc6037233d940f0e9155187e</image>
+    <start>10:00PM</start>
+    <finish>11:01PM</finish>
+    <date>17 January 2026</date>
+  </channel>
+  <channel>
+    <name>ABC AU</name>
+    <id>ABC.au</id>
+    <title>Secret Science</title>
+    <desc>Of the six core emotions that humans feel, Joy is probably our favourite. We love feeling that warm glow, but how well do we understand it? Myf Warhurst wants to discover what it is and how we can get more of it in our lives.[(96057)] </desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IlZnQTR3SnI1UklxajZ6eW9wQTFEd0E9PSIsInZhbHVlIjoib2FUaFYwb2RlTk53TnRidW10SW1mTithU2FJeW1wRHpMUUhLSUpBS2UwUGVVRHFseGRaSVZqVmtKZWt0czZ2RzkrcDRrNk5Ta3o0eGU1TGp6TVFWMThFd1lQQnc2RUp6YmpzZXprSEdlRzNCdXAzbnRRbjhJbkp3dmdESkhBKytMbnV6VEhDWFc3b2FJZEp6dDI2MkEyd0FDSm85SGhLOWZqc1pKQnNkR2tKbEZTbHdJXC9WdVFFWmgrNDNJVWdhZSIsIm1hYyI6IjhiZmMxNmVjZGI4NDhhM2MzNTE3ZTk1NTg2YWNiYjhmNTA2MDVjYTgwNTJjMWUxMDY4M2VhZjRiMjRiODBhZGMifQ%3D%3D&amp;signature=f23a1aaa4629dc4aa6ab61ba9ffd76f11b06bed0474ab0935fea2b82e990359a</image>
+    <start>11:01PM</start>
+    <finish>11:31PM</finish>
+    <date>17 January 2026</date>
+  </channel>
+</tv>

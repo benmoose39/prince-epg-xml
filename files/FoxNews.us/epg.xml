@@ -1,2 +1,1483 @@
 <?xml version="1.0" ?>
-<tv/>
+<tv>
+  <channel>
+    <name>Fox News US</name>
+    <id>FoxNews.us</id>
+    <title>Live: The Story With Martha MacCallum</title>
+    <desc>Martha MacCallum has been part of the Fox News family for a number of years but made the jump to prime time while chronicling the first 100 days of President Trump's administration. Now she's branching out to cover all of the happenings in the nation's capital on &quot;The Story.&quot; She keeps viewers up-to-date on the critical decisions, political maneuvers and key developments coming out of D.C. Through interviews with guests and reports from the network's roster of correspondents, MacCallum goes in-depth on the stories that matter to viewers.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IndTKytJbWhaOFQ0enJnYnpOR3g0Nmc9PSIsInZhbHVlIjoiZ2hXRGczc29JbVNVcCtZQTlxc0dNdjZOTVMyd2JMS09waHpwRDE5bWRuOGNuZ0t3WkU2dmtMS1QrbkZHbUh5VFY5bVIrM3ByanN4bWRtVTI4MEppQjdKVW5DdThoSXBMTGN1aXNYWncwY0ZuMVJTMTBmbHRXaklaaUVwTzVTaisiLCJtYWMiOiIxODY5OWFlOTRlNGJjY2YwYjUzODAzNDk4OTJmOGVjOTJkNTMyODhjOTgwZTNmNDY3YjAxMDkzNjNhYzlhMzU1In0%3D&amp;signature=45341337c39ac8d8292c5dee21398dbf0f8a07263d8a05591a385ded52850100</image>
+    <start>08:00PM</start>
+    <finish>09:00PM</finish>
+    <date>12 January 2026</date>
+  </channel>
+  <channel>
+    <name>Fox News US</name>
+    <id>FoxNews.us</id>
+    <title>Live: The Will Cain Show</title>
+    <desc>Featuring Cain's signature podcast style and thoughtful perspective through conversations with newsmakers across politics, culture and sports.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6ImlyZ1NEUGsra0JjcXgrUVF1SW5pekE9PSIsInZhbHVlIjoiSFNPaFZ6M0UrVUhXRW92OExzcFUzaVh6VDhPQTdLTjZXSkxDT3hKUmpMaUVnV2dXTktqajdRbmV1RjJSMEZwdkVBTjZzbUNVQXNtQ1wvY3FjcGYrWjUrQ0ZBS3Y4VkZ6UnBjdVNxVWFRTXg0YkE5V3A1WTBDMFFLVXdoQVhaeGF2IiwibWFjIjoiNzkzOWY3M2I2MGI0NDU1MDJkYmJmYmFmYTVkZjE5NDVkN2MzMjllYzY4ODllZmJjODA5OTc0ZmI4N2E5OGRmNSJ9&amp;signature=f1d9d3a61b964eef214e377cd59adec06e05359ea65543b031fe623859131e08</image>
+    <start>09:00PM</start>
+    <finish>10:00PM</finish>
+    <date>12 January 2026</date>
+  </channel>
+  <channel>
+    <name>Fox News US</name>
+    <id>FoxNews.us</id>
+    <title>Live: The Five</title>
+    <desc>The Five, co-hosted by Dana Perino, Greg Gutfeld and Jesse Watters and rotating liberal co-hosts Jessica Tarlov and Harold Ford Jr. is a roundtable opinion program featuring an ensemble of five rotating network personalities who discuss and debate the hot issues across the spectrum from politics to pop culture. The hosts also conclude each show by selecting a topic of their choice for the &quot;One More Thing&quot; segment.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6Ik9tQjl6T3FUQUVcL1wvSGFNQ0ZYU1AzZz09IiwidmFsdWUiOiJ6T1lcL0poMkxGdGxCekRGTDlVZVRvQm1hUGlqVHhWeFM3QmtaUEdSaGgwdUJTaXVQOHdsYXp6Z0JaQzlGQjJrZEJiWk9aYWIraTdBY1I1MjViclczVUY3WEtRXC9FVEo4UjRKSlRwQmFcL29TNDFGY1BpRU1Ja3hGNVp6SDdTdXFpbCIsIm1hYyI6IjJhYTdkYzYyNDNhZDZjNTMxNTNiNDM2OTZjNjM2YjM3OTg3NmMwYjZhMGZlZTJlMDk1YTE0Y2ZjMmNmYmUyNTYifQ%3D%3D&amp;signature=c67f6cf155ba2d204869a74bd381511e2adeac99548362bc8b5559c60b7ed2ef</image>
+    <start>10:00PM</start>
+    <finish>11:00PM</finish>
+    <date>12 January 2026</date>
+  </channel>
+  <channel>
+    <name>Fox News US</name>
+    <id>FoxNews.us</id>
+    <title>Live: Special Report With Bret Baier</title>
+    <desc>Former Fox News chief White House correspondent Bret Baier hosts this live weeknight newscast that places an emphasis on political stories from Washington, D.C.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IlllZzFPeDNvUVlpNTJcL0czUDBpcUhnPT0iLCJ2YWx1ZSI6IkxZSjRhbVVhY0JyMHNldWlIY2Q4TmdpYzNXOUdzN256SEVOT1pHbTdBb3lCK2dSUmI4ZU40eGgzRlpvUWEzZituQVwvbU9vU3FwWmtvaVVZa0FTWVIxeldkRmZBM1BqbUFhU1RXcEZ3WTVXM0laa1VEWFRUWVg3cVMxbkI0ZWZCQyIsIm1hYyI6ImI2ZjUzNzEzMDM3ZDlkMjM3OTI1ZDNmMmE5YmI4ZmE2NGNiYTAyMWVmMmQ2Mzk0ZGNiOTE2YTU0MTc4NDFjYWIifQ%3D%3D&amp;signature=c9f4808c38deafd3dbb993a0b6dfddeabd78b15def5c1e56fddaa874d8e3920a</image>
+    <start>11:00PM</start>
+    <finish>12:00AM</finish>
+    <date>12 January 2026</date>
+  </channel>
+  <channel>
+    <name>Fox News US</name>
+    <id>FoxNews.us</id>
+    <title>Live: The Ingraham Angle</title>
+    <desc>Laura Ingraham aims to cut through the Washington chatter to speak directly with unexpected voices and the actual people who are impacted by the news of the day.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6Inp5NFdSdE1iSklNYjBUbkE2MytWcnc9PSIsInZhbHVlIjoiV1pjVmJOQ2R0UzNVZ3FvTytIaGY2T0pIc2U2eWJoV0xtWE9SeEhGUGhUUnJTRlZEc2JCSEhJNUFPcVhXK1JYYXJVdEtPXC9vbHZYVENIQnA2elR5U3RvdkRmWHRmVkRPNmx5ZUZHUXVnU080ZlU1dHZ0SEVGQWl2aFRra3dSREQyIiwibWFjIjoiMzhhOTc2ZDRlNTZlZmFiNzY1MDYxMmIzMjMzZGFkMDNhY2QyYmUwYWI3MjE3ZTNlMGExNmJkNGEwZDllOWRiZSJ9&amp;signature=2088a204f76bf2e0ca3f8961500fe2dfa3359f10e50d212d684dce61e8ab03ec</image>
+    <start>12:00AM</start>
+    <finish>01:00AM</finish>
+    <date>13 January 2026</date>
+  </channel>
+  <channel>
+    <name>Fox News US</name>
+    <id>FoxNews.us</id>
+    <title>Live: Jesse Watters Primetime</title>
+    <desc>Jesse Watters speaks with newsmakers from across America to present news with a clear and direct approach.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IkRsOG80UGo0SDMzbGd5eUdRR0JLY2c9PSIsInZhbHVlIjoib1wvU0hBRk5Xb0YxQmdQckhFNjJPNmxhY25iSVpFWFwvOUpmRTAxZmIzTGQyblhhVStEQmJ5TG0rcndzRENDMnJMSUpaZFdOd0dWYjF0d3l1YSszcWdMZW9OUldDRDlabHdLZmNEWFdsV3hWQzczbzBIcHZ3OWFjdHFyY0JZcWkwXC8iLCJtYWMiOiI0NDMxOTBjMDA5MjRiMTVlYjFlOGM5NDEzMDNjNDIwYjJhMzdkOWFkYzYxZDFlZTU2NDhiOTMwZjEwNmEwMWM2In0%3D&amp;signature=f9694d634c335393352cfeafb81df8b7b9e7e61d7ef0d9ee54da8fce9ff16d1c</image>
+    <start>01:00AM</start>
+    <finish>02:00AM</finish>
+    <date>13 January 2026</date>
+  </channel>
+  <channel>
+    <name>Fox News US</name>
+    <id>FoxNews.us</id>
+    <title>Live: Hannity</title>
+    <desc>Host Sean Hannity interviews political figures and newsmakers and offers his own conservative perspective on current events.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IlBLVFFBWmcxQlA0cGt6XC84cnlBcWlBPT0iLCJ2YWx1ZSI6IkI1cmo4M2RtUGtHM1J5QU1veGVpcHRSYmdESU8xd295SjBhbnRndXB3dUVVd3hFdGxRN1JrM3lQOTJiNTdQUUoyTUhCeUVleXpzdFoxSUdHdTBoWEhPamtJSXNmT00zN3owMXJvb0h6SzBpbkF4dDZjdFMzYkNuVWxQcENDcWk3IiwibWFjIjoiYjNhZGY3MzY0ZWU5NmU5MjU4MjBiNTdiMzY5YmIxZTEzMDhkZjY3NzJlNTQ2NGIwYTc1NWZhZGQ0NjlkYTI5NyJ9&amp;signature=979ad865ac944ce32da25d0e48e778d7838bb8a99ff72c311b362d0cfbf357fd</image>
+    <start>02:00AM</start>
+    <finish>03:00AM</finish>
+    <date>13 January 2026</date>
+  </channel>
+  <channel>
+    <name>Fox News US</name>
+    <id>FoxNews.us</id>
+    <title>Gutfeld!</title>
+    <desc>Gutfeld looks at the news of the day through a satiric lens fused with pop culture and features refreshing takes on the day's top headlines from FNC personalities, authors, politicians, veterans and comedians.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6Imt0eUZzRE84VXF5bHJQTWhvSVNYc0E9PSIsInZhbHVlIjoiXC9QNGhUWUFIbGNPYTNFMnlpakNzZndMWkFzajl0eUZQRm9MYlNZUDZPK2J4bjBJNjFpZXQxT1JlQW5GcFNMMGtyRUhJK3hnb05xWm9UWEZlZU9lTVwvUTlrbXlKdnoxdVdOSHp0REtRZFpUR3diMGJRbThHUk9VVFNlMUFxWm5VUyIsIm1hYyI6ImEzYzJmNzRjMDMwZjliNzE3OGFjZGY3NWZhNGQ2ZGNmOTQ5YTAxZDg1MTE0ZTZjODc5MGJjNWE4YTc5ZmE2ZDUifQ%3D%3D&amp;signature=818258751d8f51bef8b8b5242ee12b51664e7e440fbc0eb24ff78cfee2d5b708</image>
+    <start>03:00AM</start>
+    <finish>04:00AM</finish>
+    <date>13 January 2026</date>
+  </channel>
+  <channel>
+    <name>Fox News US</name>
+    <id>FoxNews.us</id>
+    <title>Live: Fox News at Night</title>
+    <desc>Hard news and analysis of compelling stories from DC and across the country; journalists provide viewers with must-see information and consequential news.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6InU1ZnVIUHgyMDE2elpwZVRoOEczTWc9PSIsInZhbHVlIjoiSUdKa2sxS0hnNjJMK1ZRVU01NGU5U1d1WnhtNTI5NG5vbVY5dlZKRWlnQVwvTlc2eXo2T1ZFYmhuVUNpWWpoZ3FXcXd3RzBmSldCa0ZUamtmaXRESGpPVEp3SXlUVnl4eXFVTlVFN3REUlFoTmFmNHk4NFRNY3RhKzllUHNWcjBCIiwibWFjIjoiZjZhNGNkNzQzZGI0OWZiNTBhMTNlMWEyMTQ5MWU3MjQ1ZWQ2MDY2ZTg2NGJmYmEzMjU3MTk1ODhhZmU2ZTlmYSJ9&amp;signature=77848dc6df816d87bd5f84d00e468f8ca42226f9135c7ae10a2e14cd7c90cc0b</image>
+    <start>04:00AM</start>
+    <finish>05:00AM</finish>
+    <date>13 January 2026</date>
+  </channel>
+  <channel>
+    <name>Fox News US</name>
+    <id>FoxNews.us</id>
+    <title>The Five</title>
+    <desc>Dana Perino, Greg Gutfeld and Jesse Watters and rotating liberal co-hosts Jessica Tarlov and Harold Ford Jr. discuss and debate the hot issues across the spectrum from politics to pop culture.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6Ik1rVlwvd3Z3ZzRGb0twU2JKb0F4ekxBPT0iLCJ2YWx1ZSI6Ilk0V1wvRGJ0THFXQWQ4QzJcL1lTNkw1TXBBM0F4dENcLzk5WDNjYmQzaHdTQjQ4ZllGV2JVTnhmSjc4VnFPbHdSUWRCQnZ2SktIQU5MZ2oxYThkTnR6U1JFMEJqRWg3cDVRTkJabzZWK0tvOTc0Q1VqcXRVS1pPTUg5QWswR1EwQ2pkIiwibWFjIjoiOTQwNGU2ZGIyMzMxYTRiYmNlMWNhMzY4M2IzNDNkNjE4ODNlZmE4ZDhhZGM3Yzg4YzkzMTliMjRlZjM3MzA3MyJ9&amp;signature=a541e11809ab861f6ddc01fca25c90a83d893f10399b9b9603df1450e4ce171b</image>
+    <start>05:00AM</start>
+    <finish>06:00AM</finish>
+    <date>13 January 2026</date>
+  </channel>
+  <channel>
+    <name>Fox News US</name>
+    <id>FoxNews.us</id>
+    <title>Jesse Watters Primetime</title>
+    <desc>Jesse Watters speaks with newsmakers from across America to present news with a clear and direct approach.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6ImlcL0tyb1lrWGplRHh1YTdFN05DYU9nPT0iLCJ2YWx1ZSI6InRjbTkyNXZXaVY0YXV4QzBieVZRY05RXC81OFZoUXVrU0Nrak5WVUJwRGF6amc4NkErUU1NVXFURkx2bmowOVpyU1BMYW1jZ0pYaGwrZEJEWjRkSDh4N0ZMRHRZRE9Xb0s4d3hBeSs3T2xhbjlCSG0yeHdpc2tzS1VrVG52enJlMCIsIm1hYyI6IjMzMGM4YTk1ZjE3ZjEwYjc3OWE1OTBmNjc1NDljODE2YzIzZjM0OTUxOGNkMzI3NmYwMzlkMmI1Mzg4ZTc4NmIifQ%3D%3D&amp;signature=bdd7d9d4bf80e5e314f932b2080dc542fef84f7d8e0fa0c508e5b9a26aa0a95f</image>
+    <start>06:00AM</start>
+    <finish>07:00AM</finish>
+    <date>13 January 2026</date>
+  </channel>
+  <channel>
+    <name>Fox News US</name>
+    <id>FoxNews.us</id>
+    <title>Hannity</title>
+    <desc>Host Sean Hannity interviews political figures and newsmakers and offers his own conservative perspective on current events.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6Im5RRFV0NGtjM2pXUU1vaE8xSU5Kbnc9PSIsInZhbHVlIjoiTVNORDBEVm9SU2hpc1V2cUwyMkZBY1lUd054TVpubnd6RHVON0hZemQ0dlhzcm5vdFwvWVZqa1c0bUhIcnIzb2xaNWREb2tMbGtvUjk1OWFKaHRJODBIZVVvQ2dPMTRGMEVkaHBVdEVjSkZjNisxYUFDbnRJSVNkUnlaMjlOQ2UxIiwibWFjIjoiZmI1ODAzZDI1NTExMTFhNGU4MWZlNDRkZjM3ZGQ4YjBjNGVlZTdhZWQ4ODA2NWM4ZmRjYmIyYWYwYWM1OWVhNiJ9&amp;signature=63aa4161883b1830d31f52ad9c108f4ee00235ab63cfc53aab37f909cab6a969</image>
+    <start>07:00AM</start>
+    <finish>08:00AM</finish>
+    <date>13 January 2026</date>
+  </channel>
+  <channel>
+    <name>Fox News US</name>
+    <id>FoxNews.us</id>
+    <title>Gutfeld!</title>
+    <desc>Gutfeld looks at the news of the day through a satiric lens fused with pop culture and features refreshing takes on the day's top headlines from FNC personalities, authors, politicians, veterans and comedians.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6Ik83c0RSaFJjSE4wNGtIRUlSTUFNUUE9PSIsInZhbHVlIjoiaU9xamxmaVFLeEMzZUhRTm5uU2FMMnA5Zm5qNVhvdjZmQ3NCczBmZDg0NDdKbmwySGI0ZTRSemM2Y3dhR3d5UXhvMyt0bUhWcERjaEg5TVFaMUlYNmM0bXBSdTdVb3RBanluXC95dlFKb1hpXC9DUjNxU21ybzk3aFkzempSYWtXNiIsIm1hYyI6ImRkMDliMzFkZDE1MzZjZTc0OTViYTA0M2ViZjlhMWFmNmFlMmU0NGZmODk3MDYwN2UwNWE4OGRmOTVjNDM3MTIifQ%3D%3D&amp;signature=1c11fd95334bcef2e69d8e6e759010c0af5953919ad27c603524039390f6b146</image>
+    <start>08:00AM</start>
+    <finish>09:00AM</finish>
+    <date>13 January 2026</date>
+  </channel>
+  <channel>
+    <name>Fox News US</name>
+    <id>FoxNews.us</id>
+    <title>The Ingraham Angle</title>
+    <desc>Laura Ingraham aims to cut through the Washington chatter to speak directly with unexpected voices and the actual people who are impacted by the news of the day.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IitQU2hkZERzdVZDVnFVNVh1bDFacWc9PSIsInZhbHVlIjoiMllTS0dtMkdiVmsydkZNZjhJRklkUDFwb0JXMlB0eTNcL2RZbXNqODFWS2ZLS0tvdldqV1ltTDRvbmpCWFwvUitvd0tcL1hmdlpZYm5OdDl1XC9mcGFNZVAwakxpWGpjSXhPbGg1MlJabUxWZHQ5N1NOV000UFFRSlJSM2I0Q0VaczAzIiwibWFjIjoiMWQyYjMyNDFhMTY3OTI3MjRiYzc5ODk3OWM2ODM4MGU5NWExNzc5YTZlNmM5YTE2YmRkN2UwNGJhMDExZGM3YyJ9&amp;signature=521ce77a549fd7f1b3dae206f9c63d913415ca5a187d301e72ffe24c626a3667</image>
+    <start>09:00AM</start>
+    <finish>10:00AM</finish>
+    <date>13 January 2026</date>
+  </channel>
+  <channel>
+    <name>Fox News US</name>
+    <id>FoxNews.us</id>
+    <title>Live: FOX &amp; Friends First</title>
+    <desc>Hosts Todd Piro and Carley Shimkus present all the headlines viewers may have missed overnight, along with a preview of upcoming news events.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IlwvZHF6WlFZeCs0NitjSkJrWnk4RkFRPT0iLCJ2YWx1ZSI6InBaaVRTQ2hyWnI2bnBHUHlvQmRGRVYrM1dlTXdqbXMxVEluem9PTjNJTDFDeFNLeVlHU1NsYjdlV3RpVmw2OTNKaGRkMzJDZXdhSVwvZjBlTGFNODNjYklxajVieHhtM0R6WVFqcDV5YlhCNlpcL3p2bGVvUTRUQUVySGZVU2I1cjIiLCJtYWMiOiI5NTFkZDNkNTMwYzI2ZGE1ZTI0NDZmYmUxZmJiMzQ5MmE1YWM1YzFmMmUyMzkwZjgyNTQ5MmYzOTBiYTZiYjk4In0%3D&amp;signature=3ff30db6b1e24b1fdfcbb9fd56a8baf7dce98af1a463b3a8688c187394132492</image>
+    <start>10:00AM</start>
+    <finish>11:00AM</finish>
+    <date>13 January 2026</date>
+  </channel>
+  <channel>
+    <name>Fox News US</name>
+    <id>FoxNews.us</id>
+    <title>Live: FOX and Friends</title>
+    <desc>Co-hosts Steve Doocy, Ainsley Earhardt, Brian Kilmeade and Lawrence Jones highlight the latest.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IjFPY0gzd28xbjVPNU9NdGpQUUgrR2c9PSIsInZhbHVlIjoicDd3K1gzRFJcLzN6VmZ6R3g4WWNLZWxud3YyV2J5a0lKN2xCMVE4NFB2WkFQQ1dXQnlzVFpOb2wzdm5LbU5TUFE0dnZGM3dvTitsaGU4NnJkMXBERkZqWXR1M3RiOGJ1alZLSk8yTHdJbk96RWNhRGFrVWZjeGZsR2FFU05sOExFIiwibWFjIjoiMjBiMmEyNDFmYTgyM2JhMmQ1MmZhM2JhMzEwZWZjOWRlNDVmYjAyZWZjNjYwY2NlNTU2ZGVmNGZlNTUzN2U0ZiJ9&amp;signature=7bbcb53ec7817b6ea33380b53981609f50fd8e637c78c3e8804a9328e4af1f09</image>
+    <start>11:00AM</start>
+    <finish>12:00PM</finish>
+    <date>13 January 2026</date>
+  </channel>
+  <channel>
+    <name>Fox News US</name>
+    <id>FoxNews.us</id>
+    <title>Live: FOX and Friends</title>
+    <desc>Co-hosts Steve Doocy, Ainsley Earhardt, Brian Kilmeade and Lawrence Jones highlight the latest.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IlwvS0Qza2pTb1dKVWkwbEtCTlV6SXBRPT0iLCJ2YWx1ZSI6InhJMGdcL2hEdUlqSHVWTnpaVzNqR2dxS2dia2xna1l6N2xyRFRqWUhoYnZibUZmVllORFwvY1FkZmM3VlhzNXBBc0k5cURxMll5a3JzWkh2d2dSamFuMVZiVmQ2QmdlVFhmYzlwY1RDNG9HajRJTGQwdVZGMHVlVHBobU5JNllPdjQiLCJtYWMiOiJlNTE2ZjVhNmMyZmRhNmYzYmVhNzdhOTg0Mzk0OWIzMzAzMjA3NGEwYmVjNDJjNGFlYWVmODA5NTg3ODk3MWZiIn0%3D&amp;signature=3e7c169485118b4040c9a181b48172cf0765f54e12221046850591e9988d8f96</image>
+    <start>12:00PM</start>
+    <finish>01:00PM</finish>
+    <date>13 January 2026</date>
+  </channel>
+  <channel>
+    <name>Fox News US</name>
+    <id>FoxNews.us</id>
+    <title>Live: FOX and Friends</title>
+    <desc>Co-hosts Steve Doocy, Ainsley Earhardt, Brian Kilmeade and Lawrence Jones highlight the latest.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6Ik1weDV6TjUwSm5VOUtOTHVqakkrc0E9PSIsInZhbHVlIjoidHVHWGdUOFJXMWZMOFowbW9rVUFTVktLdTQxMjQ2ZzNyYWloak9Vb1h0SmVTeHRVbDlwbTlVOHozTHVyKzBSUG1HVXR1ZHRwWFVyUDZlR3k1SWFKck5NeFVPeFlHMytXRjRZSExibGxCSGhNRERuMzl5M1NNcUFcL2U5V2prZDBZIiwibWFjIjoiN2FlMTY2YjZmZDcyMjQyNjYxNDNlZWFlOTE4MmZmMzQ3NmUzMzI2YmFhZGE4OTI5YTA0ZGUyNjM4NjIzZTcyNCJ9&amp;signature=6d471dcbcc759d0e2ec40ee76ff133982eb444aae834e26ef27893919a45bd9f</image>
+    <start>01:00PM</start>
+    <finish>02:00PM</finish>
+    <date>13 January 2026</date>
+  </channel>
+  <channel>
+    <name>Fox News US</name>
+    <id>FoxNews.us</id>
+    <title>Live: America's Newsroom</title>
+    <desc>Bill Hemmer and Dana Perino cover current events happening around the nation and the world; guests pertinent to the news topics are interviewed and viewer emails are also answered by the anchors and guests.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6Ik5hb204UEkrelwvVEtcLytCUU9HM0NRdz09IiwidmFsdWUiOiJ5ZVFNblV0dFZocUJLWGwzMnVaN2FHT040T1BoRnE3WUdhbGVxbWlVZkcrY29BSFgyY1RJbHMwTEV5N1N2R1N6dkpqdGkxXC83dVNjUld0Q2RDcUV5cDBxbXFYOGNFUCtIUUYyb0hzTEgxTnBoNCs4dFVpS2tBYXpFbU5KYXFwSnciLCJtYWMiOiJhODdkNTFiZmI4MWI1OGEzOGMwZjIyNjhjNTI3ZDk0ZWQwYWE4MGEyMzY1NTIxMjAwYmVmODJkYTUxNjk5ZmZkIn0%3D&amp;signature=048bcec90478009f43a8bc46ce53f7e6bc424d5e3c09bd55969f07890acf380c</image>
+    <start>02:00PM</start>
+    <finish>03:00PM</finish>
+    <date>13 January 2026</date>
+  </channel>
+  <channel>
+    <name>Fox News US</name>
+    <id>FoxNews.us</id>
+    <title>Live: America's Newsroom</title>
+    <desc>Bill Hemmer and Dana Perino cover current events happening around the nation and the world; guests pertinent to the news topics are interviewed and viewer emails are also answered by the anchors and guests.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IktBYmJvQ011b3ZRWHM0VXNjQzZCTmc9PSIsInZhbHVlIjoiWDdcL1JcL0VxRCtLSVEyTHQySXN3dXJMSFhPck5HUnRxSDNjQ0IwNnFJNStMZjg1V0ViN0ZiUk9cL3RTd0dhZ3VYVXFUaHpTR2RjYmJoUFlqT2Z6WU5sekVJaVM3U0daQ2V2eGJ0UVVoeWFzMlFHQ3VTT0E2UXRmSXdzN3VYekVJVGoiLCJtYWMiOiI5ZWY5NWIzMTYxMjU2YTc0ZGQ5MTQ1YWNkMmUwYjNmNTFlMjRlYzI5MTU3MWE0OTZjNzczYTA1ZDc0Y2VkMTJjIn0%3D&amp;signature=e4a8484b7b5e526f41f2844e3bf82692b423358be5735b19594787787c2622ca</image>
+    <start>03:00PM</start>
+    <finish>04:00PM</finish>
+    <date>13 January 2026</date>
+  </channel>
+  <channel>
+    <name>Fox News US</name>
+    <id>FoxNews.us</id>
+    <title>Live: The Faulkner Focus</title>
+    <desc>Emmy-winning journalist Harris Faulkner provides the latest news with insightful analysis and interviews with top newsmakers.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6Im96MHJGWnJSUE52MzhBeCsxdUtRRXc9PSIsInZhbHVlIjoiZ05wOFBEWjZCbVRzR0d1OVZBWjRtaThIUEFZOGd1RGhDcm5sbWVsWFlmUVpnVE9HODhnVTc5TFRrN1U1VG1TUnJjNm5BR1ZabUVWTHdHeENSckZHbnJuK0lTUGdad3FxUkJwUHZWTWpJTG1JNkN3ampRUWZ0YkRxRVwvNXVCdThKIiwibWFjIjoiZjM0NzczOWNkZDAxZGExYTQ4M2Y4MWExZjE4M2Y1Y2VhOTJkZDA4OGRiZDc5M2YzZDk4Zjg2YWU0MjczMjNjNSJ9&amp;signature=c46f45773272a19048eacd7cd7e0a9105cf972c5973c189e200c3bb67a789626</image>
+    <start>04:00PM</start>
+    <finish>05:00PM</finish>
+    <date>13 January 2026</date>
+  </channel>
+  <channel>
+    <name>Fox News US</name>
+    <id>FoxNews.us</id>
+    <title>Live: Outnumbered</title>
+    <desc>Four female panelists and one male colleague share their perspectives on the day's top news stories.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6Ill4VGMyUnF5NklHSFpBME16amIyUnc9PSIsInZhbHVlIjoiVjlOY1pnaE81VGM0blRaZUYrUUZBXC82ZFRpc2p3Njk0V3NyQXdFOTlVcFBxTWtTdVlSRDJ5XC8wUnVFcUVtSHhJV2dvNmowa1FNdytsaHgxaTQ4WU9qUjNEU3RWZWt2Skp4d1wvcXJENUN4YUQ2eWpkVU1TODhuZmJNcE15cmdUUFEiLCJtYWMiOiJiNTVlZGViZWM0MDQ4NGM0YTQ2MDQ3ZTEyODY5ZDUzOWQwMGQ4ZmU5MTQwNjFhOGYyNGEyZGMyOWVhNzk5MjlmIn0%3D&amp;signature=ddd824b041c9f72ebe5f68a188cb5991ffc2869fb989933d2c454ca815b3ad0a</image>
+    <start>05:00PM</start>
+    <finish>06:00PM</finish>
+    <date>13 January 2026</date>
+  </channel>
+  <channel>
+    <name>Fox News US</name>
+    <id>FoxNews.us</id>
+    <title>Live: America Reports</title>
+    <desc>A look at the latest news and headlines with Sandra Smith and John Roberts.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6Ikh1dGNVeE12S0gyWE15VEFFU3U2alE9PSIsInZhbHVlIjoibSt0NzN1ZStVM1wvUmw0NVRzbFRHblwvV09YUVwvR2pqTEJVRWpEOFhTbEtOWUFtTExTcmNOeU56dUo0UlpGTkNNSDd6YzRkZTBPR1dHalwvbG05Um9sWGw3b3JSM1VKTkp6N29VRTgyOEprcFdBMk9tVzFWd05nU0tINWp6RnZuMXBRIiwibWFjIjoiNTM3OWE4Y2RlM2VlYzhmZDExODRkMzMzNjRhZjc3MmYyYjE4ZDNhZGIyOTdjNTcxODQwMWNkNjg1NTc5NDEwNyJ9&amp;signature=168557d4e3309cf5d5f5c079de0286c8fb9c979b733b55754c0e4449714ab046</image>
+    <start>06:00PM</start>
+    <finish>07:00PM</finish>
+    <date>13 January 2026</date>
+  </channel>
+  <channel>
+    <name>Fox News US</name>
+    <id>FoxNews.us</id>
+    <title>Live: America Reports</title>
+    <desc>A look at the latest news and headlines with Sandra Smith and John Roberts.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6ImNkUmJmTXpyQkVETW8rSHFXbTRzTGc9PSIsInZhbHVlIjoiaGZLdGhNY3QwaEJxN0RHYzhxNTFcL3hnU2d2WW9acVNvY3VWNVJ4b2NHNFRWeUM2eUo5b2pBMmVCOTRmWGIybzRYTlpiUVJYUFB4V0ZvM29zZEZRMGZHU2xrdTd0Ym5qQTEwTU92U1BNUGZRRlFyZkdzaUU1XC9JSFdET3BVVkpNRiIsIm1hYyI6IjZmZjk1YTllN2JjNDYwYTE3ZDJmYzY0ZDI4ZDgxYmJhMmIwNDg3Nzg1OWE3MTEyZWU2YzJkYWE4ZjliNzYxM2UifQ%3D%3D&amp;signature=da15069b3762a3347f53c79e5e571f38136b021c05b539c77f53392d36fb9ac8</image>
+    <start>07:00PM</start>
+    <finish>08:00PM</finish>
+    <date>13 January 2026</date>
+  </channel>
+  <channel>
+    <name>Fox News US</name>
+    <id>FoxNews.us</id>
+    <title>Live: The Story With Martha MacCallum</title>
+    <desc>Martha MacCallum brings the story of the times with her tough but fair interviews and straightforward analysis; &quot;The Story&quot; captures the voices that need to be heard and the people at the center of every history-shaping moment.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IkVzZ0tvY0RBU2ZLN2FjUWlzTWlSQXc9PSIsInZhbHVlIjoia0lWdnZzYzhONnNEcXZFXC85bnk2VXh2b1wvWUJoalwvS2J6N2ZFWUgycElVZHZ1cVBwS084UExjVVpYK2Q5WVo4MHFDalNhVzN6b3FjWk5xamZ3N2hzWlc3Mm5hZ01HTU01aHlpNlBEU1RMMlkwOTJXTEdtQXB6dDV3ckFTaTlqamgiLCJtYWMiOiI1NTJiNTNlYWJjYzZkMjg0ODc0OTdkNTIxYTBkZjBlYzgxZjc4NjIwYTFlNWRjN2Q0N2NjYjhhOTk1NGQ5N2I1In0%3D&amp;signature=0ae67018bdd188b211c03b29c9ef1aac8ade79d25147efbf05f4144af83002e9</image>
+    <start>08:00PM</start>
+    <finish>09:00PM</finish>
+    <date>13 January 2026</date>
+  </channel>
+  <channel>
+    <name>Fox News US</name>
+    <id>FoxNews.us</id>
+    <title>Live: The Will Cain Show</title>
+    <desc>Featuring Cain's signature podcast style and thoughtful perspective through conversations with newsmakers across politics, culture and sports.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6ImVHT2kwdjNDamZLTzZETGNOYVRTbnc9PSIsInZhbHVlIjoiT3BOQUxjUVV4ZHhzSlFhNlpTZzlUMWc1UzJNZE9yOTlNWkFBdmQxNjMzYVpZeEhOK3U5bUxmTWpLcTBHVW1vZ2o4ZEwwdlh0ZzNReVVycityYndKT0tMOGgzMmUrNFo1Tnh1Mnczd2ZublwvcFJsZkxLRWtrbVIrUXRmZGtlQ00xIiwibWFjIjoiN2ZiZGM1MDRhYTNmZDM3OTMzNDg1OGE0MDFkMmRhMjdhZmU4YTQwYjc1MTg5NTZjYTVjOGJhOTA5MmU5MjA2NiJ9&amp;signature=72a4f0aa3236482e63d4136273a88f08c3c9e354c3972ab4097f553be844f9f7</image>
+    <start>09:00PM</start>
+    <finish>10:00PM</finish>
+    <date>13 January 2026</date>
+  </channel>
+  <channel>
+    <name>Fox News US</name>
+    <id>FoxNews.us</id>
+    <title>Live: The Five</title>
+    <desc>Dana Perino, Greg Gutfeld and Jesse Watters and rotating liberal co-hosts Jessica Tarlov and Harold Ford Jr. discuss and debate the hot issues across the spectrum from politics to pop culture.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6ImtzNWxcL1JCNlZ2UE9NZkFad09cL0tYQT09IiwidmFsdWUiOiJhTjBuVk1nR2FJc1lDRkM5TUhZczYrRnp3NFdJSlBEWEVNOGhSSDdaS1p0ZHd4djJRREhORzk1ams2endOUGpRUnMyK0VFXC9iMGttRTJVK01NN2dxU25LekVoV09oZzNcL1YxaGNZS3pwUXJvdlBxMDRRUExwTjBubWVPNlVkRWZNIiwibWFjIjoiNTBkMDg3OGFkMjVhMTQ4OGUxZGQwZWRlMDM0YmI5NzIyMzM2NmJlZGYyM2QxMzA3OTFmZWFkNWU0ZmQ5MWQzYiJ9&amp;signature=3453d3eefb89d854e4d176dd96481557a15add2e46636e5503061b9f92968e42</image>
+    <start>10:00PM</start>
+    <finish>11:00PM</finish>
+    <date>13 January 2026</date>
+  </channel>
+  <channel>
+    <name>Fox News US</name>
+    <id>FoxNews.us</id>
+    <title>Live: Special Report With Bret Baier</title>
+    <desc>News from inside the Beltway.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IkNLMGxuM0RuQU9DVWxpRW9XMW5vcUE9PSIsInZhbHVlIjoiblVBemNsRlNSajB2NEp1M1lJTUNWcklLSzRaZmZhY0pxY3grRW5SUlZWMDFBMXpyTzZ2Qk5MWW1qMFBRMWJZcFJ4QW1FZm9CR0N1cnVYU1RXYjNUY1lUWVBueGJsU05lYVJHbUw2aTJKRGJDRHBxTUhcL1hQVjhVQ240VktvU0pmIiwibWFjIjoiZTIzOTMxZDM4N2I3Y2U2NjUxMjI1Y2U1Mjg1YzJkNzY0MDJiODg5MzcyN2M4ZjYxOWUzZDM1N2Y4OWRlNzQyZiJ9&amp;signature=92341e2777ea61274a716ebb8692d011dbbee4c7f7e5fe61b0b22be59286590a</image>
+    <start>11:00PM</start>
+    <finish>12:00AM</finish>
+    <date>13 January 2026</date>
+  </channel>
+  <channel>
+    <name>Fox News US</name>
+    <id>FoxNews.us</id>
+    <title>Live: The Ingraham Angle</title>
+    <desc>Laura Ingraham aims to cut through the Washington chatter to speak directly with unexpected voices and the actual people who are impacted by the news of the day.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IktBc0tMc2hOUk5LdnFweDBXa0NrZnc9PSIsInZhbHVlIjoiVjJBY3p3T0NqTWRYTlhcL1dDT1lMbnB3dXdGVExFKzRVNVJNZEYxNCtQYXFsMzV3bjlGUkYzSWpkXC9RWVJqcWxWeWVNbHoxR00xRlEwT09UcjZzUitDVGN4bURjXC81TFRvczZ4dWJNRHpvTWFsMEl1Q05mcTBITXJROUxkY3FDK04iLCJtYWMiOiI2MDcxYzcwYTI4NmIyZWM2MDM4NTZlZDk5MDIyN2E1YzBlNWVhYjU2MDM1NGI1MTUxNGQyMzk0MDQ4ZWRlZTMxIn0%3D&amp;signature=4513580a8846755d7028f44843941cb9223818349a940670d3e979976ece3732</image>
+    <start>12:00AM</start>
+    <finish>01:00AM</finish>
+    <date>14 January 2026</date>
+  </channel>
+  <channel>
+    <name>Fox News US</name>
+    <id>FoxNews.us</id>
+    <title>Live: Jesse Watters Primetime</title>
+    <desc>Jesse Watters speaks with newsmakers from across America to present news with a clear and direct approach.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IkR2ODArSUFqYUo5QzJCWEh4ckxzYkE9PSIsInZhbHVlIjoia1JtcGFBTnNiTkdVTHlHa1JkY2tCUUFJUUNZUVNJVWxBOHhwQWpmeUFPN0N2OTIrVGJCTUh5UVJrN2dFWnNLd2lSc09DS1llTkphR1Q5N0dhb3ZSK2kwRVwvVjVjZlJzTTlvelI1VUNFVCszOGRRc1g2bWQ0K21FVkwrYXlHXC94aSIsIm1hYyI6IjhiZTViNjg3ODgwZGFlMWFkZTRhNzUwZDY1Y2U1YmY3Mjk1YjgzZmRkNWYyMjJkYThmYTczZDZhNDhkMTVkNzgifQ%3D%3D&amp;signature=52a6e0c62eb416c42320d3a62c5050b4118327ac31bace7197db6d06593196fe</image>
+    <start>01:00AM</start>
+    <finish>02:00AM</finish>
+    <date>14 January 2026</date>
+  </channel>
+  <channel>
+    <name>Fox News US</name>
+    <id>FoxNews.us</id>
+    <title>Live: Hannity</title>
+    <desc>Host Sean Hannity interviews political figures and newsmakers and offers his own conservative perspective on current events.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6ImtPMDBqMFwvUk1wXC9MdjY2Q2FkRXJTdz09IiwidmFsdWUiOiJnckFNeHRPVDk1bHZGTnJqcWxON0dsYzF2NTFlTTZDVGtpa1hONGROYmh0RUxFUFBiRk1xclBkR2thZzNNakcyOXBUY3ZHSFloejM4NUFnanJvQVZcL2hGNVNGQlZKMjF3Q05YZ0ZQNkJqaWorNmZjdnRIUHJEVXZwd0Z5Q1wvMjl0IiwibWFjIjoiYzI3ZmZiMmViZmJhM2YyMTAwNjY5MDgxZjcxY2ZjZjU5YmNiOTBhYzkwYWJhNTAyODJhNzNmYzgwYzgzYjc1ZiJ9&amp;signature=2dbd184692e3173ed715e489bc040fd2761810ce300dacd295cd1e4cf4ade1fa</image>
+    <start>02:00AM</start>
+    <finish>03:00AM</finish>
+    <date>14 January 2026</date>
+  </channel>
+  <channel>
+    <name>Fox News US</name>
+    <id>FoxNews.us</id>
+    <title>Gutfeld!</title>
+    <desc>Gutfeld looks at the news of the day through a satiric lens fused with pop culture and features refreshing takes on the day's top headlines from FNC personalities, authors, politicians, veterans and comedians.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6ImhRR2hydUViYWhnWm9jVWF0K3g3T0E9PSIsInZhbHVlIjoiR0VJaGpnK0c1U3JJdzUyeGNtb1BoMU5DMlI5RDJvVTllb01ZMlwvZVVOM3o1dXZtVlFvalNCOWxxZnhSVlVlaW1KMGJQandiNkIwa04zTXN3MmtnNm1xZDVVYnhMdjhJeTIwdGJZNnB6V2VxdFArQklveGJBMkV2RmZzd0NFMTZmIiwibWFjIjoiNTU5NzRhZjAxOWJiNGZkY2Q4YjEzMTJiNjk0OWYwOTlkOGI2MjA1OTBiOTBiMDg5ZTA5N2U0ODE5NTk5NGQ4MSJ9&amp;signature=af1bcfdea8939cdf5738f94f46502db30994ee0de526578797c1b3fc80f7afb8</image>
+    <start>03:00AM</start>
+    <finish>04:00AM</finish>
+    <date>14 January 2026</date>
+  </channel>
+  <channel>
+    <name>Fox News US</name>
+    <id>FoxNews.us</id>
+    <title>Live: Fox News at Night</title>
+    <desc>Hard news and analysis of compelling stories from DC and across the country; journalists provide viewers with must-see information and consequential news.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6ImwrT0VYSkFGYUJIelpsM09XbWxxYkE9PSIsInZhbHVlIjoiOFJTeGV0SEt0ak5NWVJxUFFLMlJ1V2JBazlsbTJJSUc4TDd0T1c1RDQ4MkxqR01kNlFrQ3prNkdUV1wvd0FEaXhmYTZyS0djNko0aXFWTUdydmtWM2JZSnNQSWZkSEJQWXh3UWpFNjFTNlRhTEd5MlZJRFlhRzBaK0hMSXVDM3dKIiwibWFjIjoiZjlhZWU3OTg2ZmJhZWU1M2I0NGE4MmYzOGMyMjI3YjcwZGFmYjE3MmQ4YThmNDcxYWZlYmM5ZWJkZDljMDVkZiJ9&amp;signature=bcf51f12480afb8cad942849c2cb297f1f05da8b0ccfee74d8794982a6912f1a</image>
+    <start>04:00AM</start>
+    <finish>05:00AM</finish>
+    <date>14 January 2026</date>
+  </channel>
+  <channel>
+    <name>Fox News US</name>
+    <id>FoxNews.us</id>
+    <title>The Five</title>
+    <desc>Dana Perino, Greg Gutfeld and Jesse Watters and rotating liberal co-hosts Jessica Tarlov and Harold Ford Jr. discuss and debate the hot issues across the spectrum from politics to pop culture.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IkMrdCtSVzFrWTg0K1BDYlYyQmhSWlE9PSIsInZhbHVlIjoiTHpwRFlmMGx3dE4yQzQraGlCc3lPTGRqWWFPRDN3S2lOUmxnXC9CaXFlZGg5SUJPejNPYWxsbVkxR2FOWElTZytSRVBMT0RuNVFtSVVFRmUzMWNJV0lieE8xSnF2enBUUjNzbTlNdFwvdit4cWc3SVwvK3V4NWhQVTdQc0hcL0Nldys2IiwibWFjIjoiZmViZDM0MjIzYmY5YWEzZTY2MWJjYzBjYTIxZmJlNjg2Y2Y0YmI4YjVlZDM2ZGY5YzYwZWYzOWI1ZmQ1YmM3YyJ9&amp;signature=f11ee6b20a889d21ad83f10632e158cf3bfbb70cb6a83c867e6dfc783d57b2a3</image>
+    <start>05:00AM</start>
+    <finish>06:00AM</finish>
+    <date>14 January 2026</date>
+  </channel>
+  <channel>
+    <name>Fox News US</name>
+    <id>FoxNews.us</id>
+    <title>Jesse Watters Primetime</title>
+    <desc>Jesse Watters speaks with newsmakers from across America to present news with a clear and direct approach.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6InBEZ05Nem83MGswMTJpN1lJVDVzUWc9PSIsInZhbHVlIjoiT0RUd3Zyek5EM3RZN0pqdkFZYlpyZVwvMGlQdlwvcEVTNjZEaXl0THNWVGZTbGRFU2hXbnBKTmtXZHBnYzVBR21wd0NqMWFobVwvbFNVRzdwaEsyT3dyY0g4dmh2dUhcL1B2XC9Uc2o4REFxd3F6MkF4NVhOamVyUzZ4KytienEyVTZwTiIsIm1hYyI6ImQ2YzViMjEzZDljZWE4ODNkN2EwNzhiNzllMmY0NzdmYTEwZDFlMmRlZTU2OWVkNmUzODk3MjIzNTgxOTY3NGMifQ%3D%3D&amp;signature=0a61c1a24af07a831374aa1d9c795590b1d72c0cff124aa22510f47028e2fe9f</image>
+    <start>06:00AM</start>
+    <finish>07:00AM</finish>
+    <date>14 January 2026</date>
+  </channel>
+  <channel>
+    <name>Fox News US</name>
+    <id>FoxNews.us</id>
+    <title>Hannity</title>
+    <desc>Host Sean Hannity interviews political figures and newsmakers and offers his own conservative perspective on current events.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6InA2YU1MK05mQ2JCb2ZGNXNGa0xOUUE9PSIsInZhbHVlIjoibXFFOVNta2t3K21sSjhFb0ZNTnZVdnk3S1ZXQlwvMGR0bjRtSXdsVUVkTDB5bEJVQnc5Sm9RRnBqNkVpWjdzNGFoeVVDSjR4amdzMlY5RW5sZTNvSXhQUmNKZ0dHM0tUbitiNzViSng5bnROalN5TEJJVkRLZTdXQWZRck5LKzJBIiwibWFjIjoiMzJkZDE2N2JhNzEzYWJkYzQ5NDExODA2Y2U1NmQ5OGFhNDkyODQ5YTU2ODE3YWYxNjJiMzViNjAwN2FhNzM4YyJ9&amp;signature=08b42cfa757bb4a274c0c0cec560578e74a9b91cf3fe587d9418c14caf151fd1</image>
+    <start>07:00AM</start>
+    <finish>08:00AM</finish>
+    <date>14 January 2026</date>
+  </channel>
+  <channel>
+    <name>Fox News US</name>
+    <id>FoxNews.us</id>
+    <title>Gutfeld!</title>
+    <desc>Gutfeld looks at the news of the day through a satiric lens fused with pop culture and features refreshing takes on the day's top headlines from FNC personalities, authors, politicians, veterans and comedians.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6InZmcnMrdmozb3laK0dRaU0zOHZcLzh3PT0iLCJ2YWx1ZSI6Im5JQld2NkNkdUE4U3Y5SVF3WUhVaWFqVFRJZHpIcVNLVHVvVzNSODkxaGxhMVZnY3BMR2pBV0JmMnVEMWMxNGlXQ2ROdFZaVUtMeGRVbGpRN0hVeXBiUmFjRWpKa0thZ0NzMUhNbFlzYUppQnRqMTJhSE1nbWdiVVdwRktlelwvbCIsIm1hYyI6Ijg3ODc2ZmQxOGVkNzU2NTVjMzlmMTIxMWNhNmMzMTMzYzFhMTAxOTgxOWIwNDNkNzhlMGViYjllZDYzODM2MmUifQ%3D%3D&amp;signature=47ad03ad8f40a731f4238cc110915800b0a5f20dab63a44b7a73722782cd2496</image>
+    <start>08:00AM</start>
+    <finish>09:00AM</finish>
+    <date>14 January 2026</date>
+  </channel>
+  <channel>
+    <name>Fox News US</name>
+    <id>FoxNews.us</id>
+    <title>The Ingraham Angle</title>
+    <desc>Laura Ingraham aims to cut through the Washington chatter to speak directly with unexpected voices and the actual people who are impacted by the news of the day.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6Ilwvdnp4b1JQMzAxRDhPRnVSdWs4cXNRPT0iLCJ2YWx1ZSI6ImcrQTlHaWRVcjhSbUVWSFY1WU1QQkZUR2ZMN0p2TnFcL0pDMzU3NjZMSk5ldDJTQW9BbGIyY09vTjRTMTVUMjBQcGl0dTl0N3MzMjN3N3BuUEtNUGliQ2JQZ2NWRDBEV0tNQzJZNTVxam15bTB6VjMzUTNxS2VZbGI2QW1ob2toUyIsIm1hYyI6IjgyZmU1YjZkYjNiM2UyOTY4Mjg2NTM0ZjU3MmYwMDRkODFkNjRlYTEzMTY1MzJjMGU0Y2MwZjVjYWYwNDcwYjIifQ%3D%3D&amp;signature=dd438cfdd5bfe2a937930b7979d487437a55565e1b7a5a290ccef01b92b65390</image>
+    <start>09:00AM</start>
+    <finish>10:00AM</finish>
+    <date>14 January 2026</date>
+  </channel>
+  <channel>
+    <name>Fox News US</name>
+    <id>FoxNews.us</id>
+    <title>Live: FOX &amp; Friends First</title>
+    <desc>Hosts Todd Piro and Carley Shimkus present all the headlines viewers may have missed overnight, along with a preview of upcoming news events.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IkkrSTJMeWhFdGFnNmhyaTF5bDhORlE9PSIsInZhbHVlIjoicCtqRjdORWlaVWJZQnVwbFhvcHdVNHFselFteXBzNExONGZyd0FvZkpTelwvdndpR0NOOThKWnBubDVVRSttcHNcL1Noc0h5QThqSVBkR001RmdWZ2ZtMG43dEo2K2hPaW5KUXFwYnNTamJEY3FwdGhtNmo2QUpZcDU4VEpBWU5zaSIsIm1hYyI6ImViZTVjNjEyNDdhZmQ1ZGMwNmZiMTc4ZDYwODE5MDRlZWE1NGE3MWQ5ZWMzNDI2ZmFjZDM1MjU1N2I4YTQ0NzUifQ%3D%3D&amp;signature=31a4a823979c47ea84114861b249deb8dfb086b8a7646483ed6e5e5089b64115</image>
+    <start>10:00AM</start>
+    <finish>11:00AM</finish>
+    <date>14 January 2026</date>
+  </channel>
+  <channel>
+    <name>Fox News US</name>
+    <id>FoxNews.us</id>
+    <title>Live: FOX and Friends</title>
+    <desc>Co-hosts Steve Doocy, Ainsley Earhardt, Brian Kilmeade and Lawrence Jones highlight the latest.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IkRrdU94ZWV3N042MHlLdFBtWVdVQ3c9PSIsInZhbHVlIjoiQXhcLzBFNlwvRjhKeU0yVitcLzZIbzdHTXA0UmpcLzVlUW8wRnBEeGdmNWZpazJuTXhoZ1J6MlNOdmFleUxCNjhQREUzclZ5d1wvdWYyN3RWVHEyXC9IU3BKVTVySU5VQ0tYNHY3cUgwMHBOY0l5SFk4UU9FbDUzM0VQSFlSTVVQVktadzYiLCJtYWMiOiJjNGNjOTlmY2UxNTI1YjJiY2U3ZGE5ZmQ3ZWFhZmUyZDIxZjA2NDFlYjEwNGIzMTFkNWE2MmZkYjk2YTFmMzYzIn0%3D&amp;signature=9e08596b1d4fc1ec414580e1f5bdb74c4706fd85cb1effbc060b0bd6f1cf6e7d</image>
+    <start>11:00AM</start>
+    <finish>12:00PM</finish>
+    <date>14 January 2026</date>
+  </channel>
+  <channel>
+    <name>Fox News US</name>
+    <id>FoxNews.us</id>
+    <title>Live: FOX and Friends</title>
+    <desc>Co-hosts Steve Doocy, Ainsley Earhardt, Brian Kilmeade and Lawrence Jones highlight the latest.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IkhFandlellPeHJEMklNSklQSitUY0E9PSIsInZhbHVlIjoiQ24xN25RSzhaaFg4ZDdFeHdjcEJEb0R5T2ljRlFIRUo2SGNUcVp2RlNFc3V4K2ZGMFBzOGZ3RmlHNHpHOGRXR3JZQUhCSkc4ZzloQ3FnSk1BUnNPMnZtQ1wvOGJNT3VrbkZLeWZOVzZCbVdmR1A3bUlcL3FnaWlrTWhVdFlRV0t4RyIsIm1hYyI6ImI4Njc3ZjE3YjUyYjQxOTM3N2ExOGVjYWI1MDhlM2NmY2ZlNGQ3MWYyNTBhZjJmY2ExOTIwZjE0MTkzNjllMWUifQ%3D%3D&amp;signature=6c84b1b5a07a28bb18a26e1ac96fe3655e2b5ecee422b0132ab481954320dc2b</image>
+    <start>12:00PM</start>
+    <finish>01:00PM</finish>
+    <date>14 January 2026</date>
+  </channel>
+  <channel>
+    <name>Fox News US</name>
+    <id>FoxNews.us</id>
+    <title>Live: FOX and Friends</title>
+    <desc>Co-hosts Steve Doocy, Ainsley Earhardt, Brian Kilmeade and Lawrence Jones highlight the latest.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6Ik9LdUFpUXBKcnVtZUxJN3ZZUHFaUWc9PSIsInZhbHVlIjoiUXNhMFZlejRtUkhwZm1PZ2VCY0lBemhkVjlDNGNPckExTG9tODgzaWUwZ1RFb2tkM2Y4Yll1YUpkZWN1eFVVSnZmWFdob3VZRjRxdVhmcXRRNFVOWk5zZ3lYRDY1XC9idzQ2OTlMT2RoVUxKQW5XTUdHb0ZhbmhXWWZTWlMrZmx0IiwibWFjIjoiMjE1MzZlNGJmMjMwNDVkN2RlZjhlYjVlZGI3ZjEwYWRmMmE4OTIyNmQ1ZmQxN2Y4ODRhNTFiYjVlZTFmYjEwYSJ9&amp;signature=4733ade108767f538da3f8851680dd5297dae897c2a40e4c49ba589f6e3b5bd5</image>
+    <start>01:00PM</start>
+    <finish>02:00PM</finish>
+    <date>14 January 2026</date>
+  </channel>
+  <channel>
+    <name>Fox News US</name>
+    <id>FoxNews.us</id>
+    <title>Live: America's Newsroom</title>
+    <desc>Bill Hemmer and Dana Perino cover current events happening around the nation and the world; guests pertinent to the news topics are interviewed and viewer emails are also answered by the anchors and guests.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6InBDNFJLcW5BWCtKVUFrWmowMVgwNHc9PSIsInZhbHVlIjoibEVUcmVBbm54TmNIaDB0N3d5MEtRVVRENWtWc05IclI3TFZrSUxVTGQzXC9GK2thOTVyVG9EbFBIU2dMMEZ6dUtBQjRIQk0zYWswMWFJczI2TTdOWndaanFhaDN3b1FkQlN3XC9XZ0U1M2F3YXlvS09GV0hNeXdcL2ZISlV5bEtPVzIiLCJtYWMiOiI1YzA1OWQ5N2JjMzY2YWJlMWM4NjRjMzAxNjVhMmM2YjNmZGI4ZDc5NTFlZGZjYzFhNjI5MjRkNWVmY2Y3Njk4In0%3D&amp;signature=ea3347f0ea86b16c2fc689e4880fcdc6708c18bb6650fc14fbfa08ee3905b4dd</image>
+    <start>02:00PM</start>
+    <finish>03:00PM</finish>
+    <date>14 January 2026</date>
+  </channel>
+  <channel>
+    <name>Fox News US</name>
+    <id>FoxNews.us</id>
+    <title>Live: America's Newsroom</title>
+    <desc>Bill Hemmer and Dana Perino cover current events happening around the nation and the world; guests pertinent to the news topics are interviewed and viewer emails are also answered by the anchors and guests.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6InVQRzJzXC9sc0lxT09wdmg5TkVXblVBPT0iLCJ2YWx1ZSI6InVBT25EMEZFS3JIblJWeFp6azR0WndOYnNMaWJlR00xYkttSVwvaVF0RkE4Y1BiYWNzSGQ0UDZVOVRNeDFkUlVrMEhhOTI1U1B4TmdQVEF4aXZPdm1lUWI0VkNGcUdYbE9lY0hXbm03aTNtZTRoN3Fmb3psanc5ZUdHelpKc3NWRyIsIm1hYyI6ImIxNGFjYzNlMDM5MTcwYWVmYzBkOTk0YTgyYTQzNzg1Y2IzN2E0ZWU4ZDg2OGJiMjU0NjhkMzRhZDJhZjMzMjQifQ%3D%3D&amp;signature=bbe009060d2c7545ec400133884fb8830224e964513286765db72a621c2f3b64</image>
+    <start>03:00PM</start>
+    <finish>04:00PM</finish>
+    <date>14 January 2026</date>
+  </channel>
+  <channel>
+    <name>Fox News US</name>
+    <id>FoxNews.us</id>
+    <title>Live: The Faulkner Focus</title>
+    <desc>Emmy-winning journalist Harris Faulkner provides the latest news with insightful analysis and interviews with top newsmakers.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IkxlY2lSajhya0pwek5XM25qU1wvNU9BPT0iLCJ2YWx1ZSI6IlIzV2JyRXpSNHp3cjJoWGZYTnBwbFQxems2bVZxdmlcLytIZWhTNjVic3l2aU9ITVpcL0dBT2pRZ0lFdGNxelFVMWtkR0VNZlUxU1k0aEhPTFdYeTN6SG5hRG9WUTY4OW9FYzdvR2sraWx1WFhwSmxQdGRVMFllNGJQd1k4K3pSZkciLCJtYWMiOiIyYzk5OTY4NDNmMmRlYzEwOGU4M2JlYzhhODAyMWQ1MDI4N2MzMGJhZmVhYTNmODVmYTJkNDdlZWE1ZDYyNWQ3In0%3D&amp;signature=33f6afb5c6bc79f0c084c4fbb4d4a91b0dcc91dc8ac39ee45ff274255d43044f</image>
+    <start>04:00PM</start>
+    <finish>05:00PM</finish>
+    <date>14 January 2026</date>
+  </channel>
+  <channel>
+    <name>Fox News US</name>
+    <id>FoxNews.us</id>
+    <title>Live: Outnumbered</title>
+    <desc>Four female panelists and one male colleague share their perspectives on the day's top news stories.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6InBsVFwvSmU4RzlcL1lRdURoRWNkZm9sZz09IiwidmFsdWUiOiJcLzRFSDM0d1NZY3pUUG1YZXNqalwvY3dFU3YxaWNGXC9hSzVsSnlsamVwdE1KRlNcLzlWMXZwb1gyWXdzNEozdytRQ1JVd2ZjdmFkZ25PTmVYTzJiVUlNb3dcL1RKcU1Wdnl1eVhsMW5wdjZPTW9NcXI3N0hjVm9zUk1lb1phZXJGeUxYIiwibWFjIjoiNDdmM2YwNzA2MTNlNDFmZmE1YmU4MmQ1NWQxMzAyZTJhNGQ4NGVkYmJlMDdlOWEzMzI1ZTIwYTgxNzE0ZDljMiJ9&amp;signature=d1dc135455f1a56a86621b3b6eb918aa198f3f043177d37ede0304800ffc8502</image>
+    <start>05:00PM</start>
+    <finish>06:00PM</finish>
+    <date>14 January 2026</date>
+  </channel>
+  <channel>
+    <name>Fox News US</name>
+    <id>FoxNews.us</id>
+    <title>Live: America Reports</title>
+    <desc>A look at the latest news and headlines with Sandra Smith and John Roberts.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IlwvaWZYMjQwaWNlb1pIRzdFd1N6ajF3PT0iLCJ2YWx1ZSI6IkNoS1YzTEkxOE5aMlFQdTgzZ1R2aTJaR1J1clJIMjJDYUNaTnE2RXZ5RmZ3VU1yaUp6b1RzS3JWdm1nYjl5YUdydko0UGpFMDRQVUR5aG9rRUZIRmJTcHVRSW1hSDZmQk5hQWN0NFZwTFJpZE9ISlJkTEQ4QnF1WHZmYXNoVXd1IiwibWFjIjoiYTk1ZDQyYzA0NmM1MjE0NWI2Yzg0OTc5ZjA2NzQwMDkzOWQyMjg2ODBhMjE3ZDcxNTA3ZDVmNmM2MzQ3YmM2OSJ9&amp;signature=cc19692a5cf5f088b46ec2bbc07d17df4b83bb57558fb3d4236c955d89649f9e</image>
+    <start>06:00PM</start>
+    <finish>07:00PM</finish>
+    <date>14 January 2026</date>
+  </channel>
+  <channel>
+    <name>Fox News US</name>
+    <id>FoxNews.us</id>
+    <title>Live: America Reports</title>
+    <desc>A look at the latest news and headlines with Sandra Smith and John Roberts.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IlhsVFk2Q3Q1NmRlVjcybFVpRnRDcHc9PSIsInZhbHVlIjoiYmZvRG5zNnArYnpaQ1h3S21zQkFiXC9DZTh6cFl2WWkwYk1jeHl6cCtoZml0MkNSMmdXXC9FM09na1ZaaFpXdXc0dFFZMnpTSXFiQ253SmdSK1ppUTRGT3kwUDJLcGMxcmVXREQ3NU80Y3QwYzV4VzFaQ0pnTDJXUit1RGdZU1wvdE0iLCJtYWMiOiI4Zjk2OWZkNzQ4MTk4NzAxMDhlYjQ5Nzc2MjIxZTdlMDZmM2ZjODgzM2Q5NDdjNjEyYThkZDQyMGI4OGE4M2M4In0%3D&amp;signature=1a5665a0a5f1a9022da2e68f59f4ea9e58d75cca911118fab0201b031579ef83</image>
+    <start>07:00PM</start>
+    <finish>08:00PM</finish>
+    <date>14 January 2026</date>
+  </channel>
+  <channel>
+    <name>Fox News US</name>
+    <id>FoxNews.us</id>
+    <title>Live: The Story With Martha MacCallum</title>
+    <desc>Martha MacCallum brings the story of the times with her tough but fair interviews and straightforward analysis; &quot;The Story&quot; captures the voices that need to be heard and the people at the center of every history-shaping moment.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6InBwTThkanRvUlRXNVJ0Y0FDd1h2VFE9PSIsInZhbHVlIjoiWmRjNDhReER4WGpLZDNmdXlIdURZNHg2S0lMYm9SMDJRSmFURm5cL2VIUm10VFk5Y0lVdkdmV093UDhoa01LQjd4aGhYdUdNTVlZTGM3SGhqZmV4OVpBUlNMa25jWGdSNXVjYStcL3NYT3JcL2U2dFBNT1E1Z0xNYTdcL2haWXJuYXJDIiwibWFjIjoiNjUyMTExNjllZDg2NTM0MThiYjViZjBjNDIzMDYwOTc4MmI1ZmQ0NjVkNWEwMWY2MDE3ZDU0YjU3NDZlMGUwZiJ9&amp;signature=fd7708cb5e734a509fa3d7f6eb755063c0c0dcd4459c174e916525ff350d8560</image>
+    <start>08:00PM</start>
+    <finish>09:00PM</finish>
+    <date>14 January 2026</date>
+  </channel>
+  <channel>
+    <name>Fox News US</name>
+    <id>FoxNews.us</id>
+    <title>Live: The Will Cain Show</title>
+    <desc>Featuring Cain's signature podcast style and thoughtful perspective through conversations with newsmakers across politics, culture and sports.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6Iko5QlUxb3UyY205cHRZV1ZDQTFlZnc9PSIsInZhbHVlIjoiVXdxRFVDN2pBbjVwcmJ0QkNKK05qRkE3UGxqOFVSMXlhRGdqTCtcLzFhRGJsOG5ZbnBtck1SMTUxZGtuSU5mb28rdThKSTA5UUJzNWdSVFwvN1wvYlBSYXBWaGlZbHpIajFLM3B2WUpIU0w2VndFdDl0MVliV0FXb0VLOG8zWFdrSHUiLCJtYWMiOiI2MWYxN2M3Yzc3OTgxMDdkOTc1Y2I0NTQ4ODdmN2VlODcyNTU2Yjg5ZTJlMmIwMjQxMGFkZTc3ZGQ3OTIyNzQyIn0%3D&amp;signature=b5014d124bb35729d28a208aa877f9d899ecfe2d73d62d2fbb52f874e79ba472</image>
+    <start>09:00PM</start>
+    <finish>10:00PM</finish>
+    <date>14 January 2026</date>
+  </channel>
+  <channel>
+    <name>Fox News US</name>
+    <id>FoxNews.us</id>
+    <title>Live: The Five</title>
+    <desc>Dana Perino, Greg Gutfeld and Jesse Watters and rotating liberal co-hosts Jessica Tarlov and Harold Ford Jr. discuss and debate the hot issues across the spectrum from politics to pop culture.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6Ikt6bGFubzQ5Qjd5ZGpVbzE0bTdrUUE9PSIsInZhbHVlIjoiZ1dKR25kSGJzWE5WTlVOMTRiUzRHWlU1UnF4emhTaU80cmtDZFdKTGt0a2VuS2xPR21ZeWNKM0s4VVwvSzB6UXFETHpZMUlMXC96WWkyOHI1RFwvMnJyY2IxeUMzK3hOS1Ewek5YUXdsaktjUmw0NDVkXC9URHl1ZVwvUTIyaER4QTh4UiIsIm1hYyI6IjVmMTVhOWE1MTQwMTMyMjhiZTRlMGRmNjNjNWFlMTdiYzU2Njc0ZmRjYzBiYjAxOGI4NDM2NTIyM2RjNmRlMDUifQ%3D%3D&amp;signature=d73f1711288b42ed69397185c865209267d5a8e133473eb1262b8780df5aba06</image>
+    <start>10:00PM</start>
+    <finish>11:00PM</finish>
+    <date>14 January 2026</date>
+  </channel>
+  <channel>
+    <name>Fox News US</name>
+    <id>FoxNews.us</id>
+    <title>Live: Special Report With Bret Baier</title>
+    <desc>News from inside the Beltway.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6ImhtczZKbjI0NVFvKzhxNjZXemlWSVE9PSIsInZhbHVlIjoieWxVUVVwYkpcL2R5NEFPNWRVc25WdUhMME81TzRYRmttQTJOUWhJdWhrcTllazVCeVNzczV4dDBKK0k5VThuUGdHSm9STDM0UDRSanlhVTNHWGFwS0Myamh1azFqRTVROURvU09hWE1PTFhDWXpLS2NyMWFDQzE0Y2NHSjBcL3hBZiIsIm1hYyI6ImJlYjk3ZDVlYTMxNWE4YjA5YjQzMWUxOTA1NWY3MTA1YjYzMTdlMWE3ODI2NDU4YjhmNTIyMTllODRmODkyMmUifQ%3D%3D&amp;signature=32c7f25f9e556dec1e8e37d7e658e562e49047909aa21d5221df8d5ac955c90f</image>
+    <start>11:00PM</start>
+    <finish>12:00AM</finish>
+    <date>14 January 2026</date>
+  </channel>
+  <channel>
+    <name>Fox News US</name>
+    <id>FoxNews.us</id>
+    <title>Live: The Ingraham Angle</title>
+    <desc>Laura Ingraham aims to cut through the Washington chatter to speak directly with unexpected voices and the actual people who are impacted by the news of the day.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IlRRWGIyMHg0cU12d0FxN21kWTFzbHc9PSIsInZhbHVlIjoiTE1PcG5jbE80ZTV2MmhCeE5ZXC9JTmtPeE04N0crVG14dXZlY1BcL1NnUGFWT0R4MEVkKzg3SmlVWkRhQWlIc0Rxcml6bWhvUTIyTVZudXdaVHE3dnBWM1h2eTJ1VDVUTGI4ZGNRU01ZRWE4TVR0YUF5Q1ZBbndna0tlQWtsVytIQyIsIm1hYyI6ImMxY2FiZTg0ZmY2MjMwZmIwYTk2M2RkMGNiNTZkNTQ3YTUyOGU5MTRhMTRlMGZjYjhjY2NlMTQ4YTY1N2MxMjQifQ%3D%3D&amp;signature=bb3b6f062f0d377e51fbd3916f374650bf3e771be9c95d83609d50d69d6edb68</image>
+    <start>12:00AM</start>
+    <finish>01:00AM</finish>
+    <date>15 January 2026</date>
+  </channel>
+  <channel>
+    <name>Fox News US</name>
+    <id>FoxNews.us</id>
+    <title>Live: Jesse Watters Primetime</title>
+    <desc>Jesse Watters speaks with newsmakers from across America to present news with a clear and direct approach.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6Ijgxb0N1U0JuRkpJdHFoc0RzZzcrZ2c9PSIsInZhbHVlIjoiS1NRZDgzdGlNVWExUlVDUHB1cU01SEFDZnJnZzUzM2ZINVRETE1TN1I3SzBucnYxelV0d3czc3BxbFRtM1ZscCszWkk4Q0xuVDZsNDdJM0VDeGh6TVFkb3hRODNYK2p6WGhudnVyaDM4aHpuQmNmc2ZacHk5SE9xSW93NTh2ZWEiLCJtYWMiOiJkZjA4YTgyMzlkYTIxMGM3NjRmNGVmMmQ3NzFhZDMyOTZkN2FiM2YwZjYyMDJlMjg2N2UyZDgzNzM2MDAzZDJmIn0%3D&amp;signature=0c1a9686c4c9378e1e6a37f74ec4a487354aba170f743d0fc94359d1baa8da26</image>
+    <start>01:00AM</start>
+    <finish>02:00AM</finish>
+    <date>15 January 2026</date>
+  </channel>
+  <channel>
+    <name>Fox News US</name>
+    <id>FoxNews.us</id>
+    <title>Live: Hannity</title>
+    <desc>Host Sean Hannity interviews political figures and newsmakers and offers his own conservative perspective on current events.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IlV5clM4TlVnMFZOM3RvaGtLR1ZFcnc9PSIsInZhbHVlIjoiXC9OSE1MdmozaEJER21qWUw3YW5MMlBTSTU4QzE0KzlXUytJaHdvN2pBYVIzNzVMQlN2VTNlVUZWbHl0T2pCa3BJeXc3dnRSeGdSSGJcL1VxZlVGekV2RDQ5T3ZJaW5zS3Z3WGFyQmp1dFZkczRPaUUzTk9vRzNBTU9EQXNwTFEyaSIsIm1hYyI6ImU5N2JiMTdjZjU5YWRmNjNiZDM4MGQ3ZmY5MjRkY2QxOGZlODBhMTAxNjVhNDdmMGJiYjAwZTk4ZjVjOGI1YzgifQ%3D%3D&amp;signature=58e5f680afaf24cebc477df4cd3f370be57afba007ab9819a05324eb722bc62f</image>
+    <start>02:00AM</start>
+    <finish>03:00AM</finish>
+    <date>15 January 2026</date>
+  </channel>
+  <channel>
+    <name>Fox News US</name>
+    <id>FoxNews.us</id>
+    <title>Gutfeld!</title>
+    <desc>Gutfeld looks at the news of the day through a satiric lens fused with pop culture and features refreshing takes on the day's top headlines from FNC personalities, authors, politicians, veterans and comedians.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6Ikx2TUNjZ0VzRmRUYUlmckRQM1JIbXc9PSIsInZhbHVlIjoidVpCV1FRZnZQSSt6SmhadDFnVCtlQWJIM0VOM0tOYUFGQ2l5dTk2Z0pHSjhLcmUwT0YzczFTbG9YRDlwWXBvTDNZY3pPRXZUZW5Rc3phXC9FWEZQdklqeFRFazZrcXhtU1EyYmZxZ2dkU3RFK3lqSVVKTVwvRFBxWlwvZHFrSUxiY2ciLCJtYWMiOiI3NTgwZmVhOTc4ZGMwYmZhZjQ0ZTg2ODlhNDczZDEzZDU5MzgxYWIxOGVhMmFmNjAxNjM3ZjQ0MDMyMmJiNTVhIn0%3D&amp;signature=488becd61b04f7456ed78d93f043743725f5f13c84baaf84ffd76295c7f067eb</image>
+    <start>03:00AM</start>
+    <finish>04:00AM</finish>
+    <date>15 January 2026</date>
+  </channel>
+  <channel>
+    <name>Fox News US</name>
+    <id>FoxNews.us</id>
+    <title>Live: Fox News at Night</title>
+    <desc>Hard news and analysis of compelling stories from DC and across the country; journalists provide viewers with must-see information and consequential news.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6ImVycFhpbWdRTGc3N1RFb1RUREpZUWc9PSIsInZhbHVlIjoiQUhvQzZlZ0tIM3VlZTZPeGtcL0l2YndQUEJPMTB0Rm5vclg2ZmFpeWg4cWxVYWpGQ1R3eGROZWxWdE9xVkk3bE5KU3ZBd2dLeUZLSFprUndTN1I3Q1ppdXZiTEgwNjFrRm1xTVd1VHhic2RVQjlYdWFYNmtXNHJnXC9xdUczUWpYVyIsIm1hYyI6IjdlMzA0ZWFmZTBiYzBiZTM4YWUzMzBhZjU5MjI4Yzk2OWEzMGNiMmJmMjg2ZDk4MjcwZjQ3MWNkYmY5MzVlNDcifQ%3D%3D&amp;signature=424bb96f52cd45800bdd66a4421c55b4cdf58387c3c5f9351d8ed55afbd1048a</image>
+    <start>04:00AM</start>
+    <finish>05:00AM</finish>
+    <date>15 January 2026</date>
+  </channel>
+  <channel>
+    <name>Fox News US</name>
+    <id>FoxNews.us</id>
+    <title>The Five</title>
+    <desc>Dana Perino, Greg Gutfeld and Jesse Watters and rotating liberal co-hosts Jessica Tarlov and Harold Ford Jr. discuss and debate the hot issues across the spectrum from politics to pop culture.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6InRVeUs1ZDVlYXBGV1wvWko2YzJJcll3PT0iLCJ2YWx1ZSI6IkFrNHdoSTlHN1Z5RmNRSm1cL2dwRXBaZjViYVNmc3FJR0ZWU0ZRQ0pWMjIzZjJlYVlOQ0ZRUDJvVW1BWE5JSVVFTGtaT3VNT3ZiZHFYbTR2aFh4czhaYzFLb05pWmhob0FoUGFqNk1icE8xM1BudHJqaTNJaWREZmpGQk1yZ0J6YSIsIm1hYyI6IjA2MmE4ZjI1MGIxZmM4ZjRhNGZjOWY3NTM1YzljNTUyZTI0MjNmMjVjZDg0NzlmNjI5ZjE1M2U0NzgyYmVlNmEifQ%3D%3D&amp;signature=92617f81df421092045163b734a1ab9eea12ec4809d10851c2dcdc70f1625fc5</image>
+    <start>05:00AM</start>
+    <finish>06:00AM</finish>
+    <date>15 January 2026</date>
+  </channel>
+  <channel>
+    <name>Fox News US</name>
+    <id>FoxNews.us</id>
+    <title>Jesse Watters Primetime</title>
+    <desc>Jesse Watters speaks with newsmakers from across America to present news with a clear and direct approach.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6Ino3d2RidFQ5S01wODdLM0I0Q3FPd1E9PSIsInZhbHVlIjoiMkEranQrKzZScENxWURRdUF3TjFUaUdhNFwvVFEzOENaY3BZMDhXK0Noa2JwS3FDXC9POTFickhSd3k0dFhSb01jemxRcXRkbUVlVGJ6cnh2SEdVXC9hdGJaUWhtV0RDeFJVZlNiNXlBRUZJKzEwdzNzYXZ5N2JEXC9yVHNYZTZGaUIzIiwibWFjIjoiZDRkM2Y0MmJlNDA4MDE5NWRkZWE4MDMzYTJlMzgxNzgyMmQzYjUxNTA5MjZhN2ZhZmJkZjExYWE5NjE5MTE0YyJ9&amp;signature=1dc9cf9b3a349ba9f1781efda8a0039312173314b467b6c2212b7ef02c48c1ea</image>
+    <start>06:00AM</start>
+    <finish>07:00AM</finish>
+    <date>15 January 2026</date>
+  </channel>
+  <channel>
+    <name>Fox News US</name>
+    <id>FoxNews.us</id>
+    <title>Hannity</title>
+    <desc>Host Sean Hannity interviews political figures and newsmakers and offers his own conservative perspective on current events.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6ImpwRXpcLzk3c3EyS2g0NmQxdytJUkhBPT0iLCJ2YWx1ZSI6IlhVYktrR3FWaWRETTQwa0hsK1Z5RHVzK3RJUVgydEkydTZcL3UyOVFwMW1vQlpuZU5lRmFmOWt0UnY4RjlcL0JkcmdMMUp5S0x3RkVuMCtVNHdvcHNWU09cL1ZjRlpOdGRLekw4V3ErYVhQTGFPTGpWUlBsTWJmYmJnUVl2MmVRWXdZIiwibWFjIjoiMTY5MTNjNzIxNjY2ZDNiZDcwMTJhNmYxYmZhYTM1MGIyNWM3MjI3Nzk1N2VmNDkxZTQ3YTdlMWIxNWY0NDNlMyJ9&amp;signature=fcdf698301e0cf8f064d01f27ada01b1cc4fa850448c4f9d29c28039c3267802</image>
+    <start>07:00AM</start>
+    <finish>08:00AM</finish>
+    <date>15 January 2026</date>
+  </channel>
+  <channel>
+    <name>Fox News US</name>
+    <id>FoxNews.us</id>
+    <title>Gutfeld!</title>
+    <desc>Gutfeld looks at the news of the day through a satiric lens fused with pop culture and features refreshing takes on the day's top headlines from FNC personalities, authors, politicians, veterans and comedians.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6Im90QlNEcmlpdkM4OWhBT3I1TXZNaGc9PSIsInZhbHVlIjoibEM4UmVBQVRweldjcUVhOHBcL0E5c1ZMOGNjeE1NYlhOVXpDN3h2OXlGM2dZWlIyUnlBQm1iakJkN0l5TkN2VmxUbkJ5YkhXVitHNm9OOUFZMHBEaUtpTDhFTTQwVTU5YVN2NWNhMVdzTlg1b3RNeG5nQ3liRUgyTDByMkVyeUJ3IiwibWFjIjoiZmM0ZGE4ZGI0ZTBlNjY3MmVhMmE2NzcyNzVlMjM4NGJlNGZjYWExZWJjNDU1M2NmMGEwYTAyN2FiM2FmM2Y2OCJ9&amp;signature=2f16ca8912b88549c82e6351dcd98dc19d25045d963a647105661f4930a6cbb3</image>
+    <start>08:00AM</start>
+    <finish>09:00AM</finish>
+    <date>15 January 2026</date>
+  </channel>
+  <channel>
+    <name>Fox News US</name>
+    <id>FoxNews.us</id>
+    <title>The Ingraham Angle</title>
+    <desc>Laura Ingraham aims to cut through the Washington chatter to speak directly with unexpected voices and the actual people who are impacted by the news of the day.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6InA3Uk5zaWVtTGZVTnFRQzBmUGppbXc9PSIsInZhbHVlIjoiaEpMWmNkUDhlYXBvaERIVGVPc2RDWE5lQkI1UVViSHdMK2FOTUNPUFBnREhPOHl2TnRINllsblF0VnA4UVwvemwyaktqR1RnUmRad0x6U3E4Q21rbmdUbDllY3RNUzVEYU1cL2xRNGlidnJieG9HWHpMaE9PRVR0QVdvRzhJZUViTCIsIm1hYyI6ImY0Njc1MDU5YmEyODA2Y2YxMTY5Y2Y4MTRjZGYzNTI3NTBlMmQ1YThlZjJkYWRlYmZjNDlmYTIyNThlZTBhZGQifQ%3D%3D&amp;signature=957d63ad85d4dcb2f384e10df944c5a2ee329beab21f7c81c53b3ff4eff08671</image>
+    <start>09:00AM</start>
+    <finish>10:00AM</finish>
+    <date>15 January 2026</date>
+  </channel>
+  <channel>
+    <name>Fox News US</name>
+    <id>FoxNews.us</id>
+    <title>Live: FOX &amp; Friends First</title>
+    <desc>Hosts Todd Piro and Carley Shimkus present all the headlines viewers may have missed overnight, along with a preview of upcoming news events.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6Im53OCtGeU1KWnRkVlpDeFJoVjQ5RHc9PSIsInZhbHVlIjoidUJLOHErSERRdkNXc0ZjUXhTd0V1bFBwaHhnSE1xNk1OdVF0ak1rWnMrUjQxcTExS1lBYnJqYlZmb054ZVVhODJTMmtXU0ViQnRwMkRwZ01FRmxPZUVJUzM3Yzh3RUJYM05zSkp0dzlvTjVBMWkyV0cxMnRGNitjNmU5WkZ5bSsiLCJtYWMiOiI2NTA4MGI2YzNhNWRiMGUxYTE4N2Y1ODM1OGQwMWNiODU4NjIxZGRkMWU1NjUzNDY1ZjZlZTA1OTM3ODc5MzA2In0%3D&amp;signature=53982f8b77f8365f418edff5bbde7d26afcb29fca3c0bf7ca0de4b85cc878d52</image>
+    <start>10:00AM</start>
+    <finish>11:00AM</finish>
+    <date>15 January 2026</date>
+  </channel>
+  <channel>
+    <name>Fox News US</name>
+    <id>FoxNews.us</id>
+    <title>Live: FOX and Friends</title>
+    <desc>Co-hosts Steve Doocy, Ainsley Earhardt, Brian Kilmeade and Lawrence Jones highlight the latest.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6InZzS0U0OUZKZVhIZUdMZVI5dXF4U0E9PSIsInZhbHVlIjoiVEVtYWZ1OVU4YkRNYVV4MjhQYkF1QzB5Q21lN2R0UGhPNGN3M0xmSFJGMXJuUG44QUdYZkYxdURYN21sRjVGYWtLck5CaWtVSVVHaE5FbFdKYTlSWUJTQXlBZjFoSkNyeHVXWEdwNER6K3VMbkRkYjZcL3RjWnBEcWFKNGp3M1wveSIsIm1hYyI6ImZlMjdkNmNmYmM0ZjAxZjg4ZjEyMWQzMmNhZDQ5M2M2MWRkNDBkYTkxOTg5MjE3ZWM2MThhYmEyMjM1OTJlODQifQ%3D%3D&amp;signature=7b3e801e7acc47f89ea0e675634424129d5b6a2bc74c4d249d0ad757c34dca91</image>
+    <start>11:00AM</start>
+    <finish>12:00PM</finish>
+    <date>15 January 2026</date>
+  </channel>
+  <channel>
+    <name>Fox News US</name>
+    <id>FoxNews.us</id>
+    <title>Live: FOX and Friends</title>
+    <desc>Co-hosts Steve Doocy, Ainsley Earhardt, Brian Kilmeade and Lawrence Jones highlight the latest.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IllwNGprSFhWZ1wvQnBJNEtEQ09GYzNnPT0iLCJ2YWx1ZSI6ImpXVmRVUFN2UWdtRk1OQ2I1b3ZUVytpVkZHTjUxTWxlTm5xVWpcL2haOU11U3lWVGdrb2JLdERITGh2ZzRLR1ppYkZrYlhrV2cxYUJ4NVZ6Tjd5T3lcL2NcL0J4WVB3aWZTTDgyVGhPRkV1YzlaeFhiK1NRN3dObnNLcnpkYlVPYzArIiwibWFjIjoiOGRhNzI5OTEzODY3OGFiYTdjZTFkOTFhYWQ5NmFlODNkOTM0MWJmZWY4MjMzMTE2YzMxZmEwYzQyZWU0ODRjZiJ9&amp;signature=e7a1fe7f3b5bc796189c0c88359fd4f335aa8bd4f9624820fab30530f3f6a24a</image>
+    <start>12:00PM</start>
+    <finish>01:00PM</finish>
+    <date>15 January 2026</date>
+  </channel>
+  <channel>
+    <name>Fox News US</name>
+    <id>FoxNews.us</id>
+    <title>Live: FOX and Friends</title>
+    <desc>Co-hosts Steve Doocy, Ainsley Earhardt, Brian Kilmeade and Lawrence Jones highlight the latest.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IlhUbGdUdjBkOEczNzhJcktCWjlFU1E9PSIsInZhbHVlIjoiYnJ1WDZlMDRmNjJpeEZpVjV6UnVoUXFCMXZXRVNyVVA2TVwvVWVmcjQzditNTXZndTJcL2NSOVwvMTl5eTUrbndEXC9sMHJVM3g2a3pFVzQzTExsN29hSzl1VjVJTDZnRWZOcm9TQjJwQlJtVjRCK0lDVTV0TzJMRHhrYTZXV3JtakYwIiwibWFjIjoiNjVkOWE2ZWEwYWMwNDgxYjI3NzUxNDY5NzkwMWFiMjEyMTE2ZGU1YjMxNWZkOTY4ZGQ4Y2M5NWVjMDhiMzE4ZCJ9&amp;signature=a83db95237e198f3a3ffdc68c4c603563f47ab56b4f026ce16f9a922dd6e224e</image>
+    <start>01:00PM</start>
+    <finish>02:00PM</finish>
+    <date>15 January 2026</date>
+  </channel>
+  <channel>
+    <name>Fox News US</name>
+    <id>FoxNews.us</id>
+    <title>Live: America's Newsroom</title>
+    <desc>Bill Hemmer and Dana Perino cover current events happening around the nation and the world; guests pertinent to the news topics are interviewed and viewer emails are also answered by the anchors and guests.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6Iko5S2NCWGdEYnE5RlJEN0NxUGRtYVE9PSIsInZhbHVlIjoiV2dmNnhPZmVBXC9ZMzY2d0U0TzRqczl5dW54WXNxY2h4VzdvNzIxdVZcL09OU3o5Sys1KzBlQWNkdjZwcSthREJIVlNkcTEyM2Z1WW9BbGJTOXdFeU1qN2JhSnppNkJUcGNRRFVwaHprWldIZmRIRDBkbTJlN1Q2eGVlQzVTdk1tQyIsIm1hYyI6ImNkNmY1YzgzYzA4ODY2YjVhMjZiOGI0NzZmYzE2YTAzOTY0MzI0YTllYjkxOTkxYmMzMGI4ZDNkMThmYjdjNjcifQ%3D%3D&amp;signature=80050eae1c6a0ed113c18acc202c9eb6e3f07da8461c58b5ebcb2cb9160ae79f</image>
+    <start>02:00PM</start>
+    <finish>03:00PM</finish>
+    <date>15 January 2026</date>
+  </channel>
+  <channel>
+    <name>Fox News US</name>
+    <id>FoxNews.us</id>
+    <title>Live: America's Newsroom</title>
+    <desc>Bill Hemmer and Dana Perino cover current events happening around the nation and the world; guests pertinent to the news topics are interviewed and viewer emails are also answered by the anchors and guests.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6InNHT3F0ZkxaYnFuR3NiMDVxaWFERXc9PSIsInZhbHVlIjoiUTFHcjVwZGZmSG9BcWZQdXdxZkxiTlZjaFRPaU5NcDMzRGVleDhiSjNtcXF6SmZvb1dMV3RkWlZwZWNKaHhRK2l4WE1iVGgwS2o4bGE4cmd5azB2K0VjN2syTTU5eEFLTzJiRXk3NkQ4WVN2RmZKXC9COWFxMktuSHRsa1FYbnVDIiwibWFjIjoiZWI2YjhmOTIxMTJjOTE4NzUxOTUwMWY3MjBjYzc1NTI3NTc0MTNlYjBiNzhlOTgwOWE4MDhlMDNjM2NkYTg1MiJ9&amp;signature=a1f9b458b094604c359f9f458bdf5d10bce2a8d0e43402f2aab4f2e519ff1269</image>
+    <start>03:00PM</start>
+    <finish>04:00PM</finish>
+    <date>15 January 2026</date>
+  </channel>
+  <channel>
+    <name>Fox News US</name>
+    <id>FoxNews.us</id>
+    <title>Live: The Faulkner Focus</title>
+    <desc>Emmy-winning journalist Harris Faulkner provides the latest news with insightful analysis and interviews with top newsmakers.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6ImNQTjlVNFduSHR6ZzJjZ0hsc1dPNnc9PSIsInZhbHVlIjoiTHViUTFlRzNEdTE4NVBYbE9YaGZ2SlhkS093a2I4TzNUWks4MkEyVVA2YUpabXBKN1QxRXBLXC91ajVZU2RLSjhkQTdPS1ZoREdQa3BVYkVHdlBuTVloWjFSMlwvTnVscitmR29KNWN6Z1k1RmJ0QU1XUXZpeUQwbHZsbGM3Q1pNeiIsIm1hYyI6IjkwNDhlYjgwYjY4NGRjNmQ0MjVmMjU2MzNmNGRmZTJiNTQxNWJmZTJlOTExNjdkNWU5NmYzMWQ4NDc2M2QwOGUifQ%3D%3D&amp;signature=fe59f40ae23a327ec96fdda9e42fd9561c983456caff4d24534e5d9a2671c9ab</image>
+    <start>04:00PM</start>
+    <finish>05:00PM</finish>
+    <date>15 January 2026</date>
+  </channel>
+  <channel>
+    <name>Fox News US</name>
+    <id>FoxNews.us</id>
+    <title>Live: Outnumbered</title>
+    <desc>Four female panelists and one male colleague share their perspectives on the day's top news stories.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IlF6amV6dlliXC9DZGpmZDZ6SklKdG1RPT0iLCJ2YWx1ZSI6ImtzNEgrcXJDMENhYnFWRWk5a24xNTd4ckRCXC9uYWk2SDAxQW5BdzlGVXFzZ05aUjRIMWtnblwvTk1FbFFhUmlFV1lvNTc3VUpkekF4a05HK3YyemdsVThoZUdXazdmcjJQNnNQMk5RenJQSEIyQnc0UGVtd1F0VDVOcmNJQkdicFEiLCJtYWMiOiJkOTQ4MjA1ODU0OTRiYTE2ODM5NDAwZjhjZDdjYWQ1YWQ1YTFmYjYwNzQ2ODI5ODA3ZjU0OWZmOWNlN2QwYTRmIn0%3D&amp;signature=ef2c7dbc5879a62d0bec03347ad5ad7d4e2e5acacbe5982899b4161d74ad2a82</image>
+    <start>05:00PM</start>
+    <finish>06:00PM</finish>
+    <date>15 January 2026</date>
+  </channel>
+  <channel>
+    <name>Fox News US</name>
+    <id>FoxNews.us</id>
+    <title>Live: America Reports</title>
+    <desc>A look at the latest news and headlines with Sandra Smith and John Roberts.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6InVXVGpOcGlDU3BoQVhSXC83WlVIRE1nPT0iLCJ2YWx1ZSI6Ik5iMXAyNWgrbW1ndlh4eVwvYjBWWnRDdUdiTnVOcUpxMGE2REZlT2l1eXJoRHNXS3IrQ05EMEJiNFwveExIRFhHT2JVQkd1VHBGY0dCWnR0TVRyaGNcL244ZFNIZVlcLzlLK2F3RkMzXC9cL2pVMjdQUFlXZHJURFZLVkNxR0ZTazJGTk9zIiwibWFjIjoiZGI0NWE3ZTY3MmJiYzQyNzVhYTQyMGNiOWNhYzRlZmE3NzU1M2ZlMzEwNTg5Y2MyNTJhYTBjZDI0NTIxMzc0NSJ9&amp;signature=ffebf47d4e042376f0a60cb75f3f5cfd15e61973e0ee2a13b8abcb2685d8eb2b</image>
+    <start>06:00PM</start>
+    <finish>07:00PM</finish>
+    <date>15 January 2026</date>
+  </channel>
+  <channel>
+    <name>Fox News US</name>
+    <id>FoxNews.us</id>
+    <title>Live: America Reports</title>
+    <desc>A look at the latest news and headlines with Sandra Smith and John Roberts.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6ImJvWjVOQ2Jib0VEa1NicUFPVVFxc2c9PSIsInZhbHVlIjoiU2tLbjFwajFSYzA0aWhHOU1sQ2NoZzJ5bDNsVlNkaHd5SWdxTFp1aUE3UFBEelwvMFl3bXN3dEpqM0VwejZ4S0thY0NSbThlWDRVMlwvbGMrUVwvb3JqRWRCQTVPXC8zamJIZEp2V2JETUJFbnZEN2xSSFNuRVNLQ1JMc29mTGI3VkthIiwibWFjIjoiOWYxZmEwMDE0M2FkMjRiNTViMTg5NzhjOTk2MjMxYzYzZTE0YTc3ZjU2ODA4NGUxMjNiMThlMjE0ZWY5ODgwYSJ9&amp;signature=968592490f7c3a1474f6589ff546803d578c5f9bc84cd30503900794a8baaa30</image>
+    <start>07:00PM</start>
+    <finish>08:00PM</finish>
+    <date>15 January 2026</date>
+  </channel>
+  <channel>
+    <name>Fox News US</name>
+    <id>FoxNews.us</id>
+    <title>Live: The Story With Martha MacCallum</title>
+    <desc>Martha MacCallum brings the story of the times with her tough but fair interviews and straightforward analysis; &quot;The Story&quot; captures the voices that need to be heard and the people at the center of every history-shaping moment.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6Ijc3U1l2d3RGdDlwM1F1aUU1YjU1TWc9PSIsInZhbHVlIjoiMkRGbzl6RWtBVVlKUnFXaSt0TEVCa2NSK3Z4UzVidVJuSGcrRFpQRDNzSzg2U1VVNnFGRCtnWFMyalNQSjM5YlFBSitFY0tTaUZiSTNHVlUwWXZKUktFN2pjUVBna2x0NE4reSt2ZENsZ2JwWTJheXBhVDVicEE3MmxxNmlUbWwiLCJtYWMiOiJjNWViYWU2NzNkZDc2NjI1YWJiNjNkNmM5MDc3Zjk1ZjJiZTBlYTc4ODJhODQ2MmQwMjQwYTJlZDFiOTBjZWQyIn0%3D&amp;signature=3f1d27dda27ef49534a12bfe4cedf4f56280456804b3eb6b200fc4455d703685</image>
+    <start>08:00PM</start>
+    <finish>09:00PM</finish>
+    <date>15 January 2026</date>
+  </channel>
+  <channel>
+    <name>Fox News US</name>
+    <id>FoxNews.us</id>
+    <title>Live: The Will Cain Show</title>
+    <desc>Featuring Cain's signature podcast style and thoughtful perspective through conversations with newsmakers across politics, culture and sports.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6InJmY3BwVTA5NHJVVGdUZkV4bjlXUlE9PSIsInZhbHVlIjoiXC9wVjJOaVpSS1dCZk5VWG9paGtON2psUVwvYzc0NmZ5WXJUUzJFQnFyaFIzdWI2bEdqQ3dpUE14d29VdDFBSkJoSUZ1TkhOUWlHVlR3TU03TUU3dlFBVHlob0dXQjRnckpUNGlLQjdhblJITFlLT3RuckFlUVBKZllzNUYxWW9VWCIsIm1hYyI6IjA5ODBkMDJjZGIxYzcxOTI5NjBlZWU1Y2I2ZjUzODk2NDQ5MDAzMjBiYWQ4Y2QxYjFiNWE2MWI3ZjU2ZWE1MjAifQ%3D%3D&amp;signature=e1f816f558b972eb66b9a68446bdbb17beaadc06dcbe4ccef8bb538d02cec7cc</image>
+    <start>09:00PM</start>
+    <finish>10:00PM</finish>
+    <date>15 January 2026</date>
+  </channel>
+  <channel>
+    <name>Fox News US</name>
+    <id>FoxNews.us</id>
+    <title>Live: The Five</title>
+    <desc>Dana Perino, Greg Gutfeld and Jesse Watters and rotating liberal co-hosts Jessica Tarlov and Harold Ford Jr. discuss and debate the hot issues across the spectrum from politics to pop culture.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IklaVFBIa3hPWUNPNmJ2R1hkOXA4OWc9PSIsInZhbHVlIjoicUlsYTBKWWJjblhUdU9GamlXeW5VY2dEOTl0QVR6aDI5Y3orRXJDd0J0MXZLNXFqTXppUWR0XC9sYW90Y2lvNlwvYVU2T3plRkpEWmJVV3lsaGRYTGRxZ3dEalozXC9wbUhCaytPV2N0M2FRXC9uKzJsNlRoeTg4MktcLzVFK21SZDE1RCIsIm1hYyI6ImIyOGJlNjY2ZmM1YTM2MDdkNWRiNWFjNzM0M2ZjYWJkNjgyZTFkOGYwNmYxNTIxOTM0NmMyOTU5MmI4MDFhNjYifQ%3D%3D&amp;signature=cbcb134c374530c8ff5f3af279c246cdb0243ef7519b242729407072f99f4fed</image>
+    <start>10:00PM</start>
+    <finish>11:00PM</finish>
+    <date>15 January 2026</date>
+  </channel>
+  <channel>
+    <name>Fox News US</name>
+    <id>FoxNews.us</id>
+    <title>Live: Special Report With Bret Baier</title>
+    <desc>News from inside the Beltway.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IkhieERzXC92Um9sSExqcmFFaWJjN2V3PT0iLCJ2YWx1ZSI6IlVcL0tJQTdYc0VcL0hGTWhrT0Fxa3BoNWQyOGk2QXdYQmI1TnVIclRwUzRzcHg5cnVTODQ0OTNjVXlNeEpFRHVGYW9mUGNPdk5EMXh2XC9EQ2RDVVZkVkh5Q3Q1SkVFemtibERic3FuWDdRZGkwK25nNXdyeVhxWVRxVjU0dU5hTjBtIiwibWFjIjoiYmI4MjU4ZmUyM2ZkM2Y3ZjllYjFiYmFmNDQwMWY0YTFiNjhkMjZmMjdjMGUwNmFmZjBkODc2NjhjYWVkNTJhOSJ9&amp;signature=af281d290becd3c3ff3762cb395cb1921350e225abae58084bc7af9ff264594c</image>
+    <start>11:00PM</start>
+    <finish>12:00AM</finish>
+    <date>15 January 2026</date>
+  </channel>
+  <channel>
+    <name>Fox News US</name>
+    <id>FoxNews.us</id>
+    <title>Live: The Ingraham Angle</title>
+    <desc>Laura Ingraham aims to cut through the Washington chatter to speak directly with unexpected voices and the actual people who are impacted by the news of the day.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6InNNc3YyZ09ZSTRvUmVMYUV2SzNZOGc9PSIsInZhbHVlIjoiWlJYN1BXTXkxRlhpZksxYnRCSjhraDlhT1YzMUZ6WmMzTndkcEVOMFU3TXpPVkJQUVhHK3ZFUlZBOFFyNDBSV2U2Z05OdTZGZlpEdGp4dEdiSXB5THZtakwrR21EYTNZU3dLQjZ2YkJ6V3JSMUpyOFZRS3JWUXpzMjVpZzBuWXIiLCJtYWMiOiIxMWNkNTkyOThiZTdlMmFlNWViMjFlNWQ1ZDhkMzNlN2U4NDEzNDBiYWVkNWY4NGM4NGU5M2U5OGZhYTFjODBhIn0%3D&amp;signature=414a8cc32ecd4d6b9cae07403a710a0ac92de0d294b45111a43a4ce39718c8f0</image>
+    <start>12:00AM</start>
+    <finish>01:00AM</finish>
+    <date>16 January 2026</date>
+  </channel>
+  <channel>
+    <name>Fox News US</name>
+    <id>FoxNews.us</id>
+    <title>Live: Jesse Watters Primetime</title>
+    <desc>Jesse Watters speaks with newsmakers from across America to present news with a clear and direct approach.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6ImNCa0hpXC9kSWtBOFhUNGQ2Z2hWUUN3PT0iLCJ2YWx1ZSI6Im9NZ2QrZDJCdGRxNjJtd0xNTGhcL2FtaTliVmNNRFdlZ3llQzlXbFpOaFRsZFJXTENXb2lcL0hqTFNJS1BQeDFiaWRWSzlsU2RPd3NLU0l6SktqOGpxdHlLcndDbmVEQkRtVUgwZTZWWllQUFN0cDMwTndWSWNjU2FoaStSVVcxN0UiLCJtYWMiOiIwNmRiNzY0MmI2ZjZjZjg1MzA5MDkzZTg0MGRiNDc1YjBjNjVlNjdiNmQ4OWRjODM5YmMyMjVjNTMyMDI2MWM4In0%3D&amp;signature=3dc416b1e251415220853abd954ff280baae7ed94fe9875f9fff9b771690bb28</image>
+    <start>01:00AM</start>
+    <finish>02:00AM</finish>
+    <date>16 January 2026</date>
+  </channel>
+  <channel>
+    <name>Fox News US</name>
+    <id>FoxNews.us</id>
+    <title>Live: Hannity</title>
+    <desc>Host Sean Hannity interviews political figures and newsmakers and offers his own conservative perspective on current events.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6InQ3SnZcL3ZjRXdYSWIwM3kxUkRnajlRPT0iLCJ2YWx1ZSI6IkNTWCtTUGdDWXZBOFcwbGk5dEU1ZUdLMHY5bVpINkNmQllZTnlaWEZibDB1UEhpWGtoTVwvZkMrYWR1c0dPbzVmdldOamxaT0ZTaTBQVm5NUW1LUml6Q2lrRWx2a2t4RDJ5aHdSSmlIWXBRMGdBZkVEaXV0R2tScG5HaVBKbTVERSIsIm1hYyI6IjdlMzA3Y2M3M2M3MDU1OTMwZGE0ZGI5MmRmYmI5NWU2MjhjMDcxMDRmZWM0MjRlYjVjNjY1MDc1NDc4YjQxNmQifQ%3D%3D&amp;signature=63b0946309fea1c19067f8a194d8068da5d268df74b89f2702e7c8d2dfc27fff</image>
+    <start>02:00AM</start>
+    <finish>03:00AM</finish>
+    <date>16 January 2026</date>
+  </channel>
+  <channel>
+    <name>Fox News US</name>
+    <id>FoxNews.us</id>
+    <title>Gutfeld!</title>
+    <desc>Gutfeld looks at the news of the day through a satiric lens fused with pop culture and features refreshing takes on the day's top headlines from FNC personalities, authors, politicians, veterans and comedians.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6ImFGaDFwcVRqMCs1cjFHK0dabUNTOUE9PSIsInZhbHVlIjoiYXNPdCt6T0ZDenBzWDJGS1lQMFNRQUdIS1d6dFhtZjFWOVkwVzJrbzVTQ1VaT3VKcndJZ3ZPNzJONCtWanhHQkxWdmdjaThIaEdFS3JENDNVVzJZR1RpQ2FjRFBhUEVVT0ZFWXB2T3J6ZjRwTlJQQXM4eWtrdUZKUkdvUVZVUisiLCJtYWMiOiJmN2QwNjc1NzI2ZTJiMjJkMGQ4YzUzYTVkZjdiOGE5ZjcwYWRkM2IwMTllOTRhMmVkZGQ0NTRlMWMzOWE4NWUyIn0%3D&amp;signature=2c1f5af047756698ff373b8bad2e14427eee4563cfefb6b3bae0669e91ca733a</image>
+    <start>03:00AM</start>
+    <finish>04:00AM</finish>
+    <date>16 January 2026</date>
+  </channel>
+  <channel>
+    <name>Fox News US</name>
+    <id>FoxNews.us</id>
+    <title>Live: Fox News at Night</title>
+    <desc>Hard news and analysis of compelling stories from DC and across the country; journalists provide viewers with must-see information and consequential news.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IjFiaE5ZWk93cXhsTjlnMTJjQXh2ZUE9PSIsInZhbHVlIjoiZnJjTkVSZjlUVVpPVU1MK0xwb2tFRkc1aVB5dEhETXV2YjlQY1EwZVNXNzZuYVdBMUc4dm1HQ241eXJ5dmJnVE9NNnp0MkhudXhcLzFTQ1k3NE44V3FJUTJiakpsXC9GaE5zc0ZpSkp2bVV1aDM0MXZ3YUtaNGl0U1wvV3gzeDNPblciLCJtYWMiOiIyNTE0MjJlNjE0M2NiOWIxOGUyMTlkYjY4YWNiZmMyYTFiNjk5YjJiNjAzNTQ2MmYyMTkzMGM2YTgwMTYxNjM1In0%3D&amp;signature=1f0a08ce8583d262001ac2335ed274cb2b1d513863a5434ed0a3e63fa3d8ca1d</image>
+    <start>04:00AM</start>
+    <finish>05:00AM</finish>
+    <date>16 January 2026</date>
+  </channel>
+  <channel>
+    <name>Fox News US</name>
+    <id>FoxNews.us</id>
+    <title>The Five</title>
+    <desc>Dana Perino, Greg Gutfeld and Jesse Watters and rotating liberal co-hosts Jessica Tarlov and Harold Ford Jr. discuss and debate the hot issues across the spectrum from politics to pop culture.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IndpTFZoRFNrMDZcL05ZUmFnUXQ0a2l3PT0iLCJ2YWx1ZSI6ImZValwvRjB5a2hXMHplYm51TU5tMGExc2tDRkhhQnk5MWpjZmd0WTJmbUt6cEVNc1JhZlZtTVBBK0FPbUVxQVBLYWRYWUVQazh2azUyU0VRN2ppZkw5OEhTTjY2OXlLa25RdGVPQ0F2M0V1dVNJd1lwbVwvcncxU293U2cwK2FybHoiLCJtYWMiOiJiOTI5ZjQ4NjAyYzg5OTZkYTRiZDM0ZWE3MDUyMTYzZWJlYjQ3ZGE1NTJmNDZhYzQyNDM3YjJlZjEwMDM5ODZhIn0%3D&amp;signature=9505c8a5f97f063217a2010a76b6e0ae02686ea0c14167fd047e5de4f5efc8c9</image>
+    <start>05:00AM</start>
+    <finish>06:00AM</finish>
+    <date>16 January 2026</date>
+  </channel>
+  <channel>
+    <name>Fox News US</name>
+    <id>FoxNews.us</id>
+    <title>Jesse Watters Primetime</title>
+    <desc>Jesse Watters speaks with newsmakers from across America to present news with a clear and direct approach.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IjZIb2E4UjN2V1VoYjU3M0tYZlhTdEE9PSIsInZhbHVlIjoiVFA1WTQ0R0ZtWlEyWnNKVW4wSU4yeTR6VnhuSkJ1MjkzNk1rZmxOdE43R0Q0R2xZdmhSMFc5ZG1NMTlSTElDOFpsVFQxSXNFUW93K05Ta2hjM3NnTElIaDE3bGtPeEpuU1F0UTA1ajVjT3RYQlZkNGo0d1RmaUNPY1RPM0tzMjkiLCJtYWMiOiIzMTVmNDJhZDk4YzNjMDZhNDczY2MzMzNkNjdmMGEyZDczOTNhNzNiYWI4MTQ2NDVlNGNiYWY5YjFhMjY2MjQ3In0%3D&amp;signature=4a5fbd7eedd41b8e4c9d8540d83bd8f082b977e8202754bc1649ab6a9e26c0db</image>
+    <start>06:00AM</start>
+    <finish>07:00AM</finish>
+    <date>16 January 2026</date>
+  </channel>
+  <channel>
+    <name>Fox News US</name>
+    <id>FoxNews.us</id>
+    <title>Hannity</title>
+    <desc>Host Sean Hannity interviews political figures and newsmakers and offers his own conservative perspective on current events.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6Ijk2V0h3THVjOFlPaE9Za1o4bkRXSWc9PSIsInZhbHVlIjoiendcL1lzT0VsRDlCYUNsMTdaVmN1SFM2UWxRY09pa2dpc1pabWFtSVRXSFU4YmZQZHRISXBpeTk0N1dGNFpLZmxkZU1xV1BUZHJ5anNQaTdlK3lvSTlmdzdIXC9kQ0RETVh0YnZzKzVnUThjdFpLTVE5UDJlNjEwalZtbnptNWpobCIsIm1hYyI6ImIxZDA2MmUxODIzZmU4YjNjYzRlM2RiNmZhZTI0YmE2MzFkZDA2OThhZGQyYTA4YWIxYmE5YTdkY2M2YmIzNTAifQ%3D%3D&amp;signature=e5c59446f999ba9743ce591cbc753cfab9925bcae3b953147611169faa06f84f</image>
+    <start>07:00AM</start>
+    <finish>08:00AM</finish>
+    <date>16 January 2026</date>
+  </channel>
+  <channel>
+    <name>Fox News US</name>
+    <id>FoxNews.us</id>
+    <title>Gutfeld!</title>
+    <desc>Gutfeld looks at the news of the day through a satiric lens fused with pop culture and features refreshing takes on the day's top headlines from FNC personalities, authors, politicians, veterans and comedians.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IkFURXVSNE1BQjJETThWakxcL291ZHdRPT0iLCJ2YWx1ZSI6InF2ZWJaTjJaV0tOcFlVODNLR1h6SVJ5MlI4S3d0XC9Ca1dackE5a010Y2ZFOFBHTHNuNU5Zcm5hRHB1NW1uKytVbHdweCtYZUw3R3I1SVJuSTFOUGJxNXJQT1FieHNDRGJXVWFFZjRmOWVtT3NuMCtWbkx2Tys3MUZXYnQ1c1o5YyIsIm1hYyI6ImUxMmU4NzZjMDUwNWZkNzA1Zjg0ODk0MjZkZWEzMzgwMTFkY2NjMmQ5ZDcwMGM3NDhlYTEyNDFmYjAyZjdlMjIifQ%3D%3D&amp;signature=9798d2ebbd483fd23a894f8ea172e21e8fa7dc5989ec3731fd16c5d1c03492b9</image>
+    <start>08:00AM</start>
+    <finish>09:00AM</finish>
+    <date>16 January 2026</date>
+  </channel>
+  <channel>
+    <name>Fox News US</name>
+    <id>FoxNews.us</id>
+    <title>The Ingraham Angle</title>
+    <desc>Laura Ingraham aims to cut through the Washington chatter to speak directly with unexpected voices and the actual people who are impacted by the news of the day.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IlF0ME4rQ21ialcwQVZMUXl0YUhEM2c9PSIsInZhbHVlIjoiWDBUTkY4Vk9vV04wTGJ5TGthc2ZPckhJMjVJbGF3MnlDd0NkRWxXNW1tWGtoNDZoOTUrSUxxNXArSU9KU1p3K29ma2t1emxHSXdkMlJuV01YSmwyYTVtYmF2WWx4Mnc0S3RtZ2syTUozc2NMK2JpUWxyNXpaajBvV2M0SGJYR3EiLCJtYWMiOiI3MDhlM2YyZjU5MTE1ZTBlOWM2OWJiYTJkOTc3NWViN2I3MzJkYWMyNWQyNzNhM2I2N2NmOWM0MTMwY2Y2NTJhIn0%3D&amp;signature=57cfc56a57462ec6d1140108e5f2d24cabc3728f249e67fe30dca1ad3e54c759</image>
+    <start>09:00AM</start>
+    <finish>10:00AM</finish>
+    <date>16 January 2026</date>
+  </channel>
+  <channel>
+    <name>Fox News US</name>
+    <id>FoxNews.us</id>
+    <title>Live: FOX &amp; Friends First</title>
+    <desc>Hosts Todd Piro and Carley Shimkus present all the headlines viewers may have missed overnight, along with a preview of upcoming news events.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IkJyRllaVTNxdUVnd2N0OUJ0dURodHc9PSIsInZhbHVlIjoiaUUzSk84QVFDSXFvWnhkTlhGaTNcLzZudTBsaENtbjM5YVwvTUFcLzB4Z3R6blhcL1N5aFpLMlp2Y2hENVpxMyt6WnA5WnYyQXNXOFNJMk9mR3Q3cVI3cm9MeWhiK2JRU3JuVEZTWnk4Z0g4XC9tem9JTnhPaXRHak0wTCtlOTJtNDJnTyIsIm1hYyI6IjNkOTQ0NWE0MWYyN2M1OTg1MTA2N2M3ODY5NzBhYjQxMDI2OGE3NGU2MDVjOWJhOTJiZmU1OGZlZjIxZjM2ZjkifQ%3D%3D&amp;signature=bb5c1809c1e8b6acf42a3a9ebeb00fc1e1ec929dc59a5e15921f07bfa1e9f6d1</image>
+    <start>10:00AM</start>
+    <finish>11:00AM</finish>
+    <date>16 January 2026</date>
+  </channel>
+  <channel>
+    <name>Fox News US</name>
+    <id>FoxNews.us</id>
+    <title>Live: FOX and Friends</title>
+    <desc>Co-hosts Steve Doocy, Ainsley Earhardt, Brian Kilmeade and Lawrence Jones highlight the latest.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IlwvQjl3RDFrNFF4SU02bUpiMTJwZXl3PT0iLCJ2YWx1ZSI6IkZ0b0tpeGpQaDdrdEVcLzIrT1pRRTJKQktsTWlKUm92RGdjSytNTVdlUFVMTGsrZmYzZW9nNWppUmZsK2tzM0tUM3RHUEJ1YWV5b3VvdWZUXC9Kc0JlTzRhMlROb1hrMGtPK0w3T1pvZkV1TnZaY1VhVVFyS3ErRUlkdGNmUmxXbFAiLCJtYWMiOiJkODM1YzQ5OTFkNTU4MmY1N2IyYTU2OWFjMDI5YjdhNWQyY2E0NGJlMmUwMmFhNTc3MjRiMGZkMjU1Nzk0MjRhIn0%3D&amp;signature=30e7772b1b633bbbbfea94e054d295c0c03efbf9b3afe0e04eb7f21cedb006f4</image>
+    <start>11:00AM</start>
+    <finish>12:00PM</finish>
+    <date>16 January 2026</date>
+  </channel>
+  <channel>
+    <name>Fox News US</name>
+    <id>FoxNews.us</id>
+    <title>Live: FOX and Friends</title>
+    <desc>Co-hosts Steve Doocy, Ainsley Earhardt, Brian Kilmeade and Lawrence Jones highlight the latest.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IkFWMkx4NUJBdm9lWEVNSURhVDA1RkE9PSIsInZhbHVlIjoiYmNZdWZ4ME9kYzZoMFVzdmZUa3M5b1dIUUVqUHlPd3hua0l0aGsycWUrU3grb3Y3d2huTWdjMlU0cnBySW5ucTlUTXloOHpTZkpjMTM5eTdZV1hJWHViWXZOQlRZamhTM21JSVE2aXpcL29RNlZZUlR2WmYyZlZWMnNUS1JmTlJJIiwibWFjIjoiMGM5NjNhNThmYjhiZjhkYzFiNjUyNWVmMWM1YTE3ZjI4MTc1Y2Y1ZmVkYjcwZWE1MmQ2MTYwMDdjMWZjZmRhMiJ9&amp;signature=7cc59eb462fffefd178d0c962007083056e209da634ee708934708bca372f574</image>
+    <start>12:00PM</start>
+    <finish>01:00PM</finish>
+    <date>16 January 2026</date>
+  </channel>
+  <channel>
+    <name>Fox News US</name>
+    <id>FoxNews.us</id>
+    <title>Live: FOX and Friends</title>
+    <desc>Co-hosts Steve Doocy, Ainsley Earhardt, Brian Kilmeade and Lawrence Jones highlight the latest.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6ImhBVnJWV2llNk4zTUlpSmZtYVcwMFE9PSIsInZhbHVlIjoiNHBtaHVzaEhuQ1orRHNkSnNYb2tjZnEwYVNLRXBXbnh6Tlg5c0RMTnNQd2xjcjdWTURjMExPRnVpS3ZRSFFcL1hsODFLbE00bnJ6T3dheXljZG1vNWJRdlVUQmFCSmxVeUFHaXI3SXFrNDJKbDdrd3JEcEFyZkRZdSsyYjJPQjl3IiwibWFjIjoiODQwZDA3MDEzY2M2NjZjMWE0N2IxNDRkYmNjNTU1MDhkZjllZDYwZWY1OWZjYzZhYTQ3ODllMmJiMzAxZDYzNSJ9&amp;signature=f59919224a27a655722f84ba4641c7b2e184268704ef42f602e5348678ce08fb</image>
+    <start>01:00PM</start>
+    <finish>02:00PM</finish>
+    <date>16 January 2026</date>
+  </channel>
+  <channel>
+    <name>Fox News US</name>
+    <id>FoxNews.us</id>
+    <title>Live: America's Newsroom</title>
+    <desc>Bill Hemmer and Dana Perino cover current events happening around the nation and the world; guests pertinent to the news topics are interviewed and viewer emails are also answered by the anchors and guests.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6ImVJNW0wRk9uUVlGK1Vva2p2dTNPV3c9PSIsInZhbHVlIjoiM1VXd1NcL0tmXC82S3RiWnY2ZFVmUGZcL0dWZllabVBFRE5BdnBZOGhEaFNUaENCWU5HaE9NcnVJSml6YVdYV0N3Z3R5d1FlVmJJcjh1QjVLMmhuMzIxcytUUUU4S0tmb2hTMEM1YmR3ZFF1Z1ZPUmNOMDV2V1djMHZWbnhFaTVpQzMiLCJtYWMiOiIzZmFlZjA2YzE1MzRjY2FkYmNhNmQ4YTgxZjE2M2Y4Zjg0NGFlZWM1YzY3OGY5NTAxN2Q0ZGJiYzk3NzQ5ZjIzIn0%3D&amp;signature=8e40d0a4b400cd794972bd1da20f2f10d5500ab89491864486b2bba9d2073c9b</image>
+    <start>02:00PM</start>
+    <finish>03:00PM</finish>
+    <date>16 January 2026</date>
+  </channel>
+  <channel>
+    <name>Fox News US</name>
+    <id>FoxNews.us</id>
+    <title>Live: America's Newsroom</title>
+    <desc>Bill Hemmer and Dana Perino cover current events happening around the nation and the world; guests pertinent to the news topics are interviewed and viewer emails are also answered by the anchors and guests.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IjVGYnNCeVN2ZTdwNGVUVkYraVJreFE9PSIsInZhbHVlIjoiQUFSZ2c4blwvc212aWE1enpOSnVSRmJ0T1hzNmZOaXlSMzNLVzRXejgrQjVCQithM0wzc3d3VzU4NU1taXlFc01sN24wSlhESGloYVBjMXlEUWljZVNYa2ZVVDNtUlc4MDcyaWxBUTQ4bEJuN2k4QjJueDJTTkF1WnhqSndHa1gxIiwibWFjIjoiYTQzNDI0NmQ3ZTgzYTdjNTA4MzE1ZjI2YzFlZGZkYzk5NDMzNTk1MGE4ZWI1YTJmYjhiOTNkMjI3MTNmNjI5OCJ9&amp;signature=53b90f8c3a0b1d48b6ad2a8e911b46a976c23c4f9418e812d9736a297fd19ba6</image>
+    <start>03:00PM</start>
+    <finish>04:00PM</finish>
+    <date>16 January 2026</date>
+  </channel>
+  <channel>
+    <name>Fox News US</name>
+    <id>FoxNews.us</id>
+    <title>Live: The Faulkner Focus</title>
+    <desc>Emmy-winning journalist Harris Faulkner provides the latest news with insightful analysis and interviews with top newsmakers.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IlRQdlpcLzVMWlhZU0dDbjQrc3JQMFpnPT0iLCJ2YWx1ZSI6IjJZT0VIcTBpdFprT0l5R0FnYXczb05LWlk3K2tRRTZFTUtIbjFTZEJkYVp2YXlHM3k4amQ2eG0waSsyV1FhcVkxUkhzNlRTQThYaTlUTDBIcUNQekRxbGZqVGpzZ3o3OXBEVDlyZm9KMGx2Wm8yQzRwQnVLbndtMXJ4VlpVMjdTIiwibWFjIjoiYzQxOTBhNTJkNWE5ZmE1OWJkMmFiMDBkZWNmZTE3YmZjOTY3MmNlOTBlMzRlMzZhMmQxZGI3MWI4MmRkYTUyZSJ9&amp;signature=6488464d68fab6fc896ff3585d1a3e1cf74e0308c5809d8a4ef6740a829bc1f2</image>
+    <start>04:00PM</start>
+    <finish>05:00PM</finish>
+    <date>16 January 2026</date>
+  </channel>
+  <channel>
+    <name>Fox News US</name>
+    <id>FoxNews.us</id>
+    <title>Live: Outnumbered</title>
+    <desc>Four female panelists and one male colleague share their perspectives on the day's top news stories.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IjJ1enlGbG5xZVlrejFIYUhGS2ZZQVE9PSIsInZhbHVlIjoiXC9zek1WZTFHRElTUmZDbURNODVOU1RIMjRrQWw0eUNadE5lOFhEWFU0ZXgxTW9MM21MR3NhZkMwdjd6WGJGalltK2Z4NzByYWZuOWtZRkxuVnBFNXd4cWNrZElKV05LRnJ0MVNCQ0tVSTdJcXpQKzJvRSs0SFg0d1FZb29uTHU0IiwibWFjIjoiNjEwYzY4NzZmZTRlMjg4MmIwMGQ5OTEyMDE4NjlkODU5MzljMWQxOTAzNTE0NjlhN2QyM2I4M2EwM2MzNjc0YiJ9&amp;signature=45c99377ba0280c5c498295d5a5d5c5d54f87a46a6ce6f770d0a0957fd061cb6</image>
+    <start>05:00PM</start>
+    <finish>06:00PM</finish>
+    <date>16 January 2026</date>
+  </channel>
+  <channel>
+    <name>Fox News US</name>
+    <id>FoxNews.us</id>
+    <title>Live: America Reports</title>
+    <desc>A look at the latest news and headlines with Sandra Smith and John Roberts.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6Ilh1TnNWa2YzTFwvYUhWVnBKRDFUd1JnPT0iLCJ2YWx1ZSI6Ik1VOHloV3ZWaDBvVUFXa1M1YTFPc3RDbzBxZWZhblM1MFNkU1RMS3ZXV2JUMWZYTGJyelVrZkVMRk8rbVZ0QTJHT0VSU3BKMWJEZXQ5ekFhQkRtOU1uMlhLUGYwcUtjbDByTmxHaWROam02YytETU1HQ1JTMXgwSHpRWE1GejFVIiwibWFjIjoiOTcyNDM4YjZmM2I0ZjI0MTMwNDliODgyMjhkZGMzYzBmYTYxODMxYjcyMDViNDBkMjkxODJkZGMzMWI0Y2QzOCJ9&amp;signature=a53279c5afa629bd7924b42124be9dd7700e5c758b244332a780f0c01ca02322</image>
+    <start>06:00PM</start>
+    <finish>07:00PM</finish>
+    <date>16 January 2026</date>
+  </channel>
+  <channel>
+    <name>Fox News US</name>
+    <id>FoxNews.us</id>
+    <title>Live: America Reports</title>
+    <desc>A look at the latest news and headlines with Sandra Smith and John Roberts.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6Ikp5WmVIUm5FaTdOQzd2cE1BNnQ1Q2c9PSIsInZhbHVlIjoiXC9MYndTYlhyZDlybFg3MlwvWmM3d282U3VNQ0JtUHRxbWtCSE1DdTdESUUwSG1Ca1Jxd3lIZm4reU5SSWtpeDVNK04zcURBMCtzbmpBOERaajZHM1wvYnhNSEVnUkRCdUxZcmRGXC8xSlNYRHlLUUxKcUhKdUZxdGpcL0tEM1wvRmgzbWMiLCJtYWMiOiJiM2M2NjdkMzdlZjcyNTAxM2EzZjU3NDNjY2FmNzJiNzI3NTA2MWRkNzNkYzc3NDAzODA3OWMxYzhhMjliNWEyIn0%3D&amp;signature=2215ba919d1a5decda686baaaa6868910cdaaedc3bf4fa59db8a5f3392d52417</image>
+    <start>07:00PM</start>
+    <finish>08:00PM</finish>
+    <date>16 January 2026</date>
+  </channel>
+  <channel>
+    <name>Fox News US</name>
+    <id>FoxNews.us</id>
+    <title>Live: The Story With Martha MacCallum</title>
+    <desc>Martha MacCallum brings the story of the times with her tough but fair interviews and straightforward analysis; &quot;The Story&quot; captures the voices that need to be heard and the people at the center of every history-shaping moment.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IldOenZJTUpqYVhIVWhEQzE1NlkyYWc9PSIsInZhbHVlIjoia1pCQ21qZ251SkpPc0s1Nmoya2IyOUpqK29xRFB3VjZ6aXlmQkJEVWdcL05QYjhIZmhGQjJyNHM4a0RKbnNqXC9maDFORDhYbnU3YmtzSkdEemQxbWtmUDBZeHJWYlM3SEFwK1NMamdRVnE1OFgxZXp5VERZK0FNbjU3YnFwREZxZyIsIm1hYyI6IjVlNjVmMzdjMTMwNDY5ZTM4OWZjNzhlYmVkYzU5NjNiMDhkODZmMjM5MDYwMzE2MmY3MTFmNWZiZWE3ZTY2MzcifQ%3D%3D&amp;signature=e9937685a257c3a1f9477589ef1c32f105245b1a91135f5365d720eb4b7056cd</image>
+    <start>08:00PM</start>
+    <finish>09:00PM</finish>
+    <date>16 January 2026</date>
+  </channel>
+  <channel>
+    <name>Fox News US</name>
+    <id>FoxNews.us</id>
+    <title>Live: The Will Cain Show</title>
+    <desc>Featuring Cain's signature podcast style and thoughtful perspective through conversations with newsmakers across politics, culture and sports.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6ImZRRDg3XC9DaEJzdTBRNDdRZ2VMaVpBPT0iLCJ2YWx1ZSI6IkNQOTZTdEZoRHlyVXhPK0k2akFnTWl1eUVYUDNrZXJIekxhTm5tRkhuU3lvSHdISmoyc3F5RkoybWZPQ2IyRHBaZVFvWVVtSFlRdWZRaUllejJ4SWVmY3VpZmJDYnhZNjV0WU1vXC9KN0dxc3FCXC9FSnpzblRrbFhIeFI5NTJYamwiLCJtYWMiOiI1MmJjYzY4ZWYxOGRiODE2MDU5Yzg5YTBmNTU2NmQ5ZmI3MGRjZWJhNDJkNGQyNGQzNmNkODM0OWQ4NDI3MTIzIn0%3D&amp;signature=e2b0476a7a491682d613cfc675b2f399ecbb77b929505452d255abad16c2b0be</image>
+    <start>09:00PM</start>
+    <finish>10:00PM</finish>
+    <date>16 January 2026</date>
+  </channel>
+  <channel>
+    <name>Fox News US</name>
+    <id>FoxNews.us</id>
+    <title>Live: The Five</title>
+    <desc>Dana Perino, Greg Gutfeld and Jesse Watters and rotating liberal co-hosts Jessica Tarlov and Harold Ford Jr. discuss and debate the hot issues across the spectrum from politics to pop culture.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IlFWa2FqWmJqaEZoMnVNbW9YUncrenc9PSIsInZhbHVlIjoiNmpOckNtK25mSjRhbUpnR3dNQ1puTTJRdjMyUFh3dWQxTU1KTW94Qnp4R0dvaFwvNGRXQWpVWGM3ZmVZSk5zYXh6RXBcL3hvc05aQ29vKzA1N2VINzM5NUtcL2JxdzBXejBOSEx5UDc0d3dsTXNlVlJpWnRBTkExN01Kdk1uSW4zRGYiLCJtYWMiOiJmNTJlM2Q0ODhlMGVkMDc0Nzc3NmU5NmY0ZjdhOGIyMDY3ZjQxMTE1NGI1NDJkMDNmNzNhYTQ1N2FlYTNmOTM2In0%3D&amp;signature=66f903537d1b6c337e9d8f08c95b177ab2b54ac0395ff46afce238ce2c095f0a</image>
+    <start>10:00PM</start>
+    <finish>11:00PM</finish>
+    <date>16 January 2026</date>
+  </channel>
+  <channel>
+    <name>Fox News US</name>
+    <id>FoxNews.us</id>
+    <title>Live: Special Report With Bret Baier</title>
+    <desc>News from inside the Beltway.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6InBRYWVQMGo0TGxQZFhaUVdrRkZtd3c9PSIsInZhbHVlIjoiMDFrZEh1enRtbGhUaEpKOWpTZzJ3MmdUekQ1T1RcL1BQV0gyanc4N3JwVFU0NDFUcTl6c1VRMHpBRUprNmVEZE5GYjkzM0dDU1l3R09mSnRnd0swQ2VLMDhXbmg1OHRlazZZR3FJWWo0UTA2WHlaN2RISUg2YjRJaEE5WGIwVm9pIiwibWFjIjoiNGUyNTUxNTU1YjZmODVmMjA2MDliOTg3Y2IwYjhhZmE1YzdlN2VmOThkMDJhZWI4MjNmYWFhN2ZjMzdiOTgyOCJ9&amp;signature=d0032ed3e2ae09891095afec7987af717df9c27282d1a7d9445ff047faecf022</image>
+    <start>11:00PM</start>
+    <finish>12:00AM</finish>
+    <date>16 January 2026</date>
+  </channel>
+  <channel>
+    <name>Fox News US</name>
+    <id>FoxNews.us</id>
+    <title>Live: The Ingraham Angle</title>
+    <desc>Laura Ingraham aims to cut through the Washington chatter to speak directly with unexpected voices and the actual people who are impacted by the news of the day.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IkJoXC9sZSt6dE9OenR1WDJmNnc3QytnPT0iLCJ2YWx1ZSI6IllEQVFDRFBwTERoa01USG1qdGZDMUxcL3RBSVhpbitQVVZ4WW9XT1JJc1NlOEZEWkp2d0RQcXdhdm5PTGdCWkJUa2s5d2cydXhJUXF0V1l4VlZxMmVzM3hIMGlOT2tta1VYVEJNUUlSblRRNWh4RFMybXlFcW11UVkya1dIVnhPQyIsIm1hYyI6ImIxMmNmMjJhZTdlOWIxNTNkZTUxNTkwZTJhZDlhMzgzN2E5M2FhMzM3NjM4YmEyYmQ1MzQzNDY2ZmJlYjg5NDgifQ%3D%3D&amp;signature=ff2a96a40f0942d2375041e70fff7bd50daf5afac30a2d2cb05954d2fc730745</image>
+    <start>12:00AM</start>
+    <finish>01:00AM</finish>
+    <date>17 January 2026</date>
+  </channel>
+  <channel>
+    <name>Fox News US</name>
+    <id>FoxNews.us</id>
+    <title>Live: Jesse Watters Primetime</title>
+    <desc>Jesse Watters speaks with newsmakers from across America to present news with a clear and direct approach.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6ImhJVlZzNVU3OXZHQ3FldnlZUEtaSHc9PSIsInZhbHVlIjoiNEVrNlVLTktoOVhqNndMbFdrOUFOU0xrTFkwaWF2QmJJd2cwYTl2c0w3UXFYSmZrM0c3eFJOWndWS1F6MElLc0oya3VcL0RIbTlmanBkcHZBN0c4bDBFQ3R0XC9xSFkrQzBkTUQ5N2hLUzFLNlc2Y2dyeXRnK1FYUGtGa3hIT3V4NiIsIm1hYyI6IjA5NTY0ZjJkMTdkZjI5MTY5NjFjZjA3NjQ3ODRkYzc0ZjRlZmQyMmY3MjZjMTg1Y2I3YjlmNGM1YjU1YzQyZDMifQ%3D%3D&amp;signature=3f7626bbbdacaca5eb05f7b011bb10b29d97326ce385905253264c796740dc54</image>
+    <start>01:00AM</start>
+    <finish>02:00AM</finish>
+    <date>17 January 2026</date>
+  </channel>
+  <channel>
+    <name>Fox News US</name>
+    <id>FoxNews.us</id>
+    <title>Live: Hannity</title>
+    <desc>Host Sean Hannity interviews political figures and newsmakers and offers his own conservative perspective on current events.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IkxiNU5vTUF2XC9rTlBLb0JKdkJWZThBPT0iLCJ2YWx1ZSI6Ikl3ZGt6b0JBUm1HXC82YkIyR1RWbG5cL2d5K2VveTl6cHQ3N0c0SGJDKzgyUDlDUkowZDRIUGo3dXZhcTZ3M0xvRnlzQ09cLytuTUEzWmdVUjMraWdnNUxBU0Juc3gyVHl6a3ZycG5cL3dqSGRRTUlhRWRJR0V4ZjhVdUFWZG90T0pDMyIsIm1hYyI6IjRhYWQ3NDRhOWJkODI3MmFmNTc3YjgzNmVkMjMzOGUyODJiYTJkNDVhYThkYWU1NGNiNzU1MjA1ZTkzZjNjNDEifQ%3D%3D&amp;signature=d46cad2b865920643977ce695b32a0191d5ba771076f3b43ddd76fae3d1335fc</image>
+    <start>02:00AM</start>
+    <finish>03:00AM</finish>
+    <date>17 January 2026</date>
+  </channel>
+  <channel>
+    <name>Fox News US</name>
+    <id>FoxNews.us</id>
+    <title>Gutfeld!</title>
+    <desc>Gutfeld looks at the news of the day through a satiric lens fused with pop culture and features refreshing takes on the day's top headlines from FNC personalities, authors, politicians, veterans and comedians.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IkhjY1lKaWhkRjRJUFRYR2ZiMWsyRFE9PSIsInZhbHVlIjoieXI0d056M2xoWXF0ekJjU0pqdFRCemRtTlZhQTJQVjFiTk1CU0hUR0Q4elp5ajN2cWdOdURDQjhySFRRYzJiNnVoN3RSTEF6K3VieE1XNWlIUEtXNWlTMFRBUjU3RFhkMUNwTE5YU0NhaVJDU2R3ZmdycEVQaGM4aVpDMXhvMWoiLCJtYWMiOiJiNDI5YzlmOTczYjY5ODhmYWUyYzgyM2FiODVmOGZlOTBlZTQxY2U0NzExNjQyMDBiNjg0MDI2ZDM4OWI4ZTMzIn0%3D&amp;signature=bf4fca6be8eb96acb832feb4748ba94e00ef2ffc782f02e2af367cf0be545d66</image>
+    <start>03:00AM</start>
+    <finish>04:00AM</finish>
+    <date>17 January 2026</date>
+  </channel>
+  <channel>
+    <name>Fox News US</name>
+    <id>FoxNews.us</id>
+    <title>Live: Fox News at Night</title>
+    <desc>Hard news and analysis of compelling stories from DC and across the country; journalists provide viewers with must-see information and consequential news.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6ImxCM09Lc1JSRjNTXC9YOUhOVVFlWWZ3PT0iLCJ2YWx1ZSI6ImRYUzV2aktLNVVOR3lSVDVmaitGRVFVNnFQeWtcL0c3SEloVjc2YlZFa2x5SXFvTjhJeVNBaHVIR0l3NWtYTTVxRFBORUxuUDc4OGFDUUFOeFo2aklyVlZWZDJxNk5ya0JoRHpiM2RReEh2ZnMrTVNSOE1HN0E0N3hrcVZyU1M5NyIsIm1hYyI6IjdlOWZmMmQyODM3OWE1OTVmMGQ0ZTBmYmZlNWUwMTZjODU3ZWQxNTE5MzAyMzA3NDkzNzQ0MTg1ZTRmYTRiNTQifQ%3D%3D&amp;signature=3240d17e4e1fa5a650ddcd9648a150385c2ab9a932a2603b151fdd0758d4ca0b</image>
+    <start>04:00AM</start>
+    <finish>05:00AM</finish>
+    <date>17 January 2026</date>
+  </channel>
+  <channel>
+    <name>Fox News US</name>
+    <id>FoxNews.us</id>
+    <title>The Five</title>
+    <desc>Dana Perino, Greg Gutfeld and Jesse Watters and rotating liberal co-hosts Jessica Tarlov and Harold Ford Jr. discuss and debate the hot issues across the spectrum from politics to pop culture.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IjFQMmZZVFArdGRDTVBkaVZvWGRxT0E9PSIsInZhbHVlIjoiQTNJY3NaTzg1RzgwOWhIbmJBYUs5d1d1U2Juc3NNUEh5QjVWZmRMdHdYQ1dWd3ExNFBhNWc2Nlk4OWNaNk4ySyt6WlRYV0t1YlUyeVR3Z3k3aEdVUnMrWVBzbGlrQllrQUE0dFdiSWswQ1ZyUXptRUZZc3hsNXk0YzBDWnlTeEIiLCJtYWMiOiI3MDQ1MThjYjM2NTQ3MTU1YzE2NzAyZWY3ZTM2NDAwNmIxZjMzMTE5OGI0OTNkZDJhNTRhYTc0NWJjOTIyY2NiIn0%3D&amp;signature=81354d90d3dfc991e69644b43d92a5966d94202e22b08af6c1ed5d3035f936d6</image>
+    <start>05:00AM</start>
+    <finish>06:00AM</finish>
+    <date>17 January 2026</date>
+  </channel>
+  <channel>
+    <name>Fox News US</name>
+    <id>FoxNews.us</id>
+    <title>Jesse Watters Primetime</title>
+    <desc>Jesse Watters speaks with newsmakers from across America to present news with a clear and direct approach.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6InNaS3luMUJlYmRNOG82VTE4NUFlWEE9PSIsInZhbHVlIjoiampXUVl6dmV3dnByc0NMbzJzRks3cE45Q2t1eFwvbEk0bEpveU5FMTFscm5mOFBUNCtNTDdwZFQxVDhHN1d5dUVcL3ZEYk1JUFNGSXJiSFUwR2pYMFgyWEY4R0tWTEowOVQwR3cxVTFpV1BEbk5hcXhUSml3TzVDR2xqQnpka0pwbCIsIm1hYyI6ImJmOWI3ODMwMjZmYTVhNWU5YjI3YzM3ZGRhMjBjMmE0MDUwYjE4ZmZkNDNkMTMwNWM0ODE4MzBjMDBiMzIwYmQifQ%3D%3D&amp;signature=fcca5044ed68e4f890e003dfd971673b35e5e6392cba7d3f0c3dda29b70a71b7</image>
+    <start>06:00AM</start>
+    <finish>07:00AM</finish>
+    <date>17 January 2026</date>
+  </channel>
+  <channel>
+    <name>Fox News US</name>
+    <id>FoxNews.us</id>
+    <title>Hannity</title>
+    <desc>Host Sean Hannity interviews political figures and newsmakers and offers his own conservative perspective on current events.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IjBJcWs5aVpqXC9QeWs2cGI1UXV0WmZBPT0iLCJ2YWx1ZSI6IjVCYUpJNnoxNGVrR3cyc2V5VlwvNTY1Um1hV2RPaHdmWUNXc1hYWTA1MjcyVU9GUzBoZnR6SEsxTnhyWUJMWlBvVGxnXC9GbHBuSVdWUVM3NGhoa3BnQVBwSWxnT1p1UytKZzNCTjR0SWJWa0ZLQ2luK0I3WUlURU5TQ0M0U3N2V1YiLCJtYWMiOiIyYzNiODNkNzcwYjhmNGYzYWY3MzY3YzcwYjdkZjFhN2ZkOTc1OTY5OTMyN2NiMzhlNmIwMWJiYWNiN2NhMWJhIn0%3D&amp;signature=894a733c8e234f6803cf484dd3ff74c599407ccb5e47d012d6d83a73e7f41e45</image>
+    <start>07:00AM</start>
+    <finish>08:00AM</finish>
+    <date>17 January 2026</date>
+  </channel>
+  <channel>
+    <name>Fox News US</name>
+    <id>FoxNews.us</id>
+    <title>Gutfeld!</title>
+    <desc>Gutfeld looks at the news of the day through a satiric lens fused with pop culture and features refreshing takes on the day's top headlines from FNC personalities, authors, politicians, veterans and comedians.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6InV6cFlcL21ZYU9EZGMzQkIrMm5peFZRPT0iLCJ2YWx1ZSI6IlpZVUlSYXBTQk9lZnRvdE5vNSs1Um4zcldcLzZ4K0RlTjh0eUJTSTBYeFpTeDh6UlBNaVJZaGJcL2tTT3czWTY5WEg3VDVZOHV4WVkxdVlGYXJcL05QODBrbVdVS3lCSXVndDVZV09WS1dHSEhKQXhhcGo2TnB0UUhySUp6aVgxejhNIiwibWFjIjoiMDU2Zjc3ZTYxNzdhODYwYzU1NDE4YTYyMDc3ZjY4OGUwNjQ3MWVhZjc4ZDAzMmQxZDA1OGIzMTJkOWI3NTBlMyJ9&amp;signature=f793d4b5152997dd1242bd7083516731bf2e3732684bf7bea08d972d9e4dff06</image>
+    <start>08:00AM</start>
+    <finish>09:00AM</finish>
+    <date>17 January 2026</date>
+  </channel>
+  <channel>
+    <name>Fox News US</name>
+    <id>FoxNews.us</id>
+    <title>The Ingraham Angle</title>
+    <desc>Laura Ingraham aims to cut through the Washington chatter to speak directly with unexpected voices and the actual people who are impacted by the news of the day.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6Ik9meU1KVFwvM1lHQ1AwUjFWdmdGZlZBPT0iLCJ2YWx1ZSI6Ikt3N3VsOTE3SHJ0UFVJXC9OVGpaeHZmTHZTSVlESkFJTXY2QnBKVVR4VFhqNUIyRnpacGNXR3BRQW9jdWhmWUxETXVsb2dDS3VuSnB5dWNjaDltZXR4TWJhUUVBMEIwXC9cL28zejN5TmFFUU5XUmFDbEhYVVNJVTA0SWZwUThMZlhCIiwibWFjIjoiZjZhNGVjMmQ3ZTdjZmU3N2RjMTcxZmRhYzg0MTllYTdjNzdkY2FmM2JkZWJiNmVjMTY0OTgyMTc3ZDFmNjQzZCJ9&amp;signature=d18e8a987df6aea30f2629e3ccf9d860908b17fe4b95b4f2753fd002274035e6</image>
+    <start>09:00AM</start>
+    <finish>10:00AM</finish>
+    <date>17 January 2026</date>
+  </channel>
+  <channel>
+    <name>Fox News US</name>
+    <id>FoxNews.us</id>
+    <title>The Five</title>
+    <desc>The Five, co-hosted by Dana Perino, Greg Gutfeld and Jesse Watters and rotating liberal co-hosts Jessica Tarlov and Harold Ford Jr. is a roundtable opinion program featuring an ensemble of five rotating network personalities who discuss and debate the hot issues across the spectrum from politics to pop culture. The hosts also conclude each show by selecting a topic of their choice for the &quot;One More Thing&quot; segment.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IjVybmFnVmJlVlJ2N01TS0hVaVowS0E9PSIsInZhbHVlIjoiY0Ixc3JaV3dhd0JvQlNCV1EyYzhMbGxoeGN3eE9RTWNHRFpnM1ZjblZUb2ZEQ3ByeGF5bCtIWkd4eFpSVzA4Q29MMjdEUVJndVpmZnRoSk1QZ2NmVmdTUnljb3dpVzluOVNvT3FNa0NkYzQ5UzRJdExGeDFZTHM4dFVuYlJYSkEiLCJtYWMiOiI1NzQ2NjMzYTFkYzljZWQ4NmIzMTY5MzllMTE4OGI5NTRjY2M4Njg3MDBkMmY4NjdmZGU0MzFjYzEzOWQ2OWEzIn0%3D&amp;signature=994a33d164eedd4f94a0eaa22fb05d40914c3fc5bba7a065e5f48d05a3ee4016</image>
+    <start>10:00AM</start>
+    <finish>11:00AM</finish>
+    <date>17 January 2026</date>
+  </channel>
+  <channel>
+    <name>Fox News US</name>
+    <id>FoxNews.us</id>
+    <title>Live: Fox &amp; Friends Weekend</title>
+    <desc>FOX &amp; Friends Weekend, hosted by Rachel Campos-Duffy and Charlie Hurt, highlights the latest in news, entertainment, politics, and sports.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IlpzQXp2WTBxZ1NseDdBOVR2S2FOTkE9PSIsInZhbHVlIjoiSW0wYVFSbkpYNlpXT0x6NVI5QXBOeDdsVE1rTXdZZnM5dEIwWFBBdWU3TUFxdGtJQk1yRTFyU1wvd3dHOVh5OVBqVnk1Z3dHaDhLT3RNdXVCSDBlZm02QTZrQnRMOG5YNmNKVjBNTWI2V0VBbklpOTJJMDR0WnNsQlY1TmNJekhVIiwibWFjIjoiMjZkMzgzYjExNGYzOTQ3YzY4ODFkOTljMDk3MTAzYWRhOTJhNTg3ZTkxMzc3ZjIzNGYxNTVjNTM3NWIwNjcyNyJ9&amp;signature=fa923f6764999150cd5dbdd513700a0c29ab6c633eb93c3a26904df2dd300cd8</image>
+    <start>11:00AM</start>
+    <finish>12:00PM</finish>
+    <date>17 January 2026</date>
+  </channel>
+  <channel>
+    <name>Fox News US</name>
+    <id>FoxNews.us</id>
+    <title>Live: Fox &amp; Friends Weekend</title>
+    <desc>FOX &amp; Friends Weekend, hosted by Rachel Campos-Duffy and Charlie Hurt, highlights the latest in news, entertainment, politics, and sports.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IjBsNzArNzZCdVZVNVhBVEZkZUZDMUE9PSIsInZhbHVlIjoiVElCWWVhcUVna1U4SlZmMWNxV0xMbm1GSWxOOFNBMmpHcE9iT1UyZ09iM2V4YXVUVEZQSFlJSFhzejVVZzdGS0cxYXdDSGtMT1NqZzBLWHZrdHU2ZU5UZ2pQXC9VNVBpbU4xTk9wSXpMbytRWDlMaXhtU1hcLzdqVHFEaG0wOWY5SyIsIm1hYyI6ImY5OTdlZTdmNjdhMjgxODM1MzEyODE0ZGIzZjZjYjBlOWM2OGI2NWU0ZWRhNzEzNGIwMGVjMzA1MmNmNThlNWIifQ%3D%3D&amp;signature=864296210ac13e249a493d9aa49b8af1f8aa16dd4169ecfaa80764035a164b6e</image>
+    <start>12:00PM</start>
+    <finish>01:00PM</finish>
+    <date>17 January 2026</date>
+  </channel>
+  <channel>
+    <name>Fox News US</name>
+    <id>FoxNews.us</id>
+    <title>Live: Fox &amp; Friends Weekend</title>
+    <desc>FOX &amp; Friends Weekend, hosted by Rachel Campos-Duffy and Charlie Hurt, highlights the latest in news, entertainment, politics, and sports.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6ImtYMW1oTzlMVG9UU2EyWk8reFE0M3c9PSIsInZhbHVlIjoiZ3NsRUdsSGdyY0FZMHo5aEp4YzJaTHlaQVBRSjErN25KQkJQM3VjUU82c2hNNGJ3NWxqYk84bEptVjZ1NUhMYmlsS0U3OEZQZkc5eDlXZWR5RCtFSEQxdXdQN3VIMHp1ckV0Tjc2aXJrVDdlSlRISDU3YWhyUmtsdXNxM2xHbDAiLCJtYWMiOiIwMTRiYWFiNzIwMDUzMzMxYmU4MWU3ZWYxZGUxMDVkMDVkZGU3MGQ0MzMzNmRiYjcwMjgzZDAzYzc2Yjg4MzVlIn0%3D&amp;signature=7131565418f7d179fa6607f66979b60731363528466c8aaec7288c41eec4be9a</image>
+    <start>01:00PM</start>
+    <finish>02:00PM</finish>
+    <date>17 January 2026</date>
+  </channel>
+  <channel>
+    <name>Fox News US</name>
+    <id>FoxNews.us</id>
+    <title>Live: Fox &amp; Friends Weekend</title>
+    <desc>FOX &amp; Friends Weekend, hosted by Rachel Campos-Duffy and Charlie Hurt, highlights the latest in news, entertainment, politics, and sports.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6ImxNQzI5ZXBLSHZJcDlNTlpzNG5YXC9BPT0iLCJ2YWx1ZSI6Ikd5aVpNazJJRnRPSEVDNElTcWljSEt2SG1rMzNZYWtlakF6eTlCd3I3ZytNcDlObGl3S0d3QUw2S2JCK0lLckc0MFBRaEI2bE83OWVHOTlzb09ZRTJXSzlSRnltcWt3ZFZVS3BFdkhTZ3NuNDlMZm42dUN2WjJ1RUp5V0pTSitPIiwibWFjIjoiYjE5ZDlmNjQyOWM3MzgzNTJkZDZmZjgwOTE3MTA3NjhkZmQ1ZmQwZDMzMzYwNDVlN2NlOGUzMzBmYjgzNWUxOSJ9&amp;signature=fe8c610019e8253b7164e9b49771dba4f7c47134fb05ed51e96d7fe096674683</image>
+    <start>02:00PM</start>
+    <finish>03:00PM</finish>
+    <date>17 January 2026</date>
+  </channel>
+  <channel>
+    <name>Fox News US</name>
+    <id>FoxNews.us</id>
+    <title>Live: Saturday in America</title>
+    <desc></desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6Ik5KdzdcL0ZHeGNDUElDXC81a0Y5dTNpUT09IiwidmFsdWUiOiI5MVNqTFd6cmRQZVczV3FFRmVRc3o1bnpQXC9PS0NTVWIxT0Zya3YyckdnWTZ2QzRSQzR6QzY0ME5ScFBYTExUYVJxMHk4WmhrRTBneFFPVUVmVzd4dUkxMEZpbTdJdEY2NGc5Qnl5dVwvMWhrVWJ1QXBza3JCNmNpYjdJZ3p3Tlp1IiwibWFjIjoiYzUyNzVjYTIyODAwZjY2M2IwNjM4ODQzMjM3YWUzMzE4YTA3OWQ5ZjQwMDRhMDIyOTk0MTE4NDU3Y2FhMTE4ZSJ9&amp;signature=871a22b65962d4839f41eec7e79ca6835dffab4fb043bc94a4c895b26fe21ce2</image>
+    <start>03:00PM</start>
+    <finish>04:00PM</finish>
+    <date>17 January 2026</date>
+  </channel>
+  <channel>
+    <name>Fox News US</name>
+    <id>FoxNews.us</id>
+    <title>Live: Saturday in America</title>
+    <desc></desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IkRYOTNyM1NtYldOb2ZseWw0V20xa0E9PSIsInZhbHVlIjoielJCbU9scXpwb3p1Nyt3THVMTlFnb1A4cmJuV3hjVkdWXC8wUlo1OUQ3SWNxQnF2ZnBqN1BSU0dLc2h0SExyb05tYWpIR2txcEFKNDlPMWpMT3BmQXo2Sm9mNlprVUZTYm5namNqb1VBQjBNMFVyaHR2eDJCUGFFRndPK2VmYldTIiwibWFjIjoiNWE3ZDExM2JjZWZhMmIyYTM1MGIwMzYxZjc3NWY3ZjdkMTM3MDkzZTZjNzkzZDg3MzhhOTdhOGVlZTNhMDQ3NSJ9&amp;signature=d6aba46b973ece0329bdfd96e293d53331df9796d46d76a00035b83393149a3d</image>
+    <start>04:00PM</start>
+    <finish>05:00PM</finish>
+    <date>17 January 2026</date>
+  </channel>
+  <channel>
+    <name>Fox News US</name>
+    <id>FoxNews.us</id>
+    <title>Live: Fox News Live</title>
+    <desc>Covering the latest news on the economy, society, sport and culture, with insightful analysis and expert commentary.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IkdBWUpsbUlKQ1E0OW04TjB1RkF4dUE9PSIsInZhbHVlIjoiWnVrXC85WElJM09ZUWpUTlVKaWpYUlg0XC9hMkVlbGg1Nm50TWVCaUZIREtTS1FjWEFGTDdvTHcxZ1NhVUE1dUtcL09DVlpKRjBtXC9CYVk0bjZ6VUtMZHVHSkpMRnNlTmV1NjRaN3ZQYStkaHFHN2pTZ3lXQkxVckpyZkdBcTZXVktHIiwibWFjIjoiNzc0ZmVlMTVhODIyMzJkYjExZTEzZmM3YWU3MzBmOTg0NWEyOWY1YTM3YzZlYmEzNTI5NmY0YzlkNzlmMzIxZiJ9&amp;signature=0eff65938fcd2a5d3c604cb389be9bb6890676e91f81514f38847dfc41d707b1</image>
+    <start>05:00PM</start>
+    <finish>06:00PM</finish>
+    <date>17 January 2026</date>
+  </channel>
+  <channel>
+    <name>Fox News US</name>
+    <id>FoxNews.us</id>
+    <title>Live: Fox News Live</title>
+    <desc>Covering the latest news on the economy, society, sport and culture, with insightful analysis and expert commentary.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IllzOXdINElhbWc2TWJ5MHdwdDJjeGc9PSIsInZhbHVlIjoiNk90Qng3endvYjk4UWJBcWFwYXI1QzliQzc4VXQ3VnJxbER2eExsOStKNkVjT0hsSWJBOHZyekMyOEpnRmFyaDdRbkRTZ0lRVTA3bFdUR3Vob3RNOVJmZlNCVmlyOGl3QjY4S1NxRUM5Q1FQTjN4QXlLN0oxcHhLV005dVwvS2E2IiwibWFjIjoiYTMzN2JlNzA4NjA3NGNlODQzMTllMmI1MGEzNWU3MTFhNzFmNDI0NmJiYTk1Yzc1YmJjMjIwNzYzNTE0OTE5NCJ9&amp;signature=459f242086d13814b1c56f4bd7eedd8d32e06aa1d812b7157de015c53fda333b</image>
+    <start>06:00PM</start>
+    <finish>07:00PM</finish>
+    <date>17 January 2026</date>
+  </channel>
+  <channel>
+    <name>Fox News US</name>
+    <id>FoxNews.us</id>
+    <title>Live: The Journal Editorial Report</title>
+    <desc>Wall Street Journal editor Paul Gigot serves as moderator on this weekly show that features newsmaker interviews and panel discussions with other Journal staffers. Interview topics include guests' writings and current events. Panel discussions with the publication's writers and editors revolve around political, economic and cultural issues that people are talking about that week. Each half-hour episode ends with panelists discussing the best and worst stories in the news the previous week.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IlVmeTVTcjBUUGsyeSt3QklcL3R1WHhRPT0iLCJ2YWx1ZSI6IkdlVEZVaERDdGtlbUpKN1QzR3RRZFNBQ2lTbXF6M1BEbWRvczAxZHVpbUhma1ZVY1JrcU0reUtPUk1JMUY1cVFpMnRcL0NVT3BkbEhKd3ZscldoRW41dVFXUTFuZGpDU055Ym9LMndKQ0FaS3VlZ05ETmNrUVcxQjdFZmxGK2FzVSIsIm1hYyI6IjFiZmRhNmFiMGQyY2UzNjgxMTA5ZGQ5Y2QyNjcyOTZhOTRjMWEwNzliZjRhMjQ5OTg4MDdlZTc0NGMwMTY1MjQifQ%3D%3D&amp;signature=7e190783f42058dd543670f9aa37c5c3f65cfc1c80c1560b281c80c0df5cc0c8</image>
+    <start>07:00PM</start>
+    <finish>08:00PM</finish>
+    <date>17 January 2026</date>
+  </channel>
+  <channel>
+    <name>Fox News US</name>
+    <id>FoxNews.us</id>
+    <title>Live: Fox Report With Jon Scott</title>
+    <desc>The latest headlines, news and analysis.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6InVLQzBkaFhYb1FybGF3YjVXbWVsTUE9PSIsInZhbHVlIjoiODhxN0R6WENxY3o2RmVMR1B2SXVoN2xFNjcwbWZ3dkJpQWpSbE00UXM4Qll6eWZNNFJcL3Y5NFNjYklNMmJ2SjRXRlBObCs1M2dVbTFuaTFGQWE4UzY5ZHNzTW1SNFpQamRFdXhQUUxWb1pSVFN6UnhjV0ZaWHh3VXpPb2ZzVlRpIiwibWFjIjoiYTZmYTE1OGZjMTRmY2VkODlmNTk0OGM0NDNlNTBjMjJmM2Y2NzU1ZGFjNjIzZDI2OGM2ZWQwNTc3ODM3NDgwMyJ9&amp;signature=f2cd0f90d67bab6e157629e1e21dbfea462cfa8cf515dbcd911991b311e46870</image>
+    <start>08:00PM</start>
+    <finish>09:00PM</finish>
+    <date>17 January 2026</date>
+  </channel>
+  <channel>
+    <name>Fox News US</name>
+    <id>FoxNews.us</id>
+    <title>Live: Fox Report With Jon Scott</title>
+    <desc>The latest headlines, news and analysis.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6Ikp1T0FsQ1BXNmIzRG85YjdIMlwvT1ZRPT0iLCJ2YWx1ZSI6IjhUcnh5aUNpSTdqWmR4MjF0YXdZQU03ejlRUFwvS25zWExZNkZaMUVwME5QcHdGTVJwbG9PMkZCSDloTUl0TnRSSGxBbzFWNHd6cWpWZUY1NEJYRlVWdytwNjhxQlFaNXV0V0lFTzBsdkY2Z1p3VmlmK0pzRGxcL2lqV3h6STdBRmQiLCJtYWMiOiIyZWRkNjM4ZDhhM2E1Y2EzMjVlM2UzMzA3ZDM5ZmI4MjBiNDJhMjAzY2JjODc0YjcwZTBmYjEwN2FhZjMyZmE5In0%3D&amp;signature=dbd47d2288578ffdafb4a2d07a679b35e824ec81a912676505fe545b5c384a77</image>
+    <start>09:00PM</start>
+    <finish>10:00PM</finish>
+    <date>17 January 2026</date>
+  </channel>
+  <channel>
+    <name>Fox News US</name>
+    <id>FoxNews.us</id>
+    <title>Live: The Big Weekend Show</title>
+    <desc>Rotating panelists discuss the big news of the day and react to the top stories.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6Im8rUDJLWVhDbklEMUU5QXhIRU56amc9PSIsInZhbHVlIjoiaUFzNytwb0t0b29GVVhLR0lQYVwvTjBhTFp5RHRQaDIyNUZFTUUxWnVYOG5QXC9NdUVYXC9mQ1NSdFhwYTF1NTZ5VVlFTzdYRFFzVXRMdW1QcGRYZ1FwNFpJWEFOWWhPcURLcWR6TVg1VFlhS2thSXhkVUZJbmxZY1pjRXNTUkxqZUIiLCJtYWMiOiI3YTVhNTM5MTcyZWNiODQ3OWNlYzIzOTVmNWVkOGViM2RlMTQ5ODYwODQwNWI0N2U0OTRmYWY0MmIyN2FjOGJlIn0%3D&amp;signature=54237ca64e15aa478de45371c2b37d42a02ae69c6308fba759f13f2a7b93ffbf</image>
+    <start>10:00PM</start>
+    <finish>11:00PM</finish>
+    <date>17 January 2026</date>
+  </channel>
+  <channel>
+    <name>Fox News US</name>
+    <id>FoxNews.us</id>
+    <title>Live: The Big Weekend Show</title>
+    <desc>Rotating panelists discuss the big news of the day and react to the top stories.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IkhrSGFTaHR1VlwvUUk5a2JXRzFqY2lBPT0iLCJ2YWx1ZSI6Im1SSm9rZjNYRjh5WTg1VEUrcmN2cGZUSEIzSWNGcUhMdkxFa2Y1YUtwVVFsVGY1cUxwNzRlWmEwU21UVEhCejVjWWx4Y1NxT01xTUxIMmJzWVBEQVphOHZzTHMyalRsc2ZCUEV6d01hSk1qQjk4bmxKdUVRV3o3Z1p2ZmduN2ZrIiwibWFjIjoiYjU5N2UxZTk4MWYzODk5Mzg2ZGQyNDhhYTU2MDY5MjMxMjlkNGViMjBhYzYzNjNlNGM1NjQ3NjBlMTEyMjAzOSJ9&amp;signature=70d6910986428be3c714e6154a92b774381298d118d0111988e821d4a924469d</image>
+    <start>11:00PM</start>
+    <finish>12:00AM</finish>
+    <date>17 January 2026</date>
+  </channel>
+  <channel>
+    <name>Fox News US</name>
+    <id>FoxNews.us</id>
+    <title>Live: The Big Weekend Show</title>
+    <desc>Rotating panelists discuss the big news of the day and react to the top stories.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6Ijdub0xYTE5jU2plOTFwcWFld3JFcEE9PSIsInZhbHVlIjoiYXI2QjZHK2xmakVcL1BtSWF4UFJJTU4rRWdoTXE2OVFRZHdmb094ejZrdDlreUd4SDZaVERHN1NxOEo5KzFKZGFlV3AzYm9tb1hkdG9pNVZFeUVTaVdodzZnRnlna3VxdDRhcWJQTXhaMzBnUGtGN1wvM3YzUXNpSG1VeUFDWGhcL2giLCJtYWMiOiIyZTcxM2Y5OWIwNWMwZjJhNjZhZmQwZGZlNmQzZDE5NjY3NWU5MjY0N2M2OTQyZmY5MDAyN2ZhZjI5OTU5NmE5In0%3D&amp;signature=7fa44ebacbfa85b48d1f0d25d2961253bda3af5807628ba0f49a48eafd9c0e47</image>
+    <start>12:00AM</start>
+    <finish>01:00AM</finish>
+    <date>18 January 2026</date>
+  </channel>
+  <channel>
+    <name>Fox News US</name>
+    <id>FoxNews.us</id>
+    <title>Live: Life, Liberty &amp; Levin</title>
+    <desc>Mark Levin hosts FOX News Channel's &quot;Life, Liberty and Levin.&quot; The program aims to explore the fundamental values and principles of American society, politics, culture, and current events and the impact that these things have on the nation's future and the everyday lives of the citizens. Levin also hosts &quot;The Mark Levin Show,&quot; and prior to joining FOX, he served as an adviser to some of President Ronald Reagan's cabinet members.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IjJVa1ZndzlXNW9Pd3I2c0FESWFnUGc9PSIsInZhbHVlIjoiZU91TkJLSHpcL2o0RmxCeXRuYkEwN29jNERnM0NBdFNUWFhKOWsrYXlMUVpxWVwvK0xHR1RRXC9yXC9KdmFcL2Q1akhDbHFzSXdIcFVaaFV1enVObXlYbVJyV3A4WVZwQmpwU09QWEcrNkF1MnNrcDF4aTVoUlZIQ3lPYTFnSnVibHZqciIsIm1hYyI6ImY2ODBhNjE0YWVjYjk2OTgzMmUyMGNhYTc3ZDQwYTY4MDFlM2VhZTE3YmNjZjg5Y2IzZmM2OGI3Mjk1MzJhMDIifQ%3D%3D&amp;signature=13c007f93e5b74a8acbfe5a21e02e72a853771757bf4dfab3a71f7c1b0bfcd21</image>
+    <start>01:00AM</start>
+    <finish>02:00AM</finish>
+    <date>18 January 2026</date>
+  </channel>
+  <channel>
+    <name>Fox News US</name>
+    <id>FoxNews.us</id>
+    <title>Live: My View With Lara Trump</title>
+    <desc>Presenting in-depth analysis of the issues and stories that matter most to Americans while offering context and solutions to help bring the country together.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IlloR0tPeFYrSDVKbXl5SzI1dGtcL013PT0iLCJ2YWx1ZSI6IkZhUkV1WjBVa3RGKzVwbEkrWmlHSDVQbXdWUldXY2FrcGZzTWE3YXBob21LM2VPQVA5NGdCeEpxb2FvKzJtRnhRRTJub1duaXo3VzloRGZQOGRLd2xWeWpNcEZ3WkZPTTdxMmg5ekVLUkpsT2NIMDVBUGlxbm1RczVweXB2MTI0IiwibWFjIjoiNzBlOGU2NjdiMjE2YTc1MzhjYjA3OTRlNjkyOGE3NDc0ODhjNzRjNGRlODcxNThmMzdjZGM4ZTYyZmM3ZjI1OCJ9&amp;signature=5eec1fdeccf94968b4a6877cde9f1fce0b1ebf2663f7fa4200d02d4bdaa12bbf</image>
+    <start>02:00AM</start>
+    <finish>03:00AM</finish>
+    <date>18 January 2026</date>
+  </channel>
+  <channel>
+    <name>Fox News US</name>
+    <id>FoxNews.us</id>
+    <title>Live: FOX News Saturday Night With Jimmy Failla</title>
+    <desc>Host Jimmy Failla welcomes guests to give a humorous perspective on the stories America is talking about and everyday issues.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6InRhVTUrS1VlZ2xPS0dlQXd0a0RQSmc9PSIsInZhbHVlIjoiN0c1eU1IcUNmYVwvNk5BR0JCVjJidEs3ZWhQZnBUMjM1a1lGZEtVMVhZUlJ4RXdmU0JrUm1Kd0NBdWQ5MUJGb1NwZStMTmVyWlltWThqK0JNNkdKNmJFVk1oXC9vSXdDQTAxWUVId2hSTVFWbzlVVVlhQ2Q2TDZBWWNSN0M4YWxvQiIsIm1hYyI6IjYwOTg5YTk2NjgzMjE0ZTMyMDQ1OTExZDczMzU0YjRlMzA4YTMwZTIzOTgzYTRkM2I2NzgxMmYzMjc1YmJiZmEifQ%3D%3D&amp;signature=f7b146ba4c9176eb17ef68e3df2e67b339293be92c3c8d8a453704b15009b9ea</image>
+    <start>03:00AM</start>
+    <finish>04:00AM</finish>
+    <date>18 January 2026</date>
+  </channel>
+  <channel>
+    <name>Fox News US</name>
+    <id>FoxNews.us</id>
+    <title>Gutfeld!</title>
+    <desc>Gutfeld looks at the news of the day through a satiric lens fused with pop culture and features refreshing takes on the day's top headlines from FNC personalities, authors, politicians, veterans and comedians.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IjRKZFB5UDNNNk1hUFZXeDhqMWtvMXc9PSIsInZhbHVlIjoiN1ZCWWZXS2FjY1p6aU5vZGFnVGNjVTF5a29MYXRWWjFZMEFiSG1XUWd4K2V2V2dTZTh6Z1luSTQ2NHZoRUhwSkd6WEU2OVhqVEZnN2VcL3ExXC90cDBtYUFBZ2lpT3E3cVltSHNFQnFwQ3AxamV0K0VlSW1tZ2JXZ2p1Rk12OTZWWSIsIm1hYyI6IjZhNzVmMjUzZjdjN2M0YzJjZDRiNTg4Nzg1OWQxMjQxZGI0OWYwZWY3MTczYjExYjliNmMwMjU4ZGFkMmNkNDQifQ%3D%3D&amp;signature=e87fcb7389501c8a45c7c5d9c25cb47e2724dac3a417b330cb80017d6c3e9efb</image>
+    <start>04:00AM</start>
+    <finish>05:00AM</finish>
+    <date>18 January 2026</date>
+  </channel>
+  <channel>
+    <name>Fox News US</name>
+    <id>FoxNews.us</id>
+    <title>Life, Liberty &amp; Levin</title>
+    <desc>Mark Levin hosts FOX News Channel's &quot;Life, Liberty and Levin.&quot; The program aims to explore the fundamental values and principles of American society, politics, culture, and current events and the impact that these things have on the nation's future and the everyday lives of the citizens. Levin also hosts &quot;The Mark Levin Show,&quot; and prior to joining FOX, he served as an adviser to some of President Ronald Reagan's cabinet members.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6ImI4Vlp5RUdWVU1lNUoyS0t6WVgxeEE9PSIsInZhbHVlIjoiS21PV3p5cEJOUXczXC9GTm1oTkhxRER2bXJ4aHpBTEdlTXFmMFFVYW9XNUVtbGdcL0ZubUgzQUhIaHNnZUFWMjVpamMyVnhZMWtIT0Q0ZnJsSTczcUUxWlpxdlBlcVV4UjkwUExNSWZIVWR0cXd2Yk1wNFNrQXg0VDZHTGttMnpPayIsIm1hYyI6ImRiMzI5NGFmYzRkZjFjNTgxMjczYmMzYjljMjUyODExNGI0Nzk5NzAzYTY2MmE2NjQ3YWUyZTRkNjU3M2JmYzEifQ%3D%3D&amp;signature=afa3cdcf392cefb00520fcad61f57855b0dc3dc2ffd2d0a3eab1488a8b3869ce</image>
+    <start>05:00AM</start>
+    <finish>06:00AM</finish>
+    <date>18 January 2026</date>
+  </channel>
+  <channel>
+    <name>Fox News US</name>
+    <id>FoxNews.us</id>
+    <title>My View With Lara Trump</title>
+    <desc>Presenting in-depth analysis of the issues and stories that matter most to Americans while offering context and solutions to help bring the country together.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IkVnNlNzeHpvcVgzdVpiS0QrWTNMVUE9PSIsInZhbHVlIjoiVENqWFdQd21yM2FpNkZFKzJFbExOZHpTbnRPVXkxOWRcL2ZmSFJKeDk4Tk5yd3JSMHFac3ZJOFY1S3FsMzUycDlCRlFYRlRjb25hWXA3WVdWd3hwU1huOWJoNlk5SE4xdElrRmp5V0VQaWM3XC9tdnpaSEJXbkxHZ2RUNFJHNm1tMyIsIm1hYyI6ImUxNzQ3Mjg0ZTJlNGYwZmIwMDRjYmY0OWU1MjkzOGU4NjY1MDA1MTg1YTNiY2I5NmExZmJkMTgzMWEyZGQyNjMifQ%3D%3D&amp;signature=262534b2435fcc7f36f95d62e773d8472f1013962f223e6b1216e8dd4b551199</image>
+    <start>06:00AM</start>
+    <finish>07:00AM</finish>
+    <date>18 January 2026</date>
+  </channel>
+  <channel>
+    <name>Fox News US</name>
+    <id>FoxNews.us</id>
+    <title>FOX News Saturday Night With Jimmy Failla</title>
+    <desc>Host Jimmy Failla welcomes guests to give a humorous perspective on the stories America is talking about and everyday issues.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IkdmQ0tRd2Z6NHErRHZXcEJWRWJCeUE9PSIsInZhbHVlIjoiKzhTMEdFa1RoWnJRM0RiNWlaVGFXS2NnTWlmTTN3NGRSSnAxYnJKcGsybFNqeHQ4V0tKd082c1wvU1pQbm9IZkg2WWxMeTdMY2hDK05Bdm0yQXZ5Wk5Ca29laHRVWkRqM3BpcTYremo1V3dxQk5rVmF4a2pTZGIydkNibXpYNTZxIiwibWFjIjoiZDgxMzNjODJhYjk5ZDgxYjE5Y2JiMDZiZmMxMTI0ZjE3MzJiZDg0YWNmZGM1MDY2NDU5ZTZkZDRlYmNhYmJlMyJ9&amp;signature=5b1098c84eeb3c5f9d5a14416cc7d73ef2435655cfebfb22acab979da2e97367</image>
+    <start>07:00AM</start>
+    <finish>08:00AM</finish>
+    <date>18 January 2026</date>
+  </channel>
+  <channel>
+    <name>Fox News US</name>
+    <id>FoxNews.us</id>
+    <title>Life, Liberty &amp; Levin</title>
+    <desc>Mark Levin hosts FOX News Channel's &quot;Life, Liberty and Levin.&quot; The program aims to explore the fundamental values and principles of American society, politics, culture, and current events and the impact that these things have on the nation's future and the everyday lives of the citizens. Levin also hosts &quot;The Mark Levin Show,&quot; and prior to joining FOX, he served as an adviser to some of President Ronald Reagan's cabinet members.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6ImV2cmZncW52YW5PUDYwNUxCRHVLaEE9PSIsInZhbHVlIjoiaGJJNnE1bHA1anNwdlhPc3E1Mk03UWNFYWozbDRWR0xVanl4a3JKYkNoZk1uaTBXS1liXC9RUmdwcDdUSUVLa0hGYitDdm5rWm1RWm9WRGZ2Rk44b2syUXVQVHh1eXV1WjhQaWRabnUwYkVDMHdOK2tzZnZBdzRiYjNXQjE5QWNcLyIsIm1hYyI6ImE0YWIzZWJjOTI4MGNmNWUwMjA0ZjI4ODE3MGFiZGI2ZTAwOGI0MDE0ZmNlMjY0MWJkOTJiMGVlZjZlNWEyYjMifQ%3D%3D&amp;signature=90f0f43ff251671a068f400c3488fefa11e4b247a19f6e6568a9ec92b1ad1e3c</image>
+    <start>08:00AM</start>
+    <finish>09:00AM</finish>
+    <date>18 January 2026</date>
+  </channel>
+  <channel>
+    <name>Fox News US</name>
+    <id>FoxNews.us</id>
+    <title>My View With Lara Trump</title>
+    <desc>Presenting in-depth analysis of the issues and stories that matter most to Americans while offering context and solutions to help bring the country together.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6ImdtbG5EaU9oSUczc3k4cTRzVWI3TkE9PSIsInZhbHVlIjoiMTBIcnhlck5HM2c5QzFtVW51aVpxbjM0TjNxNE12OVlRTFJ3SDdkZCtXVlhKZXl2SFBibmhNUXF3ZFBMVEZ5dTNlVVRvdUM4UFJ5QlR6Q3A0cDZCc1l0MFI1cGtTZEVsZWdNaW95czdkaWQyaUQwWHMwblNGSW94UlV4QXBjbVciLCJtYWMiOiI1MjViYzAwZjY4OTczMTlkNDhmNjRkNTNmZDNkNDA2YjMwZmFhY2E0YTY4ZTFjZDAwMzQ4ZTI0Y2VmNjJlYzlkIn0%3D&amp;signature=76a99bee7f7cfb3072260fc9a20e94943697076d07bac8a4b9666ac1fd461e87</image>
+    <start>09:00AM</start>
+    <finish>10:00AM</finish>
+    <date>18 January 2026</date>
+  </channel>
+  <channel>
+    <name>Fox News US</name>
+    <id>FoxNews.us</id>
+    <title>FOX News Saturday Night With Jimmy Failla</title>
+    <desc>Host Jimmy Failla welcomes guests to give a humorous perspective on the stories America is talking about and everyday issues.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6Inh0SzJTYkV6cXZQVE81N0N6YUxGRlE9PSIsInZhbHVlIjoibTdkK0FoWFNPXC9zcVROVnVcL1lUTFJEY2N2YWQyYnZsSXk0aDFFVHJreDJjQnhCYmNhQ1c2V3pGRzltZ2s5K3BaNjdnTTQrZ2VKRXZMMXhSSGZCSDM4a3Qza1JCT0haSzlqSHVaZmZOVE1OcHNtMFpqaE9RWjBNdHc1d2FSdkErSiIsIm1hYyI6IjAzZjBhNWM5ODIxY2M0MzhiNWFmNzA4MjEzNzA0M2ZlMWYwYWZkNGRlNjI0ODg4ODYwZTY0ZTgzNjQxODA5ODgifQ%3D%3D&amp;signature=f94fa26d82c893627b0390ac13e43da2c2bcd1f966bc955bfc21b8cd0774aabb</image>
+    <start>10:00AM</start>
+    <finish>11:00AM</finish>
+    <date>18 January 2026</date>
+  </channel>
+  <channel>
+    <name>Fox News US</name>
+    <id>FoxNews.us</id>
+    <title>Live: Fox &amp; Friends Weekend</title>
+    <desc>FOX &amp; Friends Weekend, hosted by Rachel Campos-Duffy and Charlie Hurt, highlights the latest in news, entertainment, politics, and sports.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6Im1OeGdiZjJpZWNTVUtxOE5jNnhxaXc9PSIsInZhbHVlIjoialpOVGZwZXJ2WmV5NkVXam5BTTF5QkRGYWhsc3ZDQmdENHhkZ1dzdXRNcmZsc0M1Vk1YYWNCV0MxRXBYMVwvMmp0d09xXC9iakJtXC94ckF0ZjFyUEpSNFZqZWxNVUZ2ZGRkUXZ1Y01uNmVjVjFNV2dFWDlwTjBackQzeVwvYSs1OXhhIiwibWFjIjoiYzAxZWU0ZTczNzAyYTdjODIxNDljOTg5YThlYWJkMmUyMjgzNDU2ZDQ5MTk5Njk4MTIyMjI0YzEwMDdjZWRhZSJ9&amp;signature=e982e7421cea6f7407516317e27bcab64099ef888a166f73f8c7719c9375cf36</image>
+    <start>11:00AM</start>
+    <finish>12:00PM</finish>
+    <date>18 January 2026</date>
+  </channel>
+  <channel>
+    <name>Fox News US</name>
+    <id>FoxNews.us</id>
+    <title>Live: Fox &amp; Friends Weekend</title>
+    <desc>FOX &amp; Friends Weekend, hosted by Rachel Campos-Duffy and Charlie Hurt, highlights the latest in news, entertainment, politics, and sports.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IkhGUlU1M1IrSjBKbEdrNlwvWHd1cnJBPT0iLCJ2YWx1ZSI6ImtraDJDcFhjMUYzUVZyVjF3emJ3ZU05dnpMRHR2WUxVaGt5TmZGNmtPZXBmQVhsUWdtOTdLWVJvMWhaVzhoczhoeGNoa25BOHBQUlRtYzVvUkRRNFwvejdtRkJ0eHpQZXAxeDFNXC9HREQ4WStDdEtLeitnZzVhcDNcL3RCSGttM3VKIiwibWFjIjoiZmEzNDdmNGUwMGY5OWJhMzRiODVhZjkwNzJlNDkyODllZGY2OTE0M2ExODk1ZjE5ZjU5ZDI0ZDc1MzVjMzEwZCJ9&amp;signature=964ada1b8045f7e655b2d060baafa26d266c2e2b8f10576a4bcb407ca08094ca</image>
+    <start>12:00PM</start>
+    <finish>01:00PM</finish>
+    <date>18 January 2026</date>
+  </channel>
+  <channel>
+    <name>Fox News US</name>
+    <id>FoxNews.us</id>
+    <title>Live: Fox &amp; Friends Weekend</title>
+    <desc>FOX &amp; Friends Weekend, hosted by Rachel Campos-Duffy and Charlie Hurt, highlights the latest in news, entertainment, politics, and sports.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IjBOYkxuREV0RHZiRXZ1MnZaYkVrSnc9PSIsInZhbHVlIjoiTzVvV3lIN2lScG9LM3VvY3ZldTZoT0lyYzZFREpoTDFIWVpUMDlzejQxSUUxZ2p3SWpmRURuUm1WWTZcLzltbmw2RXpxUld0QUxUT0NHWnhaeStkTTJpejYrR2xHMWprSHAzMkR0elwvQXNKTXJsMEE3Y0hscDZ2clNwY2M4Ym1pRCIsIm1hYyI6IjRlMTZjZTZlODUyOGNlMjhiNTA2ODY5Y2IzZTVjN2NjOGJiMTk0MDU5Njc4MWNmNTA4MTEyZWM0MzMwMTQ4MzEifQ%3D%3D&amp;signature=16d2bfe74418a45b512831d5b7965477c60c9e33c36c5ee8c4009b45197c42c3</image>
+    <start>01:00PM</start>
+    <finish>02:00PM</finish>
+    <date>18 January 2026</date>
+  </channel>
+  <channel>
+    <name>Fox News US</name>
+    <id>FoxNews.us</id>
+    <title>Live: Fox &amp; Friends Weekend</title>
+    <desc>FOX &amp; Friends Weekend, hosted by Rachel Campos-Duffy and Charlie Hurt, highlights the latest in news, entertainment, politics, and sports.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IlwvdW9UWXZJN1R2ZTY5clJlS1R0N0ZBPT0iLCJ2YWx1ZSI6IkMwTWppMG95RnVxb3ZySGVOdG5qMDJBM0FcL3hrZ3k0TkRBTjdSV1VZNXJ5Qnp4cmFMUWs3eVZyYjBvS0drUTRYVjRreTlnWnY0NUJURG9WQXg4K0dQNHlUZHNjeFRZUHNpMk5TajQ5T2QrNFI2eVwvMjZ6SmN2SmZYUmZhbmoydUMiLCJtYWMiOiJlY2IxMGM0NzRmNTVmN2U0OGVlYTViOTg1NzBmZmZiNjQyMGE4MWNlN2MxYjJhZjRjZmVlOTE3ZjRlZDlmZmZkIn0%3D&amp;signature=37e170f9e9758e3f3a22a67cd37427da45741376a19c0cf13b894d87968baecd</image>
+    <start>02:00PM</start>
+    <finish>03:00PM</finish>
+    <date>18 January 2026</date>
+  </channel>
+  <channel>
+    <name>Fox News US</name>
+    <id>FoxNews.us</id>
+    <title>Live: Sunday Morning Futures With Maria Bartiromo</title>
+    <desc>As part of her role as FOX Business Network's global markets editor, business journalist Maria Bartiromo hosts this weekly Sunday morning show on FBN sister network FOX News Channel that focuses more on the general economy than the stock market specifically. The hourlong show provides viewers with information about how recent news events affect the economy. In addition, Bartiromo interviews business leaders and newsmakers on topics that include job creation and investment opportunities.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6Ikk5UjU4dlRONmV2RWlZczdLTEo5SGc9PSIsInZhbHVlIjoiOTVqQnZhKzlGcE1ZWjFsYWdJQW5oOEdLZStpNDRWSEMyckxGYnFadHhLK1ZWSFRTQzFNVWNxakJcLyttaHVoYnl3aVRXSXNKWFhQdzhLVmZzRG1UYTJ4K0VVTTN3aUFVT3RjQW4xWUtNaGt4a2pSUk1yS2VUNDk5NHR5ZG9sVE1ZIiwibWFjIjoiNGM1NDRiMzNkYzhlODg4YTY3MjE0ZTBkOTcwZDAzYjlmMDM1MTZiN2YxODgxZGEzOWE1NDFlNmMzZWI2OGM0ZSJ9&amp;signature=583b1b41e24675d835d4cdf4fa9ed8c544ab6c6b59b3cd4a5bb27769df22c551</image>
+    <start>03:00PM</start>
+    <finish>04:00PM</finish>
+    <date>18 January 2026</date>
+  </channel>
+  <channel>
+    <name>Fox News US</name>
+    <id>FoxNews.us</id>
+    <title>Live: The Sunday Briefing</title>
+    <desc></desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IjBHeTdSellpYnNDcXphRW9UM1hRXC9nPT0iLCJ2YWx1ZSI6ImhjXC9LYmZCWmJWbmlhcVY2U2dGdEt1MHVmbVhBM0lTRXFoWm9VTVNJM2M0VFJpNjdBUGJaR2xcL3M3RStwdVg4WTJNVkJINTBrNFp4ZnIyYnkxdmVTWkJcL09cL0c2SzBNcW9IMjQ2cit2SUREY3UxUXRwRHNURmhnUEdPRUJtQ3lPYiIsIm1hYyI6IjRiOWFiODA4ZDZlNGFmOTliODNkOGFiOWIwMDgyOWMxY2EyZmE5YWQ3MjNjMGFlOWRjODI1ZGNkMTJkMGVkNWYifQ%3D%3D&amp;signature=224bb1534264b4fe20a49a691aebf4b906fe72658ad190b73d81d6ffea6d00cd</image>
+    <start>04:00PM</start>
+    <finish>05:00PM</finish>
+    <date>18 January 2026</date>
+  </channel>
+  <channel>
+    <name>Fox News US</name>
+    <id>FoxNews.us</id>
+    <title>Live: Fox News Live</title>
+    <desc>Covering the latest news on the economy, society, sport and culture, with insightful analysis and expert commentary.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6InJPZnNSNGw2cnhpMkRYT1VQb3hkOFE9PSIsInZhbHVlIjoiT3pCOXRMaEhmTUIyZTVIWHdpdEdBTFhINzRXXC9leHAyU3Q3STdNQ3hKdHZUZFJOMkliWHk1ekoyTUUzMXluTFY3OFlKZERCdFA4THlxWmZOVkwybHlHbHF1amliUEtZXC9IUGdGdFhrU2ppeUw4NlY2NDFkTGdKT050T1djQ1d5QSIsIm1hYyI6ImRhMmZiYzgxZWMyYTlkYmE4MmNmOWU2ODM3MGJlNjZiYmMxOGMwZjY5NGY3NDE2ZDAzNzE4ZGQ2MDM3MmJmNjcifQ%3D%3D&amp;signature=b4285c8592902c22bf3884b863af5bc021add9e2132d2cdb3697a7eb537c7bed</image>
+    <start>05:00PM</start>
+    <finish>06:00PM</finish>
+    <date>18 January 2026</date>
+  </channel>
+  <channel>
+    <name>Fox News US</name>
+    <id>FoxNews.us</id>
+    <title>Live: Fox News Live</title>
+    <desc>Covering the latest news on the economy, society, sport and culture, with insightful analysis and expert commentary.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6ImY2OENRTFE3VDQwNThMMm9lblNoZmc9PSIsInZhbHVlIjoiTkVQXC9oa2orZVEwRFpLZUg0OU5kVGVucDZ6MVlrd0VFWHd5WUkwNmlxUDhjd21vbHhQOTAwR21zZ25BRnhqbGsyV2llcWkxVTl0QjRRK3ZGMzNqRVZvTVNPcXlSUk9MdlwvWGhCT2hJZXZ2XC9JMnRJbWFmRDVTMHJcL0U2SkVhUklxIiwibWFjIjoiYzQ2MTdiMDliMjNlOTEwNzllNTkyMmI4ZjA2MGI2YTA4YzEzOTJhYTlkMjQ5NjVhYjkyMjI4NTFhYTAwMTFiZiJ9&amp;signature=ad7b6903ab045a944c72f3b2303cc9754f4b189717c7bcbf9651bd72e78c7588</image>
+    <start>06:00PM</start>
+    <finish>07:00PM</finish>
+    <date>18 January 2026</date>
+  </channel>
+  <channel>
+    <name>Fox News US</name>
+    <id>FoxNews.us</id>
+    <title>Live: FOX News Sunday</title>
+    <desc>Anchor Shannon Bream interviews the biggest newsmakers of the week and leads guests in providing context and analysis of the issues facing Americans.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IjhDV1MxU0gxRVU1Vkwzdmc2cVhhWlE9PSIsInZhbHVlIjoiZXhcL3NwMkM4S3A3XC9SQTdjTmRSQjFKS2ZDdEJjRm9ZU21XZVwvXC9KRVlmVUhqM1AwYWU4ekdkUGhkQVVUWDFEMHpnaFlFYkh2bGUxMEJna0NVbTROMGZzOWp2dCtlUzc2R3Iwc2lOQ1grVlpWM2JMSFd1ZEt5cU45UW12WHRhcmt4IiwibWFjIjoiZTQ0Y2M1ZGE1MmRiMTBlMThiZGZjYTBiZDRjMjAxZmYzYTQ3M2E0Y2Y5NDMyMjc2NmQwMWY3Y2QyZGFhNTNhNSJ9&amp;signature=63e1e62dedda7b29eddad8b89d60bdf80c0d5e561d2a3322dc8cc99701a7b414</image>
+    <start>07:00PM</start>
+    <finish>08:00PM</finish>
+    <date>18 January 2026</date>
+  </channel>
+  <channel>
+    <name>Fox News US</name>
+    <id>FoxNews.us</id>
+    <title>Live: Fox Report With Jon Scott</title>
+    <desc>The latest headlines, news and analysis.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6Ik5LSENSV09pVTNTcUFVeXhpNWUrb1E9PSIsInZhbHVlIjoiaytOeU1QZkkwbGlSMmJtbzQxamdDNmJlWXQwY0JXbFoxVWptdnJMdVwvd3dqa2pWMlYwVFwvdGZUVWp6UXg4TlprNWorUnRsTW5Qb0F3UGs0NzhKKzJ0Vk5CaGEyT0lLN01cL3BIajdVbzNvTXM2Z2RLMXpCTjRcL3lPa05RVlhUWVk2IiwibWFjIjoiNjVhNjkzYjBiNTQ5YzQ5NjY1MGYxZjlkYzgzMTVhMDJmOTljNTQ4YmVjZTI0MjAxZDJkMDdhN2JhNWI0ZTU4NSJ9&amp;signature=a596c8ea2701579806e571ebe2ea4d07bc2b270f6bd504c818b963dca77352e2</image>
+    <start>08:00PM</start>
+    <finish>09:00PM</finish>
+    <date>18 January 2026</date>
+  </channel>
+  <channel>
+    <name>Fox News US</name>
+    <id>FoxNews.us</id>
+    <title>Live: Fox Report With Jon Scott</title>
+    <desc>The latest headlines, news and analysis.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IkFKaXVWaEJRZ1M5NEhVNEdlMzlPUUE9PSIsInZhbHVlIjoiakdKa2Z2YWdxZlAydkFwOEI5bWdZdGFCNWpVcHNkUmFtYVExbzBEVzVyeHFScitDU214UXdLYXd5bE9iXC9XcHdJN0NHeFM5SkZselFuTjFrWW1UY3h1Z2Jha0NqSzVDXC9uTGhrTGNZaUI4Q21tRXBVcGd4TStqbnZ3eVY1TjFLWiIsIm1hYyI6IjMyYzkyYTgwOTQ3YzFiYTAwMWVlN2RiYzlhOGQ4MDkzNGMzMTdjYjQ0NGU1ZTQ2N2ZiMWI1NzBhMzRlNGJiN2YifQ%3D%3D&amp;signature=cafc25c790dc65752c2e3f7978e309d5af1e7ddd3f9f27a5521df88cca7e0e46</image>
+    <start>09:00PM</start>
+    <finish>10:00PM</finish>
+    <date>18 January 2026</date>
+  </channel>
+  <channel>
+    <name>Fox News US</name>
+    <id>FoxNews.us</id>
+    <title>Life, Liberty &amp; Levin</title>
+    <desc>Mark Levin hosts FOX News Channel's &quot;Life, Liberty and Levin.&quot; The program aims to explore the fundamental values and principles of American society, politics, culture, and current events and the impact that these things have on the nation's future and the everyday lives of the citizens. Levin also hosts &quot;The Mark Levin Show,&quot; and prior to joining FOX, he served as an adviser to some of President Ronald Reagan's cabinet members.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6ImI1ZXB5UmRsaEFndlkzZDlCOERKdFE9PSIsInZhbHVlIjoiRTdLNWxOMzIxd1wveXplUDBKU3gxTmdZT0NjZExoOWNUMG1mOGZvQkM4RnZIRnlPd1wvbUFqZ25peldEd3pHRVlKZ2dJQldGM2FhemhMYTFyUm1LdHR5U1hrQ0hrUFVxVmJCT0MzdzFGOWdLK2VKUGJ6OGtxbVllYnJWNEJQN0dzViIsIm1hYyI6IjZhZDNiZjYwNWU1NjI3NjBmNTc2YzQ0Zjc2Y2E0MDFjMjMxNTk1YTJhN2I0NzA1ZTc5Yzk4ZDljZGE0NmRiNmMifQ%3D%3D&amp;signature=664d94f20726cc681d399decf340707da8df5c5292fdf21b4ab0e98cf4e4030a</image>
+    <start>10:00PM</start>
+    <finish>11:00PM</finish>
+    <date>18 January 2026</date>
+  </channel>
+  <channel>
+    <name>Fox News US</name>
+    <id>FoxNews.us</id>
+    <title>Live: The Big Weekend Show</title>
+    <desc>Rotating panelists discuss the big news of the day and react to the top stories.[(96057)] </desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IjR2cW5QV0RQYmdjakVXNDRkd3UyOXc9PSIsInZhbHVlIjoiWHpTdlVJTVwvQWxoM2R6bXNXeVd2eVdFMEYxM1FtSkhOdlNcLzNDQUtOQ0VcL2JlOGRoU0tlU0NncXhYT05UXC9lWmxVOXFpM0I5elRlUENDS0RFU3NwMElcL1wveWExYWVcL21ndDBWUWZTOHdJc3E1YWFmK0dMalNvS3I4MTZPd3ZQUTB2IiwibWFjIjoiMmE0MjE1OTI4ODhhNTE5YWMzMjk1NTg4YjI3MWI0MDI0MmQ0OTlkMGQ1YTkwZTFmNmQ0MzNmMmZlYjA0NzZkMyJ9&amp;signature=cc516f905fa718ae6aeba808ea5cc34f9a9b0892a8182b74b5e67e037931699e</image>
+    <start>11:00PM</start>
+    <finish>12:00AM</finish>
+    <date>18 January 2026</date>
+  </channel>
+</tv>

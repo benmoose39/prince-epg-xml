@@ -1,2 +1,1043 @@
 <?xml version="1.0" ?>
-<tv/>
+<tv>
+  <channel>
+    <name>MSNBC US</name>
+    <id>MSNBC.us</id>
+    <title>Live: Katy Tur Reports</title>
+    <desc>The latest breaking news, reporting and live coverage of the day's important stories; discussions with newsmakers, journalists and politicians.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IjY0Q1lKUU9pdTlycXBvUytUMjZwTlE9PSIsInZhbHVlIjoibnFRZzZSakhKSitZb2NzRTZDZkhaZ3Y4VHlpYStqbW1BQXVHS00weUUyZ0ZsbHBFZlBHb3gyUDhkY295UWduYm52UmJyTlBPNXhCbldSalJxRGxmT3JWRnVWeHN2XC9DMW5DeXRXVTU4bVgrRWI0S0ZIUm1MWVhBQWFFVW5sSm1kIiwibWFjIjoiODRjYzMyM2RmYTc3MWU0MjAyMjU0ODQ0ZDQ4MTQxZWU1NDUwZjIyZmM3NzAzYWFlNTc0MDVkMGNiOGU5ZTQzNSJ9&amp;signature=80839f5a9258dfbe9338b0ab8561f3ad283374e2005d17b0f7e045beea86e15b</image>
+    <start>07:00PM</start>
+    <finish>09:00PM</finish>
+    <date>12 January 2026</date>
+  </channel>
+  <channel>
+    <name>MSNBC US</name>
+    <id>MSNBC.us</id>
+    <title>Live: Deadline: White House</title>
+    <desc>In-depth reporting on political developments and dynamic discussions with leading newsmakers, with insights into complex issues.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IlRvUGNKdlRFeUErUFRSUDVKNmQ0ZVE9PSIsInZhbHVlIjoiTVVBVkk0V2paVFRLQ2RMUDVXeFJDZmllZUp5WEY3TGd6cEhPUzdLQ2ZDOEdvcitGTFwvS2xLdWNXakhhUEczRzZuSW5uY2ZUbmozRlhDY0xSQVwvK3VKNzRDZUFBRjBRSkZCa2R6eWEyZHcwWVQyV0tFT1U1cmhUdG9jY3M1VkptTCIsIm1hYyI6ImRhOTBiMTgyYWYzNjQwMTEwNDI3ZGM4OGQ4M2QxMTQ3ZTkwMzk5OWVjZGNlYjgwZjU2OWVkYzg0NTE2NjI4YjcifQ%3D%3D&amp;signature=daf6bb789bad00bbba9fd30dcff0b95333329da057602c07d75cecfc319f1ae2</image>
+    <start>09:00PM</start>
+    <finish>11:00PM</finish>
+    <date>12 January 2026</date>
+  </channel>
+  <channel>
+    <name>MSNBC US</name>
+    <id>MSNBC.us</id>
+    <title>Live: The Beat With Ari Melber</title>
+    <desc>Attorney and journalist Ari Melber dives into political and news stories with interviews and original reporting from around the nation.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6ImxhekFCSG80WkZsXC9STWhRaVp2cHZBPT0iLCJ2YWx1ZSI6IktXYU9rRkptaHVocWVaK0FCVG9mTjM2c1ZmcitId1Nzd1wvclk4YjBtRUZqeUtaU2pIU3BiZDdlQkZMUTA2YVVpRTFvdHd0U290T01mQ2VjQ2h0eDRLUGtPSkpndUZZbk1pQlhSZEJ1c2x6NCtHaXZJdThaWmViWkxBWnV6c0xcL0giLCJtYWMiOiJlN2I1YmM4Yzg4N2U3MTAwYmRkODdhZTBkNzgyYWYzNGFhMjNhZjI0MDVmZmVhYzM0Mjg1YmRlMmUzYTA0YjFjIn0%3D&amp;signature=b24248b5f2339e7c543c677ef395db84eba98fd8de3d8ca5d4186b0748d49805</image>
+    <start>11:00PM</start>
+    <finish>12:00AM</finish>
+    <date>12 January 2026</date>
+  </channel>
+  <channel>
+    <name>MSNBC US</name>
+    <id>MSNBC.us</id>
+    <title>Live: The Weeknight</title>
+    <desc>Alicia Menendez, Michael Steele, and Symone Sanders-Townsend's one-on-one conversations with politicians and newsmakers, and the breaking issues of the day.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IkVSYXE3NklQckFkeWFLTUgxRHZuUmc9PSIsInZhbHVlIjoiUFRmakdVYVJzVnJ6b3pCUUJpanl0SU81N2Z2RGlVQ2ZTaVNIRFdiOEFEMjBqN0EzTHVJelZpY2I0OTBQcmE5U1ZNQ3cyMkhZWHExaW5mQ0hkNVk0QnYzcllPOXhTV01pV2NEMnN2Q1pRR01pY2pPOFJIakFYa2prUTgyZ2JiUEgiLCJtYWMiOiIzM2U5M2M1NTQwNDNjZTkzN2UwMWYyNzVhMGMyNjc1NTQ5MDgyOTg5MTU3NjQ0ODBiNjM0YTkzYzQ3MmQ0NDU0In0%3D&amp;signature=6defa3b0256139b271235296e07ae55ef74bb443b4e80e754988bec4e9c4e67a</image>
+    <start>12:00AM</start>
+    <finish>02:00AM</finish>
+    <date>13 January 2026</date>
+  </channel>
+  <channel>
+    <name>MSNBC US</name>
+    <id>MSNBC.us</id>
+    <title>Live: The Rachel Maddow Show</title>
+    <desc>Through her unique approach to storytelling, Rachel Maddow provides in-depth reporting to illuminate the current state of political affairs and reveals the importance of transparency and accountability from our leaders.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6Im80bFJsTVZLaWxwODJoQSt0dkhnRlE9PSIsInZhbHVlIjoiYW5KYUJXeHBsdVwvWDc0Uk9ETjNxN1Fpd0JvWHJSK1JiWmpsTnF2ZE1VUldraW1kXC82YnBRY3RkQ2hrN3BGVmtEek5LOG5OdlF0b0VTYUFBdVhSR2VQNXlFZERxWEU0WHkxOEptZkNGaDJkTk9UVUJaa0hZeXN6RDFMbzRxUkl0YSIsIm1hYyI6ImRmMWJmYzRhOTkyM2Y3MGYxYjlmMmNiNTBkYTBjZTU4MDg2NWEzYjdkOTJlOWVjMTlhMjE3YTUwM2I4NWU0NTYifQ%3D%3D&amp;signature=ab3fbe02b5062ecc577820bc52f29e41a6d167a9e9fadd461e6235b836e3ca7d</image>
+    <start>02:00AM</start>
+    <finish>03:00AM</finish>
+    <date>13 January 2026</date>
+  </channel>
+  <channel>
+    <name>MSNBC US</name>
+    <id>MSNBC.us</id>
+    <title>Live: The Last Word With Lawrence O'Donnell</title>
+    <desc>In his signature style, Lawrence O'Donnell goes into depth on the latest news developments and offers his take on the political stories driving the national conversation.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IkZqcDFuTFNRVXRDS3BQa1hJSmdXZ2c9PSIsInZhbHVlIjoiNjBUS0hQRE9iVUNhS2tPNzU0WmN6ZVp0UWlqc3Bvbjc2KzJ2NFV4UlpwVFVPMm9xU3ExdGJyNWhrbWc4N25yZkxsSXZMZUdDZ1J0bGQrVUt2R2pUT05TaHdrODVpbTZLUWd1dTBUM2lZN3ZJWmE5dTJxZGRLZGdMdGdPTzN6QmciLCJtYWMiOiJlYmRkOWM4ZTcwOWM4ODUwYzdlODQzYmFjODgxNGE1Y2QwM2I1MTNlMTRiNjc5NTNhNWUyYWNmMjA3OWQ3MTQyIn0%3D&amp;signature=2120fc8cdc8dba5b268364e3f307fc512273dd896e3690fd5677ec3fdc0c4abd</image>
+    <start>03:00AM</start>
+    <finish>04:00AM</finish>
+    <date>13 January 2026</date>
+  </channel>
+  <channel>
+    <name>MSNBC US</name>
+    <id>MSNBC.us</id>
+    <title>Live: The 11th Hour With Stephanie Ruhle</title>
+    <desc>Host Stephanie Ruhle brings her business acumen, hard-hitting interview style and original reporting, uncovering stories that affect everyone.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6ImlnbXVRVzQ5NWRVSXdzdjg0K1FieVE9PSIsInZhbHVlIjoiSU9YWlRDMHdBenpyNUtJcjRKZGNzYm5VR1F0dnZFdEtVVmZXbm04UWdRQjFBRWhZaUk3cGIzdk1oUnJZem04alZOd1BuWVwvelNLS3YwUUQ5QzV1Y2pTNzd4TGFHUVRiUnV0OHB6a3ZDV2dBQU5sVHBDNjgxXC9IYjAwRnlWalg5SSIsIm1hYyI6ImE5MjRiNTc3YTBhNjY1YjIyZWY2ZjkzMzlkOGRkNWY4YWY1N2ZlNGUwZjAyOGM0YjRhZjIwOWNkYTg1YTFiYjcifQ%3D%3D&amp;signature=70b9a3aac09de5c387f304646dde9ee7977241eed9b141a7dd364ac93502064a</image>
+    <start>04:00AM</start>
+    <finish>05:00AM</finish>
+    <date>13 January 2026</date>
+  </channel>
+  <channel>
+    <name>MSNBC US</name>
+    <id>MSNBC.us</id>
+    <title>The Rachel Maddow Show</title>
+    <desc>Through her unique approach to storytelling, Rachel Maddow provides in-depth reporting to illuminate the current state of political affairs and reveals the importance of transparency and accountability from our leaders.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6ImpwRzNLQ3FWUzRFNVV4TERQNEtYT0E9PSIsInZhbHVlIjoiaGREK1wvaDgzWFRnb05KRVpjTDNnbFlGUWdwVEpcL2RRTkdDenhveEowckNsbmNaZEVXMmNQWHFnWFlpcEhTUllGY25RZzR2dk9nM1U3MW1CZzdhangxZmdMdHJXOEduWlpIMnpoRm1BRzNVemlkOHV3WVMzQ2NtRmtDVWVOYzhmSCIsIm1hYyI6ImMyYTNlYmRiODNjYWJmMTlmNjdiNDI0YTYyOTgwMmI1OWZmNTMwNjkzMTkxZTdkNTM2N2U5N2MwNzdmNTc5MzcifQ%3D%3D&amp;signature=92c0640347a9decfde20f6ad26c651d1735fab278b9f16ed0b670a18acd6ffa3</image>
+    <start>05:00AM</start>
+    <finish>06:00AM</finish>
+    <date>13 January 2026</date>
+  </channel>
+  <channel>
+    <name>MSNBC US</name>
+    <id>MSNBC.us</id>
+    <title>The Last Word With Lawrence O'Donnell</title>
+    <desc>In his signature style, Lawrence O'Donnell goes into depth on the latest news developments and offers his take on the political stories driving the national conversation.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6ImNJbnhLaGNTS3NcL3BkU29jakNpeEFBPT0iLCJ2YWx1ZSI6Ik96Wit3Q0U1TkFmUmFTMnRZVW93QlFpd0RsMWp6YlBpWmNQdDFmY25FYUtkTnk2XC95SFgyS2Q0aXhVc2ZGQmY1aDZtWlpDbGhwc1BLaXZoWG5mRUtcL1FzY2diUjRvZVwvVmo4SUtPVXNrdWxmWmlZU0JORUk0ZWxlZEJuT0JYb2F4IiwibWFjIjoiZTQ3YTI4MWZjN2M3YmY1MGQyYmFlZjU5NDQ1YmMyYmI2NTgyMWM2YWQ5ZDYwOTJhNTI2NjBjOThiMGUyZDM4ZCJ9&amp;signature=13430ae67076588388841f10ad40ddfc7a4937dd8a55a386e65d276a68cf4b96</image>
+    <start>06:00AM</start>
+    <finish>07:00AM</finish>
+    <date>13 January 2026</date>
+  </channel>
+  <channel>
+    <name>MSNBC US</name>
+    <id>MSNBC.us</id>
+    <title>The 11th Hour With Stephanie Ruhle</title>
+    <desc>Host Stephanie Ruhle brings her business acumen, hard-hitting interview style and original reporting, uncovering stories that affect everyone.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6ImdiQ3M5bGRIdEp4SEJpcVFNK3RTTmc9PSIsInZhbHVlIjoiTDFtWVBDVmRpanoyM0o5N3k0c3JDOVFPTFJPXC96eDM0eklpVEx2a0xYMDhHbW5WUlBLUXRxcmx3ekQrVFQzOEpPaWYzcVhDdTZYdjZqamZpZUF4bGJiVVNweTdLb3hBWGdHb29rVkZUVDBrV29JcVBvSmhUREtydlRzbTJKMmRVIiwibWFjIjoiMjhhMjFmMTJlNTY4YWJhZTczMDE1YjM0NDlhNDFkYTZhMDdmMDVlOTI4MDA5ZjcxNzI4MGU1ZjQwOTJiOWVlNCJ9&amp;signature=48142dfe9437efb4cd6e83776c656861b89856aa10ef7d28c6ab138c5cf003ed</image>
+    <start>07:00AM</start>
+    <finish>08:00AM</finish>
+    <date>13 January 2026</date>
+  </channel>
+  <channel>
+    <name>MSNBC US</name>
+    <id>MSNBC.us</id>
+    <title>The Weeknight</title>
+    <desc>Alicia Menendez, Michael Steele, and Symone Sanders-Townsend's one-on-one conversations with politicians and newsmakers, and the breaking issues of the day.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IlFYUllZcWpOSGg3RnJPT2h3cGtiakE9PSIsInZhbHVlIjoiOXJMRzd0eWJEMm5Ea1JWbCtKMk1LZHdDOTlhR21jMkxXK1FHTFVDSjdwV2lxWWs1eGZlc1h0QUZYSGRJT2dWRXpMZGtEeU53WDN2MFlCR0k5VHZlbXpmVWxqNmpTNnZzcTZLT0pvaTRZS05lMnd4SnE1XC9UQllVbmhqNW9CbEVSIiwibWFjIjoiNmMyNGYyMzliYWQ2NWNjZTZlM2QxYTY2ZWE0ZGRlOWNkMDE5NWUyYzFmNDQwM2YwMGMxYTYyMzhkZWNkNDUwZSJ9&amp;signature=606f1464834ef3486d3b4eccf288579018890a66abdb711a05d389e557bc832e</image>
+    <start>08:00AM</start>
+    <finish>09:00AM</finish>
+    <date>13 January 2026</date>
+  </channel>
+  <channel>
+    <name>MSNBC US</name>
+    <id>MSNBC.us</id>
+    <title>The Rachel Maddow Show</title>
+    <desc>Through her unique approach to storytelling, Rachel Maddow provides in-depth reporting to illuminate the current state of political affairs and reveals the importance of transparency and accountability from our leaders.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IjdkOGxKOW11TklcL2RJTGdtdW1Sd3hBPT0iLCJ2YWx1ZSI6IkFwUTVOV3ViM2FHY0Npc0xldXIrRVQ0Umo0ZEVadGtHSlZDaXNBelhweFRUUzJROGhwSmROc2tBZVwvQ2I0Y0VYQ1wvMVFSXC9BQnN4TWZwSnRvTGNwU3cwVkF3WjVIczkzODdTNWYyZWhpVDVDblg1S3BPVGpsZDR2c1pnb2c1RnNvIiwibWFjIjoiMzNjODM3MjgwNTE0ZWNiZDA5YmNjZmM5Y2YzYzVjMTYyMmI3M2E2ZGEzYmUzOGM2YmUyNTU0YWRmODhmOTExNSJ9&amp;signature=d0581e12f3eacbeeb029ebcd0cb017c7509049bb80bdfe4dbbf192cc7177c6a0</image>
+    <start>09:00AM</start>
+    <finish>10:00AM</finish>
+    <date>13 January 2026</date>
+  </channel>
+  <channel>
+    <name>MSNBC US</name>
+    <id>MSNBC.us</id>
+    <title>Live: Way Too Early With Ali Vitali</title>
+    <desc>Inside-the-beltway political news and critical stories shaping the national conversation.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6ImZSeCtYME5DZ0REdEtzOEo2QmtDMVE9PSIsInZhbHVlIjoiSGswZkRKQWlGMWxFSVwvOEVOY2V4T25rOVVGR3lEZFA0U0VidERSb3ZQak9xcWJWdXFCbFllaENBWUw1TFhsUzU1bmxnK3BaQVM4OGY5SlBqUUhGZnhLVVd1SUkwWW1mK0NmNDJcL3hiUUdTQ2kxQno0Z1FCd0Q5enZGa3ljTUREQyIsIm1hYyI6IjNjN2ZlMTliMDA4MjY2YmI4NzY1Y2FlOTIwNzNlODgzN2M5YzgxOGQ2YzNkMGIxNzhhNzA5NzZhNDFmMjJlOGYifQ%3D%3D&amp;signature=10f81ea1017a258e8bb6d031d67ea9776d266b76ec75a35f242d9304948ae829</image>
+    <start>10:00AM</start>
+    <finish>11:00AM</finish>
+    <date>13 January 2026</date>
+  </channel>
+  <channel>
+    <name>MSNBC US</name>
+    <id>MSNBC.us</id>
+    <title>Live: Morning Joe</title>
+    <desc>Hosts Joe Scarborough, Mika Brzezinski and Willie Geist present in-depth and informed discussions that help drive the day's current political conversation.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IldzanlxVDJTcnlualIwS01LTWRFS3c9PSIsInZhbHVlIjoiYlY0UjdibFBMdjMrd2pTM1hTSFpETkZXRFpCMUtRS1wvMXNBR1FmT01ZNERwb1p6UzVCR2xiVEhFWDJySGlzNVA2XC91dGRKdnBCMDk1Y015SzVCWUp3UjNtM016UWhNQXVZTnlNcUJERFZ1Rm9DalNXQVdKclpzMWhEWENHMDJYSiIsIm1hYyI6Ijg5OWRlNjA2YWM4M2E2OTRhYWMzNzFmZDVhYzM1M2NjMmNlMWYwMGVjZGRjZjY5MzU0ODgzNTBlZWMzYmRhZjEifQ%3D%3D&amp;signature=a6822e8d073a76dc7a294046c2ae6caf9234d16e072cfd3fb507b77d2cc76295</image>
+    <start>11:00AM</start>
+    <finish>03:00PM</finish>
+    <date>13 January 2026</date>
+  </channel>
+  <channel>
+    <name>MSNBC US</name>
+    <id>MSNBC.us</id>
+    <title>Live: Ana Cabrera Reports</title>
+    <desc>The latest breaking news, reporting and live coverage of the day's important stories; discussions with newsmakers, journalists and politicians.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6Ik9mUEVHMk5ickNEUHRRMHA0MzZ0UXc9PSIsInZhbHVlIjoiMTVWMGdHZXJSS2JQclFhUUhYQ0VhQ1VnRG5ZMHZcL3MzYzdqb01UZDdUb0JRSTJxdWs5aFhRT09Yam5wejJqREpQK09XRk5lN29uYzFIamttRkUwRGtxN2NKT2dCWm5zUnRtQ0dWeU5pbks0SWNFMnRUMEF4empoOGZocGw2V2Y2IiwibWFjIjoiMzRkM2ZlZGUxNWU4MWE4YjZmZjUzYTRiNWIzNDg0MDU2ZDBmYTUyN2ZhNmMxNDQxM2RiODViMmRlOWFiYjY2MSJ9&amp;signature=4a173ece64be0028a625234f6828f958ead3f3f0e30eafe9a9fd6a0f9bdd581a</image>
+    <start>03:00PM</start>
+    <finish>05:00PM</finish>
+    <date>13 January 2026</date>
+  </channel>
+  <channel>
+    <name>MSNBC US</name>
+    <id>MSNBC.us</id>
+    <title>Live: Chris Jansing Reports</title>
+    <desc>The latest breaking news, reporting and live coverage of the day's important stories; discussions with newsmakers, journalists and politicians.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6Ik1KRUU0VWczaW9qZmhFNXdOT2cxMlE9PSIsInZhbHVlIjoiYTcxUTFNbExtS0VhcXIrdnFuOHgyKzJwUzhBZDR3clVoWU4xUDBxWGFRUmxzczNUYzBSQUdPNkt2RzZFQzQ2dEZUWWpxMDUrWWJNNXVJTmduenRjc2YzOGlFcUNMZVdCYmFKT3gxUitQU2hGY1d2K3FNb3RFXC9zNlVBWkZCREo5IiwibWFjIjoiNGQzN2NjZmM1YWJkYmU0MjcwMTU3MTdkNTQ1ZjdkYWNmZjJjODA5OTI4YTQ5MjgwNGE2ZGFmN2NlNDgxNTFlNiJ9&amp;signature=66f98484059ea3ce07c5d167e27df725b0b818e50d59d72d33bda33b2d1cfda4</image>
+    <start>05:00PM</start>
+    <finish>07:00PM</finish>
+    <date>13 January 2026</date>
+  </channel>
+  <channel>
+    <name>MSNBC US</name>
+    <id>MSNBC.us</id>
+    <title>Live: Katy Tur Reports</title>
+    <desc>The latest breaking news, reporting and live coverage of the day's important stories; discussions with newsmakers, journalists and politicians.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6ImV3RnVlbmlQSThXaHI3SVpLekxKbEE9PSIsInZhbHVlIjoiaE1JZFNGUFZFb0FVY0t3WWhNNFRzUTh6SXRIQnZmU3hWVHlrTFVzSHRwMVdJemI4Vm9nSHplNTQyTXV2dExadE40SG1tZjAzWjdPRkY4T3lKcU1ZR01WUThJYThDd3RGUHdaS0czZDdibGdqM05cL3BrbHVJb0pWTFEwT0F6cHVkIiwibWFjIjoiNDNmZGU2YmY2NmEwYTI3N2JkODMzNzMzMmUzMDcwNmJmNjlhNDAxNmE5MGFkZWU4NmE5YmI5MGFlYTcxZTdlZSJ9&amp;signature=438ecc2f4c2814cc2e763f08003c8bc68bcdd04701cc2150dde2982d841fe30f</image>
+    <start>07:00PM</start>
+    <finish>09:00PM</finish>
+    <date>13 January 2026</date>
+  </channel>
+  <channel>
+    <name>MSNBC US</name>
+    <id>MSNBC.us</id>
+    <title>Live: Deadline: White House</title>
+    <desc>In-depth reporting on political developments and dynamic discussions with leading newsmakers, with insights into complex issues.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6InNob29XV0xnRWpRaWdENjRCR0RWNnc9PSIsInZhbHVlIjoiMmVwSnVDamdRSkgwXC9rM2t0eVI0YXZKS1F1K0hzdVR0YWg3SDBJSTJcL0FSMDVJWHN5XC9mMGZiUCtLcXRYcGlPQUZnRXNMWVQ1TkI1dnhRQnBcLzZQREpwSkZIZ2xUeHRpd2N4aDZGeDJkbCt4TlIzSyt5Qkw0dVNMbnB0cHZ5WXhaIiwibWFjIjoiNjZkMGY5NDcyNDYxMTIxYzcyNTRhYTJjYjczNzFkNjQzYTFmNGRhYjgzNzVlYTE0MTQ5OWY3MGMzNjUxNGMzZCJ9&amp;signature=75fc1776f5b00296a6c44dc60c072f7d960b13659bfc00c2f5f328a90b397d50</image>
+    <start>09:00PM</start>
+    <finish>11:00PM</finish>
+    <date>13 January 2026</date>
+  </channel>
+  <channel>
+    <name>MSNBC US</name>
+    <id>MSNBC.us</id>
+    <title>Live: The Beat With Ari Melber</title>
+    <desc>Attorney and journalist Ari Melber dives into political and news stories with interviews and original reporting from around the nation.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IjVDR0FzdGJKTHg4SHlDSkdQRE1Henc9PSIsInZhbHVlIjoiUHY5eTBRRWhKUDF0b0Vkb2dLbVJcL2JxQ1N2alA5TnBHamVVTFBNaGxxaitNMUh2bEZ5VG1KM2tKeG41SGlwTlVaQWdQMlhCYllNMmRYamN6dmUyK1ViS2hLNFNyNjA4Z3c2aVYwbUdTa3g4NzVcLyt2SnZuM3M0dHJuNEJVWHRtSCIsIm1hYyI6IjAzMmM0NWEzYWI2MzZmYmFiYjU2ZWEyM2EwYTQwZDc5ZmU0ZDJlNGYxYjI3YjViOTUwNDAxYzk5YjliN2I5OTQifQ%3D%3D&amp;signature=d66b8720aa2da97e25d35f98c5f05f7731b4cf0941d5fdf16cbbea4f2aa72e09</image>
+    <start>11:00PM</start>
+    <finish>12:00AM</finish>
+    <date>13 January 2026</date>
+  </channel>
+  <channel>
+    <name>MSNBC US</name>
+    <id>MSNBC.us</id>
+    <title>Live: The Weeknight</title>
+    <desc>Alicia Menendez, Michael Steele, and Symone Sanders-Townsend's one-on-one conversations with politicians and newsmakers, and the breaking issues of the day.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IkhYTTI1b3MybVBBeTVlbXF1Nmg0akE9PSIsInZhbHVlIjoidFRKa2ZYeGdlS3RaZ1ZcL1pzQ0VVZE5VT0RGaVhKbmg5QTVvZFhGOURGeG10YkNtRXl6WCtIdlpaMkpXUTYzU2laK3QrcnBNN0xBVVwvalRlbnVpSlA2cTVsZmdVVFEzVUpLN1VBVTgzakorOEtCVEgxUlI1T29HVHY2bCtmS3hDZiIsIm1hYyI6IjUyYWFlZWM0M2QwZTk0MDlmZTMzZWEzODBmYzYyZDE1Y2I0YmZmMzZkNGQyNmM1NjYwOWVhNGNkYzI5M2M1MTYifQ%3D%3D&amp;signature=46f19cfd913d51757a3a73a1592a6230b0ac6ff0cc879d520dabc3f205b261a2</image>
+    <start>12:00AM</start>
+    <finish>01:00AM</finish>
+    <date>14 January 2026</date>
+  </channel>
+  <channel>
+    <name>MSNBC US</name>
+    <id>MSNBC.us</id>
+    <title>Live: All In With Chris Hayes</title>
+    <desc>Chris Hayes reports on some of the biggest news and political stories of the day with a commitment to in-depth reporting that seeks to hold the nation's leaders accountable for their actions.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6Ilo3SlNRYWJEeGNcLzY1anZ1M1htdHZ3PT0iLCJ2YWx1ZSI6Ikl2SURSdWZINjRtc2pQWkxIdVdBN3JtVXN0dElKWkpRUnU3UHR4OVhON1FtaEVZXC9wMDZOazlXSzBTOVlrNlZZUFMxTUN4Q2FNbmIxWUlwUXpKMFVzbWIySnFyU2lCZGRzQVl6TVwvdnFlQm1QYkdUczJhVklYTzJwNjE3SlB2NnAiLCJtYWMiOiI0NjRkNzU1MDlmYWY1NTAzYjNhNGNjNWQ0NmQzYmNkNDE2Y2YzMWQxNzhmYjA2OWQ5ZjYyNjViNjhlYWVjOTY1In0%3D&amp;signature=3ccacdaa691bc8e0a94cb93f7258cb7953719aa48acc7bb47c9baccec0882db7</image>
+    <start>01:00AM</start>
+    <finish>02:00AM</finish>
+    <date>14 January 2026</date>
+  </channel>
+  <channel>
+    <name>MSNBC US</name>
+    <id>MSNBC.us</id>
+    <title>Live: The Briefing With Jen Psaki</title>
+    <desc>Jen Psaki tackles the issues of the week and features one-on-one interviews with newsmakers.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6ImswU3Z2XC9zUFV2SVFtbXVhNXErU0pBPT0iLCJ2YWx1ZSI6IkpJRTUwU2tvM0dId2tJOHJ5MmE1UnJFXC91U2dxSmpQcEpDcGoxdkJDT1RhRHdmT3lzT1wveWIwMEwzSlBQcjlNYXc5RmRJV1wvVm03Nms2WU8zcWpZVisxa0srNkFFQ0NrTm5Odms3NmNtcUtQaFpFVktwYUw3VTVXTzY0dE5VMFlcLyIsIm1hYyI6IjcxMzFjYjQyNDFkNzExNWE3MGMxNmMyYjJlOTNhNDBjN2IxNTQyMjJjMWJlMjEzZDUyMTFhN2RmNmNlODg0ZjYifQ%3D%3D&amp;signature=8240c2d735e546183ee70c7c0ce9aab222bccbeb29e57c0efa348abebde1228a</image>
+    <start>02:00AM</start>
+    <finish>03:00AM</finish>
+    <date>14 January 2026</date>
+  </channel>
+  <channel>
+    <name>MSNBC US</name>
+    <id>MSNBC.us</id>
+    <title>Live: The Last Word With Lawrence O'Donnell</title>
+    <desc>In his signature style, Lawrence O'Donnell goes into depth on the latest news developments and offers his take on the political stories driving the national conversation.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6InE4bEN4QVZHbFVYRFNIRmJoN1BuSVE9PSIsInZhbHVlIjoiYktvQktMSW14R1NzU1JoS21Rb2Z6TllBT0hCSmdrNXRER2k4MDhzSjhsSkU1dDFLV2FTUFwvdkJyQjFHSkozenhDUVFacDBxbEM4aWs5ODkzR3NlQzdHTVdwQ0RpT1A2andUTElWVitkWHlCK1IxWGcxWkdjQ3NNVFl6NFwvamxqSiIsIm1hYyI6ImNhOTVlMDI3ZTAzY2QzYzBjZjc1MGU4ODZmYjRkZDgwMDhkYmNlNWNjNGFiZGQ3NGVjNzQ1MjczNDZhOTI0ZGMifQ%3D%3D&amp;signature=c1c8e9165fe319422cb84793b6d3d1134b5330a5acb6597dd427738ad57a41f9</image>
+    <start>03:00AM</start>
+    <finish>04:00AM</finish>
+    <date>14 January 2026</date>
+  </channel>
+  <channel>
+    <name>MSNBC US</name>
+    <id>MSNBC.us</id>
+    <title>Live: The 11th Hour With Stephanie Ruhle</title>
+    <desc>Host Stephanie Ruhle brings her business acumen, hard-hitting interview style and original reporting, uncovering stories that affect everyone.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IjVIUGUzWWhCQ3BkaWRXY3JITU1ZTHc9PSIsInZhbHVlIjoidDErWGswQWtvWHA2Z1liekFEZ0xxMEZkQ2ZMenNuOVcxc3VEbDQrSjJxTHBQNHNCZTdVY0M0NjhndHdIOGFGSVwvZ0pib1dOaWpIcW5cL2lmU3BmZ3Q3cWtCeFwvMXUwVlN3V2w0Q2xUclR1MW4yMHhiOEZpdzZmSGU3bFczZnpveWsiLCJtYWMiOiJkNzI3YmIwZDY0M2Q2NDQzNWUxYWQ0NjNiZGU0MThhOGJjYWJmZmY2NWJlMjg1ZmFiODMwYzIzZDViZWM3NjVhIn0%3D&amp;signature=932adf5fe677432632ffab200469bb11a4b39fc20d90f2b2fd3d4830c5d5cba9</image>
+    <start>04:00AM</start>
+    <finish>05:00AM</finish>
+    <date>14 January 2026</date>
+  </channel>
+  <channel>
+    <name>MSNBC US</name>
+    <id>MSNBC.us</id>
+    <title>The Briefing With Jen Psaki</title>
+    <desc>Jen Psaki tackles the issues of the week and features one-on-one interviews with newsmakers.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6ImxnTDhwQ25JdHZybGplOTFFbCtCOXc9PSIsInZhbHVlIjoiVk9LMkhcL3Z1MnMzaU5QeTJWdWRDNVwvVFJkSWJkSzFIdllyUjZNZEo4WVVmcVZ5NUFJenBXcjJoOEpHXC96S1NWVTliOVFGaTVcL2NlcjVtbnRcL1Z6elwvWFY2UG9nYU9nMWNaTGx6SEkxUktvbk9nODNuUFZYSmYzbGlISmpCYndKMjYiLCJtYWMiOiJkZDQwMjZjMzcwMWFmODVmMzM3YjQ5Zjc3NDk0OWNlZDhhYjU4ODA3YjZkYmJiYTdhZDg0YTFiNzgyZjY3NGI4In0%3D&amp;signature=3cb8fe47bc082e6e9f92b97290040c06e5161ae04a42802a07425b1abfeec7b8</image>
+    <start>05:00AM</start>
+    <finish>06:00AM</finish>
+    <date>14 January 2026</date>
+  </channel>
+  <channel>
+    <name>MSNBC US</name>
+    <id>MSNBC.us</id>
+    <title>The Last Word With Lawrence O'Donnell</title>
+    <desc>In his signature style, Lawrence O'Donnell goes into depth on the latest news developments and offers his take on the political stories driving the national conversation.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IlwvbENSRW51cXlxT1JEckh1NDMrdVNnPT0iLCJ2YWx1ZSI6IjV1aDVmWmxxMklhQm84MUF6alA3elpKMGJNUGpIbmxDaVRrc1B1c1JsaTdaTzAwTWpnVmcydVljTExjMm9FS2tReFBGOTNva1lHcFJvMEpBaStjXC9NTkFVeXJNNXVqWU92cERwVEhWT3EzR2Z1S05qVzR1Mm5uakp2YWVXWGpPMSIsIm1hYyI6IjBiNjhlMmM4YTIzZWIyYzVlNDM2ZDM5ZWY0YjQ2YzQ3ZGJlMDkwODZjZmFmYzE0ZWRlMmY1ZGFmYjU0MTQyYmQifQ%3D%3D&amp;signature=cb4764dc67d736d477f71ad3be366abb241bbece72806cbab92b09d6c0ff8551</image>
+    <start>06:00AM</start>
+    <finish>07:00AM</finish>
+    <date>14 January 2026</date>
+  </channel>
+  <channel>
+    <name>MSNBC US</name>
+    <id>MSNBC.us</id>
+    <title>The 11th Hour With Stephanie Ruhle</title>
+    <desc>Host Stephanie Ruhle brings her business acumen, hard-hitting interview style and original reporting, uncovering stories that affect everyone.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6Im1EMDVtcEtGREZnc3NTaEZWaXZ6bkE9PSIsInZhbHVlIjoiM2ErWVlTY1puNjRJTXJxVEpyckw5SnJpZ2pmdTFVM3FHZlRqZzBQcDBuZXlvY29QN1Z6eVJVUWtHbVpETExMMGVmQlp1aWJ0WXNCeEU3RGZuV0F4bTBubERDZWRXWTZDTXhyRlU1N3NmRzBIb0dFWVN6b0FIUUREMlZVYXhWcGIiLCJtYWMiOiJlYjQ2NzNiZjkyNzlkZTdlMDc4ZGIzNWM2YTJlMzMxNjg1Zjg3NjNmZDc1ZGRjMDc3MTUyYzQ1MDUxNmVmOTgxIn0%3D&amp;signature=f0c1d6f9f4e83f0ec54c43b305bc5587074dad2bffcd81176069c41ae073ea2d</image>
+    <start>07:00AM</start>
+    <finish>08:00AM</finish>
+    <date>14 January 2026</date>
+  </channel>
+  <channel>
+    <name>MSNBC US</name>
+    <id>MSNBC.us</id>
+    <title>All In With Chris Hayes</title>
+    <desc>Chris Hayes reports on some of the biggest news and political stories of the day with a commitment to in-depth reporting that seeks to hold the nation's leaders accountable for their actions.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6InpEd1wvVXpGc1lMeW5XWk91WFh0M3ZnPT0iLCJ2YWx1ZSI6IjZUdlpnTWxVSVVGSVwvbDZSSGJnNXZCeEFQOEFGVTVJNFwveDBLUmNFTFZ5S0M0cWhLcUNzY2J1SkZ1UnNaMEdYNVMxSmZLeWN1U2tWb2RjT3RWUDFETnBiaGVhU2xwYmh1T0tobk5nVFRjemdYM3NTMHhCa0VRSzhIbHAyU3J6Sk8iLCJtYWMiOiI5NDk1YmEyNmU2MTZlNzgzYzE2NzJhMTJiZWQyMDU4NmZmNmFjNGU5NDRlNjM5YzEyOTJkYTRlYzc4YTA3ZTg5In0%3D&amp;signature=24279f75b80bbc2c4e69deff2966f4788966f7bd0c02dd1287d4a42dc89a478e</image>
+    <start>08:00AM</start>
+    <finish>09:00AM</finish>
+    <date>14 January 2026</date>
+  </channel>
+  <channel>
+    <name>MSNBC US</name>
+    <id>MSNBC.us</id>
+    <title>The Briefing With Jen Psaki</title>
+    <desc>Jen Psaki tackles the issues of the week and features one-on-one interviews with newsmakers.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6Ilc2REE3TE1hK2pGNG1WeXlZSllnN1E9PSIsInZhbHVlIjoiOWVCbWd4V1U4VzY2NjFGVFpxNkFHbXdNQVlWTnhuRjZQTUg5Z21KcXRjdzNMRnd1aGlINFdJcTduWlwveUhmT2MwYldwbVFMMU82VkRFaGtWSHlqXC9sXC8rTjZjV2NGdkxwUkgzZWczUXB2UWs3ZHUyaVNKSG9XMVNXTXFRbWZkZmwiLCJtYWMiOiI3ZjFhYjM0MjA0OTIyMDYxYWIyODg2ODA5NDAzZjJiNmFmM2ZhMzQ1MTUwYWFjNDYyMjQ1ZjdlNjg2MDZhNWViIn0%3D&amp;signature=bdf359de45607773307ba38cded9ba21c880b5774954344e462720e48777ed64</image>
+    <start>09:00AM</start>
+    <finish>10:00AM</finish>
+    <date>14 January 2026</date>
+  </channel>
+  <channel>
+    <name>MSNBC US</name>
+    <id>MSNBC.us</id>
+    <title>Live: Way Too Early With Ali Vitali</title>
+    <desc>Inside-the-beltway political news and critical stories shaping the national conversation.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IjFBSDJqMEI1dXNXUEorbHZcL2lFZHR3PT0iLCJ2YWx1ZSI6ImRCTU5ITlNWeHk1RDlYM0t2Qkt0c1BoK1J3VUt0bWpxdGZ0amJIMkVndFVIeTBqYWxHU3VVXC9VdXl1VXdRTnYrUVhETm92cE03M3BCMXcxcndPMmFydXdOYmdUVVpQWTgxTzVQTU5xamdNcVE2bTlIb1JTQzloS3ZSWVRtTGFIayIsIm1hYyI6IjVmODEyNmY3NDMzYjkxNTNjOTllNjYyNjI1YzE3M2JkY2RkMWU1ODY2NGFhOGUzNGVhNzQxZWM3OGNhZjA1NDgifQ%3D%3D&amp;signature=7fb0e03c62b9567c1b4ef3e4877537ac19ddf9cc548b631efc7cea78b54bb383</image>
+    <start>10:00AM</start>
+    <finish>11:00AM</finish>
+    <date>14 January 2026</date>
+  </channel>
+  <channel>
+    <name>MSNBC US</name>
+    <id>MSNBC.us</id>
+    <title>Live: Morning Joe</title>
+    <desc>Hosts Joe Scarborough, Mika Brzezinski and Willie Geist present in-depth and informed discussions that help drive the day's current political conversation.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IkJmYVwvem82QTliamlRM2Q1S1RIOHFBPT0iLCJ2YWx1ZSI6ImRIVGZCdTd4WVh6THlOM2FWSktySVVUMlIxSUNFS1BwYmVcL0ZZNVlLcEpvd0E5eHNrTkxcL0RaSWZEV1l5RVFJQnNlY2pnZGsxRm91b29NczhNRjRNTzY1WklITHptU3hxcW9rZWpKZ1dcL2sxRGRkelJoZXVQUjJXM1hCQUNSbGdzIiwibWFjIjoiNzE4ODEzYjkxMGNjOGQ2N2JlNDA4MmY1YTFhMDg4OWJjZDlkOTUyYWFhOGMxMGJmZmRhYzQ4M2YwNmNhNGVhYSJ9&amp;signature=1cef3bf6c797e113319b93fccc5f12ffd561f685b58b91b19556cc4c6f02262d</image>
+    <start>11:00AM</start>
+    <finish>03:00PM</finish>
+    <date>14 January 2026</date>
+  </channel>
+  <channel>
+    <name>MSNBC US</name>
+    <id>MSNBC.us</id>
+    <title>Live: Ana Cabrera Reports</title>
+    <desc>The latest breaking news, reporting and live coverage of the day's important stories; discussions with newsmakers, journalists and politicians.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6InBVNDFoMURqZ1ZvMW9MSjBhRVlKZ1E9PSIsInZhbHVlIjoiTktDQWN4T0daSG53R2pDejVXd2hWK1RpWVNBWkRmSUpCd0NkeHFoSjgxZWRvU2Z4UVJ0VnBpZmJjVmRVY05vak9Ba0ZwSlVZSGloMWYzSzc1T0lYbVVLQ3JJNm8yQTNmXC91SlZSWHUwN1FkSU9IVW9ScjF0R20xOUlWaFkrR3dNIiwibWFjIjoiNjRjOWMxMWQ3OWNhYzI2ODRjMTk3ZTQ1Y2RiYjhlN2M3NzQxNjRlMjMzMWI0NTZiYTE5YWY2MjQzZTEyNjVlNyJ9&amp;signature=078a15d17ee8289a15c4bdbe94db83e77163476517e529703a26c5b52e3dfa66</image>
+    <start>03:00PM</start>
+    <finish>05:00PM</finish>
+    <date>14 January 2026</date>
+  </channel>
+  <channel>
+    <name>MSNBC US</name>
+    <id>MSNBC.us</id>
+    <title>Live: Chris Jansing Reports</title>
+    <desc>The latest breaking news, reporting and live coverage of the day's important stories; discussions with newsmakers, journalists and politicians.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6Ikd6SWJpaFJCbFlZV2hsSlB2SlFyYVE9PSIsInZhbHVlIjoiekMwRzlFS2Z6MnptdTFsTDBaRzVFU3JDSlFYTXRjTEF4Y0dXYUF0Z2pUdzBtSDBWWldiQ2ZPZjR2UzJVbmZ2TEx6WTh6MFwvMThUbmw2S1R4WGNKc3JUM1ZTT2FIa1dHeHJBckVMTzdxcXhJVDNSTitnZTlQYmtSUkNZM1hPS1dDIiwibWFjIjoiMjlkN2MwNTY3NGRmZTkwMWZjY2FiNDI3ODk4ZTA1MGFmYTMzMjk4YzRiMDExYmQwZGQxNzhhMzJkMmJlOTNiYiJ9&amp;signature=118d63480f490e41d18591dccec3fb18bb1a25115b7024f0af6ca007389cabf5</image>
+    <start>05:00PM</start>
+    <finish>07:00PM</finish>
+    <date>14 January 2026</date>
+  </channel>
+  <channel>
+    <name>MSNBC US</name>
+    <id>MSNBC.us</id>
+    <title>Live: Katy Tur Reports</title>
+    <desc>The latest breaking news, reporting and live coverage of the day's important stories; discussions with newsmakers, journalists and politicians.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IngrbmJDVFdab0lhVzJWRVwvdjloUE53PT0iLCJ2YWx1ZSI6ImZZcTRjWjhrcmJnRDFteDlQZ0xsK2JLT2FOMXkzSEpSM1luSlJGM3VBZnJYS3hMUHVOeVBlekpHcldhdUtNb0o5bDdoOEcxUURNUFNrMmVjVFMwMm5HTGt1eVFYdCtMdEdKemg2SElOWk0rd0NPTUZ3aUdQT1hKdUZjOVVPa2ZRIiwibWFjIjoiZmYxZDhmZTYwMzFhMjllNGMyN2ZiNDg0OTdhYjhjMjY3MTRjNDA0OWE1NjUwNWFlZTViZmE4NjJiODg3YjNjMyJ9&amp;signature=5e9764cd987fcc0448ce12147d69c91c8c38629af9d6280d37c1a6908a393dc6</image>
+    <start>07:00PM</start>
+    <finish>09:00PM</finish>
+    <date>14 January 2026</date>
+  </channel>
+  <channel>
+    <name>MSNBC US</name>
+    <id>MSNBC.us</id>
+    <title>Live: Deadline: White House</title>
+    <desc>In-depth reporting on political developments and dynamic discussions with leading newsmakers, with insights into complex issues.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6InExQXRmV2pNRWRJSm1ySmtOZ0VEZUE9PSIsInZhbHVlIjoiazNmV0dXdGt3QjF2K1BHczcwd2lEV0w5ZnZlVUVyQ1wvZGNKcHlxY2JcL0gwQkM2dWhKTytDQ1FnRFhyYUozbUVEbEJJTFphUU01UFdJUThDRHFKa1FWUEFyQ1JVU21tZ1BwYkt0QmE4bG1HUkQyc2JUczdSZGQydFJFK2hrTGtTRyIsIm1hYyI6ImZiZGE1MTdiZTUzYTRkY2FiNDIzYjRhMjU1MDE0ZTBlOWUxYzdiODNiNmY3NWRmZDhlMmE4MDIxN2ZhNDNhNjAifQ%3D%3D&amp;signature=a07acdd0c9d550be6b1fab570a5f8110f7da2928292cd23b0933ce51f64d81a7</image>
+    <start>09:00PM</start>
+    <finish>11:00PM</finish>
+    <date>14 January 2026</date>
+  </channel>
+  <channel>
+    <name>MSNBC US</name>
+    <id>MSNBC.us</id>
+    <title>Live: The Beat With Ari Melber</title>
+    <desc>Attorney and journalist Ari Melber dives into political and news stories with interviews and original reporting from around the nation.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6InJZSVJMSjZGdWhlVmJ2ZTJJTTczdHc9PSIsInZhbHVlIjoiS1oxdWNHWEF2UzhxZW9SN1NIdjg3MW9XK2lpMUQ3SjhDQjg5TVZmemNVRjcyTEtzbUltK2c4eGl3Y0l4MGtReDE4cEhOUEpJWjE5TlNZU2FnTEpqVml1c0hYUWxIQ1VRbThSYzk1cytMMkxFXC96d2Y5dVwvMENKRzFXS0psR2QrZSIsIm1hYyI6IjE4MDg5NzM4NGUzZWRmYTAwMGI5NzM1ZWE4YzY4NGI1NmQ3ZjdiMjY3OGE4YTI1Nzk3YzlkYzM5NmE0OTE1MWUifQ%3D%3D&amp;signature=1db025ce8a1827506e6e269925b9858ea1fce0a8a3b3a0adc326c49efa825d22</image>
+    <start>11:00PM</start>
+    <finish>12:00AM</finish>
+    <date>14 January 2026</date>
+  </channel>
+  <channel>
+    <name>MSNBC US</name>
+    <id>MSNBC.us</id>
+    <title>Live: The Weeknight</title>
+    <desc>Alicia Menendez, Michael Steele, and Symone Sanders-Townsend's one-on-one conversations with politicians and newsmakers, and the breaking issues of the day.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6ImRVYzNDVjZVaUt6NGdkcTl1V3B5S1E9PSIsInZhbHVlIjoieVhzWnhIY2NaRUdlTGJoczR2Tng2Z2craFpZMnc2cXpJK1ZINkFnVWVieVlBdFlNYlJUcFpnbnFDaHl5Q3cwS3VWRnRkbTA5VFVjdmlBbFRiSlFyZWFwcGpKUVN3YVhRUWJ0UTg3S3hzV1ZhNnBPVU5JQytWTll4YVJUc1BrR1IiLCJtYWMiOiIzNWMxNDEwNGRiNDNhMDg4OTAwNDUwODM1Mzk5MTM3MGIwNjk0M2ZlMjc1MGNkOGE2MTc2ZTVmZDZmYjkzZGM0In0%3D&amp;signature=144a734aadb9788a41591d66faa3ae08565a81d7df18969ef60983dfedc88484</image>
+    <start>12:00AM</start>
+    <finish>01:00AM</finish>
+    <date>15 January 2026</date>
+  </channel>
+  <channel>
+    <name>MSNBC US</name>
+    <id>MSNBC.us</id>
+    <title>Live: All In With Chris Hayes</title>
+    <desc>Chris Hayes reports on some of the biggest news and political stories of the day with a commitment to in-depth reporting that seeks to hold the nation's leaders accountable for their actions.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IncycUx4VXNwVHFLc0dtcGZjdWtGcnc9PSIsInZhbHVlIjoiU05OZWZjUTBweTFEQ1hzYWcwNjB0WGtVYzBHK2sxQWFQcVhVSTFJXC9HOEdkTXp1eGJ4clwvNWFjVFpISzQzSEpJY0REMGdjWldDYXRHU3ZPdUpoNGhtVDhaWk5MMzdoNUlza0xuU2k2djlaZE0rTkZXK2pISSs3aUVoN29GbDk3eiIsIm1hYyI6Ijc0MWZmZThiZTU2ZDk3NzcyNzI2NzU1MTI3ZjJmZmJlMzFiZDljZWIwNjU5ZDJkOGE3N2YyZjhmODIzOTBiNmEifQ%3D%3D&amp;signature=844ea234c43370dd5280a62ef8cc30298443dc6017ce044e33375dc9cfa8ff35</image>
+    <start>01:00AM</start>
+    <finish>02:00AM</finish>
+    <date>15 January 2026</date>
+  </channel>
+  <channel>
+    <name>MSNBC US</name>
+    <id>MSNBC.us</id>
+    <title>Live: The Briefing With Jen Psaki</title>
+    <desc>Jen Psaki tackles the issues of the week and features one-on-one interviews with newsmakers.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IkRsdkZxeUxidmNqbGhLXC9vWENaTTlBPT0iLCJ2YWx1ZSI6ImtoTVkrS0FYUkJ6c0x1OGU2N1VTVWhIdkJYSE9nYlwvVVVaMTZ2YXVJUTNxTGp1NEhEQ3ZUWDlFeE5HYjNXNmFub3FUTVZuRzUwRWNcL1Nqc3ZNNklyYng1QVN2MktDU0owQlF2STJTNmN2S2Fva2x6M3dvUTM5bmd0dDNzeE0rM0IiLCJtYWMiOiI4NWMxNTM1YWQyNTIyZjJlZWZkNDc0NWRiZDM5YzY0NTMzYmMyYTk3ZjRhMzNkNzgxZTU1OGJkMGEyMTg5ODg1In0%3D&amp;signature=d4296f785e674c2d32ee76e85117917dfeec25471b2e2dcba8eb32bc2d01a28b</image>
+    <start>02:00AM</start>
+    <finish>03:00AM</finish>
+    <date>15 January 2026</date>
+  </channel>
+  <channel>
+    <name>MSNBC US</name>
+    <id>MSNBC.us</id>
+    <title>Live: The Last Word With Lawrence O'Donnell</title>
+    <desc>In his signature style, Lawrence O'Donnell goes into depth on the latest news developments and offers his take on the political stories driving the national conversation.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6ImZsRnRjVnlRMUNTdFpNTUFXenQ1TkE9PSIsInZhbHVlIjoiTXdjanVVdmVuZ05TYkxaRDNtZ3FIXC84Qk5aOUpQanRNa3d2dWd0RHpUZk9ZdnFjZyt3b0I5ODNqNkhBV2NJQVpxZnUxWXR5K3VoaE53YWppQlwvZkJkbW5BOGlhV0YrRWtDTDFtdWhqNVIxbFwvOGVmcENNYkNwUDEzSzZMa0MzdWoiLCJtYWMiOiI5ZmZhNDg3NzhlMzgzZjIwNjY0ZGNmNzQ0MTIzMzQ1NDM3NjdlMjA5MDA4ZWIxYmVhNDkzNTM2YjgyZjI2NjY3In0%3D&amp;signature=5d4880b3e71b597b8d17a998db9522e01f6459c84b4eef5c8b4b4647783a7288</image>
+    <start>03:00AM</start>
+    <finish>04:00AM</finish>
+    <date>15 January 2026</date>
+  </channel>
+  <channel>
+    <name>MSNBC US</name>
+    <id>MSNBC.us</id>
+    <title>Live: The 11th Hour With Stephanie Ruhle</title>
+    <desc>Host Stephanie Ruhle brings her business acumen, hard-hitting interview style and original reporting, uncovering stories that affect everyone.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IklTaW9jOWw5K09TdFhLNldDN29Sb0E9PSIsInZhbHVlIjoiY2Z1M0lLeUlsdWswVm1PWFZIZ2ZKUWtDdUVDQTJyOG9rUG9UUTA3T3JtcGhqOWx0WXd5VEppbmdVVUxcL3ZnQkxOS0NJSnF4MzVidjNFWUNvS2thOWRDQmFwZTVhVzF2Rjd0WmlBQmFBU2FvM2VBdjFwaXYrMmExY1JWVXI4d2FnIiwibWFjIjoiOGI0NzhkM2MzMzlhNjhhMTQwMjIzMTM3YmVjNjcwMjQwYWY4YmFkMWI4YmMwMDczOTkwMjMzZjBmYjQ0MzkxOSJ9&amp;signature=9c5f01ce416f5c19c60e2d59d6492502067297ef10074a0e6822943812365114</image>
+    <start>04:00AM</start>
+    <finish>05:00AM</finish>
+    <date>15 January 2026</date>
+  </channel>
+  <channel>
+    <name>MSNBC US</name>
+    <id>MSNBC.us</id>
+    <title>The Briefing With Jen Psaki</title>
+    <desc>Jen Psaki tackles the issues of the week and features one-on-one interviews with newsmakers.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6Im40NCtUYkJhS2FEaEg4TzI0aXVXVkE9PSIsInZhbHVlIjoiWHkxVzN4TmlGaklFY08yQlVXd3R2a3kwUzhNdThvR243ZzhjVVhwY1pHdHBUeFwvMGh1bEgweWNidDE5bll1bkJQNEt1ZW9MRjY0SmVBSllFd3ptTDhlQnpySWordUsyMDk0R2NXd1VqVEZmdXlvTGVTcHVVaDYxWUNZUVA0bWhnIiwibWFjIjoiMzM0NzA2MzAxMWJhZDIxODNiMjJmOTIzNTZiMTRmZTdkNjAxOThhNDg4MWU1OWY5MDg4ZDM0MThlZDA4NmE2MiJ9&amp;signature=cabd985cb06c975906f7e634ead713ad12a1a90c6381e6a272ae95c61e25cfe6</image>
+    <start>05:00AM</start>
+    <finish>06:00AM</finish>
+    <date>15 January 2026</date>
+  </channel>
+  <channel>
+    <name>MSNBC US</name>
+    <id>MSNBC.us</id>
+    <title>The Last Word With Lawrence O'Donnell</title>
+    <desc>In his signature style, Lawrence O'Donnell goes into depth on the latest news developments and offers his take on the political stories driving the national conversation.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IjBRMVFseUhPYktLSFRaM1VmSzdKeEE9PSIsInZhbHVlIjoiZnZxMmZEY0NQdjgrem93VmtUV1IraVJWZTBDa1JQdnJlWHpkNDJYQlpCejJickJtRDNpZHpHc0swb3M0empMZzFiVnE1ZlFsSXZ0VW1keW9iQnlJc0I4K1hYQWhDRWoyaUI5OWwzQVdNakx5T1ZtTVBcL1FWQjBuSE1nWmtNV3dhIiwibWFjIjoiMzFlNDRjNGQ3Yjk0ZmQxZjE4NzYyOTMwMjY3Y2ZhYzg3ZTgxYzMxZDUyOTk1NjQ5OGZjOTI0ZTBjMzllMTkyMyJ9&amp;signature=7c9bdc56a995813fbfeca75d71bc5bd94be636ad5827af2c68d551759fac3789</image>
+    <start>06:00AM</start>
+    <finish>07:00AM</finish>
+    <date>15 January 2026</date>
+  </channel>
+  <channel>
+    <name>MSNBC US</name>
+    <id>MSNBC.us</id>
+    <title>The 11th Hour With Stephanie Ruhle</title>
+    <desc>Host Stephanie Ruhle brings her business acumen, hard-hitting interview style and original reporting, uncovering stories that affect everyone.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IkdvRU5WUVowRTVON2FSNlhYeFgwbFE9PSIsInZhbHVlIjoiT21WU1V4XC9CWjhyaG4zeTdjWEUrbXBTK2p6bzZMUGVxQXA1eHRkUFB1SVUrT2J5VHpMUFRWcW5rNFVyb0o5dzBieFhMSHljMWY3TUYzR3g3RVwvMXZVN2k0YTRpeE9WK0U5Y0F4eSs5Z20wZHlmcnpMSlI4dHluVTFuOEVuY3F0eCIsIm1hYyI6ImEzODNhYmE2OWJkNTRiMTRiNmY5Nzg1NDRjZTI5ODYzOGRmMDc3ODZkOGNkMDgxNTk0MDg5MmZhMzk2Nzg4YjkifQ%3D%3D&amp;signature=2f7de2b7c620f8f6bd0d2504bbf0c2fbddf3ca72d88e1fc34b56cbaaa6e108f0</image>
+    <start>07:00AM</start>
+    <finish>08:00AM</finish>
+    <date>15 January 2026</date>
+  </channel>
+  <channel>
+    <name>MSNBC US</name>
+    <id>MSNBC.us</id>
+    <title>All In With Chris Hayes</title>
+    <desc>Chris Hayes reports on some of the biggest news and political stories of the day with a commitment to in-depth reporting that seeks to hold the nation's leaders accountable for their actions.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6ImdlOHc5WFlvOFRKNlFEeXdwYlwvWnB3PT0iLCJ2YWx1ZSI6IktlSjlNdHlJYWlwYWJVOUY1bG9oOEN1M0R0ZWNjWHRMVlwvQ21VXC9iWEtoRlcxTUV3V1wvbTVpVXlaaUF3aXFmNEFGYTBVMGxtd0duTGt3TEdJWUg2YndpeGdSYVVocTRZUlpJOGZDSHd0QXJOUXFiSHpLU2tMaUdLUEFBR3VKR0xsIiwibWFjIjoiODI0MDU3MDNkYTRiNmIzZGVmZDlhM2ZiOTkzMGRhYjdhODAzYTJmNTgwNTJkOGUwODg1Mjc2MmU5MzRhZGIwNiJ9&amp;signature=50669e04d1710630676c454ae37465cb1bca998f92b4cf3c074be271f7ac463b</image>
+    <start>08:00AM</start>
+    <finish>09:00AM</finish>
+    <date>15 January 2026</date>
+  </channel>
+  <channel>
+    <name>MSNBC US</name>
+    <id>MSNBC.us</id>
+    <title>The Briefing With Jen Psaki</title>
+    <desc>Jen Psaki tackles the issues of the week and features one-on-one interviews with newsmakers.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6ImRZd1FlXC8wSnlIQjB1ZlVUNW9yQURRPT0iLCJ2YWx1ZSI6IlwvMzVrSnh1bnZEOTdKV2RJNlNmdFI1aVRuOE5McHdqMFlJODdqNEVkXC95RGFTb1JcL0hIYXZzZjJFVThFRjFPUWl3UWNxc1RCSVg3R2V3SjlJUWU1ek9GRWN0Tk9vZ0E0eUU0aUZ6MW1lSjB2Mm9JWHFNSDRFU3RIMmRzek1YbENsIiwibWFjIjoiZGE0N2FjMGQwYjg3Mjk3OGNjZmJmZDU1MjRjNzE4YThjN2E4Mzg1NGIzMzU4MGNhMzMxZWY1OWI0MjhmMjBkYSJ9&amp;signature=989f0658c8a0dc683c7ffe3868178cfb1b32e7ee0091c4224d927f8e0d02f1bb</image>
+    <start>09:00AM</start>
+    <finish>10:00AM</finish>
+    <date>15 January 2026</date>
+  </channel>
+  <channel>
+    <name>MSNBC US</name>
+    <id>MSNBC.us</id>
+    <title>Live: Way Too Early With Ali Vitali</title>
+    <desc>Inside-the-beltway political news and critical stories shaping the national conversation.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IkdBR2hUN3U3QlplN05NT0REWjFuM1E9PSIsInZhbHVlIjoiK2NhbHZXbGJ5YVwvMEkranNUYXhDU0tHbkJpZUcybTZma2Vtd3BjS0N1aWdINHhSb3h2MzNUZE9wcHkzU1lMYWtENVVWTjBmanh2djdicnpUbjNFZ1ZsMGhUVjljMkZRcSt3TmhLXC9jV255d3hHS2tUbVdaeGR6OGVXQVwvZTFlanEiLCJtYWMiOiJmNDQzYjVjNWIxOTMzMDcwMGJmMmFiNjM0Yzk1M2Y0MDAzYmFiZGM1M2JiN2Q4YjViYWFjZDZiMDFhYzBlNjM2In0%3D&amp;signature=0bc17cb03c5c0f174e53acec93cc9518af5e0a169b236f8a9cbea2f529cabd94</image>
+    <start>10:00AM</start>
+    <finish>11:00AM</finish>
+    <date>15 January 2026</date>
+  </channel>
+  <channel>
+    <name>MSNBC US</name>
+    <id>MSNBC.us</id>
+    <title>Live: Morning Joe</title>
+    <desc>Hosts Joe Scarborough, Mika Brzezinski and Willie Geist present in-depth and informed discussions that help drive the day's current political conversation.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IjlCK1lKZUNJdXF0Nko0VFFMWm1XMGc9PSIsInZhbHVlIjoiN0E2eHlHTVFxYjFFdWhXekxNQUVVdmJEYjZzdkgxQTJBYnVqd3NheWtld05MQU9DOTB4TWhSd0VEQVNKRGVnT1NkbURxeGsxRlVEc1BGMkE5ZXZVaFVNd3dyZ21XZFJCbDJ0b2tLbWMraG1cL2dTYXlCNHY2bVVRdkFmamhBdmJQIiwibWFjIjoiNjRhOWYwZDNkN2EyZTMxNDE2NjQyZTEwZWRiMjYxNDU2MzUzYWRlNWQ3Yjk5NDNiNjM2ZTA4YTIxZTkzMTU0NSJ9&amp;signature=ee7447bdfcdc17d1549801a40c8d0b798987287ff3e79a2c5b8aa0d719705f8f</image>
+    <start>11:00AM</start>
+    <finish>03:00PM</finish>
+    <date>15 January 2026</date>
+  </channel>
+  <channel>
+    <name>MSNBC US</name>
+    <id>MSNBC.us</id>
+    <title>Live: Ana Cabrera Reports</title>
+    <desc>The latest breaking news, reporting and live coverage of the day's important stories; discussions with newsmakers, journalists and politicians.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IndFVDVXUm1EQzFFY01oSE9MU2czclE9PSIsInZhbHVlIjoiSVVkU3RJUFVSYlNIT2ZzbFh4aHNIUk44NGNHWjJGMEh1Z2xja3VsTXNLeDhMeHdCWWpmYzFaV0VjWUFhdU81T1YybSttSFRaTU1DSkY4K1g1d1Q2a3RXRFVCMzFZdG1Mcnh6ZVlzSHpZb0o5YjdwSWtxRFBHTTVZT2ZockxWeEkiLCJtYWMiOiI5ZjkyZTczMGQ1ZDQ1OWM3ZDMyNjJkYTEyYzBlZWQ1MTUzOTAxNzU5NzAxZTQyM2UyNDA3ODBmNDI1NDMyYmQzIn0%3D&amp;signature=6ad25833e36494ce3d404cc9438532449679f88b8af3b14c6e17b17ee1ed6b79</image>
+    <start>03:00PM</start>
+    <finish>05:00PM</finish>
+    <date>15 January 2026</date>
+  </channel>
+  <channel>
+    <name>MSNBC US</name>
+    <id>MSNBC.us</id>
+    <title>Live: Chris Jansing Reports</title>
+    <desc>The latest breaking news, reporting and live coverage of the day's important stories; discussions with newsmakers, journalists and politicians.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IlFwdmVCMFR2TW9wNW9UM0FnVTRSTEE9PSIsInZhbHVlIjoiSGxkVGZsNTRmQ0tGNndxblFyMmtUNDhqakVFMnpvekxPamNsak1HWFwvcnNiWVlwcGN3RmhBWU5JdFFMdE9EbG5GdExaXC9xaTY1bHBpeDBLeWRYWEVKUkN1eG44V0F3c1g5c2xFcGtyWmFkOGtqOVQ1WmhLaFkxMDhjVXMwTnc1TCIsIm1hYyI6IjNiMGE4Y2QyZmNjYjc0Mjg4ZjNhMWQyMDJjZTQzNDM3ZTBjMTk5Y2ZkMjFjMmQ5NDIyOTljNzAyODBiMDNmYzMifQ%3D%3D&amp;signature=ab2e8c9c4aa672792c030f18c52cf465e62735d4b734aba64589faac23bd2e64</image>
+    <start>05:00PM</start>
+    <finish>07:00PM</finish>
+    <date>15 January 2026</date>
+  </channel>
+  <channel>
+    <name>MSNBC US</name>
+    <id>MSNBC.us</id>
+    <title>Live: Katy Tur Reports</title>
+    <desc>The latest breaking news, reporting and live coverage of the day's important stories; discussions with newsmakers, journalists and politicians.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6Ik1xUThcL3pOcll6OVJ2ejdmY2MyQWhRPT0iLCJ2YWx1ZSI6ImpoOTdTT25JTFYySzRBYXdua2FuUEdrMDNDUEk3TUUrQW9EdFFJU1hMaWQ3QWZBWG9CT2lKVFMzSm1NcE41ajJTZTNPRExqaEZGTDlqQzliajlDS05LZkhpemxLcmRVaHRqM2pDdDh2blozdFVsMElZT09JczZES0N2bzRwcDhFIiwibWFjIjoiMmJmNzE1MmRhY2EyOTQ2MTUzMTIzMGMzZDI3MjdmOWE1N2FiZGNmNzE3ZWE2ODU4ZjczYWZhZTZkNTNhNjM2OCJ9&amp;signature=309f935389047fb0821675626b881b0e7bf8becaf1f084c406349df71cd1322c</image>
+    <start>07:00PM</start>
+    <finish>09:00PM</finish>
+    <date>15 January 2026</date>
+  </channel>
+  <channel>
+    <name>MSNBC US</name>
+    <id>MSNBC.us</id>
+    <title>Live: Deadline: White House</title>
+    <desc>In-depth reporting on political developments and dynamic discussions with leading newsmakers, with insights into complex issues.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IjhTRndHeFBLZmtKN2lJc2pxSXRlN1E9PSIsInZhbHVlIjoiUFpBbVl5ZnhcL1dBVHY1WDY3THErUDJTWHhYdnozY1BabTBsRllHbHVCNTZYZjZ4OHA2U0lDRkErdVQ2dEZLTFJTdTdJN1VGaGl1UHNSbUZkRXpHQjNxXC9SUDdyeHd4dVRzbVNlMDhpSnJHSlhwVXM4aHhKQnorZUNIb2R1YUVwbyIsIm1hYyI6IjM1NGZkNzk2MGZkNmIxMjdkZmI0NWU2ZjQ1MWQ4MDdjODg0NjdiYjQzMzBhNTc0NjcxZGRhOTE1NTQ2MDI4N2YifQ%3D%3D&amp;signature=f66df4242203168ef884d07cd2ff742a8eff0c52ee0d5ec3ad33b7b6e5ea0b3f</image>
+    <start>09:00PM</start>
+    <finish>11:00PM</finish>
+    <date>15 January 2026</date>
+  </channel>
+  <channel>
+    <name>MSNBC US</name>
+    <id>MSNBC.us</id>
+    <title>Live: The Beat With Ari Melber</title>
+    <desc>Attorney and journalist Ari Melber dives into political and news stories with interviews and original reporting from around the nation.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6ImM1Q1lyTVR6ZElia1FsQ080dU9ZQmc9PSIsInZhbHVlIjoicWlKa2dXNkZXZWYydmd5SUVBYTVPajBiYkw4R1I3WTBKV2J6WTRcL1ZoSVJQSzEzN0xPQXJMZWV5RDV0ZEExaEdGS2hlMU1MVlphb1wvM0pTcmcydkJFb0hlZm5yZVFaaW5pYlZDSnJOTlNmbWdFV0xXWmZzNTc1dkNlVzd2ZldnYSIsIm1hYyI6IjNjMWUzYjcwY2UwNDhkYWNkYTUwYjZkMmZjOGZkNWY2YzgzZmRiNDBhOGIzODQ2MTQxMjQ1YmIzNjYxODlmOTAifQ%3D%3D&amp;signature=a1444c93ec86fd45101c1541b3ef50b2d1be195633a97c1f69e34dd8d2c6c2f6</image>
+    <start>11:00PM</start>
+    <finish>12:00AM</finish>
+    <date>15 January 2026</date>
+  </channel>
+  <channel>
+    <name>MSNBC US</name>
+    <id>MSNBC.us</id>
+    <title>Live: The Weeknight</title>
+    <desc>Alicia Menendez, Michael Steele, and Symone Sanders-Townsend's one-on-one conversations with politicians and newsmakers, and the breaking issues of the day.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6Im5hZWYxeFF3NjF5Y1dFN2U5dmpxOWc9PSIsInZhbHVlIjoiMlVSajkyeERXbHRQYkwxb1hIZWIya0JmYW5wYlwvc2Z2Z21NTVVQUlR5cU12TEVUOFFHOStaVDVNNEhTXC9oN3NsSXJlbHBUZDRURHRPVjZhM01tMjlJaEdsTTBDMEhrcm1vV04wOWQxeUpXdmpLNzNpRlBCUDIyUnZhRWFRc0VpbyIsIm1hYyI6IjlmOWVkOTcwNTFjNjgyNjQwYjQ5ZGY4YTllNTQwNjg4ZjA2NzczOWRkZjMxMWQ4Njg3ZTUxMmQwMzlmZDgwMzcifQ%3D%3D&amp;signature=6c2afd3591bbe4507b0703fee2dd6ffb3f865da86b908d9f4a8eb1e6be81a52d</image>
+    <start>12:00AM</start>
+    <finish>01:00AM</finish>
+    <date>16 January 2026</date>
+  </channel>
+  <channel>
+    <name>MSNBC US</name>
+    <id>MSNBC.us</id>
+    <title>Live: All In With Chris Hayes</title>
+    <desc>Chris Hayes reports on some of the biggest news and political stories of the day with a commitment to in-depth reporting that seeks to hold the nation's leaders accountable for their actions.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IjluUU9sd1B0K0JMdmw3QkFJeG1tTEE9PSIsInZhbHVlIjoiNEU5SkJPNVB0ZWV2Zm1VbDE3azVoSVVRU1hBSmpXVklkck9FYmpUWVkyazUwXC9hRDRtbkc1djZHM3haWHk0OVg3Z2lWd2xqVmVPY0VXY1dKdXliZ1NcL3gyV0dEa2JVb2piT0JNQktnNkRzaUhMOXhkbGV3WkZzWG5sMnEwWW1wMCIsIm1hYyI6ImNkMWI2Y2Y2NzY5NTk5ZGE4ODc2YmMwZjQ0Yzc5MTNiMzgwMTczZjA0MjE0YTk0NGFkOGZjMmI4ZDEyYzExMTkifQ%3D%3D&amp;signature=717a8ff38f38954b87b27fc450977e0f1522c91f854272639d54beab301e9259</image>
+    <start>01:00AM</start>
+    <finish>02:00AM</finish>
+    <date>16 January 2026</date>
+  </channel>
+  <channel>
+    <name>MSNBC US</name>
+    <id>MSNBC.us</id>
+    <title>Live: The Briefing With Jen Psaki</title>
+    <desc>Jen Psaki tackles the issues of the week and features one-on-one interviews with newsmakers.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IldIblhxZ3g3K2VRb2NZeUZabkxuNWc9PSIsInZhbHVlIjoiRmgzZlc5VDlkaUlFTW1PXC9IeVJpM25JMlY5Y3BSTTVLd2lYUkpRbkUySXNTZ1JveWduQjRRRlk2b1wvZFViUmhtVVwvQ1wvalNjYjNsZHE3V1VtSXh1ZnV3Q0NCNUFoYUdvNnJtTWJnNDVhMDVtb0w5Y215TkpRaGxXWFpkUDYwMEpDIiwibWFjIjoiMmVkN2YwMDE1M2FkYjQ2MTY1ZGEzYzM0Yjk5NDJjODZjMjZiZjdkY2ZhMmU5ZDM0NTY1YWExN2ZhYjE5YzBhMiJ9&amp;signature=dc9c0337a39c2a49833f8833898dba211c641b7a51b9d56756dbf00c64bf32c3</image>
+    <start>02:00AM</start>
+    <finish>03:00AM</finish>
+    <date>16 January 2026</date>
+  </channel>
+  <channel>
+    <name>MSNBC US</name>
+    <id>MSNBC.us</id>
+    <title>Live: The Last Word With Lawrence O'Donnell</title>
+    <desc>In his signature style, Lawrence O'Donnell goes into depth on the latest news developments and offers his take on the political stories driving the national conversation.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6InpHYzR1YlIwcnI5OEsxNnpCYzlISGc9PSIsInZhbHVlIjoiTVZ3MmFNSzRVUHV3STl1RjdzK0poTVJadGRjcm9BT2tmOGVEWUpjenVRdndZV2NrNUE3QlpCclhMSnNhRmVyOUxMaHVwcUx1TFJBd1UyNVwvUVBNdWl2a3VndnZ2aktuUk02OG9iMjk4RWtJMUdqZ3VIVU1JbEdoUVUxYVZ0SFJ4IiwibWFjIjoiMDNmYTEwZjFjNmJmZjNhY2Q1MTUyODA4OWQzNzlkOWUzZWRlN2M5MTVkMWE4ZmYwYjcxMmZhZDQ2MTU2MDY2MyJ9&amp;signature=41c12676b00373ff82e63ce2af8bacee5f77e28c8f6460df0b4f2ac56703fef1</image>
+    <start>03:00AM</start>
+    <finish>04:00AM</finish>
+    <date>16 January 2026</date>
+  </channel>
+  <channel>
+    <name>MSNBC US</name>
+    <id>MSNBC.us</id>
+    <title>Live: The 11th Hour With Stephanie Ruhle</title>
+    <desc>Host Stephanie Ruhle brings her business acumen, hard-hitting interview style and original reporting, uncovering stories that affect everyone.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IlBVMHhaNUt4b2swelBIVkZ0Sm4wMmc9PSIsInZhbHVlIjoicnJucUtGWVVNRGR2d2R1TzRxQlU5ZG54dlY0Z0xCcUJVRHZhcVFwVXd6ZGxpSmJSK2ZCVHRqTGxJXC9XRjNISkFZSVJJb2pSd2dRekFBeFZnTFRmQXh0RklMTzlpWXFHcWJXaGs5bm5naTRDZFNhRnEzZTIrWnpVaGQxOW0wb29MIiwibWFjIjoiMWRjMmYwOTljNmI3NjJmNDZhMWJhNmVkOGU2ODA1MzA0ZmUxMDZjY2ZhNjMyZDllZDMyZjZjYzhhNDM1ZDc3NyJ9&amp;signature=3b59acea4a97833ee0d863866ac6db1e4ff7d199259c5a296b89a58ddd9c81a5</image>
+    <start>04:00AM</start>
+    <finish>05:00AM</finish>
+    <date>16 January 2026</date>
+  </channel>
+  <channel>
+    <name>MSNBC US</name>
+    <id>MSNBC.us</id>
+    <title>The Briefing With Jen Psaki</title>
+    <desc>Jen Psaki tackles the issues of the week and features one-on-one interviews with newsmakers.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IjJnbXpBM1pxdjloMG9VbkJiZVJcL1pRPT0iLCJ2YWx1ZSI6Ind1cWZHWERiam9rQndhM1liRHprbFY0UkhcL1ZVTU5IVHRLazJQcTRFaWpaSjdmVnlwYnJhVmJRVEJUb2JKc3I0ZDBWS3RmVCt5ZlJTemMrNHRBNUV2WGFSUmxOUzkzdVZcL0U3d1BNT01PcVRINHV0bDJIMlROdWw2MW5VaDhVYzEiLCJtYWMiOiI0ZDE0OTY3M2RkNzk0ZjYyZWQ4ZTM2Njk1NTc2M2U2MjNjOWZmYTNkMGE3ZDhmYjRlZjRiNzczMDkxOGI0OWMzIn0%3D&amp;signature=5e47585c937834bd4fc8809526f6bb0091b47fa301837398df272fcbf19627f9</image>
+    <start>05:00AM</start>
+    <finish>06:00AM</finish>
+    <date>16 January 2026</date>
+  </channel>
+  <channel>
+    <name>MSNBC US</name>
+    <id>MSNBC.us</id>
+    <title>The Last Word With Lawrence O'Donnell</title>
+    <desc>In his signature style, Lawrence O'Donnell goes into depth on the latest news developments and offers his take on the political stories driving the national conversation.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6ImlQNUo1bG1MQUpcL0d1YmVCS25LWEl3PT0iLCJ2YWx1ZSI6IlwvanRxbzhqS2pnYXUxNlE2VVJGSE54Z09haVVmK2dCQWN3NGlsZkRueHk2K2J5M1FXY3VpdmNyNlNkcjFHbWY5SFwvQWpSM21LbEtPWWI2NWNRMnUzVTNrT1FpcklcL2VuaG9MTkZXZU5VXC9FZnp0ZDFnZWJcL2VBZjN3Z2FabWIxQVgiLCJtYWMiOiIwYzI0OGY2NzhkY2U0YTQxOGEwMWRiYzQ0ZmQwZjQ1OGZmMmQ1NTU5ZWVlZjRlN2U5MjdkZjhhNjA0NzNiZGFlIn0%3D&amp;signature=48039d2dfb8af4a818e61e2f1c52cb09bb48455fcf78ec498eda333d7e80e86b</image>
+    <start>06:00AM</start>
+    <finish>07:00AM</finish>
+    <date>16 January 2026</date>
+  </channel>
+  <channel>
+    <name>MSNBC US</name>
+    <id>MSNBC.us</id>
+    <title>The 11th Hour With Stephanie Ruhle</title>
+    <desc>Host Stephanie Ruhle brings her business acumen, hard-hitting interview style and original reporting, uncovering stories that affect everyone.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6ImlzRkhCZmdoTUs5MHdkdWZWYzFvTWc9PSIsInZhbHVlIjoicEkzYnhucGtUdlh3S2d2YXRYVEJSeGpMT3VkTmZrUHFIWkd4Z3JDK3NxbEgwdW04YlVrcVY3WVZRZ3BpNTA5Y2YraU52UGYzK05jSGxQWFMweHZ4bm40ZGVGNTdjdkNHQ3Y5RUpQUkl5bU1TcnN5eU5FUlhyVWxLakhrN0JPK1ciLCJtYWMiOiI5MDI0MmIwYzQ4OTg1NmQzZDcxN2E3ZWZmMzQ4MDgzNjA5NDE0ZGM4ODVjMDFjYTY5ZjZhYzk5MTRiNDhjMDM3In0%3D&amp;signature=923c7f5e45042f060092a891622c1289ec131cfd5ec020607c115c079db16506</image>
+    <start>07:00AM</start>
+    <finish>08:00AM</finish>
+    <date>16 January 2026</date>
+  </channel>
+  <channel>
+    <name>MSNBC US</name>
+    <id>MSNBC.us</id>
+    <title>All In With Chris Hayes</title>
+    <desc>Chris Hayes reports on some of the biggest news and political stories of the day with a commitment to in-depth reporting that seeks to hold the nation's leaders accountable for their actions.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IndWdCtXZndieWRDXC91WTZGb2hIcml3PT0iLCJ2YWx1ZSI6InNhZVJPSFVVQTJQTHkzRm5BZ3ozZ05TbW5VVEdVRFwvK2pIYUdKS1JKcDVBN0RQQkNNRlRCbnJlWWJXVjk0UUpibEdxXC9Id1BJc1YzSGJnWVVXc3hTWk91Uk1JVDRtSzVKWUJjWFZ0SElsd3R5WndNSGF5STN0UXZPTVE3endNOGMiLCJtYWMiOiJjNWUxYzgyNDMwZmUxMDMyOTMxYTRkNTg2ZDhiOGFiNGI2NzJiYzExZTVhZDAyZDg5MTVmNGY2ZmYyOTFjNzZkIn0%3D&amp;signature=89413d138aedd27302559568e1cae0f6be7438963ce6b46ceb65ae520d571b5b</image>
+    <start>08:00AM</start>
+    <finish>09:00AM</finish>
+    <date>16 January 2026</date>
+  </channel>
+  <channel>
+    <name>MSNBC US</name>
+    <id>MSNBC.us</id>
+    <title>The Briefing With Jen Psaki</title>
+    <desc>Jen Psaki tackles the issues of the week and features one-on-one interviews with newsmakers.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IllOaW52OEZKOXNrMVhPaHBLMUJJbmc9PSIsInZhbHVlIjoibjVkSm11eW9QazZzMlFKM1BcL3EwYXRyM3hTNHZHanZtczl5cVk2UFwvbVwvYk1jMTY5YW1rXC9PSmFPZE14aUFqNEFcL2JwZmZ5YUExcHZ3ZEJYc05jQ1Y4cWVGUHhNdmNyZ1VSUFByamNrTGVubGFVZWg1RzFTdFFHVGFtelpwZzlLTCIsIm1hYyI6IjI3MTRkZDYwMjNlYTE4MmYwYWUxNjkxZDI3MTEzYWVlZDc4YzZhYWI3NjJmN2RjOWFmZmExYmEwM2ZiZDYyZTEifQ%3D%3D&amp;signature=51edab8e7706d915c7e557f25d1f899dda5f1e5f854c49361f7abc72d00244bb</image>
+    <start>09:00AM</start>
+    <finish>10:00AM</finish>
+    <date>16 January 2026</date>
+  </channel>
+  <channel>
+    <name>MSNBC US</name>
+    <id>MSNBC.us</id>
+    <title>Live: Way Too Early With Ali Vitali</title>
+    <desc>Inside-the-beltway political news and critical stories shaping the national conversation.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IjNONmpmTW9LNEN5OVRSeUs0SHRFenc9PSIsInZhbHVlIjoiQ1RGZElBZko2OEM3SFdJVExKVm5zRWUycytYSGd6b2FHbzJYc3E2aU14XC9yUFJoM3Vpb1VpYlBnY0ZielVyUFVEcnM4K0N0S24zWDFycnRsOFlLR1libnRJYXRPR1cxYlRJWnB6YnJPcjRZK2ZDcFVlNXFCQmJGamlVTnhtSFczIiwibWFjIjoiYzM4YjgxOWIxNTg2ZGMwMmEzNWQyMTAzODZhZTUyNzkzNzhiNWYzMjk5YjJhZWMzMzRhZTE4ZTZhZThiYmVhYyJ9&amp;signature=91af1a1f6c791be949d0428d9f6332a2bd5ccc8314e0851b4340cd44b801089d</image>
+    <start>10:00AM</start>
+    <finish>11:00AM</finish>
+    <date>16 January 2026</date>
+  </channel>
+  <channel>
+    <name>MSNBC US</name>
+    <id>MSNBC.us</id>
+    <title>Live: Morning Joe</title>
+    <desc>Hosts Joe Scarborough, Mika Brzezinski and Willie Geist present in-depth and informed discussions that help drive the day's current political conversation.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IjhEUTZYV1RPTnVRcXV2RTVhc3FaWEE9PSIsInZhbHVlIjoia2JFdTBBZ0hFelFOSzUxM2pHOFJrWWNzSjB5N0Fqb1hBa0hpdDhcL3EwOWNCMHpOSVAzcmlQS3orK0JER1JlTmpNNGNkUHdaOG9uOEM3SVh4VnhXQUFMeHN6ZVIrRERhM2RBdzc0WXVoUVJ4VmVHbnBWeEtSd0pqWmhcL1Z0YWRMTiIsIm1hYyI6Ijc2MzZlNjIyYzBmMWU3M2UzMmI3MGIzM2M4MDM5MmY4ZTg0MmQzZmU2ZWE0ZGIxNGZkMTQ1MWFmYmIwZThiN2IifQ%3D%3D&amp;signature=f8060914cfb74a3d750ef02402a545f5d6a268df699140d1ad6b61ae2dce7baa</image>
+    <start>11:00AM</start>
+    <finish>03:00PM</finish>
+    <date>16 January 2026</date>
+  </channel>
+  <channel>
+    <name>MSNBC US</name>
+    <id>MSNBC.us</id>
+    <title>Live: Ana Cabrera Reports</title>
+    <desc>The latest breaking news, reporting and live coverage of the day's important stories; discussions with newsmakers, journalists and politicians.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IkFyMU1JNkhlSTJ3NjFZXC9XdjNuSGxRPT0iLCJ2YWx1ZSI6ImtNM2tvR3VsVFVBRGlmVDNZd1pnZkdlWnZhbFpuMlo1VHVVMDBcL2RCNERpTlhIRm44NnJWOVF5ZTQ1SWdOS0FKdUdNMllrT2VOMW1BOTZpQUpYUVRlUzBqdUxFZVJlbmVrSlwvZER3eXJ1MmpGQzQyMng5NlhZR1wvWVpzd0tOR3RhIiwibWFjIjoiNTRiNTcyNGE4OTIwNmM3OTVjNTUxOTAwZjhlMDI5ZDEzZGRjMDM5NmM5NzFiZGQxMjY2NmVlNDkxYzg4MDUxMCJ9&amp;signature=1d2a1904a2138028fa4b5cddf9f301ee7d9a36bbc17c422ccc23929ecba95247</image>
+    <start>03:00PM</start>
+    <finish>05:00PM</finish>
+    <date>16 January 2026</date>
+  </channel>
+  <channel>
+    <name>MSNBC US</name>
+    <id>MSNBC.us</id>
+    <title>Live: Chris Jansing Reports</title>
+    <desc>The latest breaking news, reporting and live coverage of the day's important stories; discussions with newsmakers, journalists and politicians.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6ImU5XC91a0lxV3MyV1BsYjJraFZUdlpRPT0iLCJ2YWx1ZSI6Im54YTVIOGlvUlwvbURYZTRMc1lsQkNLNGdmQzM3Q1VBV2o0OE1kdDZqRVM2UWNRNExjQ3g0aEp3MWhZbFg1bHJNcHI5NEM0dklcL1FcL0RRQzR4YXhQUHZ1WmRhbXJLXC9qZHhcL0VhMUxaZ3lvNVVIWGFZQWRHZ1UwU1pEcnl5SEdjNnYiLCJtYWMiOiI4ZDgwOGEzOGU0ODU1Y2IyZWExMDhmZjQ2Y2U2MTY3YmE4Nzc0NTU1NDNkNDI0NWU0YzlhODBlYjA1NGQyMjM4In0%3D&amp;signature=a2f57051f72fc9e035b83bc11147b79661ad2e694f39d0f445c34bccb986c3b4</image>
+    <start>05:00PM</start>
+    <finish>07:00PM</finish>
+    <date>16 January 2026</date>
+  </channel>
+  <channel>
+    <name>MSNBC US</name>
+    <id>MSNBC.us</id>
+    <title>Live: Katy Tur Reports</title>
+    <desc>The latest breaking news, reporting and live coverage of the day's important stories; discussions with newsmakers, journalists and politicians.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6ImN2c0xwTnZcL2FhSzBZR0JzUmM1RmFnPT0iLCJ2YWx1ZSI6IjFNemRCK0hnSkNcLytKQUgrc2E2Z09DTHM2WGlBMks1QnBxd2hqMm5iNE5EdExUY0R3M1dXMWVWUFNNQTU1Z0RKWlJibG9SK2hJQzR0ZFdzWWZEQ0ZMQ1Faejk0UWNUYkFHWTlMVFNSUFZ2RDNQUGROK0ljWFwvNDBjVVBXeExRakEiLCJtYWMiOiJkYmQ1YmQyNDRhYTg1NmFlZTI1MzMyZDQ5OWQwOGViMGY4NjgyMTIxM2Y2OWYxODY3NjVkOWFmMDcyMDQ1ZTM2In0%3D&amp;signature=a522d62451360717692efc8a545a0f9a9a32ee607a109d7b94003156868e7a7b</image>
+    <start>07:00PM</start>
+    <finish>09:00PM</finish>
+    <date>16 January 2026</date>
+  </channel>
+  <channel>
+    <name>MSNBC US</name>
+    <id>MSNBC.us</id>
+    <title>Live: Deadline: White House</title>
+    <desc>In-depth reporting on political developments and dynamic discussions with leading newsmakers, with insights into complex issues.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IlVmdm94N1FYblZ0QU9ranFETExHMUE9PSIsInZhbHVlIjoiYU54ZitWa1ordmNCNUpcL3YyZWxBNzI3SzdmMm44a2ZFQXUrUmIxUWRiTmRwd1dPZGZZMEJQeVloVzFYbXowd2dLaklqNDU1QkYzNHl6WTJobGdaRmVsWE9UckFLTmpFRURhZUI2QStZbHlKNlMrbm1TMzdiRjRtTWZ6WHBkRU9BIiwibWFjIjoiMGRjZjJkMDI1NTY5YTRkNDEwZTA2MTRmNTVlYTAxODJmZWI1NDdjMDFlZWYxOGNlNTExYTY3NDM1YTQzYjJlZiJ9&amp;signature=a059d3ca27a15b09d011e58920ce1798eb3b60a796c8e5bf0187f036ac958a30</image>
+    <start>09:00PM</start>
+    <finish>11:00PM</finish>
+    <date>16 January 2026</date>
+  </channel>
+  <channel>
+    <name>MSNBC US</name>
+    <id>MSNBC.us</id>
+    <title>Live: The Beat With Ari Melber</title>
+    <desc>Attorney and journalist Ari Melber dives into political and news stories with interviews and original reporting from around the nation.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IjVIczhWR2M2YzA3TENFRXZYV2pqZEE9PSIsInZhbHVlIjoiTnUyTXRnSk5zN29NWEx0MHVLcW5VR096ZkZFZWpcLzZuTVErZVZtNkFlbFJaRytDdlFEMThKXC9nRCt2azF2bFRqc0Y4U1Y1aFVQYmRIeFZxVmtmQ0tcL1hDRXBYR2NNNTJMcE9DUWpGZ0tkR3BlclhneFVFbnJ5OGhTdDQ0dk92aHQiLCJtYWMiOiJlMTRmOGUxOTJlODVhYzA4NGIyY2Q2YmQ1MTJkYTUyZGY4MDg1OWIwMDEyYjg0N2JlNzM1NjhhMzcyYjY2MTE2In0%3D&amp;signature=d312f53f0858980d647e8e36bac9512758b57746a7759ae3df0a10e615bd1acb</image>
+    <start>11:00PM</start>
+    <finish>12:00AM</finish>
+    <date>16 January 2026</date>
+  </channel>
+  <channel>
+    <name>MSNBC US</name>
+    <id>MSNBC.us</id>
+    <title>Live: The Weeknight</title>
+    <desc>Alicia Menendez, Michael Steele, and Symone Sanders-Townsend's one-on-one conversations with politicians and newsmakers, and the breaking issues of the day.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IkxIbGU4NjQrVUpvMzVzTmpONllhbGc9PSIsInZhbHVlIjoibWJqQVwvRklnV3Q0Z2UrNzNvcndJWW0zZmVmcWcrRzR6a3loSEQxaXJpYmI3NFhReGpuZ1BGSEFsOEEwKyttRmlBeHh4aFBEbEptUVJFY0E5aUd2TFVkSGxRZ3V0Z3F6MktcL0poNjhTazdpTW9sQTVvZ3Z1TUVaYWJBOUxMYWl0VCIsIm1hYyI6ImYzNjhkNzgyNzY1MDNjNTVlMDc5YTgxMDA3M2ZhZWY1Njg1NDM0MDIzOTIxODc3OGIxZjRjOTJkNTNhZDA4ODAifQ%3D%3D&amp;signature=4e4ed3eda5a6972b7420c9080c8c6eba5e3938f05d27edad2f1da0438821f936</image>
+    <start>12:00AM</start>
+    <finish>01:00AM</finish>
+    <date>17 January 2026</date>
+  </channel>
+  <channel>
+    <name>MSNBC US</name>
+    <id>MSNBC.us</id>
+    <title>Live: All In With Chris Hayes</title>
+    <desc>Chris Hayes reports on some of the biggest news and political stories of the day with a commitment to in-depth reporting that seeks to hold the nation's leaders accountable for their actions.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IlNiTkpKMDlQZlRjMDN5S1ZTK1NLNnc9PSIsInZhbHVlIjoiVGx6VmwwQ2hzYzBOQkxLT2dDTWhtNlE5N0lsVVNKTnFySVFpWXdOZHNpQU81VVE1eTVxbDBxekU5emlzMTg3b0FvWkxRdldQVkxYUHZRZEsxcGUyaVwvWmtLM1NRbkRBd0pxYkdlc3E2RElFaUtRVW5vZWVFVEZrTWxkaDlFZDUzIiwibWFjIjoiZmZmYzdjOWRhNmRlM2E4NjljMTFiZWY0MWMyNDQyYjgzYzhmYjY2MTc0MGNiMzE2ZmNiNjU2OGVkYmJlMmYxNSJ9&amp;signature=1688d5ce0ad7474b596916d05b6ec3a1026fc42c6ac0edc4fb35fd559a852892</image>
+    <start>01:00AM</start>
+    <finish>02:00AM</finish>
+    <date>17 January 2026</date>
+  </channel>
+  <channel>
+    <name>MSNBC US</name>
+    <id>MSNBC.us</id>
+    <title>Live: The Briefing With Jen Psaki</title>
+    <desc>Jen Psaki tackles the issues of the week and features one-on-one interviews with newsmakers.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IlwvcFZ4MExaUGJkT3VZRmN0N1RoRmdRPT0iLCJ2YWx1ZSI6IjlheVwvallucGFkUTUzSjhqZ3BHeUpXZmxkNzlydTd3dFZhdnNBbzdSd0NhWXRTdE1ycWFGK0tKM3ZBdzBINEtkemlxYVwva1RtNyt1ZkhoTWRJekhZbWdwSWVzaWJJNENiOGY5NVdtdEtwMThsZGFaQ1A5OGE2XC9xNVNHNzlKS1dZIiwibWFjIjoiNTNkNDExOGI4OWZlMzc0NThmMjE2OWM0NDc5ZWFhMDlmMmQ3ZGQ4MmUwMDhmMWNkMTUyYjg1NmYzZDY1OWNmNiJ9&amp;signature=cf11a7117de30dcedc7f870f9f52c4cc98ea2c08f5578a466e2e40562d9eeac2</image>
+    <start>02:00AM</start>
+    <finish>03:00AM</finish>
+    <date>17 January 2026</date>
+  </channel>
+  <channel>
+    <name>MSNBC US</name>
+    <id>MSNBC.us</id>
+    <title>Live: The Last Word With Lawrence O'Donnell</title>
+    <desc>In his signature style, Lawrence O'Donnell goes into depth on the latest news developments and offers his take on the political stories driving the national conversation.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IkpxUUd1MHVURUEzK0ZOR1ZFdG95aGc9PSIsInZhbHVlIjoidjlQbFdTMFBJUVJVOXdhbDBJdUg1UVNCXC9JV3h1ajFwdVZ1a3Rtem1BM1pYZFhodzJxbDRVMjZBbjRBSFI2bFV0emgxRVh3c09uN01SUllqbGtQVkFTSXk4SGdqanJFZzExVU1aVFJra3dpeWhDNGEyNzNidUdwcml6UHZHWUMxIiwibWFjIjoiZThhMmYwYTkzNDk0ZDljOWQ0ODBmZTVkYzM2NzI5MTBmM2Y3ZTUzMDJkODY3MGU5NzczOTcwYzRjYTAwZGU5ZSJ9&amp;signature=8a13b10f7ae4f90a5b984925e3f8cc54ecf3fcfb86a0d9d99f8ff5f4d1445095</image>
+    <start>03:00AM</start>
+    <finish>04:00AM</finish>
+    <date>17 January 2026</date>
+  </channel>
+  <channel>
+    <name>MSNBC US</name>
+    <id>MSNBC.us</id>
+    <title>Live: The 11th Hour With Stephanie Ruhle</title>
+    <desc>Host Stephanie Ruhle brings her business acumen, hard-hitting interview style and original reporting, uncovering stories that affect everyone.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IkdTcGpFTnJrTFJzTGMyRW1CcURrS2c9PSIsInZhbHVlIjoiVGNXNnRlclo2SmdsNnFoU3dpbm5lMG51OGdDWnlEbjN2NnptZ0tKN3Q0K0I3WGZlSWFscGJBdUdzTVo0cVNVZVFaVGc5OURpVk5IdXJaN3hYUTlBcmw1cXVpb1NBVTF5RGJyVUZuMGNFdmc0b0Iwb0ZiMG9LeWxpSUx2VGNCMlMiLCJtYWMiOiI3MGM2NTJmYmRiYmRjM2EyMzRjMzg2ZThjYWRlNzI5YWY5YmZiYjEyOTVmN2FhZmZmNDVlZDY2NTgxNDMyYzdiIn0%3D&amp;signature=3f4eefa8f1b7350774f3f941e6237dfb1325f72789f9cf46eefcd4ba11285d88</image>
+    <start>04:00AM</start>
+    <finish>05:00AM</finish>
+    <date>17 January 2026</date>
+  </channel>
+  <channel>
+    <name>MSNBC US</name>
+    <id>MSNBC.us</id>
+    <title>The Briefing With Jen Psaki</title>
+    <desc>Jen Psaki tackles the issues of the week and features one-on-one interviews with newsmakers.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IjNWK1JXVlpRelkzb2UraytUcjc2blE9PSIsInZhbHVlIjoiWlc3cGZCWVFyTnNvMUtNUzJIamtWWWNZclVtQWNwMGw4T051aDJtOFJKTnI3em5GRGRDb0JUZzRcL2tCR1YreVZ6bDg2V084S3FPWnlQdjhNM1wvM3ZTSXpIaW45dUczMGNVcndlVERITUhFbUlQNFIyRHNcL002MUQzZ0RFRzRFNzYiLCJtYWMiOiJiOTM1MmNjZDNlYzIwZTBlOWViYWY2MDMwMGQ3MjU2MzczNDZjODkyOGEyM2ZiMjUxZDBmZjM0ODA4NmY1Y2FlIn0%3D&amp;signature=845e7023657b3c934a1a93b04c72a1e2de95d21420ff576abe9ae00ec9217e05</image>
+    <start>05:00AM</start>
+    <finish>06:00AM</finish>
+    <date>17 January 2026</date>
+  </channel>
+  <channel>
+    <name>MSNBC US</name>
+    <id>MSNBC.us</id>
+    <title>The Last Word With Lawrence O'Donnell</title>
+    <desc>In his signature style, Lawrence O'Donnell goes into depth on the latest news developments and offers his take on the political stories driving the national conversation.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6Imc5a3BsN1AzdFl5Y0NzaHNBNklvY0E9PSIsInZhbHVlIjoiRjJpSXhtMkR4NzZ1Z3hic2lxdWxBZlgzdFppeXlNbURiMEZSWTVyc0F1SEt5cnZya21ENklyOEp4NXlBWlVwdWw1RzNOandOTjFpZVhsb0h4bVdQdkFxT2Y4ZFJIRnBTUm80cHdGSGNMTHVIWW5IeHg5YUZ3VitmWVBhZDJsQWYiLCJtYWMiOiI4MzgyYWMxODc2Y2VjOTdhMTJmMGRkNzI3NzU5MmQxZDg4ZTgwZTEyMTJmZDZmZGNiMzhmNmM0OTJhODgzMjQxIn0%3D&amp;signature=c0a5c3de785c0d0957ef8e426fc53ef06939f2d87ebc2169b8a6ced03aa26d27</image>
+    <start>06:00AM</start>
+    <finish>07:00AM</finish>
+    <date>17 January 2026</date>
+  </channel>
+  <channel>
+    <name>MSNBC US</name>
+    <id>MSNBC.us</id>
+    <title>The 11th Hour With Stephanie Ruhle</title>
+    <desc>Host Stephanie Ruhle brings her business acumen, hard-hitting interview style and original reporting, uncovering stories that affect everyone.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IlZ5aTdUcVhGMzBrS29RSjBCMmtcL0RRPT0iLCJ2YWx1ZSI6IjRGR1B6aU1lM3B5MVNBd1wvckxrXC9aell3ZmdXNU9XZjk2M1ZidXV6a0VDM1RTWWZyYVRNZ1lEbnVRN05FWXhYTjZ4TngrMmk4MkhLeEpwK0xrQ3BhOGpWNDVOVEVEbjZLcWNOdnRsUGIybmdZUE5vdEZ5U1pjUWx3bmlNN2JNSGEiLCJtYWMiOiI5NjY1ZjAzNjVkODE0NDcwZDI2NGU2NjJhODNiNDdlNTNkZDcwNmQzMTRkYjFkMDkwOTMwYjZiMmVkYjRjYjI0In0%3D&amp;signature=ece375ca23540b1f8ea44a0c79d4ccfe1272726126660ccb29c44e4857f3029d</image>
+    <start>07:00AM</start>
+    <finish>08:00AM</finish>
+    <date>17 January 2026</date>
+  </channel>
+  <channel>
+    <name>MSNBC US</name>
+    <id>MSNBC.us</id>
+    <title>Dateline</title>
+    <desc>Rachel Buffett, whose former fiance, Daniel Wozniak, was convicted of two grisly murders, talks about being at the center of the investigation.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6InVYWkZmUW1qNFBLdWpTMGoxcU9yTVE9PSIsInZhbHVlIjoidlwvcmNNWThkM1Z0ZmtyRGxpMkdsSDRpRXZmbE9Fa0ZGVFVQbFRtVVU0RE5kQWl3anNCR2FhV1pFeWNOZkpvSkszSWNMSDlGdDN5dTNadnN5b0orclBzVkxndnZnWjlVOG42N2w3am0rSzJQc1pYcmw1XC9YVWdJMm52ZCtISXZBWiIsIm1hYyI6ImUyYTdkMWFkNTJhMDY2NDE3YjdlMzEyMGI5M2I3ZjhlN2RjM2FjOTI5OTM4NTIyNjAyOWMwZjczNWUxM2RjMzkifQ%3D%3D&amp;signature=e623fcaf226c22597520b9e8da9ec0b3f723a56bdee7e116b5cfe732597ca7b4</image>
+    <start>08:00AM</start>
+    <finish>09:00AM</finish>
+    <date>17 January 2026</date>
+  </channel>
+  <channel>
+    <name>MSNBC US</name>
+    <id>MSNBC.us</id>
+    <title>Dateline</title>
+    <desc>Rachel Buffett, whose former fiance, Daniel Wozniak, was convicted of two grisly murders, talks about being at the center of the investigation.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IlVLSzRHWElYXC9rTDF0eFltbVg1NElBPT0iLCJ2YWx1ZSI6IjZWT0tqU1d5cDgzVTJONEFhTVwvNWxzRWE4T2JwMXc3RVo1bWl3V1NyZHBWTG9OYnd5azlneDBoTFRYR2xyeHNaR3FOK3BLUlQxNnFaaVZoUnpESUxoRVwvNElwelYxZmhcL0F4RzNQd3M0NXMzd2FCSlpxSmQrTHdGM3pFU0NqQ1N3IiwibWFjIjoiNzU1MjU2NTZmMTVjYjlhYjQyNzliZDRkNzhiZjNlYzU3YTQyZWRhYzM3YjA3NmYzZWMyN2ZiZGZmODdlYWIzYyJ9&amp;signature=b9c2bf861c18129dc60ac9d9e462654d7980beab3d0677c44600e14f9b393804</image>
+    <start>09:00AM</start>
+    <finish>10:00AM</finish>
+    <date>17 January 2026</date>
+  </channel>
+  <channel>
+    <name>MSNBC US</name>
+    <id>MSNBC.us</id>
+    <title>Dateline</title>
+    <desc>A pregnant woman vanishes before her own baby shower and her worried family raises the alarm; detectives unravel a chilling mystery.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6InFrOWV0UUkyem5GWjhPNDI0QnZRbWc9PSIsInZhbHVlIjoiWG0wZ1gyQTViQzJcL3MwNlpvNll2XC82Q3NyMU1UQnI0MEgrY1hEc1Uxb0tsVlFhYlFIRTg4bHFhVlJHZ1VpWWlocFo5cFVPMDRtakFnRiswSmFJVjdCbHorcGV6Z0VtbUxLdFhVWFN5UDlsekNYRmtEK28rR3psT1V0SWJhWkM4dyIsIm1hYyI6IjBjMzU2MzQ5MmQzMTVhOGE3YmYyNjRiNDMyOTE2OWM5NDJkZmEwZmIxNWI3ZDc5MzI0MjI0MDE2YzRmNzk0ZTUifQ%3D%3D&amp;signature=b5692a21638a83035e257ebf5c20d97c26a9828dda16ef2da50ce8bee4ad8167</image>
+    <start>10:00AM</start>
+    <finish>11:00AM</finish>
+    <date>17 January 2026</date>
+  </channel>
+  <channel>
+    <name>MSNBC US</name>
+    <id>MSNBC.us</id>
+    <title>Morning Joe: Weekend</title>
+    <desc>Hosts Joe Scarborough, Mika Brzezinski and Willie Geist present in-depth and informed discussions that help drive the day's current political conversation.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IkNrMDJUU0NqTmZwZEl2ZHNmWm16OGc9PSIsInZhbHVlIjoickJINU80SzFnaSs2Tjcxd1B2Y3F4VnFHVEFwbE9UTlhrQmRiOGVGWE9tZnhBTzhKRVhuYnk3T3dwd29RWGJJdnJ3cEtIeEFZNXRRRVFKSGhEZGQ3NWh2V0dpQTJxY245M1FHMVBjUmdXZXJUeHlXUDlXbW9QTEp5eVwvRCsraGFKIiwibWFjIjoiMTBhNDg0NDhkODRiNWI2ZDIxMjBjOWI3NWNkNDRjNDFkNjgxZDZmNDliYTIyZTgxOTA1ZjRkNmI4MmZkZDQwZiJ9&amp;signature=f966ba63ee9f7ca6274807d052c5d469b4daa853ca41be77b4b725c706d3f251</image>
+    <start>11:00AM</start>
+    <finish>12:00PM</finish>
+    <date>17 January 2026</date>
+  </channel>
+  <channel>
+    <name>MSNBC US</name>
+    <id>MSNBC.us</id>
+    <title>Live: The Weekend</title>
+    <desc>Jonathan Capehart, Eugene Daniels and Jackie Alemany set the agenda for Saturday, Sunday, and the week ahead; fresh analysis of the week's biggest events.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IjVtSzNxNTJQak00VmZMMTdhMlhhVGc9PSIsInZhbHVlIjoibnVRZFpFR2FncFdUek9SWmw0REtYT2RMbDY3RGhGSlZuSHRwaWZIOEFcL2dOdmFYWFdXVytSTDBucHd1bktBRUs1ZGhcL1ZQVkVtbTNJNmluQUJaN1JLZ0JxcTBlcHZkbjVVQUtvdnlYdGh0WEZPYTJJRDJCWEpscFVaV0Frek5hbiIsIm1hYyI6IjU4ZWRlODAyNDUwODIyMzQwNDMzNWZmZmI5ZjQyZjQwYmVjZTkxZTliMjFlYzVlOTkzNWM5OWM2NDcyNTRjMTAifQ%3D%3D&amp;signature=5fe92ca70130d76c6dfba7d887f99f8b23b3b43ab01d8047b5a2fbbbe64dc253</image>
+    <start>12:00PM</start>
+    <finish>03:00PM</finish>
+    <date>17 January 2026</date>
+  </channel>
+  <channel>
+    <name>MSNBC US</name>
+    <id>MSNBC.us</id>
+    <title>Live: Velshi</title>
+    <desc>Current events and sharp analysis of top trending topics.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IjJQdU9SK1RDeml1TGgrb0FQMEpTNFE9PSIsInZhbHVlIjoiaUtIK09BaHZvWVFjUEU3c1Y1YUdIczUraEdLdEg4S1VQVG5JQVVSaEtJZTlsSjZJNThMOGd1eDczck9MdFAzbUZVeEg5d3J4R2syUzNzdUJiMUlRYjJtRU01alB4dDY4XC93NzJiNGNPTlBSaUQ5bTdCTGE4bWk2Rk0xdWdyQUpRIiwibWFjIjoiMGIxZjA0MDQzODI0ZWZmY2Q2Zjc4MDU3M2VmNGYwM2YzOWY5YTZkN2ZjZDcyMjI2OGIxNzUyNGY1YzBhMDUxNiJ9&amp;signature=d6f3315dff040a531c0c170ae9eb37018c2d70e26d9c8887197f7f0fdc13be93</image>
+    <start>03:00PM</start>
+    <finish>06:00PM</finish>
+    <date>17 January 2026</date>
+  </channel>
+  <channel>
+    <name>MSNBC US</name>
+    <id>MSNBC.us</id>
+    <title>Live: Alex Witt Reports</title>
+    <desc>The latest breaking news, reporting and live coverage of the day's important stories; discussions with newsmakers, journalists and politicians.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6InpcL0cxanRxdFhVWUQrNlJhTjRvR3BnPT0iLCJ2YWx1ZSI6IjBcL0NTSXBuZ243R3BvVHlwbUhZRUppSUtBOFBxa0d1MktZTTI0Vzk5Q3FmVFwvU2FuOHhMaVBIK2pzYW9ZSWdpNHdvV2xSWkIrUTE2N1oxaGd3QXBkMGpXUEVwTXpQdFF4RktsSVZjaUJSeXo3Uk1Uczc2emdtVGpwUDBObTl4REkiLCJtYWMiOiJlZWE1Y2Q1YTViOTViZTEwYmIyMzRjNDAwZGJlOTVlZmIxMjkzMzU0YmRkMGRiZTY1MGI2MmViNDcwNDc0NWYwIn0%3D&amp;signature=b76cd2cb56945164af0a7d05a801fb3fdfa41905fbda2c80185c165055422d6f</image>
+    <start>06:00PM</start>
+    <finish>09:00PM</finish>
+    <date>17 January 2026</date>
+  </channel>
+  <channel>
+    <name>MSNBC US</name>
+    <id>MSNBC.us</id>
+    <title>The Beat: Weekend</title>
+    <desc>Highlights from &quot;The Beat With Ari Melber.&quot;</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IlkrS1JBZXd6ZEdvcHpNNmVheGNDdFE9PSIsInZhbHVlIjoiMDM1R2pXZXdcL1VHTTlsRGhFeCtwYVRIY2dCSTBPZUVGVm16cmUwdVBLV1FiQnd1RlwvcFhJTHBwRVBGZTNvS1R3RWtKSnRSQTFEVGloTEdPZmZKS0FYT2MyeXlOQWNaTXd0RnI3WmU3bXhPckMxT2dKTExPXC9HYWxFVTJIWlZYR28iLCJtYWMiOiJhOWJkNGQxMDRhMDFlNDlkNjMxZTQ5MjM1ZmFlYjBlZGUwZDgwMWYzM2Q5M2ZiYWQ2ZTcyZjdmZjAxYTI2NTEzIn0%3D&amp;signature=ae4354f0f4d3b79f5f07e06117c68d15d68556538ffcf051cbc0984a295612bb</image>
+    <start>09:00PM</start>
+    <finish>10:00PM</finish>
+    <date>17 January 2026</date>
+  </channel>
+  <channel>
+    <name>MSNBC US</name>
+    <id>MSNBC.us</id>
+    <title>Live: PoliticsNation</title>
+    <desc>Sharpton approaches news stories with an eye toward equality and justice and brings to light the news and updates on under-reported issues that require a national platform.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6ImxGQ3VmY20zZDk0Y2tzU1cyQWJwSFE9PSIsInZhbHVlIjoiK0ZyR2ppc0NIUjFHNW9JRVRBcWh1anN6YjcxYjN3bHZtS0tXNEFiaXVPY2xuOHJMVit2aGZqMXVVelFOc0l4S0lpRm5udUY4S2tSVFcybjg5SDFweHdVdW56U0FvYkdqblk0MVVkcXdxVjM1OXZGYUpxbTJlSlg5T1BKMmgxK2IiLCJtYWMiOiI5YWVhODU5NjQ5NDNkOGVlNGFlYTdjNTI2MmZmYjExNmQ3OWE0MGQwODViNzUwNjdlNjNhMTQ5YWIwMzZjZDJkIn0%3D&amp;signature=08dd29967b3f97b34c677b2a261b7900e33f8be2e035556e88191b58cc9ca477</image>
+    <start>10:00PM</start>
+    <finish>11:00PM</finish>
+    <date>17 January 2026</date>
+  </channel>
+  <channel>
+    <name>MSNBC US</name>
+    <id>MSNBC.us</id>
+    <title>Live: The Weekend: Primetime</title>
+    <desc>Ayman Mohyeldin, Catherine Rampell, Antonia Hylton and Elise Jordan set the agenda for Saturday, Sunday, and the week ahead; fresh analysis of the week's biggest events.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IndcL2VvUDY3T21oNUdXZjU5b0pmS3FnPT0iLCJ2YWx1ZSI6IjVac2FzT1dzRG1ORGlheXU4c1wvblQ3TG5HSlkwSUc2K2F6Ulp2a0VTWHp4aUVicnNMVmV6Z2xpZDNQcE45b1VzemEyUkhNTUhhMWk0anRcLzJtYm1NU0lRVzE4K1RVbDl3NjlJand3bTVYa2UydnhcL2VrVEU2cEo0U0l2cDlTajZOIiwibWFjIjoiYTczNjczOWMwZWEyZTZlNTZlMzFjNWYyN2MwYWVmMDM0ZGExZTRkNjcwMjBiN2VmMWM1MWY1OWYyMjkzOTgwMyJ9&amp;signature=54c0952e1ee5fe4cb7127bf5a73e8fbe967631dde880d9b6248ec7eeb71f2bdf</image>
+    <start>11:00PM</start>
+    <finish>02:00AM</finish>
+    <date>17 January 2026</date>
+  </channel>
+  <channel>
+    <name>MSNBC US</name>
+    <id>MSNBC.us</id>
+    <title>The Rachel Maddow Show</title>
+    <desc>Through her unique approach to storytelling, Rachel Maddow provides in-depth reporting to illuminate the current state of political affairs and reveals the importance of transparency and accountability from our leaders.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IkQ3Z1VrYlhDUlRRZStMdWd4UlEwTEE9PSIsInZhbHVlIjoiWlRPR2syOUNLUjNzTWdoRFh1alV0WkpZS3p5QjJSMnFwNkZaZm0rOW5jTEo4Qk9CaHV4ZkxOaG9tQ040N0dWcmFmRzlNU1ZIa1FyWGtzaVdybmErOERrdHk2M0VoNGlOS2FpczBrTGZJdjR3clMycUJPREFUVEc4NlNONTVhd2EiLCJtYWMiOiI3ZTc5NDJkOGI5MDg0OTNiYjEwODU2ZjFmY2EzYmRmM2I0NzcxNDFiNjA5Y2M0NDg3MTczZWYzNzBkY2Q4MzBkIn0%3D&amp;signature=57a272436bf5a650c50fde1b69666630ae1eab7f58f2ebce7a416db3c8158e1a</image>
+    <start>02:00AM</start>
+    <finish>03:00AM</finish>
+    <date>18 January 2026</date>
+  </channel>
+  <channel>
+    <name>MSNBC US</name>
+    <id>MSNBC.us</id>
+    <title>The Beat: Weekend</title>
+    <desc>Highlights from &quot;The Beat With Ari Melber.&quot;</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IjNnNEVUblwvYnJiZE8wMzRoNGZHTkt3PT0iLCJ2YWx1ZSI6Im9SUlFXRUlcL3hzSk1Mc1VSYzJRak1QQmQ1ZzU5SzhUKzFYSmR1U3l6bm45aWYzSFc0VE5VdDhZUG1sUnI0Yk93S1JHUkhhTmpZSVFWdm1FeEYrWFhzZ0RzUVVLYW9sTndjNzlZZ1d3VmczUUlldHlIZjZ4U0ZSd1pvbG1GWk5DVSIsIm1hYyI6IjI2OTkxMWZmZDFkZDZkZTljMGZkMzgxN2ZhNDgyMjJiOTBiYmUyNzk5NjJkMzM1NWY1MjUyN2IzNjlhYzYwYTkifQ%3D%3D&amp;signature=c649c52ca7d263c602a776570ae4cacee7d99cffffbb1a6b555def6545eb8cd2</image>
+    <start>03:00AM</start>
+    <finish>04:00AM</finish>
+    <date>18 January 2026</date>
+  </channel>
+  <channel>
+    <name>MSNBC US</name>
+    <id>MSNBC.us</id>
+    <title>The 11th Hour With Stephanie Ruhle</title>
+    <desc>Host Stephanie Ruhle brings her business acumen, hard-hitting interview style and original reporting, uncovering stories that affect everyone.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IitJZFdQOW5ONlpzYVFWSDVRNjZPMVE9PSIsInZhbHVlIjoiMnpmR2lrS0hZTVJaN1NSRmQ0WmljN3BkUDNza2dwK3dHRGZaMlwvdlN2NXVualdicUpxdW5jdTZqN1FjUWl4Nnh6YWhDalkxaXdxSkZadXErRmNVTDU3NTk2a3FSd1VJaU9MU3JISlwvTmVaSjZDSGZrT1hmNG9KYzVPTGZ4XC9Cd04iLCJtYWMiOiI0NGEwNmZjYzk3ZDE3YTA1YTQxNzgyZGJiYTA5MGZiMTU3OWNkZjUxNDA3OWJiZjg4ZDY2ZjYxMjFiMjY4YWViIn0%3D&amp;signature=f4506e5e145cd11114f4e298c5d5b92ade8bada45f6711b0fbc72a10c5762d34</image>
+    <start>04:00AM</start>
+    <finish>05:00AM</finish>
+    <date>18 January 2026</date>
+  </channel>
+  <channel>
+    <name>MSNBC US</name>
+    <id>MSNBC.us</id>
+    <title>The Weekend: Primetime</title>
+    <desc>Ayman Mohyeldin, Catherine Rampell, Antonia Hylton and Elise Jordan set the agenda for Saturday, Sunday, and the week ahead; fresh analysis of the week's biggest events.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6ImJJK3VLa0J6am5xbmx6RDVhS1RwWWc9PSIsInZhbHVlIjoiOFdcL3hsOU8xSU9YN3Z2NG5KQ0hCZmJnbUVUZUhFcHUxbUdhRWdmZXRWZTVCN2g2SUhmU1ZyVWR0S0FROGxKcTFmb29KM2tyR25ORE5MNGNVMHk5OTB6ZENBNTFxTk1BXC9pb2Z3YXg1QmxuVjRkUmNNMGlJMEFJZXFyMVFjRk1TaSIsIm1hYyI6IjE4YjU4OWYwMGZhM2U3MmEwZDYyMmNhNGViYjM5MmNhODk3ODg2MTEwOTI2ODRlYjE0YmFmNzlmY2Y1N2YyMzkifQ%3D%3D&amp;signature=e56bc04ff8e3ce114229a62038fc926cc86363edc32e0a81791cdbf695c642ea</image>
+    <start>05:00AM</start>
+    <finish>06:00AM</finish>
+    <date>18 January 2026</date>
+  </channel>
+  <channel>
+    <name>MSNBC US</name>
+    <id>MSNBC.us</id>
+    <title>Dateline</title>
+    <desc>Mysterious deaths occur inside a traveling commune, starting an investigation that lasts more than a decade; two sisters -- former commune members -- reveal stories that involve lies, lust and greed.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IkJLbkVUeG5XYTlETVJGYklBaGI2T3c9PSIsInZhbHVlIjoic01CTkQwc2lycmJTbXRsaE4wblBkOW8zWG1adUZ5QkJjdG5yVmlwWE9wVXcxK1ZcL29tcllCM0dnQkxjMGNRYlJoOEVWd1I5SFZ4TU5RN3hyYmR6ekhLOEZTRHNVZ05ZNUk4b3gxeVk3bEIxTk9CN25udnNuYW1VTHZ0TG0xbXdaIiwibWFjIjoiZDNhY2M1YmM5ZTYxMTA3Y2E4YTUyOGQ0ZGViNGYzY2U1N2NmMDcxNzAzZTFiZDA4OTM5ODdiZTRiMzk1MTVhNCJ9&amp;signature=1e6612d43d6b2cfc11e01fa058df62ebbdbcaf3f6ca0cd69837360b9dfe7657e</image>
+    <start>06:00AM</start>
+    <finish>07:00AM</finish>
+    <date>18 January 2026</date>
+  </channel>
+  <channel>
+    <name>MSNBC US</name>
+    <id>MSNBC.us</id>
+    <title>Dateline</title>
+    <desc>Mysterious deaths occur inside a traveling commune, starting an investigation that lasts more than a decade; two sisters -- former commune members -- reveal stories that involve lies, lust and greed.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IkMxVWF5WlhsNUk1S0ZFNVJuSmhSK3c9PSIsInZhbHVlIjoiOHdrUW00bDhuVjhSRW9EbGhqVHQrWFQ1OVJEZjNVSzc1XC8wZ0pmQ1FtVE9IMFV4UEFYdDZvSkJ0R3Njb3VsS2lVQTFlVVJac1BmQ2t0N0VJMW1ZNmZwYlV0RzNiSFE4THhQOHkrZTFIWFF5bHl4RnZLMXZOODVYS251SEZEZ2xoIiwibWFjIjoiZTNkZjE1MzI0YmJlYTgwY2YzNjMxZmU5NTNiNDU5NzQ0MmNlNWYwMzcyYzVlN2YyNjBlNjM0MDc4ZmFlOWVkYSJ9&amp;signature=7d7d88e5d931453b5fb0ce073119d761600afa60e29dd1e194c4a64a605f8914</image>
+    <start>07:00AM</start>
+    <finish>08:00AM</finish>
+    <date>18 January 2026</date>
+  </channel>
+  <channel>
+    <name>MSNBC US</name>
+    <id>MSNBC.us</id>
+    <title>Dateline</title>
+    <desc>When film executive Gavin Smith vanishes, Los Angeles detectives search for clues amid reported sightings and suspicious circumstances.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6InFzTEY5RWtnNGRVUDFlVnFxek93REE9PSIsInZhbHVlIjoiWHVKaW9SNGNvQlVoaGlMUGxxNkJFbVlOcGE0R2RNR2NmYkdXb0xJdWtYVlZ2ODlFYmxMaFwvUndkaXBpdWNBQU1iVmw2Z3dUd0VoSW9CMVRpaTNiUVpXT2xRVzc3WnJIUDZBMHc5MGtyY20zYit0bXJsRkpQZGJKN2ZOY0kwY29EIiwibWFjIjoiZDcxZGU4OWY5MThkMzk3NjgyYWM4NDFiNjAwYzEzZmFiMWE5M2Y0MWFjNzUxMWJmMmM2ZTY1YWU5Mzc4NzlkYyJ9&amp;signature=b539076c68422d9718e60dd6898be195837701d9cb9624631bab535ae493f7d2</image>
+    <start>08:00AM</start>
+    <finish>09:00AM</finish>
+    <date>18 January 2026</date>
+  </channel>
+  <channel>
+    <name>MSNBC US</name>
+    <id>MSNBC.us</id>
+    <title>Dateline</title>
+    <desc>An investigation of a woman found murdered in Fort Worth, Texas.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IjdNNmxtSGMyQ1FqVWd2N1NoNWFNeEE9PSIsInZhbHVlIjoiR25VaUNxTE4wUGhKcVdkN2hoeTJiOGNRU294Um5jeTZvSkNTZGFpQVNcL2JWVWJBcklZUnIyWGdUSG9DbWhhUWlWN3JnRkptVlNEVzdncXVGXC9zY3lSSU9WWFA2OVl3YmZxdlwvWG9Ha0VHZHVYVGV2enlrVVZ6Uk1sbVByYkZrWXkiLCJtYWMiOiIyZDVjNDU5MzhkOGVmMGFkYTMyYjljNjgwY2VmMDcwZGNlMzc4NTFhMjZiYmIyZDRmNDk2ZTQyNjVkOGNkYWNlIn0%3D&amp;signature=8c7bac96442a692446693337f1332beefc53bb135c85760d62776b7251c1e9d7</image>
+    <start>09:00AM</start>
+    <finish>10:00AM</finish>
+    <date>18 January 2026</date>
+  </channel>
+  <channel>
+    <name>MSNBC US</name>
+    <id>MSNBC.us</id>
+    <title>Dateline</title>
+    <desc>The mysterious death of a young mother in Ohio and the ensuing investigation that spans years and multiple states.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IlNhN1cwdHluMlhWNk1GY3l5WTg3Y3c9PSIsInZhbHVlIjoiM3RKdnZPT01jTVFkSmN5dVpMYU9lcHJuaXVNU0FCczBETklpT1FubVBRMkc4anY2eDVqQVdqc2VQbUl3eFlUR2R5YkpEb0c0ZmRXcmpFY045cG04czVuRXFZTnJyZ2c3VVBQMGluSm50YjFJS29KXC9VR3RiQjVxVXFURmNpeTk4IiwibWFjIjoiNDNmMGUzODI5OWI5NWFkNzc3MGEwZTE2Yjg1ZjJkYjIyOWM1M2EwNjM3Mjk5N2RmYTFmNjVkYzNkMGFlYTdlMiJ9&amp;signature=c1739b93f5e108bd2d6eb3b7869e21c81bd35c666738d5f0f292ce8df168d6cd</image>
+    <start>10:00AM</start>
+    <finish>11:00AM</finish>
+    <date>18 January 2026</date>
+  </channel>
+  <channel>
+    <name>MSNBC US</name>
+    <id>MSNBC.us</id>
+    <title>Morning Joe: Weekend</title>
+    <desc>Hosts Joe Scarborough, Mika Brzezinski and Willie Geist present in-depth and informed discussions that help drive the day's current political conversation.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6ImhXRER3c3plb3k0dnpHRXg4RzdJZ2c9PSIsInZhbHVlIjoiVEpUR3Q1cEVPaDkrN0lPbmV3amVxVkpUdzJlYzRIVVRMYVk5d1BcL2tORmY4RzZ3ckN2cHBtME9YeXp2SmxQRkxON0t1aEVXSHFWQXFraXJSelphZXVBUFRvbnBSRnNscEhGWWFFRG1LdDNMNHU1YXplQ0dNTUM4STU2Sm45VUtBIiwibWFjIjoiNGE3OTE4ZjBjZDc0ZGU3ZDA4MmUzOTNmY2I4OWEzNGUzZmI5YjBhYjBkNDRlZTg1MGYyN2JjODA3Mjk1MWFhYyJ9&amp;signature=cb5508c1c6d3dc2b8f9092f8a74bea16a68fc8fc97abf633f09eb38be28c7841</image>
+    <start>11:00AM</start>
+    <finish>12:00PM</finish>
+    <date>18 January 2026</date>
+  </channel>
+  <channel>
+    <name>MSNBC US</name>
+    <id>MSNBC.us</id>
+    <title>Live: The Weekend</title>
+    <desc>Jonathan Capehart, Eugene Daniels and Jackie Alemany set the agenda for Saturday, Sunday, and the week ahead; fresh analysis of the week's biggest events.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IlN1OGZMMFZLUkpHXC9MaTNUcXBCaXh3PT0iLCJ2YWx1ZSI6IlwvUVV5R2xDTWpZdmI1cVVrajFsU0dOMExDTzlaUUZhZzRHQU5cL2VpRUhsWHk0NmZtaU1TemlBRWdZQTYzK1hlSUU1cVU4VDhjOUtydzZKNk9idzZ0Q05qZnYrZ21IZUJsSitaMWo4VjB2NVBYUno1aldJUVJnUVBKcGhVMm9PbGQiLCJtYWMiOiIwNmY3N2VkYmZkNzAxMzhkOTdmOWE4YzcwOWNiMzdlMGQ3ZmEwMmE2ZDRlYTJmYWE0ZDg4Yzc5NGZjMTU1NTBmIn0%3D&amp;signature=77cee15ede7d5d7abdbd63510c5bf085e2251205fbf53d10da494ef9c48632c3</image>
+    <start>12:00PM</start>
+    <finish>03:00PM</finish>
+    <date>18 January 2026</date>
+  </channel>
+  <channel>
+    <name>MSNBC US</name>
+    <id>MSNBC.us</id>
+    <title>Live: Velshi</title>
+    <desc>Current events and sharp analysis of top trending topics.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6ImREY1kxMDI3TVZUVjhMSlwvSExBSlF3PT0iLCJ2YWx1ZSI6IndlZUcycFdieHlEUDVyY1lQT3VjNHZJZzFyRmpnVEZFXC95TXE4QjhpRFkxQlJTMmxCakROalNhSXNlOVdocnRsdUdmYnc3Ykg4ZWpINjhhQ3ZDcFdSWlE4Ym04Rm1UWDMxSmdQNXgwOFlmaWFwWnhFM0FSVGd2M3kzWTdDMHF2ZyIsIm1hYyI6ImMyZTM0YzQyMDg1NDMwNjhkYzBjZjgyYWY5MzIxNzQ4YWQ0NWJhMGQ1ZjA0YTY5MmI3ODkzNzY3M2YxMWIzODYifQ%3D%3D&amp;signature=86edbf5e65bcb514e7d248096443de0cd6707ab469d1a280764e85139c9c4660</image>
+    <start>03:00PM</start>
+    <finish>06:00PM</finish>
+    <date>18 January 2026</date>
+  </channel>
+  <channel>
+    <name>MSNBC US</name>
+    <id>MSNBC.us</id>
+    <title>Live: Alex Witt Reports</title>
+    <desc>The latest breaking news, reporting and live coverage of the day's important stories; discussions with newsmakers, journalists and politicians.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IklWelFDdVwvT3NWM0JJaVE2SlhaOHZ3PT0iLCJ2YWx1ZSI6IlR0NlpEN1dXbExPTkFFR3M1M2VISk8wMk51SkZjdm9qSTE5aDBacUdRc1MyeWtDNUhYaVRvZTBWdU5jUXNrS1JrN1JwY2VPXC9DMStXSXkwdkZrVkwwaXNxVmwwRmxzTnp1b3NWYTJzenBLWkJKSEQwNTFjVzdNOExIVzVqejl1TCIsIm1hYyI6ImY0ZDljNzgxZjQwZjBkZmM2NDA1ZGJiNDA2ZjZkZjU0MjZjYTdjMGVmNjkzOTIyOGZlMDQ2NDc3MzY4Y2RmYTcifQ%3D%3D&amp;signature=a0786abfafed6d05683e515ce0f74f166eb46a9bc72bc3abae09b20661472e7b</image>
+    <start>06:00PM</start>
+    <finish>09:00PM</finish>
+    <date>18 January 2026</date>
+  </channel>
+  <channel>
+    <name>MSNBC US</name>
+    <id>MSNBC.us</id>
+    <title>Deadline: White House: Weekend</title>
+    <desc>Highlights from &quot;Deadline: White House.&quot;</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IlFtbVphdlp2OE5lRnJGdFwvSTZrcGxRPT0iLCJ2YWx1ZSI6IkF4amM5Q3RJTEVObnZLYXNGdVRmZUh6RnptVWdhbHRmMkhNZXdDUis2WU5jUFVEOFRzRkRuZ3NRcUxDTmFHVHl5TUgzd1wvakdROHRCYncwMjNvMmNHXC9xWm5zQWI0anFvU2I5K1doXC9Kak9cLzRsYWo0QkZ3V1Y5ZzlHbUlmXC9ETXciLCJtYWMiOiJkN2QwZTlhYTFkOWMzODc0MDUzZjU4NjMyYTBhY2MyMzU2NDNhZjY5MGRiNjM5ODFkMjIyMGU1Mzc2OGUzNGUwIn0%3D&amp;signature=21bd327f834418a5454225f446b8c0cd13a3d5581ef8e4e8ed3d85fac5c5025a</image>
+    <start>09:00PM</start>
+    <finish>10:00PM</finish>
+    <date>18 January 2026</date>
+  </channel>
+  <channel>
+    <name>MSNBC US</name>
+    <id>MSNBC.us</id>
+    <title>Live: PoliticsNation</title>
+    <desc>Sharpton approaches news stories with an eye toward equality and justice and brings to light the news and updates on under-reported issues that require a national platform.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IkJHNHV0dGR5U3ZmTEJmYWNiZHNnRnc9PSIsInZhbHVlIjoiYWhNNkQ3R0ErNjNyUVF4cUtjMWp3ZUh4VDc0cFRzKzh2bHFvUHpjVGFZVDA3UTZBbHc5RlZKVTdIb2MwS29TYkdKRFJscXdNemxoTkM4OWJocFpwMHZRdEtoUFkwNHRVK3grVTNqK3BhQ05yR2RzY1liSTBHeVVtOGQ4NVlIZGMiLCJtYWMiOiJlOTYzN2QxYWZhZDBhZjU5MDI3NjNjMDgwNTUxN2ZmNmIwMjM0ZjY4NThmN2IyMDUzOWVlODY0ZTEwOWRmZDU3In0%3D&amp;signature=449442083f674b6619ec78bd9603f2b0fa7c454aa43861ad567834ce88b89c36</image>
+    <start>10:00PM</start>
+    <finish>11:00PM</finish>
+    <date>18 January 2026</date>
+  </channel>
+  <channel>
+    <name>MSNBC US</name>
+    <id>MSNBC.us</id>
+    <title>Live: The Weekend: Primetime</title>
+    <desc>Ayman Mohyeldin, Catherine Rampell, Antonia Hylton and Elise Jordan set the agenda for Saturday, Sunday, and the week ahead; fresh analysis of the week's biggest events.[(96057)] </desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IlVrbitvYkU0SVowcEpVU1RZbkpLbFE9PSIsInZhbHVlIjoidkM1QmNMeERHMm1yTjFcL1ZoNUZlREJzeDNVc0srYVY0dUZjRDBDWk5wejF4aUpmRHJ6M25NS0xpSVJKcUFPSDNrbFFsbVVBZHRveEY4NEJJSFV6azVCZVN3dUZRRHFDQlkyWXFJOGhOYkw0SWdSNlBlYjFBXC9zWHl4MnZKRTVQViIsIm1hYyI6IjU4NjEyNDI4ZjdmZjU1YjI1OTYzNmMzZDFkMWI4OWY4MjZjM2Y4MzBkYjk2NTU5ZWE1MTY3ZWZjMjFmZTVhNmUifQ%3D%3D&amp;signature=e3df096290754e2f50950ca3c8451df5fba6782546956ea0356f4150345e50b2</image>
+    <start>11:00PM</start>
+    <finish>02:00AM</finish>
+    <date>18 January 2026</date>
+  </channel>
+</tv>
