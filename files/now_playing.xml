@@ -3,31 +3,21 @@
   <channel>
     <name>BBC One NL</name>
     <id>BBCOne.nl</id>
-    <title>Business Today</title>
-    <desc>Bringing the latest business news and up to date informed analysis from London and around the world.</desc>
-    <image>https://epg.best/assets/program-icons?program=eyJpdiI6Img1QzVnbTN1Q1NqWXMreDNqMk1wTUE9PSIsInZhbHVlIjoiNHFaV2JGbWRrMGFwQnd5OWdId0VCT0Naa2lraGlkMUtZOXRCTmxRRGRObFVRbm1SdjJkcktIY04rYVFwdWlQTVBqRWVzeUl5cVIwK3VcLzg3eTU1TzVXek9naDh1OVp5UjJGNzlsRTFtUm9SRWdiVGNMRHU0Z1JjMVwveXViYW04aEJTRWpnWnQ3MlpMemgxajNYN0JTYjMwejNMQ3p4dDYrcnpEM1c1ZWQrTzR5dmFSOENEMFhqYW51alpwVFVzM0giLCJtYWMiOiJiYmVhNmVmZmRjMzIzMzVmMGQ3ZDdjZjAwNjMyZTBmNGM4Y2FlOTJiMzA5NTY1MzI2YWVmODAxNDkyZTQ4ZDQxIn0%3D&amp;signature=c5cf63ac701e44a8ed1d156cdbc42a1c7129940eea3b72dff4e6a488f7b4880b</image>
-    <start>05:30AM</start>
-    <finish>06:00AM</finish>
+    <title>Breakfast</title>
+    <desc>The BBC's Breakfast programme features the latest news, sport, business, weather and other items on a daily basis.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6ImphMnlVMVVwM2dFOWR1RFlCU3RkVHc9PSIsInZhbHVlIjoiSmo1MXhyTTJoWHByXC9UKzJOZXNGVDRYdDNPM1k1ZWxzdDZKWG52Y2k1MWpBMnhXVDk5cUZRQjNseEtVRkNXdVZaVkNzWFBFSmc0RFl5bTB1ZU5BSjQ3bmEzWnBhQkY2Zzh2UW51XC9ZQ3hPVDJSamYwY0pBWHg1bWpcLzZ0WFRHRWt2R0lWaTQzZWNZWkFkN0pOOHZpRFVnVDQwWmpnT0xJczVtV2V5OEIyOGFNWFE0WjlaeFZEUmU2RWRvZktqR2FHIiwibWFjIjoiYmE3YjkyNmM3MThiM2NmOTBjNjI5YzU1YjNhZDZlOTA2ZDI3NDUwMzZlNDlkMTAyODAwZjBlYmVkODEwNjRjZCJ9&amp;signature=9cff6bce49e459997af81b7978ba2bf781cd2a3430532789c40413c320cf632d</image>
+    <start>06:00AM</start>
+    <finish>09:30AM</finish>
     <date>12 January 2026</date>
   </channel>
   <channel>
     <name>BBC Two NL</name>
     <id>BBCTwo.nl</id>
-    <title>This Is BBC TWO</title>
-    <desc>A preview of upcoming programmes from BBC Two.</desc>
-    <image>https://epg.best/assets/program-icons?program=eyJpdiI6Im9sYkpVR1lBeDV6UEF0OFZUTUZGVEE9PSIsInZhbHVlIjoiM25jXC9JMVFPcEc3cGRNRDBQeGZmeUNMazZsRG1lNUdBS0dVMThFY1RVdXhSaHRsUjNwNWtsT0V4ZGJYMXZoSUpXMG0ybDRycmdXZmdNa2ltelArY0l2R01ZMnJacmFlaW1pZmxaN29QU1MyQ0kxSkV0RWdNNkp2Uk5rRkp4ajdTTVwvanRCcXk2Y3VMWEY3MDc3bkFHMURkUE5MbzRZMnJRYWlseE1BRkVZb0NBdjJMK05PcFBla3FhcmlBK0pXZEciLCJtYWMiOiJmYmU4OWEyNDlmYzRlMTIwNDM1YWY5ZDcwZDI5NmY0ZTdjOTJhNTc0ODkwNjBlOTQ1NWYzOGNhMmFhN2I0NWM1In0%3D&amp;signature=01c43f027423d2cbe46f42c26258fd2f08d16f7e5cb6cf05bccb422eddc4e72e</image>
-    <start>04:45AM</start>
-    <finish>06:35AM</finish>
+    <title>Antiques Roadshow</title>
+    <desc>The roadshow visits the National Waterfront Museum in Swansea. Highlights include one of the first Welsh rugby shirts and a miniature silver cabinet. Fiona also gets a rare peek at some personal items belonging to one of Wales' greatest poets.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6ImF3cG1pNkNQakJQUStrOVRFWERHcEE9PSIsInZhbHVlIjoiR2xrbDB5eWJjcjlGUjhJdTArVzIwd1pqcEx5TFJra2ZrQys2dTlPd1NFRTZEV09UQ0xzNWp6RFZRMmJGTEY0TEdPSmZIb01ZSE56aWx1RU9EZmRrRU1pM0dsQUhNRWNGaUJHNHlVSFZtV3dVSFFWVmVWa29FeXprcnJ1U29pcEdya0E4YUllQ0FSVHBlMkgyQzVySFhLaGJaS041WWZtYjhUZ0lubUFTeEpOcUZ2WVZiMXdlT3g2UUl6XC9OdEQ5dSIsIm1hYyI6ImZjNzI2MzI4NTY2MzgxMjljN2RmMTVlMmM3YTY3MDZhZDk5ZTc1NWM1YmNhNTYyMTFmZWM4ZmNkZDBhMDRlNDUifQ%3D%3D&amp;signature=60f8325eaa6cc5e7d518611e924da72002494fc4e4414a29753433697197da03</image>
+    <start>06:35AM</start>
+    <finish>07:35AM</finish>
     <date>12 January 2026</date>
-  </channel>
-  <channel>
-    <name>Tennis Channel US</name>
-    <id>TennisChannel.us</id>
-    <title>Live: Center Court Live</title>
-    <desc>Tennis action from around the world.</desc>
-    <image>https://epg.best/assets/program-icons?program=eyJpdiI6ImZpZElsUWJZODBVaHVIOHhsY1NpUWc9PSIsInZhbHVlIjoiN3F1S3ZKdnJTYUlmWTIzM1hVd0l0NGV4V2dWSW9IczNxYTNNbk1nMjdqbU9FNnB6VHdVNWFFUGVjVW5PWjVUd09ENmh6M01tSWRKQStcL1hoNEFodWpuUGtpUCszREpjdk96aURUQU1vWjU0bjF6ZThGTnY3UGdVbEF1MjlkajJrIiwibWFjIjoiMjI0ZThkMTBjYTIzMDhhZDJjOTc4ZTMyOWVjYzI4MGQwOTE2Yzg5NzRkZDUxMDc5ZjAxZWZmMGZhYzVmYThiNiJ9&amp;signature=c19d8ccedbc6405d7b042a125eb2003a84bde6c2ecdc95e8628299c249e0d748</image>
-    <start>10:30PM</start>
-    <finish>06:30AM</finish>
-    <date>11 January 2026</date>
   </channel>
 </tv>
