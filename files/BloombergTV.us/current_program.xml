@@ -3,11 +3,21 @@
   <channel>
     <name>Bloomberg TV US</name>
     <id>BloombergTV.us</id>
-    <title>Bloomberg Wall Street Week</title>
-    <desc>A weekly program telling the stories of capitalism from around the world, David Westin in New York hosts.[(96057)] </desc>
-    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IkUxTXNRYSswTnRxQlI2R1FKMWZjMHc9PSIsInZhbHVlIjoiXC9FSldDcER5VXhnWjN1T3g5Vm9DRkZxMTlYVkl4dGoxdVRzdWFOVHkwbnd2RE9jemRENWdsODlOMFRvZkQyWVdRaStzWExYR1RzNUVNZ1Q3SUk0T2VFN3VSWFdiKzlEbURJdSs0Q1ZWV3g3cVdzVG9HNjJRQUJJTGs5MFwvR2E1NiIsIm1hYyI6IjE3ZTdkMDlhYTc1ZTg2NmFkZDExODRjYjM5YWRkNWRmYTI2Zjg2NzI3OTdlNjBhYTlmNDY1MjNjYjA1NGIzNzUifQ%3D%3D&amp;signature=782775a339203ca06e39589e41d14092cbcf62409411c751428b930f6fd630c5</image>
-    <start>11:00PM</start>
-    <finish>12:00AM</finish>
-    <date>18 January 2026</date>
+    <title>Live: Bloomberg Markets</title>
+    <desc>The most important global business and breaking markets news and information as it happens.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6InljTDVcL2o4VnAzdkpiekMwbWxFMkJ3PT0iLCJ2YWx1ZSI6IkIyMW9STExMY0lWblFxVlNJK1NyQkdTb0ZNeDU2WExnUVhXWVpBbXBUS3JwQTZNZUhRMUtzdkpvQUFwN2VEcVc3bUdVVTVmeUdlRlYrSU1INFJHWSs3S25aQkhxUjRod3hWQ3FnMTE0eEFHVERuOTRtdDhhb1loMnIrWGZuRGhOIiwibWFjIjoiZjJkYzgxMmFlYzY0YmQ3NjcxMTBlZjFjMDY2MDE2YWViYzhjMzEyNmJlMTE5ZDY4ZTg1Zjk1MjlhYWM2OTk4YyJ9&amp;signature=dd83f207cd3e2bbef7b8cd39b951ef12789511b35b9bc4f1a965b3664c7ba799</image>
+    <start>10:00AM</start>
+    <finish>05:00PM</finish>
+    <date>19 January 2026</date>
+  </channel>
+  <channel>
+    <name>Bloomberg TV US</name>
+    <id>BloombergTV.us</id>
+    <title>Live: Bloomberg Surveillance</title>
+    <desc>Jonathan, Lisa and Annmarie survey the economy and global markets with daily conversations with leaders and decision makers, from Wall Street to Washington and beyond, to cover the latest in business, investment and geopolitics.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6InIzXC9WZTVzRWdyWlR2dGRNTFc0aXNnPT0iLCJ2YWx1ZSI6ImZlczhkb2Rlajhjank3Z3p5WHNcL0FweHNjMEJzMXg1bXlMRXBrS1E0am9FNjRtK3lzN003NzNHYUxqVVhvWTFsWHBHZ1FjWnVGOXRUUzJhajJRUGFiakx0dHQycGc0UkFQSDR0MGhBNDRlbWs3a3Jic09rZE16SklzWmQxenhcL3MiLCJtYWMiOiI3ZTMyZGE5Zjg2ZWM4ODc4ODg0YjU5MTFlNGZiMmFkMzNkY2JmNTNkYzg3NjU2YTdjOGI0ZDkzOWRkMTExYTU1In0%3D&amp;signature=fe3519361428abb9e8f9f2fbbd52ed2c2851a6d6bf21ccea17338dbc446bd39e</image>
+    <start>11:00AM</start>
+    <finish>02:00PM</finish>
+    <date>19 January 2026</date>
   </channel>
 </tv>
