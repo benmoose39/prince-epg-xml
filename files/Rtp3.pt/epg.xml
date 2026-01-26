@@ -1,2 +1,1773 @@
 <?xml version="1.0" ?>
-<tv/>
+<tv>
+  <channel>
+    <name>Rtp 3 PT</name>
+    <id>Rtp3.pt</id>
+    <title>Not?cias Seis da Tarde</title>
+    <desc>Na reta final da tarde, os factos que marcam o dia. Atualiza??es em direto, reportagens, an?lise e Jornal de economia com coment?rio em direto. Na RTP Not?cias com Ana Louren?o e Cristina Esteves.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IlFpNzFUMTd4QjZcL09TWkd4aTM5YnFnPT0iLCJ2YWx1ZSI6IllGQUxhN254eHZ3N0FPYVA3dGh0QmRKbUlXclwvc3FvZHRIVGhaTERvTFJmYWtmb2JUTnBmOVloeFBPSTkzc1ZuTU9jb1RtSWFQNzVyQndWclwvdlhsTElic0VmM09HUVVzSXlyb0djWHB3OUJQWEZ0YXZmNGNDSFNXTlpycW5ia0hVYUtGTERQR25LSlhvT2N5dmUzNnNCamFTWE9yMmF2OFwvSk0xamY0Rmx5ZjNmWUdHcTVnSGh1TUhQeDljVG5mZDhLSlpEYTYxakNWYmxCeTY1SlwvejJ0a3NuTnFyblRuZjMxellvODI0Z0lCOTNyY0lqUTFlelVMTEN2Snh3OExMIiwibWFjIjoiODNlODNiMTM3ZTgwZWUzMGIwOTRkOWIyNDk3ODRmMjk4ZDE0MGVhMTc3YWZlMmI2MDgyNzgyNTM4NjRkNTkyYSJ9&amp;signature=1396a3f2e1d732ad4dccf90d4a6b56f975987474b4cbcfb2bc5eb36690e77bfc</image>
+    <start>06:00PM</start>
+    <finish>07:00PM</finish>
+    <date>26 January 2026</date>
+  </channel>
+  <channel>
+    <name>Rtp 3 PT</name>
+    <id>Rtp3.pt</id>
+    <title>Not?cias Sete da Tarde</title>
+    <desc>Atualiza??o de todas as not?cias que marcam o dia, no pa?s e no mundo. Na RTP Not?cias com Ana Louren?o e Cristina Esteves. E ainda o debate em direto, no Jogo Politico moderado por Ant?nio Esteves.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IkxvTjRiSzhUb2ZVVlpcL2lJVWFJQzhnPT0iLCJ2YWx1ZSI6InhQOVJtREM0VTZRTmlmdUJuQ1RLKzNYVkx4dksrNU14Vmc5SHVjbWdyaEUzYlNCU20yMHpsTXBtUlJXSnBiZ1hoRjR5bUltQUorQVlXWTdRdURqcUw1bmIxZnVHZEpkdzFLR0xZUkxkOVdnUkNPNmp1eHFxQVhxalR5bFhvSjQ4eHUwaDhzNXpcL25OdFhONlVXSHc1VXVwaHA0SVBEeHZZek4yeEpcL1RESVl0QVNoaTBXanFQSEVYTGdDSWhGUFVSM2NCUjBBTG9WTnZwUUI5Rjh3eDBNMjdcL3VnblF3K1hSY21xdm5zRmpSNHdySUVadHdxM3E4bDEwTThWTTN4MG4iLCJtYWMiOiIyMGQ1YTY2NzAyOWI5OTcyZTNmMGUwMzJjNGFhOTNkNzFkOWQwNmM4OWMwOWY2NDU4ZjUzMGFhMTM1NmMwMTI4In0%3D&amp;signature=fdea810e198c3203af222dab00ec727655cf28e0ec43a94971c49064ee3e5f6c</image>
+    <start>07:00PM</start>
+    <finish>07:30PM</finish>
+    <date>26 January 2026</date>
+  </channel>
+  <channel>
+    <name>Rtp 3 PT</name>
+    <id>Rtp3.pt</id>
+    <title>Jogo Pol?tico</title>
+    <desc>Tr?s partidos, um debate di?rio. Ideias em confronto com modera??o de Ant?nio Esteves.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6Imo5YkpCQU81T2x4VWxtNWc1TmZMd1E9PSIsInZhbHVlIjoiaTl0MDhaVkxJaWZHaldYTzhaSUJCc2M1NHk3NUJDWkN3NXNaU3BPVXZ5RXZwNWtYTldza3l3cFQ2TmY3blUrOVRcL2FvVWl1N2NSNEdcL29OR203dFlqUU40blgzZkZZQWJiQXE5bkxWXC9zaURFcm5qNFlWSFdkXC9pTDd3YXBMUTh5UkltajRFRFJvNkRaU0hUUnJkZGd1NkxnV1ErK1h6N0orOHFaQVFaMDhFUTlFeXcyR0wyczFcLzM4MTJqNEVCZUFRMlREQTRVUVZqczM4bFFYMHdyMVROeDBvWkRpSldzTmR2NkZHQWpJRVlqd1wvWXVOWWM0K05cL0lUMUo0YWNiemYiLCJtYWMiOiJlOGExZDQ4YTk5N2MwODQyNTljZWEyY2UxZjAwYTg0N2M5N2QzMzg3Njk0ZDk4NDIyOTE0NjdlOWRlNGU4MmE4In0%3D&amp;signature=247b169cd0bd00c4eea9ab002cfa02b069b895f01ee298da805da0e5b44f65f6</image>
+    <start>07:30PM</start>
+    <finish>07:58PM</finish>
+    <date>26 January 2026</date>
+  </channel>
+  <channel>
+    <name>Rtp 3 PT</name>
+    <id>Rtp3.pt</id>
+    <title>Telejornal</title>
+    <desc>A mais rigorosa sele??o de not?cias, todos os dias ?s 20h00. De segunda a domingo, Jo?o Adelino Faria, Jos? Rodrigues dos Santos e Ana Louren?o mostram-lhe o que de mais relevante se passou o pa?s e no mundo. Se ? importante est? no Telejornal.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6ImJJbEpkUloxcDV6R2RiVlR5ZkliWEE9PSIsInZhbHVlIjoiM0dWaXBJdG1DWjdONjk3dUxjSzdXbVpma2R0NnREcWpGR3JoMGtNNmhQdzFLdDdENGhLZmltWlM4aGtVbFRhcUFHbFFWbkYxekV1QnErTzd1TDhncTVqbXd1XC8zWUlNYkVCY3NBUnpobDFtTG5VSEw2aUxMU1ZhV05OVEpyaEdZYzFUd293OU5ER2d0UDVUZ1RjTmY2UFlmSk9wVTNcL0wyOWMreWdwbnBIbDR4R2VvOExHQXpvNVNZNU1TYmdHYk92UEJcL2JJU1NlSlJHNFFCb0NYOFVZUCt1U21EZUFFXC9Rc3hLbmFBOFRaUXR5amlHRDB4ZjdOc0M3OVF3TFhLckoiLCJtYWMiOiIyZDkyYjJjMDA5MmY0N2FkNGE1YzYzYmIxYmNhMWVkOWIzZDI0OGI2N2NiZGE3MmQ4OTg0ZTRmNmY1OGMxOGI2In0%3D&amp;signature=90440a0148ab24b832d8b5629d41d3bdae74fcb2b525efee8b54f3ec50da6f78</image>
+    <start>07:58PM</start>
+    <finish>09:00PM</finish>
+    <date>26 January 2026</date>
+  </channel>
+  <channel>
+    <name>Rtp 3 PT</name>
+    <id>Rtp3.pt</id>
+    <title>Not?cias 21</title>
+    <desc>A atualidade nacional e internacional em destaque na noite da RTP Not?cias, com Jos? Rodrigues dos Santos e Jo?o Adelino Faria. O rigor e a an?lise com os protagonistas que fazem not?cia.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IklcLzhKMHdWUlNDWnhVR0M4NUt5RVFnPT0iLCJ2YWx1ZSI6ImgxaERWbDQ1SzRXcmQwcDBkcVZ3Yk1NR0NnamNKeWMwdnd4elRGNlZwTG1oTFwvR1NaWUdUXC9KbWtwK2hYODk4ZDJnUkVtaFZNVlp6S1wvNVZ1a0Z6ejNlbXE5aDg2WjFueUVEbkxVRURmUlIrWjJvbkY2NTVpQlwvSUkxait4ZjZHUE9oWmR1dEhYR1JNWmRBSGNDbFREQmZFQ2xDQzdyazNJQmxpWmM2QjFQSXdQaWhIaTFxeHljaU5JVm5qK0tBWGF2MnFiR3RpUUNYYm8yT2ZnQ1dvdWxBVlY0a0dSXC9qbkl6VXU0UElQVVBpXC9rZDhpakRWa2dEdDBiTVc2ZFhIVXYiLCJtYWMiOiI5OTczMjRmNDVjMTc4YzJkZDhmOGQ3MjU5NzYyNmM2NWQ3MDM2NzliYjE3ZmZhZjUwYmUxYWQ4MzNkNWYyZjE1In0%3D&amp;signature=705086b925155908db76b562a5375bdf3a18820afba52a82e3ccd78e1e1a407a</image>
+    <start>09:00PM</start>
+    <finish>10:00PM</finish>
+    <date>26 January 2026</date>
+  </channel>
+  <channel>
+    <name>Rtp 3 PT</name>
+    <id>Rtp3.pt</id>
+    <title>Not?cias Noite 1? Edi??o</title>
+    <desc>?ltimo olhar ?s not?cias que marcam o dia e a noite informativa. Com Clara Os?rio e Pedro Esteves.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6Ikp5MlJoWFpmTlB5WWtNM1dEY1FrV3c9PSIsInZhbHVlIjoieHhFM0dqcjVOQVZLK09IQWVGVzFDQnlkUDk5WWp4cVRYMWJ6ZURjR2NLdHlURnNaZVo4SlRGaEJDbjZuTUc4WWdsemFiQ1pQaFpKUktzVlBkVzJVN2ZGWGpCZDBwWVNxTkZBSWREc0UzQlBBbTVmRzdmakpkbENJTzlSc1QyeDN0WXhqejZMZURKamppdDBlRzk3c2VKaUVnY0g4elBKOHhNT3l3WkRpTlwvbWVhb05tanhZb1RtK3VwdzFEaWlHdWQ3ZkIrZjNTRjBIUzRJb2hWN0EzcmF5anJLNkRtRGV4RkY2OEJCTk1kd2FTOXYybzF1UWRITDZjN3dEOXczOFUiLCJtYWMiOiJjNzQ2N2MxNjExYmI3ZGJiZjZkOTMwOWNlYWJiMjYwNmE5OWVhZWEwZWU3OWQ3Zjg5YmNkZTMxOWZjMGQzYTgxIn0%3D&amp;signature=edea6ca6c9989bba16322fabb83748c02354e45f2393c4206a2c45b97b32b11c</image>
+    <start>10:00PM</start>
+    <finish>10:35PM</finish>
+    <date>26 January 2026</date>
+  </channel>
+  <channel>
+    <name>Rtp 3 PT</name>
+    <id>Rtp3.pt</id>
+    <title>Tudo ? Economia</title>
+    <desc>Programa semanal sobre economia, finan?as, macroeconomia, mas tamb?m neg?cios, empresas, mercados e finan?as pessoais. \&quot;Tudo ? Economia\&quot; procura responder a quest?es da atualidade.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IlMrekJtbGlEWHZheGVyckx5cEdrUFE9PSIsInZhbHVlIjoiS0gzQzVvTFMyam5hWFNWYm9wd3pVUU16Z0loVGZRc1ZjeFBKa1MzSHk4UUQ5TzJjRWlcLzRsdkh2Y3pWWFZWcVphczFhcHd3SFgyTmN4RGdQM2NvYWRmR3N1Z1V4ZzV0TjRCK1wvaDc5NG16UlZOSXdUTDdtNks4TG1sTjlcL2NQUjdRMFwvNCtobFdUejdJNDVlZERITFFFdTlpKzBLM0hsY1lRcG0ydEQ5N2NLTzRxRGFHdjRlYmh1UDIwc0hMWFhvcFJQT3EzakdQVHozK1VuRTB6K0hwYkdmZ3oxeDNsK1ZOdVppVlJTa1V1emt1QmdoVlM2ekhIV0lJSXN0U1FcL0tDIiwibWFjIjoiMWEyZDlkY2QxZDQ1MjkxOTllMzU0MzViZGJmODBmYWIwZjRhNGY5NDk2NmIwODBmYzBkNDM0MGE1N2JiNzMxYSJ9&amp;signature=0a235d2855ae289c54ee45c03563e968ef285424b9bb88cfaa08e611e44580c8</image>
+    <start>10:35PM</start>
+    <finish>11:15PM</finish>
+    <date>26 January 2026</date>
+  </channel>
+  <channel>
+    <name>Rtp 3 PT</name>
+    <id>Rtp3.pt</id>
+    <title>Not?cias Noite 2? Edi??o</title>
+    <desc>?ltimo olhar ?s not?cias que marcam o dia e a noite informativa. Com Clara Os?rio e Pedro Esteves.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IlA1QnJvYmlwVkR4bWhSSDdNQzhsYUE9PSIsInZhbHVlIjoiR1czNmlXMmNoRGxwWXBlYkZpWjUyZWlDWThFYkt2cjZDSTV1QUhRMnFpa0F5OFdMeDdJK2lyS0FPdEdBWFdXRmdsVUVSbjczdnM0b1o5OGd2MXY1N0VvTEp6dWhxREJGZkJGXC9mYmVNaFJQVHhmQUN2dzVSdW1yXC80a3ZUV0NIWHVIZGd0XC9tKzJsMld0VFBHREc3V09mdWZ3QW9UNWlSTjFxXC8xbExEaVwvWFdGVTNZT3p1ZHF3MHFcL1lFWVwveStoRVVGQXlxb1NlRkVkNkZGSm9Wa0F2dldZbzBTcDFNaEIyUWVneG1CZ2RCV0ltU1R6SWJpZWpcLzJadlNMRmdFQTlKIiwibWFjIjoiNzMzNmZmN2VlY2MwNjQxYzQzNzY2N2RjYzg1MTViMDRkMDhmN2U4MDBlMGYwNzNlZjU2MTYwN2YxZGQwNjc5MiJ9&amp;signature=1211179de26955169aed44737b0c2d07b0709812298ecc8bfd1e47fa8a8ce1dc</image>
+    <start>11:15PM</start>
+    <finish>12:00AM</finish>
+    <date>26 January 2026</date>
+  </channel>
+  <channel>
+    <name>Rtp 3 PT</name>
+    <id>Rtp3.pt</id>
+    <title>24 Horas</title>
+    <desc>Bloco noticioso com um olhar para o dia que termina, marcando claramente a atualidade do novo dia que come?a. Neste espa?o de informa??o t?m tamb?m destaque os principais eventos culturais do pa?s, com as opini?es de quem os constr?i e daqueles que estiveram na plateia.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6Ikt3MmRKdHI4S1NLRkNHYjU2RHkwRnc9PSIsInZhbHVlIjoiSW53Q3pQeUNQdFY3SktLc0JhQVhoSDF4cU56RmNkYWJVR0FRbWRpUzB6OXZcL2hIenNpV1dBcTU0Q21ZRHJaVU1RY2kyc05kMUU0M0loMWN6bzRVaHRBQytGQncwYUVVTEJTTjVBcUhablJ6djJwclM3MmdGeWNMczBqWEx2WkZpcWJJSUwrMkpGVHJGZHQ4dENnMFwvdnl3ZGdBcDhuZWxmdkdNQjVRNVZvdWNXQnQ3NEp0Nlg3eHRcLzB2eE9nR05pVkVTc1hpZ0lIS1cwVnJabm9UOGpPblVMbDIrRk5zK3ArYUNnQlVjdHU4NVVhUFF3aEpkUXg3eTRQVTVtN0hxUSIsIm1hYyI6ImUwMmEzNDllZThmN2RlNzNmNDIxMWU5MjllODRmMGM4NjFkY2E1ZWY0NDViOTQ4YmVkNzIwZGM3MmVjNWY5Y2QifQ%3D%3D&amp;signature=f3d82f43ee5383b318b95b08a6151f476f4396cafa9ecfe95b96823f1fcbb77a</image>
+    <start>12:00AM</start>
+    <finish>01:00AM</finish>
+    <date>27 January 2026</date>
+  </channel>
+  <channel>
+    <name>Rtp 3 PT</name>
+    <id>Rtp3.pt</id>
+    <title>Coment?rio Presidenciais</title>
+    <desc>Espa?o de coment?rio e an?lise sobre a campanha das Presidenciais 2026 com os comentadores Manuel Carvalho e Maria Castello Branco.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IkdsK1UzRkFyMW5mNEc1WFdWSDNOVWc9PSIsInZhbHVlIjoiVDVEdGtjSklXVGozMEtQMkFyeUJZOTJtRmpNRGF2RzN5Q1NwNENCdzZ1NDRLVkhUWUZiR3F3SEJVN0l0TWpweXA2SzdpZW5jYlJSNmdPbVVLOTZnR2NJNGVXQVZXY3pxXC9YMERTR2ZiNkRwbTFYRllvVHhIN1hUTjFpRFA5YjQ2eUcxZ3RsdnV1bmRPcmpaQWJOT2c4T2ZCUTZkWDlQK0NXb0taQlZ2NVdmeWdEejNtZTdzaFJ5TytRN0J1Z3lUUFVnc2hsSXNXenVkakVuWVZTWitKUElqbHpJaVR4bnBIN2tTRzJaTXdBblhNTUhPbDRNNDRzWERDVmQycGVDQngiLCJtYWMiOiJmMWUzZGU1ZjA1OWUxZDZiOGVmZjg3NDcyMTM3ZTdiYWM1NWRiMmQ1NzYxYTNkY2Q2ZDFhODFhNmU4N2M0ZDJkIn0%3D&amp;signature=48360690c0a26141b06f51231fae51e0af99da4844373a5ccfe22fb9b9733dec</image>
+    <start>01:00AM</start>
+    <finish>01:25AM</finish>
+    <date>27 January 2026</date>
+  </channel>
+  <channel>
+    <name>Rtp 3 PT</name>
+    <id>Rtp3.pt</id>
+    <title>Jogo Pol?tico</title>
+    <desc>Tr?s partidos, um debate di?rio. Ideias em confronto com modera??o de Ant?nio Esteves.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IklFemVxK3lpYkc5Ymg2STFzSml1d1E9PSIsInZhbHVlIjoiUG04MElGNFBpZ3JIbDJwRCsxaWNXWWVcLzk4QkdQWTFXZFZZSW5ra3krQlIyeE5kYnUzTjRxYjR3YUs5Q25HbmJKK21nWEhPNVdtbmFUVTVlWTVXOHFFXC8rNzdJMXZPNGd4VjJ3anVQc2RnQ1RPU3Nndlc1Mk1LXC9zMlh1RERtcEtuU3lNbG1NRkdHUTBFU3QrWDhOcmN4dkNIZGVQa3hVXC9rN2RUdFNSMXpOUXRuVWdlRWUrek1nTTcySVpvbFlEN0JTRnhrSXVWeHBETEw1MGd6NEFIREsrN0ZvQ1FrbmhFREp0VVMzNmwrQnJzd1NIVnFyTU02dXU5Z2h2dE12SmYiLCJtYWMiOiJjODg3YTc3NzQ2MjU4NmYzNGE0Y2NjMmJiM2Y2ZDUxYzE2OWI0OGQ1OWM3YzZmM2U0YzVlMmY3YWRjODEzNDNiIn0%3D&amp;signature=8d1d5e803a1d755100bc054d5e585e87dba40f10a27a0db24771825fe8da4122</image>
+    <start>01:25AM</start>
+    <finish>01:50AM</finish>
+    <date>27 January 2026</date>
+  </channel>
+  <channel>
+    <name>Rtp 3 PT</name>
+    <id>Rtp3.pt</id>
+    <title>Contraponto</title>
+    <desc>Duas vozes, dois pontos de vista. Contraponto traz o debate em direto ? hora nobre. Todos os dias, com Jos? Rodrigues dos Santos e Jo?o Adelino Faria.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IkRNRmhZejYyT2xpNFhsV0Y0SENpVWc9PSIsInZhbHVlIjoieVZLZHR2Zmw1ZXNQemVPeHE2WHVLcHoyYlgyTG5LR3dlcnNpSldYdFwvYTlIMDZuWExBbmhYdG8wXC9tZ2VpOXdqZVNpUFpSVERvazBHR2VmcTVrYnpiempkRHVWN1BTRnlDbG1tSFdENTBySW5WVTFsVm8rRjJBUXA0cFhTTDY3TXFWa0lvV0VvbTRBRUdYVnVwWWxHcTBiZDhIUlJsZkJneTBmd3g4MnpvTGI0ODJ2M1AxY1wvUmJpM3hYNk1IOEpsR3ZPMWg3WFBNTHc2MVUxalppc0J6b25yR2IrNmh1TXZZQkxRQmFOTE9USE5LM2krYmcwTG9tYXlNNGRzQmVYZSIsIm1hYyI6ImVlYmY2ZTU5ZmFmMWY4Y2RhYzFlNjFlODA3NGY2MjNmMzFlZjU0ZTVhMDg3ZjZmMDQ1YWY1NDU3NmRlZTZlMDcifQ%3D%3D&amp;signature=41dafd78e63c7f28735e12f4df915474db6c24e0a9ee3d6440ca42bb16661e9e</image>
+    <start>01:50AM</start>
+    <finish>02:00AM</finish>
+    <date>27 January 2026</date>
+  </channel>
+  <channel>
+    <name>Rtp 3 PT</name>
+    <id>Rtp3.pt</id>
+    <title>Divagar ? Preciso</title>
+    <desc>Oito vozes, oito olhares. Reflex?es livres e inesperadas sobre o mundo, em apenas alguns minutos. Com Pedro Andr? Esteves e Clara Os?rio.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6Imp1Q3hrSDZtdDRZU1lTamVjMTlBU1E9PSIsInZhbHVlIjoiZmRHa3VVajcrblI0eWhFbnJnTFkwc2JaeWdObk9mSHNwbTlUdDFtQXczNUMyelRieGVuYVB0aTBuVWQ2bFlVNGlOQnhKeWpWdnlodEwzXC9rNVpaZTJsbmtQRWhZRUlZTTA3NDBJTk5NM2x4SjA0NDlDTk12MjlpS0tkc0hlVG45K2JoZlo1ZUdLT1k1STNmTzBydGJpdGsya3NqYWg3NHhDRnJlU3JYK3ZWcmNNbkhEd05UdnF5cGxUWldHc1NCZ1g4VUQ5M3psa3dJUEdzMHZPV0NlUllkU1p6K29MZ1wvdVkydSt3XC95VHpmUVZZVVh6UVEzem1sZEQwM2JzWmdpcCIsIm1hYyI6ImVjNzcwOTk3YTgyYTUzNTliMjNiN2NlMWNmOTljYzJiOTUyMTQ3ODg2ODQ1YjllM2E2YjI2YjZkYjgyOTk2YmIifQ%3D%3D&amp;signature=a5d1a80131dab1f381ccf6081dcf74693ad18e9bb8f1991aec68426af3e38f59</image>
+    <start>02:00AM</start>
+    <finish>02:20AM</finish>
+    <date>27 January 2026</date>
+  </channel>
+  <channel>
+    <name>Rtp 3 PT</name>
+    <id>Rtp3.pt</id>
+    <title>Ensaio</title>
+    <desc>Com depoimento de F?lix Ribeiro, Diretor da Cinemateca Nacional, e da atriz Mil? este programa aborda a carreira nacional e internacional dos irm?os Helena e Tony DAlgy e o seu misterioso desaparecimento do mundo do cinema.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IldCYW1QRDVYSUpTbmcyVWtpRGF1OGc9PSIsInZhbHVlIjoibzRweHduaTEyZW42cUFhN0FFR2JQMmVQSlwvS2VlOE9GdSsyMDZnMHd3WWdTcjRBM1F6MnR5Qmp5UURcL0J1RDJ5a00yVDFXdjh6ZDd4MlR6UG96UFl2bWJOY2FoMjc4dGVmK3EzSkI1eFo2dlNnanRocndvV0RTSURidnZXSVwvNHA3eWxObFk4XC9YVUdGWmZ6Y1dHVjI0blJyRWhLSGl3M01DaUVBTG1TaGVGQTJPTFVMMzFEUjY1MDhkM01iUU5tZU5vM2NhTUNDRFdzYlVoRFp0WE95U2M2cFhmbGRrejV5UUVMekUwcjMraE5QdkZrTUZLNWZwdTA0ZEJtRUFrM2MiLCJtYWMiOiJkYTZkYWIxNDYzYWE5MWU0YWRjNjYxNWEzZWFkMzY5ZTQxOTgzZDI1NWE0ZDhhN2VlYmI3NTc2NmQ1YmFlYWFmIn0%3D&amp;signature=cbdad2ac935203d43a2fe7ed770b50a8c111440eaccbe3f0795c2c07a4d8275c</image>
+    <start>02:20AM</start>
+    <finish>02:35AM</finish>
+    <date>27 January 2026</date>
+  </channel>
+  <channel>
+    <name>Rtp 3 PT</name>
+    <id>Rtp3.pt</id>
+    <title>Tudo ? Economia</title>
+    <desc>Programa semanal sobre economia, finan?as, macroeconomia, mas tamb?m neg?cios, empresas, mercados e finan?as pessoais. \&quot;Tudo ? Economia\&quot; procura responder a quest?es da atualidade.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IlhSZTZlUHFFbzlEeEYzWlJNblwvZEZnPT0iLCJ2YWx1ZSI6ImZZQ0I1cWJHb09ycTlJZVwvWTdhaURMVWlKUlV2bm1SRXI3eXl3TFVlXC9tSk1ycUE2ZWpYV1ZVeVlPTzFmQXZGQzJxUUQ2clRrZFNQY3d6Q1pxa0JFeW13c0xNUFZRaHhzRlwvOXFGNzhhbEFpcDRVTCtBUTNpN0tHNG90NFVsME9YMXZPQ3NpS1pKcGwzZ3JnaFlHa1hqRVNQM2xxaTNMSDhtVWFkcTdGRnlBa3V3Q0N4M0dkWGoyTm5BM0ZJcVwvTFNXSGRheUJEbE94R0FheTNmeXQ5SlAwTkRkRk5JS1NTOGVRVEViYUpUWktlb0hpZENGWkFmbk0rZEhRak45dzhPIiwibWFjIjoiZTQ2Zjk0NjY4ZTBjOTUzOWUzNmUwMjMzOGRkMjc3Yjk2NDAxYTMzOWQxZGFiOWRiMGQzMTM4Nzk0ODk1YjEwZCJ9&amp;signature=25baa5f3813d330347b1075d9e277dc25742cbed449f7d6f52c41e30a7156a24</image>
+    <start>02:35AM</start>
+    <finish>03:20AM</finish>
+    <date>27 January 2026</date>
+  </channel>
+  <channel>
+    <name>Rtp 3 PT</name>
+    <id>Rtp3.pt</id>
+    <title>Janela Indiscreta</title>
+    <desc>O Janela Indiscreta ? o seu programa de cinema! Apresenta, em primeira m?o, estreias cinematogr?ficas e entrevistas exclusivas aos protagonistas das produ??es nacionais e internacionais, dando a conhecer curiosidades e hist?rias de bastidores.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6ImtWcG8rT2dpZm1lczJXYXExQWJjYnc9PSIsInZhbHVlIjoieHYwRjY2QllXZ0J5dG5Fa2tjNDVyXC9TcUJxWEhTQzdlNWptOEk0ZTlpeXdCMjZrRGl6WVhnTlFTT3J3VzRlZHhlYmhId1NnODZRWHZtZjFqWDJKc3hzdlJ4eWNiUXFwZHV2V3B2dVhXS1JMTmxmQW85VjNOQ1pPMk5tR0NIT2NUNTJBWmJXcXFJd3pKdUQwSG9KTkMwWHJKcVd4RXQ0Rk8xRFl5Z3hzSmxlM01SRmNRU3I3UUEyMk4wZDJQZnNQTU1YbnZGcjJxWjVQK1BQSlE0eUZ6cGN2WWRKYjk4VW1laFZMc1VZQXlyckJnYkZ6T0Q4bVJoczdUek5haGNCeHoiLCJtYWMiOiIxNWRkZTAxMjZmNmZlMjczNTFlMjRiNDcxZDU4ZjdhZWNjZjFmZDdiNjUzYWM1ZjZiM2ZmMjBjYWYwZTk1MDY2In0%3D&amp;signature=871beb1d6cf39b10e59ce6b5d9f0ad9ebf0134d1df71077b4b68464a6d72ea66</image>
+    <start>03:20AM</start>
+    <finish>04:10AM</finish>
+    <date>27 January 2026</date>
+  </channel>
+  <channel>
+    <name>Rtp 3 PT</name>
+    <id>Rtp3.pt</id>
+    <title>Not?cias Pa?s</title>
+    <desc>Not?cias de norte a sul de Portugal com hist?rias locais que fazem o pa?s. De segunda a sexta, na RTP Not?cias. Com Maur?cio Jos?.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IkZ5dVRkWEM2UU5VSXRuY1hoM0hDQmc9PSIsInZhbHVlIjoidXlKbmYyR0FBcnRrd2xrNG5yQXR1SGxqbzhFUVBzZWZcL0Iwa1RCWGxsdTVDTmQzVHF1aVEySTdZbjZLK2hObElKMXpvTFJHVDEwN1ZXU1MwdUtkRENWa1RBRE9XR0dEZklKOXA5MnpuWGpSU0Y5M2xrZXBRc2lYMDhIaWtXS1J1Q2xlTktNeVgxMjAwenpcL1hTR3ZQcDNuQzBuZ1JnemhneU5yQStSNFpZMUpsbldWMXFjNllQcFNkSEFLd0h1YVJxVkpzSTk3SVJZc1RQSHhZaFJuSUNZNFg3ampmWlFkbmRoRnRjUWh1Zmg3b00xbWZlZDdSeW11ME9ibTUxN0tpIiwibWFjIjoiZWExZjA3MGU3MTI3ZGE4YzMxZjAwMzRkYmQ0Y2FkMGY3Nzg4OTNlNmQ1MzA0Y2FjZjlkZDQzNjVjYTQwNjI1NSJ9&amp;signature=79f7a07ce66b9659abf6ad499138de976251f5f8a288939616b01a5c04bfaa82</image>
+    <start>04:10AM</start>
+    <finish>04:30AM</finish>
+    <date>27 January 2026</date>
+  </channel>
+  <channel>
+    <name>Rtp 3 PT</name>
+    <id>Rtp3.pt</id>
+    <title>Telejornal Madeira</title>
+    <desc>Espa?o informativo para os espectadores da Regi?o e da di?spora madeirense espalhada pelo mundo. O Telejornal da televis?o mais pr?xima de si est? no ar desde 1972 com uma informa??o de proximidade e a garantia de qualidade do servi?o p?blico.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6Ik5nR1BWcFY1TnNjdWRPekxVNkN0K3c9PSIsInZhbHVlIjoiNVVobXNwK0QxK1YwTFIxSVVMOHRZZFdYQVo3Y3hJK293SWlcL1JxR3ZKRVUwaVVqZzlzZXM3VExoZDFWYnZiVDNlQ0hqOUdtOHVlSit2RWJTSTVqblgzS0txXC9BOUEzWVwvR2NMZVZqRW5SQk4yTWdFTjVBaWp6d1ZxVVRNTThhd2FjTGNWMzNTUkc4Ylh6ZVhRUWIzXC9OYUdGeE9zXC95aURhT2NDamdLYzF3T0tROG1CSEZBQzNSOUhqbTlYMDZFc1MzY0JPc00yMWhsd0VyT0VFMUN6a0VkMmhmMHFkTlp5WGxsU3p3UzNMZG80THI0Ulh3MlRCSkNNOGhHZTBadkVsIiwibWFjIjoiNWFhYTk2ZTAxNmYzODgxMjhlNDRiZDBkODBhNDY3Y2QyNzk3MDI0N2I2Yzg2NGE2NzNiMDZiYmFhNDIwZjBiMSJ9&amp;signature=f6a5b3d4960de65352741d68a22fb576dca9d3de31e6c599b77f9cf8b1a990b1</image>
+    <start>04:30AM</start>
+    <finish>05:00AM</finish>
+    <date>27 January 2026</date>
+  </channel>
+  <channel>
+    <name>Rtp 3 PT</name>
+    <id>Rtp3.pt</id>
+    <title>Telejornal A?ores</title>
+    <desc>Diariamente, a RTP A?ores mostra-lhe o que de mais relevante se passou na regi?o, no pa?s e no mundo.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IlwvdWd4QkRRNWpxUUVScEJyU3gwMm9RPT0iLCJ2YWx1ZSI6ImJORTQybFFzS2J3TGlrb2xZMmxqaU1nMnYxWkNjNWRrbFNRSXBGTTJ1ek9vUDlvZlBncjE3NG5kd1BDVmMwTHN3Rks5UVFMRXIySU9QR3dGS1o4XC92bEtpR1RlVDJFNzZJZFFVWW0rbEV0VkNvOGFoYzNtOUErOVwvRjdFa05yYlo0ZzY4ZVZCTWpBblFKOVFjK2g4OWtQTXp2WHEzY0lDcGtSWnhuaHpoYk1Ud0pGRW9SQzRJcVwvaUlCcnJibmRXR1Niczg1bVwvNFFTbkRQUThhbTFcLzNkWUVrS3cwQmI0bGl2dkR4WVMwRFArak8xZnk3QndFK0psQWNxNlJlOTA0RyIsIm1hYyI6ImFjMDQ1OTE5MWNlMDYwZDM2NDA4MTc3MDZhYjdhYzVhYjE1ZGExNTcyZWI0ZTkxNzM0OTJhZGMzMjIyYjliODcifQ%3D%3D&amp;signature=4a1dfd836551f3fc01a4956b6a5391395ccb6ae70ccc8bc0631b3d6efb99eee4</image>
+    <start>05:00AM</start>
+    <finish>05:30AM</finish>
+    <date>27 January 2026</date>
+  </channel>
+  <channel>
+    <name>Rtp 3 PT</name>
+    <id>Rtp3.pt</id>
+    <title>Rep?rter ?frica - 2? Edi??o</title>
+    <desc>Notici?rio di?rio, com emiss?o em direto e transmitido de segunda a sexta, com not?cias do continente africano.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IlBXUW52R3FPOFVsS2RKUWtvZUIrN0E9PSIsInZhbHVlIjoiUEpYSDdCbFdaTDNyOGM4Tk1GUEg1eXhDSTRsTStueU1VWkFjYmdmRzczRnFKb3EzbDlTRGwzc3p4RkxPV2p1NHgxUDVGakg0UXorRDNkWlJIOWJDdkkrTWpiTUVlSzRpWHIzcTk4ZEZHbWd2QVhvY0ZHTmViaE1Lam9pc1JOMHUwdFlMTjRxZnhjZ0lhUXpXd2dtK2dwTTBnUXdzcXQ3WXFKUmM4YWlnNzZpU3ZjbGs2dGhuVjYxRFY3NUJOakpFRmxRTUFXWHhuN2xaa0xnMG9cL0FRNnp6aDQwelk1aGp2UlJkVGJlZThKOXFJSjc2NVdkZEQwTWE0bFZzWE1sK1AiLCJtYWMiOiI4ZWMxMmM4ZWU4MDBkNTZjM2RhOTU2NTM1OTM3ZjU5YzlhMjcxNDc1ODg0NDZmYzlmNGI4MTUzMWI4MmNiYWY4In0%3D&amp;signature=f7c4a05bd41539abf43f4dac4df44bbb62023153ae99e32bfb92653eb1b0148e</image>
+    <start>05:30AM</start>
+    <finish>06:00AM</finish>
+    <date>27 January 2026</date>
+  </channel>
+  <channel>
+    <name>Rtp 3 PT</name>
+    <id>Rtp3.pt</id>
+    <title>Bom Dia Portugal</title>
+    <desc>Porque ? de manh? que se come?a o dia, ent?o inicie-o na nossa companhia! Todos os dias, o ?Bom dia Portugal? dedica espa?os espec?ficos ?s not?cias da atualidade nacional e internacional, desporto, meteorologia, tr?nsito e economia.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6InRvY0pvNisrRHVLXC9PR3ZqUTJvVDV3PT0iLCJ2YWx1ZSI6IlBKUlY0RzI4blwvZElwSnFvMkRrQXFRKzFBMmkxeUxvT3ZKQWQrUmRlNVFiVk51VkpSN3drdFhreFpmQzZcL2pFdzVvYmZXc2E2YmtWS2ZEd1JTbmg4ZjZ6RlY4V0MrXC9vMVB5UDZ5Y0JGT1hcL2JkSGhnZmdIK0tBcVFsSElleGFFUFBXTFVPXC9LOXZ1dWF4ZDBhNkRmekhZY0JOb0FFUElnS3pZRjJxNTU2bW8zSGozNzkxVDduNDlTMTBhRnFpUXA5Q3FrNmFRcTkxdVZ2T2RmdldkQzc3bGhyN2lBWDNTODlybDB5bGhsMlJ1QzBoeU4zY1lcL2x0azA4alIzVjFHbU0iLCJtYWMiOiI4Njk2NmZiYTQxNjRiOTdlYzljMWY2YzhiNjI0OWY1ZDA5YmI3YTEwNzlkZDE1YzQxMDRjNGZkOTNlNzJiMWMxIn0%3D&amp;signature=8755aa72044e013cba662f51811cd225bb304f0745449ce410a0141d91440651</image>
+    <start>06:00AM</start>
+    <finish>06:30AM</finish>
+    <date>27 January 2026</date>
+  </channel>
+  <channel>
+    <name>Rtp 3 PT</name>
+    <id>Rtp3.pt</id>
+    <title>Bom Dia Portugal</title>
+    <desc>Porque ? de manh? que se come?a o dia, ent?o inicie-o na nossa companhia! Todos os dias, o ?Bom dia Portugal? dedica espa?os espec?ficos ?s not?cias da atualidade nacional e internacional, desporto, meteorologia, tr?nsito e economia.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IlV4NjkyQTJlaldxc056bzJcLzl3TEpBPT0iLCJ2YWx1ZSI6Ik04MERqeENSSDJMNGNveHFuS2J6TzhpUlprRERUWlExUkNQcllEcW56R0JSTGNBamd3NENTS29WOHJRelRYemNpKzhUZ0tGYytBSk0xOWV4VkZ2eVJOdGdwajZxeVB3emdVcWc4cHJIdStYZUdLQU9ScjhscjRBSGNMcytFekcyRjR3WTZIVnpaa3ZmZnZ3WnNpazlVZWlHQWdXQXNPMVdBZE5hZWRmZ3BwamROcURrN2ZBY2IrNUdZV2d1YnZWd2ZybFRIZ0pcLzI5bHA5Smx2c01meHZ5aWErRlhKVWdqTzVHZ1JJMDdUOTZPdGl6SjhUZlwvYVZKMU1tMzZadnZXRCIsIm1hYyI6IjE0NmM1ZWY3ZmUxZmEzOTU4ZGVlNWE3MzFiNjY2NTI4YjkzNjQyNTQyY2UwZjc3M2ZkZjQyZGYxODlhYzBlM2MifQ%3D%3D&amp;signature=214e08aa487d54fc5f864edb2140bc97535c1f319bad6d635ff0694d8401b32c</image>
+    <start>06:30AM</start>
+    <finish>08:30AM</finish>
+    <date>27 January 2026</date>
+  </channel>
+  <channel>
+    <name>Rtp 3 PT</name>
+    <id>Rtp3.pt</id>
+    <title>Mundo Autom?vel</title>
+    <desc>Mundo Autom?vel destaca os temas de grande atualidade: autom?veis alternativos, seguran?a, tecnologia, design e concepts assim como o lan?amento dos novos modelos nos mercados nacional e internacional.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6Iis1U3g3MnZOVzhuYlM4XC9CZXFIT05nPT0iLCJ2YWx1ZSI6IjdlSEFJczZ5Tlwvbmxna3ZKSzV2bWltakE4aE5cL2lMa2NPMFhNK2xVb0pcL0kwemV5MHlId040Nml1c3V5UUk0a2ZlVGRBc3BQUEF2WkZTNWdcL3RyZWpoWEowNjR2cm45b0tnbTI1WjVpS2FPRUZuQ2J3N1hjZE40cXhjMnk1c05iZVBMbWd0VENJSlBiREh2eXVQQ0JrSG1uT015R1M4VERcL0w2bVJOMEx1VnVkMno3cTZ6QUNWSituYVdqU2dra3ZkNmFRY0NJTng3Y004SEdQZUhFeVQ1bGg5bDduWVwvd0VJd2xBU3l2NFUwc2FBcVRJVzl1a053NG9YUjNrM05scGIiLCJtYWMiOiJiYmJlZWJlODM0NmQzNjc5NThiNGYwZmEwOGMxYmM4N2ZmZmU1MmIwOGQwYWUzMDM2OTAwNTI2NmYzMGEwOTU5In0%3D&amp;signature=a6da52a556d0d3e13cfe5095493ab72ee3e2a6211ae4811b23a174431b61f2f8</image>
+    <start>08:30AM</start>
+    <finish>08:35AM</finish>
+    <date>27 January 2026</date>
+  </channel>
+  <channel>
+    <name>Rtp 3 PT</name>
+    <id>Rtp3.pt</id>
+    <title>Bom Dia Portugal</title>
+    <desc>Porque ? de manh? que se come?a o dia, ent?o inicie-o na nossa companhia! Todos os dias, o ?Bom dia Portugal? dedica espa?os espec?ficos ?s not?cias da atualidade nacional e internacional, desporto, meteorologia, tr?nsito e economia.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6ImROREk0alNKQXJSWHJrdmU2b2ZWSVE9PSIsInZhbHVlIjoieUlWelhyS2g4UHNRWng5Q2NXRnc0YmhsR25rcFwvOFY0XC90MDg3ejdQOFNWXC93eXVKRm56QTJBVGc4bFplUWliZU5vRWlyQVRQdXpOQ1g5YmxLQTNjK2NcLzdnQ2pzOEE5S3IzazdISzRleFFWM0JOekFTQ2plMHo1anNyZEo5NlNKc1dQazRYZnVRcHdLTWhxSjRYbE1lSk9USHNqaVUyem82MU9pZkd1UlJzZWVSZ3ljXC9HZFdTMTFXYm05ZTVWRXFBU0F2Nkh1ZzBQT2dGaHpWNlUrUDlIZzRGd0gyWnk3bUhwRU1TMk9pS3c1a21ZNHhaRzlJU1BTaFRxMUNiSW5FIiwibWFjIjoiOTdiYWEwZjMzYmU1OGE1MTkzYzMzNzgzYTE5ODk4MDQxZTgzM2QwYzVhYjRjNWExYzM3NWY0MGJlOGViODgyNiJ9&amp;signature=f17c832c36cf913ebaac14de6a465268a70ca6b7712911927e4659b192c704c4</image>
+    <start>08:35AM</start>
+    <finish>09:25AM</finish>
+    <date>27 January 2026</date>
+  </channel>
+  <channel>
+    <name>Rtp 3 PT</name>
+    <id>Rtp3.pt</id>
+    <title>Esta L?ngua Que Nos Une</title>
+    <desc>A origem das palavras e curiosidade da l?ngua portuguesa, com o professor e linguista Marco Neves.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6InlJQ2daU3Bvc1wvQkZSSTNNaFRxd1FnPT0iLCJ2YWx1ZSI6Ik1LYURPM1psNDlnTDlQQUJzM0h2cUZjNzdBZStUVnl6OEtBSUx3amhRRjVcL09YcVVIUUI4NE9jWjBmdGhqakpxaGs2OU8rZVlGR1k1aGxiXC8zUEp4WGpVS0JqUk5SSWpLbVE4WE5LM0Vwb205d2UzZmNoYXBYZytsOENoU0M1NTBaejZmMEJyOHlBN2x6YWdSdFh5YWJWb0NPemtKbXBFdlJLSjJXOUlTeTFzYkNyNzFyNTFreWRHUERSS1wvcXBhYktJRVluazZWeUhya0gxOWtWQnFtSVpEOTVsR2FxRmdWYVdadzYxSHFjUjM5TkZyM0ZFcnNNVGE0b1E5cWFzTFQiLCJtYWMiOiIxMzZkYzM0M2FiYWM2Y2Y3YWZmNWVlNTJiMWFjNzRhODY2MzVhNWNhOTEyZTQ1NzhhNTA1YzAyMGNlM2MzNzMwIn0%3D&amp;signature=fe3c96720ee619bbe203267b513613d8e88059bad2fb3385a6d3659e0a25dc18</image>
+    <start>09:25AM</start>
+    <finish>09:30AM</finish>
+    <date>27 January 2026</date>
+  </channel>
+  <channel>
+    <name>Rtp 3 PT</name>
+    <id>Rtp3.pt</id>
+    <title>Bom Dia Portugal</title>
+    <desc>Porque ? de manh? que se come?a o dia, ent?o inicie-o na nossa companhia! Todos os dias, o ?Bom dia Portugal? dedica espa?os espec?ficos ?s not?cias da atualidade nacional e internacional, desporto, meteorologia, tr?nsito e economia.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IjllNUxBWDBTcnJ2NitZbWRoUFhlakE9PSIsInZhbHVlIjoiQVZYcDNCMGg0TUZURDhtZ1g2TGFhSko1S3RSQWhjT2lEUlRJb0xKTjFudTFcL2lnQnd3NDM1N3o5SHZoallxQ3RFTXJRMUF0WE1FUzJ4NkdUZVwvQnU3Q0ZWWGV2Z05xbXlZaSs0S0xqYUxXS2tpV3dGbnlMSWJMelFodXBoRDUyZlpYZU5PXC94SFRJUVdFaE5lNEErZXdlZTZsc0ZPR1JCZ093aEZGVVhHa1lkYVVaUTJCOW0yUkhNUzYzXC9iajdRTTdsZTJsdmxmeFo3MWRVUHRuaDNIU3Y5cnBTemtyMWhhNHl2VGxNck91b0pMVlI0VFBxTGlrT2hCVStnaUNGemkiLCJtYWMiOiI3NzFhY2E3YjFlN2UxOTkyYjY3MmU2OGQ3ZWVjYmExMjQ2ZWY5NjQ0ZjIyMmM4MzU4NWMzYTI5OTFjZWNiMjkwIn0%3D&amp;signature=d7f594b370c3b84787bf70aaf3abe0f8b0a7bb8a474fc29a1b692617bc30c120</image>
+    <start>09:30AM</start>
+    <finish>10:00AM</finish>
+    <date>27 January 2026</date>
+  </channel>
+  <channel>
+    <name>Rtp 3 PT</name>
+    <id>Rtp3.pt</id>
+    <title>Not?cias 10</title>
+    <desc>Informa??o atualizada em direto, com os temas que marcam o dia. Reportagem, entrevistas e an?lise. O pa?s e o mundo na RTP not?cias, com V?nia Pereira Correia e Jos? Ant?nio Pereira.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IkxhTVVvbVFUMkh2KzFpVXIySXVyZkE9PSIsInZhbHVlIjoiTlVHaVBDTlwvcnBxR0FPZnV1OXRJNHRmTm9vOHFRYjF5M1lHOHNxN2UyUnhwQW92dEFxRmJqNDN3bWtnUUNLQU1PaEJtTW96T0E4WGpHMWxQVXNRQU1LSEtXYm9Qc0hhM1R3c3A5d2ZWZkJyU1gxam1ZV3N4TE9VbGdaNlY2ZnBGRVJ6b3NDTjhVRXRwMnNPSVVFZWExWk4zVE9UQldBUUR2XC9nVnJUeVI5Z2xSd29hNzlRbUdFTDVuTnozZGxVVTBnZ0FyVDVkUGplNFdtWStxR1hVbU9za2FFNTQxYzg1RitUQWVcLzl5RWJEaHNMb2dFOENyTlJ4cGZ0MmNaMVQ2diIsIm1hYyI6IjhiMjQ1MTUzYjM4NjgyNjViNDA5Yjk4OWFhYTkyZTU1YzRkNjk1NDU0YTgwNzUyNDI3MjkyMTk0ZjcwYzAzODYifQ%3D%3D&amp;signature=1313d6720bbe1572a6bfa1ee89ac53b37ab9a901476df93f7414ec25e061ac37</image>
+    <start>10:00AM</start>
+    <finish>11:00AM</finish>
+    <date>27 January 2026</date>
+  </channel>
+  <channel>
+    <name>Rtp 3 PT</name>
+    <id>Rtp3.pt</id>
+    <title>Not?cias 11</title>
+    <desc>Informa??o atualizada em direto, com os temas que marcam o dia. Reportagem, entrevistas e Jornal de Economia com an?lise em direto. Com V?nia Pereira Correia e Jos? Ant?nio Pereira.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IkU0MWFTMDJ4c3B5VnNTa1NkV2toN0E9PSIsInZhbHVlIjoiZjJybytKQ0hvWEJWUlJEak9GU2NBRjVPcCtScmtNR29EOHVNc3VSZTBjVm91Vk5HQ1RBbzl5UTRjeUhFYmJHVTJ0ZlwvUU5WcWNPM0FRN0ZcL0VEU09RMEhmeklCdm9BbXorc2VwVXF0NVUyNmRJMzBXMUJPZE9wQ0RjaXdXTVwvdmE3S1U1RmdWN3BhSytwT3ZkdHc2YW5xaVJxMmpNK1orMWtSdGVqY0I5Slo5dVlBWjEwWThyMXhxZGd5ZGhld1hlS3hnaWVFZ0hjOHZqZkVKZG03em1PZGp5SDRKZGFjZFdDQVI0ZkxGZkZ2clBqVnZyZnRWaUJROU54SlkweXVsdiIsIm1hYyI6IjFlNTg5ZGVlOGQ1MTJkNzI0ZmYxNDNmNDIwYWNkNGY2MDQwYzIwMjJkMmE5YTc4Yzk0ZWE2NjAzYzNmMzdjYWEifQ%3D%3D&amp;signature=3f89f61a2df65748b6a0d051c4bf00a94e581ccc491dacda240f48d7f9f7f524</image>
+    <start>11:00AM</start>
+    <finish>12:00PM</finish>
+    <date>27 January 2026</date>
+  </channel>
+  <channel>
+    <name>Rtp 3 PT</name>
+    <id>Rtp3.pt</id>
+    <title>Not?cias 12</title>
+    <desc>A meio do dia a RTP Not?cias apresenta os principais desenvolvimentos da manh? e atualiza a informa??o desportiva no Jornal de Desporto. Com V?nia Pereira Correia e Jos? Ant?nio Pereira.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6InlmK2FlMWRpbW53Z044blZJbTV0WFE9PSIsInZhbHVlIjoiS2g3NG5EMnB4RzlnUnB6M3Ixenorem1ubjVVd09EN1FaSTkxTHJyK2M5aTRWMWlGb2pcL09XSVdIODQ2dmpQOEV1NFlsZWh6YXlHdDhkVWNWd2x4dkt3cFpvU2J3OE1VTHFGdzRtdmwxakVzcmY3Rm8yZkw0QWNBQmhGQWY1UmRyZGk4ZXNneVYzOVhxREJWdVl3M2xBSEdqN3FnXC9mVGJkOCtYMkpIVjJ4a3IxMFFNK2JkZ1NzYkFmWU04Wlh4ZmdlR2UwUDVKd1RSS3pqVWZ3TWlvVmtTUVdYbDdHMGtqaStXaGpJSWtMMG1nUTR6aGJmTHp0eWY5eEw2ZE1aMmVaIiwibWFjIjoiZGM5YTk2MDg5ODYxZjZmMzk2MDhiNjcxZTk4YjViMzJjNzVkYTczMWNiZDk5NTYwZGM0M2YzZTk2NWMzZmQwZiJ9&amp;signature=03c87db83dc999c4542ee20b8877789d4bb0f28ce9c998ac242bee91ed70522c</image>
+    <start>12:00PM</start>
+    <finish>12:45PM</finish>
+    <date>27 January 2026</date>
+  </channel>
+  <channel>
+    <name>Rtp 3 PT</name>
+    <id>Rtp3.pt</id>
+    <title>Not?cias 13</title>
+    <desc>Informa??o atualizada em direto, com os temas que marcam o dia. Reportagem, entrevistas e an?lise. O pa?s e o mundo na RTP not?cias, com Alberta Marques Fernandes e Carolina Freitas.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6ImNYT09mb2JQd1g3cVVScjlUUXBuVHc9PSIsInZhbHVlIjoiczVXcVh1dDFVb0tnZ25oaStBR1dcL0k0TFA3UEJCajhkRkdDKzRGZDQzMVR1UEwwU1dvN0NRYkVLQTJxUjJjRFRTbWtIbFR1ekU2aTQrcUwyellhS29CZ3Z4bVhIb3dIanRZcTdzMHNsSnNuK1daVWdWa0M2VERjelBRTndjQVNXZm0wQ0hXbFwvbHFZZzZVbGpIZFZhc1dKWm90dnlKNkJ6MGNxNElWeUNmaVA3ZXE5RVwvK2U0ZFpvQmN6SlI5bkJlcHRzRnY1YkpxV2dablNYekxJXC9ickhHdE9KUGJZSVJKZFYySkJXTXRrWTluQVNUdFI3enpMNXV3S0ZDYnJjTWgiLCJtYWMiOiI2NGMxYTQ4NzViN2MzNDgwNDhjZWI0YjZlNGE2YmYxZTY3MWFjMmY5ZjM1ODM4NjY0N2NmNGQwNGI0YjE1ZDE3In0%3D&amp;signature=40cf639ba897677a535f85342d3ec5733eb77ae2c4c7b2cf8eaff02ed40ae5b5</image>
+    <start>12:45PM</start>
+    <finish>01:45PM</finish>
+    <date>27 January 2026</date>
+  </channel>
+  <channel>
+    <name>Rtp 3 PT</name>
+    <id>Rtp3.pt</id>
+    <title>Not?cias ?frica</title>
+    <desc>S?ntese com atualiza??o da informa??o no continente africano, com emiss?o de 2a a 6a feira.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IkJsV3NXVDRtWHMwamJHM1VVRGxsWFE9PSIsInZhbHVlIjoiRmo4WHFNZWxyZStOblwvYVJORU5CV0JIdTJXbHV0RWN6QkJOOUtBdzdBeWNRNThkOFEyaVwvaEU1aW0zNEdjYk5WV0wydFZtY1Nad05TZGJmaGlZYTMxc3JCNXVXQ0FxOWMzaTdVNkl0TjRiZE5rQVVuOXpTcTRrZkdSYk1DTjdUQml2TW9NNHlQajJPNjA5UStxMVU2ZVwvK2d1Mk5maVpKdVpkTjF3SmVMTXZ3OEFkUVlIK3JvNmNYd1lpMlV6d0wxODZLTW9sWk5GQmhGSklLSmw1dlR0ZVl1bmtrSENDaUk0TjRPU3pNUWJPclpcLzhzSGs4eVhqRDRmeTR1WUlsWkIiLCJtYWMiOiI1M2ZlYjg2MDMxZWRmNTcyYzg0OTNhMmY1YmQ3ZmY3N2QzZjcxYTJjMTNhZmQ0YTBiZTc5YzUzOGZiMmM5ZmUyIn0%3D&amp;signature=8a44063ae98efdb5eb8852501f18968e63d466ab0d51562af83913e8a2ca6711</image>
+    <start>01:45PM</start>
+    <finish>02:00PM</finish>
+    <date>27 January 2026</date>
+  </channel>
+  <channel>
+    <name>Rtp 3 PT</name>
+    <id>Rtp3.pt</id>
+    <title>Not?cias 14</title>
+    <desc>Informa??o atualizada em direto, com os temas que marcam o dia. Reportagem, entrevistas e an?lise. O pa?s e o mundo na RTP not?cias, com Alberta Marques Fernandes e Carolina Freitas.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6InlvbG0rMHRHS2NVT3lsQ1JjQVZFdFE9PSIsInZhbHVlIjoidldza2FORWFSMzNBUXNjZnRwTkpvWXUzM2FcLzVZMk1zWmhYS0dUc2hhRW9tWksrd0MyTEcrUldqakNEa1JGdnpJTGFwRmdhN1djOVc1RWZ1SytjOUlqYVNqS29YeUsyR3p3aHRUZEhoSHBuOEdab1UycVMrMUZ0c3o2RzRPa2Q5emFRTXdtdHBWWnMxbndHNHVLU215dnRlMmt1cGlTbndURXM2SzZ6R0JaTUhReDNcLytEN0pUZzVHYWpMQ3FYNjJQeG9lQmJydkFSVUwwdnEyN2k0YjIxUnVHeVpDMk1pS2FmckNRMWQxN3ZNZE81RUZ5Zzh2NjByOFBOMUtHR3R5IiwibWFjIjoiZWY3NTk4YjFhODlmM2I2NmU3ZTdkODVlNWVmYzIwY2NkZTBjNjNhMmRhNDM2NTdkYmVjNmNjZTk4ZDU2M2VkZSJ9&amp;signature=352bb543e0d3cb9f3aaab1ebe36f13eae8b53f2f3150b11b9fa567862c08162b</image>
+    <start>02:00PM</start>
+    <finish>02:30PM</finish>
+    <date>27 January 2026</date>
+  </channel>
+  <channel>
+    <name>Rtp 3 PT</name>
+    <id>Rtp3.pt</id>
+    <title>Not?cias Pa?s</title>
+    <desc>Not?cias de norte a sul de Portugal com hist?rias locais que fazem o pa?s. De segunda a sexta, na RTP Not?cias. Com Maur?cio Jos?.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6InlpdjVQeVJZcFBjVlVmRDJENWdlYlE9PSIsInZhbHVlIjoibk9sR0lIZlcrUkVBdERzcFwvRlpRRGp4TUNUUGpGaXpvSVwvdGhOYUQyYzdnN2FzcGNkTmJDbUNHS1FNdVkxcDhFUk5rcE1aNDF1M1NzMDZZOGErdWVcL3k2SFZpbDBZVDJXZHljeWhtU1djbVVNVCtCZUM5MEt0UHQ3UHhwZTQ4a1wvejR0UmUza3ZVVThNNWJEV3Z5d0NoU2dtS29wS2lGbmQ0RDBWT3NWQUxuNGRFbytwZkFHUmVUQjNTVTdQdTgwOHhMTVY4NzdyRGY4c3Ezd245YVNHXC96RGpOMDdNeDBxVk5Ra21FdWV4WVdrMTM4QXdhbDBuZmw4ODFvOWNcL09KZCIsIm1hYyI6ImMwM2FmYzgzODE2OWFiZTc3NzVkMDk1NzBkNTU5NWNiMzdlODcxZmFjNGZhZTY1YTBkMDdjZWJlM2MzYTZjNTUifQ%3D%3D&amp;signature=377f7690ecc628075ff90a6a03642caae4592884f487c72b6d70cef696e2b117</image>
+    <start>02:30PM</start>
+    <finish>02:45PM</finish>
+    <date>27 January 2026</date>
+  </channel>
+  <channel>
+    <name>Rtp 3 PT</name>
+    <id>Rtp3.pt</id>
+    <title>Ensaio</title>
+    <desc>Com depoimento de F?lix Ribeiro, Diretor da Cinemateca Nacional, e da atriz Mil? este programa aborda a carreira nacional e internacional dos irm?os Helena e Tony DAlgy e o seu misterioso desaparecimento do mundo do cinema.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6ImxUNlNoR3Y1VW5lWkhYUm1FeE4wcnc9PSIsInZhbHVlIjoicmYzYVpBWVJJTTJsMnV3Z1wvUUhKNm1SbHBNak1DUmk0MnBxRHU0RzJzZFI1QzFCbDFlQm1hQkVjUkdDUWFwTXMwMDVzdnNvdkc1WEFRSU5vTXZ4dnQ5XC9BMWxhQVV4M0szT1lpc2FtZlwvclJEckRieGxXZjI0WVFcL3NDUkk4M1FLZEF3ZzZnbW9zMXR0WnRFclBES1pUOG5vNFwvblNGN2cweEdhOHFiZ3JkSk9cLzJXQUw3Wm52RkZUQmhOdmRHWG1sWVFKYTlKR2tMR2VYK0dRVFpzY2RZRERUZjliUkNuYzR3Q0ZWazJOREM4V3MwXC9wMmVvaHdDamtaQk9RTUYxcGIiLCJtYWMiOiI5NzhmNDdlNDNmMDMzYjAzNjBjOGFiYWNkM2I2YWVlYTQwOTkwZjJjOGRmZjI0YTk3NzEzZjVjNGRkZjc5ZjMzIn0%3D&amp;signature=322bdc0e3fdb6f189b16e65e6f46ee6e772a2c17ee0245df4e8de171753f3c46</image>
+    <start>02:45PM</start>
+    <finish>03:00PM</finish>
+    <date>27 January 2026</date>
+  </channel>
+  <channel>
+    <name>Rtp 3 PT</name>
+    <id>Rtp3.pt</id>
+    <title>Not?cias 15</title>
+    <desc>Informa??o atualizada em direto, com os temas que marcam o dia. Reportagem, entrevistas e an?lise. O pa?s e o mundo na RTP not?cias, com H?lder Silva e Cristiana Freitas.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6ImwwcG9ESG8rbGVpOEV6YnRlbWYrdHc9PSIsInZhbHVlIjoiTjR3SFwvSjJsN2VGRk53dHlNT3FXVmh0OGozbGdWQllnK1g5ZlJnTG1HXC90MGJhRFo1N25WVURscmlDbUVsSlZLSURzamhLK2gxdGVMajdidWtKblkxdEllQjhOemZnazNFVFBwUzREK2V3WE5HeDZkUmhNb1VkXC9GOFhDOVpQSzN5alVlZWJtaTVSSG4wY1RWY3JpdW5wTitVcG85UEZ5RVZvSUk5cmE2bzRRc2Npc1wvbHhHTmxGM0VzK0c1UGR5WnhCSm05bkNpS3JsN1dYXC9RdW1YbFl4Y2sxU0I0ZHhnNHE4WVhcL0FGVlBxc3NkZkhUWkVsOHVmZkNhYWJQbXd4SCIsIm1hYyI6ImE5MTUyMmY1ODE3MTRmNmJjMTcyNzFmNDEwNTc2OGMzZjU5ZTk2MDY2NmRjYTZhZjk4ZjlkMTQ5YzNkN2M5OTkifQ%3D%3D&amp;signature=49838a4410f02cb847d95bd96def73742f4ca9c6ff5213069d767108ce342fca</image>
+    <start>03:00PM</start>
+    <finish>04:00PM</finish>
+    <date>27 January 2026</date>
+  </channel>
+  <channel>
+    <name>Rtp 3 PT</name>
+    <id>Rtp3.pt</id>
+    <title>Not?cias 16</title>
+    <desc>Informa??o em direto, com os temas que marcam o dia com H?lder Silva e Cristiana Freitas. E ainda as not?cias do mundo desportivo no Jornal de Desporto.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6Im5PZUxwelBKMWN2R1pFZk52NlBBZmc9PSIsInZhbHVlIjoiak9sYys4R1RJUlJqR3VNaUVuekxTSlZnbHFSejBSSTRobTI0cnpMdXozTFBWbFl5aGZ4QUFKNUI5c3NZTm5uRDdIS3Z4MUh1MFZtSzNFeGtvNkRacGtwU3VyRkdweGJNclFYUGFhQzhVUHFrRkw1amlFT1kzNGdYVk9Pbk40a2ZoUnFjVnVGTGNqV05EcU5DWTdnTW1VaXdzaDMrNll4b3Z3TXZaZkdTY0tGY1lrdkl6blIzZituY3Z5SmR6RHFLQTdwUGpWWUVpTVVmY3pEQ3crYjdcLzJxVERFR252eFBORVNLUTN5RWZQcVJcL2t3d3ZkSEdwWEpLZUFvWklOYnBIIiwibWFjIjoiZDgyNDg0MTMzZTE1MjFlNGQ5YTE2ZDc5M2U3N2IzMjk5NjdiNTEzZjFhOTQ2Nzc0OWVjNTQxOGUwYWRlYWMyMyJ9&amp;signature=7c1fca564b579e28e7abee3b05ab43cdb94c50838c915b56d0d04b8720b94717</image>
+    <start>04:00PM</start>
+    <finish>05:00PM</finish>
+    <date>27 January 2026</date>
+  </channel>
+  <channel>
+    <name>Rtp 3 PT</name>
+    <id>Rtp3.pt</id>
+    <title>Not?cias 17</title>
+    <desc>Informa??o atualizada em direto, com os temas que marcam o dia. Reportagem, entrevistas e an?lise. O pa?s e o mundo na RTP not?cias, com Ant?nio Esteves.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6Imd1WmxVTjhEOFl6dnhZWmxHeGNybnc9PSIsInZhbHVlIjoiMWJwMXlvbVY4ZE9icFNnTUdOQm1JM2M0ZFdPcHRpUjFBbFpaWnV4d0lxbnFOQzRvU0pRUzZ5UVFzZ3JycXh0bWgwXC83RnpIKzJZak1NSk9KcnphUmJrZ25TRlJsdm9FaFwvQ1wvUWNjVGwxYWYxbHFzRmpsWGdIaEdFMXVPZnVRdGJCb2JiZ1BMQVpUakw4WHhFZTMyck5QdTdcL3ptN3E2dFBxS3dQNWhrT1lBSFJ0UFVUcHM3XC9NNm91dVpNUGJwV1oxdWFmYkNONDRcL3RJQU05dEVsRDJuZEdyOXJ2bUdPaFpjeEp6bmZwVzdFS3ZHYW1kU3hzTlp1XC9IMEJWalk5VDYiLCJtYWMiOiI3NTAyY2IzNGIzM2Q5NDNhMTEyYzZmOTdmYTdhMmE5ZmJmZGRiMjMwNWI4ZDBhYjgwNjk1ODdmNTFmMjk3NzI3In0%3D&amp;signature=8040976cb0d1af544b78584973d54f28553135a4a31236e38ee9fa6941436e69</image>
+    <start>05:00PM</start>
+    <finish>06:00PM</finish>
+    <date>27 January 2026</date>
+  </channel>
+  <channel>
+    <name>Rtp 3 PT</name>
+    <id>Rtp3.pt</id>
+    <title>Not?cias Seis da Tarde</title>
+    <desc>Na reta final da tarde, os factos que marcam o dia. Atualiza??es em direto, reportagens, an?lise e Jornal de economia com coment?rio em direto. Na RTP Not?cias com Ana Louren?o e Cristina Esteves.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6InZheDZkQitveFNwT2RDb1RpczcyNGc9PSIsInZhbHVlIjoiNlByR0ZVbHVaUktaK3A5TjFNXC9BRDlNUjhcL2lRa0Rwc1dMc1wvRHVJb2JjXC9HK0I2XC94UTdrTVMrWG1FclpuTVRSV0pOTXpkbjdBUHI3Q0FCRDZScVNSNkQxUzMzTWFoWEVXNERxTkQyd2xTbGhHVVIzblFGRWZ3SDZBa09SQ1pCb2N1bUF4VnRlQlYzS2ZLNVdDS3l4NDJHbVJETko4d2JsVURQeXdHeEJYV2RYN2V5RUhNclZpNWw2TGN3NHBBYmJUQlVcL0dLVHQ0VG9FakVXaDFtc1lUYUowS0NsdUs5Tm9yUFwvRGY4XC9BdW10aUlqM3pJNGhUM1FiaitwMWFYR2trIiwibWFjIjoiMmM2ZjhmMzA4NTczMDRjNzFkYTFhNWI4NzI1NDVlMTA1YmNmZDcwZDc3OTQ2OGU1OGQ2ZDJiY2E0YTAyNTE3OCJ9&amp;signature=85dc25e85a27c1ecae224b57f68d5776539408a7dc3aa28d9d68d202489bb797</image>
+    <start>06:00PM</start>
+    <finish>07:00PM</finish>
+    <date>27 January 2026</date>
+  </channel>
+  <channel>
+    <name>Rtp 3 PT</name>
+    <id>Rtp3.pt</id>
+    <title>Not?cias Sete da Tarde</title>
+    <desc>Atualiza??o de todas as not?cias que marcam o dia, no pa?s e no mundo. Na RTP Not?cias com Ana Louren?o e Cristina Esteves. E ainda o debate em direto, no Jogo Politico moderado por Ant?nio Esteves.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IlltbVM5SWRyRXJIVWVPcjVqOW02Ymc9PSIsInZhbHVlIjoiUGdZZlVQc1wvdGppeWFyYlZaVGNBQXRadTVEeTlPR05tTmw0UzdUdVpYaHJ2dzVnWis0TEN5YkVcL2VsN0lBMlVOeVZPaVVycFMrRzVSZnlsMThFbHRSMDVmXC96XC9kb0tYNUgzRVpJZ01aZTNmV1AzUVZlc1JublhUOUNkMzlwcUkyd1liXC9KXC9hM3dEN2VlaytHMFJBQ2dsdCtVNVhwZW16NVd6OEcyS3E0clhMWWpqZ2J2M0tGUzNzSDJuSzJna0pob2NBOXJWd1BQd2JGSkN2ZlRiSU4zM3NLXC9cLzdJcW9oenJBNFBOMXdPaHA0QmYwUzM5dzBtXC9nTGZXbXNSd1RvTiIsIm1hYyI6IjQ1ODBhZjBhMWEzZTY3NzQ1OTI0ZDViYzRkZGMyYmJlZmVmZmRjNzkzYzQzY2M0N2IxZjI3OTBiNjY3MDYwYjQifQ%3D%3D&amp;signature=80fd1166b416b32acd009f7217262cea161eb4af9aff81603f7330eb483d8db5</image>
+    <start>07:00PM</start>
+    <finish>07:30PM</finish>
+    <date>27 January 2026</date>
+  </channel>
+  <channel>
+    <name>Rtp 3 PT</name>
+    <id>Rtp3.pt</id>
+    <title>Jogo Pol?tico</title>
+    <desc>Tr?s partidos, um debate di?rio. Ideias em confronto com modera??o de Ant?nio Esteves.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6Ikc5TGV4OFRUdW1leGgxTDRqNEZVZ3c9PSIsInZhbHVlIjoiK1Y0YlhhalNTOUlJZDdDV1lwV3paODVxaHB5YVpUUkxGK0ZXZnlqbzRCaGxERlBkMVN3VVpqTjdrdXZMa25HWklKb0NTTTlrSVJmZ1hrQ25USm1leDlNT3NJem52dEo5QnBkMGpLYkFZWmNsQ3lCZTdSNytYaWV0MXZHMkpnam1TOUVhOVBaV0hEWHNiMDF5SlVoMjVBRVJOanEwcks0TFJwNHpzM0RcL1A3SDNHa2QxSFU0OWtcL1BzV1hUUXBOdG53NlBYdU4xQmVTb1R0V3ExWkdneXNlZUdvQUtBRVZqMXZtemxIVTRERWt2NFM1MnJTV3RTM3lWK2pjdDZMR3U4IiwibWFjIjoiZTM5ODZlY2ZjZDAzZWVkYTk3NDA3YWYwZDk3NGViNWVlZDQwMjA4MmUyY2Q4MTJiYmM2NmQ2OWNjMWFkODNjNSJ9&amp;signature=d1b252256306ae2d65afcce259ca74c6081cf24ddfcfb6634dbc2db90af08dc9</image>
+    <start>07:30PM</start>
+    <finish>07:58PM</finish>
+    <date>27 January 2026</date>
+  </channel>
+  <channel>
+    <name>Rtp 3 PT</name>
+    <id>Rtp3.pt</id>
+    <title>Telejornal</title>
+    <desc>A mais rigorosa sele??o de not?cias, todos os dias ?s 20h00. De segunda a domingo, Jo?o Adelino Faria, Jos? Rodrigues dos Santos e Ana Louren?o mostram-lhe o que de mais relevante se passou o pa?s e no mundo. Se ? importante est? no Telejornal.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IkhVb3IwYmtqV2hYYmR5SWFxV1VYZkE9PSIsInZhbHVlIjoiS3BKS3ZqaXd1Z250RWNKS0VmUnJZanNaMDlOdjBOdkoyYmJ1Q3NhV3R2UzNJdHJJTEVGNFZvTWZ3RkQrZTFqNU11dTNIRnRURWJjclV6Y25MNTlEZldJdWJuNTVYRjlPU1wvbDhYNlczN0xoMmN2V0pBb3JCcDU2enRYZmFNWkpMXC8xbHVrTEo0VFJnZkNoTWJuWnR0M2wyczV1T3Z0RmhsME9tN2tXQ1c1ZkIyNWVlMlZCSzhOMWRoMnlNNU44ZzZ6Q2Q4VjFobmluVnVKUStxc3NneWNhaU9XbWZkWWM0S1hvZ0JFRUZlVzV0SUpFOXM1XC85YWF5Sms2ZEtoMlI1WiIsIm1hYyI6IjA3YTJlMzRjOTkwYmYyMDMxNTU5Yzk0MWY3MDdlYjYzMTAwNDg4ZjQ3NDlmMjVhZjZmZTJmNDFjZDg2MGI3MjUifQ%3D%3D&amp;signature=1b6c4cfa32fcaf43c7d37814c897f7df0cc21411723455ec3b5dcfba5707e7bb</image>
+    <start>07:58PM</start>
+    <finish>08:30PM</finish>
+    <date>27 January 2026</date>
+  </channel>
+  <channel>
+    <name>Rtp 3 PT</name>
+    <id>Rtp3.pt</id>
+    <title>Presidenciais 2026 - Debate: Ant?nio Jos? Seguro x Andr? Ventura</title>
+    <desc>Ant?nio Jos? Seguro e Andr? Ventura v?o estar frente a frente no ?nico debate da segunda volta das Presidenciais.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6ImJUODFSMTc1TFRRcGlxbEpiTXlNMUE9PSIsInZhbHVlIjoiMXdnVzZ2ZFwvNFdiM0FYSTcxaXNBcjlnYXBJbkNIUGJtNTNkYU1UN0ozRjRSbmxUWjZcL0JrU3YwSE1cL2xRSTZXVUtDVHpnOXB3akVISGt6eWo3cjF6NFB1djNlSVM5aDhDSFF1bzB5c1Y5eWwrWHl6aUtIZ3Z2bTFocXNHYytcL1hMbWxxekIzQjdQOUNsbkFKeGFRb1lQVDF1dVRWd3l0NXp0U3FVUEcrcmZQaU16bnBSbGhaVTBTMmRDNEpVQnQ1TThBOWF6cUNSOUlqbEF5WU8zTXRwS2JMeU1Ia1JxTENTUWcxR2o5ME9cL0dmc1wveHl2M2w1TDVpZ0p4b0VUZThicyIsIm1hYyI6IjAxOWI4NzFlNTZjNjJiM2ViYjY2ODM5ZTllOTk3NDg5NTEzM2NkZWZiNzI3NGVjMDdmMWZiMGRhMzM3M2MxMjEifQ%3D%3D&amp;signature=b9604655cfdd931564bd19fc721193bce1e178454b4d24e29aa42d2730a09bd6</image>
+    <start>08:30PM</start>
+    <finish>09:45PM</finish>
+    <date>27 January 2026</date>
+  </channel>
+  <channel>
+    <name>Rtp 3 PT</name>
+    <id>Rtp3.pt</id>
+    <title>Not?cias 21</title>
+    <desc>A atualidade nacional e internacional em destaque na noite da RTP Not?cias, com Jos? Rodrigues dos Santos e Jo?o Adelino Faria. O rigor e a an?lise com os protagonistas que fazem not?cia.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IjZubGdydmN5SWlVV3k5c1ZVSlUwQ2c9PSIsInZhbHVlIjoiMlF0MTFYV3JUM200bEt3M1VmQjM4djdIQUQxYjRUKzRucUJnOFltMTJaMDl0T09BTHJJY0RcL2xCSEdzZmZqVU50d0h1TFJiSkd5ZUxZQzJtR1pQczQwZnFnR2JhMGdGbmRKY05MSVZGK2JOQXpyYUJBeWhQYVJTQVV4U0RcL0Q5MlNvcFAzK05oZlwvVDZRTkVZenpcL1pSczBWaCtZOWdiQ0RzV1lhbEJybDVxUmtybTc2YVU3dVM4XC9ZaHNCSGNMMnB1azl5SnY5aXB2dTg3RkdXM25BUU9jbGRNd1wvUWpMN1NqeVhpeVdNa2xEaFJsb25pbFk2WDJJdXBydW1yUGRXViIsIm1hYyI6ImIyMWZhZTk0ZDExNjg3NjA5NWUwZjU3ZjllNjM2OGZlMzJiMTViMThjOTM2OTA3MDQyODc0ZjAwMTEzZDY4MDgifQ%3D%3D&amp;signature=d5ddc844c68a261d48094b3edbfc4b308057fc0faa893940c29d64adf798bfe9</image>
+    <start>09:45PM</start>
+    <finish>10:30PM</finish>
+    <date>27 January 2026</date>
+  </channel>
+  <channel>
+    <name>Rtp 3 PT</name>
+    <id>Rtp3.pt</id>
+    <title>Not?cias Noite 1? Edi??o</title>
+    <desc>?ltimo olhar ?s not?cias que marcam o dia e a noite informativa. Com Clara Os?rio e Pedro Esteves.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6Ijh6UG53UThZQ0x4VHRZSGhIM2d1anc9PSIsInZhbHVlIjoiZ0Y0R3pna0hMVWExdFNIRlVHRkRVRjlRVEpmZlZoQ0NtREhYVVhuUm1tT3R0Y3I2eHhLcHFDakJwNU1kU0U5MlU0TThiTGZpejVURnRuayt6bk95eXE2K1N1TDY1TUFmaFp3OUpMR0MzZjJpTHFMS0NxVW9LalkwRGFEeFZWY0xOMEp3c1dWY2ZzZlhiNllUXC82akpkdnpuYjZJXC9TQ29JRzNSa01wMFNXZms5MkNNbXZKTFNzWVZRSWROSm9EUDJMZ2RXMVJWMTZKaHUyOTVYMGRMNExaUUtETnl0U01SXC8zWjhsWW53M0psTmkyYlIra2dWNWFGVUZRcVQ2SkZDViIsIm1hYyI6ImZkNWJjYmU1ZDNjNGRkNWNlYWE4MmY4MjhjMDdiYTVjZmMxM2U1NmFiZWY0ODUxNjU1OWNkMzc5YWY1NTQ3MWIifQ%3D%3D&amp;signature=a9fac3c6c1f7ac0f51f6c66636983455fa97bcc436ac9e139c23be21a0205b86</image>
+    <start>10:30PM</start>
+    <finish>11:00PM</finish>
+    <date>27 January 2026</date>
+  </channel>
+  <channel>
+    <name>Rtp 3 PT</name>
+    <id>Rtp3.pt</id>
+    <title>Choque Ideol?gico</title>
+    <desc>Debate semanal moderado por Carlos Daniel com Hugo Carneiro, Ant?nio Mendon?a Mendes, Pedro Pinto e Isabel Mendes Lopes.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6InMwbmU1OHh2dmk2RzlPUVh5ek5KXC9nPT0iLCJ2YWx1ZSI6ImxRTDZYUklyS0puOEYrMkNGbEN1NEJ1eVdzdjFuYkRsTjBoSUdCNG1SMjhoR3ZlVCtjaHAwekhxRDc2TkdHRjVuYWk0a0g0RkVOSURGVWdBNkNrU0hPdVhBUzh4a2FzNjRleFQ1T1wvMzZjRXdHclNnYzFGOHNXS3diY05QS0x4eWZOXC9yV2dDeHpwdDVIbnlpcmEwM0RFSWd0MmdIdjhZZ1RpNVdEc0VrbHpxeTNKXC9MYlRaYmtRSmpOaGs3MmFNc2ZkNEZxTnB3aUU4Uzd0ZFJhNTJXR1E3RnZwMUp0NmhcL2JcL3lNaUZLU1ZOR3VWOEZrc2RUeXROdWpXa1VXR0VXMyIsIm1hYyI6IjE3YmY1ZWM0NTQ0MTlmYTZmMTkzNzliZjFhNjgzNzA5ZWY5Zjg2N2Q5YTI0YjQyNWY2ZGE2OTg2Nzc3ZDBmOWEifQ%3D%3D&amp;signature=8b853669a09d2070f71f83a081994376f28cee6c0681815cda533e25cd597a26</image>
+    <start>11:00PM</start>
+    <finish>12:00AM</finish>
+    <date>27 January 2026</date>
+  </channel>
+  <channel>
+    <name>Rtp 3 PT</name>
+    <id>Rtp3.pt</id>
+    <title>24 Horas</title>
+    <desc>Bloco noticioso com um olhar para o dia que termina, marcando claramente a atualidade do novo dia que come?a. Neste espa?o de informa??o t?m tamb?m destaque os principais eventos culturais do pa?s, com as opini?es de quem os constr?i e daqueles que estiveram na plateia.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IjFpZEZjUlVJb2k3TTFYaTRVaG4waXc9PSIsInZhbHVlIjoiOU42MjdMN1NEdUNPXC90T3RLM0ZnTGZ0VHMrMzl4WmV1OUR2VEc2K0VBWUdqd3pvcHVOUzgrb2kwZ2oyeVJSNWNIcmZsYlVSMlR0ZkNtSDVaOStLQ1wvT3l4V2RJRTJpVlI0MEhxYysrRGxSNVh4NmFLZGIrS3RvbGp5SENWWnprNmd0RGNoMklwOXIwT1B5dm5lYk55M3FDQ3ZqQW52c2hvM3hrd2kyS2RPOVNzWVlCOXplNkZialAzTXhNU05SREJYWENYNnp5WmRNVlBHRE9FekljRGlTM0g4VzEwRU1MZ2R1YUtVakhQcW1TUkk3UjRuR3RPQzlDbGZ1VlwvMEJNQSIsIm1hYyI6IjZhMGIyNDJlYjlkYjhlZjQxMmQxODc5MGMzOGM5MzBkOTFkMDBiODBkZWFmMGE1MzkzNzg0ZWQ4ZWE2ZmFiZmEifQ%3D%3D&amp;signature=92a78682515f2319bb05ae7bc00999826fe1dc633fc6a33bda0926ce1ca4d487</image>
+    <start>12:00AM</start>
+    <finish>01:00AM</finish>
+    <date>28 January 2026</date>
+  </channel>
+  <channel>
+    <name>Rtp 3 PT</name>
+    <id>Rtp3.pt</id>
+    <title>Presidenciais 2026 - Debate: Ant?nio Jos? Seguro x Andr? Ventura</title>
+    <desc>Ant?nio Jos? Seguro e Andr? Ventura v?o estar frente a frente no ?nico debate da segunda volta das Presidenciais.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IkNLd2Q5SktMWmhwK3BjWjVhSWt4MGc9PSIsInZhbHVlIjoicm1cLzJuUDRqVEk3ZDV0bWhpb0ozNW5QR1lRRTh3c3hDczZJa1RabUlCNXVIc2RnSXA5SHhqTXVtMlhzWndVMEZyUmJGM1AzUGR2dlVlczFIU1wvZFRuditEeTZheFhwQW9qbGdGZytVV2RUZEp0TEV4V0FqQk8zZFBXVjl0Y1NhR2JkbCt1eHM5K0prdzBkZytIZnJUcEtwclNBQmZBdXJDUGMrRzYzQkpjZWF6ZW13U1ZNdWdFM0RCZmRzXC8wbVNCYmRoSlwvcnpNXC9BaXl3N1hKRHRLa0Zoc1liMjVETm8wSjNSM3VWZ1ZnMFhEU1hwY0ZRWkIwT01KT3RtV2xHNVR4IiwibWFjIjoiOWI1YjI2OTlkMThhNTkxMDRjNmZiODQ0MmQwMmYwYTJmYzlhMzNkNGU4ZThhM2NkNWQxYzVlNmM1ZTYyMGIzZCJ9&amp;signature=2d83d065b08a4a2047bfbd899767bdf224d751a62cb89374b504c4e0fdaf8027</image>
+    <start>01:00AM</start>
+    <finish>02:15AM</finish>
+    <date>28 January 2026</date>
+  </channel>
+  <channel>
+    <name>Rtp 3 PT</name>
+    <id>Rtp3.pt</id>
+    <title>Coment?rio Presidenciais</title>
+    <desc>Espa?o de coment?rio e an?lise sobre a campanha das Presidenciais 2026 com os comentadores Manuel Carvalho e Maria Castello Branco.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6ImI2bzRMZ3pXMXlReERHaSt2N3FXdHc9PSIsInZhbHVlIjoianh5TTZRVnBLTWNueXFhYm11NGlIS1ByZGJkR1BhY3ZwUHBxMlRCMnFsckZvamkwNUk1Q3FXUEVxN0VzZHNlUG9jYUk4WDVRT3hocXdLZjlDdlNId3lTQVZsc2hRaTN3XC9rWldYZTlWRnZDNk1aSWR0S1wvdzMwSlMrUFdERUt4R2x5WGRFcUdLNkNTTjBZTXQ1Q1FnU3ArS0FWWjNlZ0R2UUhET242WjRxa2JcL3Flc3BhNVpUa2F0Z2N0NVRYYmc0bnc4SVRibHM3RFdkUmVJSHJUVUV3ZjNESG05N3ZIajN1aEwwQStIOVJ3cngreDYxV28ydXlrZzV5THBoYWJKaCIsIm1hYyI6IjVmZmE1MmY3MGRiZjI1N2E0ZTg3ZTQ5Zjc0YmRmNGVhZGQ2NmMwMTBmZGU3MmU4Yjc3MTk1ZTIzZjNiNzMxMGEifQ%3D%3D&amp;signature=c90f5a63b61f2166d7a73f19c440fecf7176c21d5d363df28b0e3579a5af47ad</image>
+    <start>02:15AM</start>
+    <finish>03:00AM</finish>
+    <date>28 January 2026</date>
+  </channel>
+  <channel>
+    <name>Rtp 3 PT</name>
+    <id>Rtp3.pt</id>
+    <title>Choque Ideol?gico</title>
+    <desc>Debate semanal moderado por Carlos Daniel com Hugo Carneiro, Ant?nio Mendon?a Mendes, Pedro Pinto e Isabel Mendes Lopes.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IlQ0UytlSjFmS0ExcDJvVG5xQ1FjMkE9PSIsInZhbHVlIjoicnhCTndpQkljM3VXOER4dldVTlwvOXM0Q3pZZTR1QVVSZXBPVlBlMnZhaHhOSWhpTEhpcVwvcDVjdmx0UG5ha2FyeG83RnJZWVRGRk1zem1VVzlnak5GNmlGUHg2NCtLcUpOUmpncHZ5a2JkT2k1NU84K0kzZW54OHZNSVJoUUdLcFVxbGlYMXMxSHJLMFl2NnZld0VzSVBOZ2JrWXBQVExsOG1LMEdKdENjXC9cLzZMY1NcL2tmZFhjYWtQU2xoWGNEOENKc0ZYRUh5Mm1CT2ZPT1wvZGhWSXV5NHg4YkVQMWZrdTFRVjZOR2NKMWd2aG12N3M3WjlwSWtJd2hHa2xVbEpDdyIsIm1hYyI6IjcwY2FkZmI4OTJjNzhjOGRkNzljYTc5MWYxMzNiZTJmZDIwYzljNjdiZWFjNjY5YTVjODI2MGU5OWZmY2M3OTcifQ%3D%3D&amp;signature=a622610b1d0679e33921f63f960915cc949cc04c8bdf29f22d2465feb687b3d9</image>
+    <start>03:00AM</start>
+    <finish>03:45AM</finish>
+    <date>28 January 2026</date>
+  </channel>
+  <channel>
+    <name>Rtp 3 PT</name>
+    <id>Rtp3.pt</id>
+    <title>Hora de Agir</title>
+    <desc>Hora de Agir ? um programa do F?rum da Energia e Clima que tem como objetivo unir a voz da ci?ncia, politica, empresas e sociedade civil dos diferentes pa?ses de l?ngua portuguesa em torno das solu??es para vencer a Crise Clim?tica.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6InZOaVNaVkxtYjhoS0E4SGI4WlBWM2c9PSIsInZhbHVlIjoiT1p2WnF6UzMwbHRqc2licDN2R2Z6MTI1WUJ5ZGZuYU9NNGJaUmVWb3ErTmpiMG9ZTHFRelF6Mjl5XC9tSG1hakNGdFpPb0pFQ3F0Y3ZCRFwvU0plT3Ewc3FucU1cL0dTb0o3VmJ1dzBsQmdyNFZxS0xaTStiUk5KSzBtdExQeGVsZ2NlY1p1MWNrT1VDemgxcHgxUjd5QnFzb2ZJWEN1bjE5TzlSeDhtQ3R2c0drQis1eERmTkZGbDNTTlZMWjM0UUFFUE9NZGR0OE5YckcxUjAwd3FFVGNOQ0M5K2hGNndYaktSNng4Z0VWeitKMUlrYVRoaUtzdDFGRGVlekRudUlPWCIsIm1hYyI6IjcxZWM4MjE3ZmIxMGZmYzE4ZDJiMGRkYTg4OTdhMjMxOWQ3ZGNkYWViZmQ5MDMwZTQzNGNjYWI2YTViOWYyYTEifQ%3D%3D&amp;signature=9cd6a93628ba6f9c6adee7fa53e6dbab36b8718412c42ad0f7345cfdf01aafca</image>
+    <start>03:45AM</start>
+    <finish>04:10AM</finish>
+    <date>28 January 2026</date>
+  </channel>
+  <channel>
+    <name>Rtp 3 PT</name>
+    <id>Rtp3.pt</id>
+    <title>Not?cias Pa?s</title>
+    <desc>Not?cias de norte a sul de Portugal com hist?rias locais que fazem o pa?s. De segunda a sexta, na RTP Not?cias. Com Maur?cio Jos?.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6ImpDMjIzMUNTSndGM1pnM2E4XC9hRU5BPT0iLCJ2YWx1ZSI6Ik5HMVdlYld6aHdvdUFPTjBxZ2k1K3Y5Snl6SzZPeDJtV1NjK2pJTUorU3R4SzV2aHN0Qkt6ZkI3NnBudFFzSlllN09zVWgreWRkdmt3OHZPSEN6cTY2VThGM1ZjTThuSkFQRFQyNTl6ZVJlYVpTXC95aVVyVTJpNEhqZHp2UkZ2b2pXQit4UFNmamRXUnJBXC8xaEV4d1M0SzZ4U01DbUQzdWVSZkVNaVlFNDRqemQ3WHI4R3FCWGs3NWZTc2ROK3hLSFRUOXEzbWZYZHp4eWhBY1lNVVZhajQ5K2lBZWNSQkNmbXlJUHlhZ3ZQbmlvQkV2RnBPeFNoZWMycHdEVlZJXC8iLCJtYWMiOiJhYWVmNTM3MTE1OWY4NWFhZTQ2OWJiODQ2YjBiOTE3NDI2MmYxNDdmYTc2MTQzOGE1ZTk0MzAxZTMyMTBiOGRkIn0%3D&amp;signature=6284d1abe01d74e84e503ca8fb0eb8d380395a685d4bbd704dadf8226d3cfc20</image>
+    <start>04:10AM</start>
+    <finish>04:30AM</finish>
+    <date>28 January 2026</date>
+  </channel>
+  <channel>
+    <name>Rtp 3 PT</name>
+    <id>Rtp3.pt</id>
+    <title>Telejornal Madeira</title>
+    <desc>Espa?o informativo para os espectadores da Regi?o e da di?spora madeirense espalhada pelo mundo. O Telejornal da televis?o mais pr?xima de si est? no ar desde 1972 com uma informa??o de proximidade e a garantia de qualidade do servi?o p?blico.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6Ik55eU5RcUFCSGdPbzJKbXhFUnJRTFE9PSIsInZhbHVlIjoiVk9GbGVqbU9lS2ErcWpUM0FSc21aVGZwVWhhc0w1VTY5dGZwTmF4YjZqblNKYUo1NUNEWWV0RGFOTmZBSVRGOTZRT3krd09JY2NpTDRBNDVwZzd6UG9cL0ZSZ3RVZjVzQzA4bG4yM1FKSWZncVhVMlZFNnRYcjVxMFRcL0NTbVBQeHRpVWNQQmpUMTI3WHUxS21HbklmWVlNeU43Q0F5aXVUaThmOWMzdFwvUU40WjJnQm9UeGxXNTRIUTgyUmNkek5YbHJtalVWT1dFQU9rVCswUVF4NUNNdDY5MnpBOGlnWUpoZmlRV3lyZUFRMW5FZk54WGxiM284Mmlzc2lGREwxbiIsIm1hYyI6IjZhNDRiNmQ1YzU1MzIwZGU5YTFiYjhlYTcwY2ZkMjgwYzA3OGY0ZjMxOTg3OTdiOTQ5ZWY4NjY4ZjJkMmYwYmMifQ%3D%3D&amp;signature=2989b0c259ec1363795d5f2824452ebfc6426a9d8b57528a0bbf14eda84734e5</image>
+    <start>04:30AM</start>
+    <finish>05:00AM</finish>
+    <date>28 January 2026</date>
+  </channel>
+  <channel>
+    <name>Rtp 3 PT</name>
+    <id>Rtp3.pt</id>
+    <title>Telejornal A?ores</title>
+    <desc>Diariamente, a RTP A?ores mostra-lhe o que de mais relevante se passou na regi?o, no pa?s e no mundo.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IkJsTDl6Tk1tSER5cTUyTE11SU81aFE9PSIsInZhbHVlIjoiVU1nTzNuaTVENk5JbnhcL1l3TEpOOEdXcjBnRnlqNU1OeVhDU0Z5dm83QUdjbzVTb1wvWnRGbDNyS1ViTzhva1NnZ0lWUldjS0s0VTE0UlJlTE8rXC9DZE1ZMUZCc00xQ1hhdWxhQWg1R1BiMXU5SFVidkQrVDVZYVhXazhWUGVMZnJGNm9maW10NXZHVURzUzRlTThndHZEMjc4NDAwbDF1d2JEenE0SEdRY3E4eFpSdVdJSmlEKzVveW9iRDZsS0lVZGVEZlh3UHpFS1pWXC82NitxWXN2NkJnckhEeTd2ZE1zaDdyNnRWSUpFTXV2QkwrNmpsamRcL0E0cytBV3BBcVphIiwibWFjIjoiMTBiYTEzNDU2MjliOTYxZGNhMDRhNjU4M2ZkMzY3ZmE0N2M0NjZiZTlhOWNjNzAyYzYyYzAyMTc4NDFhYjQ0YSJ9&amp;signature=3b00afbcddd0e1d9c7cba874c245b8939d0207680c0eb6c3df64e38d66c5e606</image>
+    <start>05:00AM</start>
+    <finish>05:30AM</finish>
+    <date>28 January 2026</date>
+  </channel>
+  <channel>
+    <name>Rtp 3 PT</name>
+    <id>Rtp3.pt</id>
+    <title>Rep?rter ?frica - 2? Edi??o</title>
+    <desc>Notici?rio di?rio, com emiss?o em direto e transmitido de segunda a sexta, com not?cias do continente africano.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6Ikw4Y1l1eUIycFA2R204RTVFV1NKNHc9PSIsInZhbHVlIjoielg5M21xb0U1SDNSS05VTW9Xa011VU5ZM2xqS0h1OUpoUER3Z0JNeU9IaUdZUytSZnRHbDB3SHBaXC80NnNXTnVUaXdmdFdrdTVMK3BiN0tQTUFHdWVxZmwydlwvMkM1dEhEU24zdFVTK2xFbWVOSmQzMlEwVWNhK3lMVmlzUWlhcXhZNHNveGZqeXRNUDBreXZITjJza2syNEl6cXc4NG1qcXB5Q1JTRHlLXC9hK2tYUjJDc2Z5ZHk5NE94aE56aUhKTzB2Z2I2TWtXbndoVklIU1UrUWpYd3FHXC9aMXN0N3JhQ0Z2ejNWNEdvQTVqTm9iSjhNTW5JRDFOZDZLZTFmK2UiLCJtYWMiOiI1YTY2MmM5NGZkYTgxZmRlMDZlNGUxOTY0MjYzMTdjMGI3MGUzMzJiYTdjNGIzZDNkMWRjZTdhMTAzMDkxN2IyIn0%3D&amp;signature=6f201c404ea55db5968b6f57fee9cec0d48f05ede35ebc6d5f53112edf49b8cb</image>
+    <start>05:30AM</start>
+    <finish>06:00AM</finish>
+    <date>28 January 2026</date>
+  </channel>
+  <channel>
+    <name>Rtp 3 PT</name>
+    <id>Rtp3.pt</id>
+    <title>Bom Dia Portugal</title>
+    <desc>Porque ? de manh? que se come?a o dia, ent?o inicie-o na nossa companhia! Todos os dias, o ?Bom dia Portugal? dedica espa?os espec?ficos ?s not?cias da atualidade nacional e internacional, desporto, meteorologia, tr?nsito e economia.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6ImtWTlJnWnRHWmpXK0k5K1BjR1BNUHc9PSIsInZhbHVlIjoiam1lcnM0ekh4N0hcL2tYTkhiY3pKbVRCUkNuZ0hxQkd3cllUd21jdUNoQVREM09SaXdEXC9kRmJOSmpYQVlPRFk4b2VVUTNjSExHQnFSdWxPaHpYb3ZcL0ZwSlFkZTJsdjBvV0R2VXZXemhUMUJ6Z0VvR0NrOVlaeUlSRFwvU29RRzBad0Y1UkNkSkdrYmZuT2Jaa09UazR5VWx4QlhYbnV4bnplRzNIZTlvZnAwWUkyTCtLb0xnYmpPd2RzU205YmNIRmxGdFErdXhVSWoyMVBNN1NTNkcwZzNDTW01STdWV0pTaFJBTVIzaDFjZzNFWWFINlNWa1gyb1Q5ZlFUcWJBWCsiLCJtYWMiOiI3MWViNTUwYmJkZWJjYTUyNmJlY2I5M2MxYmIzOTgwY2RjYjBhOGYxMzczOWEyM2Q3ZjVlMTUxNDNjNDkwZjgxIn0%3D&amp;signature=d4671b0bc326099a19805be77d9c01be108256ce3fb31bbf80f5b667b315bf17</image>
+    <start>06:00AM</start>
+    <finish>06:30AM</finish>
+    <date>28 January 2026</date>
+  </channel>
+  <channel>
+    <name>Rtp 3 PT</name>
+    <id>Rtp3.pt</id>
+    <title>Bom Dia Portugal</title>
+    <desc>Porque ? de manh? que se come?a o dia, ent?o inicie-o na nossa companhia! Todos os dias, o ?Bom dia Portugal? dedica espa?os espec?ficos ?s not?cias da atualidade nacional e internacional, desporto, meteorologia, tr?nsito e economia.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IkNiZThKbWxMRjd5MWR4RldZSzVkSkE9PSIsInZhbHVlIjoibWVFaERvRWZGdnhMbms5Yjd3d1pPVnBhSU91SGc3T2xuOGt5c2hYelhtTzRqQUY4ZGZma1ZiVG9ua2dnb0RNU0dobTNadWEyNGJ4d1Q3SlVEQlwvdHhGZE9YMFdCeGoraklqQjQ2U0tkWFVCZXhCRjZiSGtXc1wvUE44RzdZOCs2ZkwwTlNDQ3NzZTVKbk9LTFk1SzUycEtOOG5BTjBtUjBXWXhCTjZ3N3Y1TWxxaXpDZUlCRHNYUjJ6TSt1K1Bldjk5VkNucGpRaExwdWpYU0hTQUp2MGRZVDNiK3puRGk5c1V5RVNpVmF4VGZWT0o0bWZJbDhjMXNNbGxJdEx3TEFSIiwibWFjIjoiMjY4ZWJmZDgxZWUzOGFkNDM2ZDAyNzAyZTA3YzIwNmRhODRiOGQ1NDA0NmJiZWEzNzQ1ZmZlYTE2YWU5ZjQ4YiJ9&amp;signature=b174dac634fea1e94f75c1fba060c8b7788e4b1a9a1ecea2b6fc2a2e87b9f3c2</image>
+    <start>06:30AM</start>
+    <finish>08:30AM</finish>
+    <date>28 January 2026</date>
+  </channel>
+  <channel>
+    <name>Rtp 3 PT</name>
+    <id>Rtp3.pt</id>
+    <title>Mundo Autom?vel</title>
+    <desc>Mundo Autom?vel destaca os temas de grande atualidade: autom?veis alternativos, seguran?a, tecnologia, design e concepts assim como o lan?amento dos novos modelos nos mercados nacional e internacional.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IlJIdlYwWDh3S1FRRWd3OTNBVHBzQlE9PSIsInZhbHVlIjoiM3ptcFVvZFV0eVhrd2lGN0FkVXdNMExJb3lHOWVcL29EZUtHS1BNVFwvTUZzWTM0emI2ZG5iUE1jQ1dINXJZKzBmOXlSVWNoWVY4MVNlUHV1dkNzRVpDXC9YXC9MNDluXC8wb05XbVVTdkd1Z1FhellvK2txUFdldGNKbmdlcnh0Wm0xZllMVlVodW1Nc2tmMlU4K0J0cE0rODJmWFdwUHpwUmlQNTFUYVZxdFlFVVwvUVltOTgwV3lcL2w5SXlaTGhqNmMyQmVqR1lWTjVMeTQ5ZDRFY1NuNHdvSW1TWndqNk5DU2NNc2pyRVFGRENFTkc1VnY3UTkwQytSdnREUjdcL2F1ejdnIiwibWFjIjoiNTljZWJmN2NlM2E1NWNhNjBkZDQxMDkzNGJjOWFjZjk4MzFlNGVkYjY3NGRmYjIyMWU5YjhiZWI5ZGM2ZjRjNCJ9&amp;signature=6a0114640916e9813acc55eb6cc80be322946529d3f1b2922d342f485f26b2d7</image>
+    <start>08:30AM</start>
+    <finish>08:35AM</finish>
+    <date>28 January 2026</date>
+  </channel>
+  <channel>
+    <name>Rtp 3 PT</name>
+    <id>Rtp3.pt</id>
+    <title>Bom Dia Portugal</title>
+    <desc>Porque ? de manh? que se come?a o dia, ent?o inicie-o na nossa companhia! Todos os dias, o ?Bom dia Portugal? dedica espa?os espec?ficos ?s not?cias da atualidade nacional e internacional, desporto, meteorologia, tr?nsito e economia.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6InNXYm1qclRQN1ZEb09WczRQS0RwWUE9PSIsInZhbHVlIjoiQWR2SWdFdzdlWk1iMlFJbUxiK0UxVDJ0eXZhZTBcL1AxUlJxM1lvYklvektNTGpmSGZCM0F5VTNHdTN6WHVyQ2RZR0Vqd3dsNTdFZzE1bXNrdVRQOThod0hMdTJBMUJseWEwRldES1V2aDlkTlBHd1puZ3RmQkxQUEtzenZaYnd1cmFJeXRCVlBoZkVjRDNickgxNFRuNFNHMDdYQmtSS1BmbDhLMzROZEcxTzc2cDFobGFBendodlVOVldEczh3aWhDMjJDWlMwMFlySk9pbjdUUlVBaU53b2ZvWFROXC9vT1hGQTJna0VqWHQ2Nnp2a0JkdTlXYWZFWStobVpETTZnIiwibWFjIjoiN2M2Y2M3NmE5YjI5NTNkYjcyMTA5NjNiZjEzNjdlOWMyYjQ5OWYyZWNjMmI1YjhkNmFiN2U1ZTNjOGRkZGZkMSJ9&amp;signature=86410c3c9b6e52c6696bb5f117141c52fa16aa93e68a57307744d42aa7815822</image>
+    <start>08:35AM</start>
+    <finish>09:25AM</finish>
+    <date>28 January 2026</date>
+  </channel>
+  <channel>
+    <name>Rtp 3 PT</name>
+    <id>Rtp3.pt</id>
+    <title>Esta L?ngua Que Nos Une</title>
+    <desc>A origem das palavras e curiosidade da l?ngua portuguesa, com o professor e linguista Marco Neves.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6ImZXQzNoN0JleitjV1NmSlZNbFFSMnc9PSIsInZhbHVlIjoieThtbzE2azhRK3k5bEh5NXdLSDI0SGN5WGRsSnRqNFdyWWlrYWcrQU9RWWpRSlNEVExrd2lwSUx5RlJJdnM1anZsTlJjdStDZFFxcFR0NWVMYlNCSm9CU0t1RUpzQTNWbTBydHd2OVNlOGs3WjIzSlgyRlZwM0pmUVVNV2xRSlZBeG8wR2IwektNelBZblwvcGtrSFpjSVpEOVBYUnZGOWtDcXFhRVhSbUF4bDdqamg2TlhJajJnNmxKYzdzWGNIVUdxdTA4bzEzeExuakowWXZFZ2gxSWowSWVVWjVjRUhnXC83MTV1SFl5djRvUjV5dHRjeVBVTjZRY2RUczZ2MWNRIiwibWFjIjoiYWUzNjIyZjQ1MzUwZGViY2Q3YjUwODI3N2Q5ZjRhZTk4M2U3ODgzOGVjMzcyYjM3YWY4M2E4NWZjN2E5ZDVmNiJ9&amp;signature=8b5b2c4b832bc0da1dc10f6405fddf8f2e42a66792b84589dcc26ba4af2018d7</image>
+    <start>09:25AM</start>
+    <finish>09:35AM</finish>
+    <date>28 January 2026</date>
+  </channel>
+  <channel>
+    <name>Rtp 3 PT</name>
+    <id>Rtp3.pt</id>
+    <title>Bom Dia Portugal</title>
+    <desc>Porque ? de manh? que se come?a o dia, ent?o inicie-o na nossa companhia! Todos os dias, o ?Bom dia Portugal? dedica espa?os espec?ficos ?s not?cias da atualidade nacional e internacional, desporto, meteorologia, tr?nsito e economia.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IjJpRTUxRVV3TU1vXC81XC9WOENTdk5tQT09IiwidmFsdWUiOiJKSm9PNEpuQTdUWEt6XC9NV1RBeklKWFBQblwvV0JQYVI5UWdKNnl0SFZibHBydjFYd0VcL1d1VnJiaVVnZEhHOVl6R2F4VGNTQ01jcllHc3VsZm1ZeGR2Vno2OEpnTzhrTlloU3NxMGhNSzIrdDQwVUpFU3BMTG4yTkhzTnFlTEpZVkFVVDRoTk00QUtBam5TbDg4YytGd3FQQVJnRFdLamhIalBwQ0c2Z3E5UkxXaVl5c3VEZFV0YU9QOWFSdEhIVGFsQkVHM3pZeE9vcVR2WlRkYWRqWFdHR2RaNUd4dFBkbk5ObVk1RXNWS0hPa0JIMlFLN1ZqTkQyZTZGT2VIVGZiIiwibWFjIjoiNzg2YzBlZTY3YTIwZTMyYmUxNGQ1ZWExZDEyNmJhNjM2OTViMzU3NTAyZmU3NjQyZWVhNmE0ZDQyMjQ4NTZiMyJ9&amp;signature=4eca4e9a8f71ba4d88ad9e5b7dea746b9c4467b8675028ada33970ffe082675c</image>
+    <start>09:35AM</start>
+    <finish>10:00AM</finish>
+    <date>28 January 2026</date>
+  </channel>
+  <channel>
+    <name>Rtp 3 PT</name>
+    <id>Rtp3.pt</id>
+    <title>Not?cias 10</title>
+    <desc>Informa??o atualizada em direto, com os temas que marcam o dia. Reportagem, entrevistas e an?lise. O pa?s e o mundo na RTP not?cias, com V?nia Pereira Correia e Jos? Ant?nio Pereira.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IlI3OFwvaTYxWFBzK2M1RzVuTTZQNmd3PT0iLCJ2YWx1ZSI6IjBISjB1bVRwMmVQUlZpSERhS3ZzNXRoXC9GdXFQTEY4Vm5JYlZ1ZjFhSFVqYjBiK29PTkNVbWFyVVlUZlVLZmNwQWpXMGFwTmI0dExrSGNqYmdTTlRiS0s0MkRtbEZVWHZ1TGk5RUo1bGdBbmZ2VW1BczdLaGo2OGZHRnFWNFwvNGRPZFBNZjZZcFhmMzUycUlmMzg1d1FIdERtVVRYV1p5NWhcLzVrdHA0b2twK28wNmdQcXNOUzZvXC9uTzZWZmFYSHJVTWp2ek5KR3ZpNk92d1E5MGVaWHYrdWswUzFaZjVzZDNFYVRuMlJaU0h6XC9KbUxhVkVEZHZBNGUwU0xndXlnRyIsIm1hYyI6IjJlZjcwNjYxYjkzNmE5NTJkMDQ4NjU5ODgwZGRhN2U3MmVjMDM2MjEyMWI1NzY4MWQ0ODhmNGI5NjU2NGYyZjcifQ%3D%3D&amp;signature=c3059a27363ae795747550c9782b527e667d6ef413f7d29b3477f37525468f98</image>
+    <start>10:00AM</start>
+    <finish>11:00AM</finish>
+    <date>28 January 2026</date>
+  </channel>
+  <channel>
+    <name>Rtp 3 PT</name>
+    <id>Rtp3.pt</id>
+    <title>Not?cias 11</title>
+    <desc>Informa??o atualizada em direto, com os temas que marcam o dia. Reportagem, entrevistas e Jornal de Economia com an?lise em direto. Com V?nia Pereira Correia e Jos? Ant?nio Pereira.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6InZ1d1BMWldHUHhYXC9vNVBrRlFyQm1BPT0iLCJ2YWx1ZSI6InJ4Y0QrZ2tFUW5YUWRabjlwMDg0V1hVOWpBa3pHVFpDN3RcL29pa2JJTllBblo2VGlyZjQ0MzZQWnA3bWZBTUs1ZlwvSU1id3VzY1ZxXC82cG1OeXZNNVdpc3MrYmRnTGhYRWpHRFVPZ0dvT0diNmNQa01tNEFmeFJjRjdBK2VmYnZ4TlZyM01kSlhyNlBTUDlCSHhHamZrYjZ0VlFUbjFBZUtEd0N2ZlBydmZCa1dtYmp4NVNFcW5JXC90Y1wvTkw1WmRIQytcL1hKME1BcExEMWUwZ0MxbDFCS0drb1o3ZGRXYTU4SnhOY0drZGVUVW1mUWdtdnhBYXVyOWlWRUxpRnQ5UGQiLCJtYWMiOiI0M2Q4ZjBiYWViMzUwNmZiMTU3ZDYzZWQyZjNjYTExMjk0YWJjNjFlYzczMjk1MTJmYTFhYjU4NDAxMDYzM2NmIn0%3D&amp;signature=c4a2587ff1bdc71f94e991827b697cf8f10da7a4cce9d87af34800dea382010a</image>
+    <start>11:00AM</start>
+    <finish>12:00PM</finish>
+    <date>28 January 2026</date>
+  </channel>
+  <channel>
+    <name>Rtp 3 PT</name>
+    <id>Rtp3.pt</id>
+    <title>Not?cias 12</title>
+    <desc>A meio do dia a RTP Not?cias apresenta os principais desenvolvimentos da manh? e atualiza a informa??o desportiva no Jornal de Desporto. Com V?nia Pereira Correia e Jos? Ant?nio Pereira.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6Ik1rZ0sxQThVRUJhbG9kZUpZbmVNaHc9PSIsInZhbHVlIjoicHNpTmtqV0NLVGE2UE5cLzFxNGp3R3UzSzRQazNYQndRN2RKbEdUWnZIUnBTdnd2R1Jrb0oxbE9tV3FTSnZ5WUV5SnVyZVluems0MmE5TEU0UmNWbW9hOGlKWTZVa0tuQ2txN2xkbWVmQ29jdWM2bnl0UFlOOWhvK0V2dEg1dk56azRLbTNESDJpYlB5TnlcL1VyaldYSEVyRGoyUG5XVVwvRHlSNkdSM0IxS0JZWEg1TW9SRG9pdHFcL1I1dnViTnNMbE5WWmhXcklNK3JoRmFlMytGakZyZVwvZ0FUYTFMTUlaZUxOb3FoQmt6clowNGxtMjNveWFZRGdMMjhRQkd0UXZhIiwibWFjIjoiNTE2MWU3YjZmZmZhZjA2ODRkYzQxZjMyNThhNTczNmE1MTJhZDlhNDA1MmM0ZDBhMmVkZWEwOGRmYzc0NTlmZiJ9&amp;signature=f3a5cc3a79659fe509666cadec864fe899c92666e9d8c9e1cc0b1b08ea303cb3</image>
+    <start>12:00PM</start>
+    <finish>12:45PM</finish>
+    <date>28 January 2026</date>
+  </channel>
+  <channel>
+    <name>Rtp 3 PT</name>
+    <id>Rtp3.pt</id>
+    <title>Not?cias 13</title>
+    <desc>Informa??o atualizada em direto, com os temas que marcam o dia. Reportagem, entrevistas e an?lise. O pa?s e o mundo na RTP not?cias, com Alberta Marques Fernandes e Carolina Freitas.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IlA3bkN5TU1cL3E1cUhTbUZKdnlsWTh3PT0iLCJ2YWx1ZSI6IjFXcFVWYWNHMTZQOGU5allJcWUzRDlTXC80V25UMmQrWHhic0xIc3JlR0hhMHBBMG9hSGhkM1dLK3dYVkdpUG44S3RLMHJaYncxZSs1eDNkdXhhVkZVcHI0TjFWbElmTlp4bEk2cmMrc0RUSlJweGQ1XC9NcHZPVk1EUUdkaE1SWWJ2eWVKZmtSb0ZTUDJPXC9RWlIwdldCNVN5dHl1RkZiNFJSeXl0ajJacGtwUnQ1aTdETUtGVmcwNkFVeFMxdVRvQUs1Y3lBZmlxblBkcXBWOW5HdXM2TVVYWm9KRjFZU1VlclpWeUltdGtwZW80ZkFReGhwVXFQY1dsTWVwUmpPTFQiLCJtYWMiOiJmNGM1ZmI4MmI0ODE3NTA2MTcxODM2Njc1YTQ2ZDg5NzVjM2EyOWE4ODc3YzljYmNjN2RjZjZiOWJhZmRmOWU1In0%3D&amp;signature=538b19abba8247a75e3eb393e70547ce192dd752286f85ee9b1aea2074c28bab</image>
+    <start>12:45PM</start>
+    <finish>01:45PM</finish>
+    <date>28 January 2026</date>
+  </channel>
+  <channel>
+    <name>Rtp 3 PT</name>
+    <id>Rtp3.pt</id>
+    <title>Not?cias ?frica</title>
+    <desc>S?ntese com atualiza??o da informa??o no continente africano, com emiss?o de 2a a 6a feira.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IklzWHViMnZBcmdwS0dFM2dPY0s3VlE9PSIsInZhbHVlIjoiTXFXS0tXbkErampMaUFnaU9xZDMwMmwrZ3VXYjJlSFdzMlwvK0VoUkwrZkVnTUN3cG0yUkJKSXpqSG9lNzNIUm5cL05cL1hwZjBNVG9uaGorMjRNTjFveUNHc3hIemR6NWtKTzZBdVZKVXl0QnFUWnJmbjB3U1VsTitvZTMxT3M1YkhtUVN0cVNUN1R0Rkd5M3VmZ1dlckxpcXlFQzU0ZExSZGx2Tk82ZVA3MjE1alQwZU5Bdll0SFNUelJ2OVc5SFVjOFRlUXRMenB3YWhBUE96dVVETVNZOCtcL1wva0lsV1R2aHM2aEZ0b0xqc1F1UnJYMGo4WnpoU2FHNDdzb0VhZFVtIiwibWFjIjoiMmNmN2VjNWJhM2QzNzhlNTYzZGU4YTRkNThiZDY1MDA0ODU0YjA1ODkyYTJhNzk1ZmNkNzBhZmQwMmM2ZWU1OSJ9&amp;signature=e2ddc5da4e66e30f64dd051093ddd8b9723303078c1dba362bab113a1870d9e5</image>
+    <start>01:45PM</start>
+    <finish>02:00PM</finish>
+    <date>28 January 2026</date>
+  </channel>
+  <channel>
+    <name>Rtp 3 PT</name>
+    <id>Rtp3.pt</id>
+    <title>Not?cias 14</title>
+    <desc>Informa??o atualizada em direto, com os temas que marcam o dia. Reportagem, entrevistas e an?lise. O pa?s e o mundo na RTP not?cias, com Alberta Marques Fernandes e Carolina Freitas.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6ImhsOWJyeU5SS0k0RUJTQStnNFFZa3c9PSIsInZhbHVlIjoiWVRZR0xrM2NDVVFzaGZYY0ZOVll0aVA1czFiZ3NxYlpRSWFjR0p3bUlOKzAzSEx5bnpvYnp1cVdIRDVZd0R2NXpET0d2XC81U0U2dHZIOEVmTTZtdTNDYnFVcVI0cHhTUzZiR3lva2t0UG5LVGh2R2JrbmpoMTkxUmpUY1prVlpMNlFrSTlqSGQ2MUpLZXA2RnJWNjVJZzlJRGhxUGxwajdVSDArbmZLSXJFRTZDQzIwVmRnXC9DWjRLemRGVnNWMnhvRUFQVnl3Q2VBR09MOGhcL09QS2U1Q0hNVGdrVkRtbURtQWQ5XC9tY2J1a1Rzc1UrR2ZkVXRMRnU1Tit3dStJQkEiLCJtYWMiOiI3NjQ4MTE1Y2U2MWFlZGU2YjE4ZjcwMTM0NjEyNmE0OTNlOTIwNWJiYTMxMmI2MTViZmZkMzVhZjdjNTk5OWQ2In0%3D&amp;signature=fa7ef9f6f285fc9fa0e112d84acd52ddc93e12547732f8e0ac0ebbcc933c7ce1</image>
+    <start>02:00PM</start>
+    <finish>02:30PM</finish>
+    <date>28 January 2026</date>
+  </channel>
+  <channel>
+    <name>Rtp 3 PT</name>
+    <id>Rtp3.pt</id>
+    <title>Not?cias Pa?s</title>
+    <desc>Not?cias de norte a sul de Portugal com hist?rias locais que fazem o pa?s. De segunda a sexta, na RTP Not?cias. Com Maur?cio Jos?.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IlpHNWZwNitlRDBsdlN1aUZUREUxTnc9PSIsInZhbHVlIjoiY0pZNkNSSEhUK2dzZVR2YUlxSnhKeEtrUTV0NHdyaU15VmNZc1YxejQxZzRQQTRCeUpuWmtRWkk5TFA5RjJcLzdpWjNyT0w4VjZuK1V4NE4wVms4bUc3VW5VaktNaFZOa25IMStmOFFhSjR0YWRXcWhuZ3paVTkyTm5hcnZJNmJ0RkVCTmhnR0JUUnQ3WVBBNkVEWEJ3MWFvakJjTWwwRFdDUHphcUF5ZXZNRGJJNDNwK1lVQWdcL29zU1pRSVM4Umt1XC9Sb2ZBT3RMdEhrZDEyZHREZ3hYV3JYcUM0blpxSjcwaWNlWXJIRGlhdFgrNkhPYlR0YWV3RkRINDlrNVNLdSIsIm1hYyI6IjJlMzlhZDEzNzA0NjMyOTFhNGY1ZTEzODYzZGMyNDdjYzlkN2Q1OGNhN2M1NzZkNmJiYmIxNmZhODBlNGU3MjgifQ%3D%3D&amp;signature=baa0539d59478da1c71ecda495a058e94afb8cc3f062c624931bd99b7d092a5e</image>
+    <start>02:30PM</start>
+    <finish>02:45PM</finish>
+    <date>28 January 2026</date>
+  </channel>
+  <channel>
+    <name>Rtp 3 PT</name>
+    <id>Rtp3.pt</id>
+    <title>Ensaio</title>
+    <desc>Com depoimento de F?lix Ribeiro, Diretor da Cinemateca Nacional, e da atriz Mil? este programa aborda a carreira nacional e internacional dos irm?os Helena e Tony DAlgy e o seu misterioso desaparecimento do mundo do cinema.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6InN5aVNCY3kyXC9zMHQzSEx1ZUhFQ1pBPT0iLCJ2YWx1ZSI6ImRycEs4eVFSdGVjOEpKbWtlQXlSNnFyOUJBdHpXNDU0b3BxM1VBUE5GU01rd0doTkNxbndaSFRxTkxDVnZwN3NWRjBiZFVlN24zcitaXC9JRnBGY3ZGUFl3eU9CZEVQTHVoQlgrZEZLVWlvWnpidVZaM3lvTVJvOEx3dEZ0c2V6bktXajRtR1dHYkliNmpZaTNyWVJhb1A5YU1cL0ZBR1JTQSs3MGxpaFdLSWFZUCtVTkR1ZDJnaW5KNzNHZmZiZk4wcnVSUVwvamMyN0FPV2c0V1dBUWFKSjl3aXBnQUpoQlhIaXlrWTVGMU5JRnhRb0F2TlRsM3ZJNzlxUlFWZDFxa2oiLCJtYWMiOiIzMmUzMmFhNDg1Y2E0ODJkZWMwOGE1MTljYjFjZWFmMDdiZmM0OWQzMTk2NTM2MDJiMGI5MGMzN2MzY2I2NjQ0In0%3D&amp;signature=22ffdaab2099dcebeea8fc20a552cef718fd4511ed0b8b2060aff525b9f161c1</image>
+    <start>02:45PM</start>
+    <finish>03:00PM</finish>
+    <date>28 January 2026</date>
+  </channel>
+  <channel>
+    <name>Rtp 3 PT</name>
+    <id>Rtp3.pt</id>
+    <title>Not?cias 15</title>
+    <desc>Informa??o atualizada em direto, com os temas que marcam o dia. Reportagem, entrevistas e an?lise. O pa?s e o mundo na RTP not?cias, com H?lder Silva e Cristiana Freitas.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IjJJT2JSb093WXhyYkdYemg3eUJEblE9PSIsInZhbHVlIjoiVys2TkVrWkplUkFMYnJnVEtRclpUZ1V0VWZjM1doTnhFQnk1UU04eEg0Q0lSdVBuYmsxdCtoWGp6K25cL2hZNjBmcTAxQnhhR1ZyUklwNEJaaGRBays5SHYxbGk3eEt3Z2x1TzFDMkh3eVp4eThyektvTk1CejRCcTFjXC8zN1FJMGlNdURmTnRSOXhzeFVKZ2d3ODZjeFRkcnNCd0s2ME1wRkQ4emdrTVVhMlpGTWZFWlwvU0pRVzBudFFqRk53U2lVdXcydDRuVnpHbmFYWDZjamdkQ3IxaUhFUnZlY1pBNVp3cVZUUTZFSkJYTmRMVDdGc3FMSFwvVkVKQzNEWTdyc2MiLCJtYWMiOiIyN2E3YjM1YzI3NGE3YmE4ODhkZTI3OGIyMjRmNDRiMGMxMjEyNDhmZjhkNTY5YmQyMDIzYzg0ODQyMTUzN2ViIn0%3D&amp;signature=111a0e58b515c17d8f67e7b4c42e68a3a98335171788bd946ee9afe20ec91793</image>
+    <start>03:00PM</start>
+    <finish>04:00PM</finish>
+    <date>28 January 2026</date>
+  </channel>
+  <channel>
+    <name>Rtp 3 PT</name>
+    <id>Rtp3.pt</id>
+    <title>Not?cias 16</title>
+    <desc>Informa??o em direto, com os temas que marcam o dia com H?lder Silva e Cristiana Freitas. E ainda as not?cias do mundo desportivo no Jornal de Desporto.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6Ik1DXC84OXA3ajZRNmRDYmVpVXRScTh3PT0iLCJ2YWx1ZSI6ImQ2NWFhVFVib1FpeFwvNzNxak5hWEdhZm5lK0gxczFvT043dW9aUitqR2h6K2NSSXloYlRMbTJCZDg2dEtsSGFQcGpNZ3JUSkpNbEVxVGRPR3V6QWVGNStPUmFoSndxXC8zWmtCaWg2b3pVZFRNTlEwZE81QVE5YXZjWjkzSkFXd0E0XC91eFRneTlsbGJVNkVOY0luVFFyeTFINk1Dejd1SFZtUlk3ZzVlRGdDaTlidnlmRmlDUjJ1NGp6SEp4b0VRZ3dDNXY4T1k1QUNVSVByS3hIMkZyRVF4aGZDeEdYVGpcL3BPbm84ME1YalRhN0I3R2RzaXo3T3U4TEh5YVk2RU5PIiwibWFjIjoiNWYyMTIzNWY4NTM0NmY0YjViYjM0NWYxMzg0NDJlMjViMjI0ZTdkNzhkZjhkMjA0Zjc3YWM3YTA2MWY1NDc4NyJ9&amp;signature=df8cdd6fe376c17e871204d9cc98804cb19938bcf91cb65a1ded08284e8143d7</image>
+    <start>04:00PM</start>
+    <finish>05:00PM</finish>
+    <date>28 January 2026</date>
+  </channel>
+  <channel>
+    <name>Rtp 3 PT</name>
+    <id>Rtp3.pt</id>
+    <title>Not?cias 17</title>
+    <desc>Informa??o atualizada em direto, com os temas que marcam o dia. Reportagem, entrevistas e an?lise. O pa?s e o mundo na RTP not?cias, com Ant?nio Esteves.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6ImVRb2dpblhZWE03VzlnQWY1TzZqTXc9PSIsInZhbHVlIjoiWEVlYmFGcUVQcExEUDlSRitLemptd3JuM1dnVXRTS0x5OHM3cmRWOXJBeWlabmVLU29zSWprb2xqd1hkTzNJWHQ1RGR1K3BvMmRcL1NXUnR2ZjEzVVVWVllhdURGSTBTMHNYNFpjZkVBRVl5bkdKUUtDY1NpRkU1RkFybklXWThFa1ZDaXVPRDBSVVV0azI4NTJJOEl4aUFPek5TYzRSaTYzODNzSGtBbHUyQVVLXC9NRERZUG9CMFpkRVFXOXc3Wm12SUQ2WTRjd041UGM3NGFVOTlYcnRrZnRHaGNqS1FTYmRcLzY0TTJcL00wUlBkQ2hNRFpaNTR1M2RLWjQyaVwvclFsIiwibWFjIjoiY2E3MzA1YTE4YmEyZmZiZDk4ZWM5OTFjMjExNTc1ODE2ZmUzYTlmMDU2NTY5N2NjNDFkNDE1ZTEyM2JjZWQ3NSJ9&amp;signature=639f85a25620dca0bcec793ad59e88ab330ad2ded7c3b09239f03e9461ad8061</image>
+    <start>05:00PM</start>
+    <finish>06:00PM</finish>
+    <date>28 January 2026</date>
+  </channel>
+  <channel>
+    <name>Rtp 3 PT</name>
+    <id>Rtp3.pt</id>
+    <title>Not?cias Seis da Tarde</title>
+    <desc>Na reta final da tarde, os factos que marcam o dia. Atualiza??es em direto, reportagens, an?lise e Jornal de economia com coment?rio em direto. Na RTP Not?cias com Ana Louren?o e Cristina Esteves.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IkRkQ2pPVjdPbnVmOXBsRmRnXC9tamRBPT0iLCJ2YWx1ZSI6Im10c1E2WWlTRVBEM3AySHhiZ2V4MUJMdDVESEFKR3FRUU1nc0JUYVF5T0s1dGZvZlk0blZrcFwvNVZFTEIraHdnR3d6d2RUYURqXC9oY3Z4MnhFM25iSXFScHgzMGF0N0o1d1c4VWJielFHZW5cL09rZkFSYjlrRk5GS3hidFwvdUdqcUI3N05aS0tPWVlFZk9aZnZ4aWtPeHBVYXlrTWhQVTIxUkxPT0tTcWVzVG1yTmlSUVwvdW50RFFSOWp2T08zcWZiUUYzM1wvNWFoUnJTWFJKaXZpb01Md1MyQU13R2dmbWpnSjd1S0NPWUlVWjdcL3lzMjVYbUhEdHdzcXJvOE9JZllHIiwibWFjIjoiYTIxODczZTU0MTQxYTU5MzhkZDcxZmVlYjAwMDk2MGQ0NmY4OTUwMTJkZTM2NGZjMDMyYjRkYWE0ZThmMzNlNiJ9&amp;signature=92056aeae390f72131009294316701ba4cafacc6ec62792cbbea4d510b280fcd</image>
+    <start>06:00PM</start>
+    <finish>07:00PM</finish>
+    <date>28 January 2026</date>
+  </channel>
+  <channel>
+    <name>Rtp 3 PT</name>
+    <id>Rtp3.pt</id>
+    <title>Not?cias Sete da Tarde</title>
+    <desc>Atualiza??o de todas as not?cias que marcam o dia, no pa?s e no mundo. Na RTP Not?cias com Ana Louren?o e Cristina Esteves. E ainda o debate em direto, no Jogo Politico moderado por Ant?nio Esteves.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IjJXXC94cDBcLzNiaUpwS09FeFgwRlhYQT09IiwidmFsdWUiOiJkY1BZZWNJemY1WDNYaVlEYmJjXC9oMW90VEZJSzIzT2h3QTViS01aYmp6RFZRVUxWcUdEN3paQW1ueW8zVCt1MzVNc2c3MkdPV2RZaDJkTlVlTllqU2R4dlNwayt3c2FBeDk1ZnhLbTV0bkptZTdIZnJoYmFnaiszY1FTOVJJbzZjVWZPRUY0eUN0c0lXTnBZb0hBZ0R1QTRFdE5MSlI2TTdCc1wvK3Y5TmRDV0g0ZHVYVVQwVHM5RHpqTjJDZERqbmNuT0Q4ekpFbytGVlJwcEV2dklVSHJ0NDVENWpWV1wvaTc4ekFjZnNtc0dsdnc5SEhhTGppaTdzMDRRaHQrVGRkIiwibWFjIjoiMTg2NzBkYjBkOTZlZTIyZjU3OTRkNDQ3MjJjMTg2YjMxODRiYjU5MWY3ODBiMDc5M2YzMDM3NzdhYzkyNDhmNiJ9&amp;signature=9142d84c115bdff834e39ab252eec93e1c932765883643af13f505528bced050</image>
+    <start>07:00PM</start>
+    <finish>07:30PM</finish>
+    <date>28 January 2026</date>
+  </channel>
+  <channel>
+    <name>Rtp 3 PT</name>
+    <id>Rtp3.pt</id>
+    <title>Jogo Pol?tico</title>
+    <desc>Tr?s partidos, um debate di?rio. Ideias em confronto com modera??o de Ant?nio Esteves.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6Ik9sd1BDdjE0OXZva3Z5UEZFbWhEUFE9PSIsInZhbHVlIjoiY1hWbTQ2Z0s1NVpFa2NrbGtSaUVxdG1welkzSmZUd3dGZFlIYVZneVl2Q04yVXlCc2pva2pcL29XRXNBNU01R3RyakhyRG5cLzVTQ21BVmZvVDA0ZmRhRGZUMEttaUgzRXpvbmRXc085MXlWK003MWdRM0xDMFp0am9CWlV6S3BINFBJTzRDWEVEMHpaaUgyWWFXSVo4NURPV1Y5ZksxZ2E5amxNbUxoWWlxem1LSk5VbTB6R3NZR3FObWRuZkIxUmpHYXFNVll6RTZUdEJWUXRkK2NEYVFNNmhqTnJFdldXUzJab3ZaUm9TRTNNclVTTjR0ODBVZjZETnRkMktkU0pGIiwibWFjIjoiYTUxNzhiYmJjYWZjMzMwNzhiMzYzZjA0YWNlNzM4ZDgyNWYxNDI4NzRlNzFkYzY3MzQwMjU5ZmZlNmU4MDczOSJ9&amp;signature=aa9e9e1748e9ef38c19bae51af21214ad259be93316ac9cd3903ec9eec0da604</image>
+    <start>07:30PM</start>
+    <finish>07:58PM</finish>
+    <date>28 January 2026</date>
+  </channel>
+  <channel>
+    <name>Rtp 3 PT</name>
+    <id>Rtp3.pt</id>
+    <title>Telejornal</title>
+    <desc>A mais rigorosa sele??o de not?cias, todos os dias ?s 20h00. De segunda a domingo, Jo?o Adelino Faria, Jos? Rodrigues dos Santos e Ana Louren?o mostram-lhe o que de mais relevante se passou o pa?s e no mundo. Se ? importante est? no Telejornal.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6Ikl6ZERNVzJsVWlUMk1SSFwvdEVRcFJRPT0iLCJ2YWx1ZSI6IkZrbTZXbzg3MjBZd1ZOWVEyTDRaeXVrOTZ3VzE3Y0xZOXF3WWNUemVLcXhcL2M0VlllenorTXlFYzhYeDNDNHpiNjVLREcxbGxmd3VPd202VmpsNGVpYktUb2tvVkpMcFVDTmlxTjIzSXYza1wvakFwSGEyRERkMXpcL2VHWTNHcW9pK3lhVzRRR3lcL0FJekQzMDJwM1A5OGUyS252blNkNDRmbmFROFpJUDlWZ09Yc2ZRanRtK1ljTXR1dXBLcncyNUNhK3FzUUhNdUMrZkUyN1Fic2FQVDNNXC9xWXZcL0dpOEF0eDNxM0Vuek5IWGorMWhNN3pybGNLOExVcVNFWXdONloiLCJtYWMiOiIwMTczNjg2OGIzZWQyNmQ1ZmVkN2RlMWEwYWNkMTE2YzlhZTIyZWRiNmUzM2JkODNjYTIxMDhkOWMyODc4MjNjIn0%3D&amp;signature=5b431063c00b4024fc6008ce93d7bedda41a81dc6c4df0ca9e1ee3d307f013e5</image>
+    <start>07:58PM</start>
+    <finish>09:00PM</finish>
+    <date>28 January 2026</date>
+  </channel>
+  <channel>
+    <name>Rtp 3 PT</name>
+    <id>Rtp3.pt</id>
+    <title>Not?cias 21</title>
+    <desc>A atualidade nacional e internacional em destaque na noite da RTP Not?cias, com Jos? Rodrigues dos Santos e Jo?o Adelino Faria. O rigor e a an?lise com os protagonistas que fazem not?cia.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6InlCU0tWRG4zRjRzYXRkaU1tS2VvbHc9PSIsInZhbHVlIjoiaWxzRm0xd0ZndmtxYjhVUmVFMTh4ck5uckx4d1dTMk15TkRpbXJ4U1wvdlk2Tk9XWElReGFIb0pJUkZPTzA1bVZTcUNBbm9xeG9zVkdtYktWV2U2Qm1aMnVTRVA3RFFYSFlcL1JHTXNEbjNGSmpyOFdlOFh5SXRhNVp4Uzg4cG0zVGhpTEdrN2hKOU5hQWN4XC9rXC80c0pxS0duaFFrcmlSNEdjdXBvTmJuTkxkb2Vrc3lES2c5QVBNYWJOa0pJM3hCcDROV1ZBQ1RqWUkrcjlqXC9TVWNYazJEUDd4MlwvbmdIRWFHa0t2SW1ZRElETHp2RE5ScFFXNHAxcEdJZ2FIRVFZdCIsIm1hYyI6IjgzYTU3Njk3NTYwYThkYzIyYTQzMGJjZTAzZGJlNjQzZjc5OGRlNWE1NTk3ZjU4MGU1YjE4NWZlNTQ5MmEyYmYifQ%3D%3D&amp;signature=ab6f68742e2011e18d53204fb11789dda031ee6268c16c192be3f90fd4b48cda</image>
+    <start>09:00PM</start>
+    <finish>10:00PM</finish>
+    <date>28 January 2026</date>
+  </channel>
+  <channel>
+    <name>Rtp 3 PT</name>
+    <id>Rtp3.pt</id>
+    <title>Not?cias Noite 1? Edi??o</title>
+    <desc>?ltimo olhar ?s not?cias que marcam o dia e a noite informativa. Com Clara Os?rio e Pedro Esteves.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IjRCXC83a1ZacXNIbWliUWRaWWl4bnh3PT0iLCJ2YWx1ZSI6ImkzWUViRmprYVRhalQzVTg2MkpteDFjSGtXUmpcL1NzbHJPT3pIQldlZEFsUElDVkhQako3UlMxOStYMTBxMExvc1JYdnFNMFJCVmNXNXNSQVBOblpUaUxuaXhENzE3U2NQMGV3cTRaNXVNeFM1VWRCaDNsdnlLMWhtdURFNGpRakR3RmhhODREd2tzNUhqYzFXNTdEVnFWT3BWS1wvdDlWV1FzR1l4c29mT3czWGE4amNrSW5paVQzZVc0b2ttWTZYR1FaQlN6YVlJYnNyRVRsVW9KOGtxS1wvQXptUmZ1dTJOR0V6QjBpNXg1bjNQeUNXbHV2XC96c2gzWm04Qnp2U3lzIiwibWFjIjoiM2FjODJiYzQ2OTk1ZjVjMThkYTFhODZjZGMyNTljNjNlNzVkZWRiMzhlYjI0OGE0ODVkOWIxYmVlZDAzMjFiMSJ9&amp;signature=d9ee0bce9421d94be4aca255f0969c28760b43d7f632bad2e68231b9135b5531</image>
+    <start>10:00PM</start>
+    <finish>10:35PM</finish>
+    <date>28 January 2026</date>
+  </channel>
+  <channel>
+    <name>Rtp 3 PT</name>
+    <id>Rtp3.pt</id>
+    <title>Grande Entrevista</title>
+    <desc>O mundo fascinante da comunica??o pol?tica. A gravata verde de Ant?nio Costa nos debates. Os gestos de Rui Rio. A ret?rica de Andr? Ventura. ? poss?vel vender pol?ticos como se vendem sabonetes? O publicit?rio Edson Athayde e o especialista em marcas Carlos Coelho, na Grande Entrevista.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IlkrdGhSQ2c1clZDUlpBOXNyaXdNeFE9PSIsInZhbHVlIjoiTk5NZVoxMEswZXlkRTg4bDQ0K2dmMVRjTFgyWXNBT1pVN2FtYnhHT1gyaG5RQ281WnVmVnBCcnBRcXRVS25SbWhKcWNTcWlwQTJyTXNscjFtWEhCaEQ0eTVCYUw1eHMyaXpsazUzZHJTTERRdEEwa3o4WXZINWZHM2tiOVlBd0prR3hTdGZweVA0S1NkUHF3WURTM1pJRys1SG1BaDRaMkZiT3hKUmJpNmExb2IyZ1B5bG1Fajcwa3Y0QWRcL3BaS2JZUlczTnArVXR0c09UNVRRMHBhN0gxOTEyV01UVlNQTDlocmdiVk83S3VRUUVZOFM0dFZWR2o3Q1hQVlFybjMiLCJtYWMiOiJmMGFhNzA5ZGNiNDE1Y2MzZTViODU5Y2I2MGFiZGM1ZTQ5Y2IyOGFiYjdlZjk5MGE4YTllZDhmZTA4ODgwNWM5In0%3D&amp;signature=dbf17759a8613f61dbbaaa7101067f56fed718c2ea11c3dd496342c600c86fc1</image>
+    <start>10:35PM</start>
+    <finish>11:15PM</finish>
+    <date>28 January 2026</date>
+  </channel>
+  <channel>
+    <name>Rtp 3 PT</name>
+    <id>Rtp3.pt</id>
+    <title>Not?cias Noite 2? Edi??o</title>
+    <desc>?ltimo olhar ?s not?cias que marcam o dia e a noite informativa. Com Clara Os?rio e Pedro Esteves.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IldNVjN2QVg4bDE2ODBBY3JJOURxcnc9PSIsInZhbHVlIjoiS3VsNWlIbzh0c1V6RnVQK0Y0T0pZeEdxUDBVeHNXUVhjczJiTStUcGNcL3FPUisrZ3B2ZU5GTUxaeit6V2QzUCs1RkpFZ3VhTEQyRm00dlwvOWtwOGtFZTBnbTYrdW41MTU1ZHZRTEM5RnZHZGlMRHJYZHdycnZ5dVwvNU5sODVxWDJhczR2TlhPMGhNXC9XUzhtdkMxazBteDBUWTNVYndzRW0rakF5cnNzWG9cL1U4NTZnXC9tMmlhMjJvQmF1SzdqQWpYREZvcng2bWF6cU9nS1lUXC80cXk1QVJ6cFZJaFFEVnNPUVwvMGczNCtNemNlamlZRDJubmhvejdcL1M2ek1yZndlbCIsIm1hYyI6IjMyNzA3NjU1YWRmNWMwMzNlYTJkNWFkYTMxMGJiNDAyODI2NTgyNWY4MDM1NDQzNzgzNTE5ODU3ZDRkYTgxN2EifQ%3D%3D&amp;signature=3f7a5a5ec1fdf4d8fccd3b4d24c74c62045c0eb29caff5b270a1fc6200199819</image>
+    <start>11:15PM</start>
+    <finish>12:00AM</finish>
+    <date>28 January 2026</date>
+  </channel>
+  <channel>
+    <name>Rtp 3 PT</name>
+    <id>Rtp3.pt</id>
+    <title>24 Horas</title>
+    <desc>Bloco noticioso com um olhar para o dia que termina, marcando claramente a atualidade do novo dia que come?a. Neste espa?o de informa??o t?m tamb?m destaque os principais eventos culturais do pa?s, com as opini?es de quem os constr?i e daqueles que estiveram na plateia.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6ImxtdG1yVVhpelVYczZVdGR1M2thbFE9PSIsInZhbHVlIjoiNDFIQnNCbVJQZVZQd3VtZjVWeHhDbU91WkZ4MEtSbzRwQitBbm1RRG1PTk94QXRKUVg5V3RNSjBmb0MwQXdJTGRmaEZqV2VqVlZWaXRObkRPXC81ZmtPbEpSSHpNXC81SFg1d1l6MmpBc3lXNkhrb0xyVVdBUkdYSDd3b0QyRkV3UUxNVHd6bHZDVzFsdlNJNXZYYmpnOExLM3hIakJLdUxsSENYUmRRNWNRRUQzWlpTblZ5M3JWVGpQOXFSemhSYjZuM3RcL3JDTXFUTTJNUU9hbVNPcGFGc0VoRDV5RjRNT2RWbjR6Znh5UGd4TkNsNkQ0S0ZlaUNTM0RcL3RlU0tcL0dKIiwibWFjIjoiYzE5ZjBkMTZkOGU5Y2YzNTE0NTEyMjYwNmFkYzllMjY5YzdjNzA5M2UzZmUyOTU0OGQ0MTcxMGU0MTM1ZjhkOSJ9&amp;signature=5fc76cca9fae8e3582e91d5fbce887b7a6115f1a5f79f55c20f1868a5d4cc6fe</image>
+    <start>12:00AM</start>
+    <finish>01:00AM</finish>
+    <date>29 January 2026</date>
+  </channel>
+  <channel>
+    <name>Rtp 3 PT</name>
+    <id>Rtp3.pt</id>
+    <title>Coment?rio Presidenciais</title>
+    <desc>Espa?o de coment?rio e an?lise sobre a campanha das Presidenciais 2026 com os comentadores Manuel Carvalho e Maria Castello Branco.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6Ikh1VGt5bVliWnYyaDFuQUNCN3J4c3c9PSIsInZhbHVlIjoiempKV1U2SWwwZFI4aDNmQ212SktxZkFmZ09xbVpyck1PV0czUzVQbWhJbUVRUFNMNDhjbDBUamtIZjNWOHR4b0p1YzhRVVJSakNyXC9cLzNVNVEzR3NaUHpvOHkzbVVUR3U1cHJsTmxRN2xwTURJSTlHVEZHenRXNzMyTEJrN0lhVGg3MjFsanh4bE1TVWVQa3RJa3B5cmNORjVyUlwvR0UreElKMlhoUzB5WXg3bkFGWVwvVnZnU0ozMnloVHNRR2t6d3hHYkdcL3ZzQWVPR25hSWZkM253RXg4WjJTV0FPNTc3aDZodnpDbzFPTTloXC9cL0RQaXJlRXpvNHdYMEkwZTh4d1AiLCJtYWMiOiI1ZGIxZDJjYmI0M2MwNGQ5Zjc5MWVlNTZlZDc3ZTBlYThkNGYyODcxNjAyMzk0NzYwZGQwM2IwOWUzODNmMThhIn0%3D&amp;signature=7d6ed47ef312253f0160bb000254f6552359883b9715672500a40a53995ffafa</image>
+    <start>01:00AM</start>
+    <finish>01:25AM</finish>
+    <date>29 January 2026</date>
+  </channel>
+  <channel>
+    <name>Rtp 3 PT</name>
+    <id>Rtp3.pt</id>
+    <title>Jogo Pol?tico</title>
+    <desc>Tr?s partidos, um debate di?rio. Ideias em confronto com modera??o de Ant?nio Esteves.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6ImNYdmExVnR6Rmk2ODN2MUNDS0w3UXc9PSIsInZhbHVlIjoiQlEyVm10Nk1OaXlCczliTjZENXlhMFlVU1wvMjVIaGt3Rk1iV0ZYNEZJSk9PYmRKb0ZQWm1VS0RrMDQxOWF0eG5zRXZab1pWbUZqVnFUcDJaY0Q1SEFFazYxK3lJXC9cL08rUHFrZVpjTDJrZzNYTmRNVVwvdkg0NWRualZFZVIwNTNrZmpCTGM2NTk3RUY5aWhxSHE4bjk4Rk05U0RFMFBhenRMWFJLSTRXQ25tQzFrY0pyVE9NYWhNV3o1ZmNIQ1pVWDN2eXlGWktyXC9HZ01IamhrSkJ5dzNFUStaaEVYVU5pbWE0SDNsMElvUmg0TWNxZlRsM1NmbEVxbCtYRkl5a3dTIiwibWFjIjoiMjg4MDkwMTdlNzEyMGNlYTllMGEyY2I3NTg2NzQ5MDg4ZGJlMjA2MTNiODY0OTk0OTk4NDk1ZDllMGY5NDlmZiJ9&amp;signature=4f2ddcf52d0df72baa59e2a94da3e60cd05881141c3b00b2fff526cc422ff39c</image>
+    <start>01:25AM</start>
+    <finish>01:50AM</finish>
+    <date>29 January 2026</date>
+  </channel>
+  <channel>
+    <name>Rtp 3 PT</name>
+    <id>Rtp3.pt</id>
+    <title>Contraponto</title>
+    <desc>Duas vozes, dois pontos de vista. Contraponto traz o debate em direto ? hora nobre. Todos os dias, com Jos? Rodrigues dos Santos e Jo?o Adelino Faria.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IllURkRCZE1GMlwvd00zRVhrSkp0VUJ3PT0iLCJ2YWx1ZSI6InJ3Z1NaR2t3N0Y0cEdWV0xFOVB1REhHNDhaR2pTVXczdlFta1ZRVStaY1ZyS3hUd0x2NUxsc3lJQmtNaUxcL1U3QzNxQ3NJRWs5UHdYU3RWTm5Bb25yWGwwSUlSbVdjRXowaHdEQWtSVGxLYnBha2FQRlNBdDBGN1Jsd21cL3NBV3dqMWhPT2lFSWFLaW5wSVdsQW1CYWpZZ3g4bmtBSnVcL0tHeDgwUkdsZmZqVmFuZHNpb3NGWk1jUDhyZlV5dmxcLytyWGlhSTNnUzF2OHdzb29HaFg5ak01SFhmMXdDeWtiWEMxeE9HXC9VdUVcL3AwQ0tNRlVmWFZhMmh4TytSY3VMXC8xIiwibWFjIjoiNTdiOWZkNTAxNDg5ODYwODQwNjQ0ZjdhZGY5OTUwODkwM2Y4MjZmZjQxMTU3N2E4MDg1OTZiMTQzZjE1YzZiYiJ9&amp;signature=50e2dcad3624206a03c963b89d62de79dfe8c533bc2dcb8fce62f126c321118b</image>
+    <start>01:50AM</start>
+    <finish>02:10AM</finish>
+    <date>29 January 2026</date>
+  </channel>
+  <channel>
+    <name>Rtp 3 PT</name>
+    <id>Rtp3.pt</id>
+    <title>Divagar ? Preciso</title>
+    <desc>Oito vozes, oito olhares. Reflex?es livres e inesperadas sobre o mundo, em apenas alguns minutos. Com Pedro Andr? Esteves e Clara Os?rio.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6InRCNWFWbVcyRFJ2VDBmQlhvVDVhZ0E9PSIsInZhbHVlIjoib0pET0RydkJ3NFM0U1J6ZWlsWmszMFVPMTJUZWpSNlFvdStUUXlMR1poR2hvSTk0Snh4VW1wOWRZU0c5K2JUNDZtSllGR0lXWjhTeE5OR1FyMnpkc2pOdytuYzdMMStqR2VWQ2Q5a1NHRzZSSEJkK3NMQVV1dVVUb1VEejlhVlY5MENmbE1MTWNCZTNaZDVWTkMxQ3ZSVFpvSzdLd0NVam5FR0FIMkdzcEZ4SDBYUXA2dVFqb2JmMHRHdnF1cHdzWk1qcGlaXC9ySzJVQkMydkxlXC9XUWI5TytDV3pEaFlGMGk5Wmo3aGV2aTB5Uk5VM2dQZGtEb1F5alJPRnd3cFplIiwibWFjIjoiODVjODliNWU4ZGQ4NzY4OGYwMTdmMjY4MzQ5OTEyMWJlYmNmYzNmODc3NWU2OTIyOWI2YTgwMGY4Mjk2NjY4NiJ9&amp;signature=d328e504a327692a07f2183a8632f535e0703b1b8a03569dbcd10e3ca35301cf</image>
+    <start>02:10AM</start>
+    <finish>02:20AM</finish>
+    <date>29 January 2026</date>
+  </channel>
+  <channel>
+    <name>Rtp 3 PT</name>
+    <id>Rtp3.pt</id>
+    <title>Ensaio</title>
+    <desc>Com depoimento de F?lix Ribeiro, Diretor da Cinemateca Nacional, e da atriz Mil? este programa aborda a carreira nacional e internacional dos irm?os Helena e Tony DAlgy e o seu misterioso desaparecimento do mundo do cinema.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IkRrcXFXQ3BNaVRDTXRibzM1azBiZGc9PSIsInZhbHVlIjoiSzZKNUd5c3AwVWlMMTNBSWRta0QzSHhRUjRGRnJOcEt1bGwxSldUYzV2ZzFNQ0txSDgzNTFpU0xRaEFTNDBQMG9QMGpMMVkyTHNFMllvRUIxOENCNXl6bmFwVEtKNFFTTVd4aVwvU1p2N3pmMUZEa3pyaXhRNEJteWtXVlR4NHVJY2tUZ0t4Y3RTQzFvS2VMd0RrVU9QSGlOT3pVRitJMmRSR1NZT0t2bEZUTTJZYkNGck9vZm55SlNlVWk5NlwvZ1wvdDdWTVoxdVByU2src0t6djFSQlwveUJLM2s1am8ybVFyeGFCbEFTTmJJRUl5TFp4bVpUQ1RKQmw1dUNZTU1TNWEiLCJtYWMiOiI0NzIwMWY1OWYwNWMyZWJiNDQ3NWY1MDVmMzY4ZWRiMDlkNjQ0MDAwZDJhYjI0ZDYzYzYyY2Y3YTg4MTA3ZjIwIn0%3D&amp;signature=79064a7c00a04de00fdc1de032e9dd81345a371cfe301e02a42b50c3b599755a</image>
+    <start>02:20AM</start>
+    <finish>02:35AM</finish>
+    <date>29 January 2026</date>
+  </channel>
+  <channel>
+    <name>Rtp 3 PT</name>
+    <id>Rtp3.pt</id>
+    <title>Grande Entrevista</title>
+    <desc>O mundo fascinante da comunica??o pol?tica. A gravata verde de Ant?nio Costa nos debates. Os gestos de Rui Rio. A ret?rica de Andr? Ventura. ? poss?vel vender pol?ticos como se vendem sabonetes? O publicit?rio Edson Athayde e o especialista em marcas Carlos Coelho, na Grande Entrevista.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IndGVGZHdVpzOEN6eEUrU3MrbWU2K2c9PSIsInZhbHVlIjoid1RsRStNWkc0UVVYeCtUQ214d0FUb1FkalJoRndVbWhMWHJYZWxsS2hjMGhCYndjUTE3ZWJQampnVmRtbkJZdHlrQVFQSGM0V0t3dVRpem50d0VJdk80RmNlbmozOHI5dFlJMmxzUDdBWG9scjJaY2xxditVUXNkT0NTUUVPc1lPVzZKbWpwVDBoNElUWGZLXC9QS1k5YjZ2Z1NrQWtKWmxuaWtWXC9FNWg0T1lpTzkwbWppeGN1SjhEZnBGRG5mZUdtQzFCbjA5K1M3VldzVzI2RTQ1QlQyYThhMURXK3FDc0ltdXBYWFpVbWpjRGVncFprRUV6VnY2V0Fwc0JNRE9qIiwibWFjIjoiMmU3OGY3ODg0MDY4MDBhMDliZmExZWQxODdlNTI1MTI3ODJiZGFhZmYyZGJjOTVlODBjYjVhZjE4NjE5ZWZlMSJ9&amp;signature=48ad0e2e5687ed1d813d9a3adf8f3b1bad5936a24c08691893401afaa0ecf1e2</image>
+    <start>02:35AM</start>
+    <finish>03:20AM</finish>
+    <date>29 January 2026</date>
+  </channel>
+  <channel>
+    <name>Rtp 3 PT</name>
+    <id>Rtp3.pt</id>
+    <title>Esta L?ngua Que Nos Une - Compacto</title>
+    <desc>A origem das palavras e curiosidade da l?ngua portuguesa.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6InVkOWRUQW5xSkhiZ1RLc2ZyQmRYcGc9PSIsInZhbHVlIjoiSENWRnZjeEtFTlk3a2FlZ1YzR254WEFhYVlLN0lTTEU4OTRDeGNrcUxnd280dmNpZG81b3RXNW5IazdlZzRcL3R3WEZwSVwvYXNsU2hhR2lIRGZcL2liVCtDUWJJeUFEYjl4SzBLMG5uQ1EzdzdrbVVxSFwveHRHZk1raDBtMWJkdWxrcnBmTzhnd0tQNlpRZXFTaVM3U3FuQjhzM1ZqSEh5V21hdERvckRNZ3diZ3hCN0tWemZiWU5GY294WDIwZHluK0dZN0FPc3g2MVE2c2Y4anpvQ2dHRDRDTFYwV3Nlak9KTkk2WWsrOGdSUXpuXC8rQkhEbkhcLzhON0FkSThlbW1NZSIsIm1hYyI6IjQ4NDJkMWEyZGVhNzNkNDQ1ZjM5ZjRmNzg2ZDQ0ZmMzM2EyMmFiYjMxMGUyMzNlNjJmNGNjMzRiZDM0MWI0YzcifQ%3D%3D&amp;signature=a011e2c09181022e0c756442a246d8aa00c0f8825dccceffbad0a5419e64da5d</image>
+    <start>03:20AM</start>
+    <finish>03:50AM</finish>
+    <date>29 January 2026</date>
+  </channel>
+  <channel>
+    <name>Rtp 3 PT</name>
+    <id>Rtp3.pt</id>
+    <title>Europa ? Porta</title>
+    <desc>Com reportagens nas regi?es de todo o pa?s, vamos \&quot;abrir portas\&quot; e descobrir projetos nas ?reas da sustentabilidade, sa?de, inova??o, migra??es e cultura.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IlNTMjkrZXQ0NTh3VWFxQ0dXXC9QSDJBPT0iLCJ2YWx1ZSI6ImlIU2ZqOWU1dWxNK3F4Z2ppaVkyZWRxOUJQbzV6RVZIT2oycFwveXp1SmlhWXRCZDBrcERkdFJkZlI2Z3JMZ1F2a2tPTWZnUFUxcUt6ZlA1VUluWWNJdzduT04xSys5XC9ieFNrb3U1YUw0YUhvSXNqZVVjTXpUQ1VsajdYb01jK09uZFlORVFheElcL2d5VkszSVFlMnlVbERpRmdLWitzZTY5d3B5dWVuRHBKcjcyMHNONU5sWmpDbjM5VmMrQnNRMUdcL0ttSmRVd1p5WjZ1RmtaWGNodnJXbXROUE1qTjdpbUNOajNBWFJvZ0dcLzEzNlhqZHlSK0Z2cFd3VlRNXC9vekciLCJtYWMiOiJjZGMyMDFiMmQyYzJjNjkyOTQzMjZiMTJjOTk5YWEwMWMzNDg1ODYwYTQ1OTMwODE0ZTJjMTY1NTEwNWEwNTNhIn0%3D&amp;signature=ccda910848dd366ce8f603a33ed45f7675dbe7a3c158824571f1b1a0441b64b2</image>
+    <start>03:50AM</start>
+    <finish>04:00AM</finish>
+    <date>29 January 2026</date>
+  </channel>
+  <channel>
+    <name>Rtp 3 PT</name>
+    <id>Rtp3.pt</id>
+    <title>Fotobox</title>
+    <desc>Programa sobre fotografia. A tecnologia, os fot?grafos e as suas fotografias t?m uma presen?a assegurada neste programa.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6ImpOQjJzOWJ0V2lyMHQ0a3lQS1VSZnc9PSIsInZhbHVlIjoiWVhkUXJSSlNWOVhSSGJTSFo0ejhZbGdEWEp3WisxNEl3V0U3NXVZdmdneUFSdDR1VkJNMFNWQjVYRnVxdWl0QW1RWDlJVVRzUk5RRFwvaVN5bUp3dXJqMzAzREt6QkkzeUoxU2U1MU5rT3I5SWhmQmwxeWVPeGQ0TDRFbE1GVnM0ZGYyejRNSWJKZjg5T2pyeFJubU5BZmpvOHJTZ1gwTlJocGk2eDdVYzZQT2tEWkx3eXhpK1N3clpocVwvUVwvOEVFUk0yNUk0VUg2R05uSkhBVHI1QVo3SVJ1UlBlSTJyQnhvenFUenBjaWlyejRtZ2tSdnk4ZGtRTXE2MldQZ3ZDQiIsIm1hYyI6ImIxNjYzZWUzZGEzZmY1MGQ4YTgxNmVjZjI1MTEwN2UxODE5ZDI3YmQ4MmQxODBlYTVlZmExMzNkZjAzM2U0MjUifQ%3D%3D&amp;signature=441bcf9d04c470f6857a6e489a4cff20380cdc618f88eca5efe87c3ef1e5ff0d</image>
+    <start>04:00AM</start>
+    <finish>04:10AM</finish>
+    <date>29 January 2026</date>
+  </channel>
+  <channel>
+    <name>Rtp 3 PT</name>
+    <id>Rtp3.pt</id>
+    <title>Not?cias Pa?s</title>
+    <desc>Not?cias de norte a sul de Portugal com hist?rias locais que fazem o pa?s. De segunda a sexta, na RTP Not?cias. Com Maur?cio Jos?.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6InZXeGZYdktiNEY1SXFXZzRwKzBMbWc9PSIsInZhbHVlIjoiQUVReUMxVzM1SWtkQkgwa3ZZelZZS2xJVVdzWVdxVFNRUnpZbXNaQUljRENybzJpY3ZLMEZRa2JXVlhTNVA4bWt0cWd5TTBHN0Nqd3M4UW9hcWdGaTM4bWlIZmt1d0MwZTJcLzNCMHFCMXU1Um9lQ2d6RUo1RnF6OStnNGtkb1dpT0ZKbjhNa0Y2NHJqajNVZVpSdTZMR0Q0cTRtZEdRdkE0bGRKanVtajVuYnoxMTIxSVhOVVUzcnFPbzA0bXBjd1wvN2NnT1ZkSEZDYkRZTkYySzV2ck9UdjM5YWFiWGpCZERYUWpkK282SEFmUU5uTWxYSEh0NEJaOGFlMTN2ZFJrIiwibWFjIjoiZjY2YmZjN2Q1ZjVkODU3YmZhYTA3NDQ3MzY3ODM1ZTRkOGY4MzIwNzJjMGQwZGMyZmM0YjUxZTkwNTg4YTgzNyJ9&amp;signature=964362dcdbace2aa66d8cef01bfcae43fd2774e2e08944023b8a5a08c385c155</image>
+    <start>04:10AM</start>
+    <finish>04:30AM</finish>
+    <date>29 January 2026</date>
+  </channel>
+  <channel>
+    <name>Rtp 3 PT</name>
+    <id>Rtp3.pt</id>
+    <title>Telejornal Madeira</title>
+    <desc>Espa?o informativo para os espectadores da Regi?o e da di?spora madeirense espalhada pelo mundo. O Telejornal da televis?o mais pr?xima de si est? no ar desde 1972 com uma informa??o de proximidade e a garantia de qualidade do servi?o p?blico.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6ImJDU3NYN012NEorVmFGb3hzeks2T0E9PSIsInZhbHVlIjoiWDMrYjl3bkRQdTdKeTRGeTFPXC8rcFJlV294WGN3Q0Z3Q1pWTEFua3g0cFFDdHdMdlVDbDI0cXJaMXVNbWo1eTVHMUlHaG9PZ0ZXMjRcL1o4WHRXZlZNWDQ2TTBOazJnZ0ZTSExJZm9kZ25YSlc3SUhJNUN4STFsMTQ0UFNOWFpjb3NqY2JBWWljcGtsQk9CNXkwMFFTYmhsb3hHN2FjbHViNURrY1pReEFMNVpKdjJMclc0RXNtdGhhNkpBSlpKV1J5cFJUSkJ4NWh2dDJIMWZlQVlSeldtK2lcL1JNNWE5WXlhZ01cL3RcL2wwN2xKZ1FKSW81cnpUXC9UNGo5eHY1eFA3RyIsIm1hYyI6IjgzOTk4MWVmMDkzNGY5OGIzNTU5YjI5NWRlYmY5M2MyMTc1OWNiN2Y4Yzk5NjVmMmRhMmQwMTFhZTYxNzA4ZDQifQ%3D%3D&amp;signature=af5f56edee364f5e4381582444dd177e05a81317e4dfd9e840a0f77ad0156c99</image>
+    <start>04:30AM</start>
+    <finish>05:00AM</finish>
+    <date>29 January 2026</date>
+  </channel>
+  <channel>
+    <name>Rtp 3 PT</name>
+    <id>Rtp3.pt</id>
+    <title>Telejornal A?ores</title>
+    <desc>Diariamente, a RTP A?ores mostra-lhe o que de mais relevante se passou na regi?o, no pa?s e no mundo.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IkxZSkxEWUxuWjNVcklDNjNtUUpsaEE9PSIsInZhbHVlIjoiK1Y3b1hER3RydEw2RDZqZ3BaWmJSS3ZoaHlHYWp2c1N5RXFxcmJ6RVpDZ0VEN1BtUVI5dGdlNHoxYlB3QzhaWkJmS2s4Rndoamtkd0I0TDBORCtwRnF5T0Z1em5BcWxFWkJXUVRneFJUdzRIeFF2SWNycE1nbGtNSnNNRzlMN0FPdXJcL2huTXRkeXhoakltRlRjRVhCZzlRRFF6U2tGdW41d2lNVzNaakpxNDFJUDNpVElqQ2tIbHI2Y0JXRXZISlMxNVA5eCs0RHpZUjdzY0NEVVwvc1wvZEM5QkVPYTZkY0JiZ1dEV09ScEJsKzJzemhJQ1FsdUZNRmFzRUZoa1BlRyIsIm1hYyI6ImZhM2M3Y2Q2NGQzMzQ0YjgwOTRmNjYwNWNiZDFjNzJkMDQxZWM1YWU2YmM5YTBjMTJkMzE3ZDNhZTJkYTFkOGQifQ%3D%3D&amp;signature=04f876192c74ad93c0ea8cc6c464dd58a8fe1997154a864a0cb090b224b13172</image>
+    <start>05:00AM</start>
+    <finish>05:30AM</finish>
+    <date>29 January 2026</date>
+  </channel>
+  <channel>
+    <name>Rtp 3 PT</name>
+    <id>Rtp3.pt</id>
+    <title>Rep?rter ?frica - 2? Edi??o</title>
+    <desc>Notici?rio di?rio, com emiss?o em direto e transmitido de segunda a sexta, com not?cias do continente africano.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6Ik15MWhpSG5BWXhWU2F2WWEzcW9oZVE9PSIsInZhbHVlIjoicUlENnNES1dVeFo1T0Y3K3gya3REVER0ZDBjWThzQlRtQ0ticEVnQ0I1VGpqZ00yazNFQnY4Y0hlbXVOc09NNElidHpGRldzKzFpVlhwTFo4V3dYRWQ5aFZITjFFbkdGZStZeHRcL2dPcjQ1YUVtUmZuNU5BYmxhWE9vTFVFSHcrZFlqcEhSRXc0b0phZWU0V1VKTHZJSlFJNWJcLzBXOFlaeVRXQlh2R3lkN0tcL2wyYWxGNGIwVEEzY0N6cGRLcXB2TXd2a3NQS01zUExnaEdjK2dwbHNxczlTKzBJWXc4eW9YTmdKY3dXeTFhU0dYTWZ0Y00zaFA0eWhkRlpHK3FZWCIsIm1hYyI6IjE2ZGQ5NTRiMWM3MDFiYTlkNDAyZjc0OWE1MmUxZjNkMjRhNGZiMTEwZjRlYjQwOGIxMmVkN2RmZGVhNDZiMGQifQ%3D%3D&amp;signature=9e57e5255d4669fbd0d90eb48d58e55520004ff032bda03d16dcb66ed17ba825</image>
+    <start>05:30AM</start>
+    <finish>06:00AM</finish>
+    <date>29 January 2026</date>
+  </channel>
+  <channel>
+    <name>Rtp 3 PT</name>
+    <id>Rtp3.pt</id>
+    <title>Bom Dia Portugal</title>
+    <desc>Porque ? de manh? que se come?a o dia, ent?o inicie-o na nossa companhia! Todos os dias, o ?Bom dia Portugal? dedica espa?os espec?ficos ?s not?cias da atualidade nacional e internacional, desporto, meteorologia, tr?nsito e economia.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6InlwU3RsZTNPaE5icFwvQjVySWM4ZXN3PT0iLCJ2YWx1ZSI6Ilp4a3F4RXpNaFVQczNwakhKSEhteTc2UFdTdjRtaFdUT3prc1VVU3dCWE5JRTBWcnQzSklFQjlwZDUrVWdkODVtUk81NzAyNU10cDhoVm1lSG84aXliUXEzYXJqOElHNlp4a0xXZjRWeHFYVjV3Y0l4YXo1aFRGTzFKYnYya0NYa29GM1VTR1Y2OUQxS3M1Rnp6TFNMVGhiSkpST1dOSTRzcXJlZ3BBZHlcL0xmenFxZ09WZ1pkem4yYXVrRFdJbWwySUJXZlJwbEY2azJ4OFFKZ051YVVMR21Ed1wvK09nZTRKc05LcWtKaUVlVFRaSXQwRDJKNVRcL2E3OTNlaWdjZ1MiLCJtYWMiOiI5NGIxMmIzNzAwYjNlZTM1ZWU1OGU4ZGJhZjgzZWJmOTRiZWNmMDdiMDE5ZWI5MDJkMDUyYTljOTNlODA4YWJkIn0%3D&amp;signature=8a401e9bcb242d8b057cd579ead4d82601ea1a16ef09da129f4092f52c84100e</image>
+    <start>06:00AM</start>
+    <finish>06:30AM</finish>
+    <date>29 January 2026</date>
+  </channel>
+  <channel>
+    <name>Rtp 3 PT</name>
+    <id>Rtp3.pt</id>
+    <title>Bom Dia Portugal</title>
+    <desc>Porque ? de manh? que se come?a o dia, ent?o inicie-o na nossa companhia! Todos os dias, o ?Bom dia Portugal? dedica espa?os espec?ficos ?s not?cias da atualidade nacional e internacional, desporto, meteorologia, tr?nsito e economia.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6Ikl3QTA0MEVOUGVJMDd1cFM2KzNZZ1E9PSIsInZhbHVlIjoiYVRRWXlrU3pzMXZmb1g5aysybE9iKzlFNTNhd0VcL0lrRnh6d201cGt4c2RITHdzaGs3YWNtWXFFS2hzbWF0OXJZTFF6K2dSMmdHWXdLWVR2THk5ZzNsU2ZDSStcL0hRUEFMOUJ5Sm12bGpybFdjZzZIUmUyOVJcL1F6dHdyRnFYRFZVMGxBbG1KYlk2VHBPWnpwaTJObktneFJRXC9cL0xvN3BWdGowcnpYYWRhTVY3eUZnYTl1bStpXC9sZkloaUR3dG5sa0FBOTFSUUNsYWxqM1RXNkVLU2VmXC91OElUbUhRUGwzS0tIK01uOU9wU1o4YlRVa1Q1UnhnbGdURTZPVisyMTgiLCJtYWMiOiIyMWUwMmY4ODQ4NTU5NTUxYzhhNmY5NjYyY2E1MDliMGEzYzhlNjQwYjhhMWQyMjZlZWU5NjQyMjA4MzZmNDk1In0%3D&amp;signature=610c524e9009881e6bc1d8744ba873b1bc81b9ff07eb07afa3f2a87f9cdc6140</image>
+    <start>06:30AM</start>
+    <finish>08:30AM</finish>
+    <date>29 January 2026</date>
+  </channel>
+  <channel>
+    <name>Rtp 3 PT</name>
+    <id>Rtp3.pt</id>
+    <title>Mundo Autom?vel</title>
+    <desc>Mundo Autom?vel destaca os temas de grande atualidade: autom?veis alternativos, seguran?a, tecnologia, design e concepts assim como o lan?amento dos novos modelos nos mercados nacional e internacional.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IlEwcWZacjhSQ0NBMnN2U25qZXFjdGc9PSIsInZhbHVlIjoiMmZMN3NscVwvbW5VK0RvYnF3MHoyWFdOUTdjMkF6UGNac1EzaVVZeUJyXC9idVRzUDFXNzhjXC9DVGRHYlFFU2k5a1ZlQmVVUVgwRG91XC9xOWV5R2pDS1AweWh5Rm1oSmJNUWw2Zm51RDJwcGd2bUdDT0hKZ0NSalwvaEtsem5McEtsaXBZaGcrYnpqY2txclpwbjhhWUxRbFBtTHNjWUg2SXhvMXpRQVVLbGVXSGozR0l2RHVxaktrb0ZxTlo0T1ZHQ2hia0FvXC9cL3ZTV0dUY0hPc0pSRStkK2RFMmtNU1ZpdGx1cGRTRG93OFlQUGZzY29KRElVNUluNWJhYkxPeit5dkoiLCJtYWMiOiIyYzc5ZTk3M2I4OWY0OTc2MTdjYzM4ZmUxOGNlMGI2MTM0YWRkOThlZTU0NWRhOTNmNjAyYjQxMjcwYTU1ZDlkIn0%3D&amp;signature=156a3804abde15c24a439665633bea50ee4955de4e5f0b22a4bd0eabdda02532</image>
+    <start>08:30AM</start>
+    <finish>08:35AM</finish>
+    <date>29 January 2026</date>
+  </channel>
+  <channel>
+    <name>Rtp 3 PT</name>
+    <id>Rtp3.pt</id>
+    <title>Bom Dia Portugal</title>
+    <desc>Porque ? de manh? que se come?a o dia, ent?o inicie-o na nossa companhia! Todos os dias, o ?Bom dia Portugal? dedica espa?os espec?ficos ?s not?cias da atualidade nacional e internacional, desporto, meteorologia, tr?nsito e economia.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IlFETEdMcUFKSm5QM0dxcWJ1blFoVFE9PSIsInZhbHVlIjoibk1vZ2cza09pZVUrbmdmbzhPQ1h1MmtTU1FiV3lhMk1BQ2xYanpNQUtBSEpUNHZWazZ2VFBvVUlyekxRTWUzTDhiWkwzZUx0N3d3QktzQzFsSWRxZlpFTmNab1wvcmttczVRYnc0N3owVm14TEFUYU5xRXhLRnhaVjN3djVqQTVIMkk5Ylo0K3NTckZFMDJNZ1BsS0hcL1hcL0o1Y3NYTXd4M01cLzZUR1RYTXJ6VE5NVUhoQWdtTEtBXC9XSDNWNlwvMWl2TnVNblVoQjVBXC9QT2hpU2FrM3VsSVAweUc3MmdmWndTaE1SSmZBOENiSmdMWkxzUVl6d2UxRVFxT3RWcUVYZ1MiLCJtYWMiOiI0OTg0MGZhMzNlM2RhNzdiMDAzMTNhNTVhOTAwNTc1ZGM1MzE3MjMzMWFkZDViZDEyNTc0MmY1YTYwOGQ1MjVjIn0%3D&amp;signature=8f0acd5b1bb55c5f53581f6df642b26c0b71671202393f2c95f18128f5580d85</image>
+    <start>08:35AM</start>
+    <finish>09:25AM</finish>
+    <date>29 January 2026</date>
+  </channel>
+  <channel>
+    <name>Rtp 3 PT</name>
+    <id>Rtp3.pt</id>
+    <title>Esta L?ngua Que Nos Une</title>
+    <desc>A origem das palavras e curiosidade da l?ngua portuguesa, com o professor e linguista Marco Neves.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6ImFyaFVQdDlRd3lKZFlNdzFWdUNTSlE9PSIsInZhbHVlIjoiaWpSVWo1K0Rxc3QxbkdNOE1oQ1g0SmNldmtSSVNWYUVndnpoVDRcL2l2eFd3cnF1NUlkU3dwRVRVb0xKTm05eTVycXdGYVNvQ1pKRWxoVWlaU3RNRlRkXC9oRTBrb2U5TEg4SWlSUzdNd2E1N3J5WVdkOVBJckdUZnI2R0pzOGlcL29UYWEzUUc2U0d0TUtoVUd2elVJckg5Z204YTd2RzZ6TXFWUEd1cXFTY2wzOTdpVVViXC9WNXlLVnZPQW1NRUNQajVqQjE1eThoSFwvbURqV0VrQlJCV21EeGpnaXpSdk1HblZqeTduT25lcE9uRjVScWowQTY2c2JBSExCa2ZraGhYIiwibWFjIjoiMTY1ZmQ3OWFkMGExMWY2MjNlNWE4ZWQ2NzAwNDU5NTNlMDkyMTg0ODViMWI1NzgzMzU4OWE2MmFlMDlhMjBjOCJ9&amp;signature=85c655780ecbae4031cc3c8ab3bf0d40f9567e078be63c68cdc01912a6c82b8f</image>
+    <start>09:25AM</start>
+    <finish>09:30AM</finish>
+    <date>29 January 2026</date>
+  </channel>
+  <channel>
+    <name>Rtp 3 PT</name>
+    <id>Rtp3.pt</id>
+    <title>Bom Dia Portugal</title>
+    <desc>Porque ? de manh? que se come?a o dia, ent?o inicie-o na nossa companhia! Todos os dias, o ?Bom dia Portugal? dedica espa?os espec?ficos ?s not?cias da atualidade nacional e internacional, desporto, meteorologia, tr?nsito e economia.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6Ikl5dkswbjBwT042Nll4MFpoNzRUQmc9PSIsInZhbHVlIjoiWFwvdFhiYVI2Um0rTDBMbExwQ3RlcURjdzRGbEFoQXAwYXI1eUFwU0pUVnUyd28wMUh1anZXdGFuM0JUUVZSaTIwRk0wcFlia3ZcL0preklET3dNQW1XdUNJNytaMExXaUhHWUV1U3YzVXBlWmh2VTJxWGQ1aGtieDJzeUFRVG4rN0U0aXJsOUZMYzB3a2FYM3NuYXJHNUpSczFFblI2dDBJbGFjRTJmQlA0c213UHlEUCt6ZjA1cVI5ZmJsWW1jdm5FbUtyYVR6TnE3VGpLc1FMT0FkdSthMzQrKzJyK1FYUXE3VnZRYW85OVV6MDY3elRmR051YVwvWWloK0t5VFIwUCIsIm1hYyI6ImIyMjk0ZDdkZDA0NjVjNjFiNTA1MDVhZDA0ZDFhYjU5YzFjNzVjODZhNjdjMGM3ZWQ3ZDAzMTE4YzgxMzE1ZTcifQ%3D%3D&amp;signature=d99596faae3fd23322006d1feb65c16d6807938e0ad826c76fc9348f61a8c58f</image>
+    <start>09:30AM</start>
+    <finish>10:00AM</finish>
+    <date>29 January 2026</date>
+  </channel>
+  <channel>
+    <name>Rtp 3 PT</name>
+    <id>Rtp3.pt</id>
+    <title>Not?cias 10</title>
+    <desc>Informa??o atualizada em direto, com os temas que marcam o dia. Reportagem, entrevistas e an?lise. O pa?s e o mundo na RTP not?cias, com V?nia Pereira Correia e Jos? Ant?nio Pereira.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6Ik5UZU1uSVwvaFZlUHVRS1VuOWc5dmZnPT0iLCJ2YWx1ZSI6ImYrcWhIVE1nVG15d1crXC9VMHYzZUZcL2hxMm9hYnAza0RQNVRlbzZPUFhvUUJMUUg1OW1sbFVxbTBYb0w3VkQwQzN1MU1yMEo4TkFSZ1J3N1VLZjd3S2F4VVRUY3UzVzNTbis2amFzUGV1RVYra3l3RFE0eXBFVVVXWWRhQis2VVo5THZRTE90OEtoWktWSnFNbTZ4UWFCQjlnY0EzMjJMSGh4TXc0YjJOSndLMTNVdlZhVWRmMmlpTklJK3VNZDk1UGZHK0NvOWVaejFteFNMTU03dmVoVTBRTmUwcUVleVp3dmRIOVBXRmhrWjhPUVpkVjRCVkRRamJFYzlXbWZSNyIsIm1hYyI6ImE1NDNmZTAxZjQ2OGMxNjFkNDY2ZmJhNzc2NzI1ZmFkMjIwYTE5NDg1NmJkNTc0MTM0MGUxNzkxOTYwMWUxZTQifQ%3D%3D&amp;signature=217b10cefd7cc7af9f1a296df735dbe965b4354a4c980b8da9ad7c8d2eb15092</image>
+    <start>10:00AM</start>
+    <finish>11:00AM</finish>
+    <date>29 January 2026</date>
+  </channel>
+  <channel>
+    <name>Rtp 3 PT</name>
+    <id>Rtp3.pt</id>
+    <title>Not?cias 11</title>
+    <desc>Informa??o atualizada em direto, com os temas que marcam o dia. Reportagem, entrevistas e Jornal de Economia com an?lise em direto. Com V?nia Pereira Correia e Jos? Ant?nio Pereira.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6InlkQlZLdTVRRXdjYTE1RkhUZFZ5eFE9PSIsInZhbHVlIjoidEc2dElSd2c4NGxUR1JEdFluVkJWcFVwUG53MFVsQVRpTVM5WGV5aGhkUERldGhDdlZsbG9XaFwvNjg3SFhLSktVSSs0SVhVSmtmWHhBTkt5K21cL05UNTFmQU4rd2NDQ3FlMTc5MnQ4M0tlcCt6Uk9ETDNVNkYyRmZIM09QUHFadjNKdmtVYjR2ZTNscW92UnhpXC9DR3FZWGp3SlFLQ2VSXC9DVjIyY1ZscFlqWmJZanZUWk9UeWI1Nndyb0pZSUErcmpYUHRiWWNGclRONE1PQkE0Ujk3a2FhbU9CYWo3cmdXWGo0T1RDR0ZjR1pKMTBqSU1DYkJmeENETFwvZURSMGRTIiwibWFjIjoiODkzZWE0YjE4ZjRiNDY5NGFjNDQzNTk2MWQ3Y2Y2ZDNkZDY5YTBjNjk2YmU2MGFlM2NjNDQ4N2EyNjQ1MWQ1MSJ9&amp;signature=bd3c81581a212028c2d0fbe7d09c7fc71b03b61a76631269a8ffcbb2082c0a3e</image>
+    <start>11:00AM</start>
+    <finish>12:00PM</finish>
+    <date>29 January 2026</date>
+  </channel>
+  <channel>
+    <name>Rtp 3 PT</name>
+    <id>Rtp3.pt</id>
+    <title>Not?cias 12</title>
+    <desc>A meio do dia a RTP Not?cias apresenta os principais desenvolvimentos da manh? e atualiza a informa??o desportiva no Jornal de Desporto. Com V?nia Pereira Correia e Jos? Ant?nio Pereira.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IjZWZnNMbHJ3MzZGc09pXC9mY015VWtnPT0iLCJ2YWx1ZSI6Ik1iZkFoWDdYQTdSVllQODFCdUZBWStMRXdvcHZ5SitvYU9idFwvK0NiZG9wUHdpMzdHRzhvVkdMOHpGamQ3Y3pWeG5vcVpuXC9hS1lVN3ZoVjRhMVZWWlB2TDVacnJud1NaMzBZWEZRNFl0akdlZDlUczNDVTN5WTVNaG5HaDhabVBCQkgzZ0kraXBWam5MRWdjanZqYUZHNWxheEJKNllMWVVtcTBBbjVhSjFIcE5PdkxTbFVYd08xSnFkSWNnTkNTWmZ5bEt2NTNGS3kxdmdqUmF0bzhJNkk1WERRVTZJNmhjdjJrUE45bENmanArVk5IeVZ4NnVpR2gzdjhLeE1zQyIsIm1hYyI6ImU4ODdkNWM0NWIwN2VhYjMxZTQ5NDVjMjZjNmRhN2RhY2EzZDBiYTE0NzZjYTczZTNhOWFiYzI4MDQ4YTczOTIifQ%3D%3D&amp;signature=937cce6872065e70b34b66f42c92303421ec03281e33e22e72bb4bc165e84d9e</image>
+    <start>12:00PM</start>
+    <finish>12:45PM</finish>
+    <date>29 January 2026</date>
+  </channel>
+  <channel>
+    <name>Rtp 3 PT</name>
+    <id>Rtp3.pt</id>
+    <title>Not?cias 13</title>
+    <desc>Informa??o atualizada em direto, com os temas que marcam o dia. Reportagem, entrevistas e an?lise. O pa?s e o mundo na RTP not?cias, com Alberta Marques Fernandes e Carolina Freitas.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6Im5hcWhDYXVvek9zUUt5UlNaRUFublE9PSIsInZhbHVlIjoiZHAzaW9zTFhOSjZ0MGRZWkU4aWRhUEJMOHNYQzE5dWNnK2w3STFWS2s2Q1wvU21EbkIrWUpkcVdSUW9MSnNPOGRrMXNvR2pvd2lDaG12ODhMTWlFXC9jWDBNY0UrVm1QU2tyc091RFFyS05Cejd1TG1Sd3BLdHB3cjFhekZyaTJDSDNoK0lMb2V6UFwvRURTZ25yRjRLNEhRT0V3eSs5R0hBYlVEbERVZXdIdFFraUhuMDJcL3duVDF0aks0QUdndmJGejdQMjU5bURsZ0hlbTZlemtCRnVxUDJKTWJYWkZOcDZweHBtYiszQVwvZmtXeWZkQjM3aWVaMFFuQTUzXC9zVFk1ViIsIm1hYyI6ImFiYzgxY2NmMTJiZmVhN2E1ZmI4MzdjZGMzYzE2NzczNjNlMGEwNmU3MDk5NzMwZjc5OWNjYmMxMDhiNDk0OGMifQ%3D%3D&amp;signature=2e538db3a31f3c6b1525682e811450c337c469532d5e9ac0297692737dc63f19</image>
+    <start>12:45PM</start>
+    <finish>01:45PM</finish>
+    <date>29 January 2026</date>
+  </channel>
+  <channel>
+    <name>Rtp 3 PT</name>
+    <id>Rtp3.pt</id>
+    <title>Not?cias ?frica</title>
+    <desc>S?ntese com atualiza??o da informa??o no continente africano, com emiss?o de 2a a 6a feira.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IlwvOFpraHRUait4dEdGOW90dGx0SXJ3PT0iLCJ2YWx1ZSI6Ik5DU0NwUGdsWlVMdkdLMUdjbXo0YmkzNjV1T2E0MkNqUXZQQ3U1Tnl2MTdEOW9CSEFybXdsTlpGSTB2ZVZhbnpCbStGMU5WNXVDclwvMGV1RFIyaFlWVjRpK1dvcTV2T3BncHIwcXBHSklLTlNDWDBXc3AwblplRFNnZlp2ekF5MElxdXh3Y0lBV1o0bGhqM1pPeHdSbGNkRGo1dUlqV1lcL3RYRytMaWV4ZEhwaGQyN3BQVkJ2b2dyYmNKOW1XeHZUWWY0VU9ySllqWDVoc0NlK2ltTVhzTHR5cERHTHdxWXFzNTZmdmZHM09xcjFwZ0I1QTFXK0hFbFwvdm84dTNWNlwvIiwibWFjIjoiNzAxYmI3ZWRiNzUwZmZjYjEzMTdmNThiODg3ZGMxNzE3MzIyYTYxMGIwNzI1NWE2N2JkNThhY2MyOTY2ZDdkOSJ9&amp;signature=13e5eca055d7fe95b081604a22eaff90aa328d00495bba28490471557d9f01f0</image>
+    <start>01:45PM</start>
+    <finish>02:00PM</finish>
+    <date>29 January 2026</date>
+  </channel>
+  <channel>
+    <name>Rtp 3 PT</name>
+    <id>Rtp3.pt</id>
+    <title>Not?cias 14</title>
+    <desc>Informa??o atualizada em direto, com os temas que marcam o dia. Reportagem, entrevistas e an?lise. O pa?s e o mundo na RTP not?cias, com Alberta Marques Fernandes e Carolina Freitas.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IkVQTlBwQnllTytTbDdkRkpsQnRWRHc9PSIsInZhbHVlIjoiXC9pWWk3NmZoNUNsdUJHVEZ2SkM1dFwvYnZTZ1ZKaEhYZnEwUzdyaW5UZE1YNERVUG1jVWFKTzBmOG5hT2xkbm03VVJaSm1EbVJyK0hJM2lDczBBSTRpMkRlWlZ0KzlySWhRVktNb1c1b0J0UnFGTnJsbVB5ZjRXbzR3RHhNQkljeCtZVDl5Q3RoZ1BBTFJ1cmZuek1wKzFOYjkyRk1ScXRYWXFFbGk1Q3hSWEQ0NWdiXC9DVXI0MEsrM2dkTWNDV0xJQ1lCMko4azA1V0JaZlRuWTkyc0s1aEFacVFONkFLOVkydHJsRzRKdzkwZWFuMUNGaDZwRzRtN0FES01qbWZodiIsIm1hYyI6IjQyYWJmZjlkNzgzZTFiZDMxNDVlYzE3YjZkYzAwYWM4MjExM2RhMGQwY2M2YTcyYzNlNTJmODJhN2VjNDViYmUifQ%3D%3D&amp;signature=463f37039956e15705c38738bdb4120f36b89f8b70e7d42e2a99181e9cb5f88d</image>
+    <start>02:00PM</start>
+    <finish>02:30PM</finish>
+    <date>29 January 2026</date>
+  </channel>
+  <channel>
+    <name>Rtp 3 PT</name>
+    <id>Rtp3.pt</id>
+    <title>Not?cias Pa?s</title>
+    <desc>Not?cias de norte a sul de Portugal com hist?rias locais que fazem o pa?s. De segunda a sexta, na RTP Not?cias. Com Maur?cio Jos?.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IlErajgxdGQ2U2lCVmxnUXR5ZEM3U0E9PSIsInZhbHVlIjoidjZiemNXYkxnQlQ2VGxBM2FvRGdSQmlDeFlFcjhCdlN0clZ3czJIUG1cL2NtVXg1aFJ0V3RMXC9JbVwvUzFZU3lPTnk3bllGdmdSOFMyNUUwcWcrWFZVTW9HV0gzWEF4dEJhcHBtTG1pVHdvbEdDbjhMRjUxQWtXMUVGSUhBOFJqak9WajFcL0I1TkRVK1RLVGJzUE5SS1p2TDZLdkRYRFc5MmxGWmRQTkdxXC9Zb3F2UmkyK3E3ZnRKWW5HQ2ZnakxpbnNaWWptc09aWitNK1AwVHhvYlgwKytpTm85MFprTWhGeXlyTk1zbmhvNGtrMmNIR1B6V0VaeCt2eDcwYmU4REtnIiwibWFjIjoiNmZkYjg3ZTg5YTdkYTAwNmVhY2E0MWI3ZDY1M2E1OTZhOTMzOTQ4ZjEyMDU2MDI4NWM3NzQ2MTlkMjc1NDZmOCJ9&amp;signature=d3db3225f4e56d2b80fbe4e87f719f9eef72b4b7d35c783b899947823a7d577e</image>
+    <start>02:30PM</start>
+    <finish>02:45PM</finish>
+    <date>29 January 2026</date>
+  </channel>
+  <channel>
+    <name>Rtp 3 PT</name>
+    <id>Rtp3.pt</id>
+    <title>Ensaio</title>
+    <desc>Com depoimento de F?lix Ribeiro, Diretor da Cinemateca Nacional, e da atriz Mil? este programa aborda a carreira nacional e internacional dos irm?os Helena e Tony DAlgy e o seu misterioso desaparecimento do mundo do cinema.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6InZMbW9CazJvS0czTk94NEROQWloMmc9PSIsInZhbHVlIjoiNkYzWXo3K1wvdnlYczBLNUtoMW04TGNKaGs5QlJ2RU1TVlNcL1wvazRMenR4bktMZ1FxVk9aU2ptU05YdDlQWlwvZE1ubVwvMms1bWkwZ05vZzNqZDk3Ymx2clJ3VmdRUGx5bzJReUdHQUlXS1RpSlFYU1hYWEZzb0UyTnc1WlA4UFpFdmkyNE1TU1Niem1vS2w0YjdodXYyVERsYldRU0QwZzN4d0o4Z2tvSThsdjlWbXk0MytPOUQxSlBVenVIdWhNb1MyTWhGY01nalNjTXVYUmhCYWo2T0FGSCtZVThPYjVDQ0ZkS1pMaFwvSktLV1pnOWQrcW5pdlBDNytqNVlGNnBYbyIsIm1hYyI6IjQyNDg1ZjQyNDU2OGU3YWYzYzFlNTlkNWIxNDVkODYzNGUzYTg5ZTljMGM3ZDRkOGNkMDUzNDM3YWVlYWJjMDAifQ%3D%3D&amp;signature=453e8923f32613e48457584ca5671d6cd2d428d86432c7d79a7d23b4c3ad60fe</image>
+    <start>02:45PM</start>
+    <finish>03:00PM</finish>
+    <date>29 January 2026</date>
+  </channel>
+  <channel>
+    <name>Rtp 3 PT</name>
+    <id>Rtp3.pt</id>
+    <title>Not?cias 15</title>
+    <desc>Informa??o atualizada em direto, com os temas que marcam o dia. Reportagem, entrevistas e an?lise. O pa?s e o mundo na RTP not?cias, com H?lder Silva e Cristiana Freitas.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6Ijk4RWQ4V2liYXNOVFlRREM3dTd5YlE9PSIsInZhbHVlIjoiekpjcm1IRG5XclZ3MVVhZXRIRFY5cWkzbXZtY2pNd2xPT2VpRlZUSk1Lb0E5dURMMFQ4UnRuYWlNK0k0TTRvMXk0QkVuMDZcLzEzQTJ4ODRmS3hidlVtZkdtUkhWM2FHZU9DQnpqYWJkYzFMQ3V0TGNNaUdMRzV2N3dJb0daWVpIdlIwcFkzOEYwcVl2d3IyR1owbG1maDJpb1NRbGJSK3dYUFVZbGFqNnZIM2tRQWxPWnVHcCtwSklZZ3RjYWRxOXA0ckVKTHBDdHE4czI3OSsrOCsyOGg3VjQ1ZklJUm5BRWNLS1JIK2s2b3ptWlFYYXM5eTJkZE9rY2pWSmljeEkiLCJtYWMiOiI5MWUzOGM1ZjMyMGRlYTY1ZDMzMzQwYTQ3MTM3MzFkODcyMmRhMzU2YjBmNDc5YjhmNWNmMmFlYzI5NTNlMDljIn0%3D&amp;signature=d867a9966bedb0be42469cc8f8e8f9d853f7f33f2835b963abf0e1b36e15718d</image>
+    <start>03:00PM</start>
+    <finish>04:00PM</finish>
+    <date>29 January 2026</date>
+  </channel>
+  <channel>
+    <name>Rtp 3 PT</name>
+    <id>Rtp3.pt</id>
+    <title>Not?cias 16</title>
+    <desc>Informa??o em direto, com os temas que marcam o dia com H?lder Silva e Cristiana Freitas. E ainda as not?cias do mundo desportivo no Jornal de Desporto.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6Im1HaHptVUFER3o4Z1hBMXpyWnMrVFE9PSIsInZhbHVlIjoiaDFGVnM2R0RrS3hcL3VJcFQrWUtnQnBocUFkdjFBTElHVzhjVkRtODB3b2RqSHd1RTNVS1JPQllWVWEzOFZNaFNvcTBaUTVvYk52UzlaaFwvOFRmaXZcL1Z5RllSaittYzhiT2xxNFFLaWM1aXZrM2NNcEZZMkRoYjhtdzR0S1FFc3dwVDZHMjVpUWdjWkNjSmtKNnJhZFkzM0NmZ2FUSFVTXC8yRytCNDNURCtvTWJFMnN0cXJjXC8wK2dVUDdwN1ppMGR6VnBLSWNISkVCSktVbzhFZEJ3V2NKTFZyQnhHVjBNZmJtNnRmMlg1ckdyVHdseEtoTDAreXJKbHZVemczaVVwIiwibWFjIjoiNzE3NzRkYTYyODYxYzUyZWE1OWMyNTBiNmU2MWZhMWVmMmViZDk2MjMwMzJiMTdjNmIyMmM3Yjk5OWExMDQ5YSJ9&amp;signature=ab52c7f33858e644439d035d381e5cbce0ff3f60b1d5201bbf285816e481159d</image>
+    <start>04:00PM</start>
+    <finish>05:00PM</finish>
+    <date>29 January 2026</date>
+  </channel>
+  <channel>
+    <name>Rtp 3 PT</name>
+    <id>Rtp3.pt</id>
+    <title>Not?cias 17</title>
+    <desc>Informa??o atualizada em direto, com os temas que marcam o dia. Reportagem, entrevistas e an?lise. O pa?s e o mundo na RTP not?cias, com Ant?nio Esteves.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IkhUTWZSeDZ1cGRmb1FcL1JESzRuS29BPT0iLCJ2YWx1ZSI6IlF4NmNSV3ZYODA5ZFhmSHBuWXY1WnNCUmlCbU56Tml1VGk0cXNrVVdkWnFHWitKWHhOSWk1UE9OSGRab2lIQTZyMEJDaWxhUit6TTYyZHgxeTRKb2RFQVFwREN4Rit4d1N2eTcxSVJvb2VcL05vdHZQTFJlRE9IT0tPMmdydUtLcEkrYWpod2w2WTZoeHZhNVdFcllzQVduVkxcL0o2cWpsMjFmYzZVdmVSNk52eDZ6cVY3VFYxUWVuampqVmlIWHc4Y1lsYVpURXRtTmJJUVwvSVFUR1wvN082UGZ0TGk5eDBpbnZkUFVXOWxkYXIyNHZ6MDcwVk41eDhTTVZZdTlQbFBhIiwibWFjIjoiODAwODRlYjg4MDNiMTBlYzQ1MDQzNGI5ZDlhMzI2MDIyNzNhNDdjYWJiMzA5Mzc4ZjI0ZjE2Yjc1YzFlODhmZiJ9&amp;signature=24e3809d3755277fb1dc8dace0e4b52ca11f6cfce25fbf7d96489954e0b2a78f</image>
+    <start>05:00PM</start>
+    <finish>06:00PM</finish>
+    <date>29 January 2026</date>
+  </channel>
+  <channel>
+    <name>Rtp 3 PT</name>
+    <id>Rtp3.pt</id>
+    <title>Not?cias Seis da Tarde</title>
+    <desc>Na reta final da tarde, os factos que marcam o dia. Atualiza??es em direto, reportagens, an?lise e Jornal de economia com coment?rio em direto. Na RTP Not?cias com Ana Louren?o e Cristina Esteves.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6ImswNWRcLzV6N3BqSVZyNjFpWFwvRkJ4dz09IiwidmFsdWUiOiI0VnNPOHlPZ01URnNTYkcwZUk4RThDanhyZURuRHdZcGRkOVlZeStUWVNxM3hJdGM2S2piR2l6T3ZcLzE5TEhTS3YyWFhEUHBxN1RaTE14bFFNXC9iK2ZzdFRBSkZcL1RwU3B5ako1VVdRbGJubk1zSHZiUGNMbU5jTWpqTnZNUWkxSG5KbWVRZmUwZk9ycTI3MkV2bU1YejFWUGo3MTJcL3FIRVpIZmNZRFN2dEF4MVRpRVVEM1BuVENhZ2xGVU1ucWdFU3BcL2dyVUFzZGZEU1hvWWpNQjRNSGY2TStwNFkrTnZGYWhWSlZIOWd4S1NwMmhIMDB2SFhoaDJ3ZnM2RXRBN20iLCJtYWMiOiJmODhiNDYyMzliYmEyZWE0NzM4ZjU5NjU2ODZmYmJiNzI0NDQwODBlNDllMjU2M2JkYzNhNzUxMTljMDQzY2JiIn0%3D&amp;signature=e416d99df8c25ece9541fda19614735ffaa2d163a70b2625f1f530d68cf8f1c6</image>
+    <start>06:00PM</start>
+    <finish>06:58PM</finish>
+    <date>29 January 2026</date>
+  </channel>
+  <channel>
+    <name>Rtp 3 PT</name>
+    <id>Rtp3.pt</id>
+    <title>Telejornal</title>
+    <desc>A mais rigorosa sele??o de not?cias, todos os dias ?s 20h00. De segunda a domingo, Jo?o Adelino Faria, Jos? Rodrigues dos Santos e Ana Louren?o mostram-lhe o que de mais relevante se passou o pa?s e no mundo. Se ? importante est? no Telejornal.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6InV1YVVTN0dCMnJYcUlFK04wcXdyd2c9PSIsInZhbHVlIjoiNGhIOFdLMitMVUdzT2Z0ZVJMWmduaVYzYkllclVBd0ZOTFJcL2xzclZhbnFnYnRTWFNtcTNXUnlyQ3h0Q1haNUlkOEZ1YjZCY3FTcU9DUzB2VTFyRzdPZXFQeTFScldJT2Z4MnN1T3kyOGE0TmV5V0xiUldoN1cxYnB5OExoVE5VMFJMNHJrSDBCSmJTZ1MrYTYybDJLOWpcL2hMNGNjdWVMM2lnRkhDeCtEU3pyT0hodFpPWHJZVmxUc1F0d3NJSlBpOTJ1TGVPbmRCXC83eVJYRlBxcTNWVm1TZzFhWmdCYloydVRhTk1GSjNqbkxFVnNFeW9YWkQwSUUxNzJLYnEzayIsIm1hYyI6IjY0ODU2N2VhMmM2Nzc2YmQ4NzRmOGI0NjA5NjJmM2NkMzYyMGJhNDRjMDg1ZDI4ZmUxMzEwOWU1MDRjNmZlYjgifQ%3D%3D&amp;signature=35df062d68fd5f863652b4db82e7f2004a5ea22beffa8f8090df6f5a4c3481b7</image>
+    <start>06:58PM</start>
+    <finish>07:30PM</finish>
+    <date>29 January 2026</date>
+  </channel>
+  <channel>
+    <name>Rtp 3 PT</name>
+    <id>Rtp3.pt</id>
+    <title>Jogo Pol?tico</title>
+    <desc>Tr?s partidos, um debate di?rio. Ideias em confronto com modera??o de Ant?nio Esteves.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IlhJRk5HUHlid0o2MHBibVZwYmpRdWc9PSIsInZhbHVlIjoiZGdcLzVUbWVzM002eHJUQ3hGS1wvWFc1T29DU2tNV3BKNVMzVDdEbjRCN3EwTCtiTm1FcWRTUFpaRWFobjd3K2czUFVxazJcL0dyS1wvdXlMdWZ6dUhLK25tS3J0RzlVMXQ5UFwvVWZTNXZNWHVUaWl5SU42d3dmeWV6NWFOWDE3c2RQRDhMUnNabHZSeGNwNFRJSXdBRWdodTZhaHJrazFKRFpVQU9cL1lJZ0JISW80NjhmOVJHbUQ2cXZ5bFg2RlgrTk0zQlZWc2xtdmlUV1N2WGdrMlFoQTJLbW1Qd2dFWWQxVFZvakZ2bWpqXC9cL01rVytPM1ZtdnpiQzJvUndSeVd1Qmt4IiwibWFjIjoiNmMwMWRmZmVhNTQxYmRmZjQzZGFiMDMxZDkyMmJhYmY5YmViZDRkZGRhNzgzMzRmMDlmNmUwYzgyNzA2ODVlMiJ9&amp;signature=7e4eb22a75c87b51c3cefd9e27a7f795c40a7ac96aa6c3e2e815071dace7c867</image>
+    <start>07:30PM</start>
+    <finish>08:00PM</finish>
+    <date>29 January 2026</date>
+  </channel>
+  <channel>
+    <name>Rtp 3 PT</name>
+    <id>Rtp3.pt</id>
+    <title>Not?cias 20</title>
+    <desc>Informa??o atualizada em direto, com os temas que marcam o dia. Reportagem, entrevistas e an?lise na RTP Not?cias. Com F?tima Ara?jo e Beatriz Veloso.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6InFXSnFUWWJ1ZHJPRE56SFpLUDJrNlE9PSIsInZhbHVlIjoicnFuOVNqcEpta1c1K0lkT0VUSjA5aVI3R0gyUHhwdk5tWGkzMGJCYTczak8za2hGTFpTeVpJMzJhUjFRUGpXcit1UUFLTG4zRDFzWFwvbHhZWjZmYVI4eDFDNDk4Y0cxMU5wYlFLaFwvQ1VycHpXTm5mZjRlbHNCRUNUTVRMbEJcL2dSYXU4XC9lMEFzMHcrUmlCbXlQZUZPZFFMT1E3ajRXalJRKzQ0NndCRDM3Y2xKNURDV0dNTWozYk5wems0cXdsZ01mOHA0MmVuM0x5V2UwYklGRE5rT05sVHdTTEtRaVwvYm5VOFFMQmFjWTVHRzhOS1hvcmNsXC9QYjFoK3BWTFlWbyIsIm1hYyI6ImMyMmNhNzZhMGM2ODU1MjhmNDYxNjBkMTBmODZlNmZhNDA2ZWM3MzUyMDVhMzRmNjhkZWUxZmI4MzVkNzU0YWIifQ%3D%3D&amp;signature=3983fd944abc8d7e048c1ae37f0797928d3206ca515015944a4b2f3e8cef5afd</image>
+    <start>08:00PM</start>
+    <finish>09:00PM</finish>
+    <date>29 January 2026</date>
+  </channel>
+  <channel>
+    <name>Rtp 3 PT</name>
+    <id>Rtp3.pt</id>
+    <title>Not?cias 21</title>
+    <desc>A atualidade nacional e internacional em destaque na noite da RTP Not?cias, com Jos? Rodrigues dos Santos e Jo?o Adelino Faria. O rigor e a an?lise com os protagonistas que fazem not?cia.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6InRlb2ZWR1hidUNvVFpYeTFmQktPQmc9PSIsInZhbHVlIjoicHZTNkp6RmZCdUE1bzh0TWY3VWNHaUcyVjZ2Q0dNVUJRTUhhQnU3NVJTMjl5Tk9SdERXdlJZTkc4V3Q2d0RkS2ZnY2ZHNHV4S3AxeTB6dWFvNzRHWDZXaFZPSnpDaU5sb2ZKTGF4THo0NzdCQmVaa09lMktORnFsNjU3UDUyTEVldG5jcjlxY1pBVDZxSmRcL1BESW9jQ2NVemxSR1hGVUZXblQ1dUpBdWpPYjdzSGU4bmwzZUJNQ1RwWDBQRmlyU3pIMnhYd2xqXC9uRkRIcit2eXBvclU1Nk43dTB0MEpwZFVQVWxSRHdQajZCTndIKzIzVEdSM3NhMUQwYjd1RXhVIiwibWFjIjoiZjFiOGQxYTJkMjlkNzg4MGI3Njc5MTI3MDlhMzU5OTA3YTkzNjNiY2RjNjY4MDE3OGRmY2M1OWFjZDJiY2Q1YSJ9&amp;signature=cb601cea2342fe59d7fd8f8a26e7374b9d9a1188dc879d22f82c0f667da9689b</image>
+    <start>09:00PM</start>
+    <finish>10:00PM</finish>
+    <date>29 January 2026</date>
+  </channel>
+  <channel>
+    <name>Rtp 3 PT</name>
+    <id>Rtp3.pt</id>
+    <title>Not?cias Noite 1? Edi??o</title>
+    <desc>?ltimo olhar ?s not?cias que marcam o dia e a noite informativa. Com Clara Os?rio e Pedro Esteves.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6ImJpYVdnV3VVbWFzRmtUS0JKN2RJVVE9PSIsInZhbHVlIjoieVl0WERGUXhNMnpsaldBV3lyeWZROXdybVwvXC9iQkc4Q05MbFFPSml1a1dGdmVqd09RdmtNc0s1MlFkRWZiUHpXUzY4OWY1WloxYk5ROU8xNVRvcmVJSmt1d3k0Wk9rWHVjN2xWSXdEaldLQ01oWFBkdVFrekxkTTFyWWJpQXZRaXJZU1YrcmNKQVI0TGFaY2FNbmJqTmJORTZnS1NwdVVlcGdITkNPVFF4MmwzZ0ZZeURsVzUyejdLTk1ESjYyVG1ndHlQcHVpUjExVkVYTyszcis2YlZUUFY4d0VPTTlZK0lOQlBESjZjbHpIQzBXQys2R1wvQzJGTm1VK3NmV1wvY1ciLCJtYWMiOiI0MjZkMzQ2ZDYwY2E5YmIxZjJiMzc5YzY2MmY1ZGRlMjc2ODFhYmM4YTAxYzBlMzk0NjFiZmRmMjlhYjdlZWI1In0%3D&amp;signature=c08d287722125040a7de43d39c2ba4f55f462febc805caff736f5ec58cf4c9d2</image>
+    <start>10:00PM</start>
+    <finish>10:35PM</finish>
+    <date>29 January 2026</date>
+  </channel>
+  <channel>
+    <name>Rtp 3 PT</name>
+    <id>Rtp3.pt</id>
+    <title>Estado da Arte</title>
+    <desc>Um programa de coment?rio sobre a atualidade nas suas mais diferentes vertentes. Vai desde a politica ao internacional ? ci?ncia , ? sa?de, ?s redes sociais, ? cultura , aos comportamentos. ? uma conversa informal, irreverente e plena de liberdade. ? um programa onde a ?nica certeza ? a d?vida. Os comentadores residentes s?o Susana Peralta , Joana Marques Br?s , Alexandre Borges e Henrique Pinto Mesquita.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6ImxHNnhhVHpMRVUrQWk0aUtCRTVkYlE9PSIsInZhbHVlIjoiTGtUQXF6RG5cLzJBcnUzNlFSbEV6T1psS3ljSUVOdVlmbDZZZmMzamRoZmVBeXhrSENlbTdKblRkWXdQU05wS0ZpZzNhNWdIdTFKM1BmdVoyVWFoM2l1SU82TmcrU1dnaTEwXC9GcXdVcUIybVJFTEV0SXFrN0F1QnBaVldDMmg0TGNERDhDYXhGWUF4bmdHWUk4OXBMVkdDOWtUNU40ODRnK0dHTzdZNGFFVFRSTGFzalgrWE9LK2Irc1l0dkJDeTdDTURlK1dYMDduSVl0aVJ5RnRWQ1pcL3RFOFRyNUF3OEo2cXc5NnA5MXlTaDkyZ3VLSDR2dHJIQzZtVDlyV3dxdiIsIm1hYyI6ImE5ZTY5MzEwMjViNjY3MjNiMDYwNTMwMDA3MGY2YTM4NTg5NTc3M2E3YWU0Nzk0Mjg2YTJhZTg2ZTYxYWM2NjUifQ%3D%3D&amp;signature=36318b69a58246ec42495338f06672f614581b73c27b2c3be60674429cd5b909</image>
+    <start>10:35PM</start>
+    <finish>11:15PM</finish>
+    <date>29 January 2026</date>
+  </channel>
+  <channel>
+    <name>Rtp 3 PT</name>
+    <id>Rtp3.pt</id>
+    <title>Not?cias Noite 2? Edi??o</title>
+    <desc>?ltimo olhar ?s not?cias que marcam o dia e a noite informativa. Com Clara Os?rio e Pedro Esteves.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IjJXVlc1MEF4enFNU0s3bEkxeDRXakE9PSIsInZhbHVlIjoiT20zWkw5cjV6NHllYXh3aWlya3BxNGVFdjBueWQrNUM1cG5lY1ZWZUdyUXE1MExjbW9uUUZTSjA1NmxSdGpobEk4azY3bXZGVERkdlwvSWYzZzM1WldxRm9RM0hBZjRDajlPVCtDRXJVUWYrUmR5dW5NVzNkYkUyVkhuK2V6c25tSFdYeGpMVlhBc0Z2ZGtnOFlvVmZCN0FKNlN6OHZsSnQxWFwvUTdzRGRjM3JwcnhmdXpDNTVpM2xQb3laOFhOYjYyZTVQS09SZmkySnc3ZzlleWlCQldld25TYW0zZU1BdkpSUDI1SkZzZ1lnXC9QWk1Jc0JrRnVnU2JHNEdYWEJZeSIsIm1hYyI6IjIzODhhZDU0N2E4YmVmODc3Mjg0ZmU4M2I1MWQ5MTA4NjQ3NmMwMGQxMzk2ZWI0MWNhMGM0YzMxNGRjY2I2NzYifQ%3D%3D&amp;signature=62722d8a0772908a63b7d814199f52adc25acd3c943ee645c990810e38d70922</image>
+    <start>11:15PM</start>
+    <finish>12:00AM</finish>
+    <date>29 January 2026</date>
+  </channel>
+  <channel>
+    <name>Rtp 3 PT</name>
+    <id>Rtp3.pt</id>
+    <title>24 Horas</title>
+    <desc>Bloco noticioso com um olhar para o dia que termina, marcando claramente a atualidade do novo dia que come?a. Neste espa?o de informa??o t?m tamb?m destaque os principais eventos culturais do pa?s, com as opini?es de quem os constr?i e daqueles que estiveram na plateia.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IlwvRkI1VU11TDE1S1FPS0E3bndWUEdRPT0iLCJ2YWx1ZSI6IitiREhBOVhpT1dpUnBcL2c5elpRdUxaZk1mUmdieXVDa3BkN1hYalFoeFVzZkJ6MHRERGE1eUZGb1lZa0RHbGMwWjE4VGQ1SzJIMVwvRVFTTkx5bWI4Zkd2bk1XZnZqRCtiRDVxeDduYlNrZ1JBTXZkTUJMc2cwNlJraWRsblZORk5VOVFSaEh1VHpzZm01VDc1ZFZyRE5HUUVETCtSdHNFcTJjeG1jMERJVU1JWjBBTGxGVlZLRkZkVk13TnFmN2JCOExcL1ZnbHBIbVkyUG1wS0EzYXhMMnBDQWwrSGFNYXlNaTFwa1BwZno0TWErTjZxODM0ZzhJYUNMU1FTOEtuQ3AiLCJtYWMiOiIzNzBlNzU2NWMwNjVkOWZmMDk2MjMyM2IyY2E5Y2UyNmZhMjBkMjlmMDY4MDA3ZGZjYjkyNjBiMWRhYzcxNmRjIn0%3D&amp;signature=f1c69475032b9a972d780560748dae0ca7812893230880d580b11df4d5e94230</image>
+    <start>12:00AM</start>
+    <finish>01:00AM</finish>
+    <date>30 January 2026</date>
+  </channel>
+  <channel>
+    <name>Rtp 3 PT</name>
+    <id>Rtp3.pt</id>
+    <title>Coment?rio Presidenciais</title>
+    <desc>Espa?o de coment?rio e an?lise sobre a campanha das Presidenciais 2026 com os comentadores Manuel Carvalho e Maria Castello Branco.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IlFCdHFsenRlaGtabmkrQVJxdWpRWmc9PSIsInZhbHVlIjoiQlZYdGRMZ1JMZ0NTSEJoOXRzaUd6S3hrXC9oQXpJaFFXYTd1MTgzXC9PVUhmR1pHNGRVYnhTUzIzWmx5TmRjUzNnQ2NOQjN3UWtxMzduRlhyZDhwaEFBQ2pkUFJEaEErRngwWkxHbVJhdHcrVVBOZXRWQmdxVk5FdnJRVkFjMzI1ZXo2VzY5bmVyRFNvYXpONFNJVVVVSDkzdlZIQ3lUZnV6Tmp1dmYrUklwV0JMbkhCOWtJQlwvOCt5ZHc5VHFPRDZkZmplc3RjbnFFa2JINVVVUHN0OWpVQkx4d3Nza3JIN3lVRXp1QXplUVNjbXNhRUZJMWtqME1rdnhoME5uS0dlUCIsIm1hYyI6IjlmYmEwMzY4MjBkMGU0ODA2YTdkZmNjMTRmZmM4YzFkNjRkOTE1YzYwZTc5ZTZmMDdlZTk3NjM1OTVjNTEyMWEifQ%3D%3D&amp;signature=32a4d7844400b8817c8e6e7c86024a0b0b1713323fbb7d5e12b0e34f456d4388</image>
+    <start>01:00AM</start>
+    <finish>01:25AM</finish>
+    <date>30 January 2026</date>
+  </channel>
+  <channel>
+    <name>Rtp 3 PT</name>
+    <id>Rtp3.pt</id>
+    <title>Jogo Pol?tico</title>
+    <desc>Tr?s partidos, um debate di?rio. Ideias em confronto com modera??o de Ant?nio Esteves.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IlpCVCsyQXU2SXFYUzhRakdicGUrUnc9PSIsInZhbHVlIjoiNG54SkR5RWV0MzdZZ0c1N05WNGZBbG1HU1hwZUxORnJWQ0UzMThGdnJoNUxGQUFMZ2NmOXBQSXNcL0UwYTVtemVmRmJTeVVSZmE0bFdUc3BRY0pKaXVETDY2eUt2dCt5RHdGaitSeWpHMnVHZXNod3FMYTh5ZnpYZHdsZHZLMkRvdWhFOTZiV1U0M1VBUWoyelV4aFdUbDdWeGhIQkhXZ3dkSWlja3FGUEUzakJVcFRlTDZFSmhlUnhaTGR6R1RSejl5RnJ4U3hZZ3M4clJkZlFjYk5TM1NOaHRHMzIraVFBQWhPamVrWUxkZ0hqYUFLVksyS2lRbXNYNCtFOXRjVW8iLCJtYWMiOiIyNmMzODg0YjZhNzA2NWZkNDlhYTUxN2MwY2JmMjBkZTA2YWFiZjdiZGIwMmZiZGRiMzdjMjkwMzI0MjM1M2NlIn0%3D&amp;signature=a8d7f10117cf961919e64077aee07f6af9cd4093cfabf2487a0a77841d0ce141</image>
+    <start>01:25AM</start>
+    <finish>01:50AM</finish>
+    <date>30 January 2026</date>
+  </channel>
+  <channel>
+    <name>Rtp 3 PT</name>
+    <id>Rtp3.pt</id>
+    <title>Contraponto</title>
+    <desc>Duas vozes, dois pontos de vista. Contraponto traz o debate em direto ? hora nobre. Todos os dias, com Jos? Rodrigues dos Santos e Jo?o Adelino Faria.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6Ik1DUWZ4MyttQ1Jpd09WaXlRQ1wvaU5BPT0iLCJ2YWx1ZSI6InhNWVQwWXZpSEp1alRra05XRXg2WUhCTVJKUHZqQlp6aFwvYXFqcVFackl3bzlvY05KXC9QUGFHRExNVjJCaVVmV2RRNElhZ2hQMEw3dUNwcEtYSkRSQ1lTSkk2WUUzSVE1Nys4d0l3YW04NHRQRWFxNTErMG0xcmNrR09EMXdMQmJaM2VLbTVWdU1qWlNNc0s3S3YzV2pqaWpaYUFjallWRDlQQU1nUlhHQkNqcXFDNWZIU1Z2WWkzdjd1clpxS3VmcnJmb0IzeUgxVk9PYjlKSHdDY2Vsbzc1TDFlZEJpSnRTRFV5VERwUGp6empGQkNpUUVnbVBxZ0pSMUxUTFVjaSIsIm1hYyI6IjdlMjcyYTBlYjMwMzdlZjc0MmIzZTQxYTdlZDRmZWYwNzZlMDRlNTQ3MzUxYzJmMDE0NDAxNjExZjFlNWRjNTgifQ%3D%3D&amp;signature=f9a44b8b2d32fea988b7aeb22ec0764907f3195bc88a6cf94619f10f9ad341e2</image>
+    <start>01:50AM</start>
+    <finish>02:10AM</finish>
+    <date>30 January 2026</date>
+  </channel>
+  <channel>
+    <name>Rtp 3 PT</name>
+    <id>Rtp3.pt</id>
+    <title>Divagar ? Preciso</title>
+    <desc>Oito vozes, oito olhares. Reflex?es livres e inesperadas sobre o mundo, em apenas alguns minutos. Com Pedro Andr? Esteves e Clara Os?rio.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6ImpoNTJCcTZcLzdMZXNiN2dCdXFMbjVBPT0iLCJ2YWx1ZSI6Imlpak5GU3ZnZVNPamF5THJtd1ZSM1RydFV4WVJVXC9tcENqYTVlOTdHV005QWtnc2dyOVwvYms0dm1nYnhyRngwQjZCSDR6NG92VE9IYUJNY3hEek1yN2FhK0g3cTRnTWxNM0JJQTV4QTFwNWdkUnlEZGpcL3BNMXpCTWxKZ2dVXC94TGh2OXVpdkF4NjRCYmV6MHJRdXpxWnJYZncxcjNXd2NXeEcxWFwvc1g4ZHl1SDVvaFY2a3JcLzJRWEhOUG13VHBrVWorZW9WcmFwbStQZjdTalBtOGNiOWxldEFLNUxNb3lGRGFmSzNiVDJmZ2RRZlwvTzZ3TCtwZCtuaDNwMmU2eVZrIiwibWFjIjoiOWE3NTY4Y2FhYTVmYmRmYTlkMzg2YTJjMWZiYmVkYjUwNjlmZTBmNjY1NDE4M2NiMDE3MDM0NmM5ZDRjM2ZmYiJ9&amp;signature=fb25b350bb4d8cf8d7b3afcf30c3933d970e3f1e924320a9426634c2b0fd0859</image>
+    <start>02:10AM</start>
+    <finish>02:20AM</finish>
+    <date>30 January 2026</date>
+  </channel>
+  <channel>
+    <name>Rtp 3 PT</name>
+    <id>Rtp3.pt</id>
+    <title>Ensaio</title>
+    <desc>Com depoimento de F?lix Ribeiro, Diretor da Cinemateca Nacional, e da atriz Mil? este programa aborda a carreira nacional e internacional dos irm?os Helena e Tony DAlgy e o seu misterioso desaparecimento do mundo do cinema.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IkJJZk5VWkg2NUJyOER0VzF2VDF2MFE9PSIsInZhbHVlIjoiOU1oNlRZK3o2VHVNaTEyMlZ0XC91bXdsaDBwaDBWSWlNMm82ejlGRWlXSVVzU2JjQkNEV2gyamxzTld5T000WmowY3pUaHRcL0hMcEtGMndlM0pQNU5KMUx1ektnUXNrQ0VFYXdRRXdNczhPYldSV2llaWNZeWdCdmE2bWltRGJ0aXNRc01NdHhuV0J6SUk5b0t2SGxUSyt4WUZ0aXZ3SWs2TW9cLzFSdDl6MjlzUVd1eDFCSjJoSzVmaXZacXRjWjNQS0dYRzltNmpWbCtJdFRKY2p1R3lpVmQzM3hPQk5QUFVaRWhRd2pGSzBPdGZJVVFZRFpXaUpkSFdZcHRvcytXSCIsIm1hYyI6ImM0MGRkNzMwZjZlYTE0NGQ4MzRmMzljMjA4MDI4N2IxM2ExODY4M2ZjYTM1YmE2ODQ0ODZkOGJhYjFiNjg4ZjAifQ%3D%3D&amp;signature=902454c353844bb739181055f2ca876069f51e0ac83c713bc1226d7fbd479f22</image>
+    <start>02:20AM</start>
+    <finish>02:35AM</finish>
+    <date>30 January 2026</date>
+  </channel>
+  <channel>
+    <name>Rtp 3 PT</name>
+    <id>Rtp3.pt</id>
+    <title>Estado da Arte</title>
+    <desc>Um programa de coment?rio sobre a atualidade nas suas mais diferentes vertentes. Vai desde a politica ao internacional ? ci?ncia , ? sa?de, ?s redes sociais, ? cultura , aos comportamentos. ? uma conversa informal, irreverente e plena de liberdade. ? um programa onde a ?nica certeza ? a d?vida. Os comentadores residentes s?o Susana Peralta , Joana Marques Br?s , Alexandre Borges e Henrique Pinto Mesquita.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6InRhNWZGVlNmc3pLOEJzY0xmY3R5MWc9PSIsInZhbHVlIjoiNGx6aE5YNU1FTjJWamZidXJaTWFoOVwvOEY2eWtBY1JURVwveXNjZzFXVWdTMGRHWGE4YnB2Yjd5cGpHY2VFZ0JxZE5aS2drS3ZmMWR5VmpcL0tscER0ZlwvRXMxc1g5ejdGSFwvXC8xakU3QWxOY2NoNjVpTlpGT2tcL1BudlUxTFNRUnRvQ0NERzA1NnZNS1dYYlhMXC96RmloZXJwcitJYWtOckRiSFRmQkZtNnd4OUhJbXpxTm1pZHNGbU54bXFtdGlmZjJEcTU3cVhlWmpwMFhnWnljTlcrbk5WMFB4aGNzcHpNRU9JQnRRR3UxUDNhNkRDaXhrdUViRmRaVEV2MDdaWHhoIiwibWFjIjoiYzczMzkzN2FlMTIzN2ZmM2MyYzEwZDI5NGFmZjA1OWQ4OGE0ZWZkNDA2ZTE4MjJhOTk1NDk0ZTQxNDMxOTI5NSJ9&amp;signature=d8d20adc728aaf746dd9dbda76091597c80a2163fd1629d9209e7e04c98ca1f2</image>
+    <start>02:35AM</start>
+    <finish>03:20AM</finish>
+    <date>30 January 2026</date>
+  </channel>
+  <channel>
+    <name>Rtp 3 PT</name>
+    <id>Rtp3.pt</id>
+    <title>Outras Hist?rias</title>
+    <desc>Jos? Sequeira escreve desde crian?a. Sente cada palavra que desenha no papel, tal como as pe?as em madeira, que trabalha com paix?o. Escreve onde calha, mas n?o o que calha.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6InpCRlRsYnhiTHZMM21YSTZqNjdRUEE9PSIsInZhbHVlIjoiXC9DdlVQZGtwdU40cTAzQkp4TW4zYmpMcVNsVGk5SVhhSFwvcUpZSTExemdvMFh0ekRaRlB2OU1USkNFaHRGdEpxQ3VqREVxa3hrYjJSNHRocmRTQW16QngrT2lQK1dGXC80c3daOFVGdmtqVWFWNUd6dDNCNXpMcUV4cWtkemVJbjVGWEhwb0tiSTV1UCs0TjBuMDlLSnhCM1UxSkUxaE5vTFF0UFR5VU9vOXIwTVlBR3VxRFg4TUhQbitXeHlHTCtGVjBmS3h4UFJvSXo0aWtVTmx6TjlNTit4RlI2aDNRVlM4RzIxMWVvY2lTdHhwYmQ3WFhvWE4zOUpQbDlpUys4eiIsIm1hYyI6ImE2NDM0OWYxMjJmMmI2NzkxMzkwMDVhOGQ4N2QzYWI3OGQyNjMwMGIyYjI4N2YzYjFmNjJjNzBmMTVkYWJlODQifQ%3D%3D&amp;signature=2852a6ae2212fdbff534958716c45e789fc982711944b9b24358482c25d2d47d</image>
+    <start>03:20AM</start>
+    <finish>03:50AM</finish>
+    <date>30 January 2026</date>
+  </channel>
+  <channel>
+    <name>Rtp 3 PT</name>
+    <id>Rtp3.pt</id>
+    <title>Hora de Agir</title>
+    <desc>Hora de Agir ? um programa do F?rum da Energia e Clima que tem como objetivo unir a voz da ci?ncia, politica, empresas e sociedade civil dos diferentes pa?ses de l?ngua portuguesa em torno das solu??es para vencer a Crise Clim?tica.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6Ikw3ZTdqWVV2WDNWXC9JMmRpN0pqWXl3PT0iLCJ2YWx1ZSI6InV2TjVMTGpMeTVqWUROS3c3UUl6Skc4R09FaGV3ZVFCU1VLWW9wRFhrMmVhTVpuNjJhS1wvd3l1d0g4eVd4QWpFWlRYeUowNlp4ZkMwZ2szZm9uS0NMSE9VcTd6UGVWUmorQjFwcGJcLys4Z1JaM3BpWCtRdUQrUVBlQ2hrS0MwSUs0alZ2R0FXWE8xc0RvTDdBSUU3THhTc0tScVJrR1dHUWVxbHFBalZqUkVSM0wzWU5xZTdhT3RTS0xFZXZRckhUQ29TNGU3ZGl3Y2xSV3ljQXlYb0VBczRnbkpSXC9udStHaEpLbEFlMkE0S0pGWk9NdXoyNkpQdVp3TFRBa3RxVUEiLCJtYWMiOiIxMTg1N2U1NTFkMDliNDkwMTFiZWRhMmUzYzUzMTY2Y2MzMzdhNGM3MDdjMTBkNzBmYzhlMTI3OGY3NjEyYjdiIn0%3D&amp;signature=449bea86df0e4ac628ec5530ab7ad4d488fa6f4320c884c89789fdc438d5b0e4</image>
+    <start>03:50AM</start>
+    <finish>04:10AM</finish>
+    <date>30 January 2026</date>
+  </channel>
+  <channel>
+    <name>Rtp 3 PT</name>
+    <id>Rtp3.pt</id>
+    <title>Not?cias Pa?s</title>
+    <desc>Not?cias de norte a sul de Portugal com hist?rias locais que fazem o pa?s. De segunda a sexta, na RTP Not?cias. Com Maur?cio Jos?.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6ImE0T1Fub1FJdFwvcmR1c1dzR05pNEFnPT0iLCJ2YWx1ZSI6IkYzc3o2bnROejVtVmpIaTNzVUN5YkxYMTl1UEhuVkZnemdCRVMwc1k4Q09GU0w3YzlPS0pwRFl4QVNld3cwbDJJcExNYk5UTVpjXC8rSyt3TnVsN1FmZXdoblhuZDV5TUxtdmZXa1hMNzlYaGh6QUp2ZUxKWDNBemRBTU9rRUVzZ1hIQzN5ZkVQZ1ZlcGVaYUI1N3BYK0xQMkNOd0tqTFJCeVpLTEVsZm9wcW52XC84cVAzRVF1b0pQYzVQTjE2UlV6ZFk1R1ZtUUZFRzlqaVwvcWl3dGpaSzFSRGgxNDZBQjdUWW5mR25qUkVVWXZETmo5SEtuQjFib1RIK0tHaW9cLzNjIiwibWFjIjoiMjg3YTMyZmFiY2E1NjRlZTE2ZjgxYTJkZDY0YTNiN2JiMWJhNmVhNDdhN2EzZmY0OGYxZjUxOGIxYTM0NDdiNiJ9&amp;signature=d8ddd7d8f5518b9a7e16f7588e3ecefe555de98e4f20034b685923b2e20ca1f1</image>
+    <start>04:10AM</start>
+    <finish>04:30AM</finish>
+    <date>30 January 2026</date>
+  </channel>
+  <channel>
+    <name>Rtp 3 PT</name>
+    <id>Rtp3.pt</id>
+    <title>Telejornal Madeira</title>
+    <desc>Espa?o informativo para os espectadores da Regi?o e da di?spora madeirense espalhada pelo mundo. O Telejornal da televis?o mais pr?xima de si est? no ar desde 1972 com uma informa??o de proximidade e a garantia de qualidade do servi?o p?blico.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IkIyV214XC9vQnNLV01SY1B5UFdjM0p3PT0iLCJ2YWx1ZSI6IjJYcjR6QXdlSTBUKzlHdTYzXC9nbzJnSisyT0MwQ0dqVGtaSXQyd3ZtMEl4OVUxTlFVblRBS1ZXcyttWEJUeGo0dTFDSkxvcEtFSStWaFVaWVwvVllEc1RBMkc2VWV1dE1hNlJrK3FaV0Z0MERrcUQ1YndzTmE1d000Uzk1TCtIc3RtN09XbzNnaFRtZXVPQnZpbHpSU1d0Ym9JY1BoSUZkMHhDTzVVVkZZbVE5eDJFdWNQNTh1Vllzb0RlTWZ3ZW5Bc2xjY0l2TEprUFo1dGRhU2pvZHdOS3dWWGNuWGc1REJEYWFSbU1HRDY1SVUzWTlxVys3TGVtQk12QSs0SDZJaiIsIm1hYyI6ImM1OTBkMzIxZDEzOGE4NzZiY2FiOWNmYWU1ODVlNTc4MmJiODRkNGY5ZDJmMDVmNjFjOWFhNjNiNDI5MzQwOTIifQ%3D%3D&amp;signature=2db70b95dfeda9aca17b1f63b5333e340c8826bf2bf0a70f8310434e771e0a96</image>
+    <start>04:30AM</start>
+    <finish>05:00AM</finish>
+    <date>30 January 2026</date>
+  </channel>
+  <channel>
+    <name>Rtp 3 PT</name>
+    <id>Rtp3.pt</id>
+    <title>Telejornal A?ores</title>
+    <desc>Diariamente, a RTP A?ores mostra-lhe o que de mais relevante se passou na regi?o, no pa?s e no mundo.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IjRzc2l2WTdiU0lWVTJJRmpCdmwxMHc9PSIsInZhbHVlIjoiQVpwNEl4aTJmblBXUE9ZZ25TWTViZWJKYWV6K3JCMmpEdEFXWGZGTU92RGJHWHpQQW5qMEt0Y3luamJyWGFVQVNKRzQyOXZBdHBIQkR3d0k2Ymk3ejMwT25kN3hnQzU2ZUNlQ2NxeXFXU2lXRGhIUVh6a2g3MmE5eXRkdCs0a3pibTd0SGdjY0M2XC9OUTNMUEg1Wk9XK0l3c3JTVW1DWFJJNmwxVHh6eTB4QWN6K29ESG1NZlRQbGxXY2lZQUJjYkdvWU9kRzhEUm5xRTVYZFUwNUMxUk02blFlWUlaK0dvWlZlMkpPTmg5RmpkOU5KSmEwS3Jnc2FUalNXQW9FMzUiLCJtYWMiOiIzYThkMmEzOTc5MmJhNDVjODU4MGQzMzc5NTgyYzNkNjY1NzhjMmQ3NWI2Y2M2MjdkMmJkNTI0NmJhZjBlMjliIn0%3D&amp;signature=7b74f5f1c6079c34d6cf943eaa0a79690b2085213950aaf3c51f112579253db2</image>
+    <start>05:00AM</start>
+    <finish>05:30AM</finish>
+    <date>30 January 2026</date>
+  </channel>
+  <channel>
+    <name>Rtp 3 PT</name>
+    <id>Rtp3.pt</id>
+    <title>Rep?rter ?frica - 2? Edi??o</title>
+    <desc>Notici?rio di?rio, com emiss?o em direto e transmitido de segunda a sexta, com not?cias do continente africano.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6InFMVVkzd0dwSkU1RUpiWWQrdEJsQnc9PSIsInZhbHVlIjoiVVVyZWMrTERPYjhKTjJQVXZ5OHpMc0lZbG5cL250VFwvMmsxM0FvTWpcL2t4Y3F0VDFreHVKRkZZNUlWWWxmSXEzQkNuNlZSbkwwd3hNRUJxaitGaE1VRUdJSU83a3M4WlRubnNjTldldzRXMXZiUk5udXdnVllpKzBRcU8zeFM5RVwvNUVnRmxDMHhydmNLRUJsWWN6Q29lZ1VJMHp2SzdTazhvb3NwOFY4SkdYR2ZcL1VQOGxIZzVwRlRwMHJ0a0pcLzJSM2orUXVTcHNOUVJUV2ExczNLTzhWazRFNEw1UlBoaTRQdWZxNmNzbFNobDREVzNjUjVlcEJ1MDV3TklJZlVXRyIsIm1hYyI6Ijg5YjViOTg2ZjNlYTM5ZjJiNzhkMzgyNjg2NTQyOTRkOGE1NmVkZWM0NWVkOGM1YzliNDRkZWIzOTBhNDdhZDYifQ%3D%3D&amp;signature=179587e129386ddaff7535dfe0e296375e82f561c5633b0dfc4f422a9186a8fe</image>
+    <start>05:30AM</start>
+    <finish>06:00AM</finish>
+    <date>30 January 2026</date>
+  </channel>
+  <channel>
+    <name>Rtp 3 PT</name>
+    <id>Rtp3.pt</id>
+    <title>Bom Dia Portugal</title>
+    <desc>Porque ? de manh? que se come?a o dia, ent?o inicie-o na nossa companhia! Todos os dias, o ?Bom dia Portugal? dedica espa?os espec?ficos ?s not?cias da atualidade nacional e internacional, desporto, meteorologia, tr?nsito e economia.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6InlKbHNLVVVmNU9STjVidnZVXC9ybzJBPT0iLCJ2YWx1ZSI6Im4zcWZMMDNVK0Juek50NGF5NTlrZ1lPZ2s5U21SNzBhbXNKQURzYjluWDFhdFZYa1VRcUNsaENBYU5IMGhoVTZSNXJjdVQ3bjlsbUdQV25zc1dDOE51TkNrb3E1dzdjNkViSFFTWENjeTlUYVwvTWdCcW1Jd2RnVXVtTHNYXC84TXMzXC8rVHdcL3MzamxKY2NqSXhCekQxc3V5NWtRdVwvemRjbURZVkhkVUdwUm95cDRPSUo3TnM3SitQWjArMWt5SVZBNm1hN3VcLzcwcEE3QUY4WDJuUWlpd0t3Y3Z2WXZSQlpcL052bk1uZFNsMDVcL3V0T2RDcGVibjJzazNqZURNczhLbCIsIm1hYyI6IjMyZDRlYzY4MjBjYTVhMzQ2ZDc4YmE5NmFiZWJmODZjNTRiNDQ5MGQ0ZGU4NDU0MzY1YmIxZDIwODZiMmEwNjcifQ%3D%3D&amp;signature=7031d8df8cbc5ee983944e4c0d799df33e85160c84b7add392858fe01c90c225</image>
+    <start>06:00AM</start>
+    <finish>06:30AM</finish>
+    <date>30 January 2026</date>
+  </channel>
+  <channel>
+    <name>Rtp 3 PT</name>
+    <id>Rtp3.pt</id>
+    <title>Bom Dia Portugal</title>
+    <desc>Porque ? de manh? que se come?a o dia, ent?o inicie-o na nossa companhia! Todos os dias, o ?Bom dia Portugal? dedica espa?os espec?ficos ?s not?cias da atualidade nacional e internacional, desporto, meteorologia, tr?nsito e economia.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IlVXOGtcL2xBbjJRanFEVmpUQU5vQjdRPT0iLCJ2YWx1ZSI6ImlMOWZWSEgyTDdoR3dTVFU1ejFyM1E0Rnc2eUNHbFdQZFg0NGd2YkwyclNHNFc0RVBEd3cwQ2JDTGwxUWVBSUtUTUhQU0Q2MFV3WWdHakZmRWJ1MFhlbDc2RVhWK1IzRnVjZnIrZjFNakh6c3NcLzV2OUhwbjRhcGxxQlFuRHAxMUZIQlhiemhKYVdcL0djdGFjblV4S2ZXaWlUemZja203TjJrRm9QSU1PMWpWXC9zeDhvS0Q0YkpEY29qdGhEenVCQ05XTURBUENEWHJ1NUxETWtUSVFrQ3pobXFlb2c3K3hjU1R2cFgzSk9WWHV2WVRPbFwvZ3p6SXFPM2ttcmdVYjdMIiwibWFjIjoiZmRhMTdkZTQ2MDkzYjk4ZDE4Yjc1YTM5ZGE5NjYyOWFhNGMzOWVmNTQyNTAyMzc5M2RkZjQyOTBkNjUwZDk1MyJ9&amp;signature=a3686eb78e942f819af3961fd4215d94c085b740bc180ff1e000712534031507</image>
+    <start>06:30AM</start>
+    <finish>08:30AM</finish>
+    <date>30 January 2026</date>
+  </channel>
+  <channel>
+    <name>Rtp 3 PT</name>
+    <id>Rtp3.pt</id>
+    <title>Mundo Autom?vel</title>
+    <desc>Mundo Autom?vel destaca os temas de grande atualidade: autom?veis alternativos, seguran?a, tecnologia, design e concepts assim como o lan?amento dos novos modelos nos mercados nacional e internacional.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IkdHZ0RienNNMnU4S2tNU2FTdE1Ydnc9PSIsInZhbHVlIjoiN3VoM2FENzVJcGVNQ0NoalBYUUVqbEU2aEtKVzNzRVQ2YmcrXC8yXC9GdEJlM3VybENoc05KQzkxdXYzZmp5dmgzSDlOaTRlY0k0TzFVNloxdDNNOWtJem1aMEpuYlRuc2lOQ29nSTNhUG8ydWNcL3o1WnJPU1ZuaWhQNzV4S29xajNveEh3R3hUaDZRcXZTWHFoTXRkeko0ZG4wK2ZFNUIxWU9iUHQ1S1Q0cGtObHg0ZXFTS1diQ2I3QkhRcWFUS0dGWjAzXC9jd1FCQTczVTl6UDRZUjZnclwvS1Juc0tTTVZEUzlCUloxbmRkM3BRaEVKakRTQzNob1hcL01nbEFhSTFwSiIsIm1hYyI6IjE3YWI2NDJiYjEzMjAzYTk0ZjIwZmFhM2YwYzUzYjBiMTA1ZjI3NmQ1NGYyZjE4Nzk3Zjg5MjAzNGZkOTM5MGQifQ%3D%3D&amp;signature=b6ff325f50754c13e0632446f9ca73fefb709dd1054f716c3714d4b1c79644a3</image>
+    <start>08:30AM</start>
+    <finish>08:35AM</finish>
+    <date>30 January 2026</date>
+  </channel>
+  <channel>
+    <name>Rtp 3 PT</name>
+    <id>Rtp3.pt</id>
+    <title>Bom Dia Portugal</title>
+    <desc>Porque ? de manh? que se come?a o dia, ent?o inicie-o na nossa companhia! Todos os dias, o ?Bom dia Portugal? dedica espa?os espec?ficos ?s not?cias da atualidade nacional e internacional, desporto, meteorologia, tr?nsito e economia.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IlQzZ2ErbjRHOVZYb2k0cWlkN0RKWHc9PSIsInZhbHVlIjoiSmkrdUpsWGQrdVRENGZVM2tKOEFwRVZLM1ozK2wrSllmRGVhUytCNzhVNUxuQ0h1Unl5NXYxZkd1ZW9nejFydTd4UUV6UlBobGc2alA0b0lVV2ZuVjh4WXJGWTQrd2Zuc1wvUzhMXC95UmFZTlJ3QmR0YW9qWlJDeVpwYWxpZDVYaytVcVBvdGFPTkRrWTRZbTk2aTRqWW5KN2dXSndhRzFhemNjWDBKZUdRazFcL3VIc1hjYW1KUFA3aHdvem9HSlIra0tBWGNjYXNibUlsS21qSVBYWXhpMlVqdkExOFdhRFNld0xkVWJzR0VaVmZCYU10U2s4bHVIbmRleWRCSks0RyIsIm1hYyI6IjBkZThmM2U3MTVlMmE1ZTY4YTYzNWYxNjk2ODY5YWY5MWMyMWMxNTFlZGZlMjU2YzRmMzhkYWNlM2QyOTdlMmMifQ%3D%3D&amp;signature=1a475004f37657b3126683047b4a89de4135770664edacb20a13b11c761c85b2</image>
+    <start>08:35AM</start>
+    <finish>09:25AM</finish>
+    <date>30 January 2026</date>
+  </channel>
+  <channel>
+    <name>Rtp 3 PT</name>
+    <id>Rtp3.pt</id>
+    <title>Esta L?ngua Que Nos Une</title>
+    <desc>A origem das palavras e curiosidade da l?ngua portuguesa, com o professor e linguista Marco Neves.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6Ik13REVTWURyXC9TWitEOFk1WmxLajd3PT0iLCJ2YWx1ZSI6Ik9WelYrNDdHRDVmbFdxMTRpSlpRZ3ZDSUlvQkdPWUVMdHFLZUQySUxBd05UcFBlcnpRbCtSU1YyeHArNFFFQWswWlwvZnNpOUpYVHllR3JHZFZkV1REd29KYkZwWHRmRmVWTmtmTU9kZnV6djRwYVdjcTdLd3cwd21YUnpWQlVOZUp5Z0JoaHRIRzFkak1UQkQxcU81MTF0bjFxaE9BS1BiUTQ5U2pnMlBXQUJNVkRZNDFuMUd3Vm9cL212eW51cFFuRUt4Kzc5c2hhV1d6TFg4M3FZS2xoN25oOWZrVlwvOVwvVnJZczRmcDJhT1B0elwvWDFQdEpcL3V3VDgrem1ReVMrVjciLCJtYWMiOiI4ZmQ2ZjFjODUwZmJlYmVmMWRlMDhlODU0MTAyNDVhMDUzZDIxYzcyMjNhMGM2Yzc5M2M3ZGI3MmI5YWQ5ZDNiIn0%3D&amp;signature=fa5d1cedb7ed354dcbe729bc95cb3ec4e5adbd8c87d5c143fc2fe84a0849bd70</image>
+    <start>09:25AM</start>
+    <finish>09:35AM</finish>
+    <date>30 January 2026</date>
+  </channel>
+  <channel>
+    <name>Rtp 3 PT</name>
+    <id>Rtp3.pt</id>
+    <title>Bom Dia Portugal</title>
+    <desc>Porque ? de manh? que se come?a o dia, ent?o inicie-o na nossa companhia! Todos os dias, o ?Bom dia Portugal? dedica espa?os espec?ficos ?s not?cias da atualidade nacional e internacional, desporto, meteorologia, tr?nsito e economia.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IjRTb0ZORFYwSnB6YU5GNlJ5OXh1ekE9PSIsInZhbHVlIjoiSTRRckM0eXlDMDJFdExvT2ExV3piNWZsV2gySFhJZGpcL3pKelBRUkx1V1dIU3pNa2F6dll6TldrcG11YnQ4SFRMUWVFSzR3WXRKcFwvU3ZSQkhTNk43YVU5aVJkK3BNQnk5TmNtRHBSTVU5TFQ2cDVPNVZteUhNcncyTU1id0Q3dEk2cEZwNzJlQ1Q5UW04RDFuS0xPaStIZW9JS2dDODRVT05HYkJaTk92QUJPdTNRMFcrdW94TnNrUGdwZ2JtSjlEYkExOUl2c3JncHE0MGxHamlQUDFESU9uUE5rd3lIZEd2eWRkRzZkaU1XNE5saU1ZNTFmSXBqc2h5Z1NCYjF5IiwibWFjIjoiOTU3MzhiM2U3MGFjMTMzYmE5N2Y5M2E3ZGJlMDFmMzUzY2Q2MzQyZTIxYmRjMGNlMDY2ZDJiMmQ4ZDdlNmVhOSJ9&amp;signature=ee6758a8c544cb0b3d6e7efb08f5134e24bb7c00a9bf6bb0c074541a44323aa9</image>
+    <start>09:35AM</start>
+    <finish>10:00AM</finish>
+    <date>30 January 2026</date>
+  </channel>
+  <channel>
+    <name>Rtp 3 PT</name>
+    <id>Rtp3.pt</id>
+    <title>Not?cias 10</title>
+    <desc>Informa??o atualizada em direto, com os temas que marcam o dia. Reportagem, entrevistas e an?lise. O pa?s e o mundo na RTP not?cias, com V?nia Pereira Correia e Jos? Ant?nio Pereira.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IiswUkEwMUZpZU1PUTk1Y2tBYmN6eXc9PSIsInZhbHVlIjoiT3BnRmR2TkxWN2JzVmhBaExDWWhGa3JWbjB2aHozdUhjUFZtd0s1bDNlRm9LWm83d2MrYng5Z0dhT0VaaTU0V0k4U0NVUFFCdFNkU1V0amJOU1dPZWJmbGFCa1dkTG00NXA1bVVuMTA3bXdrWE55dExJVGtMQXZOXC85ZDluZncxR21jODV1TEp6aHhEOEU2RTdXb2h5aGNqV0JZbXhoUDE0MFFFR29hdEwrOTBxbmJGbjMrMWM0cENQWElMZGFqbE92QWFtMXh0WEVZQ2hVNVZxaFUycEdTQStaRnNLSnhWU0tZZGNvXC9iWmJnRmE5S2V2VWIyU0JlODhiRGxHR08xIiwibWFjIjoiY2E5MzYyZWQxNTE5YzFkNjMzNGVmYTQ0N2ZlYTZiY2M1MTk1NTQ2MTNmOTkwYWFkNGI4NmE5NDc5N2RmNjdlZiJ9&amp;signature=824dc7b729b280b8c2fe9985df5649814d056de01be5eaec920ea269b2962519</image>
+    <start>10:00AM</start>
+    <finish>11:00AM</finish>
+    <date>30 January 2026</date>
+  </channel>
+  <channel>
+    <name>Rtp 3 PT</name>
+    <id>Rtp3.pt</id>
+    <title>Not?cias 11</title>
+    <desc>Informa??o atualizada em direto, com os temas que marcam o dia. Reportagem, entrevistas e Jornal de Economia com an?lise em direto. Com V?nia Pereira Correia e Jos? Ant?nio Pereira.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IlRFcE9URG9GeGhmSXpEeUZUajNnMnc9PSIsInZhbHVlIjoiSnlrRFBMMk9IZWJqVzRJYUhTV0dzSndoaVUreGl4eDlXcm9aTkxVYnZiVVBRYnU2SHR6R1BEbjNNZEdPOXNwdDNPcmNLWGhvelZxUGt2T05pcmhUK0IyZHJnVDdVVGRPdXNodXpwQVhwdHVMemFoUDcyK0dENnZxZ1dEa0ZsaGNFeGQ2N1huR1p0Z0NlR2c0T25KTExKMFpGSldIUkdKTzl2WEZcL1VUUXNDXC82a0FVTjdCVG9yYlJKeUFrVEtDTlM5a2ZmMVhUZFdUZHBYRUVaTHY4OU03MTZOZnd6UXZvNWZmK2FXNlJkRGFHdFhsMUdEMFNtSFQyR3BlYmNqXC9sViIsIm1hYyI6IjYxOGM4YmRmYTZmY2QzMjcxMTAyNWZlMjhjMmEwNTMyMDIxZGZjZjZmZmYyZjE4M2FmYTBiYTUzNzcyZWUxOTUifQ%3D%3D&amp;signature=e879da4fb865aea2e25c4906c4d6f6b28fa232a4d20b86e7f8a588b2c18f9f3b</image>
+    <start>11:00AM</start>
+    <finish>12:00PM</finish>
+    <date>30 January 2026</date>
+  </channel>
+  <channel>
+    <name>Rtp 3 PT</name>
+    <id>Rtp3.pt</id>
+    <title>Not?cias 12</title>
+    <desc>A meio do dia a RTP Not?cias apresenta os principais desenvolvimentos da manh? e atualiza a informa??o desportiva no Jornal de Desporto. Com V?nia Pereira Correia e Jos? Ant?nio Pereira.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IitMZFBXRGg0M3Z6ZVNZdmY3WFwvNFlRPT0iLCJ2YWx1ZSI6ImNORDRDSXJlRkt3ZnZZUFlpWjRHNkVVOCtURHpZVExVcklpNXY2UFdJTk4zdklSbWc1K1ZpcVpLZjlabElzdkJuUTZ6dVJvMTkybXcrV2NVWjE3XC9cL2VibkU1VXhJWCtEU2pxM043RUpobVdPMlR3K1lETVRSOGNUUUNqd3BleVwvdkI4YXNDczJEOXdpWVNwYkFQdlNDWTNrUzJSNmJ5TnpRWmFvT2orUTRsZW1JYnFWbThOODZnVXROZE9kRCtCcjd3OFwvdTJndTYzXC85SE9LbDV5eXBjbElzZmtScDFcL2c4akluVkZyMVk5S3kyS3VDQkVYRW9EUHBDN2hjcDV3T2UiLCJtYWMiOiIzZDllYmY3ZTlhMjllMjEzMjgwNmUwZDQ3Mjc3NWExNDRjZWMwM2QxZGIzOTZjYWQwY2ZhMzNjOGM5ZDE1YTVkIn0%3D&amp;signature=3642fa0606c2393a6cfc290ef192f5f4d080f22ccaf4a874a3b2c4ba76be9722</image>
+    <start>12:00PM</start>
+    <finish>12:45PM</finish>
+    <date>30 January 2026</date>
+  </channel>
+  <channel>
+    <name>Rtp 3 PT</name>
+    <id>Rtp3.pt</id>
+    <title>Not?cias 13</title>
+    <desc>Informa??o atualizada em direto, com os temas que marcam o dia. Reportagem, entrevistas e an?lise. O pa?s e o mundo na RTP not?cias, com Alberta Marques Fernandes e Carolina Freitas.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6InYrdDZwOW5kbklJUzRGbk1TOURPYkE9PSIsInZhbHVlIjoiN0VVT05kekRtZDZFWXVrMjlhQnp6QmdMN0wwMFg1Rnc4b0cyaHpsTlFcL09RUko3aWxwRHRaR284RU1ybVRweWZtQkd6a2daZWtCXC9wejdoMVRSS2dsZ3VLd0o0c1l1UGU2S1dHUDJ0K3dWM2luREVvelY3VmVqYXZLM2Z0MzZIaUV3XC95Y083TEROeG0yWHlVOCtSVXRvTjBaRmxWZ3JDc2swVyt6dXU3c2VTeUx3Rk9BXC9FZHJqQlN0VFZibXkxUmg2NDcyRGVJSWtkb3BUdTRNM3pYZ2UySnF0SVNnc2tLeDdvQ1FWWWFEMVpvYmdNb0c5NXNxc3l6QVwvWklvc1FRIiwibWFjIjoiNGVjMDZkOGQxYTViNzUxYmRlZjk4MzRhZmIwOTEwZjg1NTdmYTgwMDFiYTUyYjkzMDQwZjZhMWM2ZThlZTMwZCJ9&amp;signature=8e6a25cf0353f6128a31f2b2341a0f151661f399254f3fea3dbd259c9fac908b</image>
+    <start>12:45PM</start>
+    <finish>01:45PM</finish>
+    <date>30 January 2026</date>
+  </channel>
+  <channel>
+    <name>Rtp 3 PT</name>
+    <id>Rtp3.pt</id>
+    <title>Not?cias ?frica</title>
+    <desc>S?ntese com atualiza??o da informa??o no continente africano, com emiss?o de 2a a 6a feira.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IlJkaDFMVGIxMk1CdUhONENtODlmS1E9PSIsInZhbHVlIjoibjl0dVZMNVZNRHROanhXNG9HU0NjaktVNzVyUDViVW9icXhYWUlFZCtKdzdxU1ZjZEhLa2Q2N1Iwc3BCaXBSR0g0QTJyN3dYNDdHRjQxOHo1ckhWanBVUlBBT0piZVlXZDVVbEF2cTE5dWIwSXpiXC96blFqWVpUaUg0bzUyWDdLNUI1MWhtTyszaFErTFh3Nk81cTUwMnRMWHlBK2gzQm9CMGU5RUdjeHM3NW05bGNQZkI2YU9RNlIxN0h2emdzYVJQV3JGNnppRFpyN01sVVprVng1UzRjTUNEYXlUeFFieDd4YXNuT2RPcW9jZlBTUDhPWUdtMGJleWM0Rk11bmUiLCJtYWMiOiJmZDBhNTZmN2MyMjc1M2FhNzkwMTYzYTBhYmU1OTQ4YjA1NTQwOWI0OTg4MWRmNzg4OTc5NTEyZmNmYWM1NGIzIn0%3D&amp;signature=d2e7806d9e7ef4b8caf015a4230f39a7ef1f69f25f664d05913f7140f032faa2</image>
+    <start>01:45PM</start>
+    <finish>02:00PM</finish>
+    <date>30 January 2026</date>
+  </channel>
+  <channel>
+    <name>Rtp 3 PT</name>
+    <id>Rtp3.pt</id>
+    <title>Not?cias 14</title>
+    <desc>Informa??o atualizada em direto, com os temas que marcam o dia. Reportagem, entrevistas e an?lise. O pa?s e o mundo na RTP not?cias, com Alberta Marques Fernandes e Carolina Freitas.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6InFDNjVkYnF2UnVId0dZWkdRRkpVSVE9PSIsInZhbHVlIjoiYVgrd213anhRbmxNRTc3dUU3dUtrQkxwb1AxUDlOOFhta2Nzb0JPYzhTUXFuY1dZbE5vV1c2MmhsRlpFTGR3WXRzRStheU03VDZBVTM0emtCYmtIUDNVbURVWTJHQVwvMEIzZjU4NmtsenZDNjE5TmlHRzFla3hhV3daSnFCT2xhQk96WUtyV09FaVNiR1RmeHR3U0YrckJmNjBHK1wvM1wvWGw2TFhMbmJQYmJrcHluMWdveFlnOUNOMGc2VFE0ekNvNDM4VFh0RHRYYklXVzJnekhZU0xSZ3p4dnlIcmFFK2UyT2hDeGQ4XC9YeHYraHppeHZoYTllcnBOeUludHBmd0giLCJtYWMiOiJmMTM3NjFkODViYmVkZmMwMWJhNTQxYzJmZWY4MzMwZjhkN2VkM2MzZjE2Y2U0ZDRhMDg0NmFiNzQzYjYxZGI2In0%3D&amp;signature=c089b8d4feca3a8da70d75cc6f0f971632e6082b5c073343405639f4b0cac9aa</image>
+    <start>02:00PM</start>
+    <finish>02:30PM</finish>
+    <date>30 January 2026</date>
+  </channel>
+  <channel>
+    <name>Rtp 3 PT</name>
+    <id>Rtp3.pt</id>
+    <title>Not?cias Pa?s</title>
+    <desc>Not?cias de norte a sul de Portugal com hist?rias locais que fazem o pa?s. De segunda a sexta, na RTP Not?cias. Com Maur?cio Jos?.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6Ilo1QWxGUVN6TDJKWWlLdWpvelBMSlE9PSIsInZhbHVlIjoiY3BuN04wemdMTFVvOWVNU3dOdVFET1VmeFNpdkZPcFRFV2xTYlwvN2s2UjRvMGZCZ0NmV254TVVCbWtzOTdzTklOZEpzNTdSZkdvYlwvWDVxcnhtXC9cL1BlTUNtQUZWN3BFMmNOQ3FrQmMrempPNlQ2ZHJBbXk1XC81c2N6Vnh5Z1wvOE16aFRUQVB2aHd6OENGWER6YTBNdjd1d29VMUw3eVM5N1FJWUxyK2xrTGdseXQ5cXlXUm13eTFuNWw3bXVIR3Bua1VpN1RPY2ZjZnYwOVBlNmswVDh5XC9LNFB4VTRSYWRnRFBrRXNNa2FYT1l2R2Q5MlBmS2U2ektLXC9rUktGTlB6IiwibWFjIjoiM2E2YjZjZTgzODk0MTBjNGY5NjAwMTI4YTM1M2Y0NDMzNzdkMmYxNTliYjdjMTIwMWZmM2Y2NWYxZWJjNDYxYSJ9&amp;signature=63082eaf0972b7bdbccd1d628417e0f2cedd4a600ac11d1bc416dcb78f7d0538</image>
+    <start>02:30PM</start>
+    <finish>02:45PM</finish>
+    <date>30 January 2026</date>
+  </channel>
+  <channel>
+    <name>Rtp 3 PT</name>
+    <id>Rtp3.pt</id>
+    <title>Ensaio</title>
+    <desc>Com depoimento de F?lix Ribeiro, Diretor da Cinemateca Nacional, e da atriz Mil? este programa aborda a carreira nacional e internacional dos irm?os Helena e Tony DAlgy e o seu misterioso desaparecimento do mundo do cinema.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IkZadENLR2dSTEMwM3o2TFRcLzBwRmhnPT0iLCJ2YWx1ZSI6IkVJQVRCMzRhY1wvNEEyYnU3Ukh5MTAwYmFqT0VkUHN3b3ArSklRXC91TE0rQnhNbzZIUEZwS0gyeFhwNkE1enIweVBcL01ZeU1hVjcwV1wvZkxTdDdRU01XaFwvV2JxanZrd05MQU45REJWNEFNNWxsZHZkWlN6VlJYWEN2UEpvTVZUZVNtNk5TVGpBUkhFMFwvS3dmUnNwa0JUNW1xdVJZQks4b291TGxmem03WkxBSjdGeXNUWjBoNzhCekRSQUFoMWN0VjBVUXZ3bzlWWmNUSkRRSG5yelFHanUxY0RNZ1o4aHBVazQ4VkF6bm5McjY4cGN6b2xydU8xenJVc05lbGNSXC84IiwibWFjIjoiZDVkOWZjMjVmZGExMWExZjhlMWNkYjU3OWExNjY5YjVjOWNiNjViYjM5ZTI1MjI2ZWQxNDZmYzgxOTliNDExNiJ9&amp;signature=c842c4eb5bbbe3e3eb4fcee6770d965d7b4ca648c09c02f8bb23475f5ba4cf9c</image>
+    <start>02:45PM</start>
+    <finish>03:00PM</finish>
+    <date>30 January 2026</date>
+  </channel>
+  <channel>
+    <name>Rtp 3 PT</name>
+    <id>Rtp3.pt</id>
+    <title>Not?cias 15</title>
+    <desc>Informa??o atualizada em direto, com os temas que marcam o dia. Reportagem, entrevistas e an?lise. O pa?s e o mundo na RTP not?cias, com H?lder Silva e Cristiana Freitas.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IkxsYzRQN3FkV3crUE5KUndaTko3OGc9PSIsInZhbHVlIjoiN1M2S2hkcko5d0hBU0ExeXdQdFVCSHNEQXVId3g4U3AycFFzNDFkQWgzeDE4R2FaQ0E1S1ZBRUdEdXVJRVpzQk9KU3ZxSUp3SGE3Z292UEk4WU5zdVBxWkk3eG92NkxMTHhxWHVwaFJQVXEzYkZIUVBoTHNRaWRcL2s5MTVUOVJZcllaSjN3bElzKzFvUm5uYTloUXdYaXRCZ2pteitJRnI3UFhTY2g4RGNoR0sxY2Vlb3BLemRvOERHalBPOXpZWDY0dmNXb2IrV0R3OHFTdUJnTzZySkJrdmVlaDhEZnlHMHBOOWhjSnlPc0FTMlBCNmhEVVFsQmJuTlgyZkt4SmsiLCJtYWMiOiI2YTkxODg5Njk2MGZlZmY1ZmM4OThkMDRlMzllZTBkOTRhOGNiOWNhM2E1YWYxN2VmNDc4MjBkMDY3MDNlYzQxIn0%3D&amp;signature=551dbc3760a6f5575ebedb91a632df8f4a0e67cce5919a9f6aac3e8676df710d</image>
+    <start>03:00PM</start>
+    <finish>04:00PM</finish>
+    <date>30 January 2026</date>
+  </channel>
+  <channel>
+    <name>Rtp 3 PT</name>
+    <id>Rtp3.pt</id>
+    <title>Not?cias 16</title>
+    <desc>Informa??o em direto, com os temas que marcam o dia com H?lder Silva e Cristiana Freitas. E ainda as not?cias do mundo desportivo no Jornal de Desporto.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IjRkYXA2KzFNQlZiSTdcLzFhQThFVDhnPT0iLCJ2YWx1ZSI6InRZWW5RM0puU2tLRlBVVElMSVdLRTN5QXYzd2phaFBnRWhZYURQdHR3SlkzN3E1czRcL1BOQXdYcHB1KzA1cklzTDQzdDJLTW5PSDdHNVVIbUdmQUZMTkxVR1NCRVwvcUo0Q1VZbGZzdDJpaWNvTVZPdTc0eVB0emh5bUpZWVZCWGlrTlU2aWR4bU5Qa3BOOU1WRytnVzNBN21Fb21oOFphd1g0NUhNNUJGV0VKaUVLZTVNSjIybDZpRzVuYVwvRGxoVkxFREh3cmVjTVpcL294QjBwMWpBTWMzVVJ6djV6ZGVwUU51WTdqRExCSDZjMXdmNFhPWlpPS0pjTU1ZeVkrelVTIiwibWFjIjoiMjA5NWM1MjNlYjUxNDdhNDMyZjUwZDIzYTlkMTdiM2UwMzA1NDU2NzlkZWI3MDBiMDhhOTI3ZDAzOTRjODZhOSJ9&amp;signature=f0a06b7705d5691c17e3ed8cd34edcec0d49f08cfeffadc6ead8fcad6c481695</image>
+    <start>04:00PM</start>
+    <finish>05:00PM</finish>
+    <date>30 January 2026</date>
+  </channel>
+  <channel>
+    <name>Rtp 3 PT</name>
+    <id>Rtp3.pt</id>
+    <title>Not?cias 17</title>
+    <desc>Informa??o atualizada em direto, com os temas que marcam o dia. Reportagem, entrevistas e an?lise. O pa?s e o mundo na RTP not?cias, com Ant?nio Esteves.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6Im83ZXdXdDdrV29XR09TamVQQ3lJVmc9PSIsInZhbHVlIjoiMTRlcXgwQlFYTExuaVRTK21WY3VjTjN0bm9HVGZkSHRibmd5cUZ0b1pUTmhZdytnb2UyV096R0pvZzFKZnNDYzNqVm1VeFVCVHJyeWxQc1AwOUs4S0Y3R2l6WGlyWHRqcE1rTVpucUlGYk4yN1RQanhDWFwvSENwWml4Y0xSb2lwXC9lY2VzMDRzcWJuQWNtTjZzeDBUMTFMbjJDRjhVZFNxUGNPSUNjczhBS1ZwR1dWSERwblA3SjNSSmpEXC9yU0k5TVBrNnRNN2EwQUZISnV0XC9tSmloRDljbW9ld1BYaHFrQW9FNWdKY1V3d0FcL0JQMW1CZjcxSm90QTZQbmh3YnVMIiwibWFjIjoiYjNlN2VjZDQ4OTQ2YjNjY2FkMTg3ZDAxZTEzMzE2NDRhNmEyZDBmYzIwNDkzOWJjNjc3MGNhNjM4OTM3YmQ1MCJ9&amp;signature=b5a851011d2db3961b2d1c86607e0a89bfcdac3cc46fede2f1ce2dbd43cdb9a1</image>
+    <start>05:00PM</start>
+    <finish>06:00PM</finish>
+    <date>30 January 2026</date>
+  </channel>
+  <channel>
+    <name>Rtp 3 PT</name>
+    <id>Rtp3.pt</id>
+    <title>Not?cias Seis da Tarde</title>
+    <desc>Na reta final da tarde, os factos que marcam o dia. Atualiza??es em direto, reportagens, an?lise e Jornal de economia com coment?rio em direto. Na RTP Not?cias com Ana Louren?o e Cristina Esteves.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6ImJubmRWSHFYR2RkbmN6a3d1TEhIWXc9PSIsInZhbHVlIjoiSlZyMlVjcU45Q2tzQ3ZGZzRraTltUjFZMzYxVVg3akNja1JZamp0MFoxWmlxRG1VOENsSnNiNEE3R2IyWlN6UkpvXC84WTFNMjNudSt6ZG1rNlFsZlwvaVU2aFFpUlUzSW9GRHJJa0JcL2J5OGRyZ2dJRnp2T29UdWYwdUJMbndHUUZMclc1MlhoYVZXaXJackNTblZWUXpXdlBJQmRObHYrMWJkMVZGdjhBbkxucXVRSnZ6M3BRc2FaeGI4QmRzOUpScUlUVTlaT211a254TnBIRUhnV1AxK1ZmT3dTa0Fab3A1Nzd3N1JVeTZUbU5xaSs2YWk0Y090cDJGUnNTNVFcL2wiLCJtYWMiOiIwYjIwNjQ0ZTQyMGM2MzA0YzllNzdmMmI4YTg4YzE2Y2RmNjFmOTgwYzhmOTY0MWNhNmRmNDUxMjcwOWFhZGE0In0%3D&amp;signature=ac60b098ab195dfc632cc7fa8c89e2e40909e194bfa156e1fe93bd0de9d2fe0b</image>
+    <start>06:00PM</start>
+    <finish>07:00PM</finish>
+    <date>30 January 2026</date>
+  </channel>
+  <channel>
+    <name>Rtp 3 PT</name>
+    <id>Rtp3.pt</id>
+    <title>Not?cias Sete da Tarde</title>
+    <desc>Atualiza??o de todas as not?cias que marcam o dia, no pa?s e no mundo. Na RTP Not?cias com Ana Louren?o e Cristina Esteves. E ainda o debate em direto, no Jogo Politico moderado por Ant?nio Esteves.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IjVwTktzRGFzN3p2R3ptRmtZcnJrdnc9PSIsInZhbHVlIjoiSW1QYzhneHZnamZcL0tNVHRaZVBEdnBubHVQcXNVanRmdVdOV3BuM3Z1bWgzUUxQYXR6SnpaT0JnM3hKamhXY1Nxa1FFNm54NEpmb1lzdHQ3VTJaQXNGelpTc0U2d2k2UlhmOG9OSlwvNE85Sm13cWJqZmlKXC9tek1BeFk5bnZEWUVwOERRbFVkZmVncmJoSTFUbE95ZkJxcndDR2R5RUhHdlZ6VmV5NkVRdSt2a2t0bHZFTncxVW05VmkzZmQzMlA1cUh1WHZNU1ZcL2luUjNcL29lYTZZQ2tLMFVmY2J2RU9pNXBTSFV2Mk1VQmpaZUhjaXBIMVJDN0FBR25ZTDlFaHVOIiwibWFjIjoiYjZmNTBiN2RkYzQzOTFmMTlmYmM3NzY1ZTZhY2JmZDc0ZWM4N2M5NGZkYjcwNWFhMGYxY2QyMzhhYmY2YjBhNSJ9&amp;signature=8bfa7206500911a1c3ec1eb7b90456fc3951a69efd26633f600e13481a7a429a</image>
+    <start>07:00PM</start>
+    <finish>07:30PM</finish>
+    <date>30 January 2026</date>
+  </channel>
+  <channel>
+    <name>Rtp 3 PT</name>
+    <id>Rtp3.pt</id>
+    <title>Jogo Pol?tico</title>
+    <desc>Tr?s partidos, um debate di?rio. Ideias em confronto com modera??o de Ant?nio Esteves.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6Ikt3eGtIM2lCNXFybU9sc2xGOWVmSFE9PSIsInZhbHVlIjoibUdpZ3EzbDJ4VkVFZXVSY1pRT3IzVzNyUlhmMnJqZ3N4NDc3WTU4RyswQjcxakI0dzFzalwveVVBTW84T3FNNTRMUSt5aDFNRCswU3hRcHdJd3E0QVZwV2NQXC9mR0VVa3M4MTFHbFwvUTIrc1hUWGFkVVBISjhIaGowUGpkeENHNW1ESnN6a3Y1dEhyUmlxZjdEQXBJVXZHZEhwXC9sOEJBbGVpcFExWGFNOXcyZHg3WFg0d1RMeUNHa2M5ZjBUYzM3Y2h3TGtnRUhuVE82YitpdkluTlU3UE9velwvaHlyeEc1bHdkNldcL2ZvRzFxNWVIWmtOcFwvMDRIVFVJTUVQTDg4RWMiLCJtYWMiOiIxMjQ5NTM5YzVlYTkxZTE3OWE0ZjQwZWFhYmY5Njk5OWFlNjhmYTA0OWYwMjYxODc5Nzk0YWM5MjhmMDA0MGIzIn0%3D&amp;signature=92fa33353cc83e7826873833f8e4ab5c02e01b5c05d054d1ad7956ca9ad53fb0</image>
+    <start>07:30PM</start>
+    <finish>07:58PM</finish>
+    <date>30 January 2026</date>
+  </channel>
+  <channel>
+    <name>Rtp 3 PT</name>
+    <id>Rtp3.pt</id>
+    <title>Telejornal</title>
+    <desc>A mais rigorosa sele??o de not?cias, todos os dias ?s 20h00. De segunda a domingo, Jo?o Adelino Faria, Jos? Rodrigues dos Santos e Ana Louren?o mostram-lhe o que de mais relevante se passou o pa?s e no mundo. Se ? importante est? no Telejornal.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IldxOUV0NmlNNUpqNTlmdkxHWlc4M3c9PSIsInZhbHVlIjoiUHdpR0RBaW9IM0IrMjV0cnVoazUzQlZqNElRVmNVb3RvUm5UNFUydFV6QjdDelcrWXUzVVRXbmt5QXowUGE4Q1wvY0J2MUREMmtuNHY5eno0U3BESnNackdINk5ZWWd4c1FUandubnFxWXpVdTFtWlJOQnZPWU11aTVkQ1hLXC9Wa2hOMEM0YzhmNVwvb3dYRG9maXZGcFwvSkhHQnVOWWF2d2xac285T2ZpeEhpdlpQMmJ1MFpOYnlEcnBDZnhGcEorVUVLRGRRZzJNNEFEc09rbHEwTFlrU2hCSUlFaGhjU2NxK0g0Z3ZkbzFaMjk3UFdWZ1ZmYzNEMkxWRHVINU52UUIiLCJtYWMiOiI4NzNlY2E3OWJlMmFjM2VlNWYxYmZhZTlhNjNkYTJkNDZiMjBkOGE0ODJiNThmNWYyNmU3NDJhMDMyNjljNzczIn0%3D&amp;signature=d43cf20e12a16edcbfc23bbb721ef2398cda0432436fbc8e760732dd8b987ae0</image>
+    <start>07:58PM</start>
+    <finish>09:00PM</finish>
+    <date>30 January 2026</date>
+  </channel>
+  <channel>
+    <name>Rtp 3 PT</name>
+    <id>Rtp3.pt</id>
+    <title>Not?cias 21</title>
+    <desc>A atualidade nacional e internacional em destaque na noite da RTP Not?cias, com Jos? Rodrigues dos Santos e Jo?o Adelino Faria. O rigor e a an?lise com os protagonistas que fazem not?cia.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6ImdwUXZBdW5HdmF3VFh1RFQ5TVIyU0E9PSIsInZhbHVlIjoiXC92TjNXNVhESE04amVXb3R2bjlIWjhtR2JsZDh1Y1BCQk56cjdtaVwvbnFLRTRFQ3lPaDk0TG1sS1lRWFdjdUcxT0VRMlA5Z08wR1dYamtiMjVMTTlJY1wvbUFFZFpLdFl6NmtBUDk2Umg1WVNpbzhkMEt1XC9RMnQ3Q1BPcG1tN3VNQTZXMkxTXC91WlVuMDV2NTBENExNZ2paR1B5N3l4S2hsRk03OVB4aDBjK1dlemJ0bDhQK0kyd3BadzJMaDJcL0FsVFlPV21zSGxZS0lUTW11U2dkZjJZMUczeDRcL2huVHFzaVlWbkJsbjNqSFlNMWJacHcrZGNZaVZCRkUrbWdGcFMiLCJtYWMiOiIwNDA4Njc4ZTJiYmE4M2EzMjhlZjM0NjcxYjM1ZTVlODkxMjc3NDFkMDg1MGZkZTZjODRmZTVhMDE1ZTBmYmY4In0%3D&amp;signature=07e9dd04e12dc9fd0a0bf6a753160dda89e5147df1974c4da1088a31ecff1eb5</image>
+    <start>09:00PM</start>
+    <finish>10:00PM</finish>
+    <date>30 January 2026</date>
+  </channel>
+  <channel>
+    <name>Rtp 3 PT</name>
+    <id>Rtp3.pt</id>
+    <title>Not?cias Noite 1? Edi??o</title>
+    <desc>?ltimo olhar ?s not?cias que marcam o dia e a noite informativa. Com Clara Os?rio e Pedro Esteves.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6InJyRE5sZG42d1BqMTRuRFJcL29MR2dnPT0iLCJ2YWx1ZSI6InBTSkhIWndLa1NyUmpQS2YyVGxOdFhCcHZDVHBUU2MxUjNTck92RWtNdytpQ0trWmp4QzNJUDdIeDUyeGsxZkZPRWxuSjdENmpLK2FwQW8yQndGQWVtYWRENWFYQUlqMmJGQlV1K0xzZkRwYTZTOWE5aVpNMjVsaUtQUTFyNUY1OUdBeWk2Vlg1T1lwVU50aUdyeDZTa3hyZ21BM1FRRW1HTUNlZk5ZbjgxRVdVXC9cL05RYzRLN0FacGRJRFJhSmNpYjJvOXl2UllDdzlDcjF3aWJ0b3R1MkdjR2NIM1ZRcUNZWkFmZ3N4WGRxU2VaeVZxN2R2Qk9ndWt6cWFLNWZBQyIsIm1hYyI6IjlmZTNkYjgzMjFlNTVkNzEwZjYxOWVkODNlZDA3MDFhYjg0MDgyN2U5OWQ2NWVjMThkMGRlNTM2ZTc2ZTg0OWMifQ%3D%3D&amp;signature=38a04634fa6d571c19d52f87ce5afddc33638627da26f7753e5d1f21baa4f075</image>
+    <start>10:00PM</start>
+    <finish>10:20PM</finish>
+    <date>30 January 2026</date>
+  </channel>
+  <channel>
+    <name>Rtp 3 PT</name>
+    <id>Rtp3.pt</id>
+    <title>Janela Global</title>
+    <desc>Programa sobre a atualidade internacional, com convidados e apresenta??o de livros que versam sobre a atualidade global.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IkdKRkhTZERqdlk3UTF2RHlKRVpUaEE9PSIsInZhbHVlIjoiR0diZldMbzlmcGZIblpZeGZSRWptc1U1RllCQ2xzUDRGbkFBditrcnRzajgrT2N3ZVVSR1lBUXg3T1l5Y015RnJPeUhlOUhxdFo3bklkc2h1TzV2UVNTK3F1d2xlbDJsaG1lQk15QktrSkx2ZGFITVpDaDBBWjVMQTY1Sm1CZmE2UmQ3c3hNUHhFejNlMXE1N3RVdEk5TWIyaERQUVM1MkNcL1cxNFdmM0o2K293ekFnNFpyRTBGTlwvdXJ0UGgxbkZ1VWFyVFwvK1k3dUw0d3dUVlRvVWEwMlpuNHRJK01keUZ6QkFsSXBwem9SeGw3RHJkMGYzK001UzllNk5vSUljZiIsIm1hYyI6IjRkMjM2ZmI1MmU3ZDlhZTFmNDNkNWEwOGRjMzFhY2VkYTYwNTM0NjJmYWI2MmFiMjIwZWQxZWQxZjQ0ODBlZjIifQ%3D%3D&amp;signature=148293530f8582e9223559214b129d9fe847132384f5686b57400012c0561013</image>
+    <start>10:20PM</start>
+    <finish>10:50PM</finish>
+    <date>30 January 2026</date>
+  </channel>
+  <channel>
+    <name>Rtp 3 PT</name>
+    <id>Rtp3.pt</id>
+    <title>Seman?rio</title>
+    <desc>A an?lise da semana, factos, imagens e pessoas que marcaram os dias em Portugal, com Ant?nio Jos? Teixeira. Convidados de v?rias especialidades, incluindo da Cultura.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6ImxxQkpTQ21yd3VqRWhmV1JqYTJua1E9PSIsInZhbHVlIjoic2J5Tkh2VXVmMHNZQ2pNMHlaMUZHMzZZNnppbzdEV1RveU5CNFowc25pXC9OMHVnNWxsSVJHUUxjU2JpeXB6M0Z2Z1FxRk1MNnl5Z2ZwMkhFZDFvMmcxWVBnRDlBN0NGUEdFZDBGMkVjbkJ4eTViWGljditaZDNWWGlxYW94ZVhiUHBjNjVLWGlxOSsrVGhIV0hzOU9sREJ6XC9STzRLNFpBaFJmQVF4VTgwdERpOGYzR3hXcEFwZW9QbVJhd3AxMDV4T0JDRHc5S3YwNkFyXC91dDhXQ1VTWkd4ejdUN0lZVU9MWHgzQm1MUHE0Y3hNQWo4SXkwb3FyejA2UEdmcFYxTCIsIm1hYyI6ImNjMzQzOTRlM2VhZjNlMmJiYmIyZTA2OGNhOTVkNzdhODY5YjVkYzM4YTBmNjA5Mjk4MjM5ZmNjYmE1ZTM3NmMifQ%3D%3D&amp;signature=fcb560c4539a8dfe78f94ae99ae9c00fc8cd9a9e80f5fe4e65af929907bb8c3f</image>
+    <start>10:50PM</start>
+    <finish>11:35PM</finish>
+    <date>30 January 2026</date>
+  </channel>
+  <channel>
+    <name>Rtp 3 PT</name>
+    <id>Rtp3.pt</id>
+    <title>Not?cias Noite 2? Edi??o</title>
+    <desc>?ltimo olhar ?s not?cias que marcam o dia e a noite informativa. Com Clara Os?rio e Pedro Esteves.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IkNrMVJScVYwS1dcLzJoQXpnc0llbXN3PT0iLCJ2YWx1ZSI6IkRVM0pvZTRTUkhKTzBiS0ptaVM3YmlUTHhBSDJVOFBCYzlvNWkwSGc1XC82dDZ2eTRwWTF5RGQ5UlpUNkFZRlhGYSs0b092aFVoblZLdTZiSzJmWHJQTDI3OHhSSVE2NEdRSFpPWG02M2R0alhQSkhBOEd4RVhqT1VGVHNGSW1rMjF0ajFlNHU1TXFCc0NZdDlCcVZhcE9mT1B3MmV0YlNrQll0TmpIMjVHTzNIOFVsd2ttV09mZDJwT2VqblNCU1wvN0pGUiswMHI2UkdNXC9RUkZKbis2MXNST2ZnVkRINTlHZFg2MkhJeThsdXRiWEM1dHZqV3FaUmMzZExoZklkNTQiLCJtYWMiOiI0MWYxNzBlNGRjY2U3NDZjMzgzNzE3M2FiMGY5OGFkYzZjNTI4NTkxYWFjNTdhYjZiNzBhYmU2OTgwYWVlYjE4In0%3D&amp;signature=c43b83ff85583ed272a599c7e57d0fd8d04237358f783a64aa7647c963b3ff35</image>
+    <start>11:35PM</start>
+    <finish>12:00AM</finish>
+    <date>30 January 2026</date>
+  </channel>
+  <channel>
+    <name>Rtp 3 PT</name>
+    <id>Rtp3.pt</id>
+    <title>24 Horas</title>
+    <desc>Bloco noticioso com um olhar para o dia que termina, marcando claramente a atualidade do novo dia que come?a. Neste espa?o de informa??o t?m tamb?m destaque os principais eventos culturais do pa?s, com as opini?es de quem os constr?i e daqueles que estiveram na plateia.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IlpNUlNoSCtXN1RpTXVwZHRNWGxmOWc9PSIsInZhbHVlIjoiZ3lBeTgxQTdhRThtT0NEWWVUMmxUN0J4MCtNMUlWNjV6SXZvQkJSWGYyVGdRcTBGUFNKWlkrZlAwSkh4ZG1uZ0J3RkdwdWpFY1g0dWRuQlwvMTI0NW1Nc3diRXJybUl6VWhGSm1acEM5MStIVWVBNVIyMTB6dDAxSk1NemF6RlVzQ2tnbXZPYk9QbVRxbTZJSVN6a25uS3BVWnFQbWpOVmlyeFdnOXFTeVpwWGtmME81ME5xNDZod0JxMzhzYTVyakNuazdcL3BzVXpHUUJRNDZYbEpUM3FPTHh5b1M0V1M4eTB2N0IwZWZSdTlVUE1yY3JUY2hFQ2NNbVNLanp2UXAzIiwibWFjIjoiYmUzOGNhYWQ3MDZmMDM0OTkzZjU5ZmY2Yjg0ODdhYTg4NTdlY2I2YzU5NjI3ZGQ0NjJkMGQ4ZjZhZDM2ODYyNSJ9&amp;signature=f02b642f6c839caf033b2dfbb3bdf4dfdfb37f24037d457182042f1d7e3f6603</image>
+    <start>12:00AM</start>
+    <finish>01:00AM</finish>
+    <date>31 January 2026</date>
+  </channel>
+  <channel>
+    <name>Rtp 3 PT</name>
+    <id>Rtp3.pt</id>
+    <title>Coment?rio Presidenciais</title>
+    <desc>Espa?o de coment?rio e an?lise sobre a campanha das Presidenciais 2026 com os comentadores Manuel Carvalho e Maria Castello Branco.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IkM3b2d0NVB5b1lJNWNWQU05WEtmMVE9PSIsInZhbHVlIjoia0t2SWNudDd6S0NoZFlzY0cwS2hycVpoOTRUQ3I0UVhBRXFzU2lCcXVUQktBZjREY1dBbVlnWUJFNjFxenRjV3pGNlZaV3ErN05hNXI4aFllVTR4Ukx3SGFEZWZpUHlVdWp2K2pOTUdQZjRaOXAwTzc3NEJTQ3ZPYUYycUdPOG1sQ0JZVnRlRFJQYTcyUVVoWUlnZzE1SW1ac1RBcThGUUtKK3loWW56Rno0TlE5TjhKTEZLblVLQXV2TTVrQnJVNGpuVUJUQXlGYVE0SzV6VXgydmpVWEtPQUFwdUxnTDJ5SDg3NDdOanQ3WW55emJUUHdYNjA0RlZkMGlLTVBPaCIsIm1hYyI6Ijk3MmFjNzBlOWE3NzlmMzczODhiNzVlMDFhZWFhMTU0N2M3NGNjODBhYjMyYjZiMGRhYjdlMDliMjNhNTA4ZTcifQ%3D%3D&amp;signature=33a960bbbe3a57004addb2eb2b8936e9c18464cfe5f4cae43c87c2ba5729bf41</image>
+    <start>01:00AM</start>
+    <finish>01:25AM</finish>
+    <date>31 January 2026</date>
+  </channel>
+  <channel>
+    <name>Rtp 3 PT</name>
+    <id>Rtp3.pt</id>
+    <title>Jogo Pol?tico</title>
+    <desc>Tr?s partidos, um debate di?rio. Ideias em confronto com modera??o de Ant?nio Esteves.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IlRVYkdvUTREcDRsSXd3TVR5dXA4SUE9PSIsInZhbHVlIjoidUVjSTEwNEg0SUczc1duOElNYmpcL2JDbnVsRmJzQjU4WlBBWlp6bVwvSUpuRkhtQXcrSzZYSEtMZXFkTHY1d3RUblNMNEJoa3J6MnhPbUNqMEF1d2ZvTU5XZW0zV3hcL29FK1p2eDk1UERSR0VBS0EyZkwwQm9pTVMydDhJT0VzSThEeGE0SVRGNFJ4Z0czUElpc3dLSmlGMkJoNllQTG1xQTRUUytnU1N3eVhXZ1U4Vll3amVaRXU2aWpBc21OblMwK3pLNzg1RGJlZkxVOUprNTZrTFkxM2ZQdWNzaWxncEIxOWZmS3Z0Mk5oU3RRSzJqTmhGdkFGcWc2dngzTjBvayIsIm1hYyI6ImMwMTk5NjViMWMyMmVmNzcxYTFkNzIwNjhhYWZkYjY2OWM1ZjZhMDQ5NTdkZjI0YjlmYjczZGMyMGI3M2VlY2IifQ%3D%3D&amp;signature=f6a7026b59f5a8cdf0a3d3cfdd92b4d219caa6e0d6c0899059c2924c0a91913d</image>
+    <start>01:25AM</start>
+    <finish>01:50AM</finish>
+    <date>31 January 2026</date>
+  </channel>
+  <channel>
+    <name>Rtp 3 PT</name>
+    <id>Rtp3.pt</id>
+    <title>Contraponto</title>
+    <desc>Duas vozes, dois pontos de vista. Contraponto traz o debate em direto ? hora nobre. Todos os dias, com Jos? Rodrigues dos Santos e Jo?o Adelino Faria.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IlE1Qnp1UXc2NmFHNGtMcXgyaFhRU3c9PSIsInZhbHVlIjoiRkRXSnM1OW8ya2ZQYk54bHA2MjZWbE0ySk45SWUxR3M4cnRHNTJCMnRzOHAwNHZMNWNBXC9uSng3Qk5zNDBOREZ3ODVmMUZJY0QwTzlCOEJqbVl4ODhQcFdUQjhlQ0N4TTlHQnFaOTJKTm00T3E4XC9MYjloRkFjS1hZa0xnN3V2WFBXYk1HNmNDY3pBOGtYWHJ1dElaNUYwVHJwdG81MGtXcXh5ZjJ4V0k1M0J3RlVCMXFMZmhhSGtXZU9Ta0ZKU3dYaUk5XC9MbWxaU1lLT05PTmJzVitKeXhcL0JON1RYU3p0d3E5bm8rQlFoZzI5dVNQN3RmNG5jcTdZWFhYNE8zT2IiLCJtYWMiOiJhNTU4NzNhMTYzYzE4ZTA3ZTYxYzQ0MmJlZDZjMmQxOGQzM2JjNzRkZGY4N2E1NTg3YWI3YWIxNjkwZDMyMGZmIn0%3D&amp;signature=ba5692d1c07bd01da00b260cc8fa9b182899382c88308308d94bec9441135cf9</image>
+    <start>01:50AM</start>
+    <finish>02:10AM</finish>
+    <date>31 January 2026</date>
+  </channel>
+  <channel>
+    <name>Rtp 3 PT</name>
+    <id>Rtp3.pt</id>
+    <title>Ensaio</title>
+    <desc>Com depoimento de F?lix Ribeiro, Diretor da Cinemateca Nacional, e da atriz Mil? este programa aborda a carreira nacional e internacional dos irm?os Helena e Tony DAlgy e o seu misterioso desaparecimento do mundo do cinema.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6Ik5IZlJiejhpUDliaVpxa3k5M1FsM1E9PSIsInZhbHVlIjoiT3hEQ1pNcFV6Sk5GK3FvcDdOeHRFbWlTSzFVTlZ3bXEyNWZKWUgxUlhKalJKY1ZmZEh5bWZ2R1F4XC9iYUt1ZmRHTm1qSUlTQTBVMzlub2ZiNE1BMVllcDNENCswM25TWktvV3pYTVU5citmSXBwKytjaUZFb1FuaUlnR2ZyVk00aituRm9vOTdYSnZMRHp3QVJrM2J5SG15YkczSE5MZlRsZk03Mmp1ajZaRklBS0ZnTEg3T0M3b3VJblwvVWRyNCtuR09xWUtab3AzRUxZdVdGWHh2eGxCMGNLWERKREo4OXFLQ2dnQ1VLMXBiY2pFREN3aDMyaUEwYVNWUHZBdFYxIiwibWFjIjoiNmU0MWI1MjQwNzY0OWQwNTY5Y2ZkOTM1MGZlNWEzNDE5NDIwNzQ3MGQ2NWNkNzQ4Y2JjNTQ5YWIzYWU1NjhhOSJ9&amp;signature=bc0f8e086f1059169f93941563a410be49b2ea017e477f4de35fcfaef8789a09</image>
+    <start>02:10AM</start>
+    <finish>02:25AM</finish>
+    <date>31 January 2026</date>
+  </channel>
+  <channel>
+    <name>Rtp 3 PT</name>
+    <id>Rtp3.pt</id>
+    <title>Seman?rio</title>
+    <desc>A an?lise da semana, factos, imagens e pessoas que marcaram os dias em Portugal, com Ant?nio Jos? Teixeira. Convidados de v?rias especialidades, incluindo da Cultura.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IkEzSE1IOWtjNGFPN2xYbnFkbkJZOVE9PSIsInZhbHVlIjoiN3FLSDM0SjhFd0U1MyswakhySGtTUHkrc0EwbkF2cTNvXC81bURoQmtCeENqNDJScVk0ek1PYVQ0Zm01Y3c3aGM0ZTlSSXNlYytZbStLeENCcGh5MDFTSlk0TzlJc05MSVNvaXNqbm0xOStoMnNuWVlkeEJETklPdm1qK2lzZEhMczFJNjQ0RWxxanhBdVI5UlI0VUx3d2lUUjZPKzNGM0UwYjJlWFM2NlZyeFA1SjBWSHNcL2twSzZwUFlSWW5MTGxVUUJBXC95XC9xUnB2bTgwZGNPMlExQVp5ekFBb3BEQmtvbllXMVJ0Skh5MlJTWVRRdGpYY3RsYjR2SG9EWWhsanAiLCJtYWMiOiJmNTg3NjBkYTk1OWVkOThkMDZlYjk4NTVhMDU4NWIyYzgyYTViYzI5YmI4YmM4ZWI2M2IwNWI4Yzg3MWU3ODNmIn0%3D&amp;signature=dcee3695e5235120a7a7b046b32279cd74fb3ac6248faf3a799aa6c5ba6c038b</image>
+    <start>02:25AM</start>
+    <finish>03:10AM</finish>
+    <date>31 January 2026</date>
+  </channel>
+  <channel>
+    <name>Rtp 3 PT</name>
+    <id>Rtp3.pt</id>
+    <title>Janela Global</title>
+    <desc>Programa sobre a atualidade internacional, com convidados e apresenta??o de livros que versam sobre a atualidade global.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6Ik9RbDRcL2N6ZDBqVzNKbTh4cEhyYmNBPT0iLCJ2YWx1ZSI6IjdvZ0xYRXNNZWhGZlYrU1htWldOMk9vZnlhaXJaXC83ZXpMTHB2aFpjS0ZlS0tkM0Zwb2U3bVI3dTVIZnFnMXRyeDRwZ2dRa2U0RmpCbUhDd1FqMFpCY2xlVGUwT0tuQXNNWmxyWk9jenFcL2Nzb013RW1YTkpodjZ3SGw2QWFFcHRTSFZ6dkorbjFLdzhraVM4a1cwNlwvK2pzWjRFbUtOM2lFTUZzVUtvQmRkdGlQejZBSDh4bEJUVG1XUG1mYVoxbk1FWFRnb0dKcU5VSHk3V2FUM0N2WXhFRkh5dXEzWVU4TzZ4VndibGRTZHdsRUFGbVc4SStlXC9jcFRXUGIzTkFaIiwibWFjIjoiNzdhZmRhYzAwYmMwN2M1NjgxYjQxODZhMGI5YjJkMDNhMmU1ZmU5NjBiYWVkNDc1OWYxZGZkYjI2MDQ2NTQ2OSJ9&amp;signature=db21a14673274786a4606a80f70b720d4da8c8c689b927887fedf82d517498ff</image>
+    <start>03:10AM</start>
+    <finish>03:40AM</finish>
+    <date>31 January 2026</date>
+  </channel>
+  <channel>
+    <name>Rtp 3 PT</name>
+    <id>Rtp3.pt</id>
+    <title>Eurodeputados</title>
+    <desc>Os Eurodeputados dos diferentes partidos pol?ticos representados no Parlamento Europeu abordam, a partir da sede em Estrasburgo, as grandes quest?es que preocupam os Europeus.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IlB4R003XC9vaUxNVWVXc214ampJRVd3PT0iLCJ2YWx1ZSI6IkZaS1FQM21yYThPNThyeEplcVRRaGdUWkgwQ3RyRndqck1xclR4YTlcLzlkZDlIdWlhXC8zK1hlTmZhWVFiNkh5ZmZ4N3hXVTBjcDU4c3dPWWZ5d1ZWT29cL0lOZ0tOcU1NRWJDeG5nVE82ajREN1AxMnVWbW1cL2pZTzJ2cENBZWRvWVdGdEdweGRiUmZKSHZPQloxS0htdnBiVStTTDhoZHpHdE9vckVkMXJSbXlNZFk5VFJQbVdBNnNBbXRxVVFxbVY4TWJDamNpcjM3bE5zaFpjUERDTGhWXC81b041MzhLWjZyRlo5UTdWMHNwSkNrSFEwcGJraHJzYmIxM2ROcHp3cSIsIm1hYyI6IjMwNGNiYjc5MmYyNTEzYzg4MDk3OGEwNmU2ZjNkODdiNGNiYjJjN2Y5YTE3Mzc3YTc1NWY5NzVjM2QyYzIwN2UifQ%3D%3D&amp;signature=5d3340d428680dcfa48a8ca07cb47d43912bbae99aad3cbd36a41bd87ee6eb90</image>
+    <start>03:40AM</start>
+    <finish>04:10AM</finish>
+    <date>31 January 2026</date>
+  </channel>
+  <channel>
+    <name>Rtp 3 PT</name>
+    <id>Rtp3.pt</id>
+    <title>Not?cias Pa?s</title>
+    <desc>Not?cias de norte a sul de Portugal com hist?rias locais que fazem o pa?s. De segunda a sexta, na RTP Not?cias. Com Maur?cio Jos?.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IklzZUdvY0dSa2VoZ09tekw5RjQzZ2c9PSIsInZhbHVlIjoiaTlDa3ZrTDlRU1hcL2lDcU1qVnpUQ1ZvSjZqR2NnUVUrbnArR2FQVVUwN3JKNWdLQmZhVmNKMDVFazJocHVcL1Y1SDBtdGRlKzFFNTJqdUt4T0dzSUNJZGdJNGZwSWVuSHdYcVZDTEZqRjRIVENMdjVVb2JvdVduQzQwbWR3cEpQc1wvdmZcL1FnRnlKS3ZKcG5qSWNyMVk1aCsrNzhUTlFlMDFOQThSekJUOGhGbDM4N2JnNDdOTnJoakVBbmp3MldDNjBuN1ZGb25QM055eDNMT0QrWkNOUVg5M3N6bU5VMVAzTTNib0lUMU9qMHR1aVQ5a1JNZ2xkTG83Q0w4WlJaemEiLCJtYWMiOiIxZTg3MjMxYTdhMTQ0MDJmNTIxNTUzZmQ3MjAwOGQ0M2Y1ZDA2OTVkMjM5NjAxNzRiZGZiNzlhZDcxNTdiZmRhIn0%3D&amp;signature=dfc8d2566fee3290e58e77bc1b389399fedcc42c7beff5ad4269e49e432c6a5b</image>
+    <start>04:10AM</start>
+    <finish>04:30AM</finish>
+    <date>31 January 2026</date>
+  </channel>
+  <channel>
+    <name>Rtp 3 PT</name>
+    <id>Rtp3.pt</id>
+    <title>Telejornal Madeira</title>
+    <desc>Espa?o informativo para os espectadores da Regi?o e da di?spora madeirense espalhada pelo mundo. O Telejornal da televis?o mais pr?xima de si est? no ar desde 1972 com uma informa??o de proximidade e a garantia de qualidade do servi?o p?blico.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IlZHcVJ1d1R0YVA1TEMwdDlHVFEraVE9PSIsInZhbHVlIjoiMUF1RnJvSThOczlSd2pqV1ZwU1hNcG5XZ2VCNmpSK0VUNFJzVFRXR0UxN2dTdEJhd2sremo2ZjE0eWlrVjgrMUFzRTZEUkltVTNwYVJYcGRoY3RxQ0NPQlpEYjd1aHZRZDVOb0R2NEp0dndBNjFtK2VhNGpWUWhoc0JyMDlFS1ZGSmU3ZlI1TTFHeEViMUxSZDlocjhROTRjcXdkXC84M25ocWVtZGNqbm1xNTVVVDJFSFVhWEI0NWtERXhjclY4MndvQkp0Wk1udGtyU1haT3FcL2Z2V3ZoWDRKTDZHSTQwbVFPa0xzVCtGXC9Yc2JtQU1saDVLYklkSDRNMFBnbzhCUSIsIm1hYyI6ImQ3NDVlZDA3YmRiZTdhOTI4N2Y4Nzc2MGU2Yjk1N2VhZTlkMGY1YTIzYTAzYzMwOGJiMTMyNWQxZDg5YTc0NGMifQ%3D%3D&amp;signature=26261c25e21860dced01607ce0ec69fbb0dca74d7e9d075ce7597ef47fbc5279</image>
+    <start>04:30AM</start>
+    <finish>05:00AM</finish>
+    <date>31 January 2026</date>
+  </channel>
+  <channel>
+    <name>Rtp 3 PT</name>
+    <id>Rtp3.pt</id>
+    <title>Telejornal A?ores</title>
+    <desc>Diariamente, a RTP A?ores mostra-lhe o que de mais relevante se passou na regi?o, no pa?s e no mundo.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IlFvd2JmRW54ZnJvZHBHRmw5ZEFcL2pBPT0iLCJ2YWx1ZSI6ImV3Nnpod1RrWEdwMGZTY0JtS2NJUWNoMUVIam1CZ2VNb3lqTXI1SFA0MURzNTg0VXdOOTBrK3doenlzOE1tTTBDVG5lVldvdmpwV0lDdW9oSEt0M2FERnN5KzI4XC81U2ZVMXNSelNUOWFEN0ZyXC9oRkFcL2I0YVhEOGw5UE9sMmNCMW83dVlyeGthWWR5ZEg3OEhuWENSelJENndrZTVyUFYxM0FXR0xLZXNaMXRsUEVLOUFUYmdBd210Rjdwa2FvcFRrVVwvUkE1V0ZNVFgweDlPSGhUOXlYMEhBSTZ2MFhlZ3R1R041alh5OUhsdWV1ZHM1UXNscXNSS1FrR1dlcll2IiwibWFjIjoiNjIxOGNhNGNjMjUzMjI5MDI4NDJlMmU2YTMyZmNhMzYzY2QyZDJkMjIyOTA1Y2RjZWUzMWY4YmI4ZDY2NjM3ZSJ9&amp;signature=2e5f8495d8d67293591c39e1b6de11e9ed358a180e6d9ad5d43a0db3273fa829</image>
+    <start>05:00AM</start>
+    <finish>05:30AM</finish>
+    <date>31 January 2026</date>
+  </channel>
+  <channel>
+    <name>Rtp 3 PT</name>
+    <id>Rtp3.pt</id>
+    <title>Rep?rter ?frica - 2? Edi??o</title>
+    <desc>Notici?rio di?rio, com emiss?o em direto e transmitido de segunda a sexta, com not?cias do continente africano.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IkMxSjlyanYrNU44STQzV0haRGQyZGc9PSIsInZhbHVlIjoid25jTFNKVWxJSGtKV1dueUNJc2hxZWRvYU9EY1hySGY3S2FZbVNvbjBCdGlROGtDXC9zMmdVOXU5S1Y1VjlIa09sXC85SlZoQnJcL3VUQlZOTDBCWCt5N2FIR3ZmekhxTHJzVlhlMkxvNFRzaWZXdjN2dVVQWWd3bE9OenVcL3c1ek1Ea1RvVVgyQWJNeTdvOU16M2kxdWxEeDlNMmR5Z2hBendOUlJZUDM5TjMzU0c5Z3lyRXBKVDdFRzYrU2haV0lyeDRIS004YXkyUENOTE85U0tqVzFRRDkxSVdUSnFGYTI4bzV4cnE2d1B1M1R0VDVnMGJxU1kwXC9SMndwUUpmNG5iIiwibWFjIjoiNWM5NWZlOGE4MTM0NTliZDU5Yzk5NWY0OThhYzFkMTMyNjE1OTU5MWM1MmU1ZWYxYjAyMmIxOGJkMTNkMjQ3OSJ9&amp;signature=7005bd8e7167878467bb95d201ccf87de32ffe8344b7b0f5f17f502f0911966d</image>
+    <start>05:30AM</start>
+    <finish>06:00AM</finish>
+    <date>31 January 2026</date>
+  </channel>
+  <channel>
+    <name>Rtp 3 PT</name>
+    <id>Rtp3.pt</id>
+    <title>A Ess?ncia</title>
+    <desc>Programa dedicado ao vinho e ? vinha portuguesa.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IjRPMWY4OU1iMThZMTNTODlBUTlLNXc9PSIsInZhbHVlIjoiSEVtRm5LT1wvaGhNdTI3YUxVR24rM0xncmJKTWlkXC9KenV5WWVuVjJXQWZSY2IwNHNXTDBIMUJha0dlTmI0YkxFNk9OQ2dpM1VQaGhsMVBRcmh1eGwxdU1IaHYwbmZJbEUwU0E0V2o3b29FR3ZhU2FnYkpWazhiM3kxRFE3Skx6MkRja2xnVXJzZzFVYzFkRzNtTnBmNEw0Q2pGTHFxUGEwSnJkRXZUWnZVUE9QOEJPUXRSbldub2RFVGp5ZjFsOUJRTUFNU3Q5dDgrR0JKYytTeXRqWWh4OUFjdkJIT0hvZnRKa05ZWXlXZWhnclkzNCsyejdxVXB2SGM2NGpIRFM0IiwibWFjIjoiZjMwZWRmYTViN2VmMTNjOWQ4OTA0ZmMyZmZmZjE5MWEyMjUwMjEyNjg1NmQ1NTc1MTU5OTJiYzUxY2U4NGFlOCJ9&amp;signature=bbbe693ab116c8600943be35d7c6dc6ae599147152b62c4e2b7a5822f18b26bc</image>
+    <start>06:00AM</start>
+    <finish>06:30AM</finish>
+    <date>31 January 2026</date>
+  </channel>
+  <channel>
+    <name>Rtp 3 PT</name>
+    <id>Rtp3.pt</id>
+    <title>Informa??o N?o Disponibilizada Pelo Canal</title>
+    <desc></desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IklQRWI1UE4yK255dysxb2w3SUw1WVE9PSIsInZhbHVlIjoiSW9TNXVLellvXC9raExQQjhEXC9GMjVOOXo0eEc5ZFNrbGVVWGw0SUo3OU9SK1M3MDVtZHdDT1ZEdXBWRFhVUndHTjlQMnRhNE5meGl3d0FrRmR2MEl0ckxUaUZCVmswWXBTemp0Q09wSis3TFhydlFiMkkzZWtsMDNXR0NJVXEzSFF2aklHeW9xeDVyWnVsQlF0K24yamJBbFhnWVJOektuUDdPR2dobm9cL0I5aHdRNDdFbWx1QnpiaHVHeXorMWJUTUpyMktoRFErTU15K2NGaUJsUGd6WCtzU3RvbFphaGJqSGl1ZCtyVWZjMm94bUxnSEt1OVBwWUdENjY2RHltUSIsIm1hYyI6ImJlOGE0N2Q4MTAyZTljMTMxYjVjMmZhMjg2MDY2ZjdiM2UwYWQzNjZiN2QwOWM0ZGRhOTA3MDMxYjMxOTc4OWEifQ%3D%3D&amp;signature=bac1f354fbf1696e5f06a810feceb9e3ff4f75bb509627b225f792fe84bbc281</image>
+    <start>06:30AM</start>
+    <finish>12:30PM</finish>
+    <date>31 January 2026</date>
+  </channel>
+  <channel>
+    <name>Rtp 3 PT</name>
+    <id>Rtp3.pt</id>
+    <title>Informa??o N?o Disponibilizada Pelo Canal</title>
+    <desc></desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IlpVdVVvaGdRNjYzUFFYWGdOblwvUEJnPT0iLCJ2YWx1ZSI6InNtcTZteFNvaEJaRDBrWXZKMzU5TmwxQzJQeStNdXprN1JrZHdUM3VuMWJSSXVWZXdCdGR3VkhPNFBGZ0I4endjVWU3dXV6Njd6RjJpTE1kMXZkXC9RNGQxakJ3VGNUMGQ5K2lmNW8zaEt0RmcyRVVnbjJwVWdXbXdyOFJGTWtjK3pleXpaWUJ6MVlcL2cyWjJxWXVUbVRRcEVnVlk0U0FtYWNaMHpRb1dzNEd0U3BSWm5scDVCTUJrYkFmcUxEeisyR3pJenNrT1lXWm1rTlZ3cmRMc1lqTXhIMDBHc3llOVlRMDNhbWpUYTJJN3ByXC9OMVM1a3VcL1A0c2lyTmZxamgzIiwibWFjIjoiNTVjODdlMzg2ZDIzNThlY2MwZjQyNjJiYzk0MmNiMDk4NWMwNzhiM2FiODc3OWRjMGUwZDgzMGQ5MTcyNmZhNCJ9&amp;signature=8dae2603b90027c2cb42eb53141f9c8df630d16c39c6f9f853ca1292ce518a5e</image>
+    <start>12:30PM</start>
+    <finish>06:30PM</finish>
+    <date>31 January 2026</date>
+  </channel>
+  <channel>
+    <name>Rtp 3 PT</name>
+    <id>Rtp3.pt</id>
+    <title>Informa??o N?o Disponibilizada Pelo Canal</title>
+    <desc></desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6Ijl5T0p2Um15ZWxcL0V2dUU5OVUyVmlBPT0iLCJ2YWx1ZSI6IlJKU3FxRHl3VENmSjF3TGp0K2pRWlN0cTQxckNJajRhN0RVdVZrREw1M2VjU2xROEQrQzF4RVJJOTJDeTg4QmlhSW9BbUY2ZHN3RkI0RkhDRDhrdUNudDFIQWd3amdKMEU1WXFKK0I0TnduMmNURjVqbVpudUNlOW45YjhBR3FLanFTWDFQaHExTkZYeFRVODdiSGp0ZDJodXdVK3d3VmFIMEY5Qkx2d01ETFFIWHNDWFlRTGJqUFwvTjdSenFkRHgzbndhYzgzRXl3Wnl4SWFOcFwvVzVqWmdlVnJ4c21CVnNNXC94bnBDVmNDbHpDcUgrWnpvYVd2OXBmVktVVVlZWWsiLCJtYWMiOiIwNjZhNGQzNTUwYjBmYjAyOGIxZWJjNDJjOTY4ZTMzNjhlNmZlZWVhY2Q0MjFjMDlkMTMwMmU5NTUyZjI2N2RhIn0%3D&amp;signature=d0bb99929b7f4c1675725e8fc356f5a0db7b16f1d6394dade2e6479ccdb59a9f</image>
+    <start>06:30PM</start>
+    <finish>06:30PM</finish>
+    <date>31 January 2026</date>
+  </channel>
+  <channel>
+    <name>Rtp 3 PT</name>
+    <id>Rtp3.pt</id>
+    <title>Informa??o N?o Disponibilizada Pelo Canal</title>
+    <desc></desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IkNqc1JFaUdGNzhaWmVHZEJTTEhRb2c9PSIsInZhbHVlIjoiMmtXbnVSYlBjN1ZWRzNTSlJ0S1FralM3Q2lCTWhrSHFXdEhObUZXRmZXbXllcXhiaGhmZFVKRmp0d282Rk1EVFwvelBDVG1LZksrbjNwZVlES054cmhqU21nSmNvaE9ZQ3Z0Ym1RNmpETWxBbWlEMlQ3bGZiNlVlVFc0MFg5dmlKQjVPNHVLN21pZ3l6bzJKWEcyTmhZcjFrVDV5MndnOGloRTZsQzF0TitZc3QrTlI1NllYRVwvMjlsWWlkOHlEMTJnWWxFQmRHSDdsajVoYlErbDdUQ1BkVmdFZEtYcXlFRERkNnBiODJ4OHlZOVV4NlJkbXRxZmUxQkZGc3dcL25hMiIsIm1hYyI6ImYwNTc3OTE0MDkwYmFhOTAxNDU5Yzc4YWI0NzI5M2FlOTcyZWM2NDBkMTFlMGI3MWM0M2I1OTk3Mzk5ZDdkOTkifQ%3D%3D&amp;signature=709a256d0c4197332b71a8d33b9ffb30de1eb4afaf00b252d87000788fc4952f</image>
+    <start>06:30PM</start>
+    <finish>12:30AM</finish>
+    <date>31 January 2026</date>
+  </channel>
+  <channel>
+    <name>Rtp 3 PT</name>
+    <id>Rtp3.pt</id>
+    <title>Informa??o N?o Disponibilizada Pelo Canal</title>
+    <desc></desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6ImVNcXdxVUI3NlwvR3lZenhcLzZBQUJNdz09IiwidmFsdWUiOiJaV3diMHlEc0FKR3NEa2hqS0tQVElsRzYra2t5T2tmV2NiZlozWGoyVCtjS09LY2ZMMDNjeDl5OFh1UXJcL0V0TmJEVzR4OWpLR0hNNktrQXNqUHdwQmNORkpmVTR3NlVWb29PNTA0RjVYUjhRSGRJVG00dEdyME9Cc2dITDJENlhZSnE5QXBYRXN6V2NYcFRSVlRYSDZTamJHbUFtalwvM0xYeEtxUWhZMDhadzRzZmJ3MlByXC9Ea3VYT2hNaXJoXC9MNVZJR0l5aXhMMDNqeFFZUFBGR243ZE5CN2l5Q3FBVGgwTXZ4dm1kVkE3c2l4WDd6OVRYRU84UGZwM3RHdXdZdiIsIm1hYyI6IjgzOTJiZDE4OTFhZjUzZTRhMjE0YTNiZjc0MmFmMDVkMjI0ODViYTgzYjdlNTRmNjI2OTk1ZWQzODE0ZDZlYjcifQ%3D%3D&amp;signature=3fd2e1baf8cea09f8402314b7596bb68607c4ecba4b75c6afb6772341422a60c</image>
+    <start>12:30AM</start>
+    <finish>06:30AM</finish>
+    <date>01 February 2026</date>
+  </channel>
+  <channel>
+    <name>Rtp 3 PT</name>
+    <id>Rtp3.pt</id>
+    <title>Informa??o N?o Disponibilizada Pelo Canal</title>
+    <desc></desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6Ims2VFhpRUc2Wm1NZ2NQWml1SHBDWXc9PSIsInZhbHVlIjoidytobnkxbytYRFdKQmNSYmhqN3hDWWd1SFFrZlIyR1hPdkRBa0RoTXRJMFRTbnMzWTcyMGhmYTdIeEhoNjQ4MUlNNTdTQmFQUUp4Z1BaSDdaY3pLVmZaZ0RaT3R6THUwZzM1eHhQSTM1SzJ1ZUYwRTZzaHVuUUs2cXNLN05VTXBvcndmV2FpdzgwWXJcL2hEbE85K1FLcGNVdWJhZEI1ZGQ2Q01iME9qZGVpXC9KNnRicWdDemxucXJXM05UY05RRU1DdEpuOGZ5UXRzSEJYNGhHTERNOHpMK05mbncyMTl3ZHdFM2pLQUNPQzdaNHFXOFhHUUE0Y0l4MXBnRlJiTTRSIiwibWFjIjoiYjczOGUwZWJlMDc4NTYxY2IwYzBkZTI5MmE4MzgxNzdhMTljNzBlMDA2ZGEyMGYxOWI1ZWRjNTIxM2ZkMjY2YiJ9&amp;signature=80431691b004af809bcb5bcad0db5a430917bd7b8c668a6a3face58152f5fdf5</image>
+    <start>06:30AM</start>
+    <finish>12:30PM</finish>
+    <date>01 February 2026</date>
+  </channel>
+  <channel>
+    <name>Rtp 3 PT</name>
+    <id>Rtp3.pt</id>
+    <title>Informa??o N?o Disponibilizada Pelo Canal</title>
+    <desc></desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6Ik5UM2F1dHVPUThmNkhRMXNydzRlUnc9PSIsInZhbHVlIjoiQ3lHUlhCNCs2TmJYbEoxSnYxdXdLSkFaYUN1S0VZdVZScVVST21ocG1cL0h4TWhSMUlmbDUySDJMWmpXOHpXZkRhMlBLU0xhY0Vtb3dYbjFzYU55VDFuUnZyeFVFQzloWDNEME9HYUVuTW5PZ0tsd2tnaGtjdzZJYkdIQlRSTWh0QXRubThxMFlJR2NKdjBxSjZBVCtHN0xXcjRCNEhFVkF0VFZncmYyZHNzUjh1RlI5c3p2Y0tWUm9IOGZMZVc2YTFVTHF3SENXUm9RTms5K1ZsTmcwa2gwTDJxK01PMjYzTnpTS2hBcFRLekRvbGplaFpjZit2M2wxTW96aFNGUVkiLCJtYWMiOiI5ODdlMGE0NGQ3NzI0OWM0MGMwMmI4MWM0N2JhZTFmYTg4YmYxNzE2MjQ2NzdlZTY4ZDMxYzcxYTI3M2YxNjE1In0%3D&amp;signature=f625b3324f30609a92c105c2cc4b1330f3a20947958e4049235774495023cb1b</image>
+    <start>12:30PM</start>
+    <finish>06:30PM</finish>
+    <date>01 February 2026</date>
+  </channel>
+</tv>

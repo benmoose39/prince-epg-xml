@@ -1,2 +1,1373 @@
 <?xml version="1.0" ?>
-<tv/>
+<tv>
+  <channel>
+    <name>Porto Canal PT</name>
+    <id>Porto.pt</id>
+    <title>Liga Portugal Betclic 2025-26 - FCP x Gil Vicente - Pr?-Match</title>
+    <desc>Antevis?o de mais um jogo do FC Porto.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IjVVbEJKZWdmcjJlSDBhaEE0Rmlqa0E9PSIsInZhbHVlIjoiemdvbDBINkF6S1lLK0hseU5RV0w2TjRwVklnWWpNaGlaWWtxWFMzVmZKTjBHdmFzNE8ycjFUQmF2NXVRalJENU1hTURjNUdWVE5YMmkxKzBpMjVhem9keE1qbjlkQjBWQ3NtMVpJNThnbnBBMndpMUpkWXR6ZGxxeUZab09HWjZwbThGM1dHZmJCODFBaHUxYjlMNThjXC9LV3E3WDBGK2psQVwvbjBTUmNvQWhGWktFd2VZbFdxZzFKRzR6MFRMWDFSTmNpTzQ5eGNZXC9vRnNKQWhONTJzVjZoTlNXY1NzcnhUa0M0S084dVdGTU15RDlYSHpHV2lWUFBGOWdkdkdnWSIsIm1hYyI6IjJmMzMxMjVhOTI2ZjMwMTc4MjA0ZGY1MzliYjAzYWQyZTIxMGFhMjU3ZWY3OTEzODljYWU1NjUwZThkNjNjMGEifQ%3D%3D&amp;signature=4efeabd83230943a7ecd7e5d311602cfd56d418528ace60026d7bd3e5b2dc6f4</image>
+    <start>06:00PM</start>
+    <finish>08:15PM</finish>
+    <date>26 January 2026</date>
+  </channel>
+  <channel>
+    <name>Porto Canal PT</name>
+    <id>Porto.pt</id>
+    <title>Jogo ao Minuto - FCP x Gil Vicente</title>
+    <desc>Siga minuto a minuto o jogo do FC Porto.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6InVOXC9HaWtCOW8yMkpoRzA3dUIxNm13PT0iLCJ2YWx1ZSI6Im1FRnQxNUlSZkNZeit1ZlMrejRVY2lBdUk0aHd0RjlFTzJGdWRpbk1ORERKVmgxVlhOUHMzSEdEd3hPSkwzTlJBNFljZmtVY0RQU1A3RXZqeDg1XC9OZnFGTEdsTzk5bjE2bFdyK2pDYkE5V3ZFQllKS1EzU2x1RGp4VTJSVExcL3Z3dXJsTEpjeVBwb2ZxbkJ5eWR3aXBBSHB4MmFieTJ6REJnS3JLVG5jQWVJcU91Q0x1V2pBc1lubFlUYzgyOVV0U0ZUQ0EwQkpmd3Z1bFBvOXlHN0YrMURuelc4QVl2c3NnVWdBVTByd0JTbTEwTmpzeWQ1S1pWeVU3bTNmNjRYWiIsIm1hYyI6Ijg4NjBkYTdkODlhYzNhZjAxNzczZDRmZWE4ZmU4ODEzZWFmM2I4ZWZlNzRkMTg3ZmE2ZjBmNzkyYmFjNjRkNjIifQ%3D%3D&amp;signature=6c971f7cb7013745e9f0ad399c2dcca76bce02b3342f96800261c3180187a7c4</image>
+    <start>08:15PM</start>
+    <finish>10:20PM</finish>
+    <date>26 January 2026</date>
+  </channel>
+  <channel>
+    <name>Porto Canal PT</name>
+    <id>Porto.pt</id>
+    <title>Liga Portugal Betclic 2025-26 - FCP x Gil Vicente - P?s-Match</title>
+    <desc>An?lise ao jogo do FC Porto.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6Ikw5bTR5ZmhGRE5WYkY3TTF0YXV1aEE9PSIsInZhbHVlIjoiR0lBdUZYclRIUGVPa3JXcnBQSVJ4K0piclpzaFE0R0EydVZPbE82OVliMlV5NTNRakU4ZTc5SExySzQ5K1lERmZKYng0TGRaSEVZVG9raEdySlVqVThIZHJYVVRyeDFQdGxIUFQyOXp3SG9qWnVwWlFcLzhcLzBUbnlpcFduRjNKT0JldnR2ZHcyZE5YQW9TYk1MRnNrZFFqNjBoU2RibWZHdEorQVFpSnRVTXVoWHE0N1ZxNFwveDFWNVdVYURiVUFYc1h4eGhVSW5EdlNGN2VXQm91SUJBVWZkN0NzU0hTbU13eVdCQ09ZQ0tHWjZRTFl1K0NHNDVCTUNjTlBxVDFqRyIsIm1hYyI6ImFlMzFhNmI2MzM4M2YyNTg0ZGEzMzJhM2ZiYzhjYjkzMGU3NjFhNTZhYmVlMmJiYjFhZjI0OTgyZjgzYzVlNTMifQ%3D%3D&amp;signature=1d2cdab226ab5bddae57ebc921390e22ac06dde1be65bef08e819a6488dffc54</image>
+    <start>10:20PM</start>
+    <finish>12:00AM</finish>
+    <date>26 January 2026</date>
+  </channel>
+  <channel>
+    <name>Porto Canal PT</name>
+    <id>Porto.pt</id>
+    <title>Noite Desportiva</title>
+    <desc>Um programa que re?ne jogos de futebol e modalidades, bem como conte?dos dedicados ao Universo Azul e Branco.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IlVZdVZnUXJFN2dpdlBVOU85aG5vZVE9PSIsInZhbHVlIjoiUUdEc3lUU2JlT2Q5K3VHa0lsd3lqd2JUWXhcLzNjRlRBR1VrUFo5V0Z1bmhsUkpnckFcL3c5NDVTNnF2cjd1NFBKbGNIZkdNRXZuQ0ZDOTJOTGhyQTAwd1dlYkNFN3hYUitQRnNFakZ3eUVvaytzRmxVWHkzVXN0RkR0eXduUUc0Rm1xd0VSd1NHaHF2V3BQNWxPWFR5NVRJY0NlRDJLNmdZZXV0QkNjdk5sMmNSeVVJTEhYRm5PZTZsV1hLVmp6cXpPNzhNakxOdzdCMW54TUdHYXJ2OW9zODZtemFyK21tSWpMdkVjRDB6TEp0MmZcLzBsN21mZlFoaGh2MmR2Yk1SWSIsIm1hYyI6IjNmNGY4ZDNjMjBhNTRkOWFmNmRjYjFiZGY1NjExYTE3MjM5NzNhNDAzOTU1OGE2NDg0MDFlOWZhMTNjNzQ3OGEifQ%3D%3D&amp;signature=2498637d622eaa8ced137fdb9e5a982440da672a4eff0835e7b59ae94e62be29</image>
+    <start>12:00AM</start>
+    <finish>05:00AM</finish>
+    <date>27 January 2026</date>
+  </channel>
+  <channel>
+    <name>Porto Canal PT</name>
+    <id>Porto.pt</id>
+    <title>Jornal Di?rio</title>
+    <desc>Espa?o noticioso dedicado ?s not?cias de proximidade dos portugueses. Especial destaque para os coment?rios dos habituais convidados e ?s grandes reportagens.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6Ik1sQ1wvY2ZWVTZ0djVNeUNpOXlMeXpnPT0iLCJ2YWx1ZSI6Imx5bVpERExKQkY5TUppMnduM3dONHduXC92OU9HaGE2V3pOdlwvcHQ2ZFdMT2Z2cjJwbmJWUVNVXC9SS0FjbDBkbUNOd01Gd0VhYnJEdlVQRU9kanpIbmJCNkxMM3J6Z2dmTlJLamdUc1gzSXVnR3FoVlRMc2wzSW0zN2k0Z2pGUkYrTzVlOHQ1NVF4WVBwRElBSXNNdURxV1RWOU8wN05OM08rQ3IyOUVKZGVyN1M1SFpzeVpTQVwvUkprbUplMWxoSVkzSStvSHE4QmFhS2tcL0JWN2NCaXlNZW9HelQ4c244YTdxa0xBMllCcms3QjNxYnlhRHNRSmdhRnlrSTkwTjk5eSIsIm1hYyI6IjViMjQyODI0OThhMDEwMzE1YTczYWNkMmNkNTg1YmFiMmE2NjVmZWQxN2FiNmMzNDczZjlhOGZhNDk1YTM4NTcifQ%3D%3D&amp;signature=e14b5c2ebdf4db8bfa152d3516967a2a31e64bb380065936f63be01bb35369be</image>
+    <start>05:00AM</start>
+    <finish>06:00AM</finish>
+    <date>27 January 2026</date>
+  </channel>
+  <channel>
+    <name>Porto Canal PT</name>
+    <id>Porto.pt</id>
+    <title>Consult?rio</title>
+    <desc>O programa Consult?rio ? o seu consult?rio m?dico televisivo, sobre sa?de e bem-estar, de segunda a sexta-feira. Em direto, a apresentadora Alexandra Martins conversa com especialistas das mais diversas ?reas da medicina.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IjZrQjRaSHFKWWxZZWJoSFY1V1E2M0E9PSIsInZhbHVlIjoicWFDZEFRa2g3Q3gxTncrSDFLc3hrcERJbHBnRGNFbUJmenJPTHE2aWRKTU92YnZTRG8rM0puRnBaRkFJUVNLVU1MQjRwUjh5Y0FRZjZMTWl2M1I1NUxTdWVlZFY5dHp0Uk9nMDE3aWwxaVVRREVLd2kybGlxUE5DNHhSTlwvdEkrcWxTVWRcL2NuN0p3OTJjUDc2VFwvazk1QUhZMWVnZkNpXC9cL09Fdm14S1ZmUUkrZHo4enBzWDdocjRKZjVPc0hXRmp4NGltWHB6RUI1dllBeFhja0JLSnpFS2VkNXBMUGlGWmM3dUVZeG44Y0lRekFRWCt0UDNYeGhUWVljY29IdWtxIiwibWFjIjoiMGM5Zjc4OTU3MjQyOWE0YTI0M2NjYTE0NDFlODUxODhkNWI3MzFkOWI5YTFjNzgxNWNlM2FlZDRjNjhiZDVjNyJ9&amp;signature=3c88db6a2619e41b9267ba8c258ec7cd995653ac4c08dce924fe6d7e3373eff1</image>
+    <start>06:00AM</start>
+    <finish>08:00AM</finish>
+    <date>27 January 2026</date>
+  </channel>
+  <channel>
+    <name>Porto Canal PT</name>
+    <id>Porto.pt</id>
+    <title>Veterin?rios Todo-o-Terreno</title>
+    <desc>Programa que retrata o dia-a-dia de uma equipa de m?dicos veterin?rios com atua??o cl?nica em animais de companhia, esp?cies pecu?rias, selvagens e ex?ticas.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IlgwcDBHbDZhQjYwNlpnaVwvNkN2UlJRPT0iLCJ2YWx1ZSI6InhSb0FrY1RPZ3FRNFRSRUpBQ09Tc21FWTF0QUZwZ1NEdWdORnZtN3lBZEcxYjc2QlNab1ZVcnMwcWt5MkxaMkpxNHhJYkwyUTdCbVhcL1hHTFRIaGR2NGRVVDlvTGlGaUpEVHdpd0xlU3FwdlROQkdoUnZqWEVWa2JGaFQ3TzcyRzVUb2J5VGFtSEhVYVBNeUFUU0hJMDJQQTdsMElcL1V0aE9penFiWEhIOUw3TGFBcUhFOW1xOURiMERtdXVaUXVxNlBLZlFSbkxmNlpBV3JBMmFsT1ZKdURHVUcxbHZmc2xBckRVN25SVDJTXC9maU1EcFdiUEhBZ3ZTR1ltd1pJTTQiLCJtYWMiOiI1ZWRlYWZlNGUxYmVlNTc3NmIyMDZiNzQyODNmMDU5ZTJiYjkyYmVlMTRlZjQ2YjYwY2UyZDY2Nzc1YTQ5ZWY1In0%3D&amp;signature=349cb7aec2730a2b300744190b6d6aee490e4d6bf1537c6367f36a52d305b8f3</image>
+    <start>08:00AM</start>
+    <finish>08:30AM</finish>
+    <date>27 January 2026</date>
+  </channel>
+  <channel>
+    <name>Porto Canal PT</name>
+    <id>Porto.pt</id>
+    <title>N'Agenda - Entrevista</title>
+    <desc>Agenda Cultural apresenta semanalmente com sugest?es e novidades no meio cultural do Porto e Norte do pa?s.  Exposi??es, concertos, cinema, arte etc. v?o ser os temas em destaque.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IllzalJhYVd2MlJtMUhoWXhKeTkydGc9PSIsInZhbHVlIjoiclhCYkFFVGhHQkQrWmEzdDRFOWllWldQOFwvYTc3TUZUUGhKY0cyM2kxcWxlQ1FoKzhVOEwrVHlFSUV5TVl2dUt3ZmtScHo1TEdaVkljK21xTEx6elwvbjFZYkVmVE4zbjd0T0dSaVAydFZRWXdaVXNRWjFpOFF0c2MrS2k1YURMRnlBaktIV1dhcXZJamdkTnVwUHBzY0t2VU4rSWw3MVF6cmdoWVFcL09tcXZoSERsZ1E4OGV4VnBydGhTS2FoQWh5bnVSVTZKZ3c2OFwvRExhSUpaNFlDbXUxZmY4NDMwRlwvRGxMdkJVZ3FUM2M2anZSQkhuZ3pyWXpxSXlhT2tqV1Q2IiwibWFjIjoiOTA2MDI5YjM4OTE1ZGRhZWIzOTk2NTJlZDYxZDUzNDViNDllNzVmYmIxMDJlMGFmZmU2YWFhZjU1YTJmOGRkNiJ9&amp;signature=bcc4514658b4427ca19928702170959178d96baa8565b6a08ef41d0ff2061299</image>
+    <start>08:30AM</start>
+    <finish>09:00AM</finish>
+    <date>27 January 2026</date>
+  </channel>
+  <channel>
+    <name>Porto Canal PT</name>
+    <id>Porto.pt</id>
+    <title>Filhos &amp; Cadilhos</title>
+    <desc>Filhos e Cadilhos ? um programa dedicado ? parental idade, com dura??o de 50 minutos. Semanalmente, atrav?s de convidados em est?dio e diversas reportagens, aborda quest?es relacionadas com a gravidez, rec?m-nascidos e crian?as, e o que diga respeito ? sua sa?de, alimenta??o, entre outros temas.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6Ik01Sko4cWVrZWRTeDNZb0krNXJSb0E9PSIsInZhbHVlIjoiamEzZUR1R3RWVHN6MWRUUVZsclVmd3hXUnJkNHJSTDJDMDZreUx5bkZ3QzJISStyT2tZQ0NMb3RsVnZlOWw1Z1NmNXp4ZDNkN1ZPaWRSWVZ5Nnp0dGFHZWcrZGRsWGlWTjIxSTFsK2V5V0RSd29IWjBya0pYVWJ6Z1dTNWtpQTZwYXh0XC9MM1JyYVVwVGdLOUVvSkV3aXlpTGoyb3UwOWFpQWdUMTY5eGUyVlk2bWdQOGNmbGhidW93bkJTVmtqOGh5QktteFNQRGdqTlRPSzJYR2M1allFbDl2MFROY0lPTDErMFZoNzJ6SFV5c2hDV2VmY3BiU0tRUnRxMUlnUEYiLCJtYWMiOiJjMTk1NGJmZDE0NzZhZGZiNzdlZDdjMzk4ZDJlNWU3ZTc1NmQ2MTE2MjYyZTUzN2UzMTU5N2VmMzFjNWU0NmQ1In0%3D&amp;signature=feefbc0db4407d57c1d857691a96221cbdddf2226c56c4069e8a7c871d28cf30</image>
+    <start>09:00AM</start>
+    <finish>10:00AM</finish>
+    <date>27 January 2026</date>
+  </channel>
+  <channel>
+    <name>Porto Canal PT</name>
+    <id>Porto.pt</id>
+    <title>Pole Position</title>
+    <desc>O Pole Position ? um magazine de desporto autom?vel, com not?cias de atualidade de todas as modalidades. Desde os ralis, ao Todo Terreno, passando pela velocidade, montanha ou Karting. Al?m das competi??es, a ideia ? contar hist?rias tamb?m sobre os protagonistas como pilotos, equipas ou clubes.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6InBkanpPKzZ3Z0ZxWk1vN0VpbENoTHc9PSIsInZhbHVlIjoiSkhhVjFXRWZTTzYyMWV6ajFmaGdxdk5aNTVOVU9Bemh4QnJENzdqMStLZzBHeUJTQVJESGJ5bjhqRit1SkFZZFFyYlJWY1NESjB3elN3bXpQMW0rQkcxOEtpN2V4RkVmenoreUdXMlwvRUZPTWZBWGxEZGdha3R0T0tFQ0dONGppXC9cLytoaEIwK1pIWGk2cjdLaFEzcUFlZGRpTkFjWk9TcXRBc3V3TkpDemhoXC9wa3loTWs0K2k1V3JXXC9ZMDZ0eVVCTmlqb0Z5dlQ5OTVwWlJRc0dcLzNrd2p2MkNLQzhkU2luWjliMXJXSEVPSlwvdkFQR2l5N3ZUMjdiOVFpUTRuZDIiLCJtYWMiOiI1MjZkMDhmYTZhYjgxYmFkMGVkNmU4N2QzZTVkZTJhNWI1NDE0OGQ0ZDg5YmZiN2M3NDIwNGU5ZGZiZjA5N2IxIn0%3D&amp;signature=285bcc353da67ebe3216a2a197f49c3246146e03085ddd3a07f9ee3addc0d7ef</image>
+    <start>10:00AM</start>
+    <finish>10:30AM</finish>
+    <date>27 January 2026</date>
+  </channel>
+  <channel>
+    <name>Porto Canal PT</name>
+    <id>Porto.pt</id>
+    <title>Manh? Desportiva</title>
+    <desc>Um programa que re?ne jogos de futebol e modalidades, bem como conte?dos dedicados ao Universo Azul e Branco.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IkU4QXBHMSt6aWNTZkx2bnF4WHZCcWc9PSIsInZhbHVlIjoiaElhTktIXC9pSzRaYzBYRkFOQWtFckxtT3NuVG9URXBRbWRqd1Q5WlZ6MjFUSytkbDB2VE9pOFBzZHptM0lLUEh4bnhRTFBTZTNNOExIbFE3disxaFFuS2N1bE9lTmhva0FyUGZyNDN1NlNcLzJcL2pjaVJaVGlGVFZmN0NFVkhOcWZpb0lwRHRyR0RJOXlnTDlXNU9HbXc3eGZEMjlSem9kVnBWQ3VQM2NFTVRFU20wczI1NlgyVWNvSzA4cEdkWDM5bXN5YmZVaUFnN0lMVjdEbjNSRnRsTmtjZzNSbmpsVVpFQUhEWXVBMkNaanBUUHBoOFg4NXJxNzNuSjhvYUpcL3oiLCJtYWMiOiJiZTY5MzFiNTk0YjU5NGI2MTgxMzFhYmMzYjYzM2IxNWVmOTk0YzdhNmFhMjhhNTU4ZjEwODc0MjllMzFjYWZjIn0%3D&amp;signature=4116db66e883eb50dd3ecb2a11fdfb7ee2b4287b862a0f562084c80cf53667d3</image>
+    <start>10:30AM</start>
+    <finish>12:30PM</finish>
+    <date>27 January 2026</date>
+  </channel>
+  <channel>
+    <name>Porto Canal PT</name>
+    <id>Porto.pt</id>
+    <title>Planeta Verde</title>
+    <desc>O Planeta Verde ? um programa que mostra o que de melhor e mais transformador se faz na ?rea do Ambiente no nosso pa?s. O intuito ? que seja um programa que inspire a mudar comportamentos e a saber mais sobre projetos sustent?veis com impacto positivo.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IldMQmRPMlF5Z3JwaDhOb2hjVVdMZGc9PSIsInZhbHVlIjoicmtuMUVhSldiSzhBV0dGUnlEOEIxWFRiXC9HQzZzOVVsWFFlRU1Pc3hLekF3K3VCbWlVV2tMS1FxQldQU3JBNEo4QlpnUCthU1krdHlvYlBLUDFJcWZyM1wvbWxGVUl4SXQ5MFE0c2JuYTZNXC9yY09jREtFMFZOVW8yTFNnZFF5REp3c0JraXRwWHJTSHFzb0RBMFBacDBidGVsd1ZQQ0FLVWFwQlo3SExcL1c1elVqa2RTNm5VajRjZGRlZFYzMzlpY1VidTNSYUQxN1BIb28rbFQ2aExyN3VxK1o0Z0NwcDQ5ZWl1eUd0R1UyODVYTjM0OXlwSERyM0pCcHQ5ekJmT1EiLCJtYWMiOiJjZWM5OGZiZDk5MGFlYjI3NGNlNTJlNjI2MzRhNzdhOGIzNmJlNGI2MzZiNGVhMDhmZWM1NjM0YmNjMmE4ZmYyIn0%3D&amp;signature=e5f656f3553b2dcec433f31ddfd1df9953568b68c3514568273054db92e470fa</image>
+    <start>12:30PM</start>
+    <finish>01:00PM</finish>
+    <date>27 January 2026</date>
+  </channel>
+  <channel>
+    <name>Porto Canal PT</name>
+    <id>Porto.pt</id>
+    <title>Conversas Com Hist?ria</title>
+    <desc>Neste formato o historiador Joel Cleto apresenta-nos um convidado diferente todas as semanas. Partindo de uma zona hist?rica, desenvolvem uma conversa sobre o percurso de vida do entrevistado, que se cruza com a hist?ria e as est?rias dos locais que percorrem.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6InlEZWoyM2o4OW43aUN3Sml0aWNvNHc9PSIsInZhbHVlIjoiaDVvR3JPRXNVZjA0VlFYcEVKTmNhaFI0SXZ6SURMRklpc0xIanRJTzRkYnczeUpOdjBcL2txNEtrYTlKalRJd3VOS1laOCt2NkdoUjAyXC9cL0hEbFlFcUsxRDRuK1B3aGpRcThPRUhBVWZhUVNsaEQ4T2N3NTFWd0ZpTDNpTnl1Y0FEbEhQdWEzY2hURlEyc0tITFdTU1ZUek1xbW5yTEx0UDBSVmp5V2ZQTVAzblZUWWY1ejZac1d3ZDVna1J5akFybHFuN1RGMGZBTXBGUGFnbHREM1o5ZDVtd2w4cUZycXVYT3QwUzFPaDl0V0xLenVRdkhUT0tFQlFhZXRBS2tVNCIsIm1hYyI6ImMxYTBhZjJlOGUyMGQzZTlmYmMzMTVkOGNiNjVhNjg4ODRlMGIzN2RkNDAyZmFlNmYzODkxOWM3NGI3Y2Y1YjQifQ%3D%3D&amp;signature=c174fa9a8627cbaa7cb32522a79bc74983374fb4e1c8c5a562b5e1102108c6b5</image>
+    <start>01:00PM</start>
+    <finish>01:30PM</finish>
+    <date>27 January 2026</date>
+  </channel>
+  <channel>
+    <name>Porto Canal PT</name>
+    <id>Porto.pt</id>
+    <title>Os Eleitos</title>
+    <desc>Os temas da atualidade nacional est?o em debate todas as semanas n'Os Eleitos. \nOs escolhidos para a Assembleia da Rep?blica da regi?o Norte s?o chamados a responder.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IkpOR29VdDhydEphWHE1SnFWbGxqTWc9PSIsInZhbHVlIjoibGE5SU96ZnhudVFvQmJiME4xZVNPb0tDSmdzcVZ5dHRXMFwvbjAwdExtVW01dTlyQUlpU2FFNlI1SENkcXl1anFFTFdrRm1nUVRhSmtDNjk0bUs2dU5ORmNSYm41SnZzQTJwQ29qNXVcL1ZyODVcL25EYkJjQjhCeGFQSU1iNVR4OWREU3c2UnBwbUloODNsU1hvczNZTUJHNzdzSGZ6MW5oUkQxVGFpMXpodU5LUU50NzBuMmRFUk5CTzFLRUd6WW1ZQVVMVDFHNzNDR2lIOWo5TUdZaWdkNlQxbDBJWXlVSVlOUjRlQzN2dkhYM1BWUm5GXC9SN1JyVlwvRURZZ003TXUyIiwibWFjIjoiOGUwNjg2NGQwZmZlNmZiMTAwMGE0YzY4YzRhY2JiMGM4OTRjZmU1NDc3NjcyY2QzM2M5NTAxOWQyODRhOTE1ZiJ9&amp;signature=c48e093496619888870a08a7c094bc3774b33c3eeb0ec84d07bc13e157bba1ae</image>
+    <start>01:30PM</start>
+    <finish>02:00PM</finish>
+    <date>27 January 2026</date>
+  </channel>
+  <channel>
+    <name>Porto Canal PT</name>
+    <id>Porto.pt</id>
+    <title>Ordem do Dia</title>
+    <desc>Debatemos os temas que est?o na Ordem do Dia com os cidad?os em direto da rua, dos mercados, das feiras e sempre com um analista em est?dio. De segunda a sexta-feira.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IlJGd0d6UmdKUmlPamxpc1pISDNjcmc9PSIsInZhbHVlIjoiTU9hZmtqSEFPMmxQQzkrUTlQZmQwUnFXOHdyMDFTY2lqdGE2NUpKaHp6aldMbGxWekUyTE1RbjZTdG1ZWGVFWkRGUG5leks0MGZQTzdubFlzN1RRODhVelhTb3loTEFXcXNvRHNYSGxrYkFGM09FbXZlb1dLbVFDM2RxS1dZRVNDaUZRYmRJTU9jXC9LVTN1UnA5bGczMWpWVnlKYlFqa3pDMzF2OTdUQ1NtTExPZjF0VjVcL01KQmsxVU02Mnhxbmxia1wvdjV5OVVDSGNLazZVSVZIUGx4TUNmY25GTFUzYlFucVBKU3VlUitrc1hkTW1xSkpEdDVUQXRzeVBRSG1NYSIsIm1hYyI6IjBhYmJlMTM4NDM1ZWNiOWNkNzNhNzM4Y2MwZjliZGJmNGNkMDE5ZWU0MDJiNWIwNTUxYmU2NmE4ODVkYTM4MTAifQ%3D%3D&amp;signature=ff29661e49d69171000828f26450e08958ea385b2fc656a84e70cb35f9620b0a</image>
+    <start>02:00PM</start>
+    <finish>03:00PM</finish>
+    <date>27 January 2026</date>
+  </channel>
+  <channel>
+    <name>Porto Canal PT</name>
+    <id>Porto.pt</id>
+    <title>Consult?rio</title>
+    <desc>O programa Consult?rio ? o seu consult?rio m?dico televisivo, sobre sa?de e bem-estar, de segunda a sexta-feira. Em direto, a apresentadora Alexandra Martins conversa com especialistas das mais diversas ?reas da medicina.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6Im5nZmxsY2dScFpEU3FSMkQzd2lnT2c9PSIsInZhbHVlIjoiN2MrTENWSlBSbm9GSXo5M2NEV3dEU2tcL1N1eEJUaGJnRllDdXh4R1d3b216M2ZrXC81SHU5N2N4UVdJVEtpOFwvaGFac1dSaXlxUWp2UUF2VTAwMHJxZUMzdlpUc1YwZnN3cU9pSEtXeWhXYlwvMGpmdlA1bXR1bnp4cjZ1a1Z5UHV4eFB6Q3B2dWdXUVdick1wVlZTcHpcL29YcHZqdEtCYk5zdnZMSXBkWXQ1c29rWlY4QWs3aGhFV0ZzR2Y5Z1NzREFGR0FcLzRwUjA0UjZIOGl0U3c1a1d6TlY4YTZTWHFlQ1FEOHFDTXk4OEdnMEdHdzd6ZENaazBxUlJCNk9rZzJoSSIsIm1hYyI6IjdjNmJjZmUxYTM3ZGVjYzhjYzNlYjUyMmVmMWQ0MDg4ZWM4YTY2NTBmMDUxZWI1MzAyY2Q1N2UyNzk2NjYxOTcifQ%3D%3D&amp;signature=f805824a35f776247a816e53f50b9413189b98618a0de8527385d9a6092d28ad</image>
+    <start>03:00PM</start>
+    <finish>05:00PM</finish>
+    <date>27 January 2026</date>
+  </channel>
+  <channel>
+    <name>Porto Canal PT</name>
+    <id>Porto.pt</id>
+    <title>Por Perto</title>
+    <desc>Vem explorar locais e eventos na regi?o do Porto, com destaque para restaurantes, hot?is e projetos locais.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IlhVSlNMaVRVN1Yyc1dlbGZsazBPSkE9PSIsInZhbHVlIjoiTlFIMmZwZk1UVkdKS1hXUjRSYUkrTUU3TnNhWnFhNHRwZjdBa2hmOUZDeUVtZE95MGJmYXFyK3ZObUdkV2c0Z1I2Qzk2OGhcL00zcFg1alwvTEVSSmxoSVprc3FvTzlacWVjUzkrbUhTOVM4Z3pzNzJkNEEzT0NHb2grSXVsekcrSFhxRnpYU05uTW12NHlQRjdRcUxTN0d3MEtWR3JEaE4ybm5zOHFsYVBDdTVzYmxSNkZcL0NEN0VIK1ZPR2tJUkNFckhlSThhTjJFZzd0RWE1d3AreUxieGpTTldZWW45WXJ3ZnRVck94M0Z3TktndllKNlAwMlF4RWlYNzJ1ajRZMiIsIm1hYyI6IjlhMzNiMDI5ZGJlNjE2ZmM0Mzc4ZjU5MGZkNmIwYmNjYjVlNTNiYmM5YzE2NzNhYmJiYTQ2NDNkZGY1Y2UyNWIifQ%3D%3D&amp;signature=1277a44737e8f7a2ba1f5c2044b83cdc3d9e528301e65c53e1ba8929c95e0c34</image>
+    <start>05:00PM</start>
+    <finish>06:30PM</finish>
+    <date>27 January 2026</date>
+  </channel>
+  <channel>
+    <name>Porto Canal PT</name>
+    <id>Porto.pt</id>
+    <title>Jornal Di?rio</title>
+    <desc>Espa?o noticioso dedicado ?s not?cias de proximidade dos portugueses. Especial destaque para os coment?rios dos habituais convidados e ?s grandes reportagens.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IlpWY000WGdMN0ViTGNuVERYWlRvUkE9PSIsInZhbHVlIjoia3VxMzVmQ0VXYjhld05SVUgwRk44Z3NQMEZFQXhpbWc5YndYSURpYTh6NSt5RE5nZlZyRTBcL3djZmI5RmVubE1vRkU3WVpmWURVNno3UjliN0IzalYzbjlXV2JMTjVaejd4aW1jRGV1NWJ1WXBRZ0grakl1SWNIaU1PN3RHcHVRYkFIc1pvd1wvQWtNVFVJUEZVUHFLK0kzellDUElYVGo3eGYyUEdiZ1kxWVBOZ0FLVk9BMEQ3eENnNlp6cXgrZW1cL1gwVTdLMmorNGtWcEtjK0FmUmk0ZUhCRWVoSlwveFMrdEd6Zmo1V1pLOHJZU0ltWGFjK2tuMEp5WkNkM1lpWm0iLCJtYWMiOiIzMmRhMWQ4MTcxZTM5Zjk2ZjI2Yjk4ZWQzZmI5Mjg4OWFlYmZlMzVkMjc4MjkxZGIwMjU2MTk3MThkNTA5YmQxIn0%3D&amp;signature=928fdf726eec9c31823ea3c477bfbe773fdbdf657f1917d2df15ee53e6dd8996</image>
+    <start>06:30PM</start>
+    <finish>07:30PM</finish>
+    <date>27 January 2026</date>
+  </channel>
+  <channel>
+    <name>Porto Canal PT</name>
+    <id>Porto.pt</id>
+    <title>Flash Porto</title>
+    <desc>Espa?o di?rio de not?cias e coment?rio do FC Porto.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6InJ0OVlSbUpmQWdLejhlZXdxUHZrVkE9PSIsInZhbHVlIjoickNEdGFEQ3dURWtkM0NYS3VXU2pOZ04zS3cwQXZtTzNsUDk4RUl1THk0dThHdnVVVkZjd3VYUGJsRVFDcVllTjBJclB3NkluZER4N2wrR21Ea01sQ2VnVTFldkdZZllZZGlWVHBDTlFHenhqZkpXOFd2TklNN3JTR0Vtd3NkYUpWWndnUGErS29MRzVybHJZSDhKeW0xN0pyWlY0ZkkyWmdRQ0ptN1JDdlVRTzlSMjBPSG8razNvQ2FtVG5mc1p0SkpOdWVkWHRuXC91ajZcL1lSb0tIbzI3UGttVzFTZTd6Ym9KSzVZWEJjZU9ZNXBiZCtHVm5FMk1NY2pYUVY0NU5xIiwibWFjIjoiNzdjZTUzMWUyMzRhOTgzZjRlYzdjMTJhMmEyNzYwZDAzZmE3NjEwMjc5Nzg1NDFiOGI4MzliNzUzNGYzM2ExNCJ9&amp;signature=45851f839ea738b9eac995c99262bd0e87011d44ec8da0e56eec655e807009d4</image>
+    <start>07:30PM</start>
+    <finish>08:00PM</finish>
+    <date>27 January 2026</date>
+  </channel>
+  <channel>
+    <name>Porto Canal PT</name>
+    <id>Porto.pt</id>
+    <title>Ordem do Dia - An?lise</title>
+    <desc></desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IndZY0JkS05wMVB3RnQwY1Fmd1pjSkE9PSIsInZhbHVlIjoiOGE3SUZRMUhVZnJDVlwvbiswRkV2UWdZRjZTb0d2UldLcWt1ajY3eXpwcTlZTEh2eEVSVjBGVXNrUjl5NVZkSks4N3RrQkNqRmg1RmEyeW9aZEZQSGNcL3M1RlVhUzZXSU5OUTZcL0xPRlBRbXFzeDBURUNLNHdWVzZRQVArczFUWHdxczMxUXAzQ0JhQ2JDQ3pWKytFMXNYTms5VkhHVUVzYVRlMkZ4MUcwZWduTGw0dDNJSHI0SExCd05XUktHSkdDamV0MHJqeDhaaHBEMDVZbHJjWWN0cGpIQnpDeldqYmNmY3VDODB6S0s2K2hwSmZPYTlpZ1V3T095Y3o1c1hITCIsIm1hYyI6ImNiM2U3MjBjMmUwZTgwZjA0MmM4OTdlNWEzNDhjODI5NmMyNThlZDA0MmY3ZGMzM2Y5OTY4OWViYzQxNjA2MGMifQ%3D%3D&amp;signature=c4cf6b9a01e0a4862522469002733ef23c30d2d05e27afb687b9ef8b7668c597</image>
+    <start>08:00PM</start>
+    <finish>08:30PM</finish>
+    <date>27 January 2026</date>
+  </channel>
+  <channel>
+    <name>Porto Canal PT</name>
+    <id>Porto.pt</id>
+    <title>Finan?as em Dia</title>
+    <desc>Finan?as em Dia ? um programa apresentado por Ricardo Couto, que tem como objetivo tornar as finan?as mais acess?veis a todos.\nCom dicas pr?ticas e a participa??o de convidados especializados, o programa promove a literacia financeira e ajuda a compreender conceitos essenciais.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6ImZiUGowNmFVZlFtcnZcL1VcL1BQUExcL0E9PSIsInZhbHVlIjoiNFhnZ01NSktaOXNNQ0gxRmVUT1JNM2JcL3BFZjROTEZ5ZHNLcnc5RlE3dHRRQzJuWEpMVVExcTRxZ1dpVjl1THVNSlNhSW9aT3hNYUlcL2YrdzRzNjhNcnR6VHlId1VqWUZnNUozb1FJVVdDWStiTmYyalhiN2diczBSTlc0bGtjQkVxOHEwZ0lTdFZEanBaZXVncUFnVTZVTktyaHJDWHVuMlhLb2FycjFKU2FoVTNYdlk3dnh4cjJHR09mMlFGbWhjQ1NDeGJqVWNNM0dlMmJ4akI0VTUyMXdwYXZGV2ZYK09YQzYrdEJsNjhuNGdhTXh6QitxaTE0XC9uXC9vb2ZuaUIiLCJtYWMiOiIyYWU0ODE4YzdhZjU4ZjBhZDFkYjU3MjdjYThiZDYwMzQ5NTc2Y2UwYTQ2YjczNjVlZGNjNjFjYTYwMzBjMjU4In0%3D&amp;signature=8095c309ae7958ba5e780c621de814495046bcae47836a33a58417196aeafab4</image>
+    <start>08:30PM</start>
+    <finish>09:00PM</finish>
+    <date>27 January 2026</date>
+  </channel>
+  <channel>
+    <name>Porto Canal PT</name>
+    <id>Porto.pt</id>
+    <title>Por Estes Dias</title>
+    <desc>As efem?rides que marcam a espumas dos nossos dias, com a assinatura de Joel Cleto.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IngyamZmaGtaMjlsaWZBSE5WcUZkbmc9PSIsInZhbHVlIjoiTGtrdFBWUTlVTmpMT1FJaEZzc05iWWhEaWx1cG9YSVpxMXJhdGt5bnlyeWFLdHpadmpmWThcL0JkSGZ0dVF1UmlMK05VVG8zSWlYKzV4Mm9ONkcxK1BaMXVKdXZwTDZcL2M5WGZcL3JuYm9OS2Vpc3JBS1dwK2ZqaFNGMDB1ZXVIa1ZZbFRLV3VHRTR0aExWTzRHZFVPeHp6aU9mK0gwOFZ6bExwbmVGT1NwYmhLXC9aa0VaREV1dFhVc1M5U0JDejBlTmlPUno5M2l6bGErUGRyUGJibGh3QlBsZU9nZGgyWFBkaElsbUoycXNSeHZ6RzFnWENZUk81VUZwXC9JbWlheUZUIiwibWFjIjoiZGNhZjM4ODA1MjgwODA3MTFmZTBhNmE0OWUwYWZjOTJlZjY4NTEyMjkwODBlYzA0MjBmZDIxZjUzOGU1NDIzNiJ9&amp;signature=133261a3c11747eafad6b5a7e6c1cf8d2bfecc7997dd43a30b2243d10e0a063e</image>
+    <start>09:00PM</start>
+    <finish>09:30PM</finish>
+    <date>27 January 2026</date>
+  </channel>
+  <channel>
+    <name>Porto Canal PT</name>
+    <id>Porto.pt</id>
+    <title>Especial FC Porto</title>
+    <desc>Programa referente ?s transmiss?es especiais dos conte?dos do universo do Futebol Clube do Porto.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IkVPVW5ncWxIR041blJIdWVwNk5uN1E9PSIsInZhbHVlIjoiVG5lWlBHTmxlZ0pVWjZkT0ZnQlVNUm1DVDBKdE5lZVFBeEVSdWZidm45NVc5cHJqdXdKb0hlUVlOMEV2MjZBU0F0c1EzY3hPQStncXJrYWlUZXRaTjRQMTF4YnorU0hrT0crQklNZzlcL1kzZ2ZEWUhrdkR4V1FJb2w5N1lnejFLc0U3WmxjQnhEd1kwWURJNmhGMkRNbHVUNkpkWUhNZWpWWXFFbGU2VmRqU2VXeWM5WnJxYUR5cEJGb3hHRmhFTHhpdE9YMU5nWlF4YXNaeHFVa2lYZjV1eHFmUkZzT1F6RVFQVEM3enBEWG5YakQ5NEFZejFKMXpRc0RCRlpuM0EiLCJtYWMiOiI5ODk1MDcyNjdjNjQwN2ZmZjY5ODU3MTQ1MDAyMzhjYzE3Nzk3YzdmYmRkN2E1ZGEyMmNiYjkyYTNiY2FlNWZlIn0%3D&amp;signature=b15e8dd0a4102390c1ea7e1f2504c2df9a56f5e933782e9330e6b27e6eba8d80</image>
+    <start>09:30PM</start>
+    <finish>10:30PM</finish>
+    <date>27 January 2026</date>
+  </channel>
+  <channel>
+    <name>Porto Canal PT</name>
+    <id>Porto.pt</id>
+    <title>N'Agenda - Entrevista</title>
+    <desc>Agenda Cultural apresenta semanalmente com sugest?es e novidades no meio cultural do Porto e Norte do pa?s.  Exposi??es, concertos, cinema, arte etc. v?o ser os temas em destaque.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6Illkd1E1aElZOFFPV3ByWFBldGdEV1E9PSIsInZhbHVlIjoiTldQTTQ3dHVhTzB2V0w0eFZPR1hIWWwzd1pVTkVUUWlxZTZUaTdiZktnMWdFb2d3dk5ndTNBV0d2M1ZXeDdibWtLOEl4NDEzdW90VzJSb0ZxajFYZVwvVEhcLzQyRVM5TWhlSzNSVE9jZXc3N1RqMmczY3NZXC9CM2FadEZcL0tqc3FsVzljSDc1bUpORW5SV2Zzb2ZyTlRucFc4Q0pqMXpzWTRub1JQVWVSN1N5NFlFOTNhNnJoZWF3empXZ3lDUmpZQnVDaExwQnNVdDMyZ0FcLzJFOFBmN1lIXC9uOThQTHBRbFVQM2tCNHRIZjdPekhadHhORXduUHpUWWJ1ZUI3VmVmVyIsIm1hYyI6IjdjMGFkNWQ5ZjliMDE5MzJhMjVjMGE1NDQwOTgwZmQxN2RhMGRiNzMyN2Y0Nzg5MTg2NmViZWIxZDM5MzY4ZjIifQ%3D%3D&amp;signature=824256578fab190a6544d32d38763dcd00bd77d88d71b8863e4519c706853fcc</image>
+    <start>10:30PM</start>
+    <finish>11:00PM</finish>
+    <date>27 January 2026</date>
+  </channel>
+  <channel>
+    <name>Porto Canal PT</name>
+    <id>Porto.pt</id>
+    <title>Caminhos da Hist?ria</title>
+    <desc>Programa dedicado ? divulga??o da hist?ria e do patrim?nio do nosso pa?s, esta s?rie visa a valoriza??o da nossa mem?ria atrav?s de percursos no territ?rio e de visitas a monumentos, na companhia do arque?logo e historiador Joel Cleto.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IjlXNmhGOHY2RXVkeVhOaU5rZFhWd1E9PSIsInZhbHVlIjoiNlAycE1DN1wvV2RzdnVybGdiZ2ErdnF0dXdqcG5lY1wvTlBaMjJFZFRPbVRTWHFRa2RKWjNrcGxwMWJlMTJPVWNEMjNEdUQ3SEZOamkyUldRbTJFMnFDZStJY1NYc3djUG1kc3Y5a1FKN3ZGeFV6dVwvOWoyRTlYb0xJaXdScXpcL28wUkRPb3lMQVA4a2FxdldEQjBOQTlVTmM4WnltUHNkUmNkTzlhMUZZRUtTR3daVnBpaVpsMnU3Q211M3R0cTBkSXZqRnhpbjNCejg2OUtBSjZsM2Nyc1g5TVwvY1RmODF0Zmdpc201ZmFQM1N2YldQc3ZvSkl0Q3pvOXI2cTZJR0RkIiwibWFjIjoiZTA3ZTc1NzkzNjRlYzZiZWZkZTY4NTk2MDljYTkwZDdiY2I2M2NkYjY3NzNjNjJlMTc3YjJhYWEyYTNhZDk5NCJ9&amp;signature=9b92c50bc3963643f1287ec7d368913b6df2fb44f83d859df28b5695d1e377de</image>
+    <start>11:00PM</start>
+    <finish>11:30PM</finish>
+    <date>27 January 2026</date>
+  </channel>
+  <channel>
+    <name>Porto Canal PT</name>
+    <id>Porto.pt</id>
+    <title>Imperd?veis</title>
+    <desc>Programa dedicado ao vinho e ? gastronomia, cujo foco incide nas grandes quintas produtoras de vinho portugu?s e de vinho do Porto. D?-nos a conhecer os v?rios eventos dedicados ? vitivinicultura, assim como novos locais e espa?os de degusta??o.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IkN0ZjMzUTNTZnp5MU9zTWNhd25XSFE9PSIsInZhbHVlIjoiRXg2TnlkUk5JckNlemRoOVRyM0M1YTJUYWtGelBJNEM2UXNOKzVlU3BITFRjVmFhblZPYk1zK2pvOFFJcklEZHVGcnE3Q1UyTDVTdFUrcTV1SDNocUhHUDZTNHV2clh4azFSdTA2YUQ0TXh3dEpxazhORnlTQkdZOWZIQVNacXFEUFM3NHF0Zk93cCtaZXBvazBzWjYxZW82cGRJSlBmcUpRWjJkanVsYnRTV1wvKzR4ZFZDa0NJenpHaUZ1SjVyTmVwSUJxaUN1Sk5oMFo1MVJ5bjFcL1JqZmNQbVhJd2pJXC9VTlpaK3UwWVNhXC9OOWNHWnpCMGl2NlFQanN5SitxcCsiLCJtYWMiOiIzN2I4NzgwNzE0ZjFhZTg1ZWM1MmQxMDc2YWMwMmU5NTk3OTAxYTI3NGVlZGFhN2YxMTU3OWU1NmUzNTEwY2ZjIn0%3D&amp;signature=b4a42682dc0a0e8f9d59dd5dafe7d01d5b578767e8851d1f4a56700242546860</image>
+    <start>11:30PM</start>
+    <finish>12:00AM</finish>
+    <date>27 January 2026</date>
+  </channel>
+  <channel>
+    <name>Porto Canal PT</name>
+    <id>Porto.pt</id>
+    <title>Informa??o N?o Disponibilizada Pelo Canal</title>
+    <desc></desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6Ilk0OVhTUUR4S04wdGtUb3NYZDNwb1E9PSIsInZhbHVlIjoiekJ2Z1Zha3YxVlhLZnA5VWpWalI4anZPZXBmRjFuMmlnN3A0Q0h2T3VnMGRmb1MwM3ZpTEJ2NXpkRmFQcjZRbm9SS3JGeFhoeTE4RTRuSGRIQTVWc2h5eFYxOE9JZ2hrS0xEVjFoSGpJbGhKaFZ2aWtkRlk0bjlORXR4MSt1Wk1TaFkwUHJOY2JoeXFDSGo1Rm1nMUtqaFFVbFVkNlR4WWJnTDhFXC9RblJMc3BzdkVoUEFsRUx1VVJ6YW9VZkxWN3pTKysydk41YWFVaHVpbmR5dGpXT1BZTGhuN1V0OHp6NGw3OWR3d3dJUjFLQ3ZRQ1Z5bmd5ejYxKyszUnY0WDMiLCJtYWMiOiI1OTFmNTljMGQwYTc4ZDI1MmMzN2Q4OTk3ZmRlYmEzMWY5NDAxYzgyN2ViZWRkMjNjZmYwZmU4MzNhMjI0NmRiIn0%3D&amp;signature=bed216c3e6872e3928da7cef404f457965a0d01cacef3b01eaabc61f622a8067</image>
+    <start>11:30PM</start>
+    <finish>11:30PM</finish>
+    <date>27 January 2026</date>
+  </channel>
+  <channel>
+    <name>Porto Canal PT</name>
+    <id>Porto.pt</id>
+    <title>Noite Desportiva</title>
+    <desc>Um programa que re?ne jogos de futebol e modalidades, bem como conte?dos dedicados ao Universo Azul e Branco.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6ImE0YzE4MXZPUEd6eWExVUd4M1VISkE9PSIsInZhbHVlIjoiYzJcL3VWcXUyQkhNWkJNbjBhZGF1c0o1VUJBQ0dQWFwvR1YwS1huQ0NIVlwvaVFLWFEzcmNoQ2xNNEw1a2Y1azQxZnZuVVg4VTJSWmcxXC8xVlJpcnVaZ3ZiSHQ0RmNtdE5qa3VaQ1gzSnFjYWswU2VjZmJNR1psSUdaSVhJUkpiQzNHTDA5dXplNFhLeEhKam5WcVd2NlN5eUdUMVZ1Uld5N1dGc2s1Qm5QdVRhVVFrcXhKV09QZGpDT000U2NVcGk1dlhDYUVpQUgweUZieU1tR0xzdlVGMWNHeG5PeUk4aWY4d0RXQ3RcL1FGbzdIc3g0dlpIYkh0dVdcL0hcL3ZMMW5QXC9NIiwibWFjIjoiNmM4MDA2NWM3YjI0NTQ2MDdiMTMwOTVjMDRmNjlkNGY1NDFiYTI5MDZkMjFlYjgzYWViZDI1ZTRlOTBmYTVhNCJ9&amp;signature=289eb3809a550b02a020b9f3ebdb83375b2070d2d782243fdd1bc6124f46b6ce</image>
+    <start>12:00AM</start>
+    <finish>04:00AM</finish>
+    <date>28 January 2026</date>
+  </channel>
+  <channel>
+    <name>Porto Canal PT</name>
+    <id>Porto.pt</id>
+    <title>Ordem do Dia</title>
+    <desc>Debatemos os temas que est?o na Ordem do Dia com os cidad?os em direto da rua, dos mercados, das feiras e sempre com um analista em est?dio. De segunda a sexta-feira.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IklVWDg0MnNaMkZib1N4aUc5RUc3N3c9PSIsInZhbHVlIjoiOEdrS0liOHhyTHR3cEZkVWVOT0wzM0M0OTV1ZFpicXR6bmZyY1dwcWZTNHJvVUhMcituZ0NDR09GaGR3QVpmblhrYXJOVkx2UDRjSmVNeFh3UjV6R2xtMVFoaDFYRDRFUFVNSnV4RmZzZ1JqcEhiUEtVXC96Yllub2Zpdkt5c0JGa1ltMjY5NTNhMUZWeWNcL3dacTNtWnQxNGRXZXlYS2dOYUxXYWQ3Zjd5dGpBUXBkck5lXC9OVm9WU3QrWTdiNjdzMTQrN2FmZlJPXC9UUU5JcnlMT3RjWHNoeWYrVmZUVjMyclhOS1VpaTZPcnVsQW9ieTJJXC9qcm1qQklObWxQZHBTIiwibWFjIjoiMTk5YmJjMmMxOTE2OTU2MmEwNzc3Njg3YWYwYmQ0M2Y5ZjVkM2FjYWJlN2NiMDUxYjc3OWNiNGU4ZDUwOWNhMyJ9&amp;signature=a6485e2156ae25e9fa239a5bfd5d7ebf11d76497ef8307d00230272c6389125e</image>
+    <start>04:00AM</start>
+    <finish>05:00AM</finish>
+    <date>28 January 2026</date>
+  </channel>
+  <channel>
+    <name>Porto Canal PT</name>
+    <id>Porto.pt</id>
+    <title>Jornal Di?rio</title>
+    <desc>Espa?o noticioso dedicado ?s not?cias de proximidade dos portugueses. Especial destaque para os coment?rios dos habituais convidados e ?s grandes reportagens.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6InpVVk1BYWJmTlJIckw1MzkzWWx0MUE9PSIsInZhbHVlIjoiakprbFdIUG5LUnBoV21ybVVcL2xDUDNvOTNzXC9RaktXM0Y2ckE4MkRiUVl4U2hURjdab0prYUdHY29Ed0M3eXUwN0sxTmxLQjVVRG9NYlFKSUNrdDA3TGxkTFV2MHAreWpyQzIrSzZFN1UwQ2FHZmhcL1RvdWl1OG43bGZHQUh5TVJaSU01K3FwWkh0UFN4aTZCQ2lFN0dudnd4Nnpqa2cxSExSOGdDWlJBNHFhemNhc255UFBVMXF2ZElXTUJlblBJMUFRU0dDS1l2N1wvVFRocE05K3JLNFplR3hXKzNlYzZzVnBJSmhTbERpa1dra0FyTU16ZEg5dmVFYXJHd1A5WSsiLCJtYWMiOiIxMzJhNTgzNDExNmE5MDUxYjAzMzA2ZTU1YzU4M2RhZTVkMmY4MmRiMWMwMDBlZDJiZmM1NmFkZjdmZmVhMmUwIn0%3D&amp;signature=82cccee60a8c995d527232c5757c204254fcd5b9831edf1d2a4f8513031053f6</image>
+    <start>05:00AM</start>
+    <finish>06:00AM</finish>
+    <date>28 January 2026</date>
+  </channel>
+  <channel>
+    <name>Porto Canal PT</name>
+    <id>Porto.pt</id>
+    <title>Consult?rio</title>
+    <desc>O programa Consult?rio ? o seu consult?rio m?dico televisivo, sobre sa?de e bem-estar, de segunda a sexta-feira. Em direto, a apresentadora Alexandra Martins conversa com especialistas das mais diversas ?reas da medicina.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IkliWGticUpPRUFWeFIxbno4TTVjMHc9PSIsInZhbHVlIjoiNEo3QUorbzNtYkYrdTBLWFhqY29yYjdJdWdFWlo5OWlZYkRaOVo4SWxzelwvVXg1aHN6Vk1LbnUzVjZpRlBydkxTZTQzK3MzbWU2OExUQVlEXC90SFg1T2JldFM4NUpJNVFQeVwvQjQ3QTZvZ0xsZWw4bExpa21La080dmU5WVh1UVAzeitOTzlRTXFoaHRFNG42YkRhNkV2MnRkNGVrdG1GMTlxbjdmNDlJRHRMVWJydlA0SEtOd1BNVlwvd0Qwa3RcL0RIZEtrYzFKOVU1WmxcL2dZR0ppMnJkQmVZVUFJSDRyUUs2ZG45cU8ybDRpMmhSZ0NFSjRpRkl1R0ZGR2FWenlMSiIsIm1hYyI6ImI5MzFhMWU2OWFjMWZiMDk1ZGQ2MzFhNTY3ZDlhZGM2YTcxNjc2MmVlZjQ2N2ZlNjg2NWFjZWRiZmY2ZWVhNWUifQ%3D%3D&amp;signature=061745efea7d717e4542be51f9922ca12de851d4179cf6f4ba87b524a000638d</image>
+    <start>06:00AM</start>
+    <finish>08:00AM</finish>
+    <date>28 January 2026</date>
+  </channel>
+  <channel>
+    <name>Porto Canal PT</name>
+    <id>Porto.pt</id>
+    <title>Os Eleitos</title>
+    <desc>Os temas da atualidade nacional est?o em debate todas as semanas n'Os Eleitos. \nOs escolhidos para a Assembleia da Rep?blica da regi?o Norte s?o chamados a responder.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IkhOSU9NTXB2VEhid3kyWEZtUzVXamc9PSIsInZhbHVlIjoibFwva1hNYkptMlg2VlQySzdMQ1FJQ200amRGNEQzM21JUnFHRFJuRkhCUkVKZ00wdWZoR3RlcE84enorODVLYU9QOHBZY0ZMVjdHTU9ydDVVd055ckRqUTZBUXZFdjFzRmpDWHcrS0tZRFhibUFnb1RUSzBWbkFXS0owZXVZOTRYcjFLZFErSnl6QXorM0tnQ0ZsRnRGdHpFWm1EdGxtSkhUamhFbGxibU5yUllFZE5cLzhFU28rTG80ZHR5Y3BIXC9DSWk4M2R6MHI3N0JRdmp1WTlTRzRHRm5KQkxxOUpyK0FCZFhNMFZrWXBUekl6bWYzSjdiNitPY090UjdCMXp2ZCIsIm1hYyI6IjcwOTA5ZGRiMWRlNzVhMDMzNmUyNDc3YzE4NTQ2NWE0ZGFjYzEyZWFlYzk1YzlmZWUzNjdkYzI0ZDVkYmM4NTEifQ%3D%3D&amp;signature=420ce1bdce40aacb55da510ad0de71dc93d2f7f458e7e8e4eb6f129f2424d3ab</image>
+    <start>08:00AM</start>
+    <finish>08:30AM</finish>
+    <date>28 January 2026</date>
+  </channel>
+  <channel>
+    <name>Porto Canal PT</name>
+    <id>Porto.pt</id>
+    <title>Por Perto</title>
+    <desc>Vem explorar locais e eventos na regi?o do Porto, com destaque para restaurantes, hot?is e projetos locais.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6Ikt3TGJPNzgzWWZBVHJsMU1FdlRXK1E9PSIsInZhbHVlIjoiVVRCcnVkd0o4d1ZqY1lhN040b2hVdnVkZkI0bStcL3NlbzE1WWk3bXAxbFhFeUxcL3JrVTJpWkt2TDN1R0xyYSt1NUIwejR2ZFp6dVhQTkE4STNaOXRMenVqSnVtSFhtYWh3RHdqeUpSWFU2dlJmV0l4ZWtpaUxcL2FXM2VpVUZZWUpoWURVNEJvSjJGd2JvRVVYaHFRRzdqV3RwM3U4M0VmcnpTYlRBQVhJRlU2ZnBhWHhscVlRdVpEaHVaQXRYR3Jqd0JRd0c3MXJZWmdaU1lKdzNTY20wZEg2SU11Wk9scmJRMmprd25BMkNMMHoxUVhmUWhVMlNcL0NiTGxwdjRaUXgiLCJtYWMiOiJhYTRiZGJiMjU3ODY3Y2E0YzhiYzlmYzhlNmQ5NjUwZTMyZWU0YTgzYTQyMTAwZGU5YjVlNmI0Y2I4MmRlMGFhIn0%3D&amp;signature=c769ffa59fc0d85eb5a2ac1efb91dbca727a962d52c853236846f6f7c4cf9d04</image>
+    <start>08:30AM</start>
+    <finish>10:00AM</finish>
+    <date>28 January 2026</date>
+  </channel>
+  <channel>
+    <name>Porto Canal PT</name>
+    <id>Porto.pt</id>
+    <title>Manh? Desportiva</title>
+    <desc>Um programa que re?ne jogos de futebol e modalidades, bem como conte?dos dedicados ao Universo Azul e Branco.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IllzWGkzRGt2QzNCSzVzTkNzVDhQalE9PSIsInZhbHVlIjoiRW9sT3BLQ1QrcHVcL0VVd3NzV09GOTBGc0QxV3JsQXp4TVwvcCtjZGdUTTNCMGNET1ZkZjQxTDhVSkp2QjQ1QlNqQmNLZ1lsTDcrZHFRaVwvcGQyc3B0eHFQNWdoNTBSMFwvSTZqNEVSTnpYUTlGTXBqVEFcL3JST2JhM2xDbkJBVkRJTjlMSDFhdjNuekNIa1hRYzRaekJXYWNpbG5OcDZIQVBjMHNXampDK2FwYXB5QkNqVFZSYVdxcGJnRnhIV2M2dTIzZ2hrVUVWMTNGYkQ5alcyYWpqMFVPRHkzRFJpSWhCNWE1VXRsejFNNUt1MFppWjlVMWtVc25wMFcxYThjY1g4IiwibWFjIjoiZWJjYjhjZmNlNmRlNDMwZjhiYmMwMmI2OWM0ODBlMzA0ZGZmZGU5NDcwNDJjYjFhZDQyOGYwZDE2YzZmNjM5NyJ9&amp;signature=a57a99061b40f63edd51a3a22cd2fe5eca554ddd36a78cfedb96052220a5426c</image>
+    <start>10:00AM</start>
+    <finish>01:30PM</finish>
+    <date>28 January 2026</date>
+  </channel>
+  <channel>
+    <name>Porto Canal PT</name>
+    <id>Porto.pt</id>
+    <title>Especial Informa??o</title>
+    <desc>Interven??es alargadas de temas que marcam a atualidade.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6InY2NTdBZGd0Zkk4K0YzdnZONHNOXC9RPT0iLCJ2YWx1ZSI6Ikp0dTRscExiNnRuN29RRFVHMWN4UTJpdUxmbzlzU2FPMldKaDdnY0VBaUpDQ1FJdDN2XC84WWpTa0IrcElhZHVCcnM0WE1haG1JYWpMNFdyM1NPb21Ra3B5ZnlsWUZkaWdDSVwveGdNd3R3MWN5MDY0ZEl2TVl1RFJOWWxoMVwvckRvN3dNc0FaQWlrS1NhQ2pmbDR0R3VKeHh1WFpSRjdpNElzTUlrQWJBUFpPYXdnT3lheG4rbE4zVGlRTEVyTE5tVHRGa1BvOFJOMnZpVllVUHZpcnFEVUZoMW9VY0JpNlExTkMxWUVRV1NPUTFQaGwxRWF0V21kbVgyMUlaaUVGYW0iLCJtYWMiOiI5NjU4M2RkYTM3MjUxMzliMjRlYmE2YmUyNGY1Y2Y4MmEyMzM0ODc3NTdmOWEzMDdkN2I0ZGE3NmZkYjBhNTljIn0%3D&amp;signature=08243877c08e5d67042274a88e9f8e5d3af44cf64b249880199db65e8d3ed33c</image>
+    <start>01:30PM</start>
+    <finish>02:00PM</finish>
+    <date>28 January 2026</date>
+  </channel>
+  <channel>
+    <name>Porto Canal PT</name>
+    <id>Porto.pt</id>
+    <title>Ordem do Dia</title>
+    <desc>Debatemos os temas que est?o na Ordem do Dia com os cidad?os em direto da rua, dos mercados, das feiras e sempre com um analista em est?dio. De segunda a sexta-feira.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IkxzNXNGak41YjVtQ1dIb0xoQ3RsQlE9PSIsInZhbHVlIjoiaHJDVU1GSGhvTmZNS2RcL25MeW9pdm0zZzg1YW1EWmZCeTZnc2w1UW1sbWtrQ1lSaURLTmU2MmpTS1hiMm94VVdkVkZZbmZyTE5BUlhCN0c3NjFVUzdxVHZKQmR0MTFJMHZNZXBiajF6RE9QUW1MWEloQkhXcExJMTY5K2VGU3BMSCtibXZjeEliUm5helJ1ckxRdDlhTmlxWFpNRU5RV1I5Z3lYT2NxTlorSTIrMUpjNmV3ZVhSMHpDaGw0c0dvWm01ZzhjOUlKdEQ0OTA3UzRnZ0pNT0xoZkdBM0xpeTJ1ZnExTVljbmpUWDZudFNaTFl4U3RWSnBFaTJKZWNGb2kiLCJtYWMiOiI5M2ZmZDE2MmM3ODI4YzVmM2RiYjRjNmFmOWNhMTJjNDBkODlhZWNkMDM1NjIyNWQ4YzU1NzY0M2U0Mjc2ZmQyIn0%3D&amp;signature=ae3a827278b7c9647d5d27c6f04e52977f45d8e92fdcebbcb8b1082be03c46bd</image>
+    <start>02:00PM</start>
+    <finish>03:00PM</finish>
+    <date>28 January 2026</date>
+  </channel>
+  <channel>
+    <name>Porto Canal PT</name>
+    <id>Porto.pt</id>
+    <title>Consult?rio</title>
+    <desc>O programa Consult?rio ? o seu consult?rio m?dico televisivo, sobre sa?de e bem-estar, de segunda a sexta-feira. Em direto, a apresentadora Alexandra Martins conversa com especialistas das mais diversas ?reas da medicina.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6ImYxVEU4WlZ2VDVpbXdpS3lhZkJBQXc9PSIsInZhbHVlIjoid2M5ZTB2WXROVTVvK0M2WnFPbytCaUR5alBic2dDK1ptQVd2XC84MzVLRG4xcUJ1eFlMZitrVmJITStudVlEWFRUeGdxMzRrZER4eDBRQ1FNMDRhcnhWQzVQVDNNUFZCckJjXC9HOGpFQzlYaWFzYnJPREp1VHVSeTF4U0xvbUk1aVpERUw0TkFmOHhvOStKaFFkNG9ETHZkXC96dTBGdHpCZjIrY0paVkVzRzhPdmdla1YreGpMVkYwS3JKb2U4WEpVcDkrWmRkRjQwSndzT1BvTHI1NVlEOENJVEFFOVVFcERNVkF2d0VKek5najI0M1ZFWkt6dXVIOEFYWm81VWtHYiIsIm1hYyI6IjA2MzgwZWIwODgxZmE3NzJhMjUxMDQ2MjJmN2M4YzhhN2Y0ZWJhMTA0YTI3ZjBmYzM0NDI5ZWZlNWVkZDRmYzEifQ%3D%3D&amp;signature=203319da07d550653ab55bf0af82485bb1dbb004c8bb6d28d08474375ab61c4c</image>
+    <start>03:00PM</start>
+    <finish>05:00PM</finish>
+    <date>28 January 2026</date>
+  </channel>
+  <channel>
+    <name>Porto Canal PT</name>
+    <id>Porto.pt</id>
+    <title>Por Perto</title>
+    <desc>Vem explorar locais e eventos na regi?o do Porto, com destaque para restaurantes, hot?is e projetos locais.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IlI4MXNHU2xjT1BtU3BjcnhEWTRzWVE9PSIsInZhbHVlIjoiV3ZzTkM2SkNEUzRablZtSU94aHZ4ZXlDQktuNGNIXC9ITktRN0dodWhjancxdUIwVG93ZExidmorK1c2eEJESkh4R3NxR1VjQUppRFM5WTl4b2tGYm1zdVR5eldzRG0xekx3OXBIRUozNjVVTEd2VjQ0TG5jQlB4cVVmb3dTUXBEdVM4TTBxRGNmUmk5c3p2VythZXptU1dVQXFOTHgrcUFvS0V0RUltXC9USmVLM3hpVkRGZ3FmVmlWbUpHb3RoTDFUSGRqTG5IdkQxVFltZnByNlUrWGFocm81cWFkNFBTRm5qa1dYN0ZYMnJnbTNsWFNlamxFZ1owWENxbXpBNVQ5IiwibWFjIjoiZTNhZDJlMWIxNzdhZjUzYWZlYWI1MDk2MWYyMWMyMmNmMjZmN2NmZjAyN2Y1YjY2MTJjNzRiNTBkZTJiMjFiZCJ9&amp;signature=a807e68f7dce7c02525f47d9a781eee2ae699dc81b00119fed68155f055c448a</image>
+    <start>05:00PM</start>
+    <finish>06:30PM</finish>
+    <date>28 January 2026</date>
+  </channel>
+  <channel>
+    <name>Porto Canal PT</name>
+    <id>Porto.pt</id>
+    <title>Jornal Di?rio</title>
+    <desc>Espa?o noticioso dedicado ?s not?cias de proximidade dos portugueses. Especial destaque para os coment?rios dos habituais convidados e ?s grandes reportagens.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IjVvcEVsdEFudmJ5YU01V04ySnFWSHc9PSIsInZhbHVlIjoiQ1lcL0QxdlFZa0QxcmxoSmNTVE9cLzAraWFFVm9obDlDTllpZXFRc0pyZUsyTyszZ3BZUkdEXC9uZCtNeCtGM05uNEQwT05melNjVEFqM2ZmUVkwK1hxWHVVVWM3NTgwVHdheEN5UGNmS0VjbHVmXC9xb2lnaXNmXC9KRW9WMjE3dHZaaHozeHVzeFMzS1ZjR1JydzRPM0MwNWxrbFZzSVNsMmxGcXVrdGdrc0t5OFk2SVp3cHFKVGw0bXViMXJ3V28yeXM3Tk1WZDJTZ3BRc1dYclU2Wmswa0diQUZTVno4Rk91MkM1WHl6NjZzU3JFMDFabEZxbmxkc0F6U2k1aUlhXC91WCIsIm1hYyI6ImUyMTYwM2E2ODQ4OGJhY2QyZjIzMDY2MjAyYTE5NDIxZjhiOGEyNzA5MTA3ZTUyYWZkOGRiYzRjYmUzZjI2ZjIifQ%3D%3D&amp;signature=7416188b1f3a77de6d11b8ad03ada0bd05fe58c466a03a30a38daa4e39752dd0</image>
+    <start>06:30PM</start>
+    <finish>07:30PM</finish>
+    <date>28 January 2026</date>
+  </channel>
+  <channel>
+    <name>Porto Canal PT</name>
+    <id>Porto.pt</id>
+    <title>Flash Porto</title>
+    <desc>Espa?o di?rio de not?cias e coment?rio do FC Porto.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IjRyV2xwZVYyY1Vua0ZYazdINWpiUUE9PSIsInZhbHVlIjoiM1RiOWdTNVAyaE9JVVdlZ09QOVZLb3BiR1krTG1pTHhYeCtJY241ZnNZTEFXV3pRXC9JMHZQd0pDdXhZQ3diNXdNTU5XQnBRS2FIdjZXMmpkdWhpWVNpZ21xWW9PbEtlZzl5MHZtMWo3TmpxV0FaQ1hmQjAwUDhHOWE4UjF4K0VEaVMxOE9MSjE5XC9yTnZ3XC9EYnhHVkpKSjBGdWFNUHJ1TjdnaU5WdVUrRkNEXC84eUV4eVdKMXBBQVBwRERTZm85aGIxRU5RXC9xRWFJVzRMbzZzY0xNdFhOZmhTekk0ZUlOM1J5YUhGMytHVjh5c051OTYwcVdnRHlxd0d0KzFGbmdPIiwibWFjIjoiOWRmOTAyZWUxZTY0MTY0YWE3ZTAxZGI4MmMyYWMxYzI4NzgxZmM2ZjY3NDU3YzY1OTQwOTU2Y2UxOTExMzZmYiJ9&amp;signature=ab2de1d1c846951818ade581acdce435ba43c731a9e4040ca3853fa00f4425fb</image>
+    <start>07:30PM</start>
+    <finish>08:00PM</finish>
+    <date>28 January 2026</date>
+  </channel>
+  <channel>
+    <name>Porto Canal PT</name>
+    <id>Porto.pt</id>
+    <title>Ordem do Dia - An?lise</title>
+    <desc></desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IjNNMVpmNUsxa0dub2l5SEZyQnFpR1E9PSIsInZhbHVlIjoiUWRXR1BIREttTExlN2ZoOFFRcllSQ2YwTlE3RnpLZmh5b1JDM3p1ME5sUnVqeFRhNFBVSjlxVExJR0xCdnRTRGlxeXNnb2JQV0xsd2tYd2RJeHY4VWdnYTl1dFpzR2R5WHdjXC9oajdHd1V0U0ZMZU5wOGhzakJUS3d5YXVJRUo5cmZEWEt4RjVxZTBzY0NVRWplS0JTa0kzY0tYOGhQaVdYN2YxQUZjNnMzXC9qVkthRlZYQmoyZ3pVT0tQb01mTDNFSHpNQkdVdE9xRFpSeVhxQTlCYUZcL01LMU5RQndBWEVzYkFmalQrOXJHVWhVejdaQjlJcCtVb0hpK0w0UWhkViIsIm1hYyI6Ijg4ZDc3NzhiY2EyNTExZWVjMzc5NmY3NmE4NTMxODY3MTkwNTE3ODQxNjM0ZGMzNGUxNjlkMGM4OTZiZWJiYTEifQ%3D%3D&amp;signature=4e1d82666427566276cb9be2732d2548c40ccc9fd7a2dc794703b4e32dd704ab</image>
+    <start>08:00PM</start>
+    <finish>08:30PM</finish>
+    <date>28 January 2026</date>
+  </channel>
+  <channel>
+    <name>Porto Canal PT</name>
+    <id>Porto.pt</id>
+    <title>Caminhos da Hist?ria</title>
+    <desc>Programa dedicado ? divulga??o da hist?ria e do patrim?nio do nosso pa?s, esta s?rie visa a valoriza??o da nossa mem?ria atrav?s de percursos no territ?rio e de visitas a monumentos, na companhia do arque?logo e historiador Joel Cleto.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IkkrcCt4c3l3WVJTd09Wd0ZyQnBpRHc9PSIsInZhbHVlIjoid1NlN1hQQ2YydkZCUjNhTnhwejZUWFNcL054ZDF1ZU5aYUw5Q0ZjM2RHUUt4VkhoZFRjUmF1K2tzMHcwdDZ1enEyYm54QlRIdUthcUFGK3FOUExcL1lUdDRPdW4zR2RWemxXbVEwc0Z4a09oRWtzS0hqbjdUYnhjNjZrdExQM1J6Q1o1ZUl1TzRXT2U3M1V5THFMbmhlMm5aY1Z4bXgxV0ZOZW1Cd2w0Z1o3dGMyUGd5c3JnajJ0bFF5RG1MckhvWDNzdzFhT21hemVSYnZyRG04M2I5cGJ0dWQzTUUzY0hueCtnZlNSalBHK3hDWEJwQkV1RzRrcXQ2VG9YMXZYb3o4IiwibWFjIjoiZDU1OTNiOTIxOTVhMWE3NGY1Njk1OGUwMzU1NzU0YTc3MjkzZjRhNTViZWQ2NzljYTI4ODViOTRjNzAzY2NlZCJ9&amp;signature=ac093f820d4e10b8a475300fd87bf1fe2b21e95ff92e49f1de076cac4092e2df</image>
+    <start>08:30PM</start>
+    <finish>09:00PM</finish>
+    <date>28 January 2026</date>
+  </channel>
+  <channel>
+    <name>Porto Canal PT</name>
+    <id>Porto.pt</id>
+    <title>N'Agenda - Entrevista</title>
+    <desc>Agenda Cultural apresenta semanalmente com sugest?es e novidades no meio cultural do Porto e Norte do pa?s.  Exposi??es, concertos, cinema, arte etc. v?o ser os temas em destaque.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IlZwTlRxNnFaaFRwQXQ4dkNpYzRtNXc9PSIsInZhbHVlIjoiQkM0U1g1VGxGYTNjbUg5aSs3S25LYTZSc2ZCUkFMcmJCdzl1SUM4bndZWUxmcHNFSUUyeE9iaEVyZFwvV1d6TDNueVpCOEdTN0lJTHd6XC9cL1hkMHZ1SjdzQWxMWU02b3EyTlZqRVFrM0ZqSFZJek1xdnRlWVhMYmhLOGVTdkJVUjdGczhuWXpVYzNuK3hiVURNUlwvd1hSRnlcL3pnRjBDalZwc09CN09iZUh1MVBZd2lGMzU5UGtjNXJCOThLMzZxUUw3Z3JwNVBWWkFwd29Qd3hEUWZKXC8rNUpueEk2b0FjSk1wMXlUdFFuSzNnNXBFamJmVTJmM3FFekJaTUYrR3VoVSIsIm1hYyI6IjBiOTQzMTU5ODUyMjQ2ZTY1YjE2MmViMmZmYzVjYjk0ZDY5NzY0ZTJhZjUxMDcwYWIwMmU4YWM0YzhjZjhlYzUifQ%3D%3D&amp;signature=6ab951a6dfe04fe2ce389bee2bb000b8ac25ddfb9c049885eab862eb69f1a85a</image>
+    <start>09:00PM</start>
+    <finish>09:30PM</finish>
+    <date>28 January 2026</date>
+  </channel>
+  <channel>
+    <name>Porto Canal PT</name>
+    <id>Porto.pt</id>
+    <title>Especial FC Porto</title>
+    <desc>Programa referente ?s transmiss?es especiais dos conte?dos do universo do Futebol Clube do Porto.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IkRHN3ROZmVCa01Vb0dvSG0rR0ZlVUE9PSIsInZhbHVlIjoiVllwSnZzSStFTHdyRno3SStVNStsVTRDTjQ5V3J5RzNnTGgyUHdJV2xlcXRoS2pUU2ltVU11Rnd1VVYzT0w1TjZtYzFuVHhRTE5jTmRkcU55SnpzTUJXbGVlSjVtM2lTR3lZbThiVFo4SktrdThPMTRxcUFvdWpmQkUyaDVpbmVMVmxjMTNKNUg3alNzNjBUSmxhRUp2ZHo4T1dXRVwvcjdsOFVDeUpRdFJ6NmNUajkyNUFYOHRoencrQ0MwNlNiajVWd0psd3lSQzRTTzRtRWxDVENUbUJZNTBZUm1FVFUxSjFxSzJVaDFRRldIMGl0RUdibWVXWng2Nkt2RDZCSVMiLCJtYWMiOiJiMjhhMjRlM2E1NDQ4ZGRjZTNmYTJmODNjYzVlNzM2OGEwMGNiMGEyMjUyZTk4Y2FhZjYyNGFhMjU3ODI0ZWUyIn0%3D&amp;signature=356b04bd6621cf76ace8fe5580ed31f5067adf583f93d6161d142b9d82e631cb</image>
+    <start>09:30PM</start>
+    <finish>10:30PM</finish>
+    <date>28 January 2026</date>
+  </channel>
+  <channel>
+    <name>Porto Canal PT</name>
+    <id>Porto.pt</id>
+    <title>L? Fora</title>
+    <desc></desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IkZzXC9xejZHQTcxaVpxTStLRWp2aGtnPT0iLCJ2YWx1ZSI6IktuaFE5OWRYOVV6eHc2eHJwenJBcFd6ZU1HOUs1VjhOQ0ljZitxZElqMFpkc3VMVmZDd29ycEV2NlRaOU1CMnpiYlFqdWRvUlV1ZG03TDJBYXhuVDZsNU02UHpHVm5MSXAxTEdQVEpUeHlSZ1VMUmYrSEpxRzgzd0FsMUdYXC9KOTNRZFV1Uk1VbTNqVVhmV0ZCVVNIaUlNZUVYS01CQmhRZVRVd1AwXC92N1RXWDIwbWduSUtaOXdhSHR5WmpEcTBpcnBIVHJcL01neHUrQnNEQUx1M25QRG9cL3J0ZSt5c1QrMkpJWU9CMDF2ajBnTmNJYVJBTmJXVlJsYXg0YnRZWlIxIiwibWFjIjoiZDBmMjljMDZiNTg3M2MxMGU5NTAxODJhNDFlMDIyMjUxYTk2Y2MwMzcwMzI3Y2Q4NGJhZGJiZWY3NDJiMDE1YyJ9&amp;signature=acdd608c0836d2cbc61f8e33ecc7e75010cf51c3804dea25a6262ffac44736b5</image>
+    <start>10:30PM</start>
+    <finish>11:00PM</finish>
+    <date>28 January 2026</date>
+  </channel>
+  <channel>
+    <name>Porto Canal PT</name>
+    <id>Porto.pt</id>
+    <title>Imperd?veis</title>
+    <desc>Programa dedicado ao vinho e ? gastronomia, cujo foco incide nas grandes quintas produtoras de vinho portugu?s e de vinho do Porto. D?-nos a conhecer os v?rios eventos dedicados ? vitivinicultura, assim como novos locais e espa?os de degusta??o.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IkRSRUpMQ2ErWnh3R2FGZmlLeVlDUlE9PSIsInZhbHVlIjoiM0dZdzdsNWxBdFRzTWhcL29zd1lmTlBwcHAxdkZXYUQwM1wvVWtjanV5dFwvSThxMEVVN1lCNFI3Nk9sNGkyc2h2dndqZ1wvTVZ0bUZtc1VYZlU4YUhaeFVhYzZub0pvUnVndnFvNUJxSVZwUVV1alNnR0tyNTE2XC9TMzMwbVZZMjFnams4MUlNNnNiRU1BMTBWU2d6c2lRUmtZTmdlaWtiRUhSOG9tVWJPNVJQYVRtOHRNUUxOZjIyVUpLRURGbEhnTklUOXhsOVc4S3FOZ05CcHlmSjJqUjhFUmlCeE9WTjZ5MGNTYjhrUnlxTEtIb1dJaUduRTU1THZSeHBaYXMrNndMIiwibWFjIjoiNWNiY2VhOGI4NmJjMDBiY2ZhZmNiYTVhZmExODU0NWY2Mjk5Y2E4YjA3ZmE1ZTdkN2FlMzY4MDVjN2M1MzE1ZiJ9&amp;signature=abc4ceb4542761ff2934914e2138d41a0dcbdeab15d0959954fc7b07f4cd5521</image>
+    <start>11:00PM</start>
+    <finish>11:30PM</finish>
+    <date>28 January 2026</date>
+  </channel>
+  <channel>
+    <name>Porto Canal PT</name>
+    <id>Porto.pt</id>
+    <title>Imperd?veis</title>
+    <desc>Programa dedicado ao vinho e ? gastronomia, cujo foco incide nas grandes quintas produtoras de vinho portugu?s e de vinho do Porto. D?-nos a conhecer os v?rios eventos dedicados ? vitivinicultura, assim como novos locais e espa?os de degusta??o.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IllXb281NmswRG5aWHlTWHJQc3QxM0E9PSIsInZhbHVlIjoiakNOSDRVQWQ1REM2czNDa0k2VlkrbVR2UVNZZm9QVHdBZlFiWmtBVjNvTjZ1S3VFWUVaXC9aa3JvS0NtNW1MVHgwVzZQM1laOGFJQUxGSVlreUdEOFZVZ0ZmYTJzVmhoM3NPamQrd0pHVXBlbk9RVnRPQzl2RnVPSTU4XC9cL0NDSGhGV0EwYjFcL3M0SlFHWjNuWU8yM2thRStReUJzSzFEMFBtalJid25CelRCbmIzZlZ4WTFOYStaRm51c2VYM0Noa0xDUkVjN3pubXk3aDMrVFVsblBRckpoMW9KK3Q5bGMxK0tINFJSR2twc294Q05PQjhhUThVZUdzSmZjRVdKN0EiLCJtYWMiOiI0ZWQ4MDMyOThkYjgxZmE3YWExOGRiMTNlYzAzM2U0MDMxNWY0N2UzMjI3ZDVkYzY4N2E1NmM1YTY4MGVhM2RjIn0%3D&amp;signature=f5b3aeb1fbd5ce91c8effbf861f2ac303105cf679a90d4536a50bb5592313dbe</image>
+    <start>11:30PM</start>
+    <finish>11:30PM</finish>
+    <date>28 January 2026</date>
+  </channel>
+  <channel>
+    <name>Porto Canal PT</name>
+    <id>Porto.pt</id>
+    <title>Conversas Com Hist?ria</title>
+    <desc>Neste formato o historiador Joel Cleto apresenta-nos um convidado diferente todas as semanas. Partindo de uma zona hist?rica, desenvolvem uma conversa sobre o percurso de vida do entrevistado, que se cruza com a hist?ria e as est?rias dos locais que percorrem.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IjI1YzVSRU1UcjM3c0V0SHkyV29aakE9PSIsInZhbHVlIjoiRHQrVXU1cHJJMDdVUUJheTlHVzNZazZtNllkQU1uRnhraFRcL1I1Y1NKRERjRHFCeXRSVjZwNHF5S1NXenpLcVFyWk1ReFZaR2c2UWUzVU9Ua29BUSs5V3VyZmI1TEV5S1wvT0wxQ05DU3EwQU5QblBNMVoyU1BTRVRSejIyTEczalp4VFI4NE5sbWpwWmhYYUJDaWNnMFlOREdSOXhSY01IUXdmemZcLzFzZjRjMnRXdDNNd1ZUbThIcW9teDFYM1B4bVd0Tk9LTjh0Tk15WlRqQWJMVVk5bWQrajFIOG01NnRCVnhBODhwaUZVQTV6ekEwYWdkREdWeCt3SmRyNlBXbCIsIm1hYyI6Ijc4NmY2MDdmYWU4ODkwOWQyODg3NWJhYmYzOWNjYjk1NTc5ODQ2OThjNjY1OTNiMTdmNzM2Y2JkZDEwYmExYWIifQ%3D%3D&amp;signature=aecbd43994f74f101ad5f8a1fbbdd96c73bec6c6f0e560bd508057bb7e0847f3</image>
+    <start>11:30PM</start>
+    <finish>12:00AM</finish>
+    <date>28 January 2026</date>
+  </channel>
+  <channel>
+    <name>Porto Canal PT</name>
+    <id>Porto.pt</id>
+    <title>Noite Desportiva</title>
+    <desc>Um programa que re?ne jogos de futebol e modalidades, bem como conte?dos dedicados ao Universo Azul e Branco.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IkFpcFhWcW4xT1o4SFZzbnRwbUc0elE9PSIsInZhbHVlIjoiXC9wVHpCRlphd3RDRjdVa2dHMElBcEhsbDVlSldcL1JEYjdxbkRvVHZZMVo1M1VcLzFzQUFablVmaWM0RFMwek5GT0xaZHZJTDlJM1owKzM4Y0t3K200MTkyTkd0dnRIS3JDZGNYeHl2Wnc0RXZsVlFDSEJHcFNMXC8wUlFxSHptQWtKVUVTc0Vpb0hcLzFsMEx3a2VOVThmK2tnd0NaWFliaTVpa0h5Y3Y4QjJhVDhJWkdGSHAwSEk3Tjg0OUJwcUdBNDVIaGFZQlVcL01RcnUzVlBKcWhuY0VnN2ROTUgwU1dVMmF0b3BpMkRFSkRLUEJNYmVkWGlpU05oVnFTcUhOZnFkdiIsIm1hYyI6ImQ2MzZhODcwMTVjNDU2ZjkwODYzYzVlYTM4YTcxYTEyM2QyOWMwZDUzZDkzNWY4YWFhNmFhODQ4MmY2ZGMwNjUifQ%3D%3D&amp;signature=72760670899058302dccd186b81144b5c623bb4b1a229c46100d2f5b211f73fe</image>
+    <start>12:00AM</start>
+    <finish>04:00AM</finish>
+    <date>29 January 2026</date>
+  </channel>
+  <channel>
+    <name>Porto Canal PT</name>
+    <id>Porto.pt</id>
+    <title>Ordem do Dia</title>
+    <desc>Debatemos os temas que est?o na Ordem do Dia com os cidad?os em direto da rua, dos mercados, das feiras e sempre com um analista em est?dio. De segunda a sexta-feira.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IkxOT2FrSktkZ2hHU1c1MGJNdlJLOEE9PSIsInZhbHVlIjoiQmpcL1dSbk11NDZcL05oMW1zbjdwQkgybXEwRDNDUXRLemdKXC9nK1YzVG1tbnQ4dFpsZVE2NnFXZitYanpmZlZEVjlHbkRqSEFqbkhkdlhRQkRnVkNzV3FHcjRmSkU5Mmg5VmpUSG9jY3dka0lBa3pYRzd4aEdzUjZ1eGFNaVE4aStlZTNMOHBKMGpoVHJGOEdzMDgydTdOUmwxbTJWTXVMbVVJdWhZbVV3R0ZQVFhqdlQ3ajRXVmF5bG5CME9UTWppcDVNU3E4U3Q0cTEyWmRrdHZvRjlTbFIwXC9EZGd4enloY0Jtc09kV1FXY1NiR1ErMFBDWEt5Q0xkT1pRTGV6ZUkiLCJtYWMiOiI3MWM1Mjc0MWJhNzkzOGQ4MzkwMmQxNjdhYzJmZjk2OTMzMDk5ZGE0MjU3YTQ2N2NiYWZmNWIwYTVjYWIwMjlmIn0%3D&amp;signature=d1986020ae68ccffbf2cce37fdc54eb9e863d63f648729a2bf27cfa6529ea108</image>
+    <start>04:00AM</start>
+    <finish>05:00AM</finish>
+    <date>29 January 2026</date>
+  </channel>
+  <channel>
+    <name>Porto Canal PT</name>
+    <id>Porto.pt</id>
+    <title>Jornal Di?rio</title>
+    <desc>Espa?o noticioso dedicado ?s not?cias de proximidade dos portugueses. Especial destaque para os coment?rios dos habituais convidados e ?s grandes reportagens.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6ImRUWXpGQUw5dklIS0R6OGJyNmRNZnc9PSIsInZhbHVlIjoia3lndnpFSXFmY05Mbk91SW5rcXB5YUd1Zm05V1l2cndnR2pQZ2s5TGl3OExaU1dYVDUyZlMydW1jTEJUQ0d1d0NxMkNPemRCV3lYcjZzZXFGXC9LZitSZVArWldsTlBwSnQ1bTRZRmNsbnpGUU5kTmJTNGVaTUl1QmE4NkIwZVlpaDlnNG9ua1VkRklIdllyZjZlc1A5eGZESGtFQzUyS21MRXdMNjhxdVlVd0c1ZjBVMmdMMHhpMjdtbm5aN1RtdDhJU3RzQzlKclFvVmJCMHNaUW15ZUN4dXFMdUJHb2hNblhjUFROR3ZBekkrK2tuS1AyT1NveUtJaUEyeWpHNlIiLCJtYWMiOiI1NThkYjE5ZmRlNWM1YzViOGYzNGFiYjJlZThlY2NkN2Q3OGE2MGFlYjFjYjU3YzE1NzJmODM4YzE4NWYyZTRmIn0%3D&amp;signature=eef388e952e41e5f149ebe68c1fc74f1f6b17ee3a2db61bd719b35fa0217e288</image>
+    <start>05:00AM</start>
+    <finish>06:00AM</finish>
+    <date>29 January 2026</date>
+  </channel>
+  <channel>
+    <name>Porto Canal PT</name>
+    <id>Porto.pt</id>
+    <title>Consult?rio</title>
+    <desc>O programa Consult?rio ? o seu consult?rio m?dico televisivo, sobre sa?de e bem-estar, de segunda a sexta-feira. Em direto, a apresentadora Alexandra Martins conversa com especialistas das mais diversas ?reas da medicina.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IlR4YmVLXC9BaCtXb1o3RTVKTEJUaDZBPT0iLCJ2YWx1ZSI6InVDWXhyazg0dHh3THFZMUE3VGFJY3BaNXFqUjJZNUNyY1pLcG1XcWtjMzNUNUgzNlBNb2NBU21jVnVQcTNYOU8yZkxlaGFlNStCWmN0NG9pU2ZkSHVtbXBcL1RLVXBLYWg3ZEY0VmlXMWdkMGxLYXVBRlwvU1daQm9tcHhLdlwvb1B3ZXEyNEFvRmNHUG5yVGQ5Ums1YjZlQTFodVRGMlwvRHRONytnOW1kSjk2YXU2aTdtaVJkT0V3TjFEQTZzMk44M1Nqbis4KzhLckd6aU0rK2RvODFrUGhKeVVSVEluZERkUFVsWjBCSERRXC92RjBhV0hHM3pGUStONlF5RW5EeEJQdyIsIm1hYyI6Ijc1MjM0ZjRlYmM2ODgyMTVmMjczNWU0ZDU2OTY3ODdiM2I3ZDkwZDkwMjk1ZjQxYjZkYTkyODRhMmRkZjIyMmQifQ%3D%3D&amp;signature=a351749f79875742852016703be294b893a432502531d06f58487feeeabb7ac7</image>
+    <start>06:00AM</start>
+    <finish>08:00AM</finish>
+    <date>29 January 2026</date>
+  </channel>
+  <channel>
+    <name>Porto Canal PT</name>
+    <id>Porto.pt</id>
+    <title>Planeta Verde</title>
+    <desc>O Planeta Verde ? um programa que mostra o que de melhor e mais transformador se faz na ?rea do Ambiente no nosso pa?s. O intuito ? que seja um programa que inspire a mudar comportamentos e a saber mais sobre projetos sustent?veis com impacto positivo.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6Ik1hNis4Y2pvSTJSNXQ1cEk5d0Z5amc9PSIsInZhbHVlIjoiajlUS2VxUUgzak44SWNscXAwNExVZW5JSVQ1c21hc203M1JNTU1EWlZrWDc4d3lZaW93U0dvc3Q5UUlCcHc3akh5YkU0cFFIWVNRNEhNNjV3VldPdzhnTnVobXlaRnliQXRDdk1Eclc1S1B6WmZYbFBraVcycDNpUHBWUzRNeXd6a3hzdXB6allnMERScTloWDJtT2NpN3FHWVFSVVhoaFU3Mk1LcjVCZkRSd2FnWVpueW5jRjI1MWRGZlFEM3lCZ3RsdWFtSG9wdCszODJacVQ3UVN0eTVReHdIXC9yNEFsc1BLenFoWThuWVkwR09ETzc3UTZNdXFFMFR0UjFsaTQiLCJtYWMiOiJkNzcwMmJkNmFlNDNhZGUxOTUyZjMxNDFiZDFlZDVjZTI2OTgwOWZlMDA1MzFmY2NhMGViN2RkY2YyZDBkMTAyIn0%3D&amp;signature=7c17a40046d6908394e5593da6b8c2c822fbdcb21d4314651963303608ed5700</image>
+    <start>08:00AM</start>
+    <finish>08:30AM</finish>
+    <date>29 January 2026</date>
+  </channel>
+  <channel>
+    <name>Porto Canal PT</name>
+    <id>Porto.pt</id>
+    <title>Conversas Com Hist?ria</title>
+    <desc>Neste formato o historiador Joel Cleto apresenta-nos um convidado diferente todas as semanas. Partindo de uma zona hist?rica, desenvolvem uma conversa sobre o percurso de vida do entrevistado, que se cruza com a hist?ria e as est?rias dos locais que percorrem.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IlNKRjI1emxFazBwNTNjRTZKRExzM0E9PSIsInZhbHVlIjoicHZ6cjRsaFN5U1BPODFyRFN3TzBLQ1pHMnVvUzlDdFFucEsyV2Uzd0QzOVNXUDZoc01RUzlqSGJOMUpUOUNTYWdhSmVnckF5eUtNRG1Yb2NkRzFvMEZUalkrYWVhWjFmUU1GMmVIUU9Cc2cxeGtaQ0tpclwveWpocjBaZlBDeHhWdVpRRk5KZGVOM1RGRnVuTCtYUlVVNXFcL1R0dHFBTGN2YTVLMExzQlN1cktZYVJjUGFBaWg1bjBDaUFPcTRadzNoaHNZUVluUlo0XC9acEVlZjdIeW9ZOGlucHQ2K21WYlhVM083d1F5Mlwvdm5jTzhzRGFqVEcxRERXRXZNb1lBYmsiLCJtYWMiOiI2ZWE3NDVkN2MzOTJkZjUwY2ZlOGIzZTJiOTQ3MGQ3NTVlMDNjZDI5YjAyNGJkYTljYzJhOTc4OTIwNzEzNzdmIn0%3D&amp;signature=9af916aa73da4825d0b3960243b53f97ca4d8f8f9ad757b9c17c884c7f963c0e</image>
+    <start>08:30AM</start>
+    <finish>09:00AM</finish>
+    <date>29 January 2026</date>
+  </channel>
+  <channel>
+    <name>Porto Canal PT</name>
+    <id>Porto.pt</id>
+    <title>Por Perto</title>
+    <desc>Vem explorar locais e eventos na regi?o do Porto, com destaque para restaurantes, hot?is e projetos locais.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6Im9VOWh5ZFh2cUV5VXliT0hQMGhFUnc9PSIsInZhbHVlIjoiZUNqXC9OOTVLMkt6RTFaMkJLSXJtNXZwSkF4biswZWt1dkxCXC9LT09qMjg2UkNyV2RQMzRONzk4YVZVRlp6SCtRb2hFMENiQ3VCNCtQMDZyUktkaXhpQWtKcDVKNUN4aXRQV1V4dWRKQUJZZXdEUitWdnQwRnlmTUFOR09ONGZCM3Bxb0dGZ0RrMm03SXNCdWR5RXhhQTNraHVoM3BaZ09wTGxuZ0F0WGVrRGVWUGdKcVVOTEFvXC9YU2pVamplSEcrUTNBXC9KT0JzVU5uQVU1RDRDXC9vQ3lybXpYRUtsaWdCNGoremY0NXVZZmI0YTBWQVVmSDUxSzRxVklIT2wwZTd6IiwibWFjIjoiYWZiY2Q0NWI3YTg5MWFhMGNjYjZkMjg3MjA0NGQzZjkyNGRjZmI3Y2FjY2U1MjY5ZDFmY2YyMDIzZmEwY2E4MyJ9&amp;signature=1e5156e0a2bf3c35b558da9a37b3b20fab855da64809a62c08e62c90efca659d</image>
+    <start>09:00AM</start>
+    <finish>10:30AM</finish>
+    <date>29 January 2026</date>
+  </channel>
+  <channel>
+    <name>Porto Canal PT</name>
+    <id>Porto.pt</id>
+    <title>Manh? Desportiva</title>
+    <desc>Um programa que re?ne jogos de futebol e modalidades, bem como conte?dos dedicados ao Universo Azul e Branco.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IkhXWXNoZGpMY2xtU0JzS2Y2bnVubUE9PSIsInZhbHVlIjoiQ1g2T25zSHU2cjZkcGVTKzJrQkk0bEQ2RmRDT0E4WmMzU0o1Mjl1MElQaHJpV2RJYzJTYkQxQkxSUzBVaFE0Z21seGw0XC9iTDdmSmV5Yjh0OCtwRmI1cTZOcGMrTTZJd1Y4dlBUU3VVQmFiSGdqejJKd1wvKyt3ZW9ndzJ5VDZwU3N2ZUo1WnZ4TXlKdkJlM2pKSGxFZ0FPZm5wcCtJYU1sdUNpWGg5MkZuWEkwcU5iRm90WjBjY0JCMUhZSkF4OCtUc2d2UGhMczc5ZnNZbG9qQWFwVVQ2UTZxc1VzYVFoMW90djFQU29ocUUzNkVvK1N3V0xIYWlPYnJLZEhFZmhRIiwibWFjIjoiYjNmN2NmYmU0NDJlMzJhNjRmOWMyMTA0ZjMxODBlOWIzYjU0MjViODc3YTQ4YjFjYmY0MzA0OTU4MDMyY2YyOCJ9&amp;signature=df0764d685543a2e6e04d31e7912f7d055c7bc85bb338696fa81f47bcf231def</image>
+    <start>10:30AM</start>
+    <finish>12:30PM</finish>
+    <date>29 January 2026</date>
+  </channel>
+  <channel>
+    <name>Porto Canal PT</name>
+    <id>Porto.pt</id>
+    <title>L? Fora</title>
+    <desc></desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IllScFNiOWNYUVpIcGlYVVZvUHZsZ1E9PSIsInZhbHVlIjoidWk0OURLTW9aT0NwRlZSTXllZ3BYWVg5NXI2bzVGTVprVmtQRWpLUDNKbGpzSG8xdExLcmNWYzBDdW9LTjVKVXMwamlWdjRMOFNGclVmbVFIcVRwOXNpV0Z2OGJhWWpZUk5MM25waEJNbWtaWnZZRStwdFdFXC9EOGIxVVVUd0xja2l5eXNUVHBJTms1Z1VyQ2tyNU80anpIVVc0Q2NINE4rZEZjVGt1NFptN29BTXpkaXlNdFVjK09TdFBNYnBaRlBGWGlNR3FIMU80WGJ5dWhjS0RaY01iemhvNDIzWFNcL29sSWFpVlRHTDA0SmhuY1k4WHhGNDM4bkhESnF3UmpPIiwibWFjIjoiNGI5ZDFhMGRhZWY5NjdiY2E3N2I5YTU5NWVkYWMzNDJlOTk0Y2JiMWVkMGY2MDY0MjkxMDAxMDg5OWFiOWM4OSJ9&amp;signature=97ee7614c189af8b9438b9a656b670aa98eee62e21a83edea94ca52249d7ba47</image>
+    <start>12:30PM</start>
+    <finish>01:00PM</finish>
+    <date>29 January 2026</date>
+  </channel>
+  <channel>
+    <name>Porto Canal PT</name>
+    <id>Porto.pt</id>
+    <title>Pole Position</title>
+    <desc>O Pole Position ? um magazine de desporto autom?vel, com not?cias de atualidade de todas as modalidades. Desde os ralis, ao Todo Terreno, passando pela velocidade, montanha ou Karting. Al?m das competi??es, a ideia ? contar hist?rias tamb?m sobre os protagonistas como pilotos, equipas ou clubes.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6Ijh0VTcwbGt3cHJNS0cyN3poSzY1Qnc9PSIsInZhbHVlIjoiMlZ5d3pCVWdmNXJXcWczMDdKVUhSUlM0N3Q4MmpOZUduU2g4XC9UaEpLOEo5M2tEclwvaThNQytvQjNIbWFZaW4wZGtLK05iR0ZEWWFCMnZ2NlhlTkNreWtaVVUrVVdSZ0FzVWM0TTB2cGxnMlZ4ZEV1aDBWbTYzZDhjcHkwc3FiQndyNXRmSWdwOHhwZmxJcUsyaU45c0ZYYXFTaERVc3o1RWJCRm9RQWlzTWI5diswQ1dHWTZGekV4dVhDRGZnU0JWYVdLMFllako2bkZ5cHQ2empDbUlFQXo2S202MnNoTDJIYlM1YndMS0VLMWQrZEVUTmNGemJjTEhoRWtnSVpQIiwibWFjIjoiMjgzNDdlNTMxMTY3MDgzMWY3NDJlZjEzMWI1NTM2OTg5MjFmMWM1YzkzOTEyMWMyNTZjODNhNTU5OTFhY2VlNyJ9&amp;signature=07d6da6d99c2fa9c96f3e0af263161b67ebee24a92402bc01a29ce01e2515b98</image>
+    <start>01:00PM</start>
+    <finish>01:30PM</finish>
+    <date>29 January 2026</date>
+  </channel>
+  <channel>
+    <name>Porto Canal PT</name>
+    <id>Porto.pt</id>
+    <title>No Radar Com Nuno Botelho</title>
+    <desc></desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IkRYUkJlYXVtUFhyWVg3MUx3THdRYWc9PSIsInZhbHVlIjoiTHlsaWZqa3FMclYzSW45K2lJeXFnMWk2XC8rZ2hUWHIrVkR6UERXMFlEU2ZiNzE3d0ZiZExibjl3S1wvXC9rUFYxMzlKTHFVVVNhMmY5eEdkd3RTY1dBS0VsN3o4UUY2R0lYc0xLZUhZSkNIZzVZMzA3cVR6eXZlajIreWpoTHNUZ2Fnb0lnTWhQTitQRnhqTUFMd2NaSVVHZDhKaEpJeEx6bFhYWnpWMkt6TW5GSndqVjNRc0t2MU5FXC9cL09OeENPUTJUcjI3WjJGU0thRVlcL3BFT2RBWFJET3p3QVBLQmpPUDJKVldZVUNXRm9PS3phV3Q0ejQ4NE8zUTBrUDlSWkN6WCIsIm1hYyI6ImQ4ODg4NzM2YzAwMmMzY2MyNmY3ODczNzM1NmRkNTZlZTJjMzQ5NDM3NWRkZWNiYTA2YmU4MTg1MzUwODBmOGIifQ%3D%3D&amp;signature=05c844a923f070f0d4034054f1325503d4f22a77490a040e710f2f12255ddf96</image>
+    <start>01:30PM</start>
+    <finish>02:00PM</finish>
+    <date>29 January 2026</date>
+  </channel>
+  <channel>
+    <name>Porto Canal PT</name>
+    <id>Porto.pt</id>
+    <title>Jornal Di?rio</title>
+    <desc>Espa?o noticioso dedicado ?s not?cias de proximidade dos portugueses. Especial destaque para os coment?rios dos habituais convidados e ?s grandes reportagens.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6ImJRZDEzbjF4OUZQdFNIOHRZWXBWT1E9PSIsInZhbHVlIjoiRVZnbUVMejkzMjhmVHlSS0dcL1N2c0JmRWptK0lST2s5VDNKSXpRVmZWV1h2S0dIeFYzZ09Xc2NEYjVicDVQRFZSMVB1RmRjNVJrZDlHam1HcEZTbnBHbzM3XC9aZ01nejhqRDNqbWpsc29laU9lbEo2VFV5YklXdVpnVW1xdzUwcEVVM3g2QlJ1aXBWWmhzUWdKK3BXaGJONXBLVENZSzgyUjg4ckI1em9Oc1krajk4ZE5vU2k4eEdKVUNmUlE1bVVITW80N0ZPYlYrdllSUDl0ZGkzeXZNWEQxWVJ4ek9oZm8wNCsxQ2FxN2hvMmwwVEdEOEk3bkFnWG1XN2NieXE3IiwibWFjIjoiNjk4NWM5NzY1M2U5N2IxOThlZDIwODYyMGFiNTg1YTYxYjBmYThkMWE2YTI0YTNlMWIxYzRmZGUyNzE3ZTZkYyJ9&amp;signature=6d7c6500b96f714c6d1a0ee45d9580074d7344f881c77e7e6c83f669176f191e</image>
+    <start>02:00PM</start>
+    <finish>03:00PM</finish>
+    <date>29 January 2026</date>
+  </channel>
+  <channel>
+    <name>Porto Canal PT</name>
+    <id>Porto.pt</id>
+    <title>Consult?rio</title>
+    <desc>O programa Consult?rio ? o seu consult?rio m?dico televisivo, sobre sa?de e bem-estar, de segunda a sexta-feira. Em direto, a apresentadora Alexandra Martins conversa com especialistas das mais diversas ?reas da medicina.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6Im5yakF3M1h4OE1BOUwwSGw2ZnNJQ3c9PSIsInZhbHVlIjoiRGlzcWltdzZRNzhabXpGNWJ3Yk1DeEFCSXRlQUxmMGVxK1FBK2tqb1FpNkNJa1wvdmJPZnhNZkx3VmhtM2RueHUyZThFN0FFdDVLNlU4VXNSdVwvSUlcL0syZnJRRFhodzkyWlJcL0hDamNucEYya0U0OVBSalhBNFBCaXNFRzhjMVFsZzE4K20rQTk4blFGaThLSVdidE5PU3p3bDdSM0VMSEE1RTNUVXhZdW81Q2loSW1jOVRVTDdYMDVOYlpiSklHd2ZLNlRFMjFlTXhUQUplNDNOU0IzWmVpak9BVldBa1ljc0pBQzM1K3Z4VWtONklDazZLQndKOFNGVTZrNGlCeU0iLCJtYWMiOiI3OTQxZmI0NDMxNDJhMGRhYjE4ZTgwZmU4MDY5NzA1YWVkZTIzNGIzMjNkYzM3NDFmYzYwNjI2MDBjZWNmNTEzIn0%3D&amp;signature=30f2bc6c65e377169ecb99f2e24165f2ca3639e12bbae758a1b804abd1e06bb4</image>
+    <start>03:00PM</start>
+    <finish>05:00PM</finish>
+    <date>29 January 2026</date>
+  </channel>
+  <channel>
+    <name>Porto Canal PT</name>
+    <id>Porto.pt</id>
+    <title>N'Agenda</title>
+    <desc>Agenda Cultural apresenta semanalmente com sugest?es e novidades no meio cultural do Porto e Norte do pa?s.  Exposi??es, concertos, cinema, arte etc. v?o ser os temas em destaque.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6ImV2WmRVcXFuRUlhOGJpUnpjcXBiOEE9PSIsInZhbHVlIjoiVHdNRktMWHEwXC9QMGh6Q01XVUNyNXJWRlRrM0M3bTFqeHVzSUJPZzMxd0Z3R3VLVDZzbkFDektXN2VzSW9nRlNROWUySHFiXC92T29XOGlyMnU0U05ZQURUMlNrSkpwR1ZTckc0N2VhM1o5dHBETVNhZnE1cDVjdzBNNzdvaVZiamNES0xqNjdTbjdEVk83SU9VTzdrMGRpVGQ4QkV5NCtEYXJ2WGRlbytPRDJKbWNwSHV5ZlVoQ1lkcHZ3cXZPWU5QS3Y2ZkhRSVowSnVYdjlSbUJZZ3prekhDOUw3NjZpTzU5QXVkeGQ2YzlFV2lPXC9RVUZKTTVYWE50VWhnaWI4NCIsIm1hYyI6IjBjN2JhYjM3ZGE4MmJmMmY1NzBhYTU4ZmVmYTdkZjkwNmZlYWQ0OTY0MGRkYzBmMTg0ZmQ4N2RlZWU0OWMwZTMifQ%3D%3D&amp;signature=ac584b0c7160dcc914ef5084f60db5abfbcdacdeebd2c5bccf1cdbe53a999228</image>
+    <start>05:00PM</start>
+    <finish>05:15PM</finish>
+    <date>29 January 2026</date>
+  </channel>
+  <channel>
+    <name>Porto Canal PT</name>
+    <id>Porto.pt</id>
+    <title>Cara Ou Coroa</title>
+    <desc>Espa?o de confronto de ideias protagonizado por duplas de comentadores que debatem os temas da atualidade.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IlFmaHZQQlwvXC9iNU1hbEZSOEZWemFCdz09IiwidmFsdWUiOiJhTFBOWFJ4b2NZZkI4ODVKSXEwUnhGcTdnZEdlakpZcmRlU1FiTEx4RnVtajZcL0d4U09lR0RPUUhpVnVRdFJJSlVmWTV2S2VPVnFIRHlrWVdMa1VuSWYxd1g3VEZhcGlrRXd0SXhSbWlveitBU1BYVzM5bExGXC92c3ZoOWdFMUNIazAyUlFKTlhZdU5Rajh1VkdqUFVmczhjQUo3eDZscjVQWjhmUzU2cGhJc2tjQjUwKyt2bHhKM3NFbXBcLzB3TzMzWXllSlUxeUU4Qnp3YVwvV0FwU3pKcFVVVFZoXC9WdUFDYlhRS1Y2aEN4dytPWW1cL0hLTTY2TjQyWTNSR1lEXC90VyIsIm1hYyI6IjE4NGUyOGY4OTZiMDg2ZTI5MmU5MDZiMWI5MjRlNTYyMDA2ZmJmODBlMDM1ZjJmODM1NjgzOGMzMWNiYzc4ZjcifQ%3D%3D&amp;signature=b473d79dcb0fa7c277e4d6bd56831354b004b8baf6b6eedb7e9809818a267e7a</image>
+    <start>05:15PM</start>
+    <finish>06:00PM</finish>
+    <date>29 January 2026</date>
+  </channel>
+  <channel>
+    <name>Porto Canal PT</name>
+    <id>Porto.pt</id>
+    <title>UEFA Europa League 2025-26 - FCP x Rangers - Pr?-Match</title>
+    <desc>Antevis?o de mais um jogo do FC Porto.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IjVmYTE3UUR1SUtlQTRoUVNWNTgwSkE9PSIsInZhbHVlIjoiXC9uRHJHVktMMUxjXC90SVwvdzR5QnVaY2RzeUhoSXNzOWRkdlFveWoxYUFNSjVcLzFMekN1UWgwaG0rVHdvaXdlTmVSNWUrUWc1bld3c1VJNmRFN0plYjJ4U2FhdUZSSVh6dU8xSWd5OFZtR1FXM3RmMWxROGpEMWtWeG51OE03U2RXU0t6aGxmNVQxQ0crS1BUTXZUNGp2UTFUTDV3MW85SnVwa2hPT2hCMFplT3NNWnVYMHFlT2M1WDFha3lrK0ZGRll0d3BMXC9UOXB4aUEzc3NyUERnUkRPMUM1NXhkOWFaUHFvRm55dkFxMFFLUGI1K1h2dkowRWtidFhwTHJcL1ZURCIsIm1hYyI6ImRlMmQ0NmNmZDVkYjdjNWFjMjFiMGYwNDFjMmVjNzk2YTc4YTc5ZjFhYWQ5M2NjZDA2NDM4OTYyNDk2YzFmODAifQ%3D%3D&amp;signature=49e6e7c926336e64e697ca01ae62711eba28af5cc1f459cd11832c72229767ed</image>
+    <start>06:00PM</start>
+    <finish>08:00PM</finish>
+    <date>29 January 2026</date>
+  </channel>
+  <channel>
+    <name>Porto Canal PT</name>
+    <id>Porto.pt</id>
+    <title>Jogo ao Minuto - FCP x Rangers</title>
+    <desc>Siga minuto a minuto o jogo do FC Porto.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6InJVcXZzMTVyK1pJcmNrUFNsVk10RlE9PSIsInZhbHVlIjoiNm56aGc1blRcL0l5dGo5XC8zREI2WGkyT0FXMXN0eUc5KzZPQ3BjOW1PVUN3NjM2Tmx6Y2ZQMDlxZWZndm55Z2RqOHZXOHNBU1ZLWERhYzJLcFJBcm9YenErQ09YbWtNWTBvZUpDNThIenhcL3Y0dE5QUmxpUWNGSDF2bjg3eDFKbUdIa2JcL0V2M0lISnRmdFhmTDkwa1E1OFp4bGdrdlhySlVOODhYVkVZUmwyb3NLQ3AzTHpJdjRhblRHdnhFQkJhOXZHRnNPd0x2WkVraGRVSEJhVHo5djNTUG9aS1BXcTVMYnl2bnFpOGtsUlhCVFVVZDJ1OURwQUpPZmYwaXhmS0UiLCJtYWMiOiJmMDE5OTk4YmUyNDllNTBkZDBhNWUxMGRjOTllZTY2ZjkwOTBlODgzZWQ2ZTBlMjRjNDNiNmFiYWIwZWQ1N2JlIn0%3D&amp;signature=1d54cbecb248a8b3bd10b044cf43db7ff293b16ddeceb01fe735b1d95dc75445</image>
+    <start>08:00PM</start>
+    <finish>10:10PM</finish>
+    <date>29 January 2026</date>
+  </channel>
+  <channel>
+    <name>Porto Canal PT</name>
+    <id>Porto.pt</id>
+    <title>UEFA Europa League 2025-26 - FCP x Rangers - P?s-Match</title>
+    <desc>An?lise ao jogo do FC Porto.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IjFLbnRPaXhYQkVDbDc5XC9qcGpISEp3PT0iLCJ2YWx1ZSI6IjRKZmJ0bm5sTFNqY2FDQ2hwcDlOMmhoa1dsQ2VlaGR0VWZ3cWdHNW53cHl2QWd6WGFDYUs5QU8wektielU2emVkTklpS093XC90VVgyejlcL2VESHdqYTZ0Nlp2aVpkWFdPdDVNNHpCUGphdHBWMWxcL2h6anZTUDJGRTZcL3FtQnQwYmZ4b1Nxd2hRRVdkSHNTOGtES3AybVlVS0J0XC9MWHZBNmczZEQ2K0pCSlIzKzJkbDh4VWhDc0xYK21sVTkxOTNlTWdTNSsrM3RaRkZZajR0dnZZc2ZaXC9aOVwvWlp3UXArV01GZThtQXp4VXBHYmxLMDMxWHNRTkZYVEtISnU1dHpxIiwibWFjIjoiM2ZkYjQ5YjA4MTIwMjVhY2I3ZWM5NzM5NmRjNjI0MmYyNGM5MDZmZjhkMWRlYjJiNDMyYzI0YzJhZmU0Yzg5OCJ9&amp;signature=a44b50abde5c424866fd5e6160f2d253c26da3d7eabd4fa569db08ad82afd38d</image>
+    <start>10:10PM</start>
+    <finish>11:30PM</finish>
+    <date>29 January 2026</date>
+  </channel>
+  <channel>
+    <name>Porto Canal PT</name>
+    <id>Porto.pt</id>
+    <title>Finan?as em Dia</title>
+    <desc>Finan?as em Dia ? um programa apresentado por Ricardo Couto, que tem como objetivo tornar as finan?as mais acess?veis a todos.\nCom dicas pr?ticas e a participa??o de convidados especializados, o programa promove a literacia financeira e ajuda a compreender conceitos essenciais.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IkxIaG1YM2FtNStXMHFKMjkzTzlEc3c9PSIsInZhbHVlIjoiTjFNbFBKYnVwRVNBcmVSb2VZbHVncTg1T0FyRW1Pc2VGWkhIem1ERmpKdDdQbVdqTld1NkJIeE10VkxDeEtNT2hSWDJzTHRKK2hKSHYxZWc3Q2wrdjNvU2dkZURHcFQraXIwczBwRHhFUTBseXRRY0VEUTF0dm9VUTJcLzNuU04zc1VJblY1SmkxSEVpWGlUbmsrcEcwQVhrXC9UQ0NmK3NCZFNDbmg0S2pOZnlpWTRIUUpIODVGbjZ1MXRJUVFwZ0JcL2hCZTNCWU5WaEhuRW5sbzgyTDVsMXA2aFVNQ3VCSk5PWEJ0VFNmTnl4UnBla0JqWTh3aFhHK3lKM2ZVZEY5ZSIsIm1hYyI6ImQ3NWZjNTdhYzg2M2Q1NjQ1OGRiNDlhZWUzYmM0YTU2MGJjYmQzNzRkYWJkMWM2MzU4M2Y0YmZhYmMyN2U0OTUifQ%3D%3D&amp;signature=906eac8a7a9ad03fca2750994a703e91e0f85d3d3c4fa5448e9082b44a2a1a90</image>
+    <start>11:30PM</start>
+    <finish>12:00AM</finish>
+    <date>29 January 2026</date>
+  </channel>
+  <channel>
+    <name>Porto Canal PT</name>
+    <id>Porto.pt</id>
+    <title>Noite Desportiva</title>
+    <desc>Um programa que re?ne jogos de futebol e modalidades, bem como conte?dos dedicados ao Universo Azul e Branco.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IlVaRWZacG55c2NFV0JcL0ppdTZ5Vm9nPT0iLCJ2YWx1ZSI6Ik1IZXA4NU9ibU1PQUdHV08rXC93U0NCcUlkVGtCZUZPTFN4S0d1bnh1M2I3aUVVUG5qbGp6clh6Wnc0VXJVWko1eTRGb1c2T0VyeXFxYmJ6VElJS04xcnl4MUZtUFhlMkc5ZytROVhUcklJcU5qd1RzV0k3MFc5aFdkUXA2YVwvem1rbldoRW5YUEo3Rk9iWkVuQ0tHckFWbU1NaVpqSjYyYmFkUWZ0YmxKV2k4ak5OSkN4MG9BT3pVcXNQc2hoYzhqTHJ2dzF3XC9DV09qOTRHNjRXV1RTMzN0UXF1RzdiZDNBeXRjQ094NWVidDBkOEs2MHFPMXVrS2NYcXZraFI1ZHUiLCJtYWMiOiIxNzRmZTc0NWNlN2Y1ZTQxNzBmMDg3ZjkxOThlNjAyZjFkYWM3MGUzYzMwODZiYTEwYjE4Y2Q4ZDE5NjE3ZmI4In0%3D&amp;signature=b900f41532151666c0bb3ef7eee49e5e4151c1b60bae2854f3d2f5b473dbe87d</image>
+    <start>12:00AM</start>
+    <finish>05:00AM</finish>
+    <date>30 January 2026</date>
+  </channel>
+  <channel>
+    <name>Porto Canal PT</name>
+    <id>Porto.pt</id>
+    <title>Jornal Di?rio</title>
+    <desc>Espa?o noticioso dedicado ?s not?cias de proximidade dos portugueses. Especial destaque para os coment?rios dos habituais convidados e ?s grandes reportagens.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IjBkUjBWdHhVTkYzSEhLdXRLczBkWkE9PSIsInZhbHVlIjoiSHJPV3cwN1VOcWwrWHlYTE5Hd2dhZkgzejlKTU8wbHp2Y3FjaGszVGRTXC8ybDRhdXFqcXJLMHdseklnbzN2QU9aWVwvcExWbHJwM29rRG1VKzNxU0o4NzVEWmRJakZLWitld2tJSm1SemJkTDB1NGFlQXZxT1RcL3BPcDI0R2RTRU8xSCtYVjcrRXdhbkxMMmthVmM0ZlVuK1wvM0FVeXRmVFp4VkJCWklFVWJoTFlxV1pQVHFnR2h3SHBaUkNQVG1mbWZ6QUxWVFdEdk0wVlcxSnhFUG5DXC9oOFNaZ0RpeFh4VFExR016cDVuZm1IdkdaZEx4TjUrekYwNG54cU50VDJLIiwibWFjIjoiNDkzOGM2YmFlYTE5YTExMWM3YzNlZTliNTQyYmYwNGUxN2E5ZDkxMDI5MmQxMmI1NmJmZTM1MjI3ZGZkMTdiMiJ9&amp;signature=6ff81cba6396be8337d0907ee5882b90a495b862d4ad7224fa2feae5abbd7337</image>
+    <start>05:00AM</start>
+    <finish>06:00AM</finish>
+    <date>30 January 2026</date>
+  </channel>
+  <channel>
+    <name>Porto Canal PT</name>
+    <id>Porto.pt</id>
+    <title>Cara Ou Coroa</title>
+    <desc>Espa?o de confronto de ideias protagonizado por duplas de comentadores que debatem os temas da atualidade.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6InBnTCtBRGRTRFRXN0xQdnRYTmxSbFE9PSIsInZhbHVlIjoiNUtGNkh1a3JkMkh3am5OZjJ4OTZYM3JUQytEdWgxRjUyXC8zY3lwZFVmZzlpSlpzZnhQRURaMldMeGVjeDFyRmFpSUh0K3Q3TjgwUHBzc0tUZVExV3pycDR1SWRXN2U4VXlOMjRwa3kyVW9nN0MzSTluaFU3NjNSYzFXaUM3UUtoWWNxZ1BHNFwvc3ExWmx5MFRjc2ZFc2FDUjJ6YW96NHhDalBoSkVZY2R2NlI5SU5tN0huS1ZqYlYrNkkwR3BWREFUb0g3WXNpK0xpMjNBemFWdXJVRzhITU0xZnZMaTQxQk5aTXRZSnFySGNIN2U4dzFWTWtyVmdwUXdqUEpVUEZoIiwibWFjIjoiNjZiZGE3N2Q2NThlMTFkYTE3NDAwYWYxYzRhZDExNTFkNTJlYzcyYzUwNTRiYTI5NTEzNWNiMTMxZDgzNmQxZCJ9&amp;signature=9131d3045666c0cc3ee6d6e19e43595930a3942c2c65b55e8e4d532eb1ea04a5</image>
+    <start>06:00AM</start>
+    <finish>06:45AM</finish>
+    <date>30 January 2026</date>
+  </channel>
+  <channel>
+    <name>Porto Canal PT</name>
+    <id>Porto.pt</id>
+    <title>N'Agenda</title>
+    <desc>Agenda Cultural apresenta semanalmente com sugest?es e novidades no meio cultural do Porto e Norte do pa?s.  Exposi??es, concertos, cinema, arte etc. v?o ser os temas em destaque.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6Ijk2UmxZdGRpTWNReGJSdWUwaU5rMVE9PSIsInZhbHVlIjoicHVTTEZcL1hHdXp5V09tM1BhQWRzdDlnMTVEZDVoVVQwQVE4eTJhYUtCdjF6ZUk2UGJWRnhWUExnOUVVQklZRDRtSVUrXC9pdEF3RUtoV1NFOTE0XC9XNTA3blNJcE1RZ09GVnZ6Q1F1Y20rUFJpTjY4TFpRMkNvQ0FaNk1XbnFrWXlUZ0srWU9zcnFhcDNtc0hncE5heTBpQ1duXC9LM3Y2Q3dHQUMyOEh4Rml2T0UzQllTY2lpY2dhSTNtOHFcL3ZYNUxlTWttOVd3cUgzYW82TUxvYktLYjl3NkZrTnJOaFRRcFZYM0RiMkVYNko2T0lZNmVjYXp3RTFjRUdmeTJOMzRcLyIsIm1hYyI6ImQ4YTVmNTlmYjIxZmJhYzYyMjliZGUwMjYxNjFkNmJhY2U3YjU1ZTM5OWUyMTgwYTQ1MGJhZTIwNTQ3ZDhmYTcifQ%3D%3D&amp;signature=b358b99b9a486f3a0bd089002e1194b17ee599fae35a6cf8a11a6de64e8fbd3b</image>
+    <start>06:45AM</start>
+    <finish>07:00AM</finish>
+    <date>30 January 2026</date>
+  </channel>
+  <channel>
+    <name>Porto Canal PT</name>
+    <id>Porto.pt</id>
+    <title>Filhos &amp; Cadilhos</title>
+    <desc>Filhos e Cadilhos ? um programa dedicado ? parental idade, com dura??o de 50 minutos. Semanalmente, atrav?s de convidados em est?dio e diversas reportagens, aborda quest?es relacionadas com a gravidez, rec?m-nascidos e crian?as, e o que diga respeito ? sua sa?de, alimenta??o, entre outros temas.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IlgrOGtsWDllWU1sdGQyajArN01nTVE9PSIsInZhbHVlIjoiRHQ4VlR5MGM1dWlqemlFeDFvSm02d05hSHlBbXpvR0pKWDBydEl0cjBqaTJrU0FXYnA0cmpqc0xOVWt2dVNYelR1b1NIc2p2SXVWbDZrTUxXZjhVOGltcFhUUVYzQVZidWw1bEppKzc5ZWYzR3pqdFB1ZzVFTDkzVjhvSEJwaGlRS2pEa2NQMXpRSHEyXC93RVlsSzBGc1BPU0M1Q1VzRGpxQ1VkbGk2eDg3T2prQnN4SFJZWGpEME5kYXVQYWorNWJudHl3Y2piU0dBWjVFXC9Bc0h0b3FNM2Y0QW1Pd0J3K3M0dDArZnA3NGpablV0STN1Z25DUEY5OVNYK3J0bWtmIiwibWFjIjoiOTdhYmQzNmEzNDU5MjA1N2JiNjU4Yjk4ZDNhMzAxMjBkZjUzYTE1ZDY0NDg2ZmVmMDFmMzdmYWM4ZjJkN2ZmMCJ9&amp;signature=36a1b1c6c109a68a4cd122fbecd41e61d7af0800eab3b8c1a4899afc952da095</image>
+    <start>07:00AM</start>
+    <finish>08:00AM</finish>
+    <date>30 January 2026</date>
+  </channel>
+  <channel>
+    <name>Porto Canal PT</name>
+    <id>Porto.pt</id>
+    <title>L? Fora</title>
+    <desc></desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IjUyVTQ5Ukk1S21nNStHOGY2TUQremc9PSIsInZhbHVlIjoiQ1dzb1ZnelJPTWNDYU9FV1NMUXhhdU1nZzgxZ2NiNFkzaFZRbGJ4WHJpZm9nYnd5ZStTZ2p2NnpPTXdmck9JK1B3ZHllU25pbDJLREZtVFl6Q3cweWlkbm5KMjB5R0RwQm1yT3VnWWZqbXRpcXRHWHhRMGNcL25EXC9qXC94elVsN2hZZEhibnpyUWNyOCt0eEpMUmNETEJqa3YycFZWYU1mN3MrZXhZdE1UOHFabEdnNFwvR0dtWUFUVk5Kbm9NcTU3OU9lbGVGcWUxS1ZjRnJZYWJKYjA3SVRnSG1JSHlSdFdvdFhTR0gwUGVNckpqSEN0VDU4VGJcLzV1NGZtSnE4SDZEIiwibWFjIjoiODBlYjE2ZjZlOTY3ZjY0OGZjZjA1MThmNTViYjJjZjk4NTg5MDUwODA3NWMzOGJjMDY3ZDE5ZjQ3OTRkNThhYyJ9&amp;signature=e6506fa0a5567adae7122ae22b592136e5169d07c69d6a1d531d8dcf12021225</image>
+    <start>08:00AM</start>
+    <finish>08:30AM</finish>
+    <date>30 January 2026</date>
+  </channel>
+  <channel>
+    <name>Porto Canal PT</name>
+    <id>Porto.pt</id>
+    <title>Veterin?rios Todo-o-Terreno</title>
+    <desc>Programa que retrata o dia-a-dia de uma equipa de m?dicos veterin?rios com atua??o cl?nica em animais de companhia, esp?cies pecu?rias, selvagens e ex?ticas.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IkhJdWpGMm9BRHFnQzhYWnFWN0RZclE9PSIsInZhbHVlIjoiTE1Mc0RPXC9aMnE5U1pXTlZONVdGalQ1XC95ZVJMY1o2QlwvMTZGVlpZanZYNmllNVo2UTl2bWg4SFEzcWNWblYrSldubmlHVExuTXNsd1VTNmgzQU1KK09KNWtiVUJLMHhRUFhMdXc0VEJSYzdlRlphRWZLek9tVWNDUU1ESlwvOHlEY2YyaGZoY2NOWm9OeHFqV3JZK1FFKzFHWkZFbWQrelBSSXplamZXM1FiR05kRVFuSUYrYk05eGVsSzBUQW8rTGE3WFFUZUVDbTFNN2JhUVN5YkxuNGhiXC9JQm4xbmVlOEdKQzczZmRpY21UMW1iMmtPSGVqWUtQVVNrNXA5WUlyIiwibWFjIjoiNmE3MGI0YWI1NDZiZTUxM2U4ZDU3Yzk0NWNkNzlkNjUwNDE3ZGZlZDY1NTgwMmU1ODNiY2UxYmRlZmVlMDY5MyJ9&amp;signature=83b00d833b7c92686f748f55f114cc790eaa90f1d567337087ef6018cfe10093</image>
+    <start>08:30AM</start>
+    <finish>09:00AM</finish>
+    <date>30 January 2026</date>
+  </channel>
+  <channel>
+    <name>Porto Canal PT</name>
+    <id>Porto.pt</id>
+    <title>Planeta Verde</title>
+    <desc>O Planeta Verde ? um programa que mostra o que de melhor e mais transformador se faz na ?rea do Ambiente no nosso pa?s. O intuito ? que seja um programa que inspire a mudar comportamentos e a saber mais sobre projetos sustent?veis com impacto positivo.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IjJDK0VkcitCKzU3RTlYTkRWcTR6Znc9PSIsInZhbHVlIjoiU1lFZ0xUUVwvSHZmK3hzNWtDd0JTaXc5ejhnZXVaM2RrV2dyalBnRWVcL2dESThNR29RXC9qQ3JaczRwQ0craXdLa2VIOWRMOHNxMHA3MVZpWFRCR2E1ZlNpSDQ1elJ4YkZiakowdFBBd0Fna2cyeEtYQlBMZ25uaFVUb1RvZTFCUDczWHZIZHozZGJaUHBjTnNPQ0M4ZzYyckVrbDd6Z2x2XC9Nb0RcLzhnTmZYSGg1aDJ2d3FJVG1yNXc2VlVRUUhxR01EK1U4dGNtN2hCYkx0bmFzNHZMMFFSY1BLWGVUVEt1RWNUakNwMlJyK3RRNFFUbllGbFE3a3dqMHFXWDJsNzcxIiwibWFjIjoiNDA3MjIwZjJjYzVhYzliYzVlMTcwNGUxNGE2NzZhMTEyNzFhMzE5MjAyOWJjMTdlOWFkN2U0OTk5NzA0YzQwYyJ9&amp;signature=ae62fac30ea8b70104e838a289bb4a53016265c5e665637631effb30cef96a2f</image>
+    <start>09:00AM</start>
+    <finish>09:30AM</finish>
+    <date>30 January 2026</date>
+  </channel>
+  <channel>
+    <name>Porto Canal PT</name>
+    <id>Porto.pt</id>
+    <title>Conversas Com Hist?ria</title>
+    <desc>Neste formato o historiador Joel Cleto apresenta-nos um convidado diferente todas as semanas. Partindo de uma zona hist?rica, desenvolvem uma conversa sobre o percurso de vida do entrevistado, que se cruza com a hist?ria e as est?rias dos locais que percorrem.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6Ik1UdUVsa3k5ZnhuZm5KdE1XMW1TRXc9PSIsInZhbHVlIjoidHdxaUU5OGJHSklBd2ozbFNYRlZLbWNRVnVcLzdubjBwM1Q1dVFuR2RHbDNQdTg0VFZiR0N6Wk5YcjZTcE5RbjJ4WFR3dkhIaU5pTUwrbDhEdXBoVEw2Mks2ZnM3aXBlQ2FocHAzUDdIU0hRN2pGS2RZT1NaZVRYMTF1WUtsckxXb3JyMitOc3BvOW55SElCbThiNEsrMjN2VnM5UzR4Wks2Y0dLcXNaZlorUHFCQlNERUVLWGdsbWZZdFdhVE9hTEVZenBadzJjSVwvSWlpMVwvQTM5WExOblhhVGtFMFpZNEZ0UDVHXC93M3VpKzF3VUJZZVdPQngxZ3FWTlhvMkd0THUiLCJtYWMiOiI0MjE1MGE0ZDdmMzAzMGMyM2Q1MmNhNTkzNTk2NzM2ZTIxZmFkMDU1NTc2YThlNzEwOTM0NDVjZWJjM2RjODRmIn0%3D&amp;signature=894fa568500ccd450cd4a9907c832e9ac23307b5854afcddf5dadbc5b24562b2</image>
+    <start>09:30AM</start>
+    <finish>10:00AM</finish>
+    <date>30 January 2026</date>
+  </channel>
+  <channel>
+    <name>Porto Canal PT</name>
+    <id>Porto.pt</id>
+    <title>Os Eleitos</title>
+    <desc>Os temas da atualidade nacional est?o em debate todas as semanas n'Os Eleitos. \nOs escolhidos para a Assembleia da Rep?blica da regi?o Norte s?o chamados a responder.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IlIzb2orTEpyRzMrQm9EOWF1WkhXZkE9PSIsInZhbHVlIjoiM01TQUxKMzVmandYdGx6ekJiMTJDenNTdEtrVkpoVTV2MFd3MTgzQ1FTazB6VWtvQ1dPWnE5YVBOc1A2Qm5XNE04MHM1S214aVBjYnhTR3pqd1wvQ0l2Rmxoc3dleGJBaWhaQWJsMUhyNXUyN3RiSmo5SFhZZktCWGJGeDdTRVIzK0x0SURZQ0YxWFBPRmxUWGVXZU9VemFuQmYxUVBtWHNQQlkxVGlBZFZZcmlMTkxVRlNyd0FuQ2FieGNGdGtCUEI2Nk1xTDVwdW5tb2FHeVBqQWVad09sbzhkOUxCa01aZnp6UVZkNEpBcitqR3NadDhCSmo0VHlkWE02TGtcL29BIiwibWFjIjoiY2NhNDM4ODc1ZTlmMzlhNjc2ZmEyZThlOGNlYjRjNTcxZjQ3MWE5ZmU5ZWZhODljOTM0ZmNkNWZlYTc1NDhjMyJ9&amp;signature=4fc866fab9580847511774a70d275fc80843e165c836cccfee66b4d3a9099fac</image>
+    <start>10:00AM</start>
+    <finish>10:30AM</finish>
+    <date>30 January 2026</date>
+  </channel>
+  <channel>
+    <name>Porto Canal PT</name>
+    <id>Porto.pt</id>
+    <title>Manh? Desportiva</title>
+    <desc>Um programa que re?ne jogos de futebol e modalidades, bem como conte?dos dedicados ao Universo Azul e Branco.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IkxMUlNuNFwvUXFFTTlBK3lSaG02OE9BPT0iLCJ2YWx1ZSI6IkVPSFdubHRMbFFvMjBYOHRkTFF0VDVEdkZMTVM3OTdXKzBoVEMzSmJOdzk4THZGNTd5TlJDTW9MTkFKdFNWbDJpdFY0dEtGZ08xWGhvYUN3TzF4azNiQ2pWMmlcL1Y4RWlZdm9rZ0xrNHNORE1OQXVuZjRZT3o2TTgzd0RwVE13RGlVanBLTlhwNDZ0TnhlVkFkWjA0SVpEWldaOXA1bHphQ3hJMHRLRjg4M0dGS3ZEdHdES25UVWYrUFI3b0FWYWxUZ3hyYm1BYzFNR3pzeFBUYlgwbGF1eWxOVjJWcWNEaFlXaEJjTjd2RnFSaHRHUituZHBTaWdLc052UmVkRFI5IiwibWFjIjoiYjE4OWVhNDQwNTZlMDZjMGRhYjg0YTRlNDIxMjM4ZmZkMDIwMjVjYmFmNGE1ZjhjZmYyMjgwNzc3ODg5OTk1NCJ9&amp;signature=ce12b4c8d61b7bee74feca39f11b1e8eb3f5c6cd9595ed6705c805872dd88d3b</image>
+    <start>10:30AM</start>
+    <finish>12:45PM</finish>
+    <date>30 January 2026</date>
+  </channel>
+  <channel>
+    <name>Porto Canal PT</name>
+    <id>Porto.pt</id>
+    <title>N'Agenda</title>
+    <desc>Agenda Cultural apresenta semanalmente com sugest?es e novidades no meio cultural do Porto e Norte do pa?s.  Exposi??es, concertos, cinema, arte etc. v?o ser os temas em destaque.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IjZkXC96bEFBT3M2eW9BWUxUQWllYUxRPT0iLCJ2YWx1ZSI6ImEwSDcxQmNQQVZZM0E5T25rTkhZYUptbWtuRXVnSUp6TnlLbGcySVRXMlwvTndvSjFOa1hOOWlyZTdtelFzT1NtUjQxRFNjZUt4UGRHak9KTEgzYTVOZHFTbUxFMVRmdGdiaTNPS0ZzVEJ4WHcrTXBxV2VKM1BrOE8ralo4cXEyK3FaMktUWFNrTFljWitqMFQ0SFhJaDBYK2pyekZLaGlTclE4QnkrT1BZbThlRlg4R2pOSFIwSjAwNkdmNldadmh4aEhQN3VXOTJoM0FqTm91THJ0RzUyWmRMRlwvS3VmOWNvYXI4VnVuUWFDckhPMnVHXC9UaVROS3hCV29hZ3NobWUiLCJtYWMiOiI5ODM3ZmMzYzFiY2M2ZWUyZjFiMGEzZjIwODI4ZDZkZjY5ZWVlYzczOWM5NWViNGFhNTFkODcxNWU1ZWMwN2MwIn0%3D&amp;signature=67838a0618bf665257316f2383dadad9753c10e85edb43f89dff190921f5c3b5</image>
+    <start>12:45PM</start>
+    <finish>01:00PM</finish>
+    <date>30 January 2026</date>
+  </channel>
+  <channel>
+    <name>Porto Canal PT</name>
+    <id>Porto.pt</id>
+    <title>Por Estes Dias</title>
+    <desc>As efem?rides que marcam a espumas dos nossos dias, com a assinatura de Joel Cleto.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6Im10VlY3a2JQeTJRb1lJaEEyNU5ET3c9PSIsInZhbHVlIjoiNG1JbTBOamhUYTFsdm96RFRiSjFyZGNiTkRRMmwxZDVqMWMyK0U2ZlBMU0ozcExKVVY5RWRTeFpZYTVZY3ZtbWlnZFJmc05mUGNWZWd6N0R6U3ZWbnJiY1pkTEVxNmQ3V2I0SVhENUo3SGdJbVJUQjRNMkVWVENQQXRpS0t3enhRbHdoSTMxaVU0eUo3ZE5PVGFWdEh5K2luRG1UT3FRMWVYbWQwbllrcWhhZG90T3NPVGJ4N0UxQjR5eDl3QmxcL2tJbjNIVmVmQXNsXC9rRllZQ2VGZ0R2Y01cL2pMbUNzVFZJMWFtRUxucUpUNFFcL1VGUVJyVkRqNzFmOTZiNTY4V2kiLCJtYWMiOiJhYmRhM2U2NTA1N2Q3NjdjNzJmZjljODBmNWYzNTM1YjY1ODAxYjlmYWY4YzI5OWU0NjFhMWY4NDliYzViNjVhIn0%3D&amp;signature=430051c2ab5df96999ef3a5024567ebded4a07fca6c5fb28ea029d844b0570bc</image>
+    <start>01:00PM</start>
+    <finish>01:30PM</finish>
+    <date>30 January 2026</date>
+  </channel>
+  <channel>
+    <name>Porto Canal PT</name>
+    <id>Porto.pt</id>
+    <title>Finan?as em Dia</title>
+    <desc>Finan?as em Dia ? um programa apresentado por Ricardo Couto, que tem como objetivo tornar as finan?as mais acess?veis a todos.\nCom dicas pr?ticas e a participa??o de convidados especializados, o programa promove a literacia financeira e ajuda a compreender conceitos essenciais.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6Ik9FbVRrdEZoZVRrMDE4bVVSMXQrNUE9PSIsInZhbHVlIjoibUxNQ0JPTG5yeVlEMTRQNkJ5QXVNMzk0MGZtVGtwVDdLeGVZUXhWWGI1cXVFWGNPMzhDMjBlRHRzS1gxQ2M5OVwvNHJyK0R4QW11TytjdXR0MkRKSU9MdkpmRm52SmxGcjlzUVkzS0NpZ2R0S3hRUFRBN3crK0FxUWw3aUxZYUpJQm8xWFBsUXArdUpTa2k2RkZzTUpjR1dQQ3NRVlBVeTZMaWIxN093UStpMVlnWk1DVXZIc3NueFJOMEVzeGhaQVlPWCtlV3RxcENVOUtXbVVrQVFZMVMzZkVcL3F5WDgrYTRZalF4eWhKbDNvdXdhZFRHallmdVdlSDFlS21HdmM2IiwibWFjIjoiZDk4MzVmMjk2MDNhM2NkNDlmYWQ4NWVjMWE5MzY2YzdjY2UwMWNlYjVmMGFmOWMxZTExNGMyY2RkOTcxMzMxZiJ9&amp;signature=fb9c508245dcf0562f406fb4d951c360e218109e1d01fe8d005a0313fc99130c</image>
+    <start>01:30PM</start>
+    <finish>02:00PM</finish>
+    <date>30 January 2026</date>
+  </channel>
+  <channel>
+    <name>Porto Canal PT</name>
+    <id>Porto.pt</id>
+    <title>Ordem do Dia</title>
+    <desc>Debatemos os temas que est?o na Ordem do Dia com os cidad?os em direto da rua, dos mercados, das feiras e sempre com um analista em est?dio. De segunda a sexta-feira.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6ImUzMWVCRmJpV2h6ZG5OV0F4eTNkb2c9PSIsInZhbHVlIjoiRTg0UjkrVkk1d214aldMemdvc3g1Qndlb0FoVHNcL2pYSlJKU04rYTdFdnU3RVd6RHJjSFhHdnRJWXZVK1hWMWZEaDFrQzl0RmdZXC9NNDNcL3Z3dEF5ZTNVVk55YUhMY0p3UW91a3pPOEs4dkNxaFQzXC9UMyt3Z3dtRkZlSzBhaFF5SDYxS3ZcLzlROUNGaGJ3cHpSNEUrVXc0ekN5aERMU0FnNWdjUnUxeTdLK3FSYnN1YjVraTh4eXRudXpqZ25ldXltNEpYV0FqUHpWUkZZVHhIaHhqXC8zTWk4MFBMSGxGVTNiSkVUTk9GSTROTGhmMkVGWFhSRUpBK0lCZTI0ajlFWiIsIm1hYyI6IjlmMWI5NDBkZTIxNWI4OTcyOWM1ZjEzMjQ1OTA1ZDE4YWE0NGEzM2U5MGQwZDhmNGQ5Y2M4MjM4ZGYyYTBjN2MifQ%3D%3D&amp;signature=215a787576db82136f4d14676e5a47b503fbc98531edbd15ed8f4d29fa6f1671</image>
+    <start>02:00PM</start>
+    <finish>03:00PM</finish>
+    <date>30 January 2026</date>
+  </channel>
+  <channel>
+    <name>Porto Canal PT</name>
+    <id>Porto.pt</id>
+    <title>Consult?rio</title>
+    <desc>O programa Consult?rio ? o seu consult?rio m?dico televisivo, sobre sa?de e bem-estar, de segunda a sexta-feira. Em direto, a apresentadora Alexandra Martins conversa com especialistas das mais diversas ?reas da medicina.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IkZ2RFpvUzFFc2V4Q1htN0RPV3duV2c9PSIsInZhbHVlIjoiejl4MGtjazYzVUxtRURpamZUdE5HNWhjOE5CVDBZcUFrVHJzd0tjVnRpRExRRjlMb1RCejVrMGl6SG42cFpoaUYrSGF1MEpWS2lLbGFZWVRpTzNZdG9nK2loOGFcL1BXOWVFZG14YmszVFB2U0NGVUZrdGlpTTdvazRmZzdhcGwwMzNQT1JrUTQrYlVTWlVVSVJrVzRCTTNIZkhYZm41ekZ2cVVFUWRuUWJwaGk2R0xsTUwwUzNQcHJuXC9pQjhCYXBVMVwvMUk4TStESFwvcFI4TGgzSnRWXC84bWF1M1pWK1F0amNIc1FyUUJSTVlZQ1ZscHVJbVQ3KzEzZ21lU2lXMHFMIiwibWFjIjoiODQ2ZmJmZWRjN2EyNjU2MjIyMTc2ZWMzNGU5MGE0MzE2NGY1NmU0M2Q4OWI4NjRkY2MyOTU3ODJiYzc5MGZmOSJ9&amp;signature=04e23e4276a8e2e74eec241288b7e5ec35b46a8a6aee60a59dee83b5416d1bcf</image>
+    <start>03:00PM</start>
+    <finish>05:00PM</finish>
+    <date>30 January 2026</date>
+  </channel>
+  <channel>
+    <name>Porto Canal PT</name>
+    <id>Porto.pt</id>
+    <title>Por Perto</title>
+    <desc>Vem explorar locais e eventos na regi?o do Porto, com destaque para restaurantes, hot?is e projetos locais.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IlhQbkFCZlJtZ2ZKenBVQWFlU0piTFE9PSIsInZhbHVlIjoidEZJXC9Yc2dlNjNVUFN6bERxd25IemQrb0RudWY4bFgxdDVjUkEzN0FsMHYxbVJMckVSWlVJdjBYUXoyblNTcDJlblo1YWZkTWxcL2prS2Z2VDdMbXR0T3FRV3c1a2xhRU10aDB1ZjY1cWpaeTBMXC9XbnBZN05Sa3NVNmVrNU1RMndSR1diVEVSNytaZXROY1YrK240dFkzK2lLRTJDbFlHRmdGTlpGVEFZZFpWT01MdEVsSnBNTnZSVlBjdjROOVRrcUlRS3FQMzZZak5IZ1JzRTRNQ09wd1FiTzlDXC9FUGZpVWQ3SDVVc3l6T2xCUWVmOU9vbWRLUDBSSGlabTYzUmkiLCJtYWMiOiIwMzVmZGQ2ODVjOTg1M2FlMDA0YzU0Y2Y4NjA0NzYzY2RhM2JmNGEzZmViMTUyOGYzYjYwZTQ4OTk2NWNlOTE2In0%3D&amp;signature=b542a3cd0852e1a6e19dfee5294e42a9b42232a80a5e0a91da783cf77429c91f</image>
+    <start>05:00PM</start>
+    <finish>06:30PM</finish>
+    <date>30 January 2026</date>
+  </channel>
+  <channel>
+    <name>Porto Canal PT</name>
+    <id>Porto.pt</id>
+    <title>Jornal Di?rio</title>
+    <desc>Espa?o noticioso dedicado ?s not?cias de proximidade dos portugueses. Especial destaque para os coment?rios dos habituais convidados e ?s grandes reportagens.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IkdWbnVsTit5eWhMRkI3YTRwK0dwMWc9PSIsInZhbHVlIjoiaG5KNkthTWRBcVEwT05wbTVOYzZYMjV1VStcL0M0QnJYUSs4TjNpb0tSUFwvYjJBNXFLU2dQWDgxeTZ2aHpyUGoxd2VZa3JQNUg0b2xpem9LVnJRRHpxRkEyK0JmM1BlXC81M1B6U3Q0MVE5amwzQjlIUE1qdVpnaTRIR2IrUThzS3V5eTFMNGtNOGtYSnJtcTZnVzFTWkN2ZzVaeklcLzZaK1QzZW1tVWw1Y3RTQXAzR1pmRVVJcWJvS2V1UU83WVFuQ2dTY2xcL2I1NkNDU2VTVnRqbDNUSWpud1d4Wk5SWVh0bmxHS1lpVTZUc1RGV2hjcjVETjVGdDRVWVhkQmxUK0hnIiwibWFjIjoiZWQ3MWZhYmU5NjNhN2ZlNGQwMGRhNDE4NzVmNTI1YTIzMDQ2YmI1ZjM4OGNmZThhOTZjYTNjMGU4ZjdlMTI3NiJ9&amp;signature=a3c6d32fbab02374f340a9391a08eaa80b700401a06b7281cca387877e5f002e</image>
+    <start>06:30PM</start>
+    <finish>07:30PM</finish>
+    <date>30 January 2026</date>
+  </channel>
+  <channel>
+    <name>Porto Canal PT</name>
+    <id>Porto.pt</id>
+    <title>Flash Porto</title>
+    <desc>Espa?o di?rio de not?cias e coment?rio do FC Porto.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IjRDa1VFMG1kOWxcL081NkVLXC96N1E0QT09IiwidmFsdWUiOiJ4REtCKzJhSnYrM3czbXY2b0NKNm9NODVFTldhNEQ4RWdVUkJWdmZueDBCd1wvcUFtOXdZMTlQdWJUUkV3ZmFVTkMwMEJxQm41YkJjS09rS2JBV3lUYnJjYURcL1BpdlZDVUZOZHVJeUJ2QlwvOFh6VzMxWEN5N0d0ZzlhYjdXVUJWMnlzXC9QSTVRcGc5WGlsenB5SmhFNXFId2NOb3pRTFlYZkp6a2hNc1lBK25TY1M1QllIeHVKd3RCSlhnUE1ObkZWc09ZZXBBQmZSQTQrcHdkUTFzeGN5SVorT3FyY0FKWFRnT1wvN3BGOUVcL0NiZG1xejcrZndmaFl1T0U4VVR4WXNqIiwibWFjIjoiMGY5YTFiMzAxYzU4NjcwN2JjNzc2MzVkNWVjZWIwMjIxNWMwNWE5NGU3OGYyY2VlMzZlOWUwZGViMTEzMGYwZiJ9&amp;signature=c0ebc5a5a9d10350d8f50115e65d928fa7d53f40ed0bfffaa0694b92776f75a9</image>
+    <start>07:30PM</start>
+    <finish>08:00PM</finish>
+    <date>30 January 2026</date>
+  </channel>
+  <channel>
+    <name>Porto Canal PT</name>
+    <id>Porto.pt</id>
+    <title>Ordem do Dia - An?lise</title>
+    <desc></desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IndHS0d5bGhuK3E1NzR3M2swUEwzYlE9PSIsInZhbHVlIjoiSGRRZ2dMOW9MbHYyT21kaDNwUExlUU5SbHNOQjZaN3oxUDZQZU0rT2JQUkpHZHFxK2RGYWJYUDg1dkUyM1wvUGo2Q21YbUFPRW9PNkJybkUwaTdWSjlTeW9CSGdhR0xZSWZIY2FoRlZIT1hxUUk2QkZnYVlseWlzc1lNY1h2RXpZaGFaTTBPeUt6aStcLzBsNDVyRTNOK3hnd2kxcUZDK0RpWUxOUk9JUTlDRVE4eXVsWjN0UW9Md0pcL1NuZlhUMlJONHNVR29UcXZhNnZjOTZ2SWlCcDlKZWJiWnVzVHhsbWJuM09KVzNGdHFkRlVNd1RESEU5elFMQVNsSiszQTRZRyIsIm1hYyI6ImZiMjhlNmI5MzBlYWU2MjY4M2JlN2Q0ZmE3ZWFkOGZhNTQzNzk2ZTU0NjRhNDE3YTlhZjRjY2JhYjZiYjYwODAifQ%3D%3D&amp;signature=f132d7feef47206da7851389ed31a06df0a8dc52bcd782c2f56649688f101d03</image>
+    <start>08:00PM</start>
+    <finish>08:30PM</finish>
+    <date>30 January 2026</date>
+  </channel>
+  <channel>
+    <name>Porto Canal PT</name>
+    <id>Porto.pt</id>
+    <title>N'Agenda</title>
+    <desc>Agenda Cultural apresenta semanalmente com sugest?es e novidades no meio cultural do Porto e Norte do pa?s.  Exposi??es, concertos, cinema, arte etc. v?o ser os temas em destaque.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IkFQRHltRDNKV1BuV1c5MkUxNnlzK0E9PSIsInZhbHVlIjoiTzNZSWU3TlV6YWhRYnNtRVV1WStIUGFoa0VhcFFuMEpkdld2TXBBSjA4dzFSdTFqY0l1WE94eHFXZDNPaDdOd280ZVwvZzNvcnF0VWRlYVR4RVE5anBrXC9oYWxnOGJHN3NkTXZidnJEZXJGbXp4XC9HSmNyZWtWWktJaEU3dDhiNWQ5SGFDaTBkaFUxd2lrdUtScUJlNmdJNkFsTXgxQkpVWURFQ0Q3Nnd3OFREc3g3OGJ2aXp2T0JBbkc3NmtKcU9zZjNlOUd6RjVHKzhnbkd0QWxOU3QzbGsrTUdmVmF6RlpvcVRrbjZJblwvQUt2TTExais4OVFxaHlYXC9senpkQ1J5IiwibWFjIjoiNjFmYmJkNTYwMDU5ZjE0YmI4ZWMyMGQ3OWFmMTIxNGVhOWYxMTQyMGVmZDA3YTNmZDUzODMwZmU0MTJkM2YwYiJ9&amp;signature=d2c125d5224d09a2ac187f7f327081282a96c04bcedd0dded3ab000c8f31c919</image>
+    <start>08:30PM</start>
+    <finish>08:45PM</finish>
+    <date>30 January 2026</date>
+  </channel>
+  <channel>
+    <name>Porto Canal PT</name>
+    <id>Porto.pt</id>
+    <title>Cara Ou Coroa</title>
+    <desc>Espa?o de confronto de ideias protagonizado por duplas de comentadores que debatem os temas da atualidade.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IiszQ1pCeUh6SFlZV3ZBNVlGUWNaRnc9PSIsInZhbHVlIjoiUGozV0Y0VkRCXC9lTUtGUHV3bGxUd2NTTXBFb2t1VWsrdytuSTJWN1JuZlJSdVY1K25IVEFmdUpLNzl4WERNTExvU1JnSDFnMW1jQWRBalA5ZVZJcDkwU3M1ajV1NXVaSFNUaDRTUkNGM3VJMjFMTTRRSmhnZ0ZRck1IZG9jOW90SHJvaTJqUUJEZ2tDOEMrUUtCblpFT0swV1J4RlpzSlFHcllUdzFyTXFtRWdsWVwvVjlBbWs5clhtNnZDdGtER0NuQmxZMWNjelwvT0I0R1lhbVl2TGtWVkg2RXRcL3FHTFwvUjhwYWFlQ2ZTWDZ6U3VQZytpVVFna1dWQ1FBa3hKNU5IIiwibWFjIjoiYjNiYWU5ZDNiYjllZWY4NmQ3OWQ3MTdmMWUzYmU4ZWZkOGZkMzA1MTlhMGJhMmZjNTQ1NDFkMWJhMGI0OTBiZiJ9&amp;signature=307620cebdb3ec16bf79f4c9fda343ce91d3f51bc866dc86e59aa4176e5fab65</image>
+    <start>08:45PM</start>
+    <finish>09:30PM</finish>
+    <date>30 January 2026</date>
+  </channel>
+  <channel>
+    <name>Porto Canal PT</name>
+    <id>Porto.pt</id>
+    <title>Especial FC Porto</title>
+    <desc>Programa referente ?s transmiss?es especiais dos conte?dos do universo do Futebol Clube do Porto.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6Im1adFV1anNNeHJ3UWFQQm1ZMEJHYmc9PSIsInZhbHVlIjoiSG1nRDFmTndUNlhuRUwxNGRMR1NiNXJNNHNCXC9meGtMWm1OMkpVVVlVdGpwdzlIN09aUmxLbVBlWHJWZExCb1ZPWVhGQWlxdFwvSUpYSGpWMkxVdTFNRFwvUktTNlhxNlo2NXlhaVhPMjFZRVNZQWZUMDFPN1FOTEZ1cHFhZEk4b0hxYW9wbkxUamQrMzhMMTlkRHdTSXJXcDBpdU9hbSt5UGp3UXNwTkZ2TzdCN2lBQmdkWDI0Tm1aOUI4aUM3NzJrVER0TGc1N1laTERcLzF4RE50OHVVaGhncjYwUXJCTnUxXC9wczJDeWtQait4WjMreDY0RjNKdVwvWnpOT3JvZG1pcCIsIm1hYyI6IjkwNDYwMGY2YWZjZDdlNTlmYzJkOWZkNzIzMzIxN2MyNWZiMDliZDIxZmRkYTU0ZTdhMjE2NGJiNjQ0NzNkMjgifQ%3D%3D&amp;signature=4e55a0d58f3215524c04233e78e08399315251b11f87468ef570790b64093fdd</image>
+    <start>09:30PM</start>
+    <finish>10:30PM</finish>
+    <date>30 January 2026</date>
+  </channel>
+  <channel>
+    <name>Porto Canal PT</name>
+    <id>Porto.pt</id>
+    <title>Conversas Com Hist?ria</title>
+    <desc>Neste formato o historiador Joel Cleto apresenta-nos um convidado diferente todas as semanas. Partindo de uma zona hist?rica, desenvolvem uma conversa sobre o percurso de vida do entrevistado, que se cruza com a hist?ria e as est?rias dos locais que percorrem.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6InhTcDFxZ1M3UFV4dGUrTVl3S21YQkE9PSIsInZhbHVlIjoiUFRMUEhVWlV0SEhSSTVYTGdIQmFMWlhoSUZkS0lDVzZDS2dtZjB5a1ZCcFR4TzV2XC9PbDlIemhvSEtVOEw2R1pySkpVNUtNaTR1SXlwRUhPMlllNmRjMk9xN2pxZ0tIQlMwVHlXN0dKNVlRZGx5R2ZPdWhcL1dTYW8waTJ2S3VOWTlvTzBNN3VPXC9HaDQwNnF1OTBBU01XdzMrUHVGb05QdkNJc2VleUJpSVVZWkNCVGlwZTBFaVpOc1N5a1wvQkcyU242UllqMW1HdkhsVTlVUnlWaUFLcXpcLzF5ZVNhVkFEdDZSTHBsMVBhb2xsajdOS1Z6ZTN3TlFSRU81T2w0QUp4IiwibWFjIjoiNmJkMGZiOTgwMWMwMzU5YTIxYzI4YjQ3OWM0OGYyNmZmMTM0Zjk2YWEwMzc5ZTgzNWU4MDdiNzY3ZmU3NmU4YyJ9&amp;signature=a7e85bff4b286c4bc282a876a59e0a37a255a6fcd6c500e5027d15557776fdb0</image>
+    <start>10:30PM</start>
+    <finish>11:00PM</finish>
+    <date>30 January 2026</date>
+  </channel>
+  <channel>
+    <name>Porto Canal PT</name>
+    <id>Porto.pt</id>
+    <title>Imperd?veis</title>
+    <desc>Programa dedicado ao vinho e ? gastronomia, cujo foco incide nas grandes quintas produtoras de vinho portugu?s e de vinho do Porto. D?-nos a conhecer os v?rios eventos dedicados ? vitivinicultura, assim como novos locais e espa?os de degusta??o.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IkhpTHJ2ZlQrZTNPcmhPTmNmU1VEaGc9PSIsInZhbHVlIjoiYldrV0hTSE44bkpuRys3MTJQM1wvNmRHTUxINXJVTE0wOVZHeHRzcUw2TWUzSzVkcktwVlwvaERnNjBDWU5TWVlcL2hldHJwVks0am90S0krU0hORmNPZU13U3FoTklqKzZGTFhzZzJhckxXSmVMbTl5SXE1c0xrVnYyT211MHluXC9FckM0alVNV3VzcVwvWG52XC9Gc0p2YnVBU203V3ZrTnBlQlNhRkY2VmpaK1BHbUM2cHhqM2FBQThkRkc3c2g0TDc3Y1FOR2p3Uk9xaEZcL3VJRFpyTUxzRXJYcGtqek9RSW5JRWpIcEs4NGlkaERsYmlQYjZEbjNuT2M1ODVsM2xPWEYiLCJtYWMiOiJjODc2ZDZmMjZlMTk1MWJmMWM4MTc0ODMwMDZlNDIzZWQyOTI4NzU3OGFiYTYzZDA4Y2I3MTg0MzkyMDZhMGMyIn0%3D&amp;signature=64935b6c04fc72dae973b95b98c9e4e6af86a5a8cbb162c8834245b417c09048</image>
+    <start>11:00PM</start>
+    <finish>11:30PM</finish>
+    <date>30 January 2026</date>
+  </channel>
+  <channel>
+    <name>Porto Canal PT</name>
+    <id>Porto.pt</id>
+    <title>No Radar Com Nuno Botelho</title>
+    <desc></desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IlppeHpINDRtTEZnOEc5U3BxN3NxUkE9PSIsInZhbHVlIjoiY292UWVqRUF4SEdPU3JWWmpub2NTOHFaVDVkdXI5OTlYbCszeDZvUWU0VGV2NlJUdVAyM2RIT25sWW52aHhHZGQ3KzJBdWgyd0Z6dW15aUJKdCt2THpHV09DWFk2T0FlVkxwbHJyOFdtUWhwQXBybjBRcHBuZ1hUXC9TeTM0YWMxR3pacW42NnRlZVVBQkhCSmtLYndpNG9rQzlUZHdsSXo0b0JUVldOOU42UzlNN1JWcnlhaytFVzA4ajg4T3c4eDRDMHBPTnNmcVRmakhDazFDRVVwaEdrenpwU2F1cUpIdmNSVmdMOUFFekl3Q0p0NDE0cTk0VFpEN0Y4eXVpeUYiLCJtYWMiOiI1NDBlNTk3NzdmMzExOTllM2MyOWM4ZDFiMGNkMDQ4YzJkOTBkYTlkYmQ1YzhmNzdhOTAxNjNhZjA4ODgzNGVhIn0%3D&amp;signature=6daccc18c552a19cbc67e29ffa20e326b093781f0d52d2803e4f434d2caf2369</image>
+    <start>11:30PM</start>
+    <finish>12:00AM</finish>
+    <date>30 January 2026</date>
+  </channel>
+  <channel>
+    <name>Porto Canal PT</name>
+    <id>Porto.pt</id>
+    <title>Noite Desportiva</title>
+    <desc>Um programa que re?ne jogos de futebol e modalidades, bem como conte?dos dedicados ao Universo Azul e Branco.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IjBMd1ZmaExpMFJpTktFZ01jbWp6anc9PSIsInZhbHVlIjoiTE1HejVDYUNwNTBFaGJ1bjdTeVFnZzY4WklmSzFaQXM2V0ZMVFJvTmx2bUNzcnlsalVqQXdCZVpZUVwvUEl4UHJZNnN0VVBYN1pYbW5VaEZVSGgzMzFnVGI1SGVHc0JHbVp2NzZ3MkUxRER0TkdDSnRyWGZkemY3TjBBMUQ0THk4ZCtcL3hkQWk0MjhIbUJhXC9MVTRreFdjYmpYVUlIaHBFNEJMTHFyNlwvbmc3a0RVQjh5QlBBOXpEUXlQajd1Vkt1XC8yaEJmc2RzMG5hd2EzZHNlUjB1cW1RVzBlQnVKcTRmVmxScUFoMUxQWll3ZVdBdUIzSWR3QWFJQUFRRGs3dmpDIiwibWFjIjoiNmJkYzU3NmYwNTQ5OTJlMjYxNjgzOGJhOTUzMDNkOGU5NjBiOWFhOTlmMGEwMTQ2MmM0NTAxY2Q4NGIwMjMxOCJ9&amp;signature=20be6f9f7f0ee8951f50944b6968f591477efab6d6cdeb4e923bf6d8ef967c7f</image>
+    <start>12:00AM</start>
+    <finish>04:00AM</finish>
+    <date>31 January 2026</date>
+  </channel>
+  <channel>
+    <name>Porto Canal PT</name>
+    <id>Porto.pt</id>
+    <title>Ordem do Dia</title>
+    <desc>Debatemos os temas que est?o na Ordem do Dia com os cidad?os em direto da rua, dos mercados, das feiras e sempre com um analista em est?dio. De segunda a sexta-feira.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IjhSNlwvcUR6eFRYY3EwRXdiVVJqUTRnPT0iLCJ2YWx1ZSI6IjdNNDA5em9DdFdZQ05NenFSazFuUVBkNmpNbysyOFJYUUM3RmVcLzdEUDVUM2VBbnJmZWtpNjBqQXpIT04xQjdaTFpvVm5rRjJWZmYyRHpBZTZQYWVoUnU4eFY3bW81YXExQnZoRGsyYTkwcjg1a3psTTZaTVgzRFVGbkZiZ2t4alZZXC9uS1B4UUV2RU9qdlNudEFcLytoVTBINU1yVXN6UzRINGRUMWszK3YwWGphMW52OUxTK1ZFdXNmMUJncDcrcGFYZ3BVWUtYMG5lMzRwZnIyczNFK3RmM3pCV0FKejdVUktqa1ZHOGRkT0JWRFVXN1V0Mm5zN0pmVTU4azZ6Q1oiLCJtYWMiOiI5YWRkMDViOTg0YzkyMGE5YWI1MjEyZTBiY2NiNTc3MDQxMDg0OGNmM2ZiN2VjZTAwZTExNjAwZWZmMWNiNGZhIn0%3D&amp;signature=00face9eead480d3c3f21b8a09e1e50440e5bcfa763e51ed460e68067bf9a5a2</image>
+    <start>04:00AM</start>
+    <finish>05:00AM</finish>
+    <date>31 January 2026</date>
+  </channel>
+  <channel>
+    <name>Porto Canal PT</name>
+    <id>Porto.pt</id>
+    <title>Jornal Di?rio</title>
+    <desc>Espa?o noticioso dedicado ?s not?cias de proximidade dos portugueses. Especial destaque para os coment?rios dos habituais convidados e ?s grandes reportagens.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IjBneFpYRjdrMmtnK2lEdWg5SlFzMlE9PSIsInZhbHVlIjoiNm41ZFdQUHBaSVFNTVpaWjkycEozYWxqbjBhV1FUWk1pNEh2SERLZzdvaEkrNXcxYVFoWlhwYlQ3OE9FUWdldnNZUDU5RG5VdG9BR2Y5TE5tVEVKMENCNnFmTXdaSUVnWExlNkhIcmxnQzR4YlJCMWJjVTZTNTY1NU9Oc0dSRVpSbEJ4WHlXbUdpaTR1RDhQZ0dNXC9vNkJER1B3RlwvODVaY0s3S2g4bHRCT1ZuNzdoZWtNTXB2UUlhVmp3elNDNzd3ZHUzTnZqZEp3TUdVTEdyUjhManpnaU9TbEQrK2NhRCtTdW5GN1FQaGxEZURRbVRVSHZ0MjZvdlhcL0hLWGV6ZyIsIm1hYyI6IjNhM2ZiNTc1ZjE4ZDI3MjFlNGE0ODQxMTVhYzBiYzE0NjRiZDIwMzk3Mzc3NmFiNTlmZjQ3MTc2N2QwZjNiYjEifQ%3D%3D&amp;signature=3c4554977574ff6c76bd2067db055053fb721ec14f385cf5a4f0cb2f16d74fa8</image>
+    <start>05:00AM</start>
+    <finish>06:00AM</finish>
+    <date>31 January 2026</date>
+  </channel>
+  <channel>
+    <name>Porto Canal PT</name>
+    <id>Porto.pt</id>
+    <title>Por Estes Dias</title>
+    <desc>As efem?rides que marcam a espumas dos nossos dias, com a assinatura de Joel Cleto.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IjlaQnhSU2N6WllPM3MwRmlveXJ0dEE9PSIsInZhbHVlIjoiZGZnMmVnV1wvMlMyeGpnSWU5a2FKSk9CcHNySzBpanVCeVRGcHNvS3ZwakE4S1NjcVNHTTMwR1d0Q1BTcjFlOG9Pb0szallNcmF3KzluT2JtWFl6ZzJzdW90eUExSHBsVUwxT1wvaENcL21uVGtpSGxSa0JXVkU0NjVzUTZmM1U0ZldhTTQzWHNRanZ0S1ZIN2NDYnRxNlppbWxwTm9ZaVVwY292WFpDV3dNaUhwQjBPczA0c0tWRkhydUtxTGZMZ0c3OHRFOFRhWlhMUGNKMlwvNEVFQUhxeHJtNEFRZURpR2pOZFhqTUZJZGo5aUJBZWdPbjZteEZlNHFMVm5LWmU5RWYiLCJtYWMiOiI0MTQ3MGI1Y2FmM2VkMTgwMzg1ZjI3NDQ4MGE2Zjg1ZjI0NmQ1ZTVhNDlhNzFmZjc5MDYyNmMzODk4MmQ2MzUxIn0%3D&amp;signature=641b59f84f032dbc742ac881e9cfd4d7094a10152bcaf2749ed56889ec3a5639</image>
+    <start>06:00AM</start>
+    <finish>06:30AM</finish>
+    <date>31 January 2026</date>
+  </channel>
+  <channel>
+    <name>Porto Canal PT</name>
+    <id>Porto.pt</id>
+    <title>L? Fora</title>
+    <desc></desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6InhQb3lyQmdjd3VyOUsrbURoUmNWWFE9PSIsInZhbHVlIjoiSGhJQ0IwTENHN1hMcUpGSjM1VjRYZjNSQlEwTDNRcG5HeExKVStcL2NNY1wvRUYxYVVoOThCbHg2bFZTSmE3Z0pURURLNVpuVWRIWlwvU2lWUWVrUkw4dFwvZzBNalZvRjlQVk9HeDNic2pGOXFmRlo1QzA4Ym4rU2NjaU5hSCt3VDhkMDBTSkh4c3JSMk1YSkFrZDBJcDJsSVg4akhPbGt4b0oxY0o0Yzd1cld0amtxSEVxUGxyOTJWbWtwekVqeStHNWVnRUJsMWh0a3NIR3NoaEtRS1Zucmk4Q0dJSmdKZEtOc3JDNXhaRzh3YXlsYStGWVdKMzhTYktvWFd4c28yclIiLCJtYWMiOiI5MDBiMjExY2Y0NzdlYzkxOTI0NzNlMTU5NWVhODFkNmNiZTU4MTI2YzFmZjkzYTg5MTJjMmY2Mjg5NTI5Zjg4In0%3D&amp;signature=438219682d53a852dc5768f34790ab10eb4f50700205927389de323f04719ddf</image>
+    <start>06:30AM</start>
+    <finish>07:00AM</finish>
+    <date>31 January 2026</date>
+  </channel>
+  <channel>
+    <name>Porto Canal PT</name>
+    <id>Porto.pt</id>
+    <title>Filhos &amp; Cadilhos</title>
+    <desc>Filhos e Cadilhos ? um programa dedicado ? parental idade, com dura??o de 50 minutos. Semanalmente, atrav?s de convidados em est?dio e diversas reportagens, aborda quest?es relacionadas com a gravidez, rec?m-nascidos e crian?as, e o que diga respeito ? sua sa?de, alimenta??o, entre outros temas.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6InFSYjZQdU11QlFjbXU4d2ZSXC81TVZ3PT0iLCJ2YWx1ZSI6ImxTZ01odGJ0YUN1SDFudVpka3FST05OTDlkNHVudnBUTnlkVGY0eklWTFNLQXZidDFyZk1hYnl5RzczckJVQmRlZzNmYjRocWtsVk9sUXIydUZKU0RHbEZKbEpuYjZQUWs4S01vMVFpYmlQOHZ5eVFLTnM5eDNuQk5sK2VSOXhDSU9KcHNIMkhtTzlGU2lGajdrTUhpYldlamxpYnR3TVNUT0lMakI4RUJGdW1oXC9RTnphOGtJWGNYQThhK09FMllLaUs4dStodGdtZ1JENUJJeVFKQ2ZJcDVIcEJIOVBobU1MZWEzSGZWSER6MlBlbXBsZTZJVjlTdjFJcURyUjdXIiwibWFjIjoiNGEyOWUwNmI0NmEwOWI0ZDkwNTNkNjZjYjgzNmVmM2FmYmNhZGNmMGY4M2FkZjZjMjU5MmM0N2QyZjMxNWFmNSJ9&amp;signature=267d5cdf6e0af74fef2633c83f4ac4071b59cff1248c6807380872446898abea</image>
+    <start>07:00AM</start>
+    <finish>08:00AM</finish>
+    <date>31 January 2026</date>
+  </channel>
+  <channel>
+    <name>Porto Canal PT</name>
+    <id>Porto.pt</id>
+    <title>Consult?rio - Compacto</title>
+    <desc>O programa Consult?rio ? o seu consult?rio m?dico televisivo, sobre sa?de e bem-estar, de segunda a sexta-feira. A apresentadora Alexandra Martins conversa com especialistas das mais diversas ?reas da medicina.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6ImI4RitZSDQ5M3VyeitZNVROMFEzamc9PSIsInZhbHVlIjoiSmczSnZFbVpjZGVVUUt2Z2FDZ3IxSFVIYWEzdGRiS0IzSU1veDZTcDFKYjB0MXJqU1dlQmcwaUtJc0VmYW1wb21wMkVQWWczZmJ6YU5hYnpSQjVUUWdBNHVOZWNCMUNGRzlkT3NTc2creU9lTlNuWkt6bkxqb1wvNGJkUkF0bVJ0d1VpTEt6dmF6ODd5RmxEdVNRMzJnREgxTUlFc29MV0hWTHV6TXdFcDdCMHJuYVhLeDk5UDI3ODluOEk0VUV5OHkyUTl0NGxcL25BZTlqb0hQMk92R1VHOW1ybXp5YStFY3JEbXM2TFwvaGxTYnpcL1BzXC9mWGtvTDZrRmhrZHMwNVUxIiwibWFjIjoiODlmZTIyZmM1ODk1NzQ4NjYzZmI0YmI5YjFiMzViNzQxZmE3Mjk5OWM4YmQ5YTJhYTVlNmM0Y2QwNWM2ZjE5NSJ9&amp;signature=d008766d03afd3d49d3a3ffa176750d2dcbaadba0e4b27fa84bb47997cc260a9</image>
+    <start>08:00AM</start>
+    <finish>09:00AM</finish>
+    <date>31 January 2026</date>
+  </channel>
+  <channel>
+    <name>Porto Canal PT</name>
+    <id>Porto.pt</id>
+    <title>Por Perto</title>
+    <desc>Vem explorar locais e eventos na regi?o do Porto, com destaque para restaurantes, hot?is e projetos locais.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IlpLVE5yeElHM2J4azBCWVl5Q1lhUHc9PSIsInZhbHVlIjoibk1sbEFqS3dMMklvcGtyMG42d1dwaCsrZTcxQ2dWUzV5VWcyaWM2QkVuUmpBYUI4ZE42N1J4MlJRRUZKRldmYld3NlFKUGhFNklUdmx5ZkRLUGhSS0tRN3ZHMUV4c3hBT2ZOQ0daazRjRUo4Uk5ZWnhIK2FNXC9wSm05c0tRSlpFcWdsaGwwalVQVnFaUHlHMXZsaHl3WG91bHRJQXBqcWI4cHFIYTJaaDg0YzJqd2k3TitueHpOejByUjhzVGZDWkFYZjBpSGd2dEFMekhJSUxrRXNEWnhxZkRURnNoNjlKd3Z1STlLeGh2b2N6M21cL01WU2Znbk5BYnozK3lYQmM4IiwibWFjIjoiNThkNTJjMWYxMWFkYzZmODRlZjE4ZWQwZThkZGNmNmFhZGJiYmFiMWI2NzE2NTY1ODYwNWJiOTAyNzFhMDZjNiJ9&amp;signature=4848fcb429361af5fb3537a94e76a783ce470d08983792d21f35d97ba0202aff</image>
+    <start>09:00AM</start>
+    <finish>10:30AM</finish>
+    <date>31 January 2026</date>
+  </channel>
+  <channel>
+    <name>Porto Canal PT</name>
+    <id>Porto.pt</id>
+    <title>Planeta Verde</title>
+    <desc>O Planeta Verde ? um programa que mostra o que de melhor e mais transformador se faz na ?rea do Ambiente no nosso pa?s. O intuito ? que seja um programa que inspire a mudar comportamentos e a saber mais sobre projetos sustent?veis com impacto positivo.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IkQrSVFoQzBxVDVEbDcwb0dJWGcxbUE9PSIsInZhbHVlIjoiU0hHSGQxbEptTElRajVyMDBZZWZETTdyb01JSGVjVHN5TUI3c2hJcnprVVlOUmpEOG9ITExUUERXSjdXdlJta0g2NmFudEVhVVFLUjhFWlZ2bG8rQjdkbzNOQUM3ZE1SaEFHc0ZQSm1oUm5zT0FHSVRZSDcyTVBkeSszWHpmMWdLa3dUa2RRREJpK1UzNFBrY2l6eHh3RWxqTFpPZmJLQ3VvZnBYaEtXOVEyVkZNM2p1QVhcL0Fpem9pNUcwQXFKVlRWUFM2blM4ZzkxdFRyZ2JyTG54Qld2alBoRGprUHMwc29tNURVTUc5czZLOElcL2NOOCthbVhxXC9wYTB0NVppUiIsIm1hYyI6ImVhZDc1MDY0YzQxNzBmMGM4NzhlNjE0MDNkZDhmMjkwYjgyODg5ZTE2NjFiYjMzM2I2YjA0MGM3ZTI3NDA4NTMifQ%3D%3D&amp;signature=37b899dd9e902acdec5713ef2b55184f54f32617382aafeafe56a43c24e0528a</image>
+    <start>10:30AM</start>
+    <finish>11:00AM</finish>
+    <date>31 January 2026</date>
+  </channel>
+  <channel>
+    <name>Porto Canal PT</name>
+    <id>Porto.pt</id>
+    <title>Manh? Desportiva</title>
+    <desc>Um programa que re?ne jogos de futebol e modalidades, bem como conte?dos dedicados ao Universo Azul e Branco.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6InlacEdGdlB2OWd1S29TbkZ5aVVLWGc9PSIsInZhbHVlIjoiS0x3aUNPbjB0Qk1vXC9qemNhbWxcL3JVTUNIRE5FNDgrRWN0RGxEZzdaUXJuNWxiRUtLamh6SVdpR2NYUENwSHBPRTFHN3laMG9OVWtJN0hMRGZ0UXhyUGV5Q0VtQXhIbUxSSWJYbjhBbFVmU1U0dld1eklhRWVEbnMyU3VoZFZzZWIySWFrYlRjOFg0b2tuRmtPNDZwK3dIZEdVejdxV3FJVWI0ejhwdU84M1hrV0RLNDZlc2k2a1ducDlMT1F3XC9ZbnNleGVabnhZMWh4YktaQlpIUWxGbGs5YkV4MGEyOFErbHJMaHNERlZ6ZlVJb0paYU5TdDhXM2FaQVZyWVkyMSIsIm1hYyI6IjMxZDVlOTZhNDQ3ZDI0YTAxMmUzZGVmMmI3ZWVhNmUwZWNiNWFlZGQxOWRhMzAyODY4YTc5MTQ1YWYwM2RiMjQifQ%3D%3D&amp;signature=bd5e51199a061b142a368e8c1a392850709b2d0e354d12c9c60c38071d7698c9</image>
+    <start>11:00AM</start>
+    <finish>01:00PM</finish>
+    <date>31 January 2026</date>
+  </channel>
+  <channel>
+    <name>Porto Canal PT</name>
+    <id>Porto.pt</id>
+    <title>Cara Ou Coroa</title>
+    <desc>Espa?o de confronto de ideias protagonizado por duplas de comentadores que debatem os temas da atualidade.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IkVKUEdCQ0E0bzYxcStkMXNDWUFvNnc9PSIsInZhbHVlIjoiS2N5ZzBiaFZKV1I3ZW5YbEdqSzNzOHR5VWZrbEwzMERRSnlcLzdXU09zTzFrUm9YbFVxc1p5VHY3M2s4ZWdzOXNPVFhvZStZdVdBNnRWRnJoaVRZNVhNK0QrTHdQVG1kbXBkRGFjWVZodU5nNFRjbUt6VncwM3lRM1pTbStOVWdRdTlKMmw2MDJxVldjNCtkZjBcL1FkamtjTmNTUTR4QzNwVWlobndQeUlEQkJIa0NNSDNRK0Y1Z2xvMDJFa3pyYk1qS2RCMHArY2JOY1Z6S1ZUelwvXC9ITWxHSGNLRGNINWdBWDRDMGQxQkNVRkhVVDgrR0JxXC9PWTZjdWRCdmpyVENiIiwibWFjIjoiOTdlMmYxNDgzNjQzMWI0MWMxNjllMTZjZjIzZjRmY2UwMDRiZGFlOWYxZDYzMDA4ZjlhZWZlMDc2OTFkMmE3MyJ9&amp;signature=5a345b2eb808b3c06ae1cd6ee00b6ab6ed3c125bcafaadd6d974bbf216bd177e</image>
+    <start>01:00PM</start>
+    <finish>01:45PM</finish>
+    <date>31 January 2026</date>
+  </channel>
+  <channel>
+    <name>Porto Canal PT</name>
+    <id>Porto.pt</id>
+    <title>Cartaz Cultural</title>
+    <desc>Todas as semanas, olhamos a cultura que marca a agenda nacional e regional.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6Inh3UWFUS0tHYzlEcU1TbzBja25qQmc9PSIsInZhbHVlIjoiZ1pCdXN5d1lueFZYV1ozcXVEeUt6YXhydmtrdUhWYXhKbTM0QnZDcnBJTnJpTGNNc29yMVFZQzNhSVk1eEkrbHFlWmRRaUpiN2JuSnEzMTFcL1haVHFUQ3ZneXQzbUdnbjhtVXZuMzBacXMrNzBHZFwvb1haWmJxQjduSEdweW93YjhRUEFRU2J0eXZMU1NmbHpGSmZtdGoxVW5tSGk3V2EreGErNzZvZ21BQmpUNFhYR0VVOFdhTEtpb1R1bUdcL0pYS29HNlU4cWJsQkgrNTl2bGZVbVwvSjJFT04wbjVvZExyUWM0ajRBM25VM3pvM0pYZEw5eDM2aVhwREVoY1o0aTUiLCJtYWMiOiJiY2MzMzM5OTVjY2MyMTY0ZGM4YWU4NDkzNDIzM2U4YjhlN2VjNDIxN2JjYzhkYzI4YzQwYjgzYjI1NWE2NjkwIn0%3D&amp;signature=6909928196c355e0bc87ba51645c9353d49f8a35e7a034162c536a3a538b645a</image>
+    <start>01:45PM</start>
+    <finish>02:00PM</finish>
+    <date>31 January 2026</date>
+  </channel>
+  <channel>
+    <name>Porto Canal PT</name>
+    <id>Porto.pt</id>
+    <title>Conversas Com Hist?ria</title>
+    <desc>Neste formato o historiador Joel Cleto apresenta-nos um convidado diferente todas as semanas. Partindo de uma zona hist?rica, desenvolvem uma conversa sobre o percurso de vida do entrevistado, que se cruza com a hist?ria e as est?rias dos locais que percorrem.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6ImxjeFQzeTJuOHpVSWlxV0grQXkwYWc9PSIsInZhbHVlIjoiaytnTFN3amw2a1pxdU01ZTdJdGFPT2VpZ2ZcL0JxNUxyWG9nU1F6WFVYM3Bjd1ZrQ2xqV1B0am5mcVcxblVPRTFCQkFDWE9wbnFKYUpVWndjclE3dmxtaVV4dlB0R0xkWDE3NUpHTWYrTGMrVXlGblJjRDM5WXZYOGhmN3E5eXFDaEFDWDNRalBSMkxwVXN6c3VTUU52TFwvZk91cGZZa1wvWitGR3p1aHZKMnY4eE9TSWoxTUEyUDE1UUc2TFlZNXU0RStrSHpLS2pcL20rSkxIbTh4ZzdZdmFmRWtxTGQ5a3RodFoybE82djlQS05PSmVwR2tmVFVzeG1lWkNSaUZRWmkiLCJtYWMiOiI3ZmVlZmY4ZDRjZjkzZjlkNTYwN2Q3Y2NiZDdmODU2ODUyMjFmZmRkY2ZlZjI1NDdkZjk3NDVmZmY3ODMyOGY1In0%3D&amp;signature=883850e13bb794302241917d0d96dbd85a7d49666ba85c9576f076e86f9b8721</image>
+    <start>02:00PM</start>
+    <finish>02:25PM</finish>
+    <date>31 January 2026</date>
+  </channel>
+  <channel>
+    <name>Porto Canal PT</name>
+    <id>Porto.pt</id>
+    <title>N'Agenda - Entrevista</title>
+    <desc>Agenda Cultural apresenta semanalmente com sugest?es e novidades no meio cultural do Porto e Norte do pa?s.  Exposi??es, concertos, cinema, arte etc. v?o ser os temas em destaque.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6ImxsVDlKamc3Q1JpQ1U5ZmRRbTZWcmc9PSIsInZhbHVlIjoiMkJOV2RGOXg0QU5hTzFNSnpFNjFJcEFJTk81NXZiSzFuTFdwWlJDTlFlY0s0OVRlWTVBUXFcL2t3RlBqVk1PWm91allWcUN1Q2dOUm1wWkRKb1laSUJsVUhBdEw0bFU0a2Z1bitEeW9LdnpPWVwvc1pRbFJMeHRncGlKeDJnSDBVMFR3SXdabGNjOTFFcWgrOTJQMVM0RjhFZzZyOERTY2U3bWp2XC9aQ2d5NDE1OFh1YXQzNUtOQWUwSG5wQVdxRXp4UkZVcmI1ZmE5R0VwcFdnUXF1VjQ3VHlOZjBkQVBOV2FsbHhhSklmWCtTWGZCejRvU2ZKa3NoSlNwTUFZQVo4WCIsIm1hYyI6IjgwYTA0MGM0OTQ5ZDhjMmZlOGM0MmQ2ZWI1ZWQ2NjBhZDdiOTc5Yjk2NjQwOTJjYzljNmZlNDFiZTYwYTQ4MGQifQ%3D%3D&amp;signature=938bcb2c1bf7bf4de10b6853f91c947a48522a4deebbff78bcc86939114a5ca0</image>
+    <start>02:25PM</start>
+    <finish>02:55PM</finish>
+    <date>31 January 2026</date>
+  </channel>
+  <channel>
+    <name>Porto Canal PT</name>
+    <id>Porto.pt</id>
+    <title>Desporto em Direto -Futebol - Fc Porto X Rio Ave Sub-19 - Camp. Nac.1? Div Sub-19</title>
+    <desc>A hora de assistir ao desporto em direto.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6InZVMXNaQkpCcnd5WWZhWlE2ckNYQ0E9PSIsInZhbHVlIjoiWEpYMWVhSHZXNjVxYXZpcmpObG84bERmQkFUMFVhdFZiUUpFV1FsbERYZWMwVkhjVGhzRHo5a1wvQ0g1NDg1dVwvb0ZVMFc1d1RGSU15MEZQSGRjdXFDRnlOSXhmWGx2MFZUeUx0S09FdnlHdFo5ZjJNbEJwTHVjTzFVTGFrRktGd1RQVGk4M1o1cDJIMGVGcE11SnZXYjZNMktrN1JYcHpcL3djdmhDSVpOcDNsd2N0VnRPM2pZXC8zYmNGQ05RNFZvajVTc3dsc1ZSWFdDNXZoOURQSHNpdGpENFF3OFd3MVo5ZnMyYmV0b2dBSFNDUVQydVwvc0U2Y0xaOHh1emxiT3MzIiwibWFjIjoiOTg3NDQxMzBjYjI0YjIzMzlhN2U1NGI0YWNhOWVmNmYxNThkZDIzZGQwOGVmN2I3OWQwYmIyYWRkMmQwZWUxNiJ9&amp;signature=1a69316dd44fafcbf997374bf14ce33163099812af8c7b80aa629a5760398af6</image>
+    <start>02:55PM</start>
+    <finish>05:00PM</finish>
+    <date>31 January 2026</date>
+  </channel>
+  <channel>
+    <name>Porto Canal PT</name>
+    <id>Porto.pt</id>
+    <title>M?sica Por Perto</title>
+    <desc></desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6InppV254TFpWZWhQUWR1anIwaEdSNlE9PSIsInZhbHVlIjoiSFhZZVVNRFVTWjVkTTI3S2RxOEN6WVBSUjU1MzBFaHVpK25RYVVTVHJTYVVCQzZYU2xVUllLV1NrSzRLM1Q3dUxXWHFqQmFVVHF2XC9zZ1lcL09Dd01WQ0dqTXdoUlF6ZlNjXC9PUklcL043RzlIRm1HWkNrMnFnT2JEOXM5YXlkdHdaUGREZll6RVAzQjMzOGgzOXppWEIwTUFoNnUwZUl5cjJ6bWM0czJZd2U3KzNXWGI1eDRoeGpoemhVNjVmMjdkTkY2ZjhCTkMwdGVGQ2t4Y0ZMdWJ1XC95SHk0R2RYdXcyeTV1bGJGUGdmd1wvc1hxTzE0SkJYbmpEYVJaOFhcL2pSMFYiLCJtYWMiOiIxZjVmNWIxZjlmYWE2NDkzODZhMjJkNGZkMzlmMGMyYzZlMjY3YWNiYjEzOWE1ZWI1MWE2ZDY5OGQwNzIzMTkxIn0%3D&amp;signature=1574dd0369b767be4f3929afbb132ce59e1dd9ae0c36bf8b6582c292a8a044ec</image>
+    <start>05:00PM</start>
+    <finish>06:00PM</finish>
+    <date>31 January 2026</date>
+  </channel>
+  <channel>
+    <name>Porto Canal PT</name>
+    <id>Porto.pt</id>
+    <title>Especial Informa??o</title>
+    <desc>Interven??es alargadas de temas que marcam a atualidade.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IitLOE8zZnkzdk1DNDRTdmZodzFwTHc9PSIsInZhbHVlIjoicitwaUhoSjVQZmd6R0MydWFSNkhWakdKUzV0REZqbmpuUU9Yd3RjcHZzZnhia3haemlrVkYxeCsyUm1uMnVpcE1YVEI2UlZtc0xwSnQ5cG16QThhK2dpWnJIMWU5UktIeDFtcVNaWlwvRGxwajRDeVpVc3lMTTZ6XC9qS09CaEp4ZFR2Q0syM2lUVzYrQTluTVJHY0tXcWJ0OFY2Q2hkOGJLeEc0V2VXKzNYenNpemdsN1RIVGRWWFJ2NmJ2MkorUm9ma0NIcmtqOG1qWEZOcndjcWc5clBIZkJLSGhjbFhLdXI5VU9RbzVLbzluOHVxeWJPcnlTa3E2SGZ4ZmswaytsIiwibWFjIjoiODVmYmY3YTFmM2M5NTA3YzZiZTY5MzA1NmExYzBmNTQyOTZhMzViZTM3OWIyYzI1YzliODQ3ZjVjZWI0OWMwYiJ9&amp;signature=d9c36d595d10a2fdc16912684ccb222824be768089730f41bdb103eca225c460</image>
+    <start>06:00PM</start>
+    <finish>06:30PM</finish>
+    <date>31 January 2026</date>
+  </channel>
+  <channel>
+    <name>Porto Canal PT</name>
+    <id>Porto.pt</id>
+    <title>Veterin?rios Todo-o-Terreno</title>
+    <desc>Programa que retrata o dia-a-dia de uma equipa de m?dicos veterin?rios com atua??o cl?nica em animais de companhia, esp?cies pecu?rias, selvagens e ex?ticas.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6Ikx1S2N3Tm1CV0xvc3VKc1laRURnYVE9PSIsInZhbHVlIjoiMEhSRnA3YUxLRktxQ1FLNkRDMEtiUlVcLzhpS1FQU2I2UjhoZTFxY3NDaFhhd1ZhWXFTdWVFRVhHM3NrOHBUY3BOM29CbFpJVDk4dFh5REY3cSs3aHZpVGFzdVdTZGloRUpWY2haVFV0YWlwb1NFQUNQbEpHNnc3bGpZSEFOY2FCZlF1QmhLM2RETTV1UVBnWHlacW91TElFbVVrV2FmaE5BSXlWbE14NkRlRFhBNUJNeDdIYVwvRm00RVNST2tBaVhOR1FWKzJDRkVSZ1NraGg0QUZGbzZFN2V0MUFBcnNpVG8yamRTZlwvNUFTYWlwQVQrVEowMmpDTjlUVlFvYXh0VSIsIm1hYyI6ImIxNDJlMWM4NDFjOTY3YzJjMzMyZWU0MGE5NTdkYWQ2MmU0YWY1MmFhMmQyODc3OTY5MDkwYWJhMjBiMmYzMjMifQ%3D%3D&amp;signature=d896587efef8860cbdb3c86db933c032febb46070ac0a76b1058278c4994b155</image>
+    <start>06:30PM</start>
+    <finish>07:00PM</finish>
+    <date>31 January 2026</date>
+  </channel>
+  <channel>
+    <name>Porto Canal PT</name>
+    <id>Porto.pt</id>
+    <title>Pole Position</title>
+    <desc>O Pole Position ? um magazine de desporto autom?vel, com not?cias de atualidade de todas as modalidades. Desde os ralis, ao Todo Terreno, passando pela velocidade, montanha ou Karting. Al?m das competi??es, a ideia ? contar hist?rias tamb?m sobre os protagonistas como pilotos, equipas ou clubes.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6Iis3STBPandBVkVWOWNZV1FZR082VHc9PSIsInZhbHVlIjoicWZndWZjZjB0OWdNaDBWWWIzdGxsaVIwclZucDQxTWUzd2N4ZGk0NVNZSjNIWVJuTFpcL0VXSHNXdjZDN21YdU5PVmJ6WGNUUUpTVDRhME5nZDFRUlltNFFTRnFHbzY4WXMySnZXaE5LWnZzVFNrWGVyZngwNjlqSWpyY2N1dWhaaUpSMHNQVGk0bEY4NTd0anZaM29jSm5PWjhORWp4Nmx0T3dcL3RnaW95K3VHTk9sRGliUWhUR0RcL1JQWGdEeWFsS3VwUEtUUjk0d0hUWjl0cjRXOFpKSFwvRWVWZ0ZOcGpnanQ1VXJWQnhuVzZFS1Z2aGlNTjIzNWZaclVtdlZYRUsiLCJtYWMiOiI1ZWYzM2FkMzUxZjNlZTM2MmRjOTI2NWFiMTFjN2I0Y2NjYjAxMzI0YmRlN2QxM2U2OTY1ZTEwOTVlNDM0M2ZjIn0%3D&amp;signature=8cc9a44afc60471749b5a8f7abc30dd9d6ab325d8d9413af2db853205a078429</image>
+    <start>07:00PM</start>
+    <finish>07:30PM</finish>
+    <date>31 January 2026</date>
+  </channel>
+  <channel>
+    <name>Porto Canal PT</name>
+    <id>Porto.pt</id>
+    <title>Vencedores Como Sempre</title>
+    <desc>Programa de entrevista, feito por Rui Cerqueira aos Campe?es do FC Porto nas diversas modalidades.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IlpSVnBuTW5JdXNubFRrWGRnZXhLQUE9PSIsInZhbHVlIjoieWxCeXdLRHVDY2ZcL3ZIVXdxU1h1VlF5Nnc3blpuSmR6Y1ZJd2l3SnhqalFXSjZJeEVXVlQrYTFCTWJFdGwrbTdOWkMxd3FmVUgzRVpxTDFxbk9CXC9NOEFKTHBhd1ZtbTRGemFza1VyOTdJcEsxUHlhc2NnV3E5UmFJVmQ4WDNEMWxEOFdvZ2FDczI3UG8rK2hcL2xXVmRsWGdZdnFjdUFiSStGM0hVclwvbkFkam5GV1wvbHhjcDg3SWhWaXBiM0JySVhWQTJmZ2RwMUVubHd4cVg2RGdYUjRxMlRMVit1UWhZK2w1d0ZrdWZtc3pqbUJCVG5LMDlWRHNhVlpLQ3U2bzZkIiwibWFjIjoiZWNiZWY4ZGQ3NjA5MDgzZjViNDY1ODVmZTZjNTI3Y2U4MGVlZjI4OGVkMTA4MmVjODI4ZWFiYjUwOTE0ZWI5YiJ9&amp;signature=1f7d18fd1c091a5ab92e96c915d72d791bbf01e38eb8fd60c8413f735c2de492</image>
+    <start>07:30PM</start>
+    <finish>08:30PM</finish>
+    <date>31 January 2026</date>
+  </channel>
+  <channel>
+    <name>Porto Canal PT</name>
+    <id>Porto.pt</id>
+    <title>Os Eleitos</title>
+    <desc>Os temas da atualidade nacional est?o em debate todas as semanas n'Os Eleitos. \nOs escolhidos para a Assembleia da Rep?blica da regi?o Norte s?o chamados a responder.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IlNra1cwdUdTbm1vRkNUSnpkSHU0amc9PSIsInZhbHVlIjoidHRtN1B5SitKb1hqQnRPa3RuTHpEU0pMbVFWb1hXb2xnbWgzakZrdk1WbmZTa0x3SmlJQXlTTytTVVpLd1lDa213M0RSTDQyaW01XC9xUUJQSlFlc3VVN2hJN0MwUkNzWmhyaExOaEtGdmIzODdMbDd2XC82ZEdDWmYxb3BsY3pQTkUxZzFwVUFzTkd0XC9qbUM3bTB5TEFYaTNGTVwvVjNvejduRFk4WkRkTk1xZEhlazBcL3lWNTFPTUUwVWtmUjR4VXNZc2p5MHozMjJoUXZxbFI1eDd3djhjNXlRT1Azb2Vxdzk2bFMxaXQwclYxOEtTdEl1MmpaYkxQNVU5Rm5NMEVZIiwibWFjIjoiNGEzYTdhOWNjODFhNzE2N2ViN2JiYTFmMWMzZjI4ODQyZjI0NzQyZWE5Y2E2YTc2YTNlY2JhMDM0MWVkMDZjNyJ9&amp;signature=a3ff8953e78bc5558391073a455d3c7f95a3a5aaaf9daf9a530e8940dd3fc991</image>
+    <start>08:30PM</start>
+    <finish>08:55PM</finish>
+    <date>31 January 2026</date>
+  </channel>
+  <channel>
+    <name>Porto Canal PT</name>
+    <id>Porto.pt</id>
+    <title>Caminhos da Hist?ria</title>
+    <desc>Programa dedicado ? divulga??o da hist?ria e do patrim?nio do nosso pa?s, esta s?rie visa a valoriza??o da nossa mem?ria atrav?s de percursos no territ?rio e de visitas a monumentos, na companhia do arque?logo e historiador Joel Cleto.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6InpSMEo3a01aVzVkcGRuSFFrRFpSWEE9PSIsInZhbHVlIjoiSmxCb3J4MnYzYmVMTnM1UGFNYmliZ3p6RTI3dmp5OG5XTm9uZ1pDWTZCR2RvZlwvOW50c0wxZ1FVVG95Wks2ejBNMEExK3o4eU9PKzNRN01kOGp4QVE3dFhFRkRvNCtBTHBZZTR1Q0Y5WU95NnVcL0JFSGN1QkVVVVYwQlMyeElRQW9cL0E4T1wvc0J0R280ODR5Szh6OWk0Q09hVkl6cCsybkRjaXlQdkNVUnh6UktXRnZ6TjNQSzl4cGh1NFk2bFp3OHFIMkJrTDUzZ2prdFEzdXR1aG1aRnhwdlNxbWVTOVMzeUhcL1pLVTBPaTJPait6aEpRUUQ5YVIzYlwvUW5CRVRHVyIsIm1hYyI6IjU2MGFkN2JlYzc2YmQxNDg1ZGQ1MjdhZmMwMDM0NDcwMmMyM2M1N2Y2YTkxYWMxN2I1MjMzYjgzN2M0NjE0OGIifQ%3D%3D&amp;signature=5eb37279561f68d7abb8e25c810e880f82f6bdbb3727bf376a03c8ef9ee11ad4</image>
+    <start>08:55PM</start>
+    <finish>09:25PM</finish>
+    <date>31 January 2026</date>
+  </channel>
+  <channel>
+    <name>Porto Canal PT</name>
+    <id>Porto.pt</id>
+    <title>Desporto em Direto -Hoquei- Barcelos X Fc Porto - Camp. Nac. 1? Div</title>
+    <desc>A hora de assistir ao desporto em direto.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IkphVktZaXh2aVwvcHhaUW82TUxuUTBRPT0iLCJ2YWx1ZSI6IllWVXF4Tk1XWk4yUGdEYU1SZldOXC9LT2FVb09ZRzJ4akFQRWR6WWdHaWdiWDdIbkRiU0ZVQjhTSFk3XC9HSXNGdUhQV1d3WWdvYzRYeERkY3RHUUtPcmd4VzMzOUVnKyt6T0xLakpZOEF5WmVvNVVRNXVvczF4Y1Mra0l0bDA2d0t5cEhuZ1JBem5HQTJqczIwK0kzMnd5VUt2dU1FKzhYZUFnRUhxdWdlekV3R0oxd1NYUEpRSzlFQjRCcDhVWDNnMWd6VEVlQ0pJbTE4Zm1ZSGdYZWtCdDE1WVlXMlozNWJpUFp4V2N2Y1FZQmFZRjBzOUMxV1lHclpjdzRNaWZuTiIsIm1hYyI6Ijc5YWM2MTU0OWYzMDczODkyMTdhOTc2NWJmNjhjOTZkOGQxMDdhY2RiOWQ3MTRjMmNmMzQxYTUzZDkxMDMwMjkifQ%3D%3D&amp;signature=1d7fda76f66c9e7924a0b6e3228743c02f8a4566ed73d0f6801a2b04e8f7f49a</image>
+    <start>09:25PM</start>
+    <finish>11:15PM</finish>
+    <date>31 January 2026</date>
+  </channel>
+  <channel>
+    <name>Porto Canal PT</name>
+    <id>Porto.pt</id>
+    <title>Folhetim Regional</title>
+    <desc></desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6Im5IN1dmV2Z3ZnNFVEZmM3lFXC9HT3NnPT0iLCJ2YWx1ZSI6InlKWE1jWFoxK2U5d3h1Vm9BdVo1aUlpa0taVmVqdTd3TzdmYThsaEFld2J2S1gydzl4UkFRT05XOWh3WVJSZE9uUjRlZHRiNTZqYXUyNUdVUHlkUXhOSWY2aGNhWG5PbDJQUE9seFdqN3l5SGdMU2lKRGwrelRlT211N1VvRFFzYXdiRm1jQ29oK0YzaDlVSUpLY2lSSmRQSVZHTzMrbGplWVdVdDVQU25LcU9uampCNlV1aW5scWRxOE9QTllsM1FzS2ZYeUQ1N3VXNnZBbE9JT2VIMStleWJcLzAwSVlrVXZKTklnXC80VlNneUk0VTF3WE85WnF2cWs1OGVUN2RnTSIsIm1hYyI6Ijc5Zjk4ZWYwNjIyMWZiYzExNjEzYTc1OTk4MDdiZjE4NTdiZjcyNWJhOWM1MTk2ZmNjNmE4NDRkMjcwNDEzNTQifQ%3D%3D&amp;signature=03dbbd38dd34a8d2ccc431a2988e81013e7deb50286e4341534655c4e47c29af</image>
+    <start>11:15PM</start>
+    <finish>11:30PM</finish>
+    <date>31 January 2026</date>
+  </channel>
+  <channel>
+    <name>Porto Canal PT</name>
+    <id>Porto.pt</id>
+    <title>Imperd?veis</title>
+    <desc>Programa dedicado ao vinho e ? gastronomia, cujo foco incide nas grandes quintas produtoras de vinho portugu?s e de vinho do Porto. D?-nos a conhecer os v?rios eventos dedicados ? vitivinicultura, assim como novos locais e espa?os de degusta??o.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IndBUXdhXC9kcTFuRURUZUFyWUhrQlN3PT0iLCJ2YWx1ZSI6IkNCVXlJQnlsQklaU0V1dXJEU3FTb0oxb3o4QkJBZ2Z0Q2VEdG1NWGk0TFNhZ094bjB4ZmNVWXhqb3FPZFFVd2JSRFZXV2x5QlMwN25tS08rK0ZCOGcwRVNOT25OR3pNZUlQdGdZY3NRRVV6dThtOTBidWgxcEJhamZLNWVNK0ZBSUEzaXh6U3lqOFJnK0RvSzlRcnJ6S3ZjdzlpRUQxWmZHZGZUdEdMek9SRk1tS3F0MVRIVWM3Y3B4YnRWOVZzbm40bm5cL1diRjF5SEhrb0xjc29wK1wvYStnMXVCb20relhObGFmTkwzcVZGWEpJcUNCaStkYW1HSDE2SEJTZU9iWCIsIm1hYyI6IjA3YjE1NmJlZjU0ZmRkZDU0MDE2MjdiYWNkZmMxMTI4Yzc5NGI0NTc3ZjJlYTJlNDBjNGU4ODY0YTYwNGRhY2UifQ%3D%3D&amp;signature=16beacd8d7bcc4da0e1448108bf6ac1e0ace6e1fdea4b045990c131253f3abda</image>
+    <start>11:30PM</start>
+    <finish>12:00AM</finish>
+    <date>31 January 2026</date>
+  </channel>
+  <channel>
+    <name>Porto Canal PT</name>
+    <id>Porto.pt</id>
+    <title>Noite Desportiva</title>
+    <desc>Um programa que re?ne jogos de futebol e modalidades, bem como conte?dos dedicados ao Universo Azul e Branco.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IjZ2c24xc3hBOG5cL0czdzdFZ0FpWUdBPT0iLCJ2YWx1ZSI6InIrQ0RGWDBZeFVLVUF5WmVNOUFoZHZoOTVGeFgrc1F2TythajhpdzZkSEJENFVTaHoyY3Q1UG9HdVJSK0dEMjAwRGdyYlg5V0RjUkpsNjdYclJJOUlKVndWMlRqRGRaU1Nmb1h0TENaR05VNWloNWFcL3BcL3p6ODNxdEFCK1pCQjd6cytxXC9SYlVpVFAxb2NRa2pcL0VIUjVqOHVucXVFYVVXYjk1NVFpdmRcL0hZZDRQNkV1VmJ5STFxK1loSnMxaVMwT1M0clFkaWZpM0dveDJKb2w4aGJuVG5lMXpNWW5rd2lTUkRBSHpyUzdxa2JneFdVcWtMd0RHWGdUc0I4VlY2QSIsIm1hYyI6ImY1ZDc0OGYzZGRiMzMwNTg4MjMyZjFkMzJiMjMxOGYzNjk3NmFmNjU3MDczMWI3MjBlYzA3NWVkYjkyMTYwN2EifQ%3D%3D&amp;signature=44c785dbbbc03163022ecb9c6e8c0dacb30c0edf8806f8edc0917f7fc2547040</image>
+    <start>12:00AM</start>
+    <finish>05:00AM</finish>
+    <date>01 February 2026</date>
+  </channel>
+  <channel>
+    <name>Porto Canal PT</name>
+    <id>Porto.pt</id>
+    <title>Consult?rio - Compacto</title>
+    <desc>O programa Consult?rio ? o seu consult?rio m?dico televisivo, sobre sa?de e bem-estar, de segunda a sexta-feira. A apresentadora Alexandra Martins conversa com especialistas das mais diversas ?reas da medicina.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6ImN6T1FEUm1iaUQ1bzlcL1BGb09jZ1dRPT0iLCJ2YWx1ZSI6ImN6UXJVSSszM3R5M1pEOUQ1bkVmbERLOUJKUmZMeHFKSm5XdVRiOWI0enJqbUFHUUtiV1JDT0czbjRHdmxCMEl3XC81bnQzWVBPQmhZNTFjaVR3RENcL3c2UzNYNGt5Y01mWGt5VzNlSWl2TFVPVFprSkg2ckpQMDBLUklJWklIV0dNSGRNNFB3N0pabHRWYVh1bUVYa0pCRFhyN2F4VlZCTmpIdTBqd2RaK1NhYkxSMmFDOXNzbjRITnlvck83UDQ4c2xXekRNc1ZyOGlCcjVJUWdGd2NKc0tKWUxRY0dncTJqVll4cXRzaTJHbGdhT3plY3kySXlGN04rMGxxUmlndiIsIm1hYyI6IjY4NDZiNTIwZWU5NzhmMzc0N2RiYzI4ZDI5MWNjYzJhMGM5ZjU2OTk3YjJkZjFiMGMwYzgwYjIwOTgyYWQzN2IifQ%3D%3D&amp;signature=0107e5d06cfea25d64681dc064a8ae232608546646bb2249297e23759f84754d</image>
+    <start>05:00AM</start>
+    <finish>06:00AM</finish>
+    <date>01 February 2026</date>
+  </channel>
+  <channel>
+    <name>Porto Canal PT</name>
+    <id>Porto.pt</id>
+    <title>M?sica Por Perto</title>
+    <desc></desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6ImJwS25vd3B4MmtCZDFla1VXMlFvVkE9PSIsInZhbHVlIjoiS2xaZHpVK1I0d1B2K0F1UnRoZFwvaW04VmxUYXo1eWVER1wvN2FtR0xiYldpMFwvWTBLekVHeHJ4aWU2d242bVY0N0EzRXl5ZFwvMitrR0VpUFBVR08xc0pZQjJKYnpLXC9kNFFiK1RKRHVEMHVCZTUxZExWN2ZoNlBVODF2QlNMazg3SUJ6UVo5UmordU83aVFYM2s2cjhOclNUSFhlU1pcL1dvaXB0TjBBeHgxZ0hhTDF6VW1URUtibU1IMTZ3b1wvUGx3UmYwZFlaXC9yb3BtWkFKSFIrdENxMW5VOGJGZXdXdENDd2w1bFZYRDdNU3ZST291R0NXM0lLTXVZZW5DTnptQkdiIiwibWFjIjoiYjA2MmZlYWM0OGQ5Y2Y5ZTIxYzMxNWMxMzQ5NGY4M2MyY2EwNDg2ZjQwMTNiMGVkMTYwZmEzNjIwZThkYmIyMSJ9&amp;signature=911e0ed3d0468c74a79e24360d875aa830f2f53b98256e7a8a15c071750b5c63</image>
+    <start>06:00AM</start>
+    <finish>07:00AM</finish>
+    <date>01 February 2026</date>
+  </channel>
+  <channel>
+    <name>Porto Canal PT</name>
+    <id>Porto.pt</id>
+    <title>Finan?as em Dia</title>
+    <desc>Finan?as em Dia ? um programa apresentado por Ricardo Couto, que tem como objetivo tornar as finan?as mais acess?veis a todos.\nCom dicas pr?ticas e a participa??o de convidados especializados, o programa promove a literacia financeira e ajuda a compreender conceitos essenciais.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6InFtV2oxaWxFYUZGOUc0QmRnZ0NKTEE9PSIsInZhbHVlIjoiU1A0N3ZLdWM0QyszeUYwc0ZJSHRBZGp2REpaQzRCbnBqdXFnem1LTzFcL1BFaWFCdVhSMHRRb1hmUWYyc2ZFQ2xrXC9rQXpTbkhHTUNOOXdtM0puU21TTllTY2I4aXdTSld5bzVPSGx2cE95MHlnczdkbmdET1FhTGlqZjlsRFBmdUNkbHAzRFcrQmFrQVdEQVJPN1JLWGs2QlorbmFmRVhYbHM4eFwvWlUrRVRxcnNpRUtvYlNFcXpqcDNEbjBIZWFRXC93TDVtcUFTcjdRWlZVVTNnYm9VYzM4eE00VXN4STlURlQ5eUJcL0ZQZEZIXC9zRXBIUnR1XC93WGdWNVB3YjY2bmIiLCJtYWMiOiJhYzVkNGIxYTU4YzNmOTc3Mjk2Y2Y3ZWQ3OTQ3MGVlYjJmYzIyNmZiYzFiNzA3MmQyNGJkMDYxZjMzZTVhYWM4In0%3D&amp;signature=306713f9cb4115365fdb73ad145d55eff86ac9fdc2b7b2e63f95a1eeeba9074d</image>
+    <start>07:00AM</start>
+    <finish>07:30AM</finish>
+    <date>01 February 2026</date>
+  </channel>
+  <channel>
+    <name>Porto Canal PT</name>
+    <id>Porto.pt</id>
+    <title>Veterin?rios Todo-o-Terreno</title>
+    <desc>Programa que retrata o dia-a-dia de uma equipa de m?dicos veterin?rios com atua??o cl?nica em animais de companhia, esp?cies pecu?rias, selvagens e ex?ticas.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IlwvNSsza1hjRjY1Q3hFUGppVkUxZGdRPT0iLCJ2YWx1ZSI6ImJHNlV2RUVVMERvV0x4a1UxXC9RT2FCazNUdGN3aWNURGhTUnNzUlhEXC96WDFTZWtSaUpWK1k4M3IzWU8zK240QTR4bmVySDJ6Y1BHRzYzUUp0SjgxYm0rd3lxS0JJTmRpOCs1dDdyMkZWQ2FiNmpcLzBGMytUUnZIYzd3UlBwdEZpbGV5ekRDbXZnc2FMWmJ0RWNcL2x0Tkg2RFAwMWZNRU9kVlU1bVFRTjdmNENcL3FkY1g5OXJEZ2Z3S2tGVE9ZQ2NSbmRlUnpOZWhzNW91OVBNTXU0U2lDWFMwZVlzRzhiR0VzQVFQbVRnNTJpd3JvREwyTmk2cllQUHREYktFVWZsYiIsIm1hYyI6ImJlMGMwMjQ2YzlkMzk5N2E0MWI1Njk3MjRlZTM4ZmRjZmY3ZDY4YTc4N2I4MGRjODYxZDY3NjgzNjNlYmFlOWQifQ%3D%3D&amp;signature=b1e1db816b69994bcbfe6ddbe953cde5e00858d9f80cf4e0461c598f0cdb931f</image>
+    <start>07:30AM</start>
+    <finish>08:00AM</finish>
+    <date>01 February 2026</date>
+  </channel>
+  <channel>
+    <name>Porto Canal PT</name>
+    <id>Porto.pt</id>
+    <title>Consult?rio - Compacto</title>
+    <desc>O programa Consult?rio ? o seu consult?rio m?dico televisivo, sobre sa?de e bem-estar, de segunda a sexta-feira. A apresentadora Alexandra Martins conversa com especialistas das mais diversas ?reas da medicina.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6InIzYkxOcFpyUkdSS0RnMGxuM0lPY3c9PSIsInZhbHVlIjoicnFENjR0UTNRV0RYSXFIVEhcLzEySjh4dlVVd25BYnBUY3R6QnY1V3czYk1SM2FhY1BtODV2N2RTTUIyNFhSM3JuXC9DY2lvaFJUcVRVUnhTOENwTjEzU0ZRVnh2b05aRzdGQ3UwaDlHNG04NDlGV2NaSERxZGoxUlNBVm5YNFdXZlN0RngyU2VnTzlEcDhMSjBHa0Z4cThtbGIwek1zUkR4WlwvaFoxdnFna1ZWXC9GRkNHZjl1M0VGbGxNSHNYYk9WU0RLaWh1dUNcL1FcL0xMVURyUUR4NTAzQ041QTlpaENnc2tUVG1GM1pGMmRkTSszWjdyM1VkVHBoYVNXc3pTODJ0WSIsIm1hYyI6IjU2MDVhNGIxOTljMzhjMDZlMDQ0YmM4MzNlNmQ0YmJhYTNiZWMzOTY0YmNhMmJkZDU2YTI2NTAxNGYxNDFhNWMifQ%3D%3D&amp;signature=3f7d299afa29b868a5a3b5540ea285a559d259f85aaca93125fc0a5d05d4ca96</image>
+    <start>08:00AM</start>
+    <finish>09:00AM</finish>
+    <date>01 February 2026</date>
+  </channel>
+  <channel>
+    <name>Porto Canal PT</name>
+    <id>Porto.pt</id>
+    <title>Por Perto</title>
+    <desc>Vem explorar locais e eventos na regi?o do Porto, com destaque para restaurantes, hot?is e projetos locais.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IjVyeDlpbjhQOUtZbHZYYVJWK1NDb3c9PSIsInZhbHVlIjoiNDFadVNIU0dkYnorVGRacFFuRms2dWtMSFU0SFpDaTJ5VTVKeFFpZTh2WjBXWEgyNHc0R2I0cXArcFFRdFJEZGhIK1hlNzZHMkttQmJWMHJsaW1KXC9nT1JDMVVVcXBsYkxqdUlWazFNTitlUVVYcFBUeFdWSzdPTWVwZitoNitpcnRqeU1YeFZNMHRvNEFcL1lVWXZcL2RsWFBOZFhWcFdGQUxRang2bFlNV3d3RWhqc01MR2p0dkZnVEZYVTlYNUFpRW9zTHNoTlNPUnRoc2dwaGdGWDE4Y01Rc2NwU1wvXC9EdlQwR2g1RmI3blZDQ2tDdDFHc3dSN3pVMUprNlp5XC9QSyIsIm1hYyI6ImM2Y2ViNjdiNDhiM2JmZDk5NjI0OWZjMTFjOWYwMmUzNTVhMTZiYWY2Mzg4ODAxMWM5OTQ5MDdiNjQwOTM5NjkifQ%3D%3D&amp;signature=b9d6254cf3484fe5c0e8e689547ea74231245cbe357b34fa6eb9edeaa2eaf263</image>
+    <start>09:00AM</start>
+    <finish>10:30AM</finish>
+    <date>01 February 2026</date>
+  </channel>
+  <channel>
+    <name>Porto Canal PT</name>
+    <id>Porto.pt</id>
+    <title>Veterin?rios Todo-o-Terreno</title>
+    <desc>Programa que retrata o dia-a-dia de uma equipa de m?dicos veterin?rios com atua??o cl?nica em animais de companhia, esp?cies pecu?rias, selvagens e ex?ticas.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6Ikh1c2c0alJwZE0wN2h1eU0rVzIwcHc9PSIsInZhbHVlIjoid3g4K3dReWhqWHA3QWx5UVRXSTlaZnNJMTVBNmtLcXVoXC8zSTdrY2Z5U2dKMHp0bm9cLytxaXdhdVJzS2srZ3NVeWVHc0xtVHY3SzcxXC9Mb0YyUmtNQWlGdUlRZ3VsSTZKcVpDaUFIYVZNTGxHVXVDQkVYUG1VMW1xWkZDN1dVUWZ5K2RoeVR5XC9iOVwveHUyUnBBbHRaaFBJVWtqSHlhZ01OcFE5RjlMNjNxQkdGRmxVMmVRUklIaDUzQ1JOVzZGVG5DUGdpR29vYXNpcXBvMkQ4VjE5K3I5Yjk3T3VRbnE3amI1YlBBQ0RqbFdJY1RjVytvUTVmMnZkQ0lhbEdoY0lNIiwibWFjIjoiMmM5NGM5NjM4ZDdkZjQxZTE3NGViNDcxN2M1ODMyMDM0NGNhODhmYjVmMDdlMGM2ZTVhNDY2NTQ4NjAxNmI3OCJ9&amp;signature=2fa5a717411776971ccbd51b908544d7229da0e9ff232d20d39e9b00c129b302</image>
+    <start>10:30AM</start>
+    <finish>11:00AM</finish>
+    <date>01 February 2026</date>
+  </channel>
+  <channel>
+    <name>Porto Canal PT</name>
+    <id>Porto.pt</id>
+    <title>Manh? Desportiva</title>
+    <desc>Um programa que re?ne jogos de futebol e modalidades, bem como conte?dos dedicados ao Universo Azul e Branco.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IjdNTXFhak1EWkJWZnpVM1psWk5zXC9BPT0iLCJ2YWx1ZSI6ImNkR2x1OFY5ZWFzOXRoUllRWFZvUytjWmw3QU9STWloMGlRZHFsS1FUSkEyakpcLzU4T1d0ZHlDOWtVOUNCT2NcL21mK3NESkt3RERtUllvWEtzbHpqTjNqXC81RnZEcVRYbnVocGtyQnl0dkU0UzdEeVptWm9LS2gzVTZrTmgyZk1nNlZUVU9ZZjRTYVVibjRjanRFaDRzUEJaUlwvSzJyVk9RUjFJVEFDcTM1MWIybTk1Y1QzV1RjakhnMXN5MnQycTRodmVJb0JiWEdNOWV6dG1QSkJCZk1sSVlMNXJWQ25FYmhoMmttWGhsczlnSk5sNXU1Nng4bzZ5RjBDOVdRWXpZIiwibWFjIjoiZGU0MWU3ZWUyZTczZGNmYzY5MjdiYzQ4OGIxZmZkZTJhOGZlOGQ5NDZmZTNhNmE3NWYyNmU2Y2I5ZjFmNmRjZCJ9&amp;signature=54718df683fef814a30b0f3ebcac661f23137d28666714151a063bb68ee0a223</image>
+    <start>11:00AM</start>
+    <finish>01:30PM</finish>
+    <date>01 February 2026</date>
+  </channel>
+  <channel>
+    <name>Porto Canal PT</name>
+    <id>Porto.pt</id>
+    <title>Filhos &amp; Cadilhos</title>
+    <desc>Filhos e Cadilhos ? um programa dedicado ? parental idade, com dura??o de 50 minutos. Semanalmente, atrav?s de convidados em est?dio e diversas reportagens, aborda quest?es relacionadas com a gravidez, rec?m-nascidos e crian?as, e o que diga respeito ? sua sa?de, alimenta??o, entre outros temas.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IjdFbU9NY1k3ZmQrR3BRczJ4NG5TZnc9PSIsInZhbHVlIjoiRnBUYzk2blEwZnl4MnpMNTZMNlNPeVlYVUhWWTcwd3dnNm1XdVRseUpORmV1bEprb1lkQmNzTmU1WndZWjlIN0dRVUx2TTBnS2Ztc2NUSWVhdXVFV2V2NG5uUHliVVppdXFpMzc0Nk4rYkFlSUFKWHVkTmdlRGJOXC9ETXR5MlFKNGFYbDZPK2ZRdlZpbTZielA4WFVIbWV3VFZXRHIwXC9QMVU2c1Fubk5CVlwvdGZTMmtSOUE3R1V3SkpHVTFOUndpS0Q3dXNpZ0RSRDZ5QXppZ1hJb3BsUXYyalNaTE1qOEdlWjRVYzdsampyVWJrNk9DM2k5V24waDExcmVSaWtLayIsIm1hYyI6ImZlNWRmYWFjYWVmZDlmNWMxYTdjYTdmNWRmOGExMzZmMzFiN2ViMDFiNDQ2NGRjZGZiNTYwY2FiNjJiZDA1OGQifQ%3D%3D&amp;signature=d8d161e6fb56e838b57671e45e58641c4c024dff8e5afcbdab738d8c2d5d6d1b</image>
+    <start>01:30PM</start>
+    <finish>02:28PM</finish>
+    <date>01 February 2026</date>
+  </channel>
+  <channel>
+    <name>Porto Canal PT</name>
+    <id>Porto.pt</id>
+    <title>Caminhos da Hist?ria</title>
+    <desc>Programa dedicado ? divulga??o da hist?ria e do patrim?nio do nosso pa?s, esta s?rie visa a valoriza??o da nossa mem?ria atrav?s de percursos no territ?rio e de visitas a monumentos, na companhia do arque?logo e historiador Joel Cleto.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6InZvUVBmYUtsRjRyWDVkSDljU1Q4Ymc9PSIsInZhbHVlIjoiM2VGaFBnQUJZWnphSTMzajhWUjlFbFlBSmlOckFuMXU1UFVYWHFGRk0zWUdaempManY0QURRXC8weGpIVk1nWEdvdzJWa1d0UTRrRTI1SHZobndhcGZJdGVacCtCd0ZuenNOZ3dRYWVsbHFud05TV3BwQXROdzB4YVBNdng0d0x6U3RIVUpqN0pUUVVnanlaTWQyS0U1Ym1PYnpkdHcxUUlpOWIrXC9NWlJ5ekZ4Y3RaS1N0RDZGV2dDUDE0S1M4NHpHK1N1VVwvZ0FMN05uUFk5YlVYTm5KeG54WWR6Z3NKd21JTHNHUkw5czlQbjRMbnk1emY0cXZ5ejF3Y1IxN1hKUCIsIm1hYyI6ImE0MGYyYTE5NTI5YzcwYmQ2YmZkMGI2MGQyNGY0NTEyZDE2OWFlNDczYzEwOTdhNmFkMGZhNDhhMWQ5YmFhN2YifQ%3D%3D&amp;signature=7784ced5cd5b08a95b10ebc613bb1bef3ac1b850c18bf0808914d5643d32ad27</image>
+    <start>02:28PM</start>
+    <finish>02:55PM</finish>
+    <date>01 February 2026</date>
+  </channel>
+  <channel>
+    <name>Porto Canal PT</name>
+    <id>Porto.pt</id>
+    <title>Desporto em Direto -Basquetebol- Fc Porto X Oliveirense - Liga Port. Basquetebol</title>
+    <desc>A hora de assistir ao desporto em direto.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6Imx3UVh3NG1mcTJ6YzdseEs4YWFNSGc9PSIsInZhbHVlIjoiVmgxaXk2ZHJ0VlRyZFNiTXduXC85UU5Ic0RoZ0lNM1dNN2dmeUR6YVh6WXBueEpwaHBlY2RGRHQxOHBsc0VxVDJyRWRtT1g1enVDYlZYZmFNT1hlRitXdFwvZHlGdkRzVEdneEZlanlZUXRzdzVtSE5vYTBQMGVuNnhSREhrQllrYzYwcHRJNGNxeXNvTDF1NFR5S2ZJcWtTUnZ3SWY5WHNLbzNyYlc3NmdlWkNxNmp3amh3YXVwM1R0ZHFTM0NaR1pEKzJpSU5sT2NYRjFRUW1sOE11U0UyKzVEQUxBT1NDMllaWFZVYys1TDlwNGU0RUdTb1pvcUdKMVlIN0pqSTV1IiwibWFjIjoiNWZjYWNjNzUwNDliMjFlOThkODBhMzJhNjY3M2MwNWZhODNmZGY1ODUyMDczMGQ5MTJiMGRhNDc0NzY0OTFhZSJ9&amp;signature=8dfb44d1b32b83f08f92018f9e5f978c5d8c6bd0ac0cfff3d82c862b499fbe1f</image>
+    <start>02:55PM</start>
+    <finish>05:00PM</finish>
+    <date>01 February 2026</date>
+  </channel>
+  <channel>
+    <name>Porto Canal PT</name>
+    <id>Porto.pt</id>
+    <title>Folhetim Regional</title>
+    <desc></desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IjN0all3dnM5RVZ0SGFEY1Foa1pvTFE9PSIsInZhbHVlIjoiM1NNNEI0d3hJNVFEYTFXZVVJcUJZRjBNZ0dXWTU4cllsM3hkR1dnSHZGVTVcL2tuTEhuUE8rM2x6M2FNMFFzWUlkbENhYkVOZFNtZ0dkYXdEaFpYVjN2MmRsMWNEU3BnenJtc01nRFdONFp1YXEwK3NMOWlyTXRzajZhNzRkZzlSSmlRMkJrb1FFNGdcLzNvbDlDT2tOMm9aWStSZkFJS2JDdWFBc0ttdnk4Q212WCtqckxxTzRZdlQ3VDVEQzlZVTlPbE1mWlI5VFJQSUJLMEdIQ2ZWeUZmXC9QcStqV25MQTBRcUNVa3FMOVlyTjZnVEptelwvT2xYVFZWVmxSTkRJTlMiLCJtYWMiOiJlODUzOWVmNDhhYWFjZGE0OTg3ZmE3MzA4OTM3ZWIzYWY1YjAwMzRmYWZhYzZmOWU2OTcwZTM5MjQ1Y2QzOGJmIn0%3D&amp;signature=8eb765e9a02a89dc2a033df4a86264146895eef5fe260750ae000887053ba623</image>
+    <start>05:00PM</start>
+    <finish>05:15PM</finish>
+    <date>01 February 2026</date>
+  </channel>
+  <channel>
+    <name>Porto Canal PT</name>
+    <id>Porto.pt</id>
+    <title>N'Agenda - Entrevista</title>
+    <desc>Agenda Cultural apresenta semanalmente com sugest?es e novidades no meio cultural do Porto e Norte do pa?s.  Exposi??es, concertos, cinema, arte etc. v?o ser os temas em destaque.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IlRlMDBWQzNONEZGSjdHRXE1WFpDaXc9PSIsInZhbHVlIjoiUHhibFwvdWFvcXVqRmJMdTZwQ0lIVE5UN1ZLTTUzN2xXczY5OGxLWmVuTjRUbzJcLzFaYnlyXC9lRGNJSFp0Y1hpK1VqVklIcWYxQVREZnl2VXhMSTc1RUg4N3FtN0daaFdlWkpOWFlSU3ErRlNuTFlrQm00ZmF1V0VhTEFOcWxxek1Sc1BlUEM3cDhHc0xKY0lwQnBGajBTQW5KSDdUeEpzOWVIUDJyK0pkK2NOY0FKY2VHMGFYVU5lcVlUV0lWclVoekdDNEtKQkdaMWpqZWtBenlycXBpM3RTSld5THNhdnJ3YjFDdFNPdnNCVm5WVXMyNXQ0YXFXMUpxS05rOTE1SyIsIm1hYyI6ImIzNTI2ZGMzMmQwMGMwZmJlZjFkNmNmNGU3YmM0MGI3Mjc5ZWE3NmVkZThjMzY1ODcwNjhlODhhZDllYWUzMmQifQ%3D%3D&amp;signature=7d6d1eb26542d966bbc933545230ba0355994cfd408d9de094ad332e3f0086ca</image>
+    <start>05:15PM</start>
+    <finish>05:45PM</finish>
+    <date>01 February 2026</date>
+  </channel>
+  <channel>
+    <name>Porto Canal PT</name>
+    <id>Porto.pt</id>
+    <title>Veterin?rios Todo-o-Terreno</title>
+    <desc>Programa que retrata o dia-a-dia de uma equipa de m?dicos veterin?rios com atua??o cl?nica em animais de companhia, esp?cies pecu?rias, selvagens e ex?ticas.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6InZBdkxvbVhUUlJKNkM5bTRxK1NaTUE9PSIsInZhbHVlIjoiMG9TNnkySk9zVVNxNmhVSURMU0dyUXAreENoeFRrNDZZVnZVSlVJdXl4XC9GdE9DdDlHaUJnM09ObU04UllpY3VmdW9qK29kdkZ3VVIzSUZHXC9UVWZZUDZ3Tlg5cFpvYUxTUFpUNVNHUk4yNG02ZTkzU01JeXdvXC9vYWlXZFRHWnV2YXdxUWRib2Z3NnNJTFF0Y29EcEJtczVFM3VSbGRGcjQ5dkNUb05ncENxNHRHQzlhSEhRVnV4M2tDcjloVGFTang3eVpjMmdRWlkxZGJGUGk4RE1YQUpjSGV0TjR2TThBaXhjME1PR0JCRzRjNWxsdkZNOGFzVmVJUmVDancxdCIsIm1hYyI6ImZmYjlkZjI0ZWM0ZDJiMDllMjQyYjI3N2Q3MTM5OTY1ZjE4OGNlYjUyOWZhOTUxNGYzNzA3YWU2NWVkZGIxNGQifQ%3D%3D&amp;signature=414cb9de7d0df0cf1bec1b1db9bb601bbb54d8f71a13aa2808bf41cf51e65329</image>
+    <start>05:45PM</start>
+    <finish>06:25PM</finish>
+    <date>01 February 2026</date>
+  </channel>
+  <channel>
+    <name>Porto Canal PT</name>
+    <id>Porto.pt</id>
+    <title>Desporto em Direto -Voleibol- Fc Porto X Castelo Maia- Camp. Nac. 1? Div</title>
+    <desc>A hora de assistir ao desporto em direto.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6Im84SDJkVXZPSmVUdHpxbVhcL0NjSFNnPT0iLCJ2YWx1ZSI6IkZ0bWErcXhpWmRTMlliMllhV0ZPUGlKOHRLTm41dkJFcFVFRHl1a0VENjZFRTJBRmhwc3pMSlNXU1ZTOGltNFQrREdoNEZlb2dKblo5SkcyZG1JMVBHSDBFS2JYc2o3SDJ4TXZjdHo4ZGpFTHRSS3pvRzdiQUFyWExNSnpZOFYwWHRJZDRhbTZId0gxWnh2SGdnNndyVFhjRW9yUHFPT0hLZXhTRHdwOURyc1lCUVwvYng0d0FXMGYzd0dYeUM3WEZFN09xdm9ESTk3dU95VWxuSWZMeGVja0h2cGNMRlRnanZlWlVuSEpqWFVrTHhqdmd2Rlc5cURtYnBvYXN3M0llIiwibWFjIjoiNWZmNzI4MzU0YWFhY2U2ZTY1ZGNjODJlN2FlZjg3YWMwYjFiNWVjODRmNWRkOTY0MGJkYmM4NDcxMDUxNGU2OCJ9&amp;signature=c9c3c36ef32bf972aff9e5bb16d95d7bbc4a5d2a4b02bd20eab48c744b66dcb6</image>
+    <start>06:25PM</start>
+    <finish>08:15PM</finish>
+    <date>01 February 2026</date>
+  </channel>
+  <channel>
+    <name>Porto Canal PT</name>
+    <id>Porto.pt</id>
+    <title>N'Agenda</title>
+    <desc>Agenda Cultural apresenta semanalmente com sugest?es e novidades no meio cultural do Porto e Norte do pa?s.  Exposi??es, concertos, cinema, arte etc. v?o ser os temas em destaque.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IjhMTThsSHBSTE95cjU5OG1vcGExSEE9PSIsInZhbHVlIjoiUHBmbzNweDV5ZGpNa2ZUNnRXZmRLWXlJMUhZek9vcjVtTzIyc05mbTJ5eHNReHlrM3htQnBTeGttaURjVkZaSWFEZDBWOWt3WTJ2NlEzRmxNXC9MakpSUnNiNTJuMWVCbW10dW5uXC9xaUZMWTliSHR2Qmw2eEhNSU1uOUZUdXZ0MDlcL1gweDFZclk0aE9FY2pUWHk0N0srVnhMdlFRSFRRM2VBaXJIUzBKTjhUTnFhQ3RpdkZXKzVsdk9BaUoxZnhFWVZtMGkxUFlUQnlYQ1lrXC9RdmFkRXpzVjl1dmhjMkcxNE5KOVN0MVM3Qm5hRFVzaGcxTXdybzFYYnJcLzdVdTE0IiwibWFjIjoiMzNjMGYxM2YzYjc5ZWYyN2Y3ZTNlZmUzNzE1YmRlYTU0ZjUxMDRlYWRkZGM0YTUwYmY1MmJkMDg5ZmE2OWRjZSJ9&amp;signature=b4a1ad66ed9de1d9259ef611138fe4a49f67c55234d11e069cfd6d61e040db17</image>
+    <start>08:15PM</start>
+    <finish>08:30PM</finish>
+    <date>01 February 2026</date>
+  </channel>
+  <channel>
+    <name>Porto Canal PT</name>
+    <id>Porto.pt</id>
+    <title>Vencedores Como Sempre</title>
+    <desc>Programa de entrevista, feito por Rui Cerqueira aos Campe?es do FC Porto nas diversas modalidades.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IjlubzhFSlhGMTE2T1NseDF4cldoMVE9PSIsInZhbHVlIjoiZjlhSXRvdTRlQXNrRWcxa21Qa2ZZTWF4THc3WnJSdlpTaFVlOWszSDBSYmdhY3IyMk82VGR6VDBGRU1PbGZDcGRMVW5aYVBaVCt5Tlp5V1k5WDZ2TnJtUFpYU2xIVGZuU3VXRXJZUEd3K1haSjgwZDJ1aG5BVk43eU9pRVo4UTdKWGNSbmsyMWR5TENqUHQwUHhFclNUN0lQajRUUFd3OHM2eFN4Z1hONUFpRjFScFBNXC85Sng3OVRQbk8xVnhyeGRLSDZGNlVyeFgxUWR3N2orWFY4YXBxYjNtQW40XC91cWYreHY5RThkbXJMNXJvdGkzTnkrQmg2XC9lUlc4TGJ4cCIsIm1hYyI6IjUzMTJkMDdhOGFmZDEzMDJlNzBiOWE2MDQ3MzhhZjVlNDE2N2NjNjFhMzk5NWRjMzNjMTI1YWQ0M2FmZDk3MjcifQ%3D%3D&amp;signature=fb747f0c5aa4de550f6d42c01e859223fd376be68fdeee4a26e4e642985202bc</image>
+    <start>08:30PM</start>
+    <finish>09:30PM</finish>
+    <date>01 February 2026</date>
+  </channel>
+  <channel>
+    <name>Porto Canal PT</name>
+    <id>Porto.pt</id>
+    <title>Desporto em Direto -Diferido - Futebol Sub15- Fc Porto X Gd Estoril Praia- Camp.Nac 1?div Sub15</title>
+    <desc>A hora de assistir ao desporto em direto.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IldXVDFISHhIa0RNMWNtdUJlT2JGb2c9PSIsInZhbHVlIjoiZEQwRk53XC9EclZUbmNCWFQ1azZUT3NYZ0J3UDBUMTJOdyt5NTllZVpWdWVVZVFWWnNPT1BWalwvTEN4a1l0Q3pjSXJFOWtzdFd5ZFZNZnVhTWozUEhOQmw5ZTVaTUtkTXZXV1wvYnlEcDNGXC9TXC9MXC9vUmNlMUJSR01sNjV3TSszcmdwdUw2U3ZWdDEweHhqY3Z2NmdOWG1uN2dIZU5Ob2UrTFQyOUdNR3Y1M214bVlTWVBCR1JqVzFsRFdNY2p1R1BwYnl5SjhPbHZ3bU43TldpSmZvMEhcL3ZuVXB0d0VLcVdoaTE4anptWHJQb3RyWU5wbnhkSjlwTTM1c3hNbklwSzAiLCJtYWMiOiI2MzBhOTZhNzg2MmY5NTQyMzVlN2ViYWM4MWI2ODE2ZTViYzU0M2FlZjhhMjg2NjkwNzEzYzhmMDg4OTUzYmI2In0%3D&amp;signature=cc4de264bd83e502978c8ab0055e67bd1bad0b22cd83da23338afe104ebf580b</image>
+    <start>09:30PM</start>
+    <finish>11:30PM</finish>
+    <date>01 February 2026</date>
+  </channel>
+</tv>
