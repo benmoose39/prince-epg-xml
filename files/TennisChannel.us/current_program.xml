@@ -3,11 +3,21 @@
   <channel>
     <name>Tennis Channel US</name>
     <id>TennisChannel.us</id>
-    <title>2026 Australian Open Tennis</title>
-    <desc>From Melbourne Park in Melbourne, Victoria, Australia.[(96057)] </desc>
-    <image>https://epg.best/assets/program-icons?program=eyJpdiI6Im5hVmdzcGRZM3JzRndhaWprOTRpR3c9PSIsInZhbHVlIjoic2dQTmlBaEtocWZcLzFPVzRjUlZRYVZLd1BoYkcxMDlmVmtOT2FkbmlGTkptNjNlMW1SeVg5dHlcLzNYR3BKUEtBMWI0UzJCa0cxVjlpeFpOaTYyaW5cL3dvZGNKNTdpTUQ3WHUrZzdwMytiNWx5cnY4N2YzeTBlN2NITTZxKzBLMmkiLCJtYWMiOiJlYzc5MjE0MzdkZWJkYmU0YTgyYTFjM2NmZmQ4YzIzYjY2ZGJiYzQ2YjYzYzVjZDJhNTJjMmM4MTJhOGUxZjIzIn0%3D&amp;signature=bd31571c5e54812a7d8f7c975e957ca15c3fe39814f54c88bc6e8a0a7fc9f8fe</image>
-    <start>07:00PM</start>
-    <finish>02:30AM</finish>
-    <date>01 February 2026</date>
+    <title>Live: Courtside - Live</title>
+    <desc>Coverage of professional tennis matches.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IlZVZGgyZ2pVR211TUs5b256Q05ycHc9PSIsInZhbHVlIjoid3hVd3EzOUZVWVVHS1FxemZpY28xXC9pdGxWVVpKeUlNN1F5eUpVWnpNOENqZXFnK1NDc3M1SEVrVXhiSjJlZnduUlRVR21xc1pDVjNqMlpIQ253NFc3amJITUVadndHT1c4QzZlM2xkZExZTGdrZUQxOGN3YWtUcXBVdEFkRmRSIiwibWFjIjoiYjBlNDY2MzM1OTliMjY1Yjg2MTJiOTdiZTM2ZTc1MTI1YWZkZTE5OTE1ZmVjMmUxNGM4M2ZlMmVkNDFiNWVhOCJ9&amp;signature=79ef14ffe5433c6981b31879aa80efc9c9887221494682ec159276e72aa05e6a</image>
+    <start>07:00AM</start>
+    <finish>03:00PM</finish>
+    <date>02 February 2026</date>
+  </channel>
+  <channel>
+    <name>Tennis Channel US</name>
+    <id>TennisChannel.us</id>
+    <title>Live: Courtside - Live</title>
+    <desc>Coverage of professional tennis matches.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IjZtODBFT3Z6Wll0TjdrU0dTMk5tbmc9PSIsInZhbHVlIjoiczRwbkFkNDN1bXp5WkZSQVdueURoSUZNbUpwa2g3aUhmNUc1cWhXZmRFclZ5bTBRYXN1MW15anZFWWtJdDNpUEVrdDhMbkJVbHVBME5kN05ZTDNUQWVWaTlPb3RXQWdodm5ZUk1TUnNHNG1YejhnOFJaRjNlZnFrcVhWS2ZCYlciLCJtYWMiOiJhNjA5YjFkZDhjNTU0ZTJlZGI2NTZjYWMyNGIzZmU1N2FlMGRkNjUyYjQ3ZWMwZjgxMjZiYjRlNmNlNTEyMzJkIn0%3D&amp;signature=3ad0e8a8d8bbc98ca8cb8c945d85710ec0e5f8d6e8d49117c9a6fd8f3ae8e456</image>
+    <start>11:00AM</start>
+    <finish>07:00PM</finish>
+    <date>02 February 2026</date>
   </channel>
 </tv>
