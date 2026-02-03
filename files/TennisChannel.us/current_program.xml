@@ -3,21 +3,21 @@
   <channel>
     <name>Tennis Channel US</name>
     <id>TennisChannel.us</id>
-    <title>Live: Courtside - Live</title>
-    <desc>Coverage of professional tennis matches.</desc>
-    <image>https://epg.best/assets/program-icons?program=eyJpdiI6Ikl1VStuOEVJdEhaOFF1UjNleXl3RVE9PSIsInZhbHVlIjoiVlpyM3hqdmxJZmRJYTkrVzgyQTgzS2VJRnExMHkyNnpOU2JEQVdIQnhMc2J1K0gyRzRxQVFFaHhoVWE1ZG42aHViTHpTcDF6UFlPek94NDVaaXViMERIWnN4TjlhVkJlUzY2M0dveEkzUjBiRG50dFZDbHVlUDB0ODZNV2laTjEiLCJtYWMiOiI5NmYxZGVjYjEzNWMzZWY4NzgyODIxZjRhOGVlNDM1NDdkNGFiYTgwNzIwYWYyOTQ2M2I3N2E5MzYxMTRiYmI5In0%3D&amp;signature=0a413715b93e17c7174dd19917f36cdd64ba1fedb9549be59992d7e20cf81e54</image>
-    <start>03:00PM</start>
-    <finish>11:00PM</finish>
-    <date>03 February 2026</date>
-  </channel>
-  <channel>
-    <name>Tennis Channel US</name>
-    <id>TennisChannel.us</id>
     <title>Courtside</title>
     <desc>Tennis highlights from recent matches.</desc>
     <image>https://epg.best/assets/program-icons?program=eyJpdiI6InV2N1JBYnhlUnlWdGx4MUNKU1UyNkE9PSIsInZhbHVlIjoiQXBZbm5SNmFoZXlxQ0tyd09iMDc3c2x1UW5aWXUydWQrSGROa1J2Tk53VHJmTk1XWWhZZWpwbzAxVkRjVHIrZHNXMzRac010MWFKUjlXRWxDZUdqbFBsU0tleWlpNlB5eUN5b2dqYTNyTVFjZjNhUTA4UG1GMDRTMnQzUFwvcVlyIiwibWFjIjoiZmMyOGViNmUwMDgxNGVhYWM0MjdlZTA5NDZlZTAxYTIxYzAzNjI2MDhhNDE4OWE2MmE0NjYyZWVkNmUwMTY4MyJ9&amp;signature=976862d7ead427b97e0a3d55b49f780abe6aab65fabc649a54dbcbda9eac0357</image>
     <start>10:00PM</start>
     <finish>06:00AM</finish>
+    <date>03 February 2026</date>
+  </channel>
+  <channel>
+    <name>Tennis Channel US</name>
+    <id>TennisChannel.us</id>
+    <title>Live: Courtside - Live</title>
+    <desc>Coverage of professional tennis matches.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IlwvTDhncmlDRkd5T1p3SFFNbG1TNUNnPT0iLCJ2YWx1ZSI6IkpRZGw0M3JJKzlQbTN3Y2JRdzZKbitxYVNCZnZDUWZweTJucVBETEt1eno2dFRHXC9SREpwUlJQaW9GVWU2aHB1STBIXC92M2EwQnZVWURCWE1yVUpyRk5vU0hGa3V5XC9rMGdBYldVK3UxZEhyamp5dUJrZzBmZG1hOFJYT01sSzlIIiwibWFjIjoiYzk3NDQ5MDNhNmZkM2Y3ZjU5Y2UzMDZmZWU4NzJiM2MyMTdhZDc0ZmQ3MGQwYTgzODdiYjE1YThhNWVkMWY2ZiJ9&amp;signature=e308b4c207bf8e2deab6ba7a62d8e63d992c3e4e3fa612fa2a82f2b209244bfe</image>
+    <start>11:00PM</start>
+    <finish>07:00AM</finish>
     <date>03 February 2026</date>
   </channel>
 </tv>
