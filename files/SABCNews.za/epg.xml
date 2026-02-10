@@ -1,2 +1,63 @@
 <?xml version="1.0" ?>
-<tv/>
+<tv>
+  <channel>
+    <name>SABC News ZA</name>
+    <id>SABCNews.za</id>
+    <title>On Point</title>
+    <desc></desc>
+    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
+    <start>10:00AM</start>
+    <finish>01:00PM</finish>
+    <date>10 February 2026</date>
+  </channel>
+  <channel>
+    <name>SABC News ZA</name>
+    <id>SABCNews.za</id>
+    <title>SA Today</title>
+    <desc>SA Today is issue-driven and covers regional topical issues in an interview format. Invited guests give more depth on big provincial and regional stories that can be an issue of national importance. It also includes general news</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6Ikx2aFUra1RRZjVMM0xydnZDRTVZSXc9PSIsInZhbHVlIjoidE9SNFVOa2FYalFONWxKdm5nUzdrbEVcLzVvYmxnSk9Na1dsNkdMODNRdTNwNkdOQ2dRb3NoVzhudFY3NnN1Vmtpbzk5c1QwNXRraVhhVGUyNkhjY3o2Wjd2eXhQSEpPOTg5Z2NzcWphM2xnTHlxNE1qZE02RkdtR1F6MmVjdUJtQmxWZ1g1THFqOU0xd3FrNXlOUFFCcFN3enRPZFVETDY1VENCeXdTVjJ5TT0iLCJtYWMiOiIzZmFmOGRmNzIwYjRhZjcxYjNmZmI3Y2U3YTgzNTRlNTY3YWUxMGExYmY2MDRkN2Y1OWVkYjQxZjAwZTRhOGMzIn0%3D&amp;signature=aac7472d8308ae88472ba7965ac913c7222628ea6a278bbecce3df0fe6df85e1</image>
+    <start>01:00PM</start>
+    <finish>04:00PM</finish>
+    <date>10 February 2026</date>
+  </channel>
+  <channel>
+    <name>SABC News ZA</name>
+    <id>SABCNews.za</id>
+    <title>Full View</title>
+    <desc>Full View makes sense of all the news of the day. The show also features 30 minutes of market sense in-depth</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IlZBUTdldFBQSVV3WG1HRVBOVVV3Y3c9PSIsInZhbHVlIjoiVUNzVXdDSDJcL0twdnFpdjB0UW9PQUZ4RXRmTjRcL0h5eHh0aEpvUERRSmRIbFwvMlhIcXQwdkVjaTRINXdKY0F1TVZFS3hYM2lpeUtwVnNiemhFeGpONDVzRkEyR2MybWVUNFZrcEphM0pYT1JUWTFaTERacGZNZlRiWTdRTndySGVnbWJRdVdncnpUMVE1RHVmME90cEhRZXd4bU9PRUlYcjRkR1NcL3B2XC9nXC9ZPSIsIm1hYyI6IjdkNTRjNzYwMDM5MjgzODllMDQxNDg5NjZhZTdkYzQyYzY5MjI1OWIxZDIxYzc1ZmMwZWExMjUxMGMwODFkZjAifQ%3D%3D&amp;signature=fa32d9f05f4f6d0dff727f166fcd5859fff243c5e5025a4bed8219d3380e3661</image>
+    <start>04:00PM</start>
+    <finish>06:00PM</finish>
+    <date>10 February 2026</date>
+  </channel>
+  <channel>
+    <name>SABC News ZA</name>
+    <id>SABCNews.za</id>
+    <title>Face The Nation</title>
+    <desc></desc>
+    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
+    <start>06:00PM</start>
+    <finish>07:00PM</finish>
+    <date>10 February 2026</date>
+  </channel>
+  <channel>
+    <name>SABC News ZA</name>
+    <id>SABCNews.za</id>
+    <title>The Late Edition</title>
+    <desc>A 360 degree view of all the stories that made headlines through packages, features, and interviews</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6InBVb2hxNXV5TnpkVXFVUDY1WjI1SFE9PSIsInZhbHVlIjoiZkJydGlJTDRya25uU2JtRW9VYmdyaThJeEZRcDRqT0NYcXdxTlwvZ0pmdXZUMnpmZE8rU1hQRkZ4WFNyQVZMSDY2SExLbHJhbWo0bHNEVXE4UzFGNUZkdW5aeEd5YjBId2lmMFliMGRIVCsxK3pzR0F4K1V1bXRNSzd0UGd5Rk9WcFVXNnFkTHRHdm1yWlJUVUxTaHJkQXcwazlaRWJYQ3hkMjc5dk5nZnViZGI4b0JHZndJTGZ4S2FTXC9adkxncmYiLCJtYWMiOiI1ODYwNGUzOTMzOTI5YWUwYzM0ZDYxODgwODlhOGY5ZTVmNmYzNWJhMGVhNTc3OTkwYWE4M2MzMWY1NmRmYjQxIn0%3D&amp;signature=f3568a3ffcaabe49e02ce8ec571c2c9e208aa26d8e6380a5a616ebb40b153c14</image>
+    <start>07:00PM</start>
+    <finish>09:00PM</finish>
+    <date>10 February 2026</date>
+  </channel>
+  <channel>
+    <name>SABC News ZA</name>
+    <id>SABCNews.za</id>
+    <title>Full View</title>
+    <desc>Full View makes sense of all the news of the day. The show also features 30 minutes of market sense in-depth[(96057)] </desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IlJGSWR1TlVxUzgzOVpySE5WS0Z1YUE9PSIsInZhbHVlIjoibFlDcHdSRUF6V2dhM2pOVitFUThCZXlmR1A0SjF4S3JlRXBYVkczWlgxeUE3S29HRmFIUjFsZXBtZ2lpbGVrRG95M1JLUUQ5VmRXUzFRWXZLdzBHbFwvOTYwbjEyTm9TenRiMHc4WlViR3VQSVpcL3h1eUZudFZuVE54UWxvVXZvWUZ2c29jXC9YeGdjMzhrZVJla1cwUHFUVFNHeWN3SWl6UkdWbWVORllVVms0PSIsIm1hYyI6IjY0MjhiN2NlODg0Mzk2MGU3Y2RjNmMxODllZjgyY2M5ZTFjNGYyNmJkZjE3Y2UxNmNmYTIzMGQ3NzY1NWVlOTQifQ%3D%3D&amp;signature=58a40cf269b841921806957ee7dea578760210066c7f7e206bde7e1b8a00b9e3</image>
+    <start>09:00PM</start>
+    <finish>10:00PM</finish>
+    <date>10 February 2026</date>
+  </channel>
+</tv>

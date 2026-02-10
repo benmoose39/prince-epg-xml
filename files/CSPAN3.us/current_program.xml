@@ -3,11 +3,21 @@
   <channel>
     <name>CSPAN 3 US</name>
     <id>CSPAN3.us</id>
-    <title>American History TV</title>
-    <desc>Airing weekends, &quot;American History TV&quot; offers programming about people and events that document the American story, geared toward history aficionados. Shows that air under the &quot;American History TV&quot; banner cover the history of the nation, from its founding in the 18th century through modern times. Topics covered include the Civil War, presidents and the exploration of historical sites.[(96057)] </desc>
-    <image>https://epg.best/assets/program-icons?program=eyJpdiI6InJyYWJKdisyVDBHTkZ0Y2xpM1lMQVE9PSIsInZhbHVlIjoiNGhoZmZqSXlOV1NENU5Ud3RtVXk1clhvTDFCVThcLzU4NjBlRDE5eFQ4RDk3USt0Y2dXNmI3c2tMbTRKMUFUTmQ4Z2UreWFFWjZZWkNzVHlPVkxvRkNtZFRnKzB5UnRRSndDYVVVbnpLUGNCYldkVUFNVmFCUWZcL0QzbmhjaTB0UiIsIm1hYyI6ImNjYjY0MDZkNThmNDg0NTA0ZjBjYTNkZGQ5OWEwODEzYmNlN2YyN2I3OWQzYWMyODJkZjJiYzk1MGI2Mzk3NDIifQ%3D%3D&amp;signature=62caa0c5de300b97a39e67ab05e4abc4b3d4f15cc274d01fd8958575bdd930a8</image>
-    <start>08:00PM</start>
-    <finish>01:00AM</finish>
-    <date>08 February 2026</date>
+    <title>Public Affairs Events</title>
+    <desc>Public affairs events, congressional hearings, speeches, and interviews.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6InVQY2FqZmZQZGY3Y1JQd0pLdjg4OGc9PSIsInZhbHVlIjoiN2JFT3VaK3dkYmc1bnROZkhOMDk4bjNWN3lBY0NFbmdHVEk3cUtmMVNVbXNsOTgyc1BnM1Fqb2ZzeUxhQ3J4UG5GWE1pblVkK3IwbVF0S09wWVJ0aVhhT0R1SThkT2pyM09nbTFDaFN6VWw2VDRTdjFmSWhYWVVjWkNTXC9RMEZGIiwibWFjIjoiMTFjZmFhMTAzZjYzYTlmODIyZjY2ZWM5MGQyNDY3ZWU5NjExMjlkYzMxNjE4MDQ5MDg3NzJhYmFjMDgzZDgyNiJ9&amp;signature=62c66c7c275064296ba964dae2b86d01b38681c46b101605c4848b56cbe251c0</image>
+    <start>05:00AM</start>
+    <finish>01:00PM</finish>
+    <date>10 February 2026</date>
+  </channel>
+  <channel>
+    <name>CSPAN 3 US</name>
+    <id>CSPAN3.us</id>
+    <title>Public Affairs Events</title>
+    <desc>Public affairs events, congressional hearings, speeches, and interviews.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6ImdiXC9EekhMdnpSR3ZhekdzUndvQTRRPT0iLCJ2YWx1ZSI6Iml4QkZsMElvdTJneGt1aityQXZPRnlubmxGMnRiYnF6MlBUZmYxeHI3U3RHczZDb2VOenJsdWk2VzQyVlptVDZhN1Z0K2g5SnNCUDBpQ1p3dVhNbnNlMmRPbFdsNWVsWjNKelgzUUVDd1dIS2RQSE9paGZlM1NMU1pkQVlIVVh1IiwibWFjIjoiMjc4ODg5ZGMzYzcyY2E4NjRmZTRiMjg3ZGM4Mjc0ODU2MTY0MThjNzNkOGE1Y2ZiYmM3YjM3ZGIyN2Q0MDljMCJ9&amp;signature=b81aa8dc0c6e74cfbb11d4832470f7e951bd2b4777798f99096dd45a3caaa6cc</image>
+    <start>10:00AM</start>
+    <finish>03:00PM</finish>
+    <date>10 February 2026</date>
   </channel>
 </tv>
