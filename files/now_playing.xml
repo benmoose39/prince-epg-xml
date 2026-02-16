@@ -33,11 +33,11 @@
   <channel>
     <name>ABC Comedy AU</name>
     <id>ABCComedy.au</id>
-    <title>Merlin</title>
-    <desc>Queen Morgana begins a reign of terrible evil over the innocent citizens of Camelot. With Morgause's immortal army at her command, it seems there is no hope for Uther, who must watch his Kingdom crumble under his daughter.</desc>
-    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IkhVdXdjaGlsUm54TzZvNDlwVHArRXc9PSIsInZhbHVlIjoiMzk5WVRaU29ReU8yV1M2YWUzZU1tb0tqOU9kVUNRc1BHMW9MQ2NmOWpZZ1RKNkRicENucWlSb1Jzek9rNTNvUWhWTGtKcUd5OGJEck9VNWV3bHVVQ3c4bkJjcm5LNWtCWEJsK3UyeldPRXg2ZUlQbGNKSXAyZ3haeE9XN2QyU2V1SEZqY3VmcmtVaWR0S0pueVBYY3VBPT0iLCJtYWMiOiJlN2IzZTkzNjI5MzQ3Zjg5YzliZWQ5MjRlYjFmNmFmNzM3YTQ3ZmVmOTA0ODI5YjU2MWM0Yjk4ZTJlZDE4OTkzIn0%3D&amp;signature=cc407942801207b8fc2fa51822ff6223ab1b7466bdf8d18c1a5d2c280836b391</image>
-    <start>11:05AM</start>
-    <finish>11:48AM</finish>
+    <title>ER</title>
+    <desc>New medical student Abby has a tough first day as a flu epidemic overwhelms the ER. Carter helps a patient with muscular dystrophy, while Cleo treats a kid who's been injecting hormones. Elizabeth's mother arrives in Chicago.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6Ik1ZaWluS0kwcGFlb3ppS3FIMzNmeXc9PSIsInZhbHVlIjoiYUtxY3JVempGcTV3R2tQWEpCeW1pUUxMWU92Q2ZSaFM4cHVnOFhxV0Q1RlFhWUpcL1BjMk56TmNweU5Gc0ZDSDRjelFZWXJDakF5RnVCZE9yb0NYblQ2aVFIRlwvdjRISllxNWlKOElaalNHMU9FMnd0eWhIWTl3ODVlU3VFbEc2UGFrcFhvQlRjazlVSmZ2aVJTNFhSOUE9PSIsIm1hYyI6IjUwZjBmY2Y2MGNlOTc2MTJmYzI1MzFhZmRkMDc2MjJmYzgzYTc3N2E3YzU0ZmI5MDFiYzRmOTg1OTg2ZGI1MGUifQ%3D%3D&amp;signature=99640a62b5e06ed148624e65ab50baaa560d060eb20d82db0bc29c8dcd693ea9</image>
+    <start>11:21AM</start>
+    <finish>12:05PM</finish>
     <date>16 February 2026</date>
   </channel>
   <channel>
@@ -53,16 +53,6 @@
   <channel>
     <name>ABC Comedy AU</name>
     <id>ABCComedy.au</id>
-    <title>Merlin</title>
-    <desc>Queen Morgana begins a reign of terrible evil over the innocent citizens of Camelot. With Morgause's immortal army at her command, it seems there is no hope for Uther, who must watch his Kingdom crumble under his daughter.</desc>
-    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IkhVdXdjaGlsUm54TzZvNDlwVHArRXc9PSIsInZhbHVlIjoiMzk5WVRaU29ReU8yV1M2YWUzZU1tb0tqOU9kVUNRc1BHMW9MQ2NmOWpZZ1RKNkRicENucWlSb1Jzek9rNTNvUWhWTGtKcUd5OGJEck9VNWV3bHVVQ3c4bkJjcm5LNWtCWEJsK3UyeldPRXg2ZUlQbGNKSXAyZ3haeE9XN2QyU2V1SEZqY3VmcmtVaWR0S0pueVBYY3VBPT0iLCJtYWMiOiJlN2IzZTkzNjI5MzQ3Zjg5YzliZWQ5MjRlYjFmNmFmNzM3YTQ3ZmVmOTA0ODI5YjU2MWM0Yjk4ZTJlZDE4OTkzIn0%3D&amp;signature=cc407942801207b8fc2fa51822ff6223ab1b7466bdf8d18c1a5d2c280836b391</image>
-    <start>11:05AM</start>
-    <finish>11:48AM</finish>
-    <date>16 February 2026</date>
-  </channel>
-  <channel>
-    <name>ABC Comedy AU</name>
-    <id>ABCComedy.au</id>
     <title>ER</title>
     <desc>New medical student Abby has a tough first day as a flu epidemic overwhelms the ER. Carter helps a patient with muscular dystrophy, while Cleo treats a kid who's been injecting hormones. Elizabeth's mother arrives in Chicago.</desc>
     <image>https://epg.best/assets/program-icons?program=eyJpdiI6Ik1ZaWluS0kwcGFlb3ppS3FIMzNmeXc9PSIsInZhbHVlIjoiYUtxY3JVempGcTV3R2tQWEpCeW1pUUxMWU92Q2ZSaFM4cHVnOFhxV0Q1RlFhWUpcL1BjMk56TmNweU5Gc0ZDSDRjelFZWXJDakF5RnVCZE9yb0NYblQ2aVFIRlwvdjRISllxNWlKOElaalNHMU9FMnd0eWhIWTl3ODVlU3VFbEc2UGFrcFhvQlRjazlVSmZ2aVJTNFhSOUE9PSIsIm1hYyI6IjUwZjBmY2Y2MGNlOTc2MTJmYzI1MzFhZmRkMDc2MjJmYzgzYTc3N2E3YzU0ZmI5MDFiYzRmOTg1OTg2ZGI1MGUifQ%3D%3D&amp;signature=99640a62b5e06ed148624e65ab50baaa560d060eb20d82db0bc29c8dcd693ea9</image>
@@ -71,33 +61,43 @@
     <date>16 February 2026</date>
   </channel>
   <channel>
+    <name>ABC Comedy AU</name>
+    <id>ABCComedy.au</id>
+    <title>Abbott Elementary</title>
+    <desc>Going against everyone's advice, Janine takes it upon herself to fix every problem herself when she notices a flicking light bulb in the hallway.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6InJaT1pUdDZ3a2xsbWU0clJKZkRoQmc9PSIsInZhbHVlIjoiSWdTeXJLbnZQMXNIV2pFdFVzRDZlczZSd3lVVzB2bGRtTVJiY3lkYTM1XC9wRkVGOE55TFV5UGQ5SXdhXC9sdE1PclR3WnhZY3M2XC82Uk1yZ2YwdmdySktXbjFKQzNWcHFmRVJBdHZla2xzczRwTERlRkNodEhGVHEyRWFcL25Ia0grNHlvUkd5ZGhzNFBWYmNtTFF1dFErdz09IiwibWFjIjoiZGUwMjFmYTI0ZDJmNDA2NDVmNmRiZDA2YTcxNTc1MGNiYTQwYTdjY2Y3MmFmMDRlOGQ1ZmM1YTY3NTM0YWFlNCJ9&amp;signature=b5a4c1618f5eec0b7391e6e681b7c3147122a96050f04b843b89e41fcf882eac</image>
+    <start>11:48AM</start>
+    <finish>12:09PM</finish>
+    <date>16 February 2026</date>
+  </channel>
+  <channel>
     <name>Afro Music Channel PT</name>
     <id>AfroMusicChannel.pt</id>
-    <title>Fresh Music</title>
-    <desc>As m?sicas mais frescas do momento est?o no ?Fresh Music?.</desc>
-    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IjZnODVSd0ZQVnpUVFpBbWhmc1FUZ1E9PSIsInZhbHVlIjoiVjR2NnV2UDBDa0FaZ1BjTDVGY3JScGZ1SVVUclNmTGRqSjBOSFRRVlVYUnp6a0xBYlNhcDc4dDZsdUxpMHFcLzFYbm9oaTd4bHNcLzlNVzlPelFZb0oyS25zSFRGSVo2bE13N292TnV0VCtFckpPaVMwRGphenRaclBCWUZqRDZDcE91eittOUpuYWdVSktxRlJMTFF3c2pZUVg4VUpcL05TeUtReEk1NHZaTmRIdVJRZFNmUEttcTJXZ3A0NEZEczJua3FoU1E1VHJFa3BkXC92OW0ySDI4M2hObXJydTFyb1pHXC9QaGFyXC80MVpleDNYd2ZWMTlMUDlDTzFmR0FqNDVcL1kiLCJtYWMiOiJiOWFjMjc1ZmFjYjZkZGU1YjFhOGQ5NDFlOTMwYzRhY2NjMzRmNzcwMjY3MDc4YzVhOWEwYzQ4ZmQ4MjhmOTFmIn0%3D&amp;signature=cf0028645f9faba694a472c385dc73a76950186b512d10f02359186c5659e92c</image>
-    <start>11:00AM</start>
-    <finish>11:50AM</finish>
+    <title>100 Pausas</title>
+    <desc>Aqui a m?sica n?o p?ra, e a variedade tamb?m n?o! ?100 Pausas?.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6ImNtWk9RQUFYeERqRW5lUXhScExFTXc9PSIsInZhbHVlIjoiWFhBanNnQ084OHdwdXRrSDlBUzl3cUVITXVsdGRldHF4ZGhFNTFXbEVHYnZYZXd3KzVNWXBVQnJjYjRqYzNicDlWZ2Y2MUtFNHBnSHByTCtBdWRKdEorYW9KZmVwNzRjS1FFcllyQnZubmJEbFoxSFNlTXlmdGRFc3FwTlI1bXFpQ1hXSklzcTBBZzZUSHJBR2haaEJ6VDFzb0VlY0dxUDZPbEhUbENLelRtRitQRHEzZGdRRG9WZkRUOW9LdHpQZmlqSmlOMUhzeDNxUkNCSWJhd2J0MkVhWW1YbXlrRTJ6VUlyTnVKbTFLQmdXWktcL0crWm8zU3JGK1lvWnZjYVAiLCJtYWMiOiI3ZDI3Y2I4NTYxNmE1OGY4NzU2N2NkOWU4OGZkY2UwYjZmN2NiNzIyNzBiMTAwNDc1MjY2NjhkMjQ4M2VlMjE3In0%3D&amp;signature=6f1d55871de82ce9949403468a945de6fa61b8b0885794d3323a6a65a46721a0</image>
+    <start>11:50AM</start>
+    <finish>12:33PM</finish>
     <date>16 February 2026</date>
   </channel>
   <channel>
     <name>Al Jazeera English UK</name>
     <id>AlJazeeraEnglish.uk</id>
-    <title>News</title>
-    <desc>Up-to-date news and analysis from around the world.</desc>
-    <image>https://epg.best/assets/program-icons?program=eyJpdiI6ImtXeXZpT0NNTEd0VjdzZVIyRVwvaW1BPT0iLCJ2YWx1ZSI6IkNtUW5wT2hjVHdHMlo3UUtFRXlyTlFvVlwvbTBhcmZZTGxvKzFNeXhOdmcyVkxVdVozXC9KVnVMVkFneUVHOVBtKzYwM1gwMVYzSXNPWVJ6VVE4TmpnOTV4XC9lYzJZWHl2cnlKeEljUTJLMW10M2N4VE5RXC9tbmhHWDhVb0VpSDFsTEZcLzVjekUxVUdFckJ2VnFGSFlxSUhVZXlCTnJDTFBya0hOM2I2WFpqUlBXN2dHeE04ZkFPVVF5dDZibU12amo4IiwibWFjIjoiZTllNzQyOGM4NmZiMjYzNDY1OTQwYjkzNjFiOTJhZmI2Y2I1M2QzYmU0MWE1NDViMmUwMzRmYjExOWJmN2E2YyJ9&amp;signature=99e7e62bf28a77ecff34c85976f7dbe07e93c5ae9815953d04d8456d33776d36</image>
-    <start>11:00AM</start>
-    <finish>11:30AM</finish>
+    <title>Latin America: In The Shadow of The U.S</title>
+    <desc>The 1980s bring revolutionary wars, CIA-backed terror, dictators in league with cartels, and the violent birth pangs of a new democratic era across the region.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IjcwTjc0NzY1MnplaTJ1a0MrNXA1ZGc9PSIsInZhbHVlIjoiNGpsWXdPOXErT0lcLzUrVUp6bHNaWWt5azRGRWUrUWFsQnVWUlE3aW9vaWpWWmU5eVwvTm9EVytvRkpoazRUWFJ4bjBUdllUREtIZ3NSaVVzbEFaWjJyb0hRS0pUdkpKOTgxTTJwNGphUmRFMVVVZUpxSGlqazJ6Wmxlb2laK0hocjFOcjNRRkpjTXM3bk1NWWdONWVlTTNiN0xRMHNpRGk3REViemI4SHA0aWNnSXBqWjBQZE52SUFMaFowZUZDV2MiLCJtYWMiOiIxMDlmYmEyNjdkNGI4NWNiNjBiZWViNTIzNTBlZjVmYzkzNmQ5NTM1MGFlNjVhZWU1NDVkOWRmZWUzYmYyYWY2In0%3D&amp;signature=7374312792a85e1f9b2e5230995eba0079765d9f270aab3fe4631909a69a205d</image>
+    <start>12:00PM</start>
+    <finish>01:00PM</finish>
     <date>16 February 2026</date>
   </channel>
   <channel>
     <name>Arirang World KR</name>
     <id>ArirangWorld.kr</id>
-    <title>RPG SPECIAL</title>
-    <desc>What is it like to love in Korea?  Where do people usually go on dates, and what makes K-romance unique? RPG(Romantic Path Guide) is a reality dating show where a foreign participant experiences love and dating in Korea while exploring its iconic landmarks. With fun missions to complete, encounters to discover, and moments to share, it?s a journey that feels just like playing an RPG ? only this time, in real life. A mix of travel, culture, and romance. Step into the adventure and discover the path to love in Korea!</desc>
-    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IlJoK2FwS0tiRXNLTGNXa0JVZEViS1E9PSIsInZhbHVlIjoiK1dVR0FZRUY4aUo2elhncjd3SVh1UU5DK0RpRVZHcTh5bnkxdXFid09FeE9MMHF2czgwbTVoZTRyZnFhTXhGT29hcEtva3RUVFZDVFhBR0g4SlQ0bStOZFJWS1lDMGNIQ0MzclNDTnJvRWlzdnppQTJBWjlmMXJJTEVLNWRGQm1kQ3Vqd2tiN1pYOWd4RURNa2NLZjlwXC80a2JKRTFXZVwvaGszTXRUU0dURFwvemZvNzdKVjM2RlJYNnZEdkhrcEExIiwibWFjIjoiZjcxMDIwYmVkY2JmZjQ3OGFiNmQxMTBhYzBlY2ExZjM4ZjU2YWQ1NTA4YmIwMjNkYmE4NTE1MGY4YTEwYWZhZCJ9&amp;signature=a06f913b1ecde1b9063e8ade468f3bd5ee94017f64ce2769b2979fba64342700</image>
-    <start>11:00AM</start>
-    <finish>12:00PM</finish>
+    <title>TRIP IN KOREA</title>
+    <desc>?Trip in Korea? takes you on a five-star local journey with Korean actor Oh Ji-ho and trot singer Shin Seong, exploring hidden gems and unique experiences that reveal a fresh side of Korea.? VOD service is currently not available due to copyright issues.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6ImpYODg0YXhxU3RKSW54SjAxT2w5akE9PSIsInZhbHVlIjoieWd0ekQ3ZzF0NGl3MTd0V0dsdTF3UDRUd0xEaVhka0ZxaGY5bDZvU0padWhFZ0tOYnc5RFBmMlNWSjFUUnl3ZU1vaG1Vd0llQXQrWHZkNjF5NVN5bnRvakZFZ01Yd25cL3MxdW4zSk1TQlFaN1JDZ3Vxd1FBelJcLzhDTkhkVjFmemt4YnQ4Z1ZCd3ZUVGI5RlFRQlMwY1UwZUwzZWtOSjBCVkFHd3AxV3RMWlpDcVFVUHlnNU9GdkRJdEpUeUYwOVMiLCJtYWMiOiJmOTE0ODA3MWIzMWNiMTljOGY0ZThkMDRiYmQ5YTBlOGM5ODhhOWM3ZGI2YjIyMmNhYzkzMjRlY2Q5MTkyODU0In0%3D&amp;signature=1963daa597fdd1614f547adc2b0bfa1fea670a3b204da338c2bc6906a1640f85</image>
+    <start>12:00PM</start>
+    <finish>12:30PM</finish>
     <date>16 February 2026</date>
   </channel>
   <channel>
@@ -106,8 +106,8 @@
     <title>This is Arise News</title>
     <desc>This is Arise News.</desc>
     <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
-    <start>11:00AM</start>
-    <finish>11:30AM</finish>
+    <start>12:00PM</start>
+    <finish>12:30PM</finish>
     <date>16 February 2026</date>
   </channel>
   <channel>
@@ -126,18 +126,18 @@
     <title>..programmes start at 7.00pm</title>
     <desc></desc>
     <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
-    <start>05:30AM</start>
-    <finish>11:30AM</finish>
+    <start>11:30AM</start>
+    <finish>05:30PM</finish>
     <date>16 February 2026</date>
   </channel>
   <channel>
     <name>BBC News UK</name>
     <id>BBCNews.uk</id>
-    <title>BBC News</title>
-    <desc>The latest news from the BBC.</desc>
-    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IkRtUUwwb052K0tpWWRCYjBXRVZlMWc9PSIsInZhbHVlIjoiY3dLVzBXODZXd0pkUFIrTitVXC85anM4Qm9aMWJRazhtSk96OENHYjlHYUtGcjhGV2NkNEM1amJFTXR5bTE3UnR2NndnTzlHNUlGMUVPR0I2SmlFWkxWZnRSdzlJZEs4YmR2b05palp5YWFwZ2tCZXBKQyt3MGpkMTNyUDY1dUhUUGhnMCtTQnp6MEp3cjZFRDNWSTZWUT09IiwibWFjIjoiNjIwN2ZkNmI0ODUwNGMyYTRmZjBkZTMxOWE1NGFmZjkyMGMyM2M1NDhkMWM1ZjQ1NDFhZTRjODQxZTViMDM4NiJ9&amp;signature=30c6a9362ee863e04accc669b22ac7711ef3938d26d6a2484f262cbaa6d2b6df</image>
-    <start>11:00AM</start>
-    <finish>11:30AM</finish>
+    <title>BBC News Now</title>
+    <desc>All the big stories, live as they happen, presented by Lucy Hockings.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IlJmY29OT01sQTNEN3ZvYjZScVltamc9PSIsInZhbHVlIjoiTmVjbVZqSzB3SzVjSllkY2ZRU0pBQ2pPQTBXVDJhUjRuUlpUS1dvdUxYMTI4Mk1lY0YwQWFLdlwvMURSXC9oV2UrRlZMdTdhR3h1cDNLbmtTcktnQWlOZmxQdWhZcnBEUkt5SEM0ekRNbEh5VUxVN29iRllHQmhRcDJGQmJTWDdST2RNS0x2STN5WTVPMHdkdHlmekNxSUE9PSIsIm1hYyI6ImUxMDJhY2RiYTA4ZjExMzNiMDBjNDlkNjkyYzEzZGJmNTkwOTYyMjZkOTVmNWY4Nzc0NWIwNjRiNzBlZGQyMTMifQ%3D%3D&amp;signature=9f0093961e3a213a2c00dcbaadbf217018d0c9d0c54e8ee4270e4d1445d06035</image>
+    <start>12:00PM</start>
+    <finish>12:30PM</finish>
     <date>16 February 2026</date>
   </channel>
   <channel>
@@ -153,12 +153,11 @@
   <channel>
     <name>BBC Parliament UK</name>
     <id>BBCParliament.uk</id>
-    <title>Prime Minister's Questions</title>
-    <desc>Coverage of questions to Keir Starmer, the prime minister, on Wednesday 11 February.
- (R).</desc>
+    <title>Northern Ireland Assembly</title>
+    <desc>Coverage of the proceedings in the Northern Ireland Assembly on Monday 16 February.</desc>
     <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
-    <start>11:25AM</start>
-    <finish>12:00PM</finish>
+    <start>12:00PM</start>
+    <finish>02:00PM</finish>
     <date>16 February 2026</date>
   </channel>
   <channel>
@@ -174,81 +173,81 @@
   <channel>
     <name>Band Sports BR</name>
     <id>BandSports.br</id>
-    <title>Campeonato Carioca de Futebol - S?rie A2</title>
+    <title>F?rmula 1</title>
     <desc></desc>
-    <image>https://epg.best/assets/program-icons?program=eyJpdiI6InRcL2hDQzhXSU9OTGdvWFBOditKSjFBPT0iLCJ2YWx1ZSI6IklWNzN5MW9VZlwvd3o4TTVWSUZSaGVGdFBlMVRIcm0rcE55bkxlZzBvVXA2TzZYQlFvUmJMU1BoZmphTHNRSGYxWU1RbWdpSXRlalwvZVBxOFNRXC84Y3htcTdVN29zQ3cwOEhaQm4raURIbkRkQWs4MU9OSGVUMHFTcmVmdE5DUlZrREFEZk1tYnBLdHh6anZubWVtWUFxd2t0eEQwcmJ4SGROY05EaVRVdzhjWT0iLCJtYWMiOiJjMjVmZjM4OTkyMWMwNzA0MDdiZDIwYzIzZWViYjA3M2E2MzUxMzNmMzJhZDhjODg0YzhlMWMzMWNiY2U0OTdiIn0%3D&amp;signature=504a285beefbed1c6d1b37f424827c79b34effa4096d593995450a4ac6681e39</image>
-    <start>10:00AM</start>
-    <finish>12:00PM</finish>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IlZJd3FJWVZZaU0yUnkwaTdJancycnc9PSIsInZhbHVlIjoiSDBLcGNibXl3QW1lcENSVzVaYjVkUFRnR0pUOWxXNGo1TTRHNEFnZEo3M25vRm5JRTZWN2Izc2JEQXZRQ3ZyR1FWZktkeWNnbHlrNG55cEQzQWg3bzVVZmhlWUordjJ5c2VTZ3FVOUVOZ3VoWlEwWVhYeGFFVUlXYlNqQlNxSTZZZWJiQ00xWGJhN3VyXC9vKzNucnhCQT09IiwibWFjIjoiNTg3M2NjMTBkMTAwYzg4NzA4NWY4ZTU0MGI2ZTM1OTgxM2FmM2YxOTEyNTNjNjZkM2ZmNjZhNzExZWFhNGFkNCJ9&amp;signature=2426c3f1aeaf7fa4694decccd40ebf0c5ec1b7e5bf1a63e7ccbc1db44a06d186</image>
+    <start>12:00PM</start>
+    <finish>02:00PM</finish>
     <date>16 February 2026</date>
   </channel>
   <channel>
     <name>CBBC UK</name>
     <id>CBBC.uk</id>
-    <title>The Next Step</title>
-    <desc>In Miami for internationals, Riley is forced to work off her bill as a waitress after she is unable to pay for her meal. West gives a guided tour to some of the more offbeat attractions Miami has to offer.</desc>
-    <image>https://epg.best/assets/program-icons?program=eyJpdiI6Imltbm9JSk1lTkk2VUE3eDVlaU1iK3c9PSIsInZhbHVlIjoiN3FaTEs2TVJCODdwRkpjTlJnSXpWbUd1Y3NYWHZOY1pycXVkaGZqRlFwZ0hUOVU1Mmk2YWl3TTFLRUs4SzFvekdOQTlsYU1FUEZVMjN5Y2NLSk1ZRkswMU1pV1wvK3hFUElpSVV4TjJURXpBZ3NWTVkrcEV6VWpnRjVRNGpPVjhxIiwibWFjIjoiMWYwZTg0MDM5ZjhkZWU2NjMyZjNhYzhkYzg0YzJjY2NiMzg3NWUzYTFmMTgwZGIzZjQ5MzdmNjM4MDdhNDM1OCJ9&amp;signature=d691df24456dae4df0494be42874660ee68e6187e6dc655e69cc05d639ba4729</image>
-    <start>11:25AM</start>
-    <finish>11:50AM</finish>
+    <title>Operation Ouch!</title>
+    <desc>Gladiator Dynamite keeps the peace as doctors Dan and Raph work their chests. Meanwhile, Dr Chris and Dr Xand find out why blood tastes like metal.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IkhkK3pYdm1rMkU5YkVVazA2V3VKWHc9PSIsInZhbHVlIjoiSisyQzJIa2kyc2dWb3BxR0lcL3dqZGl5Q3Z6WlRDY2FyaHVDQTJCdVVPQWd4cWZKWDF5ODNNeXNZbERmSUVUQjNxcWJMeFgyejRjcnlJUWFHV0luTHB5UUR2QU5seVh4MVQxTmdhckNJenRJajljZVBtRjlQXC9hSU9WRXZWT2lPaSIsIm1hYyI6IjUyMTczM2ZmZDhlY2VkNjllYTk0OTNhZDQ4ZDU4ODlkYThkY2FkNGYzODM4OGVkZDA5M2FiNDFkZWE5ZGIwMWEifQ%3D%3D&amp;signature=084223db8afb11bf52584d6fadcb5975150515113cd610cebee80524918c6154</image>
+    <start>11:50AM</start>
+    <finish>12:15PM</finish>
     <date>16 February 2026</date>
   </channel>
   <channel>
     <name>CBeebies UK</name>
     <id>CBeebies.uk</id>
-    <title>Hey Duggee</title>
-    <desc>The Get Indoors Badge. A weather warning from Duggee's barometer leads the Squirrels to round up the creatures.</desc>
-    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IkhKK1hHeWphZTBERllUaFhjcnBNOEE9PSIsInZhbHVlIjoic3l4WjNVbG9tQm5NWFdIWHFOSW1lSWFPUTZrM3NzcmZcL2ZRZjNka0tTY3VtMk1CUFhNTUpBVk9mMzVWbGtXaVFSWmhwS3U2RU4zTjI3RndFMHRMZW5UY20xeVdqUzcrTTltOUluWmorTUdHNDNHNkpyd0w1Uml0MlJDdWdXK1A1MGJ4TlFrNEVMcEtUS3FBMVk1dHpcL3c9PSIsIm1hYyI6IjJjNThjMWViNDc1MTBhN2NhOGNjZjU5YWI1OGM3YmE2NDZlYTU2MTM4YzlmYTg0MjhjMzI1Y2YwMDQwNjMwZTgifQ%3D%3D&amp;signature=8a6777d019dfb0ffcb05078ed89290824f664079fd4a61bf796518a353a21eb4</image>
-    <start>11:20AM</start>
-    <finish>11:30AM</finish>
+    <title>My World Kitchen</title>
+    <desc>Harry's Lithuanian Kugelis. Kugelis is a Lithuanian dish that contains bacon, grated potato, eggs and spring onions.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IldNR0F2MlRyNGpIcWtJajczbU5OU2c9PSIsInZhbHVlIjoiRzJZS0VUd3hrWlJMM0gwb2hTQitBdnk4ZDI4TWQ5RHdsa2E2WVA2RXJEV0ZCMmFqTE4xNzNOWXZoY2JnSEM3TVhxVGVpd1VYKzF0OXpsWDdUZEp6eVVvNU5VTmJWdGNvcldSVXBLWTJndUV4SUlPN1FPME9kRnR1Q2dOeTlUalBtVkR5UmxYWHhDNXZwWVhXcmd0Z3BRPT0iLCJtYWMiOiI2MjY0NTc1ODcyYjEzMDUxOGFhMDA3YmY1MmFmNzRkMDM3ZTkwYzQzMDk3MGNhMWFmNDFmNmVkOTU1ZDI1YTUyIn0%3D&amp;signature=04325f221d99696d68b43c327ab5a4435ab888b2e60110424ff56ae24299c628</image>
+    <start>12:00PM</start>
+    <finish>12:10PM</finish>
     <date>16 February 2026</date>
   </channel>
   <channel>
     <name>Classica DE</name>
     <id>Classica.de</id>
-    <title>Klavierwerke von Rachmaninoff: Beethoven: Glazunov</title>
-    <desc>Der russische Pianist Nikolay Lugansky wird weltweit f?r seine Interpretationen von Sergei Rachmaninoff gelobt. In diesem wunderbaren Rezital pr?sentiert der gro?artige Pianist eine Auswahl an Werken des russischen Romantik-Komponisten sowie Kompositionen von Ludwig van Beethoven und Alexander Glazunov. Das Programm beginnt mit Beethovens Klaviersonate Nr. 14 in C-Moll, Op. 27 Nr. 2, 'Mondschein', gefolgt von Alexander Glazunovs Klaviersonate Nr. 2 in E-Moll, Op. 75. Danach spielt Lugansky eine Auswahl an Werken von Rachmaninoff: Rachmaninoffs Klaviertranskription von J. S. Bachs Partita Nr. 3 in E-Dur; eine Auswahl an ?tudes-Tableaux (Nr. 1, 2, 4 und 8, Op. 33, und Nr. 5 und 6, Op. 39); Flieder (Op. 21, Nr. 5); Pr?ludium in C-Moll, Op. 23 Nr. 7; und Rachmaninoffs Transkription von Pjotr Iljitsch Tschaikowskis Wiegenlied (Op. 16 Nr. 1). Diese Auff?hrung wurde am 4. Juni 2021 in der Tschaikowski-halle in Moskau, Russland, aufgezeichnet.</desc>
-    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IjJaWitST1wvRHNyOUdSZm5TU2F5cWtBPT0iLCJ2YWx1ZSI6Ijhkald6TzdFN0o5UXJ0K3FBOEo3U3hCNWhEbWVXRGJIMjFwelBVUVNrVkRvNXhyZWc2TGF1YTNWY1FSSVRZTExHQU84RVNvaWhld3lLQ2N1c0Vmekx3S0VnZVR0UDV2ZEI5NnRFTlhqYXhvcU4zZnFwcXdNQnNLMGxTdkVwUjJiVWd1OGpseHEzcTYwUzVOUGo4VVNUQT09IiwibWFjIjoiMWVmYTA0ZTVhODMwZjM1MGNjYjA4MzE5ZjU3NzI2OTRmZmIyYzY1Y2U5OTc0NjdjOTA1OGJiZjc5MDhiNjI2NiJ9&amp;signature=1b01263bc4dbc48aba54763c60faa107067ab8627bad5523d58c9da0b092b678</image>
-    <start>10:26AM</start>
-    <finish>12:00PM</finish>
+    <title>Beethoven ? Sinfonie Nr. 5 in c-Moll: op. 67</title>
+    <desc>Sir Simon Rattle dirigiert das London Symphony Orchestra in einer Auff?hrung von Ludwig van Beethovens ber?hmter 5. Symphonie in c-Moll, Op. 67. Eine spannende Frage: Hat Beethovens ber?hmte F?nfte immer noch die Kraft, uns zu ?berraschen? Wir wetten, dass sie das kann ? dank Sir Simon Rattles schelmischer Begeisterung klingt selbst dieses gro?e Meisterwerk pl?tzlich wieder ganz neu. Aufgenommen am 23. September 2020 in St Luke's, London.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6InRIdzFCYUZXUDlRbWZibnpHRlFXZmc9PSIsInZhbHVlIjoia2pEUFRzeHlzVFwvWFBTcU1BMUNcL2swY0pBaFwvSWt4Y2IxaFN1MW5PS0srOWQ3SHRRbTRJZTBUaVN5M3VqM2lWTCtVRG4wQm9cL1Z1QXg1MXY1TGp6VkljeHBNN1lUbGE2RkdLckE4MjZNYzBhN3d0NnZlM3lmalNTVUxzWHRqNDNzbkxyZUFTVVhMNDBkM0hPS2lJT0dPQT09IiwibWFjIjoiYjUyMTRiNzYyZjI3MjE3MjVkM2U4Y2MwY2JiMjE5MmE0NDNkOTU4YWQwN2QwMjQ5NWEwMDQ1ZDY1MTgwZDYyNyJ9&amp;signature=a70c53e59af595524915cde3adc9d476997489f19a503aee65cc87e0d6f1580c</image>
+    <start>12:00PM</start>
+    <finish>12:31PM</finish>
     <date>16 February 2026</date>
   </channel>
   <channel>
     <name>Classica IT</name>
     <id>Classica.it</id>
-    <title>Nikolaus Harnoncourt</title>
-    <desc>, direttore d'orchestra austriaco, dirige i Wiener Philharmoniker nell'esecuzione della nona Sinfonia in do maggiore di Franz Schubert \(1828\) detta 'La grande' \(Salisburgo, 2009\).</desc>
-    <image>https://epg.best/assets/program-icons?program=eyJpdiI6Ikhndms3ekNCT3VKS1YzTFFOWjJpYXc9PSIsInZhbHVlIjoiNWFhbjlxbjllTml1VFwvem1KRUoyYVhFcWIrczI0RXZBR0FxYmYyNVVzY2o4aTBqYlZUNjNjYzNob09RUUlcL1Vibnp6VSs2b09Gbkdxc2lKNHVBXC82UFgydU1hSFZVWlk5WVp0ME5RbHNLU2liZU1xVlAwd3Y1Q2hZdXd4dGdlRHg4bVZSa3BkajFCWmRKTmhJOHRSUXhVVGlWS0NYcjhUMGY5anJBOVlMcjFlcW1zTGVIRWRGWnZiNmF5Y2hOOCtyaUlaUkxJbEZDaDZpQnhtbURZNE9KUVd4eXJvSDd1ZEEzcjVOa0V0Q1pUUT0iLCJtYWMiOiI1NTRhNjExMTAwNmVkNmVjMmNlYTExOTU4ZmFjN2U2MmNiNmU1NWZhNzUyM2VlY2NmODViYThkNjgzYmQ5NDc2In0%3D&amp;signature=c207952584cfeb62528c1a8ddced1f8c98afca8309573a80ca2485d25ac98409</image>
-    <start>11:00AM</start>
-    <finish>12:00PM</finish>
+    <title>Almanacco di Bellezza Amarcord</title>
+    <desc>Ogni giorno il meglio delle passate edizioni di Almanacco di Bellezza: anniversari e ricorrenze di arte, cultura e storia - con Piero Maranghi, direttore di Sky Classica, e l'esperto d'arte Leonardo Piccinini.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6Imd3R3FuN1B3Y0JQMWZGbmlDQ2dRU3c9PSIsInZhbHVlIjoiUTZ6RmF6bE5xMW82d2ltaUxYTlJyVDlEd0RJb2o1R2lqcDJzR2FQbTVuRHY0UnNjdGljYisrZDI1dnhCbDBZU1wvXC9FQ1J2KzZWNWFsYmZjYmdwdUEwcFFoTEs4RWRrSnV3ZkttT0pJZVdVcHBjS0JYciszUEN4YXU2OFhqd2Y4NSIsIm1hYyI6ImQyMzBhYTU3NGVmOTI2OTQzMWM2NTQ0OTQxNGRhZmMwZjVmNGQwYTBlNWJmMzY2NWUyNDBiNGMyM2M3MmI2N2IifQ%3D%3D&amp;signature=540b8ce88d3aba0c1c31f85ef1d59c75347c2077ddbbb9f8d41de8c5cab6cdc8</image>
+    <start>12:00PM</start>
+    <finish>12:40PM</finish>
     <date>16 February 2026</date>
   </channel>
   <channel>
     <name>EWTN UK</name>
     <id>EWTN.uk</id>
-    <title>The Church Universal</title>
-    <desc>Dr Bryan Thatcher joins Fr Joseph to explain how his lay apostolate raises awareness of the Divine Mercy.</desc>
+    <title>Chaplet Of Divine Mercy</title>
+    <desc>Live from the chapel of the National Shrine of the Divine Mercy in Stockbridge, Massachusetts.</desc>
     <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
-    <start>11:00AM</start>
-    <finish>11:30AM</finish>
+    <start>12:00PM</start>
+    <finish>12:20PM</finish>
     <date>16 February 2026</date>
   </channel>
   <channel>
     <name>EuroNews UK</name>
     <id>EuroNews.uk</id>
-    <title>News</title>
-    <desc>The leading news stories of the moment.</desc>
-    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IlpvaHhlZDd4alpRRDNCbERXUHM3UVE9PSIsInZhbHVlIjoiQ25lN0o0eWVQWUJxM2tMb2JVWkk3QmhBRFNhbEpLMlwvVXIzY1o4VFA1b1VTRHYxWDdhaVN1a3V3RUMwXC9uMTB1NlFSMWRpVFU0N05qa3gzQmsydUxsN1wvYTJcL20zYnJhR2F3MVh6MGJ3Tmo5UDlyRGFna2haYkNLa2sycG1iSjJZZnM5NllIc2M0YVdtOXU0aXBJMERNUT09IiwibWFjIjoiYWJjNzRmMmYzYzU3ZThmMzkxN2FlMjU0ZWEzZWNmMTVlZWQzMDhjNGRjZDU1MTM3NjhhYWYyOWJjYzRjMWVlMSJ9&amp;signature=f5eec30bfbd0dfb511b8d849ac0ed0f7e647a38915996349517441eae7d9f233</image>
-    <start>11:00AM</start>
-    <finish>11:30AM</finish>
+    <title>Euronews Now</title>
+    <desc>Breaking news and in-depth analysis on the biggest stories making headlines in Europe and across the world, as well as one dedication - 'all voices, all views, all welcome.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IlpSWUpqZktDUzA0ZTFKRFNSSkZMTFE9PSIsInZhbHVlIjoiQ2dNV1MxdzRDdDJXNm9iU0pGZm01b0J4NlY5Wm9CYkZkZXlBR2tpTmJrb3l6dmM4b2VmQTBqMytrQ3ZRekVoSnNHdXlyY0JaYXhCNFJFcWVjSHNBMVJyRVBlaVVWcitpUHk2WHFkbktYbnBZSGRHaVZHZnpyVElTZEFQa2lrTytPMkF3aHhMbmZSS3pzYlBHYkxQTndBPT0iLCJtYWMiOiJhOTdkNGE2YWQ3MGRiNjJlOTc3YzlmYzFjYWQyNGYzZDRhMmNlZjNmZDM4ZjI3Y2E5NDZlM2Y4Y2MyMDc2NTk2In0%3D&amp;signature=36e64178705c4ba13ecf541d8eaf7a0f0de1d3e306905a319571521eed3ebd00</image>
+    <start>12:00PM</start>
+    <finish>12:31PM</finish>
     <date>16 February 2026</date>
   </channel>
   <channel>
     <name>France 24 Fr</name>
     <id>France24.fr</id>
-    <title>? l'Affiche !</title>
-    <desc>Comment les cin?astes, les romanciers, les artistes racontent-ils le monde ? France 24 part ? la rencontre d'une culture engag?e dans son temps.</desc>
-    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IjV3S3RTNVpMbE9FM28rNW9OeTlBK3c9PSIsInZhbHVlIjoiS2htSFwvUWt1bHk2eWxmNWdaWDR0VkJ0djFTbXVwQjhIRmFOc1NqQjNzYlJLTHdsY3o2cDVjS0ZMZVwvdmRHSkI0RGRGXC9VMXo4eDFsTnIrb2ZQa0NITCtGVTdrMmZEcmFmYVBWOVVjUjVDRk1Ndm5RT2hXTHpQekh6a3Rnb3NGelN2a1V1REROdlwvSWdjQVwvTTQwOWRaNUoyV052VUFhVFNKU3RtU20xdXl2cXNPXC9SUXRLU0lhRFVXXC9FdFhRUVZidCIsIm1hYyI6IjMzMTk5MGU1NjgzNzQ3NTJiM2RkZDVkNjVkZDM2NzcwZmVhYmRjOTEwNmNiMzAyYWEzNDdiYjg1Zjc4NWRkY2IifQ%3D%3D&amp;signature=4a26b1940f2d334003e115d1262b894f612e950b08d5314fd8964702c12784b9</image>
-    <start>11:16AM</start>
-    <finish>11:30AM</finish>
+    <title>L'info du jour</title>
+    <desc>Avec France 24, le point sur l'actualit? au quotidien.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IjlFVFwvRE5lY2RrdXNuMnEzNUdjUnN3PT0iLCJ2YWx1ZSI6InNYclJtMVNSNnN1OWQ2MG9GdTdFUjV0TjBObzhqVGpVSmYyQVh3MkZ5cDUxNlFmTEZlams1TkhjZ3ZwVUVMMEFoVkVGRXNuWEY2UkEyRkZvbFdtRG1UaUJ6Uklwc3NWMjJcL3B2RDdya3BuYVBwSktsRXNWWllMdVMzOUNIVnNRMnJoSksxQnZBZjZxWk16bVdDZmlYNGxTREdjVDFkRGl4SFRONkgwY2s2eENIVUtPR1AxamRzbWVCRXdsUXFZcysiLCJtYWMiOiI5NTI3MzM4NWY1ODg1NGNiNTZmNzMzMmExZTNmMmJiMjk0YmY4YTMwZjk2YjRhZWNkYmIwZTMxNTI5YzZiZDIwIn0%3D&amp;signature=ac3bfa4b48c9efab1e184024897690f4d391925e85ef86ca1e21ca53dc8afd69</image>
+    <start>11:59AM</start>
+    <finish>12:30PM</finish>
     <date>16 February 2026</date>
   </channel>
   <channel>
@@ -264,51 +263,51 @@
   <channel>
     <name>Kuriakos Tv PT</name>
     <id>KuriakosTv.pt</id>
-    <title>A Rota</title>
-    <desc>Programa de entretenimento com imagens ?nicas capturadas em v?rias partes do mundo, atrav?s de uma equipa que viaja num iate e outra de carro. Um programa cultural, com alguns momentos de divers?o.</desc>
-    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IlluZmpGK0daQVNwbEp3dlJwbjFZblE9PSIsInZhbHVlIjoiUFNZTURZN0E1ZE9HVjd3emVjQ0Z3T3oya2U4dk9OaTBEVWtaSThXNHBva2VNNmJpcjlZTEZvYkdqZCtRTVVrOWlzankyS2d5ZnpZMFZ4YmIxcnA3MVwvakZ0Y1FjYUYzS3Z0K3RoODR1TmorZHI2Mnd0OHMxYXdVWU1jdkNFakxOY0RqZTVBeDhsWkhpZXR3SVgwRGIwM2dmWjEwTG5yazNiNGVLVUhMdFdHYzJlZmF3XC8yaXl1ZUJCcnZKSVBRV0lQMHRybUZWbXRLeTRrWUc3TWV5ZWNQdHIwQmZwVmhlVDlzM2J1SU1nOWZUa1pHS0JBTXg2NmxhWkYzN09rMG1tIiwibWFjIjoiY2JiZTU2YTJiNjNjYWNlOGIxNDIxZjAyODE5OGY4NzdhZTMxYTE2OGIwZWMzNTcxZDhkNTEzOWFlYjM4MDdhMCJ9&amp;signature=93e35f4be20f8086523a19435687b78a674d11a62a94bc2749333f1cd76cf28c</image>
-    <start>11:00AM</start>
-    <finish>11:30AM</finish>
+    <title>60 Minutos Com Deus</title>
+    <desc>Programa direcionado ?s fam?lias, onde se abrangem temas como sa?de, casamento e ?rea financeira, com o intuito de ajudar a vencer, educando na f? crist?.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IkdHY3lrTitMdEs2UU1CUk9NZWltdWc9PSIsInZhbHVlIjoiMXVBbXVnMDhnN1JENXpsWGRDZjlDYTRhTnNQTDZnR011azBVZGd6YzRKaGdGdzY0c3JwcVZKMzNxQ0x3aDhaNWgzVHFUb0R2Yk44U3Zzc2dOdGJUa08ybVBQbWJQcWVhRFd6K2Z4cGVhN2RZa09Jb3RPWXRBUmZUT09ycVVSMUlPOXJEdE1pM0FHWDVLMjBmVFBjMW0rS2wzVFRyU3hFZm40RlwvRDNGZ0EzellGMzdNcnQ4U1FqaXdPdE1GRXZvZldwY1lDMU9Hc1JER05pbVNiXC9GVkg4R1ZjRnh1MmFRdm5hbFdHbStZNnVLbUhxNU50YjNUQklSUktxNk5yXC9KOSIsIm1hYyI6IjNmNGIxNDk0N2Y5OTkyZmJlYmVmYjk3ZDkyYjIyNWY3NDBlNzdiZjM2MjViMTY4ZDQ0MDZiYzdmNDZiOTQ0ZDQifQ%3D%3D&amp;signature=e6102ed375a5cbd247a9c088ffce6766e4e222b0e6e4975050cade42b5aa95f7</image>
+    <start>12:00PM</start>
+    <finish>01:00PM</finish>
     <date>16 February 2026</date>
   </channel>
   <channel>
     <name>La Otra ES</name>
     <id>LaOtra.es</id>
-    <title>Ca?as y barrio</title>
-    <desc>El programa recorre los barrios de Madrid en busca de los mejores sitios para desayunar, comer, merendar y tomar el aperitivo.</desc>
-    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IjVcLzEyRnFYVytUSHJKUHFnVlBjYnV3PT0iLCJ2YWx1ZSI6IitPY1E4Nm81MVJxdCtnM3dEbXh1bnJTV0Z6ZjR3d0tXQ1YzY3MrKzZTOVFhbkVKMGJ1bnh0Nm9qN1lWM3BOZ3NoKzUyeVwvXC81bGlXV0tvVHB3VmZ4QnVGbjQ2aGF1N0FITkVuYzYrM0tadFRWV2s5MisxSGpqTm5ucGl5dUMycFkiLCJtYWMiOiI4NGRmYzQ2NjExZmFlYmMxMzQ2MDdjMzQ3Zjg1NTJmZDg4YjRmMmMzYWM2M2Y1N2VjYWMyZjUxMmFiNTY1YzFmIn0%3D&amp;signature=d0221454354aa0c4654fb0ec3e61ec799330fc3ed4e5df38d3c878cba65bdad1</image>
-    <start>10:56AM</start>
-    <finish>12:01PM</finish>
+    <title>Sabor a Madrid</title>
+    <desc>Poty cocina Gambas al ajillo con Miriam Hern?ndez, una cocinera chinchonense.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6InhFbkVEbjVod1NkN1BaWkNFd1hrS0E9PSIsInZhbHVlIjoiOHNvb1VuOEdZT0xucDF3cExHZFozVXhPYThCMlh6VHVESVVSRXFTZjlCOEZva1wvd3lia3FmUlRlenpKR1RhdzFWTzhPSDJSN0U1cExPYnBpTTNkdk10dDdBekxKVkVRYjc2eWdUTlZEMTVEOWN0MmY2YU9TbUxJZGFYZHd6emI1IiwibWFjIjoiNjBmNWUxZDIwZmFjMzhlNzIyZGNjNTU2YmVlZDE0OTE2MTA1ZmY3MWRiNjhlODlhMWQxOTFlYmY2MWFiMjM2NyJ9&amp;signature=647dbfcbd8b29efd215c3158dd6a4d0bae9093b7fed11d607e0402792d255f3b</image>
+    <start>12:01PM</start>
+    <finish>12:28PM</finish>
     <date>16 February 2026</date>
   </channel>
   <channel>
     <name>MBC Drama KR</name>
     <id>MBCDrama.kr</id>
-    <title>??? ?? ??</title>
-    <desc>??? ??? ???????. ???? ? ??? ???? ??? ??. ???? ??? ???? ??? ????.</desc>
+    <title>? ?? ??</title>
+    <desc>?? ?? ???? ??? ?? ???? ????.[(96057)] </desc>
     <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
-    <start>10:10AM</start>
-    <finish>12:00PM</finish>
+    <start>12:00PM</start>
+    <finish>01:50PM</finish>
     <date>16 February 2026</date>
   </channel>
   <channel>
     <name>MNC TV ID</name>
     <id>MNCTV.id</id>
-    <title>Upin &amp; Ipin</title>
+    <title>Entong</title>
     <desc></desc>
     <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
-    <start>10:00AM</start>
-    <finish>11:30AM</finish>
+    <start>11:30AM</start>
+    <finish>12:30PM</finish>
     <date>16 February 2026</date>
   </channel>
   <channel>
     <name>MTV UK</name>
     <id>MTV.uk</id>
     <title>Catfish</title>
-    <desc>Ciatta has a bright family future planned with Juan. But before Nev and Kamie give their blessings on Ciatta's move to LA , they uncover details that put her life plans into question.</desc>
-    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IldRTUN1VUl4bDdMeFA1ak5cL0lVTXFRPT0iLCJ2YWx1ZSI6IlR5elFNaFpWTjhGYkQxV2VXaG1EdXg1dkdhaXhPbmJJSUdcL0RPT3ZReExzbngxcnJrc0o5ZmM3SkJUeW5GM0tDWmlVK0VpVVVLc1wvcVp1M1FmRUdOb1hqemd5ZTBFR2RjZGcyaGVNMXM0ZGFOVkJTcFJhd0J5TUpHQlpUQmQ4Nno5a2syT1wvVGJ6T1Ria2JiK2FOSHZPZz09IiwibWFjIjoiNWIyYjY5MWVmODlkMjc5ZTBiNWQ3N2EzYzUyNWM2NTNjYTRkNTQ2YzhmOGVhMWIyYzRjNGQ2MGZkYjcxNjNmYiJ9&amp;signature=4f226123bb5a3f67511ecaa0c09e7df1de178cb5f7542d6639f72fe49b543b56</image>
-    <start>11:00AM</start>
-    <finish>12:00PM</finish>
+    <desc>Dey's been a fan of Cody for 13 years and they recently fell in love, but Cody still refuses to meet or video chat! Can Nev and Kamie help Dey find her longtime love.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6InBuYTZBYUNEdVVHeXpRTVdtQTlrc2c9PSIsInZhbHVlIjoiKzRIeEJZR0s2dkw1QWZtSVpOUjQ0d090SmdVWm1JK1k4YXRaa1VGc2xPRGFENDVQTSt0WmhuYlNqaTY4VFB5UDNlNVdmN09FQVRCVlBoZmFSeGV5NzhZR0syS1lrS1ZwcHNHQlk3ZlZlaGlQbW5ERHVpOVo4MVJvNXB6TGJSWlV6WjZKS0d1N1dzU1FDZEhLckdVZU1BPT0iLCJtYWMiOiIzMTUyOGRkODNiOWNjYzZiOGFlOTczOTIxYWY3ZjI4MDY5MzM1ZjJkY2JlZmY0ZTY5MDAzYzk4NDdkZjFhMWRkIn0%3D&amp;signature=cb0455d195330af3d3672bcd14b921a315fd4fc835ad654943d7a06ecaa352f9</image>
+    <start>12:00PM</start>
+    <finish>01:00PM</finish>
     <date>16 February 2026</date>
   </channel>
   <channel>
@@ -326,9 +325,9 @@
     <id>NHKWorld.jp</id>
     <title>Newsroom Tokyo</title>
     <desc>NEWSROOM TOKYO dives deeper into the day's news with insight and analysis, from the perspective of Japan and the rest of Asia. We put a spotlight on what you need to know to understand the issues.</desc>
-    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IjJkU0xFV0YrbVB4bHRoQk5weUNVeVE9PSIsInZhbHVlIjoibDdXKzRLam1RUFVvaXVzZVN2ZTZrQ3E1cm01WmkyVFA1NlFsS0NmRnlIdlwvcjBwNHR2QWUrN1RPbytubGM5bjdYQTgzQk5uU2ZqV0Q0MzFBRzRtNW8xeFJuZG9SS2U4Q2xWcnhFa1FBTVFSc0t5cnNjN3RXdm9pQWNpTzc4Z1ptV2xtRzdNcVFmeHhhdlFaekxPaVwvMnc9PSIsIm1hYyI6ImY3MTY3ZWMyYTdhYjEwNTdhOWJhYzhlYzY0MmU1MjU2NDc0ZjhkMzM1Y2UyMDIzMDEwYWRhMzAxZDc1MjA4YjUifQ%3D%3D&amp;signature=dee5023d8181901b45cfeca52c367541d80700352a109041087f0c3c8516fc6f</image>
-    <start>11:00AM</start>
-    <finish>11:28AM</finish>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IldTSmdIOTU1emV3YWlNQUVNbVlhcmc9PSIsInZhbHVlIjoiSEFyRjZlMTZzZ2VSdVVUeTZLSU4xSlZWa0YxZDNremtZcWdwZnkySjF4bm5jUzh5NHBneERuSzdSaWs4ZCthMkZiK0NRUzBDUXJkRTVNMDQ3cW5LRlQ2VlV6T0dkVVlFbTlEQWVQTG15c24rUkhaYkxHVnZXVlhZY3d0VWREU0M0ek1hSUltcnh4d1JQUW5XVzVZcGJnPT0iLCJtYWMiOiIzNzFjYjJlY2VhODQxZWQ3MTZlMDY5MDRkZjgyYTFiYTA4Y2M2NWI3MWY5MjkzY2NmMGYwMjQzMjg4YzNmYzJjIn0%3D&amp;signature=d0fb7490db4a07b2d31072e98b84dffa45e3b918f17c13bbe383c2cd022d9428</image>
+    <start>12:00PM</start>
+    <finish>12:28PM</finish>
     <date>16 February 2026</date>
   </channel>
   <channel>
@@ -354,51 +353,51 @@
   <channel>
     <name>Nick Jr UK</name>
     <id>NickJunior.uk</id>
-    <title>Peppa Pig</title>
-    <desc>Grandpa Pig brings some seeds for Peppa and George to grow a garden. Daddy Pig makes himself useful by being the scarecrow.</desc>
-    <image>https://epg.best/assets/program-icons?program=eyJpdiI6InlCUEpwRU9WcGYxN085Z0t0VmNaV3c9PSIsInZhbHVlIjoiU01sbjJGWms5WklrV3drVXlXeFlqSWp6Q21TTjczb2tFcFwvZ2pDUkpQRlpoaGR5ZEFFa3Yyc3NkamJxXC9YNTgxWTU5cDRVMlkwbEN2Q0Q4dndCdmxWanlcL0MwOFwvdE0zNUNyM0lITWZpSUJKdm1ncWFEK1NHMmRcL3ZmektRZjNPRHZ0UzE5Tmo0Q0VnQjY1cGVrZXJRMEE9PSIsIm1hYyI6Ijg4MjExOWIxNzNjNmNkNjdmMTg0N2UzNjIxNjk4NzFjNzgxMDdkZTkzYzkyODM4YWJmNDQ0MmEwN2Q5N2FlMTEifQ%3D%3D&amp;signature=e366cd9133d70dc2f47e4799884bc4866a8e3e98529ed938cfd723dd5426fb74</image>
-    <start>11:20AM</start>
-    <finish>11:30AM</finish>
+    <title>The Smurfs</title>
+    <desc>Dwayne is turned into a tracker dog to help his uncle to catch the Smurfs in 'Gargamel's Doggy', then in 'Drummer Girl', Gargamel bewitches Meteorite's drum and hypnotizes the Smurfies.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6Ikc2ZzNlZ3hJTUNkNFdBQ3cxRHRtamc9PSIsInZhbHVlIjoiMk9TaTZTQ3kweWxSRk1oWU1GS0Z0TUdzSytvb3BpUzRubDZEOXZqSEJpSEtZcHBsT29nNGtSWVpVREFrZkNlYVNjVzE2amFuQkEzTkxNRm9jN1dnaXZhYXFjclZvR0pjR2JwOVBmR1ZUdmVaV0F6ZVwvSkFyMUlsNm1OWkw1QUpJMFFObUNZcVkzbE1DYmFkb1pyN3pRUT09IiwibWFjIjoiMzAxMjQzZDExMDRjYzg3YTE0ODQwYjQzZDlmZDhiOGM5ODJkNzYyNGVlZjhmM2E1ZjdkMDg3YWFjODBlYjU2YyJ9&amp;signature=e7bd20842b86133bd8e8987f5145b5c97be3be605596244d77e99b89e474dbed</image>
+    <start>12:00PM</start>
+    <finish>12:29PM</finish>
     <date>16 February 2026</date>
   </channel>
   <channel>
     <name>Nickelodeon RO</name>
     <id>Nickelodeon.ro</id>
-    <title>For?a Pericol</title>
-    <desc>Eroul Captain Man ?i inventatorul Schwoz recruteaz? patru copii pentru a-i preg?ti s? fie supereroi la Academia pentru dota?i din Swellview, unde copiii sunt ?nv??a?i s?-?i foloseasc? superputerile ?i s? se lupte contra r?ului ?n echip?.</desc>
-    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IkVYN0E2MVQzQ0hjNEZ1QlhtcWhcL3BRPT0iLCJ2YWx1ZSI6Ijg5N3lWNTZmaXA3QnNhaE1ZXC9JTWI3VVlMeXpBN2xmejFpeXpJU0N5eUFmNDN5WnYxZDQzT2FFcGp5Z0NUWUl6QWRBelpVMHV6Sk9oc2J2ckRRWUtpUys5MzR1YXJxang2dFA5a1Q3N3BBV0U2RW9HUUNRWE52QmwwY2k0U002T2U5Wlwvc3MxSlRiZWhxajhmbnhIUTVnPT0iLCJtYWMiOiJkZTkwMTYwOTBmYjhhOGIzYWUzY2FkOGM3NTQ5NzBjNDcxMjdjYzBkMjVjZTk3MDgwMDUzMmNjNDI0MmY0MjU2In0%3D&amp;signature=a45b00f078fa2cc3fc6ece82d770efa4ed5db2ba7ebfb28bbfb047e4003c78c1</image>
-    <start>11:10AM</start>
-    <finish>11:35AM</finish>
+    <title>Henry Pericol</title>
+    <desc></desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6InVBZHpaTlZzNGlZSmtKbGJZSm1xN3c9PSIsInZhbHVlIjoiOTdSWERkVCtIc21SaG0yMGphNk5xYmx2ZlhPZFwvMUJPeWVwQ05JdytEK3pQbytBM3c3Uk10ZWNOUnBwVWFMVzhaZ3hZdU40VFo5ZkJzQkdBQnpxQWNpbkRyb3pzUmx5N2V5bXJKZVdRbEt3bkY4Y0JEZzJQRW9PVmNObjI1d2lSdmxGWFNqb0FPZzZVY0NYeHFOMk5oQT09IiwibWFjIjoiYmIzYzY5NmYxYzkxZmFhNDJiYzNiYjVkZTA0NDU1OGZjOTQ5YmVlZWZhYTdlYTQ1ZDY5ZDllM2IzMGMxMjZlZCJ9&amp;signature=eb6d6c33f7bf98a728a8a406916ba5b8580ad5c70228e8ecc4f0049df2a415e9</image>
+    <start>12:00PM</start>
+    <finish>12:20PM</finish>
     <date>16 February 2026</date>
   </channel>
   <channel>
     <name>PTC Punjabi UK</name>
     <id>PTCPunjabi.uk</id>
-    <title>Punjabi Beats</title>
-    <desc>Punjabi Music.</desc>
-    <image>https://epg.best/assets/program-icons?program=eyJpdiI6InBQQjFXNkh1R1h5MG1FM3dqekZyaGc9PSIsInZhbHVlIjoiZEtBdG1nRmJybktkNnNLMmZJM29BVUZuamN6UGxRMmNzUUFvbU9sRGI2cXlKS3pBVFpRV3hzQURLZWNsQ0YzSDdSbkhsVEZ1ZU9tU0RscGlXb212OVh6RFk1b1hLNEVSTFVDc3B4QTk3d1NDdExkYzlVM3pZM2RyNHpQNko0ZFBQQ3l1NGhyWGVFdjlsVXcwRWdEXC9vQT09IiwibWFjIjoiOWM1YzE2MjBmZjIwNjk2YjM2ZjZjYmYyMDdkZDcxYjRmZGY5M2U5MDUyZjU4YWQ3YmNjNjhkYTlhODUzN2Q2YyJ9&amp;signature=5052e7680db8bffb1c2f37a2492affeba1a8b9be240174091917fa0434a61d4b</image>
-    <start>11:00AM</start>
-    <finish>12:00PM</finish>
+    <title>VOP-16</title>
+    <desc>Punjab's biggest singing musical reality television show.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IkRSV2NvXC9UVW9FV2F6VW5RaHdPNGRBPT0iLCJ2YWx1ZSI6InNtbEdNWGF5aDN2aEx6ODkyTDY1cVVSY0V0MVFtXC93OEJ2dTVOdGFrRHV6UXdMMFluXC9hdmdJXC9PTkpKNWFuWWtscW9cL1YxSkNIK2FyOGpsY0Q3T1ErcXQ1dzlQOU1UcXdYNmNSY0ZRZitlOG1oVmxXS0dTY3lKVmtlOGVSd1k1cG92VFYxRG1JYmQ3SXRweGpHWFVnTHc9PSIsIm1hYyI6IjE5YTYxYjExNzAyNjEzZThkN2YzMjc1MGMwZjZmNjkyNTM2YjNkOGY4ODg3Njk1ZDkzMDJiNzAwZWExNzY4MDIifQ%3D%3D&amp;signature=1e9ce8542e6bede34e0024614c833c219e20e45a92e66fd41f506bb65a38d9e0</image>
+    <start>12:00PM</start>
+    <finish>01:30PM</finish>
     <date>16 February 2026</date>
   </channel>
   <channel>
     <name>Porto Canal PT</name>
     <id>Porto.pt</id>
-    <title>Veterin?rios Todo-o-Terreno</title>
-    <desc>Programa que retrata o dia-a-dia de uma equipa de m?dicos veterin?rios com atua??o cl?nica em animais de companhia, esp?cies pecu?rias, selvagens e ex?ticas.[(96057)] </desc>
-    <image>https://epg.best/assets/program-icons?program=eyJpdiI6ImdkQk9EZERGeU9sWm1IUTI3QXAyOXc9PSIsInZhbHVlIjoiZUthcGRpT05MWGNJdnhkNzNjVHFhcGk2YnFqM0pXQlFhUkY0RUowcEQ2Mlo3UUlSXC9KUjNvUGc0UzRlNHpOTG10emRzbHdqV3pIZ0JuQXRrWXF6UnNDVnNnN0pKS2k4dVp3d1g0UzFHYzZUU1pTdG5KU1FYZFJDTVJxQUs5K1cxTHFrT0RsXC9MOU94MElSanE0SzFUMGNFYmp4OU8xTjJrY1ZnQTNCd2J6dlpiSElFbUlVSjB6WW9ybnJ0THVoUExcL3FzRGZkOTVtR0FxK3ArWmpKNEJtWEdrUndyd3Nic1pCNXNKcFFHMWNabGJFRTQ5OHlqXC9hNVwvSUo2OE1HaVBnIiwibWFjIjoiMGU2N2M3NGUyOWQ1NmY0NWJiODQ3YTFiOGU4NDEyODY5YjMyMWYyMWMwNGEzY2VkZmJlMTI1NjA1ZmZhNjg1ZSJ9&amp;signature=f9654a0ef71a379fb6a679a67bf92c01428a184daa6c8a23ed16387d75e4e7fc</image>
-    <start>07:30AM</start>
-    <finish>11:30AM</finish>
+    <title>Informa??o N?o Disponibilizada Pelo Canal</title>
+    <desc></desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6ImNHU2tDdGlBV2U3VlwvcVJWRzR4TjdBPT0iLCJ2YWx1ZSI6IlVpYUxVZmV5ZkJrcDVCemFOXC9UXC9Rb3hYUkw0NDZreHMwbzlVM3dZM0lodU5NZUZkUEVGQnNrcXRkMDlpWGR1QjN0ZFJjVGkycFZ2OTh5ZTBKZDFiZTJsXC9maTlRempkNXdXajVPZ2NcL2NxZm9JQ0xMZUE4bjFEcEtOZHdseklEOWgxcU9GR1lYRWQwaDdpVmdCdFVLdjEwaml3YmdmaWFkNCtpWjhiRWd2UWlmV2lKZkFpenAzZERTNngzMld5VGgrTlExTzVmTWxmRXZYZW16YjkyYnZGQmxoSUYyWnplRjNJSzN3WjhTeUdGXC8yMDRYM09jbUpsa0Zsc3VPYzlcL3UiLCJtYWMiOiI5YzNlYzM0MTJmZjJjMzlkOWJhNDM1Y2FhOGNhY2FjYjRkNmE1ZWUyZmI3OWMxMDIyZjRlNWI4MDRkMGEyMDVhIn0%3D&amp;signature=d8fd4a9d91464fd4e585e9e2923958646f66ed6312cb6e6f30dfabc3e41352fe</image>
+    <start>11:30AM</start>
+    <finish>05:30PM</finish>
     <date>16 February 2026</date>
   </channel>
   <channel>
     <name>QVC UK</name>
     <id>QVC.uk</id>
-    <title>Health &amp; Wellbeing</title>
-    <desc>Enhance your wellness with Aeropilates. Discover how easy, low-impact routines can help you feel stronger, more flexible, and energised every day.</desc>
+    <title>Clean &amp; Tidy</title>
+    <desc>Get your spring clean underway with our superb selection of cleaning and storage products. With top brands available at fantastic prices, it's never been easier to tidy up after winter.</desc>
     <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
-    <start>11:00AM</start>
-    <finish>12:00PM</finish>
+    <start>12:00PM</start>
+    <finish>01:00PM</finish>
     <date>16 February 2026</date>
   </channel>
   <channel>
@@ -407,8 +406,8 @@
     <title>Best Of QVC Beauty</title>
     <desc>All the highlights and star products.</desc>
     <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
-    <start>11:00AM</start>
-    <finish>12:00PM</finish>
+    <start>12:00PM</start>
+    <finish>01:00PM</finish>
     <date>16 February 2026</date>
   </channel>
   <channel>
@@ -417,8 +416,8 @@
     <title>Best of QVC Style</title>
     <desc>Catch all the recent highlights from our sister channel with the Best of QVC Style.</desc>
     <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
-    <start>11:00AM</start>
-    <finish>12:00PM</finish>
+    <start>12:00PM</start>
+    <finish>01:00PM</finish>
     <date>16 February 2026</date>
   </channel>
   <channel>
@@ -426,9 +425,9 @@
     <id>RTENewsNow.ie</id>
     <title>Latest News and Weather</title>
     <desc>Latest News and Weather.</desc>
-    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IncrdFQrbkp1VXNPMmplQnF1Z2Jqc0E9PSIsInZhbHVlIjoiVEVyWHk2ajkxSkhJZG1UdEZ6YXB6QXZKUjZ2MmU3a1pDTjFDQlZiY3lUcUFRa2NZMDh1eGJLS1l2WG12Z2ZpQXhuYTV3dWZuUU5xVllkcmlIZ2lWUjQ4OE9hVHdtWDRBVEZycURzcTdNZThDMnI0ZVFjNUE1azJyanFjUWRUZzZmMmZRaVR2Sms5eUNYZGkxQmtjXC96UT09IiwibWFjIjoiODIyMDRiZTg0YzY2ODlmMjBiZTAwOWRmYjJjNjVkMjIyMDI0MjI2NTViNGQ1ODI2YjNhZmNlYWRjNDFjODY4ZCJ9&amp;signature=7ddf89f10d7b85ce55ac519a8e705947854a93fd4bb13fcda7a648af3eb5e26e</image>
-    <start>11:00AM</start>
-    <finish>12:00PM</finish>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IkdOMGtuTFNVRkNNc001RkUweGdoUEE9PSIsInZhbHVlIjoiWTRSUnVCd3p2Sm1zdTV3ZTZXRXF1SFwvRFRjYzVJdU8zNjZMSENtd2lBN2JTNjd0YUFOS2ZLRUY1QVM4bVJQOUU0RWdFcW5hVFRHeENzXC9VNEx5djIzTEpyMElPNlR2a0l2eEpzRG94U3hkdjF4XC9KeFZPcEF5bTRTXC94MmZNTVpCbm91aXF6MTZiNE0rNjdSTXlZenp6Zz09IiwibWFjIjoiY2Q1ODViNWY5MTc4MzdhNWQyNTBmMjdiMzhjMjljNzM1NTA5ODZmMWI2NzM0N2Y4ZjYyMWU5ZjAwYTQ1ZTZiYyJ9&amp;signature=0f83c2bd6898012cfc2e7b2c385e78e9ebf03f9901479dd526e0392cf2d7f369</image>
+    <start>12:00PM</start>
+    <finish>01:00PM</finish>
     <date>16 February 2026</date>
   </channel>
   <channel>
@@ -456,9 +455,9 @@
     <id>Rtp1.pt</id>
     <title>Informa??o N?o Disponibilizada Pelo Canal</title>
     <desc></desc>
-    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IlJVK2pFeHhlVVF4enRSV0IreVA2dGc9PSIsInZhbHVlIjoidnRpS293Ym9vVkpjWmcwdk1URHF5RGpwV2V6dDFvZ0c1c3NpazJTZFd2Wm5kU2xyMFJFdGxsWUg1aFlyTHpHTUQ3ZUpuam1BWTBsd3VaM0ZPOW4wcUZUckt3S3BsdWtxSWlIK3d4QTdCMjJBcngxSHpGb2lITFE4WWtZSjBhdlY1SjVXREdJMkJhNndvd1dxeThyb1dib3hKeHYxMFMxMFU3XC96TG9KVStzU1htZm9uMmh3RXo1Z3dqXC9SV0ljallxaXdHMHRJa1dDWDQyajVBcDJKbG80ZnRyeTdiQzBHeTR6THBxN09TVmlVZ011eXdnT1NYcitlUHZqa0JZd092IiwibWFjIjoiNmRkYjcyZDNhMWVmODg1NmExYjY1OGRjNGJmODI4MmQxMGRiZDE4NTkxOGQ0ZWU0ZGI5YWM0YzJhNmEwODJkYSJ9&amp;signature=faf4907e526c4a078497cc8f815f0bd45ce12261fe614fedd7e54f4dc57f4c2a</image>
-    <start>06:01AM</start>
-    <finish>12:01PM</finish>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6ImRDa3dDRlQrXC8xUFQxNStOdTY4RVZRPT0iLCJ2YWx1ZSI6IjJjNWxRSkZyakFsZ1lqSlNIdXhJVGdocEorNmhZUURKZko1TWdGV0JGWFZTQ0ZaVm9EV2hwVmU2bFYzT05xbUVBbTRlSjZZY0dkXC9FSlU5blp3eEdXMjJsdlltclM2RlZ5N2FLb0ZjeEY2aFF2SHBpeTJseUl0eFNMRE05WnptXC83TGx6Mk5FMEZ4NWJZWVFtK0lHVmdCb0sweFJJSHFlT0o3MmtGRml5WFg4eTIrU295SmFOZ01CMnJJNnBCZHkrTDVXMmtQOGhoNGhmN0NHaWdWaVwva3VaWEo4R3FIZ0Vpb1wvYkM4dlY4NEhSRnJjaDcxMVllcHdnNDdvTjBabWQ3IiwibWFjIjoiNTRiYzc3NWFhNzdmODI0NzM2NDRmOTYwNzAzODJlNmM3NjQyY2ZhMmFkNDZhMmM0ZTQwMTMxNDEzYWZmZjM5ZCJ9&amp;signature=c18515b8e0f90f11e2a017778a0d7cda0a447991acf553cd7effa1239f57ccc9</image>
+    <start>12:01PM</start>
+    <finish>06:01PM</finish>
     <date>16 February 2026</date>
   </channel>
   <channel>
@@ -484,11 +483,11 @@
   <channel>
     <name>Rtp África PT</name>
     <id>RtpAfrica.pt</id>
-    <title>Entre o Mar e a Terra</title>
-    <desc>S?rie sobre o produto portugu?s, que sai da terra e do mar, fruto do labor de gente com saberes ancestrais e populares, mas tamb?m inovadores e cient?ficos. Em cada epis?dio visitamos tr?s produtores que trabalham tr?s produtos distintos de norte a sul do pa?s e ilhas.</desc>
-    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IitzcXdtTWZGR2c3MWZrR21GVEg3aVE9PSIsInZhbHVlIjoidG1ja0dcL1dDTjR4andnSkpDXC9XTEtsXC9nQVwvWWIzNFl3VGN1WUZTMzFvdVNQSG52UktRVHQxYmJMd0xISFBJamdPRG5rMUNrc1F1WUJuVllUXC9zWXVnM08xSXpzbUF1YWVUUDhCbGNlUzNqM1Y0MmJ4TWNkQjlrSHlGWTBcL0ZLVHBnWkJKVVRUc2JoXC9PRWd1Q0hjekd5Y2JxYk8xSjhoeEVcL2lhVkdLZlNjREZhYTJrK3dEMkxuZ3FvQnZuT1NZV3RaTERwdkhcL3RZNmJ5UXk5Qk9IRGJCWnRCRVFtK0RCUkR5Nk9yRzdmVERyNklxNXp5Qkc0U1VoMitPRkNGUENrUSIsIm1hYyI6Ijg3M2Y2MjExODI4NThmZmQ4YzMwOGZjMjZiODVhZGU2ZDMzNmZiODcwZGUxZWJjMjQ0YWI1OWVjM2JjZjQyZTIifQ%3D%3D&amp;signature=2ef6c6f0e3676e6bc9011f11570c49b5df98f092aa6deafcf23f33078ec4ea34</image>
-    <start>11:00AM</start>
-    <finish>11:30AM</finish>
+    <title>Fechado</title>
+    <desc>Como s?o as rotinas de quem est? em priva??o de liberdade? Trabalhar, estudar, participar em projetos, s?o tarefas intercaladas por telefonemas com os minutos contados, que nunca chegam para matar as saudades de casa, da fam?lia, dos mais queridos.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6InM1c1NnVHlwaCtFbHRCdlFpWkFKcGc9PSIsInZhbHVlIjoiajE0eFFkdENcLzZSd3JkWTJBSW5memxIaTlXUWpiQzFpTU9PY3ZFOExPZGlZQnVoTGJMXC9TZWw0MHlWMWFjS0tTSlZNd1NFdDhvXC85UWVrMWRMYitIQmtqNGFBUGtZUXBIZDQrQStaV0F3a1JITW9RMEYzZG1GVHFUOTRtNWtCQUxCMnFQMkVOVFZOYWxLK1wvV1QzaDNJUGFGYTZLTk9jaW90cDcram9DN2p6aVlcL09BdjBJSlhvNDlPQjFPXC9XOGFRVFNMRXhpbG8wQXEwd1F5QnZuaFlhdFJuT0pYVFo3QVJEWGkwME1oVFA4UnZ1ampLcUpRM3FVOTlFVzEzRzVYTCIsIm1hYyI6ImY1ZTA4MjNjYmYzMTk0N2Q3YmExZGMwODJhNmVjYmFlZGQzMzBjNWJlZjMxMmZiOWNkMDNhM2ZhYjk4YmExMDMifQ%3D%3D&amp;signature=a169d395b40550f435910f7d70d325ea490f2c91d30c74b9518b36ff0002ba86</image>
+    <start>11:30AM</start>
+    <finish>12:06PM</finish>
     <date>16 February 2026</date>
   </channel>
   <channel>
@@ -504,11 +503,11 @@
   <channel>
     <name>S4C UK</name>
     <id>S4C.uk</id>
-    <title>Misho</title>
-    <desc>Yn y bennod hon, rydym yn archwilio pryder ynghylch mynd i barti. In this episode, we explore anxiety surrounding attending a party.</desc>
-    <image>https://epg.best/assets/program-icons?program=eyJpdiI6InE3VVJ3a0FMSDZFUE9EQUhpcFlSQmc9PSIsInZhbHVlIjoiZytBVGJYbDFoVDlFYjI0Y0NGNndGZU12VWFQVlwvekEzTlJqU0FDWDhZTVdkZXdtNmh2NldSQWJ5RlFKNFJyZFBzb2JMeVl1TVFrM2FKWnQ2NFwvaDNxWFNMTGpmUUY3MFdDWGdaS1FKalM0T3Zrd2w2T09EMUkyT0R0bTQ5cUlVbm1SUDlkd0hpV213bzU4cE95SWp5V1E9PSIsIm1hYyI6ImZmMjcyZDBiOTZkM2IwODI4OTdkNzVlMjIwOGFiMzU5MDJjNWRmNjNhODA4OTc1OTZlNDg2NmRmN2JhYTdmODkifQ%3D%3D&amp;signature=b04d491c87533b1a343782a05f30167f1707b057e4f8b550c9ce76ecb984e116</image>
-    <start>11:20AM</start>
-    <finish>11:30AM</finish>
+    <title>Newyddion S4C</title>
+    <desc>Newyddion C a'r Tywydd. C News and Weather.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IlRyN0htYk5RQTAxcm1wUHo0TzRnUEE9PSIsInZhbHVlIjoiN3BHNFJGeUIycXB0SnFNVXRyRUF4ek4zUzdLQ3c5RHU1Yk1udHFkVnlPaXEzYkJaamlEM250Qm8rcHF3OVYxXC9aN3RjXC9XMVU2SWpLTWY4TXp5bDBmXC8ySWVCcmZ1T0pJMzkwUWJlV1wvWFk0OHRrRUFJRkpQK3VjM1A1NkZkUjRHN1N1T1laQ2dGOHp3R2l1NGJsdnBGdz09IiwibWFjIjoiZWM1OTU2ZjAyY2VkYzFmMDAwMTJjZjVlMGMyZDU1YmE1ZGIyN2M3ZGM3ZTdiYzgzNTE0YjFlYjBkZTE0Y2E5NyJ9&amp;signature=979d83be47eafee00a5d34d5f4dcd7870272982e267caf4bb334f2b6af08b95d</image>
+    <start>12:00PM</start>
+    <finish>12:05PM</finish>
     <date>16 February 2026</date>
   </channel>
   <channel>
@@ -526,39 +525,39 @@
     <id>SkyNews.uk</id>
     <title>Sky News Today with Gareth Barlow</title>
     <desc>Breaking news, developing stories and live events from Sky News correspondents in the UK and around the world.</desc>
-    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IlpxR3lNODhFXC9DcDA2ZkVyU2NyeFJBPT0iLCJ2YWx1ZSI6IlVrbWtrZThSdzB6dU5XakMyOGNyUjI1eko5UWN2ZENIXC82YllRNjlRSW5BN3ExenQ4K3Ywc2IxUmxTVXBDQkZ0VDdFelhXV3FKV3pXaUJuV1VjS1RLMXprQW9ZcWxEcVFFMDNPak41aFl4MkhSTm5OeGpDc2VZSThJTjJ3U1BWSmZSZ3FRNno3TXdwdXhPVXRvTDlibUE9PSIsIm1hYyI6IjgwZWQyN2QzYjBiMGUxMmIwNTMyMGM1NzczYjMxNjNmMTdjMzA0ZTEyYThkOTU1ZWU5ZTZjNGU2NDZiNGI5YTIifQ%3D%3D&amp;signature=60a8dcee14c191a703ff58d4bb8c473d3080b6534bcbb7ac030c3091dbf3ed7c</image>
-    <start>11:00AM</start>
-    <finish>11:30AM</finish>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6Im9EOFZpaUJxVzlaaVpTc2EyenBHTmc9PSIsInZhbHVlIjoiSEk1Q3h3K0dSZ1ozNTdacTdpVXpvYU5aU0tEd2xkVlJcL09oM2hRZjVFbU9HaDZBMnN1UWlIc09zYW93UGRwWHFUN3RIcVQ5dG9jTGhjb1d4RldaQmxuNFZhMjFYUkFjNkU3WDNSYzdnZHBnMlJkRWVCdnpzcFZhXC9kdGlVSnYwMU1WVFQxM200OHRDY21NZnhqZWtCVnc9PSIsIm1hYyI6IjRlZjRhMDVhNGNlZDA0Mjk2MGFhNzViMmM0ZmUyNjM3OWI2ZGU1YTYyZjE1YzdjYzY0Y2I1ZDA1NmFkMDcxNDgifQ%3D%3D&amp;signature=d6f8449c35a5003833f978fdace83f3e6e93f455d241fa75502224dcd91f3ace</image>
+    <start>12:00PM</start>
+    <finish>12:30PM</finish>
     <date>16 February 2026</date>
   </channel>
   <channel>
     <name>TF 1 FR</name>
     <id>TF1.fr</id>
-    <title>Les 12 coups de midi</title>
-    <desc>Chaque jour, ? midi tapant, quatre candidats s'affrontent pour empocher les 30 000 euros de la cagnotte et d?crocher l'?toile myst?rieuse et ses cadeaux. Seule condition : bien r?pondre aux questions de culture g?n?rale.</desc>
-    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IkhNSlwvS0M4NzNOalk5MVRPZGN1TUlRPT0iLCJ2YWx1ZSI6IlU1OXloK3hjYUdYTWxUcEtlT045cGpGQXdEcDB2VUJxVVJ5cjMwb20yNkFOVFAxbExScDk4cnNWY0JaaFJhcGVyaVZqVHN3NG51UllOVFVQZE9hWm5DQmprZXdaN0dNdmdPc2M1RGYzOXRCQkRuVlU5NXZRekxOVG1kVVl5Sno4IiwibWFjIjoiMzI4ZDRiODFiZmU4NzliYmZlNjE5ZGM2N2ZmZmE0ZTYwMWMzNDYxNmViYTI2NjAxNTc0Y2UyOGRlYmM5YWMxZiJ9&amp;signature=459e24ab0337c51e965b75b8424638bceee1a65cd153ce74ef1feb402f5436d1</image>
-    <start>10:50AM</start>
-    <finish>11:55AM</finish>
+    <title>Live: Le journal de 13h</title>
+    <desc>Le journal t?l?vis? de la r?daction de TF1, diffus? en direct ? 13h.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IldCZzVaRDgxY0pZdWtFcVwvRno0b1hRPT0iLCJ2YWx1ZSI6IjdOeUlwd2xsM1hRM1hzMU5qUFFEeEhVOHlHcFBUTXRZYkJ1NVlSSVY0a3hLMWo2XC92QnVMUmVlZWpSUjJia21JanpZQjFDUzErdExxQUdROHZYN01naHFxWjA3RVI4UzA0VlNZS0lneTBQY09EVHdxd2FKWDMrVGwraHJOWnY2ViIsIm1hYyI6IjQ3ZWRjZmEzMjIyNTBhMzBhZjZkZjQ2ODRhYzlhZjFmMjc3MDMyZTdlYTIzMzRlNzBiN2JkZjYzZTcyNWU1MjMifQ%3D%3D&amp;signature=08847beb8c121e7d8400a0872df07507af12fbc653decee71e9585d3acfbf292</image>
+    <start>12:00PM</start>
+    <finish>12:50PM</finish>
     <date>16 February 2026</date>
   </channel>
   <channel>
     <name>TG4 IE</name>
     <id>TG4.ie</id>
-    <title>Timpeall na T?re</title>
-    <desc>Achoimre ar chuid de mh?rsc?alta na seachtaine mar a craoladh ar Nuacht TG4.</desc>
-    <image>https://epg.best/assets/program-icons?program=eyJpdiI6InRBckplUGRMeDRjdzdtcno2QVJoSGc9PSIsInZhbHVlIjoiT2lRU0ptdmxieUtEb043OURXUzdUOEgwK1BrdmcyMXhKZTJIbnFSV0JsNGlyTWlHM0ZjWHc0U3k5czVxY1dpaEZIMzRiS1ZVUGIrdTNMN0VPcTZTaWtcL3lPY1NLRzZhdGF5S1ZpSFVsMUZqQUpmT3NkdmZUZm02ZGdFMEVCQndpalNCanZRK1FSVmx6RCtEQ2xUWnk2UT09IiwibWFjIjoiMDE4MTQyOTg3ZWQ1YjM3ZjIyZDlkY2IzOTQ3ZjkzMGZjZGM1YTMwNjU1ZDE5NzUyYzJkZTMxOWNiMmU1MzQ2MiJ9&amp;signature=da7d3802a43f10b7bc3da693eab0049c63883c2a1aa9eb7cd6945008a10ccade</image>
-    <start>11:25AM</start>
-    <finish>11:55AM</finish>
+    <title>Abair Amhr?n</title>
+    <desc>Ceili?radh ar amhr?in a bh?odh againn ag ?ir? an?os.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IjF3OFwvbCtWRVROK21PM0xmZEU3Mm1RPT0iLCJ2YWx1ZSI6IkhkejhZdlFzc1dYanphN0s0MFNVNzZcL0wxNXBiMjBiaWo5anR5dkQ4c1lleTNiV0ZNOUhHMTQzVlJnUEZvaGJjWFwvcWIzOE5UYkRqOFRcLys2eFdWc2FZNDFFU2ZYbHRZaDlaQzlRMlB1MUNcLzRqZXpLaTd5dUJqcEtjWFFVSmZ3RXA2TE9MK1ZKQTZHa0xOemc0ZFNLQVE9PSIsIm1hYyI6IjUzYzQzM2ExMzE3MDI1YzUyMmNhY2QzODFhOTBjMDNjNjFlNDYwNWY4NmM2NGU1ZDg1N2E5OGRmOWY4MjRkNWIifQ%3D%3D&amp;signature=09320699728ddd4e8eafe79896a34dc9b05c4e0aee2efa164918640d168858fd</image>
+    <start>11:55AM</start>
+    <finish>12:25PM</finish>
     <date>16 February 2026</date>
   </channel>
   <channel>
     <name>TV 5 Monde F-Be-Ch Fr</name>
     <id>TV5Monde.fr</id>
-    <title>?a commence aujourd'hui</title>
-    <desc>Des hommes et des femmes ?voquent des ?v?nements marquants de leur existence, pour permettre ? d'autres d'avancer dans leur parcours : un rendez-vous positif et optimiste.</desc>
-    <image>https://epg.best/assets/program-icons?program=eyJpdiI6ImdPZEJVNllXTXZ2RUYrbTd5SmkwT0E9PSIsInZhbHVlIjoiOVlDT1pLK2NFWGQydjl6RTA3cmdndDR1SG1rVWFlTDhDcFc3SUlDN0RpTE4xajNnVTFnbWtIM1FOV1wvelBKS1QrVUdYcXdUK1NWYklDdFwvQVNNTXg2S1J2XC9BZktUbmZyNjFqd2dPYlArVnVIb002ZjRBODhoRG50TFBhUHFCOWQiLCJtYWMiOiIzZmM3MjQzZjdiYzkxYTJiYjBkN2VkYjliNzQxYmQ4NGNmNjRhNzZjOWJkNTlkZjFjMTJjNzA4MTc0ZGY2NWM3In0%3D&amp;signature=9e1564ab5654bc7f0dd26317a1d02b772103fa9ee3f0c7f0060793fa683de49d</image>
-    <start>10:47AM</start>
-    <finish>11:48AM</finish>
+    <title>Un si grand soleil</title>
+    <desc>Margot d?couvre la v?rit? sur l'op?ration de police. Quant ? Ulysse, il voit son rendez-vous tourner au cauchemar.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IjRQb3JjXC9rVWFYb0RSb2d4TGtpcW53PT0iLCJ2YWx1ZSI6IlwvUDlUQVFxcHQ0djZkNlR4QjBRSEw3dDA5OUtsUFBrWEFwa1dYcHd2QzVSaENEYm13SHA1MlU1WFJ6c2FteW91SHBEUW5ZTGQ2eUpGaFBoY21hdXN6SlVBK2gydGswcUVJQXR3ajdjZG5Ua0I1TWN1d1A3NzZFVUlib3FWUldxdyIsIm1hYyI6IjU2OWZhNzkzNzdjYzViMTY5YWExNjNkMTU0YThiMjYzZjY1OGUwMTY3MzRjMjFmOTk5OTAyOWJiZmFjMjg3ZDkifQ%3D%3D&amp;signature=d32d3e42243892a747069a9ca05a4fa845d5402520c70c176270ace87178b3a1</image>
+    <start>12:00PM</start>
+    <finish>12:30PM</finish>
     <date>16 February 2026</date>
   </channel>
   <channel>
@@ -574,21 +573,21 @@
   <channel>
     <name>Together TV UK</name>
     <id>TogetherTV.uk</id>
-    <title>Garden Rescue</title>
-    <desc>Flo and Charlie are in Leicester to create a safe garden for visually impaired Luigi and his wife Julie. It needs to be an easy-to-navigate space without any trip hazards.</desc>
-    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IkhrWG9qbGVlcDBcLzRtZlhKQ3Z1UjNnPT0iLCJ2YWx1ZSI6IkNvQmJ3TDlLbEc0OFByWFZSUmZDKzZNTHZTXC8rNHV6R29TVTRmUUpQcFBjY1E2R045NmpyOGxlbStuXC8xYThuY1J5XC9VazllTkt1eGFXWHJGQ2JhaXdpWGlMbHFyUWFsbkFzSU5Eczh5aDZCOEdXSDZ0blFnREljUHhKM0RlbUs1RmhLUExEQkxiMnpwSmVUN2VITFh1UT09IiwibWFjIjoiYWFkYmJjNDE0YzgwNzNkZmVlNTg1YTlmMjkwYzMzMTVkNzI0NWRlOTAzNjQzN2EyNjRiMzFiZGYxYWZkZTRiMCJ9&amp;signature=2400d1b4fb144e681a8a4a024e3359fad1906f6b6c20e62be455e2d583c70704</image>
-    <start>11:00AM</start>
-    <finish>12:00PM</finish>
+    <title>British Gardens in Time</title>
+    <desc>Biddulph Grange takes the visitor on a journey around the world from China to Egypt in a series of gardens connected by tunnels and subterranean passageways.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IjJOdlpTY1BEVHhScGdDUEY2VXlSREE9PSIsInZhbHVlIjoic2RIMVo4UDRaczduXC9tVFNINE1OelwvVWZMODdpNjArRm0zUU5OOW4wRmM0emZhZmlyR3Awdk1rOUZaWFpONTNHQVVGR2tvVUtVcXpwblRZc0ZJWnA3ZVwvVnA5QW94YlNwMGtWdDY4dGJaQnczdGdsNXpYN29NdXBFQis1clVhZXV6T2JcL3dhMFdVUk1xRkd4eUZxcFB3UT09IiwibWFjIjoiY2U3ZmMwOTljYjRkNmJkNzU1MjRkODliM2FjMmIwMDBmNGQwMTNlZjYwNzc4MjIyNjFiOGFmZmFjNTVhYTU5MiJ9&amp;signature=9509a235d4abe683e35c9cc6e63f2991c772a269a822309e8b5eef1a174aa2db</image>
+    <start>12:00PM</start>
+    <finish>01:15PM</finish>
     <date>16 February 2026</date>
   </channel>
   <channel>
     <name>Vosges TV Fr</name>
     <id>ViaVosges.fr</id>
-    <title>UNE SEMAINE DANS LE GRAND EST</title>
+    <title>VOSGES C?TE SUD OUEST - Tourisme - ECO REGIONS</title>
     <desc>Pas de description disponible.</desc>
     <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
-    <start>11:10AM</start>
-    <finish>11:30AM</finish>
+    <start>12:00PM</start>
+    <finish>12:30PM</finish>
     <date>16 February 2026</date>
   </channel>
   <channel>
@@ -607,8 +606,8 @@
     <title>??S ???</title>
     <desc></desc>
     <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
-    <start>11:00AM</start>
-    <finish>12:00PM</finish>
+    <start>12:00PM</start>
+    <finish>12:30PM</finish>
     <date>16 February 2026</date>
   </channel>
 </tv>
