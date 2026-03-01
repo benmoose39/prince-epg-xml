@@ -3,11 +3,11 @@
   <channel>
     <name>3ABN US</name>
     <id>3ABN.us</id>
-    <title>Kids Camp Ready, Set, X-Plore</title>
-    <desc>Exploring God's creation and enjoying it to the fullest; there are so many wonderful things to discover in nature.</desc>
-    <image>https://epg.best/assets/program-icons?program=eyJpdiI6ImlFcmF1ckdkWFpZdm5Uc3hcL1M4eEpBPT0iLCJ2YWx1ZSI6Ikhsd2xLV1dqdFpRZENNXC9UV0VOM1VyRFB2eFU5bXlSbVFZZGFRU01QRUVJdWY3anpMS2lGaFBNNGZicjBxNFZIK3FcL0RCQmc1NlYzeUNzXC9UWloyR2owcEFyYkd1QUh1NkZFUXRtTTFpQUI3eFwvMnpwYVwvTmxiMkxmU3dPOENrQjMiLCJtYWMiOiI3ZDVhYzY5Yzg2MmY3NDhkZGE1YzcyYzc3MDY3NGI0MTg5NDcxZDdkNDdmZDM3MTJmNTQ5NTI5OGRlNDQzZTllIn0%3D&amp;signature=33723e294172bbd7ad97a148d4529f510c8801cd727a46b4674403bc5b5f7cb3</image>
-    <start>01:00PM</start>
-    <finish>01:15PM</finish>
+    <title>3ABN Kids Camp Fit Club</title>
+    <desc></desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IktLN0gwNDNxREpudGZHa094RmdrWGc9PSIsInZhbHVlIjoic1lXeGJWUFdrTVVRZHhVWHZZdXY2ZlFQUHlXT0xPWmRGNnRmMlBheXdpeDh0eXFpM2wrNHpDUmt6ZExhb0l2Z0JhZmd3MmFYQytzZWhEZk4wZWxqM1Ixb2JWalJKUWcwNFRcL0E1amdhSEI0ZGQwQk84SVp3cUtwNVVkcVgyS2JqIiwibWFjIjoiZjMwNzkyNjAzMjFlOTI1ZDc1NmM2MGIyYjkzNzJiZmFmMWE3YzMyNGEwMmE5ZDFlZTFhNTI0MjUxNmM2NGRjMyJ9&amp;signature=d5b10602489b216f8a73b309014c894b4dc4a3f314ad12b04802ee1a00033eee</image>
+    <start>01:45PM</start>
+    <finish>02:00PM</finish>
     <date>01 March 2026</date>
   </channel>
   <channel>
@@ -24,10 +24,10 @@
     <name>AB1 FR</name>
     <id>AB1.fr</id>
     <title>Urgences</title>
-    <desc>Une c?r?monie militaire est organis?e en l'honneur de Michael Gallant. Neela en veut au colonel Gallant qui, selon elle, est ? l'origine du d?part de son mari pour l'Irak. Une stagiaire ambulanci?re, Marie Warner, arrive aux urgences. Peu apr?s son arriv?e, deux prisonniers, dont Steve Curtis, sont amen?s. Les deux hommes se sont battus.</desc>
-    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IkNaeTI0R1dHYlYwdEJXOUg3aUJsSVE9PSIsInZhbHVlIjoiUW00NnR4d2FBbTVpREpzRmxQa1plXC8zXC9sSHJtSm93dklqaVp4eDNlcyt2d2VnZHd0ZE9iWllaRDkzcHlWQ3NYeGhzRU9PRXpDSnNJTFBLMXYraldmdytBaTRGR1prMG9ySWFNZ2htUmt6TT0iLCJtYWMiOiJmMzliNTI3NjU4MDdjYTY0NzNkNDgxMTdhODEyOTIyY2YyZmVhNTZjNWFmYTg2ZThmYjRjYmM5MWYxMGRmZjdlIn0%3D&amp;signature=2955d853d10f34da909d54475330f07fc2eaa185543d125b5441dca6d3ada039</image>
-    <start>12:20PM</start>
-    <finish>01:10PM</finish>
+    <desc>Apr?s le drame, les urgences sont en pleine effervescence : Kerry fait son possible pour remettre le service en ?tat le plus vite possible. En cherchant Abby, partie ? la recherche d'un m?dicament, Morris la retrouve gisant dans une mare de sang.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IjFFcFJxS2NVbnFUdlZyTlJtWURPaXc9PSIsInZhbHVlIjoiMGEyZ3MweHZyYWRhZ1Yxd2g1eUc5cW5DZVBhYlFXMFk2OGpSNzlKUWpFV29yUjhlVjRibjZ0Um5LWDZNRTNsSE9EbDVTQjkrbEhSTTlMTkl0eldWZmg3WVZpVUtOKzRpU3dwSlBzazVrTlU9IiwibWFjIjoiY2FkYjlkOWQ3ZmE1M2E2NGQ3MjI4OTEzZGU4NmFlNTc4ODBiNWZhNTgwMDkxZTFlMGQzY2VhNTc0ZWFlYjEzZiJ9&amp;signature=bda54af50e761a78da5dc3ebf0bbe138945d0843e57013b3d69fcec66b74c976</image>
+    <start>01:10PM</start>
+    <finish>02:00PM</finish>
     <date>01 March 2026</date>
   </channel>
   <channel>
@@ -63,11 +63,11 @@
   <channel>
     <name>ABC Comedy AU</name>
     <id>ABCComedy.au</id>
-    <title>Total Dramarama</title>
-    <desc>After Chef says opposing viewpoints make the world more interesting and fun, Izzy applies it in the worst way possible.</desc>
-    <image>https://epg.best/assets/program-icons?program=eyJpdiI6InNnZFNrQzcrR2dleHJuTWtPQTFBeUE9PSIsInZhbHVlIjoicXRnZk1DaEVJQVplMkdOSzdxcHY1T1dwOXdsT2R1M1NaOWdlUnJwcno3K0JFbTBqdTc5VER4ODlnMFk3ditWZjQ5VXdZZHVJU1pzaXFwZ1pCSGxUMk1Jbzh0VlVhVXFJNE4wRStLRGZ2aHVGdjdrNXBDdjMzXC9vbzc5VkJtM1BQQVltZEt5aW83Q1NHempGSEcxeXhrQT09IiwibWFjIjoiNWExMWMzYjYxODJkZDU1MTBmZmQ0ZDAyY2QxMzUyYzNhOTk3ODFmZWIzMzAyNDdlZmY5NjRkYTA4YTRmNzJlZSJ9&amp;signature=bfe99bfedd2e25d5d661fc8355b675d34cba5d7a67b83cb6caaa15ef55b4e365</image>
+    <title>Rage</title>
+    <desc>Australia's longest running music TV show, rage is home to the biggest vault of music videos from a diverse range of artists, genres and eras. We curate the best clips of all time to surprise and entertain you for hours.</desc>
+    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
     <start>12:58PM</start>
-    <finish>01:08PM</finish>
+    <finish>05:00PM</finish>
     <date>01 March 2026</date>
   </channel>
   <channel>
@@ -83,16 +83,6 @@
   <channel>
     <name>ABC Comedy AU</name>
     <id>ABCComedy.au</id>
-    <title>Total Dramarama</title>
-    <desc>After Chef says opposing viewpoints make the world more interesting and fun, Izzy applies it in the worst way possible.</desc>
-    <image>https://epg.best/assets/program-icons?program=eyJpdiI6InNnZFNrQzcrR2dleHJuTWtPQTFBeUE9PSIsInZhbHVlIjoicXRnZk1DaEVJQVplMkdOSzdxcHY1T1dwOXdsT2R1M1NaOWdlUnJwcno3K0JFbTBqdTc5VER4ODlnMFk3ditWZjQ5VXdZZHVJU1pzaXFwZ1pCSGxUMk1Jbzh0VlVhVXFJNE4wRStLRGZ2aHVGdjdrNXBDdjMzXC9vbzc5VkJtM1BQQVltZEt5aW83Q1NHempGSEcxeXhrQT09IiwibWFjIjoiNWExMWMzYjYxODJkZDU1MTBmZmQ0ZDAyY2QxMzUyYzNhOTk3ODFmZWIzMzAyNDdlZmY5NjRkYTA4YTRmNzJlZSJ9&amp;signature=bfe99bfedd2e25d5d661fc8355b675d34cba5d7a67b83cb6caaa15ef55b4e365</image>
-    <start>12:58PM</start>
-    <finish>01:08PM</finish>
-    <date>01 March 2026</date>
-  </channel>
-  <channel>
-    <name>ABC Comedy AU</name>
-    <id>ABCComedy.au</id>
     <title>Rage</title>
     <desc>Australia's longest running music TV show, rage is home to the biggest vault of music videos from a diverse range of artists, genres and eras. We curate the best clips of all time to surprise and entertain you for hours.</desc>
     <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
@@ -101,73 +91,83 @@
     <date>01 March 2026</date>
   </channel>
   <channel>
+    <name>ABC Comedy AU</name>
+    <id>ABCComedy.au</id>
+    <title>We Baby Bears</title>
+    <desc>The Bears and their new friend, Squatter Otter, take up residence in a mysterious house made of meat.</desc>
+    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
+    <start>01:41PM</start>
+    <finish>01:52PM</finish>
+    <date>01 March 2026</date>
+  </channel>
+  <channel>
     <name>ABC ME AU</name>
     <id>ABCME.au</id>
-    <title>Not Going Out</title>
-    <desc>When their son's toy keyring goes missing, Lee and Lucy blame Anna and Toby's son Jack, who denies the theft. Lee takes it upon himself to retrieve the keyring with truly embarrassing results.</desc>
-    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IlEzSE1sKzNVeFpaUHpKeXkwZFhFNnc9PSIsInZhbHVlIjoid3orKzNpaFFXVGw0anVRZmZaVHEwSGZXRXkySkRObXF3TmRCYmp3WnVWU3ZNSUwyckROOXhWdkxJXC9RYVdQa0dSV2Y2V0xcL2xNQW9Yc2lhR2xOQ2lQWFd4Y3NqM1l4b2tKYVpBUUx2K1pLWGZ2S29EUTdGQVNnVWJGRFRKR0RKWGE5WEtndkZMTm0rT3paTWNTMTF5M2hSN29qRyt4SmFiWnlWZ0hDMlo4REVSUkVDR0xCV05IZXFOdmMzK1p5V0oiLCJtYWMiOiIyMmEyMmY1YWU2Y2I0NDY2MjI2MjVmOGQ2OTQ1Y2FjMmQ1NDJlOTkyZDIyNjk0MzRlN2ZmMjc0YmFlMTYzZmNmIn0%3D&amp;signature=df5c4c77d75d9442eb350773244a3150a39e14bc4c9a9fba78185bcf1b4d06f8</image>
-    <start>12:38PM</start>
-    <finish>01:07PM</finish>
+    <title>rage</title>
+    <desc>Australia's longest-running music show is home to the biggest vault of music videos from a diverse range of artists, genres, and eras. They curate the best clips of all-time to entertain for hours.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6ImhWOXpXZTZvcFNncjU2SE4xNmdwUXc9PSIsInZhbHVlIjoiRmZlSjU4OUFKUERSZ0RhK1NicVU3QTdOcHU0RUVmQTJkNFFKSGgyVUhpeFFOS1F2a08zdmMwT08yc0pWZUtkdklsNzNoUTZiUU1CQXQ5cHRzMDZUMUhGNFpRbUVYUjVtaWVjS1piSThNVVwvMkpcL28zZFZ0MzhSa0syV0dyZlFXem1IN250MWkwQjZRODk1ZTFCc1hyYUNDeFRsT1R4dlhsUDNzVHZFaTllM0ZEenlwMG43RTdKMVplRW1nVkl5ZUMiLCJtYWMiOiJlYzY2ZTU1MDAzZWFmNWMzZjk3ZDkxMzIzMDg1NTM3ZjNiZTliOGUwMmM1NTkwZGIzYThiNmFjMWRmY2ZlMDQ5In0%3D&amp;signature=e85bfcb7e3d1b7174b52aa372946dca26e29451fddea214a6c38a15a0fb0f05a</image>
+    <start>01:07PM</start>
+    <finish>02:09PM</finish>
     <date>01 March 2026</date>
   </channel>
   <channel>
     <name>ABC News 24 AU</name>
     <id>ABCNews24.au</id>
-    <title>ABC News Overnight</title>
-    <desc>The final word on the day's top stories, with the latest news and updated information from Australia's most trusted source of independent news. Presented by Meredith Sheehan.</desc>
-    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IkpoZHdYajhPZW9CdXB0SzI2ajdcL2V3PT0iLCJ2YWx1ZSI6IkZqYUV1K3dmWjVKdEgxclF1TzdpeDRqekN3bVZEelFNMFBta0ZONlwvYVN1T1gwanBvMHhlUFoxYWdjbGl3WXErdFd4OWhpTnUyZVJBeDJNaTRnTWs3Z3U2MGU4RG5KQ2xHTXNsZ3doVEZRSkhwUmFwV2NuVDFWazc0aG5XdW1lZlwvK3o3QmlnYmplUGtiVk1CRlhPdHlnUGR6b1VCK0IyUzU5cDVLNEI5WUZQVjlyTm9HMjJUS3FPY1Vqdlhzak5YIiwibWFjIjoiMzE5MTg4ZGYwNmNjNmE3OGQ4OTA1Y2RjODVjMjVmZjgzZjVkNmE2ZmYzNzNhMTc0ZGI4YTc4OGY4MWQ2YjM2MSJ9&amp;signature=150f93a66e1f4f30246b5bc0502190b91a79452ae07240588cd2084d96576574</image>
-    <start>01:00PM</start>
-    <finish>01:15PM</finish>
+    <title>Landline</title>
+    <desc>Hosted by award-winning journalist Pip Courtney, Landline is Australia's only national agricultural television program covering stories from Australia's rural and regional heartland.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IjBGUXZHTlIxSG0wT1NWaFNXNEpCRlE9PSIsInZhbHVlIjoiR3ZaSDdJZmNJVStqRWhTVmFiVHpoa0lqT05mZHpLNkllY2tzcXRtbUJQSk81UjZwdkhsYjZ3b2E1NGlMc3ViT0JkUEtDUjVBOWhGM1grdXlyUFR5WDkzeGlpVjMzbktXYXNaUys5T0F3YTNPV1Zha2Z0cDk0RHZRMnZKaDV2WkUzOG9kRWwrRGI2MVJVSTNpYUEwYVRGM1VtWGNrRmh1Z2c5SHVEcjFvQ0RldDlHSlRmYUpUUjljZ3U5XC9SWDNNQyIsIm1hYyI6IjcwMjA5MDRjODkzMmY4MGQ2NjkzNjA3MjFhMDk3ZTkwYTI1YzhlYTE2ODFiM2Q4YjgzYTNkZTlmMzgxMWQ5M2YifQ%3D%3D&amp;signature=cdeaf643f3ffd59340b728e08117aef3e5d66209d7ed4b92e28c3577931e29d9</image>
+    <start>01:15PM</start>
+    <finish>02:14PM</finish>
     <date>01 March 2026</date>
   </channel>
   <channel>
     <name>ABP Ananda IN</name>
     <id>ABPAnanda.in</id>
-    <title>Chaak Bhanga 6-TA</title>
-    <desc>The host presents an in-depth analysis of the recent happenings in the political and socio-economic domain of the state of West Bengal.</desc>
-    <image>https://epg.best/assets/program-icons?program=eyJpdiI6Ijh6dURhVm9NVzZTTW1SMjFFVFNLUHc9PSIsInZhbHVlIjoiSWMzdDFUUDVDaElyT242MUQ1ZHdibVhSNTNDcytvcUhDcmcrVUZWeTZpSjRPZ0xRZmFsVDZ6NlRZQWRneEZJdGNQMTY5ZnRvOGF3Y2k3YlIxamtYUkFMOXRyQ095MVhXM3ZCZXFtd3ltN0tFTVwvb2VzY0JVbDBtMlVYc0NtOGFSIiwibWFjIjoiM2MyMWQ3NjdjMGU2NjViNGYzMTBlZTJhNDZhYTk0MDJlZWQ5OTkyOTYxNDIxZTIyZDVmMDNiNGM4MjUxZmMzNSJ9&amp;signature=355ed92bb29d91e728b15154da88a5fcf354c384ada9caab227cde7c280050a2</image>
-    <start>01:00PM</start>
-    <finish>01:30PM</finish>
+    <title>7 Taye Bangla</title>
+    <desc>The host talks about the latest news stories about political, economic, social and cultural topics from all around the region.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IjU5aEZHdkttVUFpc1RvcHZJbm1JalE9PSIsInZhbHVlIjoiVmhuYkNcLzRwTlEySzgrXC9qSTZDdm9YTmlWd2thbTVyd2JLRXhjK3lvbzlGSDl6ZTVUSlU0Sk1CZ1lXOVVVWGxKa3liRGtJQklZTVdoSUJ2SmNoTTZBS1wvdFwvMTRiTmRWXC96dkQzelQ5Q2JhMD0iLCJtYWMiOiI3YmY0NzViYzE2ODU1ZjJiNzQ1NDUxOTYzYzI2ZTUxM2U5ZjZmMTk0MjQ3OWRkMGRkZWRlZTMyYzlhOWNiZjRlIn0%3D&amp;signature=7ebd11faedd994dc3e934c9b2d1e0903899e3f7c18244b4a8049ed60e3d4e845</image>
+    <start>01:30PM</start>
+    <finish>02:00PM</finish>
     <date>01 March 2026</date>
   </channel>
   <channel>
     <name>ABP Asmita IN</name>
     <id>ABPAsmita.in</id>
-    <title>Advertorial</title>
-    <desc>The host introduces new products from major manufacturers and demonstrates their functions, components and usefulness in daily life.</desc>
-    <image>https://epg.best/assets/program-icons?program=eyJpdiI6ImdFRTh1aWtZRzB3TGY0T1pEYU5GQkE9PSIsInZhbHVlIjoielVxblwvRzZpRGhDSk1pc3VTa25QNVdPUzV3ZW1TS1FsK1Q5aTQ5Wno1Vk5wNElUcUVKRTVVM1YyOVBsY0RIaGU3NHZJSzBsTEkzU05cL0d3Z1pMRXROUHRkcWZBRkRSRjhiSjREalZMb1wvYUE9IiwibWFjIjoiNDRlMTcxMmFhODM3OTYwYjJiMjMwZTc1NDI2YTZmYzg1ZjQ0MzA4NDk5NzMyNGI5YmNmMTY1NTZlYjJjNWI5MyJ9&amp;signature=277883337be01d9737790de3c286e6eee7e23d308e0a0b9477ed811004843ae7</image>
-    <start>01:00PM</start>
-    <finish>01:30PM</finish>
+    <title>Aapani Khabar</title>
+    <desc>The host presents all the latest news stories and some of the most important economic and political news updates from around the world.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6InNpaGZqOEVkUEpha2NMTlQyYU05TGc9PSIsInZhbHVlIjoidTRFOE93aGtSYllFYWtQMlYyVFVFYkVJQkZQM0NcL1RlYXNIUzJrNzBHWmZPOElcL0pra1ZjT3VkeXo5dlBKSjNBYlwvWDFxXC9mK2JTazNhcDgzUWJwWkNTU1Y2Nm9odGduOVhcL21NMCtLN1R1UT0iLCJtYWMiOiIyNjg4ZDJiMjgwNDAxYWEzNmYyN2JmMzgyMmYwMTBhOGUwNGExNjZlY2Q1YjE4OWVlNTBiNmQ5ZTcwNGM0MzE1In0%3D&amp;signature=a251a70a2a5acdbfe4904eda2c3b16a5571f65221ca35dbcf5ebea2711e8d457</image>
+    <start>01:30PM</start>
+    <finish>02:00PM</finish>
     <date>01 March 2026</date>
   </channel>
   <channel>
     <name>ABP Majha IN</name>
     <id>ABPMajha.in</id>
-    <title>Chanda te Banda Superfast</title>
-    <desc>The host presents a comprehensive and detailed report, elucidating on the latest news and developments from across the region.</desc>
-    <image>https://epg.best/assets/program-icons?program=eyJpdiI6Im5FV1VGN0tnWCtjandYZis0eFlIMlE9PSIsInZhbHVlIjoiN0hjMVJSMHdoVmNCTVBlRkR1TnNacU1DSlwvUWpXXC94c1d3Snd3UVlQYUpYdVo3MGlsR3NkOFhOcE9NZE1JMUtRYXlwZEFZa3k3VXY3WXZsT01LdEFYNTV1VkNLejJQZ0N0NFUrbEIyNUJINjV4UnNaN3pYcWxlR04zQVo1YmZcL3giLCJtYWMiOiJhMDhiYWU4MmZjNThhNWY2MzkzOGQzYWZlZGFmZWMzOGVkNDFlODI0OTQxMWJjNDNjYjg0MmNmODMzMWMzZDIwIn0%3D&amp;signature=1864e76af3bc3348d20ea9d4663879fbbb56c2506983136823c140453e80bab1</image>
-    <start>12:58PM</start>
-    <finish>01:17PM</finish>
+    <title>Top 25</title>
+    <desc>The host presents the latest headlines about the social, economic and political issues of the day and provides updates on current events.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IlZESGdWbFFNT1ZHWkR4dWhUYlBPZ0E9PSIsInZhbHVlIjoiTkl5bHNJV2N2ajg4NjhySWRCRU9lc0R1YVdhVmVOYnptNXVTNmtlU2dvVDVQS2xRK29JNlZma29YdEhUSHF6S1N3RHhWRGdpZGVpRXB5N0M5YkNmVXBBa29rR3pNYThxejA5NUJQeXl2Wnc9IiwibWFjIjoiZTU3MjlkN2ZkM2M1ZmEyNzA2YTIxYzliZGU3ODQyY2I0NjBkYWZjNjgxOWUzNGFkOTkxOTk2MmVmNDE1YzFjNyJ9&amp;signature=0c289fc34eb0dac0f0d40a1dec3168f7234e1e5a9737059e2df94c5bf7440cb9</image>
+    <start>01:40PM</start>
+    <finish>01:58PM</finish>
     <date>01 March 2026</date>
   </channel>
   <channel>
     <name>ABP News IN</name>
     <id>ABPNews.in</id>
-    <title>ABP Report</title>
-    <desc>Presents the latest news reports and recent developments on significant matters pertaining to current affairs, governance and political issues across the world.</desc>
-    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IklDbURyNkxqaFBvNDBYWmRvRXZkMnc9PSIsInZhbHVlIjoiUHd3d2ZzM1wvVEk2b1Z1aEVzTzBGWU9VdVl6YkRnWnl6S2FQXC9Udk5Dcm5DZTlrMlpQSmtIMDNOQ2NBOFV6clQ5STcxb0NnQ0l3NkxsXC85clNEMTJ1ZERLbnVyUWREam9TeHBGRTBNQjAwZVE9IiwibWFjIjoiZjZiOTUzNDVjNWNhMjJmMWEwN2RiMzQyZDU0MGNmNzA0MWQ1NGQ5Nzc1YWExZWUzY2E0YTNhODMzOThlMTNmMCJ9&amp;signature=678a4ca02578ffc6903c8ccc3daa3242d272c1f9efe079b096eb0505c6aa76a4</image>
-    <start>01:00PM</start>
-    <finish>01:30PM</finish>
+    <title>Seedha Sawaal</title>
+    <desc>Experts from various walks of life debate and share their thoughts on key aspects affecting the nation.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IkJVRE9VMGhJSEdzM3pCQmJXT215OWc9PSIsInZhbHVlIjoiU1ZzcG1oNWpYSFdoV2R1NlhMYnpmY1wvV1RZMDJ0b0tzcWxUQnA0dm4yQ29oOTE1TW54eGo0ZDdoNlVzV1NKMzJZcThQVHZUZ2VQYzJRNWc3RThHZHNPMzNITHVjY3h3VVZRZ3hMMVFQaVVnPSIsIm1hYyI6ImY0YTI0ZDhiZmNhODk3NDI5ZTMxZmNiMDUxODZjYTg0M2UzN2Y5YzAxNTgwYzE5OGUzODVhZjVmNWVlMzIxYzcifQ%3D%3D&amp;signature=9e9f3e5a1b0c4402f63bd30ea91b1e602ce1263b6a125edf0b172cdbf19db471</image>
+    <start>01:30PM</start>
+    <finish>02:00PM</finish>
     <date>01 March 2026</date>
   </channel>
   <channel>
     <name>Aaj Tak IN</name>
     <id>AajTak.in</id>
-    <title>Hallabol</title>
+    <title>Shankhnad</title>
     <desc></desc>
-    <image>https://epg.best/assets/program-icons?program=eyJpdiI6Iis0b09kRTErSXdibURoVjBmSHhhRlE9PSIsInZhbHVlIjoiaEwzV2xPakUwYWMxSXVCRmlsUnllZlp5UTE4bzNPc2xaVHpRdEJvbnN1Vkg0VnpMQ3YrdHRoeWZaVEhGbkVKcjlncXpLM2draUdNY09nTXhxbjNkbVRzaFlUWkNya1c3NmNjWHJyZWluckU9IiwibWFjIjoiNGE0ZDdkOGU0ZjMzZGFkMmE5ZjMxNzU2NTRlYmJjZmFjNGEyYTY1ZjUzYWM5N2Q5NjY5ODliMTY1YTU4N2U1MiJ9&amp;signature=5abaa1f904e818332a70c835be1c6b2a45ef5c769d702939b9308b25ab30b60f</image>
-    <start>01:00PM</start>
-    <finish>01:30PM</finish>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6ImxjeER1MmcrcFJ6a3RsT3hteTFHbHc9PSIsInZhbHVlIjoidFBsY3lZbHNSekR1K3d2VTZJU09FSHV4WjBcL2N3bDNjWVVMVk5RZ2sxRW80QmxYaEQ2a1d3OTJlcE1DOWlKYWh0czFKbEhjYkpnamZ3S1BtbTFIOHlTYmIyZVJ4bFI5a0N4dmxWV0FWZWs4PSIsIm1hYyI6IjY5Mjk5MGJmMWMyOGQxMzY4NmRkNjNmMDNmZjQ4ZTMyMmE2NDVhZDcyZmY2NWI4YmZiZGE3MmQ3M2ExODMxMjgifQ%3D%3D&amp;signature=10c944c4c7a703cc6640ab119dfc1140da4f050b0b5143f08b9a5b75478c7b60</image>
+    <start>01:30PM</start>
+    <finish>02:00PM</finish>
     <date>01 March 2026</date>
   </channel>
   <channel>
@@ -184,20 +184,20 @@
     <name>Adult Swim CA</name>
     <id>AdultSwim.ca</id>
     <title>PSI Cops!</title>
-    <desc>Faith heals all; well, faith and money.</desc>
-    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IlVuT2huSTRianlUNUM1UkxTXC9CcUlnPT0iLCJ2YWx1ZSI6ImRNdVdGY0N1SFpYRnFQcVh4QjFCZ2VJMnlaalZOdkUyRTc2VXN3RFdDRFpEZWpZVHlmeXpMNUV2T1JGdjVzNENWNVR2Nm1oMTRjbktYOStKWHdNREZrVStBTTNQY1pxVTQxY0RTS1ZrUXVpd0wxK0NcLzBXSkpENFFwRVNHMTJjUyIsIm1hYyI6ImJlMmRjNzE2ZmQyOTljYjQ5MTAwZGI3NDQ5YWEwNDBlYTUwOTMxYzNmOGE2OWMzOWYyYmFiYmJhNjAwNjNiMDIifQ%3D%3D&amp;signature=d76ed1f5df2c5d1e8acd513e257f1c105405c816e890191887692d30f9f40008</image>
-    <start>01:00PM</start>
-    <finish>01:15PM</finish>
+    <desc>The only thing scarier than a killer beast is having to admit Eric was right.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6InVUOWIzMitSOVQxMHlERVwveFZvRzJnPT0iLCJ2YWx1ZSI6IlpLd1VzblN3TStzenhCWEJhUUFybnVKZDc5UG9uWkhvVCtBTFwvaTErUldpc2NwVUR0WitSWGZFR0RWaEx3RTBOaEdYSHRDd1lXNUdiOHZVdHBRSE1HOCs1eXA2VklGWXM2RlZTeW1ERzRmWmF5WXNKYlJvNjl4K2lHSjlWVGJCdCIsIm1hYyI6IjAwOTYzMjkwOTllNjUyOWViNDRhNmI2Y2YxZGUxYTRiMzk5ZjRhNjQ4OTc3YjFkNTYxZWNlZDY4MDc0YTcxNTQifQ%3D%3D&amp;signature=c8744cae554357e1cc84603bf6694efb8a973c80c1b7bf4a08ce58be82731a0a</image>
+    <start>01:45PM</start>
+    <finish>02:00PM</finish>
     <date>01 March 2026</date>
   </channel>
   <channel>
     <name>Afro Music Channel PT</name>
     <id>AfroMusicChannel.pt</id>
-    <title>Love</title>
-    <desc>Sempre a derreter cora??es, provocar paix?es e ajudar a resolver discuss?es entre apaixonados: ?+ Love?.</desc>
-    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IlwvTHc1SnJweWlNTHlZSXo2dWtsS1ZBPT0iLCJ2YWx1ZSI6ImQwc09KVlZcL0VVanVTSHY2eGptZzl4Vlc2V1ZLeUZBQW85MG8rd1JQYklFektqeVJySERNMU1CR3M2SEZ4UlhxdEFkSVwvckJyaEtLMEZqa1RyK3lyZ0tcL0t0U2xmQUJcL2Y1cXhrNE9QSDg1b2NYNlwvWGtjdWV0N2NHTkxGemVoNHpoSHMxM1lMXC95ZjhyTUpEMzhzK3VvM2xlYUtlU3llWGRDc2xadnFCXC9vckFcL2pIRjE3Y2dHNXRqcGxWcFR3VytKU0tRbmxSODZBdGVmQ0hIM0FRblpadU5mZ2o0b2xwNWZybVVxTE1kckdmM3JpNU1JcWtWdDg2aTZRUFdvYXRpOSIsIm1hYyI6ImEzZTAxNDhkYzQ2MjBmYmU5NTczYjc1YzAyMDQ0ZTZiNDljZGVjY2UyMzc3YTc1OTYxOTI2NGIyMTNjMjYzNTMifQ%3D%3D&amp;signature=cadd4c286d5e1f79eb18c0a12ced8ee5940953a07cfe04662b20b50df7207d8e</image>
-    <start>12:33PM</start>
-    <finish>01:07PM</finish>
+    <title>100 Pausas</title>
+    <desc>Aqui a m?sica n?o p?ra, e a variedade tamb?m n?o! ?100 Pausas?.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6Ik9OdDM1Y25HM0hkSVJVV0tsZ08wbFE9PSIsInZhbHVlIjoiWFBlcDhCOXdhdkdUeGI3djBnUHNQTkJOdFFFVWIyNXJoeVBPeHBnYmJJblRFWFE0MklRZk1CVEtMWXBoXC9QN0M4c2wrUlZZQnRrZ1BcL25kWENnMmVWcGYxRDRSM2NRRTNOYXlOeWJtWWN2Y0NqSkFtN3ZUS2cwMDhhWDdMeVwvNkxHd3NrQ2NUeWZHNWxCcVdNeVpBbmt5OWpYaFdcL0YxR0ZmMkhtNThKT05PZnZPVFBtK044eEJYV1E2ZmhsNWlZZmdUTDd4OUFCMEtBcmZHZ01TYyt4RW5rZEVYYTlNQkV3bEF1b0w4OXNxaDArQWUwaFBFaEp5R0lwRG5Rb21MdEwiLCJtYWMiOiIzOWFiNzcwYjc2MWEzY2ZhMjg1NDgyOWQ2MTRkM2Y5MzUxZDM4ZmY3NjY4ODdiZWYyOWUxYWY1ZDA2NjE1NjViIn0%3D&amp;signature=ff082aea22e89f56460f30afd025404ad60a6b216a5cee895777e18d94e21350</image>
+    <start>01:40PM</start>
+    <finish>02:23PM</finish>
     <date>01 March 2026</date>
   </channel>
   <channel>
@@ -215,19 +215,19 @@
     <id>AndFlix.in</id>
     <title>Movie</title>
     <desc>Bringing the best in television.</desc>
-    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IlRabGlRRncrUThRR1lvNjVNSkhBa1E9PSIsInZhbHVlIjoiemJwb0FRU05kaEJxaGVKRlFvZHNHemV2TEtISlFCRWp1S3pUS1lpcURHcU1vU1wvb1lGZGxMUDQxdVUxSlZIMnBWb0lZaWVFRnZLK0dZT3pHM3ZLOVBXT21QbGtvcnFcL0R6bUZITStmZzZocz0iLCJtYWMiOiI5YWUwYTk0OGQwZjZhZjEwNjcxZTMxOWM4NDExNjdkYTFiOTI1ZjUyN2FlZmFkMmE4NDU2MzVjZWFkNmViNjhjIn0%3D&amp;signature=2a33ec3bdea33e5595e5070ec2489c4732c6109d6402c9f793c2dc3161d50784</image>
-    <start>11:35AM</start>
-    <finish>01:10PM</finish>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IjBqaEcwd2o5NG5SdmhoMEN6NWhtSWc9PSIsInZhbHVlIjoiV2hBK240YXFcL2owQ3hJelc1aGlZeFlSeDhNRW1YYVB4c05jSDh5Q0ZyNGc4RmpSQStZNndcL0ROK3FvdkxtSnVoN3BPXC9qK1wvYzZJQmJBTTVyM0ZDRHNseGNadDJZdEdVTVBScUFiNjVIZndVPSIsIm1hYyI6IjQ1NjBkMDc2M2FmMTA3NDkxOThiZjA2NWI1ZTJjYzA5OThjNzg3ZDhiZjY4MjIzNDAzYjBlZDU2MGNhNmE1NjEifQ%3D%3D&amp;signature=8b819b5220ff86316840500df438ae9a27a18d39eebeeff5cdd05c6284845d8f</image>
+    <start>01:10PM</start>
+    <finish>03:00PM</finish>
     <date>01 March 2026</date>
   </channel>
   <channel>
     <name>And Prive IN</name>
     <id>AndPrive.in</id>
-    <title>The Balkan Line</title>
-    <desc>During a secret mission in war-torn Kosovo, Shatalov and his team must secure a vital airport while battling militants and racing against time to protect innocent lives.</desc>
-    <image>https://epg.best/assets/program-icons?program=eyJpdiI6Ik9SRkUwZms1Tnd2YjMwUXhYR2lnV3c9PSIsInZhbHVlIjoiZGI1aUxuRUQ0UTREeGM3dWQ2TVl2aWVIdXkzXC9WenVzQXNmSVVuRWM4dGF4Z2l6VHVkdW1pZmlqSkloMWdRN2NLRDJJVFdaNFpkNUhsUlBWcHZsb3ZPZ2NHWkFiTXJzSzJMbzJFa0ZuNlRLUzVOZkQyU0tOYVJ1dWE0dUxVTW9PIiwibWFjIjoiMjE3ZTUxN2ZiNWY2ZTkzYTk5ZWE0MjE5N2Q5YTZkOWZkMzBhMTYxOTMxNGRhMTkwOTAyMWVjNWY0Yzk5NTQzNCJ9&amp;signature=ec179fb5ddc618bc0c449bcd65c1cd010c5bf5556f04c26f194c354353482097</image>
-    <start>11:40AM</start>
-    <finish>01:40PM</finish>
+    <title>Pel?: Birth of a Legend</title>
+    <desc>Pel? struggles to support his family through odd jobs, enduring the hardships of poverty. Yet, through his commitment to perfecting his football prowess, he rises to become an iconic legend.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IkFRQXV6Q21DcG11OTlRY01oWWYrblE9PSIsInZhbHVlIjoiYzRtNXlFZllmMmxITTJKcVRmM093NndnUXRMdVwvd3dWZGQ3ZEZXbHVYVjZiSEc2Qkl6Y1hwTGcxMXJETTdMTXFhaVBaSGJ6dVJmOXNXZlBGbzZwWVBiTWZJcStCS3hRYjdUQyttT2VjenZHQ3ZkNGZJMVVVMktuMnRvRVQ5S3NBIiwibWFjIjoiMWY5ZDE4YjZiNTM2NzM1YjIxMGMyZDliZDkyNTExMGY3ZjdkNTEzNTc5MTYzODE3Yjg5MmJmYzViMDk1ZjVhMSJ9&amp;signature=77cebe6334de56f230b58838756873a94d5ae098e2a81d446758282cc95088d4</image>
+    <start>01:40PM</start>
+    <finish>03:30PM</finish>
     <date>01 March 2026</date>
   </channel>
   <channel>
@@ -243,11 +243,11 @@
   <channel>
     <name>Arirang World KR</name>
     <id>ArirangWorld.kr</id>
-    <title>WITH SCIENCE, WE LIVE</title>
-    <desc>Humanity has learned from the past, transcended the present, and dreamed of the future.\&quot;With Science, We Live\&quot;explores the frontiers of science alongside some of the world?s leading thinkers, offering insights into what lies ahead and uncovering new possibilities.In an era of rapid change, where are we headed?As we navigate between the vast universe and the smallness of human existence, we reconsider the direction we must take.Now, in this very moment, we imagine the future shaped by our choices?and move forward toward it.</desc>
-    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IjlhR0oyUVQyMHV3KzdkTllESGc2a1E9PSIsInZhbHVlIjoiU21SakRWaUVuTFVLVDVCZ25BMGUxM0Z2NXFKdnhDOTVYWjErcUtrekcxZEo0NUwydlhjY2pXUGFLNUt1eTFqTk1WcnA2c01zRWFRSHp3a1U5Z0NaYXlpdWp6XC9iVHQ3ZWtaTVBhdzQyN21QaHFrVVNGTzRLV1Rub3YrVm13SHBTMUtpZFIybG1DckVSWDRqQ1hTUmxRUGVWZ2hHU0lGcnhlcWN6RHFnXC9NTDhLVkFGWmpkVnZLMWJOMWZOMDg0K2UiLCJtYWMiOiJlZDI1Yzc0OGE3YTQxYzkzMzJlODJhZGUyNWFjODc3MWIzYTIzMTlhY2JmZGM5MjdiYjNmYWFmZmZhOTJkYzNmIn0%3D&amp;signature=31f3122aae1bbb84a76cee14b465b80e6217ca87172eb747ff73be7f975d3f65</image>
-    <start>01:00PM</start>
-    <finish>01:30PM</finish>
+    <title>DIPLOMAT'S ARCHIVE: HIDDEN STORIES</title>
+    <desc>As of April 2025, S. Korea has established  diplomatic relations with a total of 194 countries. Among them are countries that have had ties and  exchanges with Korea for hundreds of years. With such long-standing relationships with so many nations, might there be fascinating hidden stories between  Korea and the rest of the world that we don?t know yet?  \&quot;Diplomat?s Archives: Hidden Stories\&quot; begins with this very question. Together with foreign embassies in Korea,  the series uncovers and sheds light on meaningful  yet lesser-known stories between Korea and other countries.  Through this, we aim to reaffirm the deep friendships that  have been built over time, highlight how countries  are interconnected?bilaterally and multilaterally? and emphasize the importance of  cooperation on the global stage today.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IjZGckpzRGFNeUNZeEtLUXdKOThsWEE9PSIsInZhbHVlIjoiYmtTRnhPTDhUV1JNVzh6UzdyUlhpYmM2ZENhbk5zalp6U0RCV2IwZWxwTGF6OHJYNEpHRE9qTW0wUFA1NVpqR3BReEZDNGdCNElEWkNmM2ZEM3R2alRsT2xLNTRaRVFMcThkZ3lvbXBwQU5cL0h5NllKVHZRcjJGMkp3MHJvQnhscFRyeTd3UnBpV0prSmFzZTlhWCsrMVFuS1JLWTU4UUFpMVh3cG1HQU5uT0F4MWduR29nd29JMDBIMnZZKzVYNSIsIm1hYyI6IjNhN2Q3NGUwNjJlMmU3NjI5NzdiMjc1YTU0Njc4ZjFiNDRiMzIyODc0MGNiYTBkMjdkZjhmMDVkMjViZjhiYTMifQ%3D%3D&amp;signature=536c125ded3c706074de1a40aedd643ef4f31dca59c0980f64e7f688f8119a11</image>
+    <start>01:30PM</start>
+    <finish>02:00PM</finish>
     <date>01 March 2026</date>
   </channel>
   <channel>
@@ -273,11 +273,11 @@
   <channel>
     <name>Assemblee Nationale CA</name>
     <id>AssembleeNationale.ca</id>
-    <title>Assembl?e nationale</title>
-    <desc>Diffusion de divers contenus selon l'activit? parlementaire.</desc>
-    <image>https://epg.best/assets/program-icons?program=eyJpdiI6ImdSZnlaN0R3NGJaN0pzdUdvQ25zeUE9PSIsInZhbHVlIjoiMThpakRhcERkTnh2SStzNE1naGF2OXBTS0tyb2ViUHBtcVNxck4wY3RSMVl3NXF1elwvQllOT3hHS3p1MVdGb1FmRExqUjIydENGV09aME0wOVBQRFNpV2I2VUt2enN6SERhQ2NnRGxyOHBZPSIsIm1hYyI6IjA5ODE1OWQwMGJlNTk0ZmVjZWFkZDgzOTFkOTY1NWRkZTJjYjk4N2YwYTFhNjExYzNlYWFiOTY3NGY4MGJhYjgifQ%3D%3D&amp;signature=735f97206a61124c75180f1e65068ad5c25f87b4343e0e790dbcd2028b187736</image>
-    <start>09:00AM</start>
-    <finish>01:30PM</finish>
+    <title>M?moires</title>
+    <desc>Entrevue avec Diane Lemieux, d?put?e de Bourget (1998-2007).</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6ImpGT2NDbVdRYUFIZ1crK3d5SDk0QVE9PSIsInZhbHVlIjoiaE5kaG55SXpuSGljM1pXMnUzY01ubjlHelZFb01icEJTMXRvNmJSbmF5eXkraXhVb29hNDM4NGx1RGE5SDdKWGNcL1wvdXh3bDNCa3d0UW9Ld3B1QThnbkhtRmJBM2lpalBEaVFaQm81VTdORHlrU0VXSkRsUmFTVVlRcVY1U2xiWiIsIm1hYyI6IjYyYmZkMGVkNjNmMTBmZjA3MWFjMTczNmM2Njg4MWUzNWE3NjQ5NDkxNzQ2NWExODgwMjBhMmEwNTBjNjc1YzQifQ%3D%3D&amp;signature=6798954f3bc99ad6dbe07d7570921c6fa74b1ce12914b81d369518f7eb40a3b0</image>
+    <start>01:30PM</start>
+    <finish>02:00PM</finish>
     <date>01 March 2026</date>
   </channel>
   <channel>
@@ -303,52 +303,52 @@
   <channel>
     <name>BBC News UK</name>
     <id>BBCNews.uk</id>
-    <title>BBC News</title>
-    <desc>The latest news from the BBC.</desc>
-    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IkdaYW1ldTByQWtGMUdJTTBOVVNpTHc9PSIsInZhbHVlIjoiTlBXMGRRUTVraDkwdmUzM2RCWEQzaFZhOFk1MUlzMGVTbEFnN3VVU0NCWEVLY0xMeFpnUlc1WU9FbGg0V21mVnhxZ3U0WGpERm1rclJoc0l2UWNRNHArUGFtU25lTUN1XC94enh4UmZpRzFBNjd2aDBXNGNaUmp3MDNRT1dCMWhhclgrdWlucWtEc2tQZTN3bDZTRkg1QT09IiwibWFjIjoiNzZhNTMxNTY1YmI1MDU1ZTNjN2QyOGE2NzczODg0Mjc5OWY2NTMyYTA4YjM2M2UyMjVjNDZlODVlMGQwZDhiMSJ9&amp;signature=ecf52f9e3dab5cd247c4121bc72c78231f34d0029ac3ac812ae887a4a710ee1a</image>
-    <start>01:00PM</start>
-    <finish>01:30PM</finish>
+    <title>Tech Now</title>
+    <desc>Nick Kwek meets the innovators using tech to improve seed, grains and crops for Australia's huge agricultural industry. Also, more consumer tech highlights from CES in Las Vegas.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IlwvVDJZMExaQjgrWE9aWXFTRHdaQWJnPT0iLCJ2YWx1ZSI6IkR6WnlNOHdVQzZpMFIxZHBCbFIzaFJKekowVkpxZ2VxeStRVEVtc2NmNUNDanlRa2pycHdiWG9pMkttRWEzd3p2SU11aFVjWEE4cFpkSHN6MXRNVzE4MGY5RzhNeGpkdzErUFwvWGpzRUhKSHVsdkgyNnRRMGpvRW9TTG0rSjRBcXA0ZHhtSWVuc3EwNkZOWVhUUE02WWc9PSIsIm1hYyI6IjlhMTM5NGQxMTc0ZTQ3MDM0NDAzZjhmNWYwOTk4NmFhYjc1NGIxODdmMjJiZjdjMzVmZDA5NTY0NThhMzAzMGQifQ%3D%3D&amp;signature=54577e30de467c30f9a8bcef70894c1b5a95f6b0c6b8b14900a9ddc1c5a597d8</image>
+    <start>01:30PM</start>
+    <finish>02:00PM</finish>
     <date>01 March 2026</date>
   </channel>
   <channel>
     <name>BBC One NL</name>
     <id>BBCOne.nl</id>
-    <title>BBC Weekend News</title>
-    <desc>The latest national and international news from the BBC.</desc>
-    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IkNmR2hVQW1mYXhoTmZpZlllTVwva2NRPT0iLCJ2YWx1ZSI6IktLYktMaUdpU1JXZlhIdjVzNHZEUVd2c1hlZ21iTzFmNmlsQkJiY2UxRlZuZnZvSXp3Mk9WejFnUG1td0IramJkb1h5MlNENnNnSGorampQRGVBNlViOEh1UERTXC91WEdCcUk2eDhNR1JHV3FkeFUxSFBIZmE3ZVJYelBnYWRZOGl0SjdyMjdcL2RucEFtanMydDdcLzJicVdSYkxCakNhbmJvejJ0M2N5N0FDaTBDNW02eW14SGJnXC9vVStienhhZzIiLCJtYWMiOiJjNmViOTIwYjBlM2EzZjQzOWE4MmUwOGIzNjU3OGRmMDdmNTA3OGVlYWE4MjU1ZmVlZjJlMTkzYTg1NTlhN2ZmIn0%3D&amp;signature=c64eceb4dd1fe3a92e52e5a4899a47ccf7cedc9b10b4285b19015adce87f0031</image>
-    <start>01:00PM</start>
-    <finish>01:10PM</finish>
+    <title>Lifeline</title>
+    <desc>Nina Wadia presents an appeal on behalf of Breakthrough T1D, a charity funding vital research to help cure, treat and prevent type 1 diabetes, while also supporting those living with the condition.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6Ik9oaXZxYldlY3YrWm9kZEsxcWFUVXc9PSIsInZhbHVlIjoidzhybG8rc3ZaOFwvQzkzZXhsTkRjRW5wd0xEOFFqa0Rrd2FlbUtnVTZaZGR4TTEya05wd2NaS09WZ29VVDJnN2h2TUU0MTZXMmxsNjUrUkw5SzVUZGJncW1IaTJSdGRLN2FPT1plRkYzbFdGMU16b3lsYjI3T29ETTIxU0lKQmczc1U5RlIyVGpMNW5NUmwwYUU1Nzh6K0hLZ29WeTRHSWpwb2pjXC85a3paSFpnaXdSQXZKemF3Qk91TTRkSHR4RHkiLCJtYWMiOiI4ODVmOTMwNWUwMGMyNDhmY2VlZmNjYTNhMWVhZDhlNTQ5YzE0ZTQxNTMxMjk5NGYzYTA4ODliNWRhNmIyM2I3In0%3D&amp;signature=bbff46876e3feb154db71af42484ca1bbd02443af710a4410284b9538fe8ebec</image>
+    <start>01:50PM</start>
+    <finish>02:00PM</finish>
     <date>01 March 2026</date>
   </channel>
   <channel>
     <name>BBC Parliament UK</name>
     <id>BBCParliament.uk</id>
-    <title>Scottish Parliament</title>
-    <desc>Coverage of a statement in the Scottish Parliament.
+    <title>House of Commons</title>
+    <desc>Coverage of a statement in the House of Commons.
  (R).</desc>
-    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
-    <start>12:50PM</start>
-    <finish>01:35PM</finish>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IlVuZUhMXC9oZWFIQW9mTTM4M25ic053PT0iLCJ2YWx1ZSI6ImU4QXVtNlFsUXczckFPb1luVDhkNmxlM2FRSlRqcFMwcG9NQ05BNDRyWWRFdEJTMU5DRDhLWkVNVWR2WFBWNnNsV25EQ21DZklYelVaQU1MRUwrRVdXc21WWjFrTlFVNWYyTCtsU3A3YjNaSVI1aUl2MUFNSGZzZmdUMUdsMUJ1IiwibWFjIjoiM2Q5MzZjZjQyYmUxMjM1M2VhMTNjN2Q5NmE3MzA2YmViNWE2NGVjZGI5ODA1MmE4MDYxNTViNjgyMDdhMjQ1MCJ9&amp;signature=2e98081cb99d130e4d9454573c79534b2267998a3f3d90289890e9683a763c48</image>
+    <start>01:35PM</start>
+    <finish>02:20PM</finish>
     <date>01 March 2026</date>
   </channel>
   <channel>
     <name>BBC Two NL</name>
     <id>BBCTwo.nl</id>
-    <title>The Lady Vanishes</title>
-    <desc>A young couple investigate the mysterious disappearance of an old lady on a train from Switzerland to England and unwittingly become involved in a spy plot. The train staff insist that the woman never existed: is it possible that everyone on the train is part of a conspiracy?</desc>
-    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IkRXK1U1ZFFMMnA3TzFFQjV1b20yNEE9PSIsInZhbHVlIjoiWGpFWkxVZmtORmlwSWVFaDB2NW9Jd0ZOem16cjNaNFpkc1oyWkdlc0F4eXNzRmIrQitNVnd5d3hiZ1IwQ3ZQa3JNQ2llUDlCSjIxWE5wWVNDVDJXemRPMHVtUmdqbldTUVhvRkVwZFNrQVpaV2NETjNvb3hrWmRvc2NcL3RJQVUwbm1SRm1YRDVLV3kxN1pDZHBDeU1JeEVoQjNwblV3SzVEanYweEVyZHBtRjNHWXF4NlwvbVwvUDU4VTBjeHRqQ3JEIiwibWFjIjoiMWZiZjdlNWJiZjkzMTI3YmNhZTc3ZTRmMThjMGFmNmU2YWVhZjkwZTIwNTViYmYzYzU4YWMwZjBlOTY2ZmUxMSJ9&amp;signature=d06a09d448c518658bd3b6564995de84435c4dfbfeb25e171a5ef049724104cc</image>
-    <start>12:10PM</start>
-    <finish>01:40PM</finish>
+    <title>OFF Air</title>
+    <desc>This channel is off air, or it has temporarily no EPG data yet.</desc>
+    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
+    <start>01:40PM</start>
+    <finish>02:40PM</finish>
     <date>01 March 2026</date>
   </channel>
   <channel>
     <name>Band Sports BR</name>
     <id>BandSports.br</id>
-    <title>Al Fayha x Al Nassr</title>
+    <title>Vila Bandsports</title>
     <desc></desc>
-    <image>https://epg.best/assets/program-icons?program=eyJpdiI6Ikd5VlM3WW9GN1Z4MVBsR2w4cUJqb3c9PSIsInZhbHVlIjoibEpvejVKWmpEcXp0VTAyZXBDclBJWUNaS3NOYndcL0x1YjdRdU1peGNCNWFmY0FLaHNreGh4RUlyM0hGaG43YXJjY1VFcTF5eGYyaExmVG4zSTVZYnpcL2J2c3FXbEsrMGh5V2xGaUxaNng2TlwvUUVoczMzcnp0VHJTb0p3dEN3dGRrdDN2c0o4WXZEajRqUHpnZjFhbXZ3PT0iLCJtYWMiOiJlNmY1MTE4OWU2ZjgyYzc3YmU2NzNlZGMyZjVkZTQyNjg4NGRkYjk2MTk5Zjg4YWJiNGU0NDI5NzU5ODFkMGI4In0%3D&amp;signature=95802d785051c2733f574a3a9911b9ad84023eb6fc70e3382cf07a4345e74e30</image>
-    <start>11:45AM</start>
-    <finish>01:45PM</finish>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IjZWa2gyN3UyVmpOT25XbERJKzQycFE9PSIsInZhbHVlIjoiYlwvaTVtQ3NRRmFveXQ5QnQ0dGlkQjQ5dEtIZFZWWjBkZTJ2VUVvMWpNUjZPbGYyc2xWNE9HRmV6am5NWHRWWXYrMDNsN0FJOWhGaHlcL0hOZUFzZnByTE1VV3BhV1BxaTlUQU5FSm5tZ0d6aGUxK0FWZzc5U3hEc0I3QWN1SlFTK1gzZk9DVXcwRWZ5N0tmOXBRXC9OYmFBPT0iLCJtYWMiOiJiOWQwZGNjZTU4MjdiYTA1NzMwYWRlNjZmNDViZWM3OTU3NmJiNWIwYWQ1YzI5ZmUxM2I0MzEzNjA1NGEzZDkxIn0%3D&amp;signature=1edfe5a10e133ac14cd763587c4fc6a18ec5effed512941600cb19656acb75ef</image>
+    <start>01:45PM</start>
+    <finish>02:00PM</finish>
     <date>01 March 2026</date>
   </channel>
   <channel>
@@ -364,81 +364,81 @@
   <channel>
     <name>Bloomberg TV US</name>
     <id>BloombergTV.us</id>
-    <title>Bloomberg Chief Future Officer</title>
-    <desc>Experts explore how Chief Financial Officers play a critical role in shaping corporate strategy and positioning organizations to meet challenges.</desc>
-    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IjZhS0lEckNDUzBWdzErcmVRMGk5SFE9PSIsInZhbHVlIjoiOVMrZWsxcjlGaTlQWis2VHJEWVwvSGNQRnNqK01Vd01XM29aOElId2RrcThTdDE0WkhmZCtNXC9TcGMyZ01PVW5BcUFiaFhvTlc3aVV3Z1FtdW9cL3ZsYnpyZUE5YWc4NExpYmZRNUs2WERsSmRuODdrUVBYdlpcL296QVFDTSs1VExIIiwibWFjIjoiYTYzZWVhMDFiMDAzMDQzNmY2YzBiNjM2YzY5ZDRlYmNmZDUzN2VjZjdhMjgyN2MwMDE3MTk5YTQyZjcxNDI1MyJ9&amp;signature=d26e76cb2f635ec44bc558488a036a5259ea21dcc03a5951f4118683fb536cca</image>
-    <start>01:00PM</start>
-    <finish>01:30PM</finish>
+    <title>Leaders with Lacqua</title>
+    <desc>Francine Lacqua interviews some of the most influential people on the planet.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IkE4dXhDcEd2WlZoWDR1SDVIczF2b2c9PSIsInZhbHVlIjoiU0toTU9TTmpqeXE0Vzg4RkM4dVlhU2RTZ2ZHS2ZNZU1OVUJRbG9xVVN3MHFsdEgwXC9xVEtYYW5nT2hPTEZveXBnTDd5RElvOThHNm5jelpOUDM3dEJVOXp4Q3VZVXgxTGIrdm12d2JQVDJ6MlBkRCtRNVZpMlAwMFdaR2R2ZlBIIiwibWFjIjoiYThkMWIxNTViYTFkMjcxNjQ2YjZkZWUzYTJkNzY0ZGJhMzM1NDIxN2RkMTkxMzc2OTYwMjFkYjhjNzYwNmEyYiJ9&amp;signature=1fec4a8cfc7ab581e6e2af11633c0fe9f3ceb9a132150333cc6d66a886419e7c</image>
+    <start>01:30PM</start>
+    <finish>02:00PM</finish>
     <date>01 March 2026</date>
   </channel>
   <channel>
     <name>CBBC UK</name>
     <id>CBBC.uk</id>
-    <title>Odd Squad</title>
-    <desc>The Odd Squad investigate strange events. Olive and Otto interrogate two suspects to figure out which one is innocent and which one is guilty.</desc>
-    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IkZwY25qeVV1MGtZS1ZJbWRsUDVNc2c9PSIsInZhbHVlIjoiWUsxNCsreFJOUWF3S3oweTErcUZqdFVvVXRSSzlVT1E0aUtPT05wcXlIVkNmQndwQlJJamwxSTNGM09FR0VxTW1iNXhlOGJkZ2ZSMGVPcHJ1Rjhmb2U1Z0N5dnlHdVo0TFhVN3J3Z3JEblVzekNjenJrVzZ1emxxdGdVU0phdGUiLCJtYWMiOiJhZDlmNjkwMzZiZGQ4ZmFhZTJkNDUwNjViOTA5MWUyZThjNGY3ZTUzNDNkZjE4M2NjYjUyZDUwYzI2NmVhMGZlIn0%3D&amp;signature=e27a27c60b471d6b5077bfeb1faddb8e458ab44742692b3a7c827528423ee5d0</image>
-    <start>12:50PM</start>
-    <finish>01:05PM</finish>
+    <title>Gangnam Project: A K-pop Story</title>
+    <desc>Insecure about her inability to rap, Hannah does anything she can to show she can keep up with the other trainees.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6Im9zbXltdGZRRmpGZUE5V1BQeGptVUE9PSIsInZhbHVlIjoiSFZnUXl0OHo1YW1udTRvQ25HeHlkNllpMkt1WjZzYmxoM3ZiOWFieFpSYXNUVFc5aVwvSWJheTFta2FudXYwV0UzOEhnbVA0N1NOekpENFo4OENTQXNnTUdsT003MVozcm9tTUNzXC94aVVzMWJTRzRlYk5hWHZEYkFBUUlWSG9UUiIsIm1hYyI6ImYyNjUzNWNlN2FjMDUwYzJmNGU4NWI0NjU0NWQ2YTYzZDYyYTc2NmQyNDBjZmEzYzFiNDNlYWVkMTI2ZmY3OGMifQ%3D%3D&amp;signature=7724dd9945dd21b28a0079851adb6320e2b589d5af452aa105d01da04c5c1e51</image>
+    <start>01:40PM</start>
+    <finish>02:05PM</finish>
     <date>01 March 2026</date>
   </channel>
   <channel>
     <name>CBC Toronto CA</name>
     <id>CBC.ca</id>
     <title>Coronation Street</title>
-    <desc>Sam grows suspicious of Will and Megan's relationship, and Jodie receives a warning.</desc>
-    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IlNcL2JWNGZtc3gxbkRtWjNoMEhZcDZnPT0iLCJ2YWx1ZSI6InoyYkpsNnI1MytwRDIrN09CcCtlSjVOVGlJeVZzSDQ3SldjdmhYT21MQzFxOHdhcGgzaHBDNThncG9Hb1wvSGtVdVBRZFA3SlEzeFZNMVhqZXAwRjlKXC9HMytTcTFPNURPWkpxZjdhODNWUHBwZFpkUzlLK1NudjRoVU1GZG9TaGc1NkFXXC9GRVhRcUJ4aEdNeit4RjZENGJBTGpBcEFBVlNESkNNMmlxSk9cL3hFTWJLMndlRU1XbTBFYmdNXC9CdHVrIiwibWFjIjoiM2I4ZmNkZTEzODczODdlMTgzZWVlNTJiMzQ0MDY3MjczZDJmM2EzY2JhMGNmMTUwYmU2MjYyMWZlOWM2MzMyNiJ9&amp;signature=80d0602fd9233b06823c18735fc20caebe3a6e6dce9ec43f98d20a44596c378f</image>
-    <start>12:57PM</start>
-    <finish>01:30PM</finish>
+    <desc>Ronnie and Debbie giddily anticipate their nuptials, while Kevin has a surprise in store.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IndHa2p4cFZBOFVNS0FcL3dxUEdUMGZRPT0iLCJ2YWx1ZSI6IkJGNnlVeWRybUhrWFlrbXFDc2MxYU9RakZnd2l0RXFBUm50TzU4UmdkTHo4ZGpMdkJvc3JOOGtGRjdhdkhZRGpXQTVIVGxPbEE3YVdOOHZONUZrSWJRMHNGQTc1NTlSU3pPT1BJOG5BanR3YzlxSU9GZjhRMXF6VzE2S0RFSk41MU4wSzBLcmJuNVJRbVpaRUZKdlNoRWVtVWNndzErampUODRycTN6amh4dmFLKzBmQzhGc3FlRlpxZ0I1aVNwTCIsIm1hYyI6ImI0NGU5NTQ0ZmY2YmIwMjYzOGVhMGE4NTAxNzZlOWU2MDRiNjAzZTQxY2NiY2VmYWQ5YTJkZTZmNTRmMzgyMDIifQ%3D%3D&amp;signature=4bca4ffb3cea8f224c9abd50332505d56ad6b3f0ed39304a4bc55cc7b6e1449e</image>
+    <start>01:30PM</start>
+    <finish>02:00PM</finish>
     <date>01 March 2026</date>
   </channel>
   <channel>
     <name>CBC News CA</name>
     <id>CBCNews.ca</id>
-    <title>Live: CBC Newsroom With Marianne Dimain</title>
+    <title>CBC Newsroom With Marianne Dimain</title>
     <desc>Live from Toronto, Marianne Dimain brings Canadians the latest breaking news and live coverage from across Canada and around the world.</desc>
-    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IkY2VDJudGZrTkEzTzk2VjhtWkhVdXc9PSIsInZhbHVlIjoiWjh2OERcL0pDajJBdTZaR2pON1Q4XC9DTkphY3gyTXNSN1c0THNOMzlDTnA5TW5VNUJBMTZKM1lrRXJyTzJMYXA0a0pmN2RUbER5cmNzUHNxd0Nra3Z0cmFUbDFUbm0wQnViK2o0XC9peUVBbWc9IiwibWFjIjoiOTA5ZmQ3ZTI1ODAzZDM5MjIyOTZlMzU1YmQ3MTI0Nzg5ZmU1OTYwYTE3YTZkYTk4ZjRiNWIzNzhmMDFiYzNkZSJ9&amp;signature=eee6328e905b55629960e977b96954f3e7b721deb11ea601e7630ab75ce0d6ce</image>
-    <start>01:00PM</start>
-    <finish>01:30PM</finish>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IkFaZ1Nkczc3elFpMFwvZWpFaGdpWit3PT0iLCJ2YWx1ZSI6InRcL3Vqc2dlREZzMjR3NzQyeEhoMTc5RFYzQUdIVUVTbDZYZE9Xb1wvVzdcL1FFN2pLeE5kdDY2bGtnNmJhYXl0RzE3c2NSZDBRWm1zSklkYUN1cmVLdmcrZm1YWG5NNkZudVZ6aG82N3diNEswPSIsIm1hYyI6ImQ3ZmJjNDIzOTE3ZTUzY2YyNTQ2ZWUzNDc2Y2I3ZmMzZWFkZDFhMjZhNGQwZGU5ZmQ2NDRlMGMwY2JjZTRlOTEifQ%3D%3D&amp;signature=af30898f01e3bda8619c71ddf6bc87fcc617155e8f5e6053b9d1bb926504983f</image>
+    <start>01:30PM</start>
+    <finish>02:00PM</finish>
     <date>01 March 2026</date>
   </channel>
   <channel>
     <name>CBC Ottawa CA</name>
     <id>CBCOttawa.ca</id>
     <title>Coronation Street</title>
-    <desc>Sam grows suspicious of Will and Megan's relationship, and Jodie receives a warning.</desc>
-    <image>https://epg.best/assets/program-icons?program=eyJpdiI6Im52RjMyYWlEZnNpemFVK3hDRVBrTlE9PSIsInZhbHVlIjoiZ3R6TjlncGZKa2pqOERLWVQ0SDQxWG5iNWM1eTJQZ25aWGU2N1lBblNYS3V4cjJEVlp6UlZ2V1Via3VIMkdhd05QTFdxM2w5RE4wcjBkQXloeEpOS3p3Y1A3UkFDcHZzd3ZFaWNwV3pVajA9IiwibWFjIjoiMjViODFkZGEyNGNmODg2NmUzNDkxMWI3ZDExNjYyOGNlOTM2N2Y4YjA0NWRkNTg2NzdkYjIyZmQyNDQ4ZmMyMiJ9&amp;signature=cefa97efbd124f07c72b04cf7ab625e6c6e6210522161931aed65d704bfac173</image>
-    <start>12:57PM</start>
-    <finish>01:30PM</finish>
+    <desc>Ronnie and Debbie giddily anticipate their nuptials, while Kevin has a surprise in store.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IjJKak9hNEh0a0ZHK2V3b2xMV21BNEE9PSIsInZhbHVlIjoiN2VOUXF0NVwvcjFiUzdpOW1tcnN3aDNsY0pBZzgxWGFyWk9USEhNYnNEY1UxRHJhNDRRcDJIUEFkQ0RjVXh6MkxJMDdLS1lFbW43Z005UjRRWERUTlBDUTI5a2JLcXQyMUlnV0VlcnBhaXk4PSIsIm1hYyI6ImE0NGU1ZjkzNThjNmFiMzM2ZmIyZTA1NzAzOTViNDdhYWIzMGFmZGU0NDllMmYyMmQyMmM1ZTMxMTU0N2JkNjQifQ%3D%3D&amp;signature=79ba771e97f5debd5133c81d4f7fd3dabec6cb457ceef45df5128119d145b5eb</image>
+    <start>01:30PM</start>
+    <finish>02:00PM</finish>
     <date>01 March 2026</date>
   </channel>
   <channel>
     <name>CBC Vancouver CA</name>
     <id>CBUT.ca</id>
-    <title>Dragons' Den</title>
-    <desc>Two Quebec City entrepreneurs impress the dragons with a memorable entrance; a Montreal business owner brings a franchisee to share the floor; four Toronto business partners hope the dragons go with the flow of their pitch.</desc>
-    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IlhZbm1HaFZpWjBZWEF4Q0k5U3pLb1E9PSIsInZhbHVlIjoiZWJRcXpHNWJscktTcGxFc1NuVVdSYVVneXdwakt5XC9tRURCMUd0VlpTODllUXZ0MEl1WVZTUGxzSU9JdWNqajFkeklpZGdOYlA5XC9xNlJPYVpMb2FDcXF1ZVBuNkl0VXpzVTZyZ2lMXC85SlpGc3ltd0JLXC9yaW5xYzBZTnFKcTN4RldsMHJUTFpkSmRmWGhwbkp6dGVrYVN2aFZnYjFqNmFITHlzdDhDQXExYVdTMk5NZTRzOVdHVGQ1OUE5XC9QUkIiLCJtYWMiOiJiYWQxYTI5NjA2MTZkZTM3NmZmMDM5MWMwNmU1OTlhODA0OWJhNDQ3NTk2OGNlZGM5NzY1NDNiN2U5YTExZDA5In0%3D&amp;signature=4566a9b6dd0a5691a2bea6d4f06c55672b12d50ccb9bce6049980ce9afb951bc</image>
-    <start>12:30PM</start>
-    <finish>01:30PM</finish>
+    <title>The New Wave of Standup</title>
+    <desc>Canada's new comics gather for one hilarious night of standup at the Just For Laughs Vancouver festival, featuring Myles Anderson, Tamara Shevon, Rachel Manson.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6InBcL3plNHJqY3RhUk1waitHXC9wbVZpUT09IiwidmFsdWUiOiJoSUE4elFNVkRHdzVhRGJrb0xaRW50Y1RvN0xJSXdqUEFhZ3oyYkZhRTVuYzhCdkdnZE9Yc3dXbXlYcGxITGhEWmxDK2Y3QVArd3dWMUs1Z3gyYzl4Nm1SSWxxTlNVUzNCZWRKVmtIMjh5UDlcL24wempEblFBbVwveXdDQnY0a2pFdjFwUmYxR3hWSGpyYWdWVzU4RlhUNTNydTJXTktsMWYxcTN6OEpvd0krcUdLd3JoK1RhKzZWWExVRFhralBzQyIsIm1hYyI6ImY4MmM0YmE2MjZjNmVjMjcyZjUwOTg2YzAxMDRhMjNlY2M4NmQ5ZWQ5ZDcyNTNiOGY2MDE5ZmYwNTcwMzc0YzYifQ%3D%3D&amp;signature=27b2f1b851674df4b77300696d2db421f5dffcf0ba28fa656d4e3949c6ae01a4</image>
+    <start>01:30PM</start>
+    <finish>02:00PM</finish>
     <date>01 March 2026</date>
   </channel>
   <channel>
     <name>CBeebies UK</name>
     <id>CBeebies.uk</id>
-    <title>Hey Duggee</title>
-    <desc>The Rocking Horse Badge. Animated preschool series. Duggee is tidying when he comes across his old rocking horse, Bucky. The Squirrels help mend Bucky and in return get to ride him.</desc>
-    <image>https://epg.best/assets/program-icons?program=eyJpdiI6Im5GendNczVKREw2RUpHRklFWFdkMHc9PSIsInZhbHVlIjoibUJhUk5WTUFINk1IaHptY2RiK0s3S0xRWDF0bVI2Nm5tY1ZXVEhjVkVwZXlOS1VVRWlaSXBNUTc2MGtOdzVBNDRsbGsxXC9lUmZ6dm4wQ2VIbWxGckxBRmdlbnd0c0Nza25VZU9SOGV0cGh6TnFsNWtlMUtUcFNtd3RRcVJGa01lTWhpdDI1SEVmSTcyK21YQTVqTGhTUT09IiwibWFjIjoiZjYxMjU3MWMyZTQwZjM1MjUwNDJmMWY1YTMwMTY4ZjdiYmEyYjFhNWI0Mzk4Nzg1NDBhZjgyNTY1NjRjOWMwNiJ9&amp;signature=0649aaa17da91360af312f63e3147ddf78b648d008bb35ce6c06f1c5f08a7a44</image>
-    <start>12:50PM</start>
-    <finish>01:05PM</finish>
+    <title>Yukee</title>
+    <desc>Chrysalis Creche. TapTap becomes very protective when strange eggs appear in the branches of her tree, so everyone helps to keep the garden nice and quiet.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6InpuaWpXRVdHRXlBd0RLblYxNW95UlE9PSIsInZhbHVlIjoibk84aTVpbFBzTlZsQWlzM2tSN2t2Z0JMMTludytOdkVQNnE2UTRxQStcL29ZajJwa3NsRXpRN3ViXC9QNkVhaFlKcXRsd1VlN0VrU3VYb3Y3U3ZUMms5SUFLN3FPaHVrdEFnM1wvQVVDbU5md3lVemdQWHdMYnBaUTNsVjFQYXREM1h0d3Rhd3VybVpmRFwvVU85NXMzdmJOUT09IiwibWFjIjoiNDhlZGIzM2QxNmUyY2EwOTE2NTc2MjY4MTZmMTE2MDE2NDA4ZmI0NGE2MjkxNmZhNjQxZjFlZTRlMTZkMTJjZCJ9&amp;signature=608a4c90301a32d1a76d15420ae54af01e99a4b4644892bca11287c3b7e153d1</image>
+    <start>01:45PM</start>
+    <finish>01:55PM</finish>
     <date>01 March 2026</date>
   </channel>
   <channel>
     <name>CBC Yellowknife CA</name>
     <id>CFYK.ca</id>
-    <title>Gary's Magic Fort</title>
-    <desc>When Stuffy gets a brand new toy, Gary becomes dissatisfied with all of his toys; after breaking the wall of wonder asking for too many toys, Gary learns to love the toys he already has.</desc>
-    <image>https://epg.best/assets/program-icons?program=eyJpdiI6ImdxalNoRHd4MTAxZTVsWVwvQ29SN21RPT0iLCJ2YWx1ZSI6IjBQbG1xekhHUFwvNGpTNjNYMDVXb04yUFlEeU5ENGdUbWNWeFFkOXhwd0dKRHFCYmNPZDh0MGUrbFF2Rzl0djN5cGptNVdwbjM4cWZpbE56SW9PUmNaMVh6YVorNmtiNURZa3Z6RW9DdkVrQ0dRbTV6eGd4V0pqSHNXYVVQSHAzYSIsIm1hYyI6IjUyZTM3YmQ5NWI4ZDE1ZTM1ZjM5OTU3NjEwOGY5NzI1MTEwZGJkMTdiYWUyYmNlZTQ0ZjZlYTY3M2VhYmYyOGYifQ%3D%3D&amp;signature=78c463eeade9831a5d01333486c2fd9fd6437b9ca06f13386124d55ba2084c2f</image>
-    <start>01:00PM</start>
-    <finish>01:12PM</finish>
+    <title>Scout &amp; the Gumboot Kids</title>
+    <desc>The Gumboot Kids try to solve the mystery of a prickly vegetable in the desert.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IlVreXdYcVdjRGFISE1jTkFBVGJzOFE9PSIsInZhbHVlIjoiSEEra1llamFkTk1aME05dW9sZFRNcnFROU9Kc0pWWTAreVk5ZTZVQWVkTGRocXVHVk5iR0dFc2ROUnhZTE5TaTM2UjVHMXhPMDI0d0E0czJpaDNuZHRqT3Q4Y1pIUUV0clhsc0hGRXcxc2s9IiwibWFjIjoiMTI3ODA2YjkxMmUwZTc4ZGIxMGNlYWRjNTQ5YjQ4MzVkOGE3MjNmY2I0YjNiYzZhZWI3MDIwNzM3MGQyZGFhMSJ9&amp;signature=1d38c88f9c1f18427d20caffc7260d8c413194e27cdc86be0cd9a822e4cd131e</image>
+    <start>01:46PM</start>
+    <finish>01:52PM</finish>
     <date>01 March 2026</date>
   </channel>
   <channel>
@@ -454,11 +454,11 @@
   <channel>
     <name>CGTN French CN</name>
     <id>CGTNFrench.cn</id>
-    <title>Documentaire</title>
+    <title>Magistral!</title>
     <desc></desc>
     <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
-    <start>12:30PM</start>
-    <finish>01:15PM</finish>
+    <start>01:15PM</start>
+    <finish>02:00PM</finish>
     <date>01 March 2026</date>
   </channel>
   <channel>
@@ -466,9 +466,9 @@
     <id>CMCTV.us</id>
     <title>Paid Programming</title>
     <desc>Paid programming.</desc>
-    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IjViT3VzN2lXQUk5UGxZUmh6a0dieUE9PSIsInZhbHVlIjoiMzZ1bE1yVldzNGUyZ2xTWGY0czQzdm1kK1UrZFF3RXJsWk1DVThKNzc1TFwvVkxHYUF0c1Joc0s0bUZ5VVwvOUR2Y0Y5Z0ZcLzlMaWtuejhOazN3N1wvMEZsazRTcmNsNXBxYXpNK0pCUWJQUFNKOFhjUkJ3SUd4SnJiSnF2bXMrZTJIIiwibWFjIjoiMTQ1YzNkMTRlYWZhNjNmMTNiZGY3Njg4YTdhNzU2NTQ4ZDIyODZjNjgxZWUzMWI2YzZmOTZkMTBkZmNiZmZmYyJ9&amp;signature=8833363a53afa2ddc4e0f16d0bf7b4e51acf34159bcbb83f824d7a77b3fd2870</image>
-    <start>01:00PM</start>
-    <finish>01:30PM</finish>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6ImEyVW1BRGYzUDYyZ2tOOURoN0JiWGc9PSIsInZhbHVlIjoiOHY1RnFtVHpyNWtmUlBzaHhlXC9IbjdsS2R3eFBEZFlTNklPQ01VdzZzcGlNS3ZBQ0xZcEhTVEN3dldIU0g1T2M0bXYrY2dWNDA0Y3d4bzRBeUpxMUhtYStvb1JxdE9WNzFINXJvQ0I3SVdiUDBUQVBzcFRlXC9lWjVYU1JkeTA2ZiIsIm1hYyI6IjY2ODIzZWFkY2U5YTNkYTNjZWI0YzA0MGMyYmNiNzJiZTg2OGE2OTIwOGUwYzY5YjYxODk2YzFhODU2ZTg1NWYifQ%3D%3D&amp;signature=99aeff356c9f33f2fccf5f2845ffeb21d251eed13dd47c4ae8e98e52366045c2</image>
+    <start>01:30PM</start>
+    <finish>02:00PM</finish>
     <date>01 March 2026</date>
   </channel>
   <channel>
@@ -484,11 +484,11 @@
   <channel>
     <name>CPAC Francais CA</name>
     <id>CPAC.ca</id>
-    <title>Politique provinciale</title>
-    <desc>Questions et r?ponses orales de l'Assembl?e nationale du Qu?bec.</desc>
-    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IlFHb3hYanRLZ2crcWlFTHNEbk5saUE9PSIsInZhbHVlIjoiT0tPc0d4OThcL0E1RkRPS2hIQThLOVNKV05tRlYycDdqK1VMandlTkw5WlRjejBlUGpyTUVQQWsydlJkR0F5ZGkzelZSbGU2OGJRSGR0eUlnaXhsN2lYMHB2WWtyR1VlYkpXQ2xMb01DVm84PSIsIm1hYyI6IjBkYWM0MzFkZmJmM2JlZWFkMWY4MGE0ODIwMzI0N2IzNzgyYzEyY2Q3NjAzNWI4YjUzNzIxZWQ1YzQwMWZhYjgifQ%3D%3D&amp;signature=bcbacc499680d96aa88635336abc833f587bd0d0f4d7f9547a97662ed7707b63</image>
-    <start>12:40PM</start>
-    <finish>01:30PM</finish>
+    <title>Les comit?s de la Chambre des communes</title>
+    <desc>Sous-comit? des droits internationaux de la personne : reconnaissance des champions des droits internationaux de la personne.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6InA0amhrOG5wU0NpY0VIXC84SXR4S09RPT0iLCJ2YWx1ZSI6InBuWDB2Qko5VjB5VTd0M09CN3czTEhcL2N3NmwzT2p4dlBtZFlaUHJ5Nkd0cDJPQkhvV1YzTnduU2twZEw0Mm4waFkzeUl4STFsWjRkdENKOGxtRzhaSmZINnZNUTZYZGlIS0hGQXNcL0VHXC82OUlJRm90b0V4QktTWXY5REFHaVM1IiwibWFjIjoiMzk4MTg1ODNjNWFiMTY4Zjk1Y2VlOTIzNGMxNThlZWQ2NTJlMDMyNzUzMGJhMzVkNDQxODJiNGU1ZWM3NTIzMCJ9&amp;signature=fce1adad03c3d331a45c01aefa21ca5b57b31675f48e16c0dd7e73c251330764</image>
+    <start>01:30PM</start>
+    <finish>03:00PM</finish>
     <date>01 March 2026</date>
   </channel>
   <channel>
@@ -534,11 +534,11 @@
   <channel>
     <name>Classica DE</name>
     <id>Classica.de</id>
-    <title>Beethoven ? 3. Sinfonie in Es-Dur: op. 55</title>
-    <desc>Maestro Herbert Blomstedt gibt sein Deb?t mit dem Lucerne Festival Orchestra und interpretiert Ludwig van Beethovens gefeierte Symphonie Nr. 3 in Es-Dur, Op. 55, &quot;Eroica&quot; in diesem beim Lucerne Festival 2020. Nur einen Monat vor diesem Auftritt feierte der schwedische Dirigent seinen 93. Geburtstag ? was man ihm aber kaum ansieht, da er stets Vitalit?t und Neugier ausstrahlt. Dieser Auftritt wurde im August 2020 im Kultur- und Kongresszentrum im schweizerischen Luzern (KKL) aufgezeichnet.</desc>
-    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IjhrQ0M4NTM5d2Vna3NsbzhBZHBiamc9PSIsInZhbHVlIjoiSmVldnJvWklKZjJvc3hEbzJ2d2kxb2ZiTlFyUjdnWHNTTitYODJzbDROVHhNXC9ESEVDQmdCTWdNNG91Uk5EWWl4UVFMK1wvXC9Iekg5QWVhc3RMV3Q5RElPamc3S0t0U1l0XC9aczRoQnFDcmxPMUplVEV6YU5QbER2QllCWTVhMW83akI2czVvTnVtd3hwb2xFZHd5V05BZz09IiwibWFjIjoiNjI1MzA2MmFmNzU5YWQ1YzQzYWZjZWVkOGUxYjA4MDk4Y2QyYjBmY2FjMzZkOTE0YjJkNWI2NzNmZGIwNjFkOSJ9&amp;signature=5185eccdd859d93c37b6e836aac9d02b944c673216f2fabeee032052356dcd5b</image>
-    <start>12:21PM</start>
-    <finish>01:17PM</finish>
+    <title>Classica Spotlight</title>
+    <desc>Cinematic classical clips and energizing concert pieces featuring up-and-coming artists.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6ImJ5OVYxOUR5UHBiRE5hd3hpUXZzUkE9PSIsInZhbHVlIjoiT2pRR2ljNWQ2YytvSDFhbnZIQTFoM2JMSlRDVzdZd08wRng2SnNLMEJTTldTaTFzNW5pdkhOanJRUHdoQzk1OGhsVG9pOWY0OTA3dFlyV2ZNZVY0ZVJTWlloaDdwais5U0IwSkFEUHA5RWNWY05JUjVJWkx2Unl4NTJ0N3kxXC9ORGhFUXBwdXFZd01vZU1ZYzFsKzJtQT09IiwibWFjIjoiZWQwODY3YmExZDkwMWMyMzY4MjI1YzFiNjRhOGIwOWI3ZWIzYTdhODI4OGI3OTYwZGY0YTA4NTJjYzgyYWQ0NyJ9&amp;signature=613c0399cee44e943af2bb54aa5d4f05136dd699dd5a16ed2524d33bc0871f7d</image>
+    <start>01:49PM</start>
+    <finish>02:03PM</finish>
     <date>01 March 2026</date>
   </channel>
   <channel>
@@ -554,31 +554,31 @@
   <channel>
     <name>Comet US</name>
     <id>Comet.us</id>
-    <title>Paid Programming</title>
-    <desc>Paid programming.</desc>
-    <image>https://epg.best/assets/program-icons?program=eyJpdiI6Im1UXC9FNTNEeEZRWnQwRk9nWmhTclwvdz09IiwidmFsdWUiOiJBNVlqN2ljTGt5YUVkWjNwTG03Rldrcmw5cmRkcWtvV2tPMG1TNlJWVkJKeHZKaEdHcFJuNFJmRTdtendBYXgxZlU5NXRJVkRCNEpoVmN0OHM4ZmtlMzF0ZExud3NXczlZUXZubVgybFNuazlZd1lmaERpVXFhYlp2TFNGNkI4YyIsIm1hYyI6ImNiNTFkZWZlMzNjMDZkNWJmZDYyOGMyM2M2MDA1NDJlYmExMGE0Y2MxYTZjZDdjMWVjNmM3ZGQ1MGJmYjc5ZTcifQ%3D%3D&amp;signature=c04faaae90bc201f22cb4a81b1b8c296dc76562265d1dd60bd3ad97119b5bc15</image>
-    <start>01:00PM</start>
-    <finish>01:30PM</finish>
+    <title>Amazing Facts With Doug Batchelor</title>
+    <desc>While we cannot know the day or hour of Christ's return, we can know it's close by the signs given in the Bible; God's word not only tells us approximately when Jesus will return, it also tells us how.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6InFPRk0xNXMzdXViNXRCN1lNOFJmNUE9PSIsInZhbHVlIjoiREczcW56bXplZ1ZZaDltRitqamxqdkV6ZExiREM1Mjc2ZlF2U0lDdzlUMG5GbEVWN0Z6Z2VGeXFQc0dUa1BSQkNHZnJUalpFMzV3Nng0ZUlIcmdxaG90aldhdCtOWUdUMVwvVmJmZVNjU1pvZUUrYVhkMVlBTXI2V08xSGxNb0NFIiwibWFjIjoiYjNlYjAzNWNhZWZmOTE0NWUxNjlkMzU1ZDk0OWEyMDNlZDllOTM2MmE5OTk0MDQxNTgxYWI2ZDZkZmE4ZDQ1YyJ9&amp;signature=d5b1ffbaffb5df6f9da050df06696653f659c164b07fa7adaa4ffbcff3ba402c</image>
+    <start>01:30PM</start>
+    <finish>02:00PM</finish>
     <date>01 March 2026</date>
   </channel>
   <channel>
     <name>Cooking Channel US</name>
     <id>CookingChannel.us</id>
     <title>Brunch at Bobby's</title>
-    <desc>Apricot-yogurt parfait with California granola; orange scented bombolini with pastry cream and chocolate dipping sauce; hang town fry omelette.</desc>
-    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IkNWM0VXR09OeklIQndCZlwvTG1HVzJnPT0iLCJ2YWx1ZSI6IkZDOWNPdkVUZ3NySkdtbHZQdUJGcG9hbWE2K29XQlEwb2dubGw3OTFXYlUrWk5PdU1XRmYzQkNwN0ZOMWdESmUwVVloTFRxdEtndFl0VGZNbXFTcEp1SzdwUzF3c1FxTWNncnErb1Z3dGdtMXp5S0VQQ1lCRGNadVpOaDJMU1RLIiwibWFjIjoiNGU0ZDE5N2UyMWZlNTdlNTdjMmJjZjY3MjcyNWQyZDcyNzkzNTkxOGY4ZjZkM2MxMWRlZmMwNzM0MGI4MTAyMSJ9&amp;signature=7db92faf3190f3ab18d616486f2dc7b8222071c51389b20503a3996a749dc4aa</image>
-    <start>01:00PM</start>
-    <finish>01:30PM</finish>
+    <desc>Calabrian scrambled eggs with jalapeno pesto bruschetta; buckwheat crepes with ham, gruyere and caramelized onions; mini pumpkin churros with a silky smooth chocolate-espresso dipping sauce.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IlN0bjBQMWpRZU1jWStqVnkycEwrWHc9PSIsInZhbHVlIjoidnBEdnZYenRkMDJwN1lCNGRDc0xJQmxoY2cwQnlcL1NzZ1ZWb2VOdXNqRjdhcmtSM2h5SlNpM0d5Y2NnbmNvNUhDR3VjSjBqMkRZVVd5dWY0a2VOclQxZUV4Y1A3aWhGV1wvRXNlSE5UN1FWbmZ5ZGRqSmZEdDRxeTNJTE9cL3F6S0siLCJtYWMiOiJlZDlkMzE0ZjI3MDc3YzM1NDc2MmU3MjYyZjlhZDQ3YzUxMzBkOTNiYzVjNzAwNmE2NjkxNjQzZjM0NDUzM2Y1In0%3D&amp;signature=8508c4322c0d4fb86ec3ad442018d96f9782e506bedef49fbc0b796bd44bc6c5</image>
+    <start>01:30PM</start>
+    <finish>02:00PM</finish>
     <date>01 March 2026</date>
   </channel>
   <channel>
     <name>DD News IN</name>
     <id>DDNews.in</id>
-    <title>Samachar</title>
-    <desc>Presents recent news, updates and developments from across the world.</desc>
-    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IjdEd2xcL1RPMzhcL0Jia1p6ZXRhSE9CUT09IiwidmFsdWUiOiJOR3FmU2lNOEw1NDB0NEExM0F3eUlUU3M2cTVtXC9LM3dWWmZiV1hScGVkeTV2aVV3SlBjV1Q1cHpKSEU5eXgrejVmNnFxcGJJcWEzdlZLUXRkU0kzdVU2ak16THhhUzZtYmVoczV3SmRhMEE9IiwibWFjIjoiOTA3OTVhMjIzOTM4MWQ4Y2VhYzQ4ZWE4NzJhZDk5OGQ2MjZjZWVkYjdmY2QwNTY1MWFmYjNmNmI4ZWI1MzNlYiJ9&amp;signature=9d74599203ba33f91bd6c52ec92ef1100e01f56b5bc056276952c10cc6ee806f</image>
-    <start>01:00PM</start>
-    <finish>01:30PM</finish>
+    <title>Samachar / Aapda Ka Samna</title>
+    <desc></desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6Im00OUtXUzhES0RLdlV1OEZZaDZSTEE9PSIsInZhbHVlIjoieTBLNW43S01iaUFVRktQeVAwRmd6eklKNWJxK1VXRDJEYU5sa0hcL0l1aHpHNEhLYlNcL1IrN0lqYWlmdWpYU2VyaXkxb1RkNHBZNE5LMUlVcHQ4RU8yZ2xvemFtRlNZV0xqVkxCb3k1ZkF2UT0iLCJtYWMiOiJmYjE3YWE2MzE3ZjcxZDYzZjZkODljYzVjZjBhNTVmNDk1ZTk5M2E1Y2YwYTg5ZTk2OTM1ODQxNTYxMmQ1NmY2In0%3D&amp;signature=b52070c944510d6bf983d4d426485eb69f524c1fa9ba3f31ac9fb0fc69ec878b</image>
+    <start>01:30PM</start>
+    <finish>02:00PM</finish>
     <date>01 March 2026</date>
   </channel>
   <channel>
@@ -594,11 +594,11 @@
   <channel>
     <name>EBS KR</name>
     <id>EBS.kr</id>
-    <title>?????? ???</title>
-    <desc>??????? ??? ?? ?? ?????? ???, ???? ??????? ?? ? ?? ???? ???? ?????? ??? ????. ????? ??, ????? ????? ????? ? ??? ?? ?? ?? ???? ??????? ??? ?? ???? ????? ?? ??? ???? ?? ??? ?? ????? ?? ???? ??? ????.[(96057)] </desc>
+    <title>??</title>
+    <desc></desc>
     <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
-    <start>12:10PM</start>
-    <finish>01:05PM</finish>
+    <start>01:05PM</start>
+    <finish>02:00PM</finish>
     <date>01 March 2026</date>
   </channel>
   <channel>
@@ -614,11 +614,11 @@
   <channel>
     <name>EuroNews UK</name>
     <id>EuroNews.uk</id>
-    <title>5 Minutes</title>
+    <title>News</title>
     <desc>The leading news stories of the moment.</desc>
-    <image>https://epg.best/assets/program-icons?program=eyJpdiI6ImtsMk1sK1dDclhKK2VCcEpuaVZmZVE9PSIsInZhbHVlIjoidmRlN3pWZFQ0U2hNUUt5bDhSbEhSTnlkZERkS0dRTUh2b0RjRUxTXC9hT1F6VVhpMGwrY3JGVU1Rb1wvK2ZNcGhTaFk5M0Q4cWZWU2E2UXcwTURoWWZEXC9ldkVUMXBQY2V6d3BCSU1QbFJScWtGSTZyd1JhOUVcL0M4aHI1SEpONW45ZHJWQ2w0RnhKbVdZK3pKTkFtMzNvdz09IiwibWFjIjoiYjhjNTg3Y2E5NzQxMWMwNjlmMDA1ZGFlNzAxM2QwMTkyZWNjZjk0ZjE4YWEzNTA3ZGUyNzllNWQ4NGYxMDE0NCJ9&amp;signature=1f337a1624e3b927f696c2f4ae8f816c2c2b433cbe9c8f3ddb9d58e1c7e2d4c7</image>
-    <start>01:00PM</start>
-    <finish>01:05PM</finish>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IlJVY2hXb1pia3Z4VkRHT0pSZkFrckE9PSIsInZhbHVlIjoiYU9KV1RDaHNrTERJVDlVc2toNW8yMVgydTN2cTY2MXkzRGtOU1FSY3JJRmhkZFoxTW9DNFNWUmg4WEZ2b0xPZjFvbmJSMENuRFhKK3BNcTlqZXRyN0JcL3lXdCtpQXo1WEdybElsTVZKS3hMbE1TTEtGalhDZ3czWnRyeStcL1dESWpBQWNyNUhTXC9EWThYT2QySzFyT3Z3PT0iLCJtYWMiOiJlZTVjNDczOWRkNjhlODgwZGIwZmUxYTI2NjY5YTQ0OGFhN2EzOWU1ODc3NDkzMmYzODlhOTRlMzA2MDM2NTAyIn0%3D&amp;signature=900019108059bbbd07b0c75ec90fe5e0b289ca836832eaf4acc9184c5e27e69e</image>
+    <start>01:48PM</start>
+    <finish>02:00PM</finish>
     <date>01 March 2026</date>
   </channel>
   <channel>
@@ -636,29 +636,29 @@
     <id>FoxSportsNews.au</id>
     <title>FOX SPORTS News</title>
     <desc>The latest highlights, reaction and analysis of the biggest sport stories from Australia and around the world.</desc>
-    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IkhVcnBaRWp3VG94ZE1zRVFXWUdiRFE9PSIsInZhbHVlIjoiSngxeHhYS1NoWEpiSllyd1VoNEUrc1VDQ3lhZHI0UXRxU25mRkdiMXY1Nk5TZEwyNytWc2VNZDh6VDlRWjhkNzJVeUxDKzdWT0tpcUh6T2ZDZVhjdzJcL1NaeTRPV1dZN3Y5VW83N05aeHkrNElyT3U1TUc5QmRyZGdDRXZpSzNVd0lyYktRSkNaTFBzQVNaTGRFYmU0MGFRbnB2bmlZN3JhQkdLY1ZsYm1MWEVLaXdnNVdHNzhTek5sa2NvYjJIMCIsIm1hYyI6IjhmMDM5NmJmMDY1YTM4NmNkZTI0MGRmYzRjYjk5MmQ0ZjQ1NzdjN2Q3ZmM3ZDQ2NmU0MTc4NmQ3NmY5OTYwMTUifQ%3D%3D&amp;signature=baa848b1f8cd180f0ffcd3c3048b6bade675f31c3a58e5b3b1f54720078df51c</image>
-    <start>01:00PM</start>
-    <finish>01:30PM</finish>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IlJXazc3ckRNZWYycitWVGhXVkx3TUE9PSIsInZhbHVlIjoiZUpTNmtPdE9pTDZ2ZHE4V3pIdFJnWkJqdVIxZGNNQ1pYK0FicjU5S0E2VFNKa3FLdk5LWWhMWlNZb1FrbnUweVQyVXUyXC8yTTNldXorbjh6RzR2TE9JeHZOTXhidTVBNXVrQ1dEdFwvQlFxVTJCb29leDd2emVNZE83SnRxbTlFVUNaRU5lVURsUGVsVTIrVzNJalJMWHcyQlFCQ0pQczRTY3lTSUpGXC83NmVGRm1aMTNNTGRKQmYrdFVPZWZkeGNyIiwibWFjIjoiNTc5ZTZiYWJkZDIxZWVmMGM5MWQ5MTA3NWMwYTVlOGM1M2Y0ZDk3NGQ0Y2FkYmU4Njc1OTA3ZGE2MjAzZWQxYSJ9&amp;signature=cc4e2dcdf8591946ce9c924238de79ed6cf7d9df893b2b6fd3478ee981b37cf8</image>
+    <start>01:30PM</start>
+    <finish>02:00PM</finish>
     <date>01 March 2026</date>
   </channel>
   <channel>
     <name>France 24 Fr</name>
     <id>France24.fr</id>
-    <title>Le journal</title>
-    <desc>Toutes les heures, 24 h sur 24, un journal de 10 minutes est pr?sent? en direct de la salle de r?daction.</desc>
-    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IlVTd1NRVnY2VllOcTVXMXBJdENCdWc9PSIsInZhbHVlIjoiSmdNT0M1VERNRHA5QWxIbVJmR1wvSWFaajRaYVE1U1RmUmI5a210b3pScUlOZmhQSW5JdVVmV2hWVjFVaWZoWmZjVGZzM0wxVHlEckVRTlZrR0h2clh1dWtwa2tUcFwvWG9zcTh1b2pCbFNXT09YT3B2eUk0c2NGc0UxNU5qMUt4MDh2XC9aM1lOZEJjTWx4b2ZDclQxdHVGWEFSWVRCUjhjQ3lLaVZST0dOblJpTkpXdFMyRTh4WnRvQ1k4VmtrUmdFIiwibWFjIjoiMThhZWRjYmI0YWE3Y2EzNmFlMTNiODAyN2UyMTI0OTQ3YTJiMzVjNmM2NDgzMDNkYWMxZDRlYzBjMGUwYjY2NyJ9&amp;signature=2678e7d69f7acfdb3ca09d899c169ea28964390984d68616d9faef85847e93c7</image>
-    <start>01:00PM</start>
-    <finish>01:30PM</finish>
+    <title>Le monde dans tous ses ?tats</title>
+    <desc>Rapha?l Kahane d?crypte, en compagnie d'un invit?, l'actualit? politique et g?opolitique d'un pays, ? travers des reportages et analyses des correspondants.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IlhOM3ZuRGJYbEZsSzMwdGx5elwvTkNRPT0iLCJ2YWx1ZSI6ImN4bHQyQUZNaVc0d2lcLzM5ZmY4WkZiMHUzZGhQb3dMZ29uSWg1UUc2VnphS3lcL3JTRG03VW1WS205cGQ5Rlg5K3B4bGZrbFRMUFFFSVcwNTZuaUxDTnZiUlgzWWZoTUN5SExzWGFMczl1c3ZmYzZDckZrRXJUeXNZaGFZR3ZZQVk0UkxZT1wvMTlZMm1vUFJKMTVVeFJQM1FjZGxkOXVQZVVQdE02TDVBNE05YVFxN3JEZEluVnR3NVdOZlpQYUF0UiIsIm1hYyI6IjlmNDg5MmE1NDIxZGNlN2E2YzhjMWNhZjhmNzRhNGYxZTZlNTkyNTg0ZWE3NjliZTM4NzlhODAzNzUzNzBlZWQifQ%3D%3D&amp;signature=1b981745a9dd8fb94b459b239f07fb31d45b853a62699b1fd49063e71ce13660</image>
+    <start>01:30PM</start>
+    <finish>02:00PM</finish>
     <date>01 March 2026</date>
   </channel>
   <channel>
     <name>Global News BC1 CA</name>
     <id>GlobalNewsBC1.ca</id>
-    <title>Global News at 11</title>
-    <desc>British Columbia's local news stories and weather.</desc>
-    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IkhlQmpXUTczYWk2WFZVQUhhb0EwUGc9PSIsInZhbHVlIjoibGcwb2xtcUMwckhkRUU5YUxlaEQ4MGNmUk9Eb2RYTE1kZExDOExyaCs5VTRIMHlZTjFNemtMMTZMY2ZCd1pBZFFTN1RHQWZPNkJ6QURza1NzKytqWjREVzI1ZjRHdUt6Q2NFUGtMT3FBK0FBeTFGbCtEb05GK0tvNVZmSHNhYTkiLCJtYWMiOiIyMzc1YjM4YzhiNWE3MWExMWVhYzcwMmEyMjcxYzllNDVhMTdhNWExZDAzMWMyMzliNDdjM2I0MDY2ZDZhZDZhIn0%3D&amp;signature=cca31812fe5cbf78fbc92cf273d35bf4b7a566606d9315862ca6315344d212e3</image>
-    <start>01:00PM</start>
-    <finish>01:30PM</finish>
+    <title>BC1 News Evening</title>
+    <desc></desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6InlNRmdBU3c5d25tZmRwTTY2QmdOaHc9PSIsInZhbHVlIjoieCs4ZExORlZsOWdXdGowVDkxeGV2ZnV4ekdTQ3BXSzlEYWgyMThJZWR5RHhNeGhlUVhYOUJOUGZoV2czNmd4TWpzZEV5VEJmVW94cjdcL2dlNWpGdzlGNk5XM3pBdTZ3dWMyang2VjZFRkt4YVVEWkxNZ0g2ZW5GMWMrRUpUdlVPIiwibWFjIjoiZmVlZWVmZGFmM2Q1Y2UyOTZhZjI2ODJhYzBhYmY5ZGIwMWE1ZGVmNzViYzVjOTU3M2FjOTFlMDZkMmY4OTE2OCJ9&amp;signature=bd8661a04d63e9aa241e207c1c52cccf19d3cb7553bff8cd61ad7fb7c1a090f6</image>
+    <start>01:30PM</start>
+    <finish>02:00PM</finish>
     <date>01 March 2026</date>
   </channel>
   <channel>
@@ -674,11 +674,11 @@
   <channel>
     <name>ITV 1 UK</name>
     <id>ITV1.uk</id>
-    <title>Julia Bradbury's Wonders of the Frozen South</title>
-    <desc>Documentary series. Julia Bradbury explores Antarctica's stunning landscapes and encounters penguins, seals and whales during an emotional journey.</desc>
-    <image>https://epg.best/assets/program-icons?program=eyJpdiI6ImlZNW9XN3hnellvOEFSRHVLb1NwN2c9PSIsInZhbHVlIjoiTXJWQmFDa1RlQmlFdUI4Nk5QMHJzeXM0SXpZYWJ3c29mNHRsaDY2c1IybWU3OGk4MmdkM1RVTXBzK29kSEZXbTRJdlU3bnBSZzBTaVN0cWpkN01lM08xY1EzUzhlWGhcL0VBXC80eVZ2aUxlaCs3eU1rb3ZwZFVOOTVMVkhXZ1l2dVwvNHNmaHgyRmpMOGVTdzVTRVFnaFN3PT0iLCJtYWMiOiJkODQ4MjVjMmNlNWEzYjNjZDllMWVjYTlkMDk0NTU1YTNjYWIzYjFiMTQ3YTBhYTlmMDZjOGZjYmZlM2UxMGQ1In0%3D&amp;signature=6fc35387e527c2e962aa983c0ee3efa95a20f83944f78dbb49d6d54f0e9bfbb8</image>
-    <start>12:35PM</start>
-    <finish>01:35PM</finish>
+    <title>Ainsley's Taste of the Bahamas</title>
+    <desc>Ainsley Harriott cooks grouper Nassau-style, has a lesson in 'conch-servation', and heads into his beach kitchen to make rum punch chicken wings.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6Ik5NSm4rSkpYXC85OUhxQ1RScGlwK1VnPT0iLCJ2YWx1ZSI6IjNDZmlhZUlMRnNrcGE1c1wvWEIwUU9XVk9WRUxPQ1VXZUY2dWRKQWFpd0V2Rllud0RsdG50TFRobGJucDlNT0tJWkJqMHk1aTB0UEtaTVVqd0lUUWI1akRTN3NNRnByS3d0N2dJOEhnd01kdVhQaU9iQ1pzYTdGZUJKWEU3V0VVNHZDMHQxaHM2ZGNoWGJtOFNiRStNQ0E9PSIsIm1hYyI6ImQyYzIxMzMxOTQzMjc3NjUzMjI4NzE3Zjc0ZjZiMWNiNTJjZjVlY2YxMmEyZDExMjAwMWFlNDUzYTJkNmVhNDYifQ%3D%3D&amp;signature=b37a2d049c8c491d2eb9106962494b2f313a822170e901c1240c4ff2a46f5ab3</image>
+    <start>01:35PM</start>
+    <finish>02:10PM</finish>
     <date>01 March 2026</date>
   </channel>
   <channel>
@@ -694,11 +694,11 @@
   <channel>
     <name>Kuriakos Tv PT</name>
     <id>KuriakosTv.pt</id>
-    <title>Informa??o Ao Minuto</title>
-    <desc>Programa informativo, cedido pela TV Man? 1, que pretende dar a conhecer os acontecimentos que marcam a atualidade.</desc>
-    <image>https://epg.best/assets/program-icons?program=eyJpdiI6ImtkNkxYYzAxdDJScnFkUEd5aXVpZkE9PSIsInZhbHVlIjoiUnFpSHpsYjVBTzVyWmV5SEFoNW5vdXdjNWxYTDdvUTJVQ0p1cCtCQ1lMVkhkZ1VQY2l3eDdvUVFRY05Rc2hOc3NMazliOXBEcDJTS056UzNwdkVYZ2pQVE1wOXN6Y2xzczhKR09LWDVmY0VJU3Y0TURYeHJQQ08wUzU0TXBBQ2JmVzRUejF4MHJ3bnhwV3pSNUpDM0lMZmNGQjBKMW00N1pJQzU0REd6QXJvMzNhY1FJZTNPQnBzWTJScVpkeFI4MkpBUU1kdjFqNkltK2RFVUhKbkUzYndnZlpKZ3dYSlBwZ3lZV3VmMXFLMWpRNlF6VGdKNHdKcVVGNURMNGhyTiIsIm1hYyI6ImY3OGNlY2IzM2ZjZjFmNGYyZjQ5NmFiZjgwNTZlNTI3MTQwY2YxY2Q1MmI3NzIxNTkxNmYzYjVkODljNTdjZDUifQ%3D%3D&amp;signature=9244a2941802caa869ca8adb606556518a24eff1a3707dea88f2ee0406e60823</image>
-    <start>01:00PM</start>
-    <finish>01:30PM</finish>
+    <title>A Hist?ria e o Conhecimento</title>
+    <desc>Document?rios. Os Sete Milagres em Jerusal?m - parte 4.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6Imh5T2JwNDl4dm45czhkTVRjR1YrR3c9PSIsInZhbHVlIjoiYjhsMWp4NEYyejhmOHliMndXSURaSzNIcG5iOGJrZnhqNUFiSFNEUHdxa3pwNE9nQnVqaDBlNmxOd0QzVDEwRUNRKys1anpZZzB3a3RucFIxcmJhaUpsVEs1aVJJUXFuWllUVG1Za29ZQUhZeXVOYmNwS3N3V2JlMnYyUGdQT1V3TmhaeVZDTUNBTWJuVEVRNEtPb081NVVnWUg3Znh5Nk1HUWF6VlB5a0lkWEVXd1NsN3lHcmhHMmtLOXF0TkxLT0FYSzQyUEd5M3dSTlloaGJhXC94djVzT1pJRTNsVmEzTURnb1lKRXRnSUtiV1wvbEFLNFVteG8xTjNDSVBjbjU5IiwibWFjIjoiYzg0OGRiNGMyZjQyYTFlNGU4ZjBjZWZjOTliMTk5MWNiYTFlYmJkZmFkMmVhY2RmYTE0MGJmZThlNzUyYWI0ZiJ9&amp;signature=8f5ce05e8c30f01089379e4639b839c32297087da05716d9dbecf3f0a1092e41</image>
+    <start>01:30PM</start>
+    <finish>02:00PM</finish>
     <date>01 March 2026</date>
   </channel>
   <channel>
@@ -715,10 +715,10 @@
     <name>Law &amp; Crime US</name>
     <id>LawAndCrime.us</id>
     <title>Cops Reloaded</title>
-    <desc>A driver's getaway gets a flat tire; after a high-speed chase, a suspect barricades himself in his own bathroom; a broken windshield and a kick to the stomach are the result of a dispute.</desc>
-    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IjR6K0xpdmR2YlRXV2pPblQ5aTFBSlE9PSIsInZhbHVlIjoiYjFWWHRaVGVZc2x0a1RBcHlpbWNSNFFBTDVjUUdlYmYxaEs5WjQ2bjd6aVwvQlVpTUhvMVV3bU9sZnJDR1BUaFozYkhrMEhYbXFnT3VHSTFONGVjaFF1OVdhb2FTMkRXUUtVcHQ0VzlEMmZ6ME1MMGdPRUJUY2dGZEEwa3diOXN4IiwibWFjIjoiYjRlM2E2NTBhMTIxM2U2ZWZiMzAxZWMxOTI1MDMwNzFlNTQ0OWY0MDlhY2QyNDljYWMyNmI1ZTMyYjNmMjVlZSJ9&amp;signature=67f6b10b7839977018350af3782e8ae4a4f38fa6fdbd83ab9404d53cbb816a20</image>
-    <start>01:00PM</start>
-    <finish>01:30PM</finish>
+    <desc>A suspect tries hiding drugs in her bra; a minor is caught with a gun in his pants; Police are forced to subdue a hysterical victim; a driver nearly lets his lover take the fall for his marijuana.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IldwZkxPcHZjaUpDaWxMaFRnUysrU0E9PSIsInZhbHVlIjoiQW1pNVIrbUJvSzdpelc3XC9VZTBlRWRlcWozQ09Feld1NkZGYXFCZHBPQ0dWN0ROamhGUUNnM2QyZVhKc2Q2TURaRG82TTRKcUpiWVRySDhMTkZvbnJsd28zXC93UDU5ZzlTeXdjb0pKT3lJMzJMU2xOYit1b3B6V21nSGpLdUl5YSIsIm1hYyI6ImE5OGRlYTY4NzViNjdlMWYxMWE4ZWZmM2I1YTFkM2Y3YjU5ODU4MjliMDQwNGJiNjFjNTYzYzY1YTlmZGFiZWIifQ%3D%3D&amp;signature=4f33966cbe1beaebabdf0a220dd1fa78802a1fb3d0562d17ce21af135be6d476</image>
+    <start>01:30PM</start>
+    <finish>02:00PM</finish>
     <date>01 March 2026</date>
   </channel>
   <channel>
@@ -754,11 +754,13 @@
   <channel>
     <name>Mama RU</name>
     <id>Mama.ru</id>
-    <title>??????? ?????????</title>
-    <desc></desc>
-    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
-    <start>01:00PM</start>
-    <finish>01:15PM</finish>
+    <title>????? ???????</title>
+    <desc>?????????? ??? ????? ????????? ???????????? ????????? ?????????? ???? ????????????? ????????, ?????? ???????????????? ?????????????? ?????? ????????.
+?????? ???? ????????? ?????? ???????? ??????? ????? ???????? ?????? ?????????? ????? ????????? ??? ???? ???. ????? ?????? ?????????????? ??????? ??? ???????????????? ???????????? ??? ???????? ?????????? ????????????? ??????? ????? ??????????????? ??????? ??????????????? ??????? ????? ??????. ???????? ?????????? ?????? ???????? ?????????, ?????? ??? ????? ????????? ??????? ????????? ??????????. ??????????? ????????? ????????? ???? ??? ?????????? ??? ?????????. ????? ????????? ????? ??????? ????? ???????? ????? ?????, ?????, ?????, ?????, ?????, ???? ??????? ????????????! 
+??? ????????? ????????????? ????? ?????? ???????? ?????????? ??????????? ?????????????? ??? ????? ???3-? ???, ????????? ??????? ?????????? ??????????? ????.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IllmRjJPWVZjUFV1aTBQQjdsZjExMlE9PSIsInZhbHVlIjoiYmp6RnZHNWswOVhFZnRiK1FxMGVWNzJRVDM1WnpqMUhYdzNvSkVZcTMzZUpGeVpRVlg1SURXSFJocUMyQ3FweDJ1SEU2YVdaVndzN2phbzJ2SWtzTERwY1NoN3RsdE1BZStEV0l0NVhLZDNcL3k3Nmx4TzdFNFFHYnVSMmpZYVpnbitVa1wvc3BvelRyVFV0VlFma1dRSUxSc2JzbkRlZ1NvY0dMRWtDWkRXN0U9IiwibWFjIjoiMDlhZWQ0NjgyMTE4YzIzODMwNDkxZmUyYjZmZGZhZjZmYzY4N2QxODRkZTI2NTVhNDUzNTRhMTNhOTU2Njc3OSJ9&amp;signature=465d16ce8339d4c442e896fd1de8a8e407f38b9e6dbd1ef5f56d0ffa9d524e89</image>
+    <start>01:15PM</start>
+    <finish>02:50PM</finish>
     <date>01 March 2026</date>
   </channel>
   <channel>
@@ -784,11 +786,11 @@
   <channel>
     <name>NHK World JP</name>
     <id>NHKWorld.jp</id>
-    <title>Nhk Newsline</title>
-    <desc>NHK NEWSLINE brings you up to date with the latest from Japan, Asia and around the world. Our team covers breaking news and major developments, with trusted anchors to tie it all together.</desc>
-    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IkFCTDNFNlZ3ODZtSE1uMEZuUnF2RVE9PSIsInZhbHVlIjoiYll1Wm8zRGJ3Umk1MjQrTkJVNnA0d3BVOCt2MlpFSkY3VEs0QWhEcU5vMWdQYkNQRG1DSldQWTJTTE1WTFBcL2U5dFhGcVBKaGUybTBqWWVPb1ZFOE12ekNqbDhxNUtKRHJXNzZmN0tleWxjTDZqMTZ6NmhRMEg2U2JhMDFDZk5Hd2pFUXRxXC80VUhReDNJUkVcL0d4TDR3PT0iLCJtYWMiOiIzNWFhNDU4NTk3Mzk4YjIzNzgyNzk3MzEyYjU1NDg1MmVjYzZiMmYzZmViOWJhZGY1NTcyODkzNTAzYzg3ZmMzIn0%3D&amp;signature=9197c48c4f40f6d8f7f13b026ab6e20124c8978ba6a24d4ecdeea73b083b5ac7</image>
-    <start>01:00PM</start>
-    <finish>01:10PM</finish>
+    <title>Demolition Kingdom</title>
+    <desc>We follow the demolition of a Kumamoto Castle's one of the most important towers, Uto-Yagura damaged by a major earthquake. Built 400 years ago by fierce feudal lord Kato Kiyomasa, the castle?s secrets are revealed through demolition.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IkJ2Mk5qQzdxV041ZlFrRmRHdkw2QlE9PSIsInZhbHVlIjoiSDRoWXI0SDlJU0NKZk55M3VEa1wvcGVOXC9PcVZvSHF2aURpOWJtNnhBT0ZuZEJCVkZ2Mml1OU1CQ2FROWFKSXEydGVjWDFVMmtCeXBmZk9KTDdHNHJUT2xKYzBmM2FOZ3R1NHV0Ujh6UHFLcmZPcWlFNGRhUWlBcFJMcytYTEZEaVp0b2xINEJQcmpvbmUrcUIzeW1hbHVWWGJ5QnhGT2xhSzVpdjdnTndRVDdoUkswU1BId0RGbUdDd25iMXR1b1l2SElLbHR6eGczVWtuNlNSbU1JdFJRPT0iLCJtYWMiOiJkMGI0YzE1ODYyNzJlZTljMTA5YTRiYzYzNGVhMTczYjU2MjhlYjkyNmUxZGMyM2QwOWYxM2UyY2U5NzRjMGFmIn0%3D&amp;signature=f3e1bdf73b0a5576ace02516c5b92cb413c9d0e9cdc658cf1d33e59851c9b05d</image>
+    <start>01:10PM</start>
+    <finish>01:53PM</finish>
     <date>01 March 2026</date>
   </channel>
   <channel>
@@ -814,11 +816,11 @@
   <channel>
     <name>Nagoya TV JP</name>
     <id>NagoyaTV.jp</id>
-    <title>???????</title>
+    <title>??????????????????????????????????????</title>
     <desc>??????????????????????????????????????????????????????????????????????????????.</desc>
     <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
-    <start>11:56AM</start>
-    <finish>01:30PM</finish>
+    <start>01:30PM</start>
+    <finish>02:24PM</finish>
     <date>01 March 2026</date>
   </channel>
   <channel>
@@ -835,10 +837,10 @@
     <name>Nick Jr UK</name>
     <id>NickJunior.uk</id>
     <title>The Smurfs</title>
-    <desc>Brainy's controlling nature gets under the Smurfs' skin in 'Brainy Gets Ghosted!', then in 'Gargamel Goes Gaga', Gargamel falls in love with Leaf and doesn't want to leave her side.</desc>
-    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IjFaOVZmMUF3cll1SU1lRkRTWThCTWc9PSIsInZhbHVlIjoiVXdzRXhcLzBLM0VpbDdcLzhGOXBpb0d0MlA5ZHo5VTlZVE11MUNlbzNuS1FHbTRVQzFNMWpacmlnR3hcLzdaU2FSVXo0YVlJeXlWanFJdUttU1BtdktVVnVYK2pRV1pqelJzYmVpdDVrUStzcE5vOEMwbTdYMjRXdEJjakltSUhnSFhNSXpqWllqelwvN0ZqSXRyWFp2T1U1Zz09IiwibWFjIjoiMWY1MzEyYjdkNDE3ZmI5Yzc0YTIyM2ZkZWEwODYwN2M5YjIyNzViYjQ5NzgwMzFkZTgyNmVjNTJmZDE4ZmViOCJ9&amp;signature=2be9ef0d0f31925e2b0b33cf37bec6ef12b5f89efadcbc615b8510e211dca64a</image>
-    <start>01:00PM</start>
-    <finish>01:31PM</finish>
+    <desc>Handy and Storm build their own flying machines in 'Smurf Your Seat Belts', then in 'Leaf It Alone', the Smurfs discover Gargamel's plan to lure them to his field.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6Iit3Y3cra05kUUIrNnlUODNqUWxRVGc9PSIsInZhbHVlIjoiOXh2c1R4RFNYNlBvczBma29KbTMrVHk4U1Y4TGFwZERnSXFvSE1kc1ZkbDRBcVNjRmdyVmhhZjhHeW1ISklCVVFsUERhOGNFSzl3ZW5EOUNxSFJ1SnJCM3EwOEt0R1wvUHV6cmxuekFHcFVETjUzK0FndzY4cDVlZnZYTkhXaEFobDhXZ29mYlBoNW5uSFhIRjhcLzRJNFE9PSIsIm1hYyI6IjUzMzkxYzAyYWJjNTc5OGJiZmM4ZjRkZTI5MzUyYzNhNmQzNGFkYzlhYTBkMjExMzhhMDUyZWYwOGI5NmQ3ZjkifQ%3D%3D&amp;signature=4b27dc3c8ff6ed569fc7ee6957eb3f874160032167a49bdf6009cd590ab4bd85</image>
+    <start>01:31PM</start>
+    <finish>02:00PM</finish>
     <date>01 March 2026</date>
   </channel>
   <channel>
@@ -847,8 +849,8 @@
     <title>Infomercials</title>
     <desc></desc>
     <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
-    <start>01:00PM</start>
-    <finish>01:30PM</finish>
+    <start>01:30PM</start>
+    <finish>02:00PM</finish>
     <date>01 March 2026</date>
   </channel>
   <channel>
@@ -874,11 +876,11 @@
   <channel>
     <name>Porto Canal PT</name>
     <id>Porto.pt</id>
-    <title>Os Eleitos</title>
-    <desc>Os temas da atualidade nacional est?o em debate todas as semanas n'Os Eleitos. \nOs escolhidos para a Assembleia da Rep?blica da regi?o Norte s?o chamados a responder.</desc>
-    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IkR6YzRlZ0lcL2srTFwvQ3Y3bHc5VjM3Zz09IiwidmFsdWUiOiJsMUdHZ2xaNzBvZ1d2VElYdEdVOXNiemNcL0hnbU5nNGtpSlpPVzFJNW8zczhTVU1CZ2RnSnRlNVpZWStWc0QxYUhITWU0MWZETWJIdUpUTEQxQ3FUWUtPNjVOQWR5Sjc0ampTaXZTNndaQUJUMmczdldJRkg2NzkrVjR0U1U3TTBONnlmMGZkSk1ZVzA2NExVSm1TMFlMYVk1Zm5sM0FHNTFXR3ZySTZGQjVHMVdiWWZtd2YzNjVQemF6VkFcL0pieWtaWVwvSnpzYTdiZzhQUlRiVHQ4OUlJUDNrc3ZuRkNMNnJaQVdHQUxEVUtFaFFmWGRBV1NtU1Y1amF0bVlGMTBRIiwibWFjIjoiNTRhMzVkNTU2MWNkNzJjZjVjMDZmMjczNmZjYTgwZmFjMjJhNDhhZjJlMzc5ZDk4MmM3MDk5ZTYzMjY4MTViNyJ9&amp;signature=9bba84f4c0921f41753a24c0dec5ffad69d4659689e670491af305ab271c2956</image>
-    <start>01:00PM</start>
-    <finish>01:30PM</finish>
+    <title>M?sica Por Perto</title>
+    <desc></desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IjhPQVhEU0s2K0NzODJIUW44Z0FUTGc9PSIsInZhbHVlIjoibHRWRXZEY3R6amZyNUR4c0xmc0tRa3NpbVBLZk9HS0VpWlE0b2NybEJBcUx5RTg0ZzRxSjFYNHlVcXFoYlFlYm1uZlwvaGZ3bTc4YmtcLzNoUlRtaVBZYkpIUnRDenVPQzJXdEdoZHFPVlJPUXBBS3E0OEVlcmRZMGhleHY2TExJKzZURmg5VWlTZlJcL09vN1BYQ0gxQm5FRm5POWRHTDRGVHVOOFc4QTBVZkhiSktEZFdQMVpKTlFVQmdNT1JKZUxvQXJBWVcraVVkMXpcLzlCM2NDWGY0WVVZYXlBM1dtZks5TXR5bCsrZ3hZTEdwNjJMamxLUHJIWVRuSEd2dGFMdXAiLCJtYWMiOiJjMDE3ZTFiZmFkZTFiOTEwMTI2MmY1MjJkZjJhZDAyMmEzYTI3ZjYzOGIzMTdlMzI4NjdiM2Q4ZjEzYjE4NjMyIn0%3D&amp;signature=a3a91e514d417839fb862cf5986ce35edb4dd5d544c38ae8c9918695ce8574a3</image>
+    <start>01:30PM</start>
+    <finish>02:28PM</finish>
     <date>01 March 2026</date>
   </channel>
   <channel>
@@ -1015,10 +1017,10 @@
     <name>S4C UK</name>
     <id>S4C.uk</id>
     <title>Y Fets</title>
-    <desc>Mae'n ddiwrnod prysur i'r unig ddwy Glesni sy'n fets cofrestredig yn y DU - a'r ddwy yn gweithio yn Ystwyth Fets. Sheepdog, Fan, is rushed to the practice and Nessy the snake slithers in.</desc>
-    <image>https://epg.best/assets/program-icons?program=eyJpdiI6Ik5aK0dkRmdwdjRPU2N6SHJkZWtiSEE9PSIsInZhbHVlIjoiRldsZVkzeUtwZE5IT2t5dDAxaFRXOHNuYzJcL1JqQ01qUXFETll4MzhRQWJ4d251Wk5MVTIwTTdlcTdNT1Q4VDVrciswbHoyNTVKTzdIM2dZMmNrNDRlTWpUcDRVYkYya21GNGQ1ZTBzd2VcL2VTdzZGZ0QxaURYaUI1dXZYRVJReVE4XC9KMkVBRDQ2SklSWDBlaXZxTUh3PT0iLCJtYWMiOiJhOThlMTEwNzM4MDU3MWM1M2VhZThjMDRhOTI0NmY4NDdkNTQyZjM2YjliMzNlNGNiYWI1NTQxOWY0Y2Q1OWY0In0%3D&amp;signature=55fd9746f3c526d6d58b67561477b1da796457398fd33e565109bf45276bc20e</image>
-    <start>01:00PM</start>
-    <finish>01:30PM</finish>
+    <desc>Heddiw, mae Polly Garter y labrador wedi bod yn camfihafio, ac mae'r t?m yn ceisio datrys problem gyda llwnc cath fach. Today, Sandy the terrier needs treatment following a dog attack.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IllyWit3cm4wTDZISVB3cWZGZWtKaWc9PSIsInZhbHVlIjoidEE3RWhyY3A4aGhWSVoxbkFnelhIdlQ3cjk1Mnd1a3NtWkFkTmRhbG9ETDBmZE9sWXFuNElZRFA3dlwvWDA2blR2a1JnUUhyaFJQU0F4QnhWQm8yZzhNdnppYjZvVXFrbEpKUFBNanFwN0NrWWppbmVxRDcwN0tcL0VCRmlHNnF0RmVOdkJnUEV0OFJkV1hcL2hqTUVKMkF3PT0iLCJtYWMiOiJiNGExYjJiYzZlY2E5MjIwMDY5NjIzOWJlM2E1OTgzYTI3ODUxMzAyNWQyYzFkZGYxOWRkNTZhOGRkZjQ5MDQyIn0%3D&amp;signature=0656c159c1a1274d1d502c419539e9dd9a3c65284e3843d42ac077084c2dc37c</image>
+    <start>01:30PM</start>
+    <finish>02:00PM</finish>
     <date>01 March 2026</date>
   </channel>
   <channel>
@@ -1054,11 +1056,11 @@
   <channel>
     <name>Sky News UK</name>
     <id>SkyNews.uk</id>
-    <title>Sky News Today With Matt Barbet</title>
-    <desc>Breaking news, developing stories and live events from Sky News correspondents in the UK and around the world.</desc>
-    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IkRBYkxjY1RWR1VPUlE3WWZRNzh4YVE9PSIsInZhbHVlIjoiNlFJZzNFS1FUUXpWNnpMWmZYWUViQXo2T0pxTUx0ZklLb3UxYmJNSG8rOTR1YlhaY2ZOd041ZENSVXlJOXJlYzIyMkc5Wk5Hb3VodjFWK21BcFNiZEFNbUV6NVVxb0NBZEJmWHluTlA2VU5ybWxuUWs1bnZJS2NKZFZYYVA1NWk0Ym5LME9PUVY0c1RCaldkWTQ2cElnPT0iLCJtYWMiOiI2YzNhNDk0MDE4MTk0MjZkMDdjYjVhNjNmY2FmOWViOTJhYmViNmY2YzNkODU1NzlmNzJmNWM2ZWE2ODg5YmVlIn0%3D&amp;signature=4685ae1ae80f441c130ccfe6bf4b672d6407e5a6bb3c604091e230a25ca448de</image>
-    <start>01:00PM</start>
-    <finish>01:30PM</finish>
+    <title>Trevor Phillips</title>
+    <desc>Another chance to see the key interviews from Sunday Morning with Trevor Phillips.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6ImtPUEN2TU56RDhoRVJBT3RCVXUzQnc9PSIsInZhbHVlIjoidVZqV1d3VlViSHpFUDRid3RBZFozcUpTejJCYU1iS0d0UHJcL3Flb2MzN1psYnZLYjBQdk1taXl2blVIZE9NbDh3RzIwOVlXN0hTdU84R1NkRVV2SnBrMVUyaHl0blg3dU4zbDBtelJVYU5EeW5CUGRORllYN1ZTSE85WTBzZTZnTFVuQWJFOVl0Rzd3SjFcLzRBV09jbFE9PSIsIm1hYyI6IjE3N2E0YmZiMThjMGQzN2M5ZDk4ZmIzZjRmMWNkZTYwZmYwMTFkZTcwYWQ3OTExNDRkNWM5ZmI1MzdkYTFkYWIifQ%3D%3D&amp;signature=f1f8d7532a5734f3bc93c27d00a9474770cd7136da61c0448f9ae828304ee069</image>
+    <start>01:30PM</start>
+    <finish>02:00PM</finish>
     <date>01 March 2026</date>
   </channel>
   <channel>
@@ -1076,9 +1078,9 @@
     <id>TF1.fr</id>
     <title>Grands reportages</title>
     <desc>Qu'ils aient 15 ou plus de 70 ans, qu'ils soient surdipl?m?s ou autodidactes, les inventeurs sont de dr?les d'oiseaux qui ont tous en commun le d?sir ind?fectible d'aller au bout de leur r?ve.</desc>
-    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IkkzVkV5bkVyOFJUSkNJN3Y5cDArSGc9PSIsInZhbHVlIjoiTVZLaXhZR0ZRSE4xSU5aazlOR1VEQ0UxZnNOUDg0SHI4TVpEQmVOVVl0eUV2SXo0bDI3d1BGV0UycTdEaUZyalh4anBPZFk0ZXdFZW5xcm05NTNhdXp2STBQNE1JaSs4UHpnd3ZcLzd5T3pnWFpUa21Zb1NBMCsrWGVONDJkK2ZKIiwibWFjIjoiMjViNWIxYTQzM2IzMjA4ZGZiZGM1NTUyMjg3NDNjNDE1YWMyMzM5NDEzMmM5OTk4MGI4Y2FjNjBjZTE1NzU4ZCJ9&amp;signature=75f032f866e88ed5075eb1f6bebbb64c02137c90dee86e40593539c818ac4252</image>
-    <start>12:40PM</start>
-    <finish>01:50PM</finish>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6InRXRXRvK3djTXN6alV1TTFCZ2Z6QXc9PSIsInZhbHVlIjoidFVqbk5IT1NFaEsxV0ZiRjFVVHpOOUkyK3c5T2drb1QzTjlxWUx0a1dwMktSYWtFOENoVk45TG1YQjZCMnIxZTdpdG9xcndsbFpuT0R6SjVJQ0xhcEVBRDlQWkh0YkJPZXJUeWQ1SlJZUUl2VUxxRkNcL1RXK1pvc0hMZzd0bTN4IiwibWFjIjoiMWY3M2MzY2Q2NGE4YmFiM2QxNmE2MDkzY2EyNDFjZTQwZjgyYmM0M2Y3ZjIzMTk1OGMyOTEwYjU4NWI0MWQzNSJ9&amp;signature=afee852d3c4653d83e4aa34906cab6eb24eef89df75112f01f31f845aa3e5faa</image>
+    <start>01:50PM</start>
+    <finish>03:10PM</finish>
     <date>01 March 2026</date>
   </channel>
   <channel>
@@ -1086,29 +1088,29 @@
     <id>TG4.ie</id>
     <title>This is TG4 HD</title>
     <desc>This is TG4 HD.</desc>
-    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IjZRYVA5TjFRT01DT3prNVNiSVZpTkE9PSIsInZhbHVlIjoiOVpcL3h6clNcLzhYVytEaVZRWjdLZ3JJaDJPbW9ocTl2dmpYQjZBOFlHMXR2SHk0Qm9XOHlFUkZueTdCdHlWVndMd1JkanJUalZtRkU0cjBvR0c0ZjhVc3JLWmp0NlVqd21rOFRUTnJRUjJ1UHRWWmFZUUkyWjV3ZDhPMXU0UkltcGtieGJBY2tmM0JSa1BwMHk5QTVGZ3c9PSIsIm1hYyI6ImI1ZWFhMjhkOTA3NTBkMzc5MjQ1OGIwMDI2ZWQ5YmQ5OTBhNzgyMjljYTQ3MGU4Y2ZiYWRhNjExMzg1MjAzYzIifQ%3D%3D&amp;signature=254af1e7433e6fc38645254b078ba0a41cc61609865e25fe772f7f912d0e91b2</image>
-    <start>01:00PM</start>
-    <finish>01:30PM</finish>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6Ikh4RmpQVE5hcUFoc3d6Z1E3YnI4eFE9PSIsInZhbHVlIjoiMlp2VkNzQU0rS3FFY0wzUTJRam5uOVBqXC9VUW9YZEJPY1BBY2VcL1R0QitCeG9mUmJ3bmZWTG14QlhkUHA3RVdHQzJJTnQ5QktZT1pwbU9TVExGWFdpdGxzTURTRHRaNGp2cTZqN1k5OGswTlNkTmxWOTN5MTBOR0JnSGVwekNVRXhVNFNDNE5jU2FmRUNWVENrc3J6NWc9PSIsIm1hYyI6ImM3MTY3M2YwN2UzZThjN2E3ZTJkOWVjNDNiY2JjOGE0NDM5MGI5ZjJiYTA5MTA1N2U3MzljNDMwZmVlNDkzMmMifQ%3D%3D&amp;signature=db3da60700f0b2b43dbc5529747fee7f2865bfec9e73fa65c9818a3cdc752a26</image>
+    <start>01:30PM</start>
+    <finish>02:00PM</finish>
     <date>01 March 2026</date>
   </channel>
   <channel>
     <name>TVNZ 2 NZ</name>
     <id>TV2.nz</id>
-    <title>The Hillside Strangler: Devil In Disguise</title>
-    <desc>A deep dive into the notorious Hillside Strangler murders that shocked Los Angeles in the late 70s, offering fresh insight into the minds of the infamous serial killing cousins who terrorised the city.</desc>
+    <title>Deadly Cults</title>
+    <desc>In this shocking expos?, real-life cults are unravelled from the leaders down to the individual members, to help explain their extreme beliefs and what led them to committing homicide.</desc>
     <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
-    <start>12:30PM</start>
-    <finish>01:25PM</finish>
+    <start>01:25PM</start>
+    <finish>02:10PM</finish>
     <date>01 March 2026</date>
   </channel>
   <channel>
     <name>TV 5 Monde F-Be-Ch Fr</name>
     <id>TV5Monde.fr</id>
-    <title>Le meilleur des moules frites</title>
-    <desc>Quatre candidats, chacun ancr? dans sa r?gion, vont se mesurer en proposant leur interpr?tation des plus savoureuses moules frites. Marini?re classique, curry ?pic? ou maroilles fondant : 1 plat, 4 recettes, et un jury qui attend le d?fi.</desc>
-    <image>https://epg.best/assets/program-icons?program=eyJpdiI6InF1TyttVnBUVkRtZlc4UTZybzBsS2c9PSIsInZhbHVlIjoiV2w1TTcrdTBcL1wvUzdTRTdxcnNHZDZoeVZTUEx5bEQ4N1BmeWJhQ3BidDVmWUFyQkptbU5SZmpmNHdBYlJkR3JERWRpUVpWejlVQmxJT09RS00rSjc5a25tWUhtNVRoMVduT0MxcDlhUFFBSzhBUmh6RlRzSXhDMDVNSXlUNTUwSCIsIm1hYyI6IjQzMmUwMzcyNzc1MDA1NDY4NzdhZjA2OGIwNTA2Yzc0MTU0MDNiNzYwNzRhNWVhNmY4MjQ2MjllNDkwMDc5NDYifQ%3D%3D&amp;signature=7d1e2585cd6e65012a9a23a77d20c3304068852a25c0a78101ddcda35c42a6c2</image>
-    <start>01:01PM</start>
-    <finish>01:34PM</finish>
+    <title>Au bout de l'enqu?te, la fin du crime parfait ?</title>
+    <desc>Pr?s de 70 morts lors de suicides collectifs, dont de nombreux enfants : il y a trente ans, la France d?couvrait, horrifi?e, l'existence de l'Ordre du temple solaire.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IkFWXC9YajVZdVhtbTJsdkpYck95M1dRPT0iLCJ2YWx1ZSI6Ikkyc2dLaHUySmY2SktYOFlrYzJTb0krbENQdjJmQkh6ZFl2YzV1XC9TVE5XcGc5V2NsU1wvVUFjZzhUbXRPQzQ3UTRGZUhzUjdid3ByajVFVjJydEFlXC9jNUtnVktIdUo0R055RW1sZHpxUmlRS1JcL1lnS2RMMXNQK3QxajlLYmRWbSIsIm1hYyI6ImEzYWRmNDQwNjBlYjFjODJmMDZlZjUyMzRhNzMyZmFiNThlOTNkMTc1MWM1ZDRmY2IwYzU4ZjlmNGE5NTc3MWUifQ%3D%3D&amp;signature=e3a9874618b3029676e6273da0524bf1a326a1f602467d64a28dcf801b1396f5</image>
+    <start>01:34PM</start>
+    <finish>02:28PM</finish>
     <date>01 March 2026</date>
   </channel>
   <channel>
@@ -1144,21 +1146,21 @@
   <channel>
     <name>CW Boston US</name>
     <id>WLVI.us</id>
-    <title>Sunday Mass</title>
-    <desc>From the Archdiocese of Boston.</desc>
-    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IkJMU2gyWHlcL0tZRFQ0aHJBQ0xPY1hBPT0iLCJ2YWx1ZSI6ImNSdmpuQVpIaGFNQ1Vwc25ZNnF3TG1VSjdjWXBkK21tV3U0VlZsTDFtNDVNdDV5XC9qaVllZjJtekRQQ241NWlxZTF5c2VpSTJFbUVOeHNDQSt4MzB1UXM0ZGh3QnBCVWJXQ0VWek1yWUxZQWNpdXoxdDAzZDJwWnM1ZHNuOWc2WSIsIm1hYyI6ImVjZDM5NTc3MDQ5MGUzNzU3MDA0ODM4YTA1MTgzZWE1Y2M3OTFmMmMxMDFjOGFhNzVjMDAwM2ZhNGJjNjAxOGUifQ%3D%3D&amp;signature=7c6a4ec2ccc4d3052f9074afcdd58c186a135bf2b863e3d97ecd0a908bd07603</image>
-    <start>01:00PM</start>
-    <finish>01:30PM</finish>
+    <title>DragonFlyTV</title>
+    <desc>Learning about volcanoes; visiting the Gemini Observatory.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6ImdDeElzV1l5djR3RUc2ODhRSlZvTlE9PSIsInZhbHVlIjoiUEg1SHI5SWJBRUVKd2xEeU1LTE5MaTFlaHhHbExXQ1E5T0NhcG1wbEJwXC9tTlpIRWViNGx0VHJOeVhBUWloWWlndjNzb2QxT3VuTnZoWUJpaFZwZ1NHd2VCYm9LazYydUpHcERVYUIyN0xGSDRaY0FWeTFiTit1OEVNTDJJeGpDIiwibWFjIjoiNjY5ZDg3ODQ4YWVjMjFkMGE2MGI4NGI3MjBhNWQ2YzljYzY0M2VkZWU3MzVlY2JjYmIzZjE4MGU1YWRkYzlmMCJ9&amp;signature=0ea8421a3814bf60c20a6c1273ad58e0f2692d56b22f6b46ce9e4bc2880c914f</image>
+    <start>01:30PM</start>
+    <finish>02:00PM</finish>
     <date>01 March 2026</date>
   </channel>
   <channel>
     <name>Detroit Public TV US</name>
     <id>WTVS.us</id>
-    <title>Change Your Brain, Change Your Pain With Daniel Amen, MD</title>
-    <desc>Dr. Daniel Amen maps the brain networks that drive physical and emotional pain and reveals his practical, brain-based strategies that help you feel better, think clearer and live more fully.</desc>
-    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IjhmbWhLSEhrTlFHbjVCYXdjU0o4cEE9PSIsInZhbHVlIjoiNjczckU0bU1CNzNLRXA1VFIyNmVcL1VQTGhSZHhmT051K1l2V2xQd1RPdXhDTG5jNVNoblwvbWk5OWk5bm04eWlPc1lBK2l1cENCM2dnZ29JSmFjdmJ3QVZkd0lKNlNVYzdKQk9VM0RCY0tnK3pUMEp1aWpwMTliMXhvZVFKK0FpNCIsIm1hYyI6IjFkYjA5ZTYzM2Y4MDQyYWIyMzIxNzNiZmNmZDlmMzNiYjMzMmQxMjBlMmU5ZWUwN2QwYTBmMDgwYzUwMWZkZDIifQ%3D%3D&amp;signature=461a8d6a6e8e3a72218cf1ffee5965ccc62c540b2994b4a5d4d873fac92a2f6a</image>
-    <start>11:30AM</start>
-    <finish>01:30PM</finish>
+    <title>Great Lakes Now</title>
+    <desc>Great Lakes environmental, cultural and economic stories on this monthly, regional program.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IjZxdGJ6OEZZWXVJbFwvbTBHSzBWZ1VRPT0iLCJ2YWx1ZSI6ImpVaHRcL0JmTUU5YTFWMWFVMEM0WHRubEtNUHdPOVkwTHZuQ2x0UWpXd1pcL1YwRnlXVGJOOWNOemRDZU5LbVdZc2F4enVNaEZcL0hyQ3VaT1dLQ0hraTN3eE5qTEdQY2V4QkduQ2gwXC9RbnJST0xSYVlGSTk2WHJ2THlQbkVQUjhaOSIsIm1hYyI6IjIxNDA0NGZiZGZjNTEyMzI5Zjg4ODljYzZjZTM3NDFlZjViMzBmNDkzZWZiMjY1NjJhNDdkMmFiNDBkNjE4YTMifQ%3D%3D&amp;signature=906e253ae4959f00c5fa971b53a50503e8c13165f77c1b0e1b9ed26af9de2386</image>
+    <start>01:30PM</start>
+    <finish>02:00PM</finish>
     <date>01 March 2026</date>
   </channel>
   <channel>
@@ -1204,11 +1206,11 @@
   <channel>
     <name>Z Living US</name>
     <id>ZLiving.us</id>
-    <title>Wounded Warrior Project: No Warrior is Left Behind</title>
-    <desc>Wounded Warrior Project is changing the way our nation cares for veterans and helping them thrive for a lifetime. Join Trace Adkins and Dan Nevins to learn about the journeys of four injured veterans and how no warrior is left behind.</desc>
-    <image>https://epg.best/assets/program-icons?program=eyJpdiI6InJJVnFwWWRsSjJtakJLYTJST1pCeXc9PSIsInZhbHVlIjoibEpVdU1YeDdHbnhLR3MrMnNKTStJUE1QM2c5TWRnS1liWVkrRGFPdDRrUTNSN3hMcDVHU2RRWVNjT3dJOG9aRmtvd3Y3b1g3dEVtWEx0Y0piRkJYSjRqb3F6S3U1OFdKdFFXaFRXU1p2eW4wQ3VuNzdcL25POVFhYXdBU2xqcW5OIiwibWFjIjoiODU5ODBkMGY5YWQxNDg2MmNiODRhOTYxOGZhNDJiNmIzYTZhMjQyMWIyNzYyYTRlMWM3ZmZiMzk2NThmODNiZSJ9&amp;signature=28608089de7c0ea321be6ab8eceb1c7c75ddf7ee90049f03325355e547a3c00d</image>
-    <start>01:00PM</start>
-    <finish>01:30PM</finish>
+    <title>Namaste Yoga</title>
+    <desc>An intense focus on breath to allow a deeper connection of mind and body that will leave you with greater confidence.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6InRNNUpJcVFZeEttT1lKMndLNVppMGc9PSIsInZhbHVlIjoibWEyczhVK3RDY0lIVzJUZ1psMU9WVHhsT0pKN1RnODZwTW5SM3dGdktnY2dMU1k1ZXpPUkVNYkNQd09SQWxCNW5QcUlUa2Irb3NDUWNsZ05BQnpkMG11RDE0VVU1N2V6ZDZ6Z1haeXg3Vmxlc2lGMGNxaDdSN3lrMHZQXC85bmJEIiwibWFjIjoiYTM2NmQyMDhlNTY2MzU3NTQxOTlkM2JjMWVmZWJhZjk5NDJlNTVmMmU4NDFmYmUyNzMxMTlhMTVkYWU3M2E0MCJ9&amp;signature=8e0de18614ca7d3743e274118df086e3d01e73611224bbab29ca259cbb2a59f1</image>
+    <start>01:30PM</start>
+    <finish>02:00PM</finish>
     <date>01 March 2026</date>
   </channel>
 </tv>
