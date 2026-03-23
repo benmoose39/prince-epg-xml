@@ -1,2 +1,2833 @@
 <?xml version="1.0" ?>
-<tv/>
+<tv>
+  <channel>
+    <name>BBC News UK</name>
+    <id>BBCNews.uk</id>
+    <title>Newsnight</title>
+    <desc>Insights and global interviews on the news stories of the day. With Victoria Derbyshire.</desc>
+    <image>https://images.metadata.sky.com/pd-image/047494ba-fc7b-4db6-a5f6-8e9ce1f3a816/16-9</image>
+    <start>10:30PM</start>
+    <finish>11:00PM</finish>
+    <date>23 March 2026</date>
+  </channel>
+  <channel>
+    <name>BBC News UK</name>
+    <id>BBCNews.uk</id>
+    <title>BBC World News America</title>
+    <desc>The BBC presents in-depth reports on the major international and US news of the day presented from Washington DC.</desc>
+    <image>https://images.metadata.sky.com/pd-image/03e5eaf5-5b68-47d7-b391-f74db74d9359/16-9</image>
+    <start>11:00PM</start>
+    <finish>12:00AM</finish>
+    <date>23 March 2026</date>
+  </channel>
+  <channel>
+    <name>BBC News UK</name>
+    <id>BBCNews.uk</id>
+    <title>BBC News</title>
+    <desc>The latest news from the BBC.</desc>
+    <image>https://images.metadata.sky.com/pd-image/7be1edaa-2d38-41ab-ab90-481ebc74f871/16-9</image>
+    <start>12:00AM</start>
+    <finish>12:30AM</finish>
+    <date>24 March 2026</date>
+  </channel>
+  <channel>
+    <name>BBC News UK</name>
+    <id>BBCNews.uk</id>
+    <title>Newscast</title>
+    <desc>Lighthearted discussion of the day's news.</desc>
+    <image>https://images.metadata.sky.com/pd-image/ae69b439-3e5f-4a4c-bafa-c657848ae19b/16-9</image>
+    <start>12:30AM</start>
+    <finish>01:00AM</finish>
+    <date>24 March 2026</date>
+  </channel>
+  <channel>
+    <name>BBC News UK</name>
+    <id>BBCNews.uk</id>
+    <title>BBC News</title>
+    <desc>The latest news from the BBC.</desc>
+    <image>https://images.metadata.sky.com/pd-image/d649917e-4655-445a-ba7a-83edeaf46509/16-9</image>
+    <start>01:00AM</start>
+    <finish>01:30AM</finish>
+    <date>24 March 2026</date>
+  </channel>
+  <channel>
+    <name>BBC News UK</name>
+    <id>BBCNews.uk</id>
+    <title>Talking Business</title>
+    <desc>Examining the business stories and economic trends that are re-shaping our world.</desc>
+    <image>https://images.metadata.sky.com/pd-image/eaf9c9bb-eb9b-4771-8efd-a5e6dddd15e9/16-9</image>
+    <start>01:30AM</start>
+    <finish>02:00AM</finish>
+    <date>24 March 2026</date>
+  </channel>
+  <channel>
+    <name>BBC News UK</name>
+    <id>BBCNews.uk</id>
+    <title>Newsday</title>
+    <desc>Live from Singapore, the latest international news from the BBC.</desc>
+    <image>https://images.metadata.sky.com/pd-image/dca18789-2c33-4fb0-b0c1-cf7eeab6f0b1/16-9</image>
+    <start>02:00AM</start>
+    <finish>02:30AM</finish>
+    <date>24 March 2026</date>
+  </channel>
+  <channel>
+    <name>BBC News UK</name>
+    <id>BBCNews.uk</id>
+    <title>Business Today</title>
+    <desc>Bringing the latest business news and up-to-date informed analysis from Singapore and around the world.</desc>
+    <image>https://images.metadata.sky.com/pd-image/3cb5dfa5-18c0-40c5-9a55-94382734cdc6/16-9</image>
+    <start>02:30AM</start>
+    <finish>02:45AM</finish>
+    <date>24 March 2026</date>
+  </channel>
+  <channel>
+    <name>BBC News UK</name>
+    <id>BBCNews.uk</id>
+    <title>BBC Sport</title>
+    <desc>A round-up of the day's sporting action, plus talking points, analysis and original journalism.</desc>
+    <image>https://images.metadata.sky.com/pd-image/4a39ad94-fe5e-4511-9acb-1ff7d231711d/16-9</image>
+    <start>02:45AM</start>
+    <finish>03:00AM</finish>
+    <date>24 March 2026</date>
+  </channel>
+  <channel>
+    <name>BBC News UK</name>
+    <id>BBCNews.uk</id>
+    <title>Newsday</title>
+    <desc>Live from Singapore, the latest international news from the BBC.</desc>
+    <image>https://images.metadata.sky.com/pd-image/704df26a-1a8e-49e8-9402-016b1cf285f8/16-9</image>
+    <start>03:00AM</start>
+    <finish>03:30AM</finish>
+    <date>24 March 2026</date>
+  </channel>
+  <channel>
+    <name>BBC News UK</name>
+    <id>BBCNews.uk</id>
+    <title>Business Today</title>
+    <desc>Bringing the latest business news and up-to-date informed analysis from Singapore and around the world.</desc>
+    <image>https://images.metadata.sky.com/pd-image/fd912836-c2f7-47c0-9263-bdb99ca4ff17/16-9</image>
+    <start>03:30AM</start>
+    <finish>03:45AM</finish>
+    <date>24 March 2026</date>
+  </channel>
+  <channel>
+    <name>BBC News UK</name>
+    <id>BBCNews.uk</id>
+    <title>BBC Sport</title>
+    <desc>A round-up of the day's sporting action, plus talking points, analysis and original journalism.</desc>
+    <image>https://images.metadata.sky.com/pd-image/9380d77c-ff7c-4fb4-8d36-dd3b9797a4e8/16-9</image>
+    <start>03:45AM</start>
+    <finish>04:00AM</finish>
+    <date>24 March 2026</date>
+  </channel>
+  <channel>
+    <name>BBC News UK</name>
+    <id>BBCNews.uk</id>
+    <title>Newsday</title>
+    <desc>Live from Singapore, the latest international news from the BBC.</desc>
+    <image>https://images.metadata.sky.com/pd-image/46a3db82-d35b-4a97-ba51-5951b6b1b1b4/16-9</image>
+    <start>04:00AM</start>
+    <finish>04:30AM</finish>
+    <date>24 March 2026</date>
+  </channel>
+  <channel>
+    <name>BBC News UK</name>
+    <id>BBCNews.uk</id>
+    <title>Business Today</title>
+    <desc>Bringing the latest business news and up-to-date informed analysis from Singapore and around the world.</desc>
+    <image>https://images.metadata.sky.com/pd-image/45b58b41-4025-445f-a5bd-9c7a973248ee/16-9</image>
+    <start>04:30AM</start>
+    <finish>04:45AM</finish>
+    <date>24 March 2026</date>
+  </channel>
+  <channel>
+    <name>BBC News UK</name>
+    <id>BBCNews.uk</id>
+    <title>BBC Sport</title>
+    <desc>A round-up of the day's sporting action, plus talking points, analysis and original journalism.</desc>
+    <image>https://images.metadata.sky.com/pd-image/f005d2ad-6fc5-4ffe-95bd-33bfea0a314e/16-9</image>
+    <start>04:45AM</start>
+    <finish>05:00AM</finish>
+    <date>24 March 2026</date>
+  </channel>
+  <channel>
+    <name>BBC News UK</name>
+    <id>BBCNews.uk</id>
+    <title>BBC News</title>
+    <desc>The latest news from the BBC.</desc>
+    <image>https://images.metadata.sky.com/pd-image/2f43a6ae-9270-4a47-9a70-e55ff061f90c/16-9</image>
+    <start>05:00AM</start>
+    <finish>05:30AM</finish>
+    <date>24 March 2026</date>
+  </channel>
+  <channel>
+    <name>BBC News UK</name>
+    <id>BBCNews.uk</id>
+    <title>Business Today</title>
+    <desc>Bringing the latest business news and up-to-date informed analysis from London and around the world.</desc>
+    <image>https://images.metadata.sky.com/pd-image/a01689a8-ff51-4ff6-8c18-ca5a53db3528/16-9</image>
+    <start>05:30AM</start>
+    <finish>06:00AM</finish>
+    <date>24 March 2026</date>
+  </channel>
+  <channel>
+    <name>BBC News UK</name>
+    <id>BBCNews.uk</id>
+    <title>BBC News</title>
+    <desc>The latest news from the BBC.</desc>
+    <image>https://images.metadata.sky.com/pd-image/37fe76f9-f494-4630-9cfa-584744797a0d/16-9</image>
+    <start>06:00AM</start>
+    <finish>06:30AM</finish>
+    <date>24 March 2026</date>
+  </channel>
+  <channel>
+    <name>BBC News UK</name>
+    <id>BBCNews.uk</id>
+    <title>Business Today</title>
+    <desc>Bringing the latest business news and up-to-date informed analysis from London and around the world.</desc>
+    <image>https://images.metadata.sky.com/pd-image/26d72e0c-9cdf-475c-9890-0736637c33b6/16-9</image>
+    <start>06:30AM</start>
+    <finish>07:00AM</finish>
+    <date>24 March 2026</date>
+  </channel>
+  <channel>
+    <name>BBC News UK</name>
+    <id>BBCNews.uk</id>
+    <title>BBC News</title>
+    <desc>The latest news from the BBC.</desc>
+    <image>https://images.metadata.sky.com/pd-image/da0ac753-7283-4e6e-a73d-345e415fa6c5/16-9</image>
+    <start>07:00AM</start>
+    <finish>07:30AM</finish>
+    <date>24 March 2026</date>
+  </channel>
+  <channel>
+    <name>BBC News UK</name>
+    <id>BBCNews.uk</id>
+    <title>Business Today</title>
+    <desc>Bringing the latest business news and up-to-date informed analysis from London and around the world.</desc>
+    <image>https://images.metadata.sky.com/pd-image/a9ad8658-3fe9-4c57-b172-57155bea91b0/16-9</image>
+    <start>07:30AM</start>
+    <finish>08:00AM</finish>
+    <date>24 March 2026</date>
+  </channel>
+  <channel>
+    <name>BBC News UK</name>
+    <id>BBCNews.uk</id>
+    <title>Signed</title>
+    <desc>The latest news from the BBC.</desc>
+    <image>https://images.metadata.sky.com/pd-image/6b93a845-8202-474f-9742-f791a7746080/16-9</image>
+    <start>08:00AM</start>
+    <finish>08:30AM</finish>
+    <date>24 March 2026</date>
+  </channel>
+  <channel>
+    <name>BBC News UK</name>
+    <id>BBCNews.uk</id>
+    <title>BBC News</title>
+    <desc>The latest news from the BBC.</desc>
+    <image>https://images.metadata.sky.com/pd-image/a8332627-f38a-492a-87cd-c0c051ec756b/16-9</image>
+    <start>08:30AM</start>
+    <finish>09:00AM</finish>
+    <date>24 March 2026</date>
+  </channel>
+  <channel>
+    <name>BBC News UK</name>
+    <id>BBCNews.uk</id>
+    <title>BBC News</title>
+    <desc>The latest news from the BBC.</desc>
+    <image>https://images.metadata.sky.com/pd-image/03737c64-3a85-4f0d-a794-e42bcb23ca22/16-9</image>
+    <start>09:00AM</start>
+    <finish>09:30AM</finish>
+    <date>24 March 2026</date>
+  </channel>
+  <channel>
+    <name>BBC News UK</name>
+    <id>BBCNews.uk</id>
+    <title>BBC News</title>
+    <desc>The latest news from the BBC.</desc>
+    <image>https://images.metadata.sky.com/pd-image/4ee3dbf4-4237-49f4-ac82-9e1a61e54b25/16-9</image>
+    <start>09:30AM</start>
+    <finish>10:00AM</finish>
+    <date>24 March 2026</date>
+  </channel>
+  <channel>
+    <name>BBC News UK</name>
+    <id>BBCNews.uk</id>
+    <title>BBC News</title>
+    <desc>The latest news from the BBC.</desc>
+    <image>https://images.metadata.sky.com/pd-image/c8859c8d-900e-4243-9235-d1932e45ac76/16-9</image>
+    <start>10:00AM</start>
+    <finish>10:30AM</finish>
+    <date>24 March 2026</date>
+  </channel>
+  <channel>
+    <name>BBC News UK</name>
+    <id>BBCNews.uk</id>
+    <title>BBC News</title>
+    <desc>The latest news from the BBC.</desc>
+    <image>https://images.metadata.sky.com/pd-image/225d3a66-0384-4566-86b4-20a831bd4f47/16-9</image>
+    <start>10:30AM</start>
+    <finish>11:00AM</finish>
+    <date>24 March 2026</date>
+  </channel>
+  <channel>
+    <name>BBC News UK</name>
+    <id>BBCNews.uk</id>
+    <title>BBC News</title>
+    <desc>The latest news from the BBC.</desc>
+    <image>https://images.metadata.sky.com/pd-image/c0ce1837-5378-47e0-b331-bfba7ac4bccc/16-9</image>
+    <start>11:00AM</start>
+    <finish>11:30AM</finish>
+    <date>24 March 2026</date>
+  </channel>
+  <channel>
+    <name>BBC News UK</name>
+    <id>BBCNews.uk</id>
+    <title>Business Today</title>
+    <desc>Bringing the latest business news and up-to-date informed analysis from London and around the world.</desc>
+    <image>https://images.metadata.sky.com/pd-image/5e85aa19-399e-4c47-9ccb-0d001bc0b482/16-9</image>
+    <start>11:30AM</start>
+    <finish>11:45AM</finish>
+    <date>24 March 2026</date>
+  </channel>
+  <channel>
+    <name>BBC News UK</name>
+    <id>BBCNews.uk</id>
+    <title>BBC News</title>
+    <desc>The latest news from the BBC.</desc>
+    <image>https://images.metadata.sky.com/pd-image/03d6e8b9-bc61-4b7b-b318-cbe7dcbf1c81/16-9</image>
+    <start>11:45AM</start>
+    <finish>12:00PM</finish>
+    <date>24 March 2026</date>
+  </channel>
+  <channel>
+    <name>BBC News UK</name>
+    <id>BBCNews.uk</id>
+    <title>BBC News Now</title>
+    <desc>All the big stories, live as they happen, presented by Lucy Hockings.</desc>
+    <image>https://images.metadata.sky.com/pd-image/024ba01d-2a3a-4579-88e1-ae7907dff3a8/16-9</image>
+    <start>12:00PM</start>
+    <finish>12:30PM</finish>
+    <date>24 March 2026</date>
+  </channel>
+  <channel>
+    <name>BBC News UK</name>
+    <id>BBCNews.uk</id>
+    <title>BBC News Now</title>
+    <desc>All the big stories, live as they happen, presented by Lucy Hockings.</desc>
+    <image>https://images.metadata.sky.com/pd-image/8d9c55d6-851f-437e-a9b9-c6aa62168d75/16-9</image>
+    <start>12:30PM</start>
+    <finish>01:00PM</finish>
+    <date>24 March 2026</date>
+  </channel>
+  <channel>
+    <name>BBC News UK</name>
+    <id>BBCNews.uk</id>
+    <title>Signed</title>
+    <desc>The latest national and international news from the BBC.</desc>
+    <image>https://images.metadata.sky.com/pd-image/a4acd420-7007-451d-9493-984366cf77bd/16-9</image>
+    <start>01:00PM</start>
+    <finish>02:00PM</finish>
+    <date>24 March 2026</date>
+  </channel>
+  <channel>
+    <name>BBC News UK</name>
+    <id>BBCNews.uk</id>
+    <title>BBC News Now</title>
+    <desc>All the big stories, live as they happen, presented by Lucy Hockings.</desc>
+    <image>https://images.metadata.sky.com/pd-image/c560877a-762d-423f-b860-2398d9af0a70/16-9</image>
+    <start>02:00PM</start>
+    <finish>02:30PM</finish>
+    <date>24 March 2026</date>
+  </channel>
+  <channel>
+    <name>BBC News UK</name>
+    <id>BBCNews.uk</id>
+    <title>BBC News Now</title>
+    <desc>All the big stories, live as they happen, presented by Lucy Hockings.</desc>
+    <image>https://images.metadata.sky.com/pd-image/5294146b-07be-42fa-b1a6-69e805777ee6/16-9</image>
+    <start>02:30PM</start>
+    <finish>03:00PM</finish>
+    <date>24 March 2026</date>
+  </channel>
+  <channel>
+    <name>BBC News UK</name>
+    <id>BBCNews.uk</id>
+    <title>Verified Live</title>
+    <desc>Matthew Amroliwala presents all the latest global and UK news, live from London.</desc>
+    <image>https://images.metadata.sky.com/pd-image/9d7a2d2f-9cd2-463d-97fe-54046bfb337d/16-9</image>
+    <start>03:00PM</start>
+    <finish>03:30PM</finish>
+    <date>24 March 2026</date>
+  </channel>
+  <channel>
+    <name>BBC News UK</name>
+    <id>BBCNews.uk</id>
+    <title>Verified Live</title>
+    <desc>Matthew Amroliwala presents all the latest global and UK news, live from London.</desc>
+    <image>https://images.metadata.sky.com/pd-image/abc425c9-d6d9-4772-bb1f-c43cbf1c38e9/16-9</image>
+    <start>03:30PM</start>
+    <finish>04:00PM</finish>
+    <date>24 March 2026</date>
+  </channel>
+  <channel>
+    <name>BBC News UK</name>
+    <id>BBCNews.uk</id>
+    <title>Verified Live</title>
+    <desc>Matthew Amroliwala presents all the latest global and UK news, live from London.</desc>
+    <image>https://images.metadata.sky.com/pd-image/7005806c-4770-44d5-b341-aef7f170e287/16-9</image>
+    <start>04:00PM</start>
+    <finish>04:30PM</finish>
+    <date>24 March 2026</date>
+  </channel>
+  <channel>
+    <name>BBC News UK</name>
+    <id>BBCNews.uk</id>
+    <title>Business Today</title>
+    <desc>Bringing the latest business news and up-to-date informed analysis from London and around the world.</desc>
+    <image>https://images.metadata.sky.com/pd-image/04836fbd-1c6e-4f7b-8cea-c5aaac1bcfc0/16-9</image>
+    <start>04:30PM</start>
+    <finish>04:45PM</finish>
+    <date>24 March 2026</date>
+  </channel>
+  <channel>
+    <name>BBC News UK</name>
+    <id>BBCNews.uk</id>
+    <title>Verified Live</title>
+    <desc>Matthew Amroliwala presents all the latest global and UK news, live from London.</desc>
+    <image>https://images.metadata.sky.com/pd-image/9ff3d345-d92f-4b86-b147-e3d0f7b3357d/16-9</image>
+    <start>04:45PM</start>
+    <finish>05:00PM</finish>
+    <date>24 March 2026</date>
+  </channel>
+  <channel>
+    <name>BBC News UK</name>
+    <id>BBCNews.uk</id>
+    <title>Verified Live</title>
+    <desc>Matthew Amroliwala presents all the latest global and UK news, live from London.</desc>
+    <image>https://images.metadata.sky.com/pd-image/17852dc6-5468-470f-bdab-d51b49696c05/16-9</image>
+    <start>05:00PM</start>
+    <finish>05:30PM</finish>
+    <date>24 March 2026</date>
+  </channel>
+  <channel>
+    <name>BBC News UK</name>
+    <id>BBCNews.uk</id>
+    <title>BBC News</title>
+    <desc>The latest news from the BBC.</desc>
+    <image>https://images.metadata.sky.com/pd-image/4f65f8c8-5dd5-4539-99b7-99c9e1b03ddd/16-9</image>
+    <start>05:30PM</start>
+    <finish>06:00PM</finish>
+    <date>24 March 2026</date>
+  </channel>
+  <channel>
+    <name>BBC News UK</name>
+    <id>BBCNews.uk</id>
+    <title>Signed</title>
+    <desc>The latest national and international news from the BBC.</desc>
+    <image>https://images.metadata.sky.com/pd-image/942485c8-21a5-4836-b854-4f4f09631ea6/16-9</image>
+    <start>06:00PM</start>
+    <finish>06:30PM</finish>
+    <date>24 March 2026</date>
+  </channel>
+  <channel>
+    <name>BBC News UK</name>
+    <id>BBCNews.uk</id>
+    <title>The Iran War Today</title>
+    <desc>A daily briefing from BBC News on the latest developments on the Israel-US war in Iran.</desc>
+    <image>https://images.metadata.sky.com/pd-image/6accce23-6c03-4d86-935f-54262c6e0770/16-9</image>
+    <start>06:30PM</start>
+    <finish>06:45PM</finish>
+    <date>24 March 2026</date>
+  </channel>
+  <channel>
+    <name>BBC News UK</name>
+    <id>BBCNews.uk</id>
+    <title>The World Today with Maryam Moshiri</title>
+    <desc>Watch the best of the BBC's journalism from around the world.</desc>
+    <image>https://images.metadata.sky.com/pd-image/18a2b358-be92-468b-b6d3-13a2de568573/16-9</image>
+    <start>06:45PM</start>
+    <finish>07:00PM</finish>
+    <date>24 March 2026</date>
+  </channel>
+  <channel>
+    <name>BBC News UK</name>
+    <id>BBCNews.uk</id>
+    <title>The World Today with Maryam Moshiri</title>
+    <desc>Watch the best of the BBC's journalism from around the world.</desc>
+    <image>https://images.metadata.sky.com/pd-image/42745788-0622-4b17-bd91-1529ae7ba91b/16-9</image>
+    <start>07:00PM</start>
+    <finish>07:30PM</finish>
+    <date>24 March 2026</date>
+  </channel>
+  <channel>
+    <name>BBC News UK</name>
+    <id>BBCNews.uk</id>
+    <title>The World Today with Maryam Moshiri</title>
+    <desc>Watch the best of the BBC's journalism from around the world.</desc>
+    <image>https://images.metadata.sky.com/pd-image/6dfe07f5-9a92-4d7a-ac01-e5def1fd4a59/16-9</image>
+    <start>07:30PM</start>
+    <finish>08:00PM</finish>
+    <date>24 March 2026</date>
+  </channel>
+  <channel>
+    <name>BBC News UK</name>
+    <id>BBCNews.uk</id>
+    <title>The Context USA</title>
+    <desc>Special coverage from Washington DC and London, focusing on President Trump's second term.</desc>
+    <image>https://images.metadata.sky.com/pd-image/1c5c3391-1b40-4e9f-8ccf-bf6979582052/16-9</image>
+    <start>08:00PM</start>
+    <finish>08:30PM</finish>
+    <date>24 March 2026</date>
+  </channel>
+  <channel>
+    <name>BBC News UK</name>
+    <id>BBCNews.uk</id>
+    <title>The Context USA</title>
+    <desc>Special coverage from Washington DC and London, focusing on President Trump's second term.</desc>
+    <image>https://images.metadata.sky.com/pd-image/88a48b35-ab97-48f0-a80a-d9bc4db63486/16-9</image>
+    <start>08:30PM</start>
+    <finish>09:00PM</finish>
+    <date>24 March 2026</date>
+  </channel>
+  <channel>
+    <name>BBC News UK</name>
+    <id>BBCNews.uk</id>
+    <title>The Context</title>
+    <desc>A regular panel of guests from across the political spectrum discuss the biggest international stories of the day.</desc>
+    <image>https://images.metadata.sky.com/pd-image/f405897e-6dcb-476b-b545-4faca7a49b3b/16-9</image>
+    <start>09:00PM</start>
+    <finish>09:30PM</finish>
+    <date>24 March 2026</date>
+  </channel>
+  <channel>
+    <name>BBC News UK</name>
+    <id>BBCNews.uk</id>
+    <title>The Context</title>
+    <desc>A regular panel of guests from across the political spectrum discuss the biggest international stories of the day.</desc>
+    <image>https://images.metadata.sky.com/pd-image/004d0a03-8593-4c2b-832e-7974805323d3/16-9</image>
+    <start>09:30PM</start>
+    <finish>10:00PM</finish>
+    <date>24 March 2026</date>
+  </channel>
+  <channel>
+    <name>BBC News UK</name>
+    <id>BBCNews.uk</id>
+    <title>BBC News at Ten</title>
+    <desc>The latest national and international news, with reports from BBC correspondents worldwide.</desc>
+    <image>https://images.metadata.sky.com/pd-image/0ea65844-c1a7-4ee3-a4e9-091c56c7e670/16-9</image>
+    <start>10:00PM</start>
+    <finish>10:30PM</finish>
+    <date>24 March 2026</date>
+  </channel>
+  <channel>
+    <name>BBC News UK</name>
+    <id>BBCNews.uk</id>
+    <title>Newsnight</title>
+    <desc>Insights and global interviews on the news stories of the day. With Victoria Derbyshire.</desc>
+    <image>https://images.metadata.sky.com/pd-image/e7271ba7-c6de-4a52-a978-30f0c1266261/16-9</image>
+    <start>10:30PM</start>
+    <finish>11:00PM</finish>
+    <date>24 March 2026</date>
+  </channel>
+  <channel>
+    <name>BBC News UK</name>
+    <id>BBCNews.uk</id>
+    <title>BBC World News America</title>
+    <desc>The BBC presents in-depth reports on the major international and US news of the day presented from Washington DC.</desc>
+    <image>https://images.metadata.sky.com/pd-image/a6c1b002-d8a7-44e2-8a17-d4771d9274d2/16-9</image>
+    <start>11:00PM</start>
+    <finish>12:00AM</finish>
+    <date>24 March 2026</date>
+  </channel>
+  <channel>
+    <name>BBC News UK</name>
+    <id>BBCNews.uk</id>
+    <title>BBC News</title>
+    <desc>The latest news from the BBC.</desc>
+    <image>https://images.metadata.sky.com/pd-image/cd80fd1e-db21-4a42-b71b-22c07a34b35f/16-9</image>
+    <start>12:00AM</start>
+    <finish>12:30AM</finish>
+    <date>25 March 2026</date>
+  </channel>
+  <channel>
+    <name>BBC News UK</name>
+    <id>BBCNews.uk</id>
+    <title>Newscast</title>
+    <desc>Lighthearted discussion of the day's news.</desc>
+    <image>https://images.metadata.sky.com/pd-image/e2dd4cf9-7e21-489a-ac3f-73996346dd36/16-9</image>
+    <start>12:30AM</start>
+    <finish>01:00AM</finish>
+    <date>25 March 2026</date>
+  </channel>
+  <channel>
+    <name>BBC News UK</name>
+    <id>BBCNews.uk</id>
+    <title>BBC News</title>
+    <desc>The latest news from the BBC.</desc>
+    <image>https://images.metadata.sky.com/pd-image/a0784598-f6e8-4b7b-bc5b-d87ea4000a83/16-9</image>
+    <start>01:00AM</start>
+    <finish>01:30AM</finish>
+    <date>25 March 2026</date>
+  </channel>
+  <channel>
+    <name>BBC News UK</name>
+    <id>BBCNews.uk</id>
+    <title>Tech Now</title>
+    <desc>Alasdair Keane visits the underground insect farm turning food waste into animal feed. Lara Lewington meets the team supercharging the stethoscope.</desc>
+    <image>https://images.metadata.sky.com/pd-image/34fc4307-5766-41da-8858-4b917776d1f7/16-9</image>
+    <start>01:30AM</start>
+    <finish>02:00AM</finish>
+    <date>25 March 2026</date>
+  </channel>
+  <channel>
+    <name>BBC News UK</name>
+    <id>BBCNews.uk</id>
+    <title>Newsday</title>
+    <desc>Live from Singapore, the latest international news from the BBC.</desc>
+    <image>https://images.metadata.sky.com/pd-image/88e03de4-0c29-4ced-a730-8bffa0efab98/16-9</image>
+    <start>02:00AM</start>
+    <finish>02:30AM</finish>
+    <date>25 March 2026</date>
+  </channel>
+  <channel>
+    <name>BBC News UK</name>
+    <id>BBCNews.uk</id>
+    <title>Business Today</title>
+    <desc>Bringing the latest business news and up-to-date informed analysis from Singapore and around the world.</desc>
+    <image>https://images.metadata.sky.com/pd-image/b936bc12-6893-42e1-becd-a61b88bb2d8f/16-9</image>
+    <start>02:30AM</start>
+    <finish>02:45AM</finish>
+    <date>25 March 2026</date>
+  </channel>
+  <channel>
+    <name>BBC News UK</name>
+    <id>BBCNews.uk</id>
+    <title>BBC Sport</title>
+    <desc>A round-up of the day's sporting action, plus talking points, analysis and original journalism.</desc>
+    <image>https://images.metadata.sky.com/pd-image/360db410-b7bc-4e40-b04a-d0f8c2bb5a48/16-9</image>
+    <start>02:45AM</start>
+    <finish>03:00AM</finish>
+    <date>25 March 2026</date>
+  </channel>
+  <channel>
+    <name>BBC News UK</name>
+    <id>BBCNews.uk</id>
+    <title>Newsday</title>
+    <desc>Live from Singapore, the latest international news from the BBC.</desc>
+    <image>https://images.metadata.sky.com/pd-image/cbc8aac7-0d97-4c91-85b4-a09eec444d64/16-9</image>
+    <start>03:00AM</start>
+    <finish>03:30AM</finish>
+    <date>25 March 2026</date>
+  </channel>
+  <channel>
+    <name>BBC News UK</name>
+    <id>BBCNews.uk</id>
+    <title>Business Today</title>
+    <desc>Bringing the latest business news and up-to-date informed analysis from Singapore and around the world.</desc>
+    <image>https://images.metadata.sky.com/pd-image/42bff6ac-28eb-47be-9ada-a0240090320e/16-9</image>
+    <start>03:30AM</start>
+    <finish>03:45AM</finish>
+    <date>25 March 2026</date>
+  </channel>
+  <channel>
+    <name>BBC News UK</name>
+    <id>BBCNews.uk</id>
+    <title>Asia Specific</title>
+    <desc>Asia Specific brings you essential insights and conversations on the stories and trends shaping Asia Pacific, unpacked by those who know it best. Hosted in Singapore by Mariko Oi.</desc>
+    <image>https://images.metadata.sky.com/pd-image/b6b12ee7-b485-47a3-9f0c-ed2f87696336/16-9</image>
+    <start>03:45AM</start>
+    <finish>04:00AM</finish>
+    <date>25 March 2026</date>
+  </channel>
+  <channel>
+    <name>BBC News UK</name>
+    <id>BBCNews.uk</id>
+    <title>Newsday</title>
+    <desc>Live from Singapore, the latest international news from the BBC.</desc>
+    <image>https://images.metadata.sky.com/pd-image/1c1ad05f-bdcb-4dc6-a613-91e696586e48/16-9</image>
+    <start>04:00AM</start>
+    <finish>04:30AM</finish>
+    <date>25 March 2026</date>
+  </channel>
+  <channel>
+    <name>BBC News UK</name>
+    <id>BBCNews.uk</id>
+    <title>Business Today</title>
+    <desc>Bringing the latest business news and up-to-date informed analysis from Singapore and around the world.</desc>
+    <image>https://images.metadata.sky.com/pd-image/81dd1145-c324-4ef8-8049-e42443f4e302/16-9</image>
+    <start>04:30AM</start>
+    <finish>04:45AM</finish>
+    <date>25 March 2026</date>
+  </channel>
+  <channel>
+    <name>BBC News UK</name>
+    <id>BBCNews.uk</id>
+    <title>Asia Specific</title>
+    <desc>Asia Specific brings you essential insights and conversations on the stories and trends shaping Asia Pacific, unpacked by those who know it best. Hosted in Singapore by Mariko Oi.</desc>
+    <image>https://images.metadata.sky.com/pd-image/6b6e4d49-89a0-4003-acb9-31b049463096/16-9</image>
+    <start>04:45AM</start>
+    <finish>05:00AM</finish>
+    <date>25 March 2026</date>
+  </channel>
+  <channel>
+    <name>BBC News UK</name>
+    <id>BBCNews.uk</id>
+    <title>BBC News</title>
+    <desc>The latest news from the BBC.</desc>
+    <image>https://images.metadata.sky.com/pd-image/ab8a5b01-9fae-49a7-9d1e-45fd826a2c24/16-9</image>
+    <start>05:00AM</start>
+    <finish>05:30AM</finish>
+    <date>25 March 2026</date>
+  </channel>
+  <channel>
+    <name>BBC News UK</name>
+    <id>BBCNews.uk</id>
+    <title>Business Today</title>
+    <desc>Bringing the latest business news and up-to-date informed analysis from London and around the world.</desc>
+    <image>https://images.metadata.sky.com/pd-image/623b7299-afb2-4684-930f-7194ef766f3b/16-9</image>
+    <start>05:30AM</start>
+    <finish>06:00AM</finish>
+    <date>25 March 2026</date>
+  </channel>
+  <channel>
+    <name>BBC News UK</name>
+    <id>BBCNews.uk</id>
+    <title>BBC News</title>
+    <desc>The latest news from the BBC.</desc>
+    <image>https://images.metadata.sky.com/pd-image/2766e0a4-5acb-4686-be0a-dde452645dbc/16-9</image>
+    <start>06:00AM</start>
+    <finish>06:30AM</finish>
+    <date>25 March 2026</date>
+  </channel>
+  <channel>
+    <name>BBC News UK</name>
+    <id>BBCNews.uk</id>
+    <title>Business Today</title>
+    <desc>Bringing the latest business news and up-to-date informed analysis from London and around the world.</desc>
+    <image>https://images.metadata.sky.com/pd-image/7fc73278-2bd9-4ffd-8faf-81cbe2b69dea/16-9</image>
+    <start>06:30AM</start>
+    <finish>07:00AM</finish>
+    <date>25 March 2026</date>
+  </channel>
+  <channel>
+    <name>BBC News UK</name>
+    <id>BBCNews.uk</id>
+    <title>BBC News</title>
+    <desc>The latest news from the BBC.</desc>
+    <image>https://images.metadata.sky.com/pd-image/d18ac6df-6796-4021-9de5-ea1db77d9a18/16-9</image>
+    <start>07:00AM</start>
+    <finish>07:30AM</finish>
+    <date>25 March 2026</date>
+  </channel>
+  <channel>
+    <name>BBC News UK</name>
+    <id>BBCNews.uk</id>
+    <title>Business Today</title>
+    <desc>Bringing the latest business news and up-to-date informed analysis from London and around the world.</desc>
+    <image>https://images.metadata.sky.com/pd-image/953a99cf-d7da-444e-9053-871c42b3a9a2/16-9</image>
+    <start>07:30AM</start>
+    <finish>08:00AM</finish>
+    <date>25 March 2026</date>
+  </channel>
+  <channel>
+    <name>BBC News UK</name>
+    <id>BBCNews.uk</id>
+    <title>Signed</title>
+    <desc>The latest news from the BBC.</desc>
+    <image>https://images.metadata.sky.com/pd-image/a6c36066-bf8b-4f5a-aba7-96d180f73655/16-9</image>
+    <start>08:00AM</start>
+    <finish>08:30AM</finish>
+    <date>25 March 2026</date>
+  </channel>
+  <channel>
+    <name>BBC News UK</name>
+    <id>BBCNews.uk</id>
+    <title>BBC News</title>
+    <desc>The latest news from the BBC.</desc>
+    <image>https://images.metadata.sky.com/pd-image/ceebc9b9-bd42-488a-87e2-4a6769f81427/16-9</image>
+    <start>08:30AM</start>
+    <finish>09:00AM</finish>
+    <date>25 March 2026</date>
+  </channel>
+  <channel>
+    <name>BBC News UK</name>
+    <id>BBCNews.uk</id>
+    <title>BBC News</title>
+    <desc>The latest news from the BBC.</desc>
+    <image>https://images.metadata.sky.com/pd-image/6b43cebf-9115-4055-9114-fcc7f3330f6d/16-9</image>
+    <start>09:00AM</start>
+    <finish>09:30AM</finish>
+    <date>25 March 2026</date>
+  </channel>
+  <channel>
+    <name>BBC News UK</name>
+    <id>BBCNews.uk</id>
+    <title>BBC News</title>
+    <desc>The latest news from the BBC.</desc>
+    <image>https://images.metadata.sky.com/pd-image/d30aeb30-b1c0-42a9-9d72-83fa6aedda1a/16-9</image>
+    <start>09:30AM</start>
+    <finish>10:00AM</finish>
+    <date>25 March 2026</date>
+  </channel>
+  <channel>
+    <name>BBC News UK</name>
+    <id>BBCNews.uk</id>
+    <title>BBC News</title>
+    <desc>The latest news from the BBC.</desc>
+    <image>https://images.metadata.sky.com/pd-image/f1f88ee6-0958-4a39-8b23-453468eaa3ff/16-9</image>
+    <start>10:00AM</start>
+    <finish>10:30AM</finish>
+    <date>25 March 2026</date>
+  </channel>
+  <channel>
+    <name>BBC News UK</name>
+    <id>BBCNews.uk</id>
+    <title>BBC News</title>
+    <desc>The latest news from the BBC.</desc>
+    <image>https://images.metadata.sky.com/pd-image/b68f3765-a29c-4ba3-8535-116cd0d06f40/16-9</image>
+    <start>10:30AM</start>
+    <finish>11:00AM</finish>
+    <date>25 March 2026</date>
+  </channel>
+  <channel>
+    <name>BBC News UK</name>
+    <id>BBCNews.uk</id>
+    <title>BBC News</title>
+    <desc>The latest news from the BBC.</desc>
+    <image>https://images.metadata.sky.com/pd-image/2293c187-96df-42e6-ad4f-a58e63d2aa99/16-9</image>
+    <start>11:00AM</start>
+    <finish>11:30AM</finish>
+    <date>25 March 2026</date>
+  </channel>
+  <channel>
+    <name>BBC News UK</name>
+    <id>BBCNews.uk</id>
+    <title>Business Today</title>
+    <desc>Bringing the latest business news and up-to-date informed analysis from London and around the world.</desc>
+    <image>https://images.metadata.sky.com/pd-image/1bb17548-deeb-4875-b6bd-57da5a2b5b89/16-9</image>
+    <start>11:30AM</start>
+    <finish>11:45AM</finish>
+    <date>25 March 2026</date>
+  </channel>
+  <channel>
+    <name>BBC News UK</name>
+    <id>BBCNews.uk</id>
+    <title>BBC News</title>
+    <desc>The latest news from the BBC.</desc>
+    <image>https://images.metadata.sky.com/pd-image/03143ce4-ecdb-4a51-84b8-9505c0ad47f8/16-9</image>
+    <start>11:45AM</start>
+    <finish>11:55AM</finish>
+    <date>25 March 2026</date>
+  </channel>
+  <channel>
+    <name>BBC News UK</name>
+    <id>BBCNews.uk</id>
+    <title>Politics Prime Minister's Questions</title>
+    <desc>The big political issues of the day.</desc>
+    <image>https://images.metadata.sky.com/pd-image/baae23f6-fd0b-4a85-9a95-99f5eb8bd919/16-9</image>
+    <start>11:55AM</start>
+    <finish>01:00PM</finish>
+    <date>25 March 2026</date>
+  </channel>
+  <channel>
+    <name>BBC News UK</name>
+    <id>BBCNews.uk</id>
+    <title>Signed</title>
+    <desc>The latest national and international news from the BBC.</desc>
+    <image>https://images.metadata.sky.com/pd-image/94531204-2f85-4a76-af5f-075adc200588/16-9</image>
+    <start>01:00PM</start>
+    <finish>02:00PM</finish>
+    <date>25 March 2026</date>
+  </channel>
+  <channel>
+    <name>BBC News UK</name>
+    <id>BBCNews.uk</id>
+    <title>BBC News Now</title>
+    <desc>All the big stories, live as they happen, presented by Lucy Hockings.</desc>
+    <image>https://images.metadata.sky.com/pd-image/baa700cb-e3b0-407d-85f7-a71f9e97dd40/16-9</image>
+    <start>02:00PM</start>
+    <finish>02:30PM</finish>
+    <date>25 March 2026</date>
+  </channel>
+  <channel>
+    <name>BBC News UK</name>
+    <id>BBCNews.uk</id>
+    <title>BBC News Now</title>
+    <desc>All the big stories, live as they happen, presented by Lucy Hockings.</desc>
+    <image>https://images.metadata.sky.com/pd-image/c881358d-b755-4ef5-bc65-c589a4c5feec/16-9</image>
+    <start>02:30PM</start>
+    <finish>03:00PM</finish>
+    <date>25 March 2026</date>
+  </channel>
+  <channel>
+    <name>BBC News UK</name>
+    <id>BBCNews.uk</id>
+    <title>Verified Live</title>
+    <desc>Matthew Amroliwala presents all the latest global and UK news, live from London.</desc>
+    <image>https://images.metadata.sky.com/pd-image/23f048d3-d7f0-4e9b-a29f-371b85201f6c/16-9</image>
+    <start>03:00PM</start>
+    <finish>03:30PM</finish>
+    <date>25 March 2026</date>
+  </channel>
+  <channel>
+    <name>BBC News UK</name>
+    <id>BBCNews.uk</id>
+    <title>Verified Live</title>
+    <desc>Matthew Amroliwala presents all the latest global and UK news, live from London.</desc>
+    <image>https://images.metadata.sky.com/pd-image/4141945a-563e-443a-bc5f-147a0dbf1f9d/16-9</image>
+    <start>03:30PM</start>
+    <finish>04:00PM</finish>
+    <date>25 March 2026</date>
+  </channel>
+  <channel>
+    <name>BBC News UK</name>
+    <id>BBCNews.uk</id>
+    <title>Verified Live</title>
+    <desc>Matthew Amroliwala presents all the latest global and UK news, live from London.</desc>
+    <image>https://images.metadata.sky.com/pd-image/747dfdcd-0444-4f31-80bd-24406564a445/16-9</image>
+    <start>04:00PM</start>
+    <finish>04:30PM</finish>
+    <date>25 March 2026</date>
+  </channel>
+  <channel>
+    <name>BBC News UK</name>
+    <id>BBCNews.uk</id>
+    <title>Business Today</title>
+    <desc>Bringing the latest business news and up-to-date informed analysis from London and around the world.</desc>
+    <image>https://images.metadata.sky.com/pd-image/1f98a3ff-bfc8-4689-96ed-f682b81680be/16-9</image>
+    <start>04:30PM</start>
+    <finish>04:45PM</finish>
+    <date>25 March 2026</date>
+  </channel>
+  <channel>
+    <name>BBC News UK</name>
+    <id>BBCNews.uk</id>
+    <title>Verified Live</title>
+    <desc>Matthew Amroliwala presents all the latest global and UK news, live from London.</desc>
+    <image>https://images.metadata.sky.com/pd-image/619471e3-1980-40d1-9155-56a7fabb6eba/16-9</image>
+    <start>04:45PM</start>
+    <finish>05:00PM</finish>
+    <date>25 March 2026</date>
+  </channel>
+  <channel>
+    <name>BBC News UK</name>
+    <id>BBCNews.uk</id>
+    <title>Verified Live</title>
+    <desc>Matthew Amroliwala presents all the latest global and UK news, live from London.</desc>
+    <image>https://images.metadata.sky.com/pd-image/06046bcb-a316-43fd-ab0b-3ae261510191/16-9</image>
+    <start>05:00PM</start>
+    <finish>05:30PM</finish>
+    <date>25 March 2026</date>
+  </channel>
+  <channel>
+    <name>BBC News UK</name>
+    <id>BBCNews.uk</id>
+    <title>BBC News</title>
+    <desc>The latest news from the BBC.</desc>
+    <image>https://images.metadata.sky.com/pd-image/bcfb3f05-1c13-41a9-8d43-8deaa5254a97/16-9</image>
+    <start>05:30PM</start>
+    <finish>06:00PM</finish>
+    <date>25 March 2026</date>
+  </channel>
+  <channel>
+    <name>BBC News UK</name>
+    <id>BBCNews.uk</id>
+    <title>Signed</title>
+    <desc>The latest national and international news from the BBC.</desc>
+    <image>https://images.metadata.sky.com/pd-image/ffaf307a-f490-4bf1-89ee-08107007d5f6/16-9</image>
+    <start>06:00PM</start>
+    <finish>06:30PM</finish>
+    <date>25 March 2026</date>
+  </channel>
+  <channel>
+    <name>BBC News UK</name>
+    <id>BBCNews.uk</id>
+    <title>The Iran War Today</title>
+    <desc>A daily briefing from BBC News on the latest developments on the Israel-US war in Iran.</desc>
+    <image>https://images.metadata.sky.com/pd-image/24ffadb5-cb61-4145-9da7-4154b11af812/16-9</image>
+    <start>06:30PM</start>
+    <finish>06:45PM</finish>
+    <date>25 March 2026</date>
+  </channel>
+  <channel>
+    <name>BBC News UK</name>
+    <id>BBCNews.uk</id>
+    <title>The World Today with Maryam Moshiri</title>
+    <desc>Watch the best of the BBC's journalism from around the world.</desc>
+    <image>https://images.metadata.sky.com/pd-image/3e136640-fc1a-4bc6-9106-cea39c5ffcf8/16-9</image>
+    <start>06:45PM</start>
+    <finish>07:00PM</finish>
+    <date>25 March 2026</date>
+  </channel>
+  <channel>
+    <name>BBC News UK</name>
+    <id>BBCNews.uk</id>
+    <title>The World Today with Maryam Moshiri</title>
+    <desc>Watch the best of the BBC's journalism from around the world.</desc>
+    <image>https://images.metadata.sky.com/pd-image/e2d76447-46b5-41b7-9c0e-ae0c0fdc9922/16-9</image>
+    <start>07:00PM</start>
+    <finish>07:30PM</finish>
+    <date>25 March 2026</date>
+  </channel>
+  <channel>
+    <name>BBC News UK</name>
+    <id>BBCNews.uk</id>
+    <title>The World Today with Maryam Moshiri</title>
+    <desc>Watch the best of the BBC's journalism from around the world.</desc>
+    <image>https://images.metadata.sky.com/pd-image/74b6d18e-d226-4c3c-9e8f-d2dae15cc554/16-9</image>
+    <start>07:30PM</start>
+    <finish>08:00PM</finish>
+    <date>25 March 2026</date>
+  </channel>
+  <channel>
+    <name>BBC News UK</name>
+    <id>BBCNews.uk</id>
+    <title>The Context USA</title>
+    <desc>Special coverage from Washington DC and London, focusing on President Trump's second term.</desc>
+    <image>https://images.metadata.sky.com/pd-image/7dea25b6-e009-4a0c-996a-f979a9a5eb6c/16-9</image>
+    <start>08:00PM</start>
+    <finish>08:30PM</finish>
+    <date>25 March 2026</date>
+  </channel>
+  <channel>
+    <name>BBC News UK</name>
+    <id>BBCNews.uk</id>
+    <title>The Context USA</title>
+    <desc>Special coverage from Washington DC and London, focusing on President Trump's second term.</desc>
+    <image>https://images.metadata.sky.com/pd-image/0d7e9c1d-2ba5-486c-9dbc-b7344ad3a858/16-9</image>
+    <start>08:30PM</start>
+    <finish>09:00PM</finish>
+    <date>25 March 2026</date>
+  </channel>
+  <channel>
+    <name>BBC News UK</name>
+    <id>BBCNews.uk</id>
+    <title>The Context</title>
+    <desc>A regular panel of guests from across the political spectrum discuss the biggest international stories of the day.</desc>
+    <image>https://images.metadata.sky.com/pd-image/61ac2d2e-6ec8-42e2-8c89-49649c793631/16-9</image>
+    <start>09:00PM</start>
+    <finish>09:30PM</finish>
+    <date>25 March 2026</date>
+  </channel>
+  <channel>
+    <name>BBC News UK</name>
+    <id>BBCNews.uk</id>
+    <title>The Context</title>
+    <desc>A regular panel of guests from across the political spectrum discuss the biggest international stories of the day.</desc>
+    <image>https://images.metadata.sky.com/pd-image/46abc800-0a06-4634-9b83-0d5acd3a37da/16-9</image>
+    <start>09:30PM</start>
+    <finish>10:00PM</finish>
+    <date>25 March 2026</date>
+  </channel>
+  <channel>
+    <name>BBC News UK</name>
+    <id>BBCNews.uk</id>
+    <title>BBC News at Ten</title>
+    <desc>The latest national and international news, with reports from BBC correspondents worldwide.</desc>
+    <image>https://images.metadata.sky.com/pd-image/77484eec-503f-4e28-b49c-77bdb7a4bbd7/16-9</image>
+    <start>10:00PM</start>
+    <finish>10:30PM</finish>
+    <date>25 March 2026</date>
+  </channel>
+  <channel>
+    <name>BBC News UK</name>
+    <id>BBCNews.uk</id>
+    <title>Newsnight</title>
+    <desc>Insights and global interviews on the news stories of the day. With Victoria Derbyshire.</desc>
+    <image>https://images.metadata.sky.com/pd-image/7431658c-b7ea-4126-9c1e-e0e00cc803d4/16-9</image>
+    <start>10:30PM</start>
+    <finish>11:00PM</finish>
+    <date>25 March 2026</date>
+  </channel>
+  <channel>
+    <name>BBC News UK</name>
+    <id>BBCNews.uk</id>
+    <title>BBC World News America</title>
+    <desc>The BBC presents in-depth reports on the major international and US news of the day presented from Washington DC.</desc>
+    <image>https://images.metadata.sky.com/pd-image/79bbcfa0-179d-476e-a765-e56b4fe63705/16-9</image>
+    <start>11:00PM</start>
+    <finish>12:00AM</finish>
+    <date>25 March 2026</date>
+  </channel>
+  <channel>
+    <name>BBC News UK</name>
+    <id>BBCNews.uk</id>
+    <title>BBC News</title>
+    <desc>The latest news from the BBC.</desc>
+    <image>https://images.metadata.sky.com/pd-image/b57a0a3f-2982-4d08-8c54-3dd496736f83/16-9</image>
+    <start>12:00AM</start>
+    <finish>12:30AM</finish>
+    <date>26 March 2026</date>
+  </channel>
+  <channel>
+    <name>BBC News UK</name>
+    <id>BBCNews.uk</id>
+    <title>Newscast</title>
+    <desc>Lighthearted discussion of the day's news.</desc>
+    <image>https://images.metadata.sky.com/pd-image/e091dd8f-5ec6-4b71-872b-5ad574e447ec/16-9</image>
+    <start>12:30AM</start>
+    <finish>01:00AM</finish>
+    <date>26 March 2026</date>
+  </channel>
+  <channel>
+    <name>BBC News UK</name>
+    <id>BBCNews.uk</id>
+    <title>BBC News</title>
+    <desc>The latest news from the BBC.</desc>
+    <image>https://images.metadata.sky.com/pd-image/24445c0a-e721-471b-abae-e1318287fa41/16-9</image>
+    <start>01:00AM</start>
+    <finish>01:30AM</finish>
+    <date>26 March 2026</date>
+  </channel>
+  <channel>
+    <name>BBC News UK</name>
+    <id>BBCNews.uk</id>
+    <title>Talking Business</title>
+    <desc>Examining the business stories and economic trends that are re-shaping our world.</desc>
+    <image>https://images.metadata.sky.com/pd-image/eaf9c9bb-eb9b-4771-8efd-a5e6dddd15e9/16-9</image>
+    <start>01:30AM</start>
+    <finish>02:00AM</finish>
+    <date>26 March 2026</date>
+  </channel>
+  <channel>
+    <name>BBC News UK</name>
+    <id>BBCNews.uk</id>
+    <title>Newsday</title>
+    <desc>Live from Singapore, the latest international news from the BBC.</desc>
+    <image>https://images.metadata.sky.com/pd-image/9ca84d7c-e0e0-41a6-a73b-76b38d1aaaf1/16-9</image>
+    <start>02:00AM</start>
+    <finish>02:30AM</finish>
+    <date>26 March 2026</date>
+  </channel>
+  <channel>
+    <name>BBC News UK</name>
+    <id>BBCNews.uk</id>
+    <title>Business Today</title>
+    <desc>Bringing the latest business news and up-to-date informed analysis from Singapore and around the world.</desc>
+    <image>https://images.metadata.sky.com/pd-image/a593df8f-0419-4063-be36-36e659ae4e80/16-9</image>
+    <start>02:30AM</start>
+    <finish>02:45AM</finish>
+    <date>26 March 2026</date>
+  </channel>
+  <channel>
+    <name>BBC News UK</name>
+    <id>BBCNews.uk</id>
+    <title>BBC Sport</title>
+    <desc>A round-up of the day's sporting action, plus talking points, analysis and original journalism.</desc>
+    <image>https://images.metadata.sky.com/pd-image/e48ab390-2171-401a-bb2a-b695aacde992/16-9</image>
+    <start>02:45AM</start>
+    <finish>03:00AM</finish>
+    <date>26 March 2026</date>
+  </channel>
+  <channel>
+    <name>BBC News UK</name>
+    <id>BBCNews.uk</id>
+    <title>Newsday</title>
+    <desc>Live from Singapore, the latest international news from the BBC.</desc>
+    <image>https://images.metadata.sky.com/pd-image/3d2a497e-c921-4d2d-a5fc-7d49443b9ef6/16-9</image>
+    <start>03:00AM</start>
+    <finish>03:30AM</finish>
+    <date>26 March 2026</date>
+  </channel>
+  <channel>
+    <name>BBC News UK</name>
+    <id>BBCNews.uk</id>
+    <title>Business Today</title>
+    <desc>Bringing the latest business news and up-to-date informed analysis from Singapore and around the world.</desc>
+    <image>https://images.metadata.sky.com/pd-image/b8edfe90-5c76-47e0-9559-efa85fcff83f/16-9</image>
+    <start>03:30AM</start>
+    <finish>03:45AM</finish>
+    <date>26 March 2026</date>
+  </channel>
+  <channel>
+    <name>BBC News UK</name>
+    <id>BBCNews.uk</id>
+    <title>BBC Sport</title>
+    <desc>A round-up of the day's sporting action, plus talking points, analysis and original journalism.</desc>
+    <image>https://images.metadata.sky.com/pd-image/9c0f3283-09a8-43f3-b9a1-f319620dbc5f/16-9</image>
+    <start>03:45AM</start>
+    <finish>04:00AM</finish>
+    <date>26 March 2026</date>
+  </channel>
+  <channel>
+    <name>BBC News UK</name>
+    <id>BBCNews.uk</id>
+    <title>Newsday</title>
+    <desc>Live from Singapore, the latest international news from the BBC.</desc>
+    <image>https://images.metadata.sky.com/pd-image/14d6efec-c334-4a98-b825-6af8287161b6/16-9</image>
+    <start>04:00AM</start>
+    <finish>04:30AM</finish>
+    <date>26 March 2026</date>
+  </channel>
+  <channel>
+    <name>BBC News UK</name>
+    <id>BBCNews.uk</id>
+    <title>Business Today</title>
+    <desc>Bringing the latest business news and up-to-date informed analysis from Singapore and around the world.</desc>
+    <image>https://images.metadata.sky.com/pd-image/ee620652-8bff-4d2b-ad04-5a7db5714d1d/16-9</image>
+    <start>04:30AM</start>
+    <finish>04:45AM</finish>
+    <date>26 March 2026</date>
+  </channel>
+  <channel>
+    <name>BBC News UK</name>
+    <id>BBCNews.uk</id>
+    <title>BBC Sport</title>
+    <desc>A round-up of the day's sporting action, plus talking points, analysis and original journalism.</desc>
+    <image>https://images.metadata.sky.com/pd-image/571afef0-f7eb-41e3-8379-d152ab284d28/16-9</image>
+    <start>04:45AM</start>
+    <finish>05:00AM</finish>
+    <date>26 March 2026</date>
+  </channel>
+  <channel>
+    <name>BBC News UK</name>
+    <id>BBCNews.uk</id>
+    <title>BBC News</title>
+    <desc>The latest news from the BBC.</desc>
+    <image>https://images.metadata.sky.com/pd-image/8cf7773b-7a52-42f7-a345-2cdbe8275d43/16-9</image>
+    <start>05:00AM</start>
+    <finish>05:30AM</finish>
+    <date>26 March 2026</date>
+  </channel>
+  <channel>
+    <name>BBC News UK</name>
+    <id>BBCNews.uk</id>
+    <title>Business Today</title>
+    <desc>Bringing the latest business news and up-to-date informed analysis from London and around the world.</desc>
+    <image>https://images.metadata.sky.com/pd-image/ffdeebb6-57eb-4cb3-bccd-175742782153/16-9</image>
+    <start>05:30AM</start>
+    <finish>06:00AM</finish>
+    <date>26 March 2026</date>
+  </channel>
+  <channel>
+    <name>BBC News UK</name>
+    <id>BBCNews.uk</id>
+    <title>BBC News</title>
+    <desc>The latest news from the BBC.</desc>
+    <image>https://images.metadata.sky.com/pd-image/92aa15a8-f90b-4fa0-9c3e-5d18e124c928/16-9</image>
+    <start>06:00AM</start>
+    <finish>06:30AM</finish>
+    <date>26 March 2026</date>
+  </channel>
+  <channel>
+    <name>BBC News UK</name>
+    <id>BBCNews.uk</id>
+    <title>Business Today</title>
+    <desc>Bringing the latest business news and up-to-date informed analysis from London and around the world.</desc>
+    <image>https://images.metadata.sky.com/pd-image/cf66bf02-2405-4eda-98b9-78abe29b42cb/16-9</image>
+    <start>06:30AM</start>
+    <finish>07:00AM</finish>
+    <date>26 March 2026</date>
+  </channel>
+  <channel>
+    <name>BBC News UK</name>
+    <id>BBCNews.uk</id>
+    <title>BBC News</title>
+    <desc>The latest news from the BBC.</desc>
+    <image>https://images.metadata.sky.com/pd-image/64590b14-3672-46a7-81bf-6b57b177560a/16-9</image>
+    <start>07:00AM</start>
+    <finish>07:30AM</finish>
+    <date>26 March 2026</date>
+  </channel>
+  <channel>
+    <name>BBC News UK</name>
+    <id>BBCNews.uk</id>
+    <title>Business Today</title>
+    <desc>Bringing the latest business news and up-to-date informed analysis from London and around the world.</desc>
+    <image>https://images.metadata.sky.com/pd-image/c2ff014f-a9ef-462d-a53a-36750e69364a/16-9</image>
+    <start>07:30AM</start>
+    <finish>08:00AM</finish>
+    <date>26 March 2026</date>
+  </channel>
+  <channel>
+    <name>BBC News UK</name>
+    <id>BBCNews.uk</id>
+    <title>Signed</title>
+    <desc>The latest news from the BBC.</desc>
+    <image>https://images.metadata.sky.com/pd-image/cdbdfebb-75a4-4b86-bd3a-e0f7b11dd471/16-9</image>
+    <start>08:00AM</start>
+    <finish>08:30AM</finish>
+    <date>26 March 2026</date>
+  </channel>
+  <channel>
+    <name>BBC News UK</name>
+    <id>BBCNews.uk</id>
+    <title>BBC News</title>
+    <desc>The latest news from the BBC.</desc>
+    <image>https://images.metadata.sky.com/pd-image/923a906d-8a34-4ce1-b090-f1f4e6a105f8/16-9</image>
+    <start>08:30AM</start>
+    <finish>09:00AM</finish>
+    <date>26 March 2026</date>
+  </channel>
+  <channel>
+    <name>BBC News UK</name>
+    <id>BBCNews.uk</id>
+    <title>BBC News</title>
+    <desc>The latest news from the BBC.</desc>
+    <image>https://images.metadata.sky.com/pd-image/14a938b1-8a66-4e89-814d-f03ff29d8d23/16-9</image>
+    <start>09:00AM</start>
+    <finish>09:30AM</finish>
+    <date>26 March 2026</date>
+  </channel>
+  <channel>
+    <name>BBC News UK</name>
+    <id>BBCNews.uk</id>
+    <title>BBC News</title>
+    <desc>The latest news from the BBC.</desc>
+    <image>https://images.metadata.sky.com/pd-image/8c50088e-11de-4ad7-b7fe-b52a80de747a/16-9</image>
+    <start>09:30AM</start>
+    <finish>10:00AM</finish>
+    <date>26 March 2026</date>
+  </channel>
+  <channel>
+    <name>BBC News UK</name>
+    <id>BBCNews.uk</id>
+    <title>BBC News</title>
+    <desc>The latest news from the BBC.</desc>
+    <image>https://images.metadata.sky.com/pd-image/0068af81-e480-4948-8b54-426f78be7ed7/16-9</image>
+    <start>10:00AM</start>
+    <finish>10:30AM</finish>
+    <date>26 March 2026</date>
+  </channel>
+  <channel>
+    <name>BBC News UK</name>
+    <id>BBCNews.uk</id>
+    <title>BBC News</title>
+    <desc>The latest news from the BBC.</desc>
+    <image>https://images.metadata.sky.com/pd-image/b5ed9370-a96d-4c30-a3ab-e387a807d182/16-9</image>
+    <start>10:30AM</start>
+    <finish>11:00AM</finish>
+    <date>26 March 2026</date>
+  </channel>
+  <channel>
+    <name>BBC News UK</name>
+    <id>BBCNews.uk</id>
+    <title>BBC News</title>
+    <desc>The latest news from the BBC.</desc>
+    <image>https://images.metadata.sky.com/pd-image/3f5fe251-af3f-4311-acd1-97672c28d66a/16-9</image>
+    <start>11:00AM</start>
+    <finish>11:30AM</finish>
+    <date>26 March 2026</date>
+  </channel>
+  <channel>
+    <name>BBC News UK</name>
+    <id>BBCNews.uk</id>
+    <title>Business Today</title>
+    <desc>Bringing the latest business news and up-to-date informed analysis from London and around the world.</desc>
+    <image>https://images.metadata.sky.com/pd-image/cbd1781e-8c69-4ebd-8a35-04ac5b930d3a/16-9</image>
+    <start>11:30AM</start>
+    <finish>11:45AM</finish>
+    <date>26 March 2026</date>
+  </channel>
+  <channel>
+    <name>BBC News UK</name>
+    <id>BBCNews.uk</id>
+    <title>BBC News</title>
+    <desc>The latest news from the BBC.</desc>
+    <image>https://images.metadata.sky.com/pd-image/806877f6-cbd7-414d-b5bc-cdfd037d4451/16-9</image>
+    <start>11:45AM</start>
+    <finish>12:00PM</finish>
+    <date>26 March 2026</date>
+  </channel>
+  <channel>
+    <name>BBC News UK</name>
+    <id>BBCNews.uk</id>
+    <title>BBC News Now</title>
+    <desc>All the big stories, live as they happen, presented by Lucy Hockings.</desc>
+    <image>https://images.metadata.sky.com/pd-image/b48e4a6c-869b-4a52-8a67-6ff5550ca579/16-9</image>
+    <start>12:00PM</start>
+    <finish>12:30PM</finish>
+    <date>26 March 2026</date>
+  </channel>
+  <channel>
+    <name>BBC News UK</name>
+    <id>BBCNews.uk</id>
+    <title>BBC News Now</title>
+    <desc>All the big stories, live as they happen, presented by Lucy Hockings.</desc>
+    <image>https://images.metadata.sky.com/pd-image/24f5539e-42f9-4d54-8ad5-337bde62bc6e/16-9</image>
+    <start>12:30PM</start>
+    <finish>01:00PM</finish>
+    <date>26 March 2026</date>
+  </channel>
+  <channel>
+    <name>BBC News UK</name>
+    <id>BBCNews.uk</id>
+    <title>Signed</title>
+    <desc>The latest national and international news from the BBC.</desc>
+    <image>https://images.metadata.sky.com/pd-image/60f7245a-bc89-4fd5-9032-f0d181b7d49a/16-9</image>
+    <start>01:00PM</start>
+    <finish>02:00PM</finish>
+    <date>26 March 2026</date>
+  </channel>
+  <channel>
+    <name>BBC News UK</name>
+    <id>BBCNews.uk</id>
+    <title>BBC News Now</title>
+    <desc>All the big stories, live as they happen, presented by Lucy Hockings.</desc>
+    <image>https://images.metadata.sky.com/pd-image/d0467e5a-3dce-4b7c-9c67-cbb15eb9d055/16-9</image>
+    <start>02:00PM</start>
+    <finish>02:30PM</finish>
+    <date>26 March 2026</date>
+  </channel>
+  <channel>
+    <name>BBC News UK</name>
+    <id>BBCNews.uk</id>
+    <title>BBC News Now</title>
+    <desc>All the big stories, live as they happen, presented by Lucy Hockings.</desc>
+    <image>https://images.metadata.sky.com/pd-image/6176ad7a-6eb5-4f22-932c-04cecbc5533a/16-9</image>
+    <start>02:30PM</start>
+    <finish>03:00PM</finish>
+    <date>26 March 2026</date>
+  </channel>
+  <channel>
+    <name>BBC News UK</name>
+    <id>BBCNews.uk</id>
+    <title>Verified Live</title>
+    <desc>Matthew Amroliwala presents all the latest global and UK news, live from London.</desc>
+    <image>https://images.metadata.sky.com/pd-image/ee275702-5455-405a-b8ac-1530c6e4503f/16-9</image>
+    <start>03:00PM</start>
+    <finish>03:30PM</finish>
+    <date>26 March 2026</date>
+  </channel>
+  <channel>
+    <name>BBC News UK</name>
+    <id>BBCNews.uk</id>
+    <title>Verified Live</title>
+    <desc>Matthew Amroliwala presents all the latest global and UK news, live from London.</desc>
+    <image>https://images.metadata.sky.com/pd-image/9cbbf269-16eb-4d4e-a91d-da12417c5417/16-9</image>
+    <start>03:30PM</start>
+    <finish>04:00PM</finish>
+    <date>26 March 2026</date>
+  </channel>
+  <channel>
+    <name>BBC News UK</name>
+    <id>BBCNews.uk</id>
+    <title>Verified Live</title>
+    <desc>Matthew Amroliwala presents all the latest global and UK news, live from London.</desc>
+    <image>https://images.metadata.sky.com/pd-image/5486f20f-2a75-49ca-b89e-6974504f93e4/16-9</image>
+    <start>04:00PM</start>
+    <finish>04:30PM</finish>
+    <date>26 March 2026</date>
+  </channel>
+  <channel>
+    <name>BBC News UK</name>
+    <id>BBCNews.uk</id>
+    <title>Business Today</title>
+    <desc>Bringing the latest business news and up-to-date informed analysis from London and around the world.</desc>
+    <image>https://images.metadata.sky.com/pd-image/9515b49a-c9d2-4e3a-9f72-fcaa6aa9fdfb/16-9</image>
+    <start>04:30PM</start>
+    <finish>04:45PM</finish>
+    <date>26 March 2026</date>
+  </channel>
+  <channel>
+    <name>BBC News UK</name>
+    <id>BBCNews.uk</id>
+    <title>Verified Live</title>
+    <desc>Matthew Amroliwala presents all the latest global and UK news, live from London.</desc>
+    <image>https://images.metadata.sky.com/pd-image/9b88a53d-f2d7-4f29-b948-4f6ee5fe5641/16-9</image>
+    <start>04:45PM</start>
+    <finish>05:00PM</finish>
+    <date>26 March 2026</date>
+  </channel>
+  <channel>
+    <name>BBC News UK</name>
+    <id>BBCNews.uk</id>
+    <title>Verified Live</title>
+    <desc>Matthew Amroliwala presents all the latest global and UK news, live from London.</desc>
+    <image>https://images.metadata.sky.com/pd-image/8c5f882d-86a5-4d6e-8e78-f1dc1141a900/16-9</image>
+    <start>05:00PM</start>
+    <finish>05:30PM</finish>
+    <date>26 March 2026</date>
+  </channel>
+  <channel>
+    <name>BBC News UK</name>
+    <id>BBCNews.uk</id>
+    <title>BBC News</title>
+    <desc>The latest news from the BBC.</desc>
+    <image>https://images.metadata.sky.com/pd-image/59b497ba-8eee-45ad-a9bf-8d36d3a73005/16-9</image>
+    <start>05:30PM</start>
+    <finish>06:00PM</finish>
+    <date>26 March 2026</date>
+  </channel>
+  <channel>
+    <name>BBC News UK</name>
+    <id>BBCNews.uk</id>
+    <title>Signed</title>
+    <desc>The latest national and international news from the BBC.</desc>
+    <image>https://images.metadata.sky.com/pd-image/100656b5-9d89-4634-9422-adf7933e36b9/16-9</image>
+    <start>06:00PM</start>
+    <finish>06:30PM</finish>
+    <date>26 March 2026</date>
+  </channel>
+  <channel>
+    <name>BBC News UK</name>
+    <id>BBCNews.uk</id>
+    <title>The Iran War Today</title>
+    <desc>A daily briefing from BBC News on the latest developments on the Israel-US war in Iran.</desc>
+    <image>https://images.metadata.sky.com/pd-image/3a15df35-034c-4d28-a2c7-4238e15a0add/16-9</image>
+    <start>06:30PM</start>
+    <finish>06:45PM</finish>
+    <date>26 March 2026</date>
+  </channel>
+  <channel>
+    <name>BBC News UK</name>
+    <id>BBCNews.uk</id>
+    <title>The World Today with Maryam Moshiri</title>
+    <desc>Watch the best of the BBC's journalism from around the world.</desc>
+    <image>https://images.metadata.sky.com/pd-image/93820248-7836-4cc0-8467-ba685461a946/16-9</image>
+    <start>06:45PM</start>
+    <finish>07:00PM</finish>
+    <date>26 March 2026</date>
+  </channel>
+  <channel>
+    <name>BBC News UK</name>
+    <id>BBCNews.uk</id>
+    <title>The World Today with Maryam Moshiri</title>
+    <desc>Watch the best of the BBC's journalism from around the world.</desc>
+    <image>https://images.metadata.sky.com/pd-image/cc4b47db-3683-4206-bf38-9a0a5164f00e/16-9</image>
+    <start>07:00PM</start>
+    <finish>07:30PM</finish>
+    <date>26 March 2026</date>
+  </channel>
+  <channel>
+    <name>BBC News UK</name>
+    <id>BBCNews.uk</id>
+    <title>The World Today with Maryam Moshiri</title>
+    <desc>Watch the best of the BBC's journalism from around the world.</desc>
+    <image>https://images.metadata.sky.com/pd-image/42147651-db1c-46e7-bd95-db6bf3228a8c/16-9</image>
+    <start>07:30PM</start>
+    <finish>08:00PM</finish>
+    <date>26 March 2026</date>
+  </channel>
+  <channel>
+    <name>BBC News UK</name>
+    <id>BBCNews.uk</id>
+    <title>The Context USA</title>
+    <desc>Special coverage from Washington DC and London, focusing on President Trump's second term.</desc>
+    <image>https://images.metadata.sky.com/pd-image/fec4a258-584f-4533-ac04-fdb93ce42922/16-9</image>
+    <start>08:00PM</start>
+    <finish>08:30PM</finish>
+    <date>26 March 2026</date>
+  </channel>
+  <channel>
+    <name>BBC News UK</name>
+    <id>BBCNews.uk</id>
+    <title>The Context USA</title>
+    <desc>Special coverage from Washington DC and London, focusing on President Trump's second term.</desc>
+    <image>https://images.metadata.sky.com/pd-image/7609b77a-4363-4158-a194-ef2f7178522d/16-9</image>
+    <start>08:30PM</start>
+    <finish>09:00PM</finish>
+    <date>26 March 2026</date>
+  </channel>
+  <channel>
+    <name>BBC News UK</name>
+    <id>BBCNews.uk</id>
+    <title>Question Time</title>
+    <desc>Fiona Bruce presents an hour of topical debate.</desc>
+    <image>https://images.metadata.sky.com/pd-image/db9f5009-bfc6-4576-8155-3433f4289762/16-9</image>
+    <start>09:00PM</start>
+    <finish>10:00PM</finish>
+    <date>26 March 2026</date>
+  </channel>
+  <channel>
+    <name>BBC News UK</name>
+    <id>BBCNews.uk</id>
+    <title>BBC News at Ten</title>
+    <desc>The latest national and international news, with reports from BBC correspondents worldwide.</desc>
+    <image>https://images.metadata.sky.com/pd-image/b4b629e0-b856-4321-8a3f-aecc93230eba/16-9</image>
+    <start>10:00PM</start>
+    <finish>10:30PM</finish>
+    <date>26 March 2026</date>
+  </channel>
+  <channel>
+    <name>BBC News UK</name>
+    <id>BBCNews.uk</id>
+    <title>Newsnight</title>
+    <desc>Insights and global interviews on the news stories of the day. With Patrick O'Connell.</desc>
+    <image>https://images.metadata.sky.com/pd-image/0b4a0b89-f990-4eb1-be58-3ebea4816746/16-9</image>
+    <start>10:30PM</start>
+    <finish>11:00PM</finish>
+    <date>26 March 2026</date>
+  </channel>
+  <channel>
+    <name>BBC News UK</name>
+    <id>BBCNews.uk</id>
+    <title>BBC World News America</title>
+    <desc>The BBC presents in-depth reports on the major international and US news of the day presented from Washington DC.</desc>
+    <image>https://images.metadata.sky.com/pd-image/ae1e5aa4-6fd8-434b-bfc6-1b32b4178eb7/16-9</image>
+    <start>11:00PM</start>
+    <finish>12:00AM</finish>
+    <date>26 March 2026</date>
+  </channel>
+  <channel>
+    <name>BBC News UK</name>
+    <id>BBCNews.uk</id>
+    <title>BBC News</title>
+    <desc>The latest news from the BBC.</desc>
+    <image>https://images.metadata.sky.com/pd-image/0b6bf784-6d63-42ba-a0e9-9efc77af4c45/16-9</image>
+    <start>12:00AM</start>
+    <finish>12:30AM</finish>
+    <date>27 March 2026</date>
+  </channel>
+  <channel>
+    <name>BBC News UK</name>
+    <id>BBCNews.uk</id>
+    <title>Newscast</title>
+    <desc>Lighthearted discussion of the day's news.</desc>
+    <image>https://images.metadata.sky.com/pd-image/2ad09719-f864-44f2-91a3-9080df736a34/16-9</image>
+    <start>12:30AM</start>
+    <finish>01:00AM</finish>
+    <date>27 March 2026</date>
+  </channel>
+  <channel>
+    <name>BBC News UK</name>
+    <id>BBCNews.uk</id>
+    <title>BBC News</title>
+    <desc>The latest news from the BBC.</desc>
+    <image>https://images.metadata.sky.com/pd-image/1721fa72-b4eb-48f3-ab9b-35bef4670224/16-9</image>
+    <start>01:00AM</start>
+    <finish>01:30AM</finish>
+    <date>27 March 2026</date>
+  </channel>
+  <channel>
+    <name>BBC News UK</name>
+    <id>BBCNews.uk</id>
+    <title>The Media Show</title>
+    <desc>CNN's Frederik Pleitgen reports from Iran, and Oscars coverage with Tom Brook and Katey Rich.</desc>
+    <image>https://images.metadata.sky.com/pd-image/d84a6c3b-3323-44f0-b789-84b78fc0d632/16-9</image>
+    <start>01:30AM</start>
+    <finish>02:00AM</finish>
+    <date>27 March 2026</date>
+  </channel>
+  <channel>
+    <name>BBC News UK</name>
+    <id>BBCNews.uk</id>
+    <title>Newsday</title>
+    <desc>Live from Singapore, the latest international news from the BBC.</desc>
+    <image>https://images.metadata.sky.com/pd-image/b15045be-d1b8-4af4-b9ad-def816fc55bd/16-9</image>
+    <start>02:00AM</start>
+    <finish>02:30AM</finish>
+    <date>27 March 2026</date>
+  </channel>
+  <channel>
+    <name>BBC News UK</name>
+    <id>BBCNews.uk</id>
+    <title>Business Today</title>
+    <desc>Bringing the latest business news and up-to-date informed analysis from Singapore and around the world.</desc>
+    <image>https://images.metadata.sky.com/pd-image/cfacf8bb-a529-451e-a7c9-c7f3ced5a330/16-9</image>
+    <start>02:30AM</start>
+    <finish>02:45AM</finish>
+    <date>27 March 2026</date>
+  </channel>
+  <channel>
+    <name>BBC News UK</name>
+    <id>BBCNews.uk</id>
+    <title>BBC Sport</title>
+    <desc>A round-up of the day's sporting action, plus talking points, analysis and original journalism.</desc>
+    <image>https://images.metadata.sky.com/pd-image/a13a349d-0001-4284-9b0b-df5929d4dca3/16-9</image>
+    <start>02:45AM</start>
+    <finish>03:00AM</finish>
+    <date>27 March 2026</date>
+  </channel>
+  <channel>
+    <name>BBC News UK</name>
+    <id>BBCNews.uk</id>
+    <title>Newsday</title>
+    <desc>Live from Singapore, the latest international news from the BBC.</desc>
+    <image>https://images.metadata.sky.com/pd-image/eae86191-3a2b-4c5f-a5d9-3f8acd8cc02b/16-9</image>
+    <start>03:00AM</start>
+    <finish>03:30AM</finish>
+    <date>27 March 2026</date>
+  </channel>
+  <channel>
+    <name>BBC News UK</name>
+    <id>BBCNews.uk</id>
+    <title>Business Today</title>
+    <desc>Bringing the latest business news and up-to-date informed analysis from Singapore and around the world.</desc>
+    <image>https://images.metadata.sky.com/pd-image/48e8b406-4b63-41f5-a812-158b8bac28d1/16-9</image>
+    <start>03:30AM</start>
+    <finish>03:45AM</finish>
+    <date>27 March 2026</date>
+  </channel>
+  <channel>
+    <name>BBC News UK</name>
+    <id>BBCNews.uk</id>
+    <title>BBC Sport</title>
+    <desc>A round-up of the day's sporting action, plus talking points, analysis and original journalism.</desc>
+    <image>https://images.metadata.sky.com/pd-image/95f1bdb2-a575-4d25-9ff0-c71c891d7c1d/16-9</image>
+    <start>03:45AM</start>
+    <finish>04:00AM</finish>
+    <date>27 March 2026</date>
+  </channel>
+  <channel>
+    <name>BBC News UK</name>
+    <id>BBCNews.uk</id>
+    <title>Newsday</title>
+    <desc>Live from Singapore, the latest international news from the BBC.</desc>
+    <image>https://images.metadata.sky.com/pd-image/ceb7b910-4b10-4f13-905f-86c104b94100/16-9</image>
+    <start>04:00AM</start>
+    <finish>04:30AM</finish>
+    <date>27 March 2026</date>
+  </channel>
+  <channel>
+    <name>BBC News UK</name>
+    <id>BBCNews.uk</id>
+    <title>Business Today</title>
+    <desc>Bringing the latest business news and up-to-date informed analysis from Singapore and around the world.</desc>
+    <image>https://images.metadata.sky.com/pd-image/84449ead-3eb5-45f5-976b-2c38bbe621c1/16-9</image>
+    <start>04:30AM</start>
+    <finish>04:45AM</finish>
+    <date>27 March 2026</date>
+  </channel>
+  <channel>
+    <name>BBC News UK</name>
+    <id>BBCNews.uk</id>
+    <title>BBC Sport</title>
+    <desc>A round-up of the day's sporting action, plus talking points, analysis and original journalism.</desc>
+    <image>https://images.metadata.sky.com/pd-image/9f944b8f-0e3f-461c-952a-3e8fa91909c4/16-9</image>
+    <start>04:45AM</start>
+    <finish>05:00AM</finish>
+    <date>27 March 2026</date>
+  </channel>
+  <channel>
+    <name>BBC News UK</name>
+    <id>BBCNews.uk</id>
+    <title>BBC News</title>
+    <desc>The latest news from the BBC.</desc>
+    <image>https://images.metadata.sky.com/pd-image/7609e600-9e88-4eac-8583-bb18a612493a/16-9</image>
+    <start>05:00AM</start>
+    <finish>05:30AM</finish>
+    <date>27 March 2026</date>
+  </channel>
+  <channel>
+    <name>BBC News UK</name>
+    <id>BBCNews.uk</id>
+    <title>Business Today</title>
+    <desc>Bringing the latest business news and up-to-date informed analysis from London and around the world.</desc>
+    <image>https://images.metadata.sky.com/pd-image/834667f8-7752-4e58-bb84-93e76e220ad5/16-9</image>
+    <start>05:30AM</start>
+    <finish>06:00AM</finish>
+    <date>27 March 2026</date>
+  </channel>
+  <channel>
+    <name>BBC News UK</name>
+    <id>BBCNews.uk</id>
+    <title>BBC News</title>
+    <desc>The latest news from the BBC.</desc>
+    <image>https://images.metadata.sky.com/pd-image/a1a89d9b-31dd-498e-b4f2-d588adfc9b0b/16-9</image>
+    <start>06:00AM</start>
+    <finish>06:30AM</finish>
+    <date>27 March 2026</date>
+  </channel>
+  <channel>
+    <name>BBC News UK</name>
+    <id>BBCNews.uk</id>
+    <title>Business Today</title>
+    <desc>Bringing the latest business news and up-to-date informed analysis from London and around the world.</desc>
+    <image>https://images.metadata.sky.com/pd-image/ed8df39a-2f2f-4806-9d1b-e3d317d8a780/16-9</image>
+    <start>06:30AM</start>
+    <finish>07:00AM</finish>
+    <date>27 March 2026</date>
+  </channel>
+  <channel>
+    <name>BBC News UK</name>
+    <id>BBCNews.uk</id>
+    <title>BBC News</title>
+    <desc>The latest news from the BBC.</desc>
+    <image>https://images.metadata.sky.com/pd-image/603374d4-4582-405d-84b2-b36427a3b14c/16-9</image>
+    <start>07:00AM</start>
+    <finish>07:30AM</finish>
+    <date>27 March 2026</date>
+  </channel>
+  <channel>
+    <name>BBC News UK</name>
+    <id>BBCNews.uk</id>
+    <title>Business Today</title>
+    <desc>Bringing the latest business news and up-to-date informed analysis from London and around the world.</desc>
+    <image>https://images.metadata.sky.com/pd-image/48271306-d92d-45ed-8310-8319621b1606/16-9</image>
+    <start>07:30AM</start>
+    <finish>08:00AM</finish>
+    <date>27 March 2026</date>
+  </channel>
+  <channel>
+    <name>BBC News UK</name>
+    <id>BBCNews.uk</id>
+    <title>Signed</title>
+    <desc>The latest news from the BBC.</desc>
+    <image>https://images.metadata.sky.com/pd-image/a9d2c4df-0d16-4aac-b9e1-84c2ae66be99/16-9</image>
+    <start>08:00AM</start>
+    <finish>08:30AM</finish>
+    <date>27 March 2026</date>
+  </channel>
+  <channel>
+    <name>BBC News UK</name>
+    <id>BBCNews.uk</id>
+    <title>BBC News</title>
+    <desc>The latest news from the BBC.</desc>
+    <image>https://images.metadata.sky.com/pd-image/a243978d-9fbe-42b5-8eca-ccd70e046b56/16-9</image>
+    <start>08:30AM</start>
+    <finish>09:00AM</finish>
+    <date>27 March 2026</date>
+  </channel>
+  <channel>
+    <name>BBC News UK</name>
+    <id>BBCNews.uk</id>
+    <title>BBC News</title>
+    <desc>The latest news from the BBC.</desc>
+    <image>https://images.metadata.sky.com/pd-image/85dc6c97-5be5-46c0-81df-7e39683dd5b6/16-9</image>
+    <start>09:00AM</start>
+    <finish>09:30AM</finish>
+    <date>27 March 2026</date>
+  </channel>
+  <channel>
+    <name>BBC News UK</name>
+    <id>BBCNews.uk</id>
+    <title>BBC News</title>
+    <desc>The latest news from the BBC.</desc>
+    <image>https://images.metadata.sky.com/pd-image/992dfcd3-5117-4e27-a293-515955d65c39/16-9</image>
+    <start>09:30AM</start>
+    <finish>10:00AM</finish>
+    <date>27 March 2026</date>
+  </channel>
+  <channel>
+    <name>BBC News UK</name>
+    <id>BBCNews.uk</id>
+    <title>BBC News</title>
+    <desc>The latest news from the BBC.</desc>
+    <image>https://images.metadata.sky.com/pd-image/793b49c6-6434-4f56-a775-bbcb33349c93/16-9</image>
+    <start>10:00AM</start>
+    <finish>10:30AM</finish>
+    <date>27 March 2026</date>
+  </channel>
+  <channel>
+    <name>BBC News UK</name>
+    <id>BBCNews.uk</id>
+    <title>BBC News</title>
+    <desc>The latest news from the BBC.</desc>
+    <image>https://images.metadata.sky.com/pd-image/a433ccd5-6e73-48ee-8b22-de13cc36dbe5/16-9</image>
+    <start>10:30AM</start>
+    <finish>11:00AM</finish>
+    <date>27 March 2026</date>
+  </channel>
+  <channel>
+    <name>BBC News UK</name>
+    <id>BBCNews.uk</id>
+    <title>BBC News</title>
+    <desc>The latest news from the BBC.</desc>
+    <image>https://images.metadata.sky.com/pd-image/00345afa-e906-4e14-9608-6ea7a5011576/16-9</image>
+    <start>11:00AM</start>
+    <finish>11:30AM</finish>
+    <date>27 March 2026</date>
+  </channel>
+  <channel>
+    <name>BBC News UK</name>
+    <id>BBCNews.uk</id>
+    <title>Business Today</title>
+    <desc>Bringing the latest business news and up-to-date informed analysis from London and around the world.</desc>
+    <image>https://images.metadata.sky.com/pd-image/0973274f-be50-4d02-88e2-7a20e37b41c9/16-9</image>
+    <start>11:30AM</start>
+    <finish>11:45AM</finish>
+    <date>27 March 2026</date>
+  </channel>
+  <channel>
+    <name>BBC News UK</name>
+    <id>BBCNews.uk</id>
+    <title>BBC News</title>
+    <desc>The latest news from the BBC.</desc>
+    <image>https://images.metadata.sky.com/pd-image/d8a2f9b1-5d27-4443-9423-af4227258106/16-9</image>
+    <start>11:45AM</start>
+    <finish>12:00PM</finish>
+    <date>27 March 2026</date>
+  </channel>
+  <channel>
+    <name>BBC News UK</name>
+    <id>BBCNews.uk</id>
+    <title>BBC News Now</title>
+    <desc>All the big stories, live as they happen, presented by Lucy Hockings.</desc>
+    <image>https://images.metadata.sky.com/pd-image/b74b1c2b-a821-439d-8b1f-778ee6832c8a/16-9</image>
+    <start>12:00PM</start>
+    <finish>12:30PM</finish>
+    <date>27 March 2026</date>
+  </channel>
+  <channel>
+    <name>BBC News UK</name>
+    <id>BBCNews.uk</id>
+    <title>BBC News Now</title>
+    <desc>All the big stories, live as they happen, presented by Lucy Hockings.</desc>
+    <image>https://images.metadata.sky.com/pd-image/f7301229-9b04-42bc-97c2-03ad10d35761/16-9</image>
+    <start>12:30PM</start>
+    <finish>01:00PM</finish>
+    <date>27 March 2026</date>
+  </channel>
+  <channel>
+    <name>BBC News UK</name>
+    <id>BBCNews.uk</id>
+    <title>Signed</title>
+    <desc>The latest national and international news from the BBC.</desc>
+    <image>https://images.metadata.sky.com/pd-image/4a283e33-d31e-4a97-9952-f68d10699911/16-9</image>
+    <start>01:00PM</start>
+    <finish>02:00PM</finish>
+    <date>27 March 2026</date>
+  </channel>
+  <channel>
+    <name>BBC News UK</name>
+    <id>BBCNews.uk</id>
+    <title>BBC News Now</title>
+    <desc>All the big stories, live as they happen, presented by Lucy Hockings.</desc>
+    <image>https://images.metadata.sky.com/pd-image/ef1565cc-33a9-4749-9678-062762c2cd39/16-9</image>
+    <start>02:00PM</start>
+    <finish>02:30PM</finish>
+    <date>27 March 2026</date>
+  </channel>
+  <channel>
+    <name>BBC News UK</name>
+    <id>BBCNews.uk</id>
+    <title>BBC News Now</title>
+    <desc>All the big stories, live as they happen, presented by Lucy Hockings.</desc>
+    <image>https://images.metadata.sky.com/pd-image/b5811d07-8110-4c47-9722-8c6e7677d2a8/16-9</image>
+    <start>02:30PM</start>
+    <finish>03:00PM</finish>
+    <date>27 March 2026</date>
+  </channel>
+  <channel>
+    <name>BBC News UK</name>
+    <id>BBCNews.uk</id>
+    <title>Verified Live</title>
+    <desc>Matthew Amroliwala presents all the latest global and UK news, live from London.</desc>
+    <image>https://images.metadata.sky.com/pd-image/96ae9a12-a4fe-4401-95b4-fd5a60254727/16-9</image>
+    <start>03:00PM</start>
+    <finish>03:30PM</finish>
+    <date>27 March 2026</date>
+  </channel>
+  <channel>
+    <name>BBC News UK</name>
+    <id>BBCNews.uk</id>
+    <title>Verified Live</title>
+    <desc>Matthew Amroliwala presents all the latest global and UK news, live from London.</desc>
+    <image>https://images.metadata.sky.com/pd-image/9cbcba90-ce11-4dc5-96e3-299bf13e52f2/16-9</image>
+    <start>03:30PM</start>
+    <finish>04:00PM</finish>
+    <date>27 March 2026</date>
+  </channel>
+  <channel>
+    <name>BBC News UK</name>
+    <id>BBCNews.uk</id>
+    <title>Verified Live</title>
+    <desc>Matthew Amroliwala presents all the latest global and UK news, live from London.</desc>
+    <image>https://images.metadata.sky.com/pd-image/eb5f5026-e1b5-4685-b8d5-40a58af42c2d/16-9</image>
+    <start>04:00PM</start>
+    <finish>04:30PM</finish>
+    <date>27 March 2026</date>
+  </channel>
+  <channel>
+    <name>BBC News UK</name>
+    <id>BBCNews.uk</id>
+    <title>Verified Live</title>
+    <desc>Matthew Amroliwala presents all the latest global and UK news, live from London.</desc>
+    <image>https://images.metadata.sky.com/pd-image/fa464edd-b069-41ac-bb62-91820dc69b43/16-9</image>
+    <start>04:30PM</start>
+    <finish>05:00PM</finish>
+    <date>27 March 2026</date>
+  </channel>
+  <channel>
+    <name>BBC News UK</name>
+    <id>BBCNews.uk</id>
+    <title>Verified Live</title>
+    <desc>Matthew Amroliwala presents all the latest global and UK news, live from London.</desc>
+    <image>https://images.metadata.sky.com/pd-image/b11642c5-ab70-4ccc-8e2b-cf7d79148d78/16-9</image>
+    <start>05:00PM</start>
+    <finish>05:30PM</finish>
+    <date>27 March 2026</date>
+  </channel>
+  <channel>
+    <name>BBC News UK</name>
+    <id>BBCNews.uk</id>
+    <title>BBC News</title>
+    <desc>The latest news from the BBC.</desc>
+    <image>https://images.metadata.sky.com/pd-image/3e07ddef-ff0c-4ddd-87f6-31051bb8b0fe/16-9</image>
+    <start>05:30PM</start>
+    <finish>06:00PM</finish>
+    <date>27 March 2026</date>
+  </channel>
+  <channel>
+    <name>BBC News UK</name>
+    <id>BBCNews.uk</id>
+    <title>Signed</title>
+    <desc>The latest national and international news from the BBC.</desc>
+    <image>https://images.metadata.sky.com/pd-image/dba5873a-7328-4e5e-9393-a97c66d2bd10/16-9</image>
+    <start>06:00PM</start>
+    <finish>06:30PM</finish>
+    <date>27 March 2026</date>
+  </channel>
+  <channel>
+    <name>BBC News UK</name>
+    <id>BBCNews.uk</id>
+    <title>The Iran War This Week</title>
+    <desc>A briefing from BBC News on the latest developments on Israel-US war in Iran.</desc>
+    <image>https://images.metadata.sky.com/pd-image/e7d3fc8d-93f2-4b93-b013-0892a7aa714e/16-9</image>
+    <start>06:30PM</start>
+    <finish>07:00PM</finish>
+    <date>27 March 2026</date>
+  </channel>
+  <channel>
+    <name>BBC News UK</name>
+    <id>BBCNews.uk</id>
+    <title>The World Today with Maryam Moshiri</title>
+    <desc>Watch the best of the BBC's journalism from around the world.</desc>
+    <image>https://images.metadata.sky.com/pd-image/b70cc275-b786-4af7-9eb1-afa34dea5b23/16-9</image>
+    <start>07:00PM</start>
+    <finish>07:30PM</finish>
+    <date>27 March 2026</date>
+  </channel>
+  <channel>
+    <name>BBC News UK</name>
+    <id>BBCNews.uk</id>
+    <title>The World Today with Maryam Moshiri</title>
+    <desc>Watch the best of the BBC's journalism from around the world.</desc>
+    <image>https://images.metadata.sky.com/pd-image/800e876d-0d53-497c-9013-f1571a5dcd30/16-9</image>
+    <start>07:30PM</start>
+    <finish>08:00PM</finish>
+    <date>27 March 2026</date>
+  </channel>
+  <channel>
+    <name>BBC News UK</name>
+    <id>BBCNews.uk</id>
+    <title>The Context USA</title>
+    <desc>Special coverage from Washington DC and London, focusing on President Trump's second term.</desc>
+    <image>https://images.metadata.sky.com/pd-image/c6152f2b-bdc6-44ea-bbab-341e7eec9b7e/16-9</image>
+    <start>08:00PM</start>
+    <finish>08:30PM</finish>
+    <date>27 March 2026</date>
+  </channel>
+  <channel>
+    <name>BBC News UK</name>
+    <id>BBCNews.uk</id>
+    <title>The Context USA</title>
+    <desc>Special coverage from Washington DC and London, focusing on President Trump's second term.</desc>
+    <image>https://images.metadata.sky.com/pd-image/818e3fc8-7ff2-4441-950e-335bd7637023/16-9</image>
+    <start>08:30PM</start>
+    <finish>09:00PM</finish>
+    <date>27 March 2026</date>
+  </channel>
+  <channel>
+    <name>BBC News UK</name>
+    <id>BBCNews.uk</id>
+    <title>BBC World News America</title>
+    <desc>In-depth reports on the major international and US news of the day presented from Washington DC.</desc>
+    <image>https://images.metadata.sky.com/pd-image/829497e9-cea1-4613-93f4-0e598ea4dbc2/16-9</image>
+    <start>09:00PM</start>
+    <finish>09:30PM</finish>
+    <date>27 March 2026</date>
+  </channel>
+  <channel>
+    <name>BBC News UK</name>
+    <id>BBCNews.uk</id>
+    <title>The Context</title>
+    <desc>A regular panel of guests from across the political spectrum discuss the biggest international stories of the day.</desc>
+    <image>https://images.metadata.sky.com/pd-image/3466519d-023e-4b15-a08a-0bbd06eb3d14/16-9</image>
+    <start>09:30PM</start>
+    <finish>10:00PM</finish>
+    <date>27 March 2026</date>
+  </channel>
+  <channel>
+    <name>BBC News UK</name>
+    <id>BBCNews.uk</id>
+    <title>BBC News at Ten</title>
+    <desc>The latest national and international news, with reports from BBC correspondents worldwide.</desc>
+    <image>https://images.metadata.sky.com/pd-image/7c979eaa-86e7-4756-9b62-be3c31dc8ea2/16-9</image>
+    <start>10:00PM</start>
+    <finish>10:30PM</finish>
+    <date>27 March 2026</date>
+  </channel>
+  <channel>
+    <name>BBC News UK</name>
+    <id>BBCNews.uk</id>
+    <title>Newsnight</title>
+    <desc>Insights and global interviews on the crucial news stories of the day. With Matt Chorley.</desc>
+    <image>https://images.metadata.sky.com/pd-image/bf5e34c6-3ff6-4336-8c97-38c5e769b56c/16-9</image>
+    <start>10:30PM</start>
+    <finish>11:00PM</finish>
+    <date>27 March 2026</date>
+  </channel>
+  <channel>
+    <name>BBC News UK</name>
+    <id>BBCNews.uk</id>
+    <title>BBC World News America</title>
+    <desc>The BBC presents in-depth reports on the major international and US news of the day presented from Washington DC.</desc>
+    <image>https://images.metadata.sky.com/pd-image/eb77ddc8-3ec7-4b1e-9e82-f55acb17c512/16-9</image>
+    <start>11:00PM</start>
+    <finish>11:30PM</finish>
+    <date>27 March 2026</date>
+  </channel>
+  <channel>
+    <name>BBC News UK</name>
+    <id>BBCNews.uk</id>
+    <title>The President's Path</title>
+    <desc>Join Caitr?ona Perry and Sumi Somaskanda for a dynamic weekly discussion on the US presidency.</desc>
+    <image>https://images.metadata.sky.com/pd-image/d44e266a-804b-4bc2-85ed-ff6e9ddcb511/16-9</image>
+    <start>11:30PM</start>
+    <finish>12:00AM</finish>
+    <date>27 March 2026</date>
+  </channel>
+  <channel>
+    <name>BBC News UK</name>
+    <id>BBCNews.uk</id>
+    <title>BBC News</title>
+    <desc>The latest news from the BBC.</desc>
+    <image>https://images.metadata.sky.com/pd-image/8ede0f97-0e1e-4633-8129-813d7f069c93/16-9</image>
+    <start>12:00AM</start>
+    <finish>12:30AM</finish>
+    <date>28 March 2026</date>
+  </channel>
+  <channel>
+    <name>BBC News UK</name>
+    <id>BBCNews.uk</id>
+    <title>Tech Now</title>
+    <desc>Nick Kwek visits this year's SXSW Festival in Austin, Texas.</desc>
+    <image>https://images.metadata.sky.com/pd-image/0bab9f29-b4a9-4173-8c25-cb914e04c173/16-9</image>
+    <start>12:30AM</start>
+    <finish>01:00AM</finish>
+    <date>28 March 2026</date>
+  </channel>
+  <channel>
+    <name>BBC News UK</name>
+    <id>BBCNews.uk</id>
+    <title>BBC News</title>
+    <desc>The latest news from the BBC.</desc>
+    <image>https://images.metadata.sky.com/pd-image/d506ba33-817c-4a24-b1d0-de331cc113ee/16-9</image>
+    <start>01:00AM</start>
+    <finish>01:30AM</finish>
+    <date>28 March 2026</date>
+  </channel>
+  <channel>
+    <name>BBC News UK</name>
+    <id>BBCNews.uk</id>
+    <title>Clive Myrie's Caribbean Adventure</title>
+    <desc>Clive builds his own bamboo raft to explore the rivers of Cuba's oldest city and helps prepare a meal at what's thought to be Cuba's only fully vegan restaurant.</desc>
+    <image>https://images.metadata.sky.com/pd-image/1e994664-d5c0-34f5-a426-56c664052142/16-9</image>
+    <start>01:30AM</start>
+    <finish>02:00AM</finish>
+    <date>28 March 2026</date>
+  </channel>
+  <channel>
+    <name>BBC News UK</name>
+    <id>BBCNews.uk</id>
+    <title>BBC News</title>
+    <desc>The latest news from the BBC.</desc>
+    <image>https://images.metadata.sky.com/pd-image/4bff2a3f-aa29-4590-9b21-ff3520a4b3db/16-9</image>
+    <start>02:00AM</start>
+    <finish>02:30AM</finish>
+    <date>28 March 2026</date>
+  </channel>
+  <channel>
+    <name>BBC News UK</name>
+    <id>BBCNews.uk</id>
+    <title>Julian Barnes</title>
+    <desc>Acclaimed and award-winning writer Julian Barnes talks to Katie Razzall about his literary life, preoccupation with death, why he's written his final novel and missing his readers.</desc>
+    <image>https://images.metadata.sky.com/pd-image/88a08404-6ae7-47fc-addf-e6ae9f3ee00c/16-9</image>
+    <start>02:30AM</start>
+    <finish>03:00AM</finish>
+    <date>28 March 2026</date>
+  </channel>
+  <channel>
+    <name>BBC News UK</name>
+    <id>BBCNews.uk</id>
+    <title>BBC News</title>
+    <desc>The latest news from the BBC.</desc>
+    <image>https://images.metadata.sky.com/pd-image/d3143828-f0fc-412f-9a11-d7ff147fc67b/16-9</image>
+    <start>03:00AM</start>
+    <finish>03:30AM</finish>
+    <date>28 March 2026</date>
+  </channel>
+  <channel>
+    <name>BBC News UK</name>
+    <id>BBCNews.uk</id>
+    <title>The Media Show</title>
+    <desc>A global, topical weekly show that lifts the hood on the entertainment and news business. The Media Show explores the companies and personalities who command our attention.</desc>
+    <image>https://images.metadata.sky.com/pd-image/2eb36d08-50b8-4c2e-ab0c-1f22b5fa5065/16-9</image>
+    <start>03:30AM</start>
+    <finish>04:00AM</finish>
+    <date>28 March 2026</date>
+  </channel>
+  <channel>
+    <name>BBC News UK</name>
+    <id>BBCNews.uk</id>
+    <title>BBC News</title>
+    <desc>The latest news from the BBC.</desc>
+    <image>https://images.metadata.sky.com/pd-image/ad2ba2fa-ee25-48fa-86e3-00707e49075a/16-9</image>
+    <start>04:00AM</start>
+    <finish>04:30AM</finish>
+    <date>28 March 2026</date>
+  </channel>
+  <channel>
+    <name>BBC News UK</name>
+    <id>BBCNews.uk</id>
+    <title>The Travel Show</title>
+    <desc>Dwayne Fields continues his journey through Zambia. At Kafue National Park, he joins rangers tracking poachers, takes part in a lion-monitoring expedition and meets orphaned elephants.</desc>
+    <image>https://images.metadata.sky.com/pd-image/6bd2a368-1c82-46d0-a356-0b775bbb8bcd/16-9</image>
+    <start>04:30AM</start>
+    <finish>05:00AM</finish>
+    <date>28 March 2026</date>
+  </channel>
+  <channel>
+    <name>BBC News UK</name>
+    <id>BBCNews.uk</id>
+    <title>BBC News</title>
+    <desc>The latest news from the BBC.</desc>
+    <image>https://images.metadata.sky.com/pd-image/0e0e476f-87ce-4ea9-8fb6-a6e8a186d460/16-9</image>
+    <start>05:00AM</start>
+    <finish>05:30AM</finish>
+    <date>28 March 2026</date>
+  </channel>
+  <channel>
+    <name>BBC News UK</name>
+    <id>BBCNews.uk</id>
+    <title>AI Decoded</title>
+    <desc>Join our AI Decoded team as we unpack and take a deep dive into the world of artificial intelligence.</desc>
+    <image>https://images.metadata.sky.com/pd-image/9428de66-0cfa-4949-954b-fbdaf38e8b24/16-9</image>
+    <start>05:30AM</start>
+    <finish>06:00AM</finish>
+    <date>28 March 2026</date>
+  </channel>
+  <channel>
+    <name>BBC News UK</name>
+    <id>BBCNews.uk</id>
+    <title>Breakfast</title>
+    <desc>The latest news, sport, business and weather from the BBC's Breakfast team.</desc>
+    <image>https://images.metadata.sky.com/pd-image/8b5c2119-e051-49ea-bf1c-b37314512628/16-9</image>
+    <start>06:00AM</start>
+    <finish>09:00AM</finish>
+    <date>28 March 2026</date>
+  </channel>
+  <channel>
+    <name>BBC News UK</name>
+    <id>BBCNews.uk</id>
+    <title>BBC News</title>
+    <desc>The latest news from the BBC.</desc>
+    <image>https://images.metadata.sky.com/pd-image/50054317-c118-4553-906f-1bf26b4472e9/16-9</image>
+    <start>09:00AM</start>
+    <finish>10:00AM</finish>
+    <date>28 March 2026</date>
+  </channel>
+  <channel>
+    <name>BBC News UK</name>
+    <id>BBCNews.uk</id>
+    <title>BBC News</title>
+    <desc>The latest news from the BBC.</desc>
+    <image>https://images.metadata.sky.com/pd-image/30c6f162-417d-49b9-b021-b82c74cfe8f1/16-9</image>
+    <start>10:00AM</start>
+    <finish>10:30AM</finish>
+    <date>28 March 2026</date>
+  </channel>
+  <channel>
+    <name>BBC News UK</name>
+    <id>BBCNews.uk</id>
+    <title>BBC News</title>
+    <desc>The latest news from the BBC.</desc>
+    <image>https://images.metadata.sky.com/pd-image/3bcc977e-5c3b-4485-a45e-db49e355db4c/16-9</image>
+    <start>10:30AM</start>
+    <finish>11:00AM</finish>
+    <date>28 March 2026</date>
+  </channel>
+  <channel>
+    <name>BBC News UK</name>
+    <id>BBCNews.uk</id>
+    <title>BBC News</title>
+    <desc>The latest news from the BBC.</desc>
+    <image>https://images.metadata.sky.com/pd-image/78bdc347-1bb4-44ab-b794-141d4c49cf3f/16-9</image>
+    <start>11:00AM</start>
+    <finish>11:30AM</finish>
+    <date>28 March 2026</date>
+  </channel>
+  <channel>
+    <name>BBC News UK</name>
+    <id>BBCNews.uk</id>
+    <title>Unspun World with John Simpson</title>
+    <desc>Unspun World provides an unvarnished version of the week's major global news stories - reliable, honest and essential viewing with the BBC's world affairs editor, John Simpson.</desc>
+    <image>https://images.metadata.sky.com/pd-image/dbf9c08d-27d8-426a-b208-9240e3361c69/16-9</image>
+    <start>11:30AM</start>
+    <finish>12:00PM</finish>
+    <date>28 March 2026</date>
+  </channel>
+  <channel>
+    <name>BBC News UK</name>
+    <id>BBCNews.uk</id>
+    <title>BBC News</title>
+    <desc>The latest news from the BBC.</desc>
+    <image>https://images.metadata.sky.com/pd-image/cc60f658-bad4-47fc-aae3-26e126479eda/16-9</image>
+    <start>12:00PM</start>
+    <finish>12:30PM</finish>
+    <date>28 March 2026</date>
+  </channel>
+  <channel>
+    <name>BBC News UK</name>
+    <id>BBCNews.uk</id>
+    <title>BBC News</title>
+    <desc>The latest news from the BBC.</desc>
+    <image>https://images.metadata.sky.com/pd-image/77db0c10-6674-4b40-85ff-77b930759bc4/16-9</image>
+    <start>12:30PM</start>
+    <finish>01:00PM</finish>
+    <date>28 March 2026</date>
+  </channel>
+  <channel>
+    <name>BBC News UK</name>
+    <id>BBCNews.uk</id>
+    <title>BBC News</title>
+    <desc>The latest news from the BBC.</desc>
+    <image>https://images.metadata.sky.com/pd-image/0c00e0cd-6c89-4d11-a702-0eec8dda0dd4/16-9</image>
+    <start>01:00PM</start>
+    <finish>01:30PM</finish>
+    <date>28 March 2026</date>
+  </channel>
+  <channel>
+    <name>BBC News UK</name>
+    <id>BBCNews.uk</id>
+    <title>AI Decoded</title>
+    <desc>Join our AI Decoded team as we unpack and take a deep dive into the world of artificial intelligence.</desc>
+    <image>https://images.metadata.sky.com/pd-image/9428de66-0cfa-4949-954b-fbdaf38e8b24/16-9</image>
+    <start>01:30PM</start>
+    <finish>02:00PM</finish>
+    <date>28 March 2026</date>
+  </channel>
+  <channel>
+    <name>BBC News UK</name>
+    <id>BBCNews.uk</id>
+    <title>BBC News</title>
+    <desc>The latest news from the BBC.</desc>
+    <image>https://images.metadata.sky.com/pd-image/68cf3a03-00ca-4ee8-af65-6e1959e52206/16-9</image>
+    <start>02:00PM</start>
+    <finish>02:30PM</finish>
+    <date>28 March 2026</date>
+  </channel>
+  <channel>
+    <name>BBC News UK</name>
+    <id>BBCNews.uk</id>
+    <title>The Media Show</title>
+    <desc>A global, topical weekly show that lifts the hood on the entertainment and news business. The Media Show explores the companies and personalities who command our attention.</desc>
+    <image>https://images.metadata.sky.com/pd-image/2eb36d08-50b8-4c2e-ab0c-1f22b5fa5065/16-9</image>
+    <start>02:30PM</start>
+    <finish>03:00PM</finish>
+    <date>28 March 2026</date>
+  </channel>
+  <channel>
+    <name>BBC News UK</name>
+    <id>BBCNews.uk</id>
+    <title>BBC News</title>
+    <desc>The latest news from the BBC.</desc>
+    <image>https://images.metadata.sky.com/pd-image/b80f19f7-21d0-487c-836c-b14fc75705e2/16-9</image>
+    <start>03:00PM</start>
+    <finish>03:30PM</finish>
+    <date>28 March 2026</date>
+  </channel>
+  <channel>
+    <name>BBC News UK</name>
+    <id>BBCNews.uk</id>
+    <title>BBC News</title>
+    <desc>The latest news from the BBC.</desc>
+    <image>https://images.metadata.sky.com/pd-image/7ff62f14-2d03-4ce9-ac13-b6b96e4eaf8e/16-9</image>
+    <start>03:30PM</start>
+    <finish>03:45PM</finish>
+    <date>28 March 2026</date>
+  </channel>
+  <channel>
+    <name>BBC News UK</name>
+    <id>BBCNews.uk</id>
+    <title>Newswatch</title>
+    <desc>Your views on the coverage of events by BBC News, answered by the editors and decision makers in charge.</desc>
+    <image>https://images.metadata.sky.com/pd-image/29868710-3139-4028-a683-cd5dc576de82/16-9</image>
+    <start>03:45PM</start>
+    <finish>04:00PM</finish>
+    <date>28 March 2026</date>
+  </channel>
+  <channel>
+    <name>BBC News UK</name>
+    <id>BBCNews.uk</id>
+    <title>BBC News</title>
+    <desc>The latest news from the BBC.</desc>
+    <image>https://images.metadata.sky.com/pd-image/814c52ff-01af-4056-94b3-c68c74bed758/16-9</image>
+    <start>04:00PM</start>
+    <finish>04:30PM</finish>
+    <date>28 March 2026</date>
+  </channel>
+  <channel>
+    <name>BBC News UK</name>
+    <id>BBCNews.uk</id>
+    <title>Unspun World with John Simpson</title>
+    <desc>Unspun World provides an unvarnished version of the week's major global news stories - reliable, honest and essential viewing with the BBC's world affairs editor, John Simpson.</desc>
+    <image>https://images.metadata.sky.com/pd-image/dbf9c08d-27d8-426a-b208-9240e3361c69/16-9</image>
+    <start>04:30PM</start>
+    <finish>05:00PM</finish>
+    <date>28 March 2026</date>
+  </channel>
+  <channel>
+    <name>BBC News UK</name>
+    <id>BBCNews.uk</id>
+    <title>BBC News</title>
+    <desc>The latest news from the BBC.</desc>
+    <image>https://images.metadata.sky.com/pd-image/730e10c8-5ea7-4422-b22a-67e932865e53/16-9</image>
+    <start>05:00PM</start>
+    <finish>06:00PM</finish>
+    <date>28 March 2026</date>
+  </channel>
+  <channel>
+    <name>BBC News UK</name>
+    <id>BBCNews.uk</id>
+    <title>BBC News</title>
+    <desc>The latest news from the BBC.</desc>
+    <image>https://images.metadata.sky.com/pd-image/ceb89e00-1937-4dff-9fc0-865dfe92760e/16-9</image>
+    <start>06:00PM</start>
+    <finish>06:30PM</finish>
+    <date>28 March 2026</date>
+  </channel>
+  <channel>
+    <name>BBC News UK</name>
+    <id>BBCNews.uk</id>
+    <title>BBC News including Sport</title>
+    <desc>The latest news from the BBC including a round-up of the day's sporting action.</desc>
+    <image>https://images.metadata.sky.com/pd-image/2e46a8e2-7e55-4321-b9ad-f74270c9ba01/16-9</image>
+    <start>06:30PM</start>
+    <finish>07:00PM</finish>
+    <date>28 March 2026</date>
+  </channel>
+  <channel>
+    <name>BBC News UK</name>
+    <id>BBCNews.uk</id>
+    <title>BBC News</title>
+    <desc>The latest news from the BBC.</desc>
+    <image>https://images.metadata.sky.com/pd-image/8d24d0a6-3a05-4b6b-831a-f2292f0d3a9e/16-9</image>
+    <start>07:00PM</start>
+    <finish>07:30PM</finish>
+    <date>28 March 2026</date>
+  </channel>
+  <channel>
+    <name>BBC News UK</name>
+    <id>BBCNews.uk</id>
+    <title>BBC News including Sport</title>
+    <desc>The latest news from the BBC including a round-up of the day's sporting action.</desc>
+    <image>https://images.metadata.sky.com/pd-image/f9250fa6-1a6a-4664-812a-e5ca1295f7be/16-9</image>
+    <start>07:30PM</start>
+    <finish>08:00PM</finish>
+    <date>28 March 2026</date>
+  </channel>
+  <channel>
+    <name>BBC News UK</name>
+    <id>BBCNews.uk</id>
+    <title>BBC News</title>
+    <desc>The latest news from the BBC.</desc>
+    <image>https://images.metadata.sky.com/pd-image/1ac93be5-14e6-4551-a5a7-f94e039fe128/16-9</image>
+    <start>08:00PM</start>
+    <finish>08:30PM</finish>
+    <date>28 March 2026</date>
+  </channel>
+  <channel>
+    <name>BBC News UK</name>
+    <id>BBCNews.uk</id>
+    <title>Newscast</title>
+    <desc>Lighthearted discussion of the day's news.</desc>
+    <image>https://images.metadata.sky.com/pd-image/a0d9e7e7-4fb9-45ad-b251-37a4a54511d8/16-9</image>
+    <start>08:30PM</start>
+    <finish>09:00PM</finish>
+    <date>28 March 2026</date>
+  </channel>
+  <channel>
+    <name>BBC News UK</name>
+    <id>BBCNews.uk</id>
+    <title>BBC News</title>
+    <desc>The latest news from the BBC.</desc>
+    <image>https://images.metadata.sky.com/pd-image/26d488a7-0da5-41a7-a98b-decaaf001cfd/16-9</image>
+    <start>09:00PM</start>
+    <finish>10:00PM</finish>
+    <date>28 March 2026</date>
+  </channel>
+  <channel>
+    <name>BBC News UK</name>
+    <id>BBCNews.uk</id>
+    <title>BBC News</title>
+    <desc>The latest news from the BBC.</desc>
+    <image>https://images.metadata.sky.com/pd-image/8942f00e-10c4-426a-80b1-289bc7774e90/16-9</image>
+    <start>10:00PM</start>
+    <finish>11:00PM</finish>
+    <date>28 March 2026</date>
+  </channel>
+  <channel>
+    <name>BBC News UK</name>
+    <id>BBCNews.uk</id>
+    <title>BBC News</title>
+    <desc>The latest news from the BBC.</desc>
+    <image>https://images.metadata.sky.com/pd-image/477425fa-7c6d-43e3-a166-30d3a6c50ab0/16-9</image>
+    <start>11:00PM</start>
+    <finish>11:30PM</finish>
+    <date>28 March 2026</date>
+  </channel>
+  <channel>
+    <name>BBC News UK</name>
+    <id>BBCNews.uk</id>
+    <title>Talking Business</title>
+    <desc>Examining the business stories and economic trends that are re-shaping our world.</desc>
+    <image>https://images.metadata.sky.com/pd-image/c00f6145-f03d-49c9-b83c-294dceceddae/16-9</image>
+    <start>11:30PM</start>
+    <finish>12:00AM</finish>
+    <date>28 March 2026</date>
+  </channel>
+  <channel>
+    <name>BBC News UK</name>
+    <id>BBCNews.uk</id>
+    <title>BBC News</title>
+    <desc>The latest news from the BBC.</desc>
+    <image>https://images.metadata.sky.com/pd-image/26545c3d-06de-468f-a28c-436d9cffe623/16-9</image>
+    <start>12:00AM</start>
+    <finish>12:30AM</finish>
+    <date>29 March 2026</date>
+  </channel>
+  <channel>
+    <name>BBC News UK</name>
+    <id>BBCNews.uk</id>
+    <title>Arts in Motion</title>
+    <desc>At the world-renowned National Film and Television School, film-making is stripped of its myths, revealing how collaboration, doubt and craft shape the next generation of film-makers.</desc>
+    <image>https://images.metadata.sky.com/pd-image/b803f8f1-7191-4349-a9f5-1c02b78cfa39/16-9</image>
+    <start>12:30AM</start>
+    <finish>02:00AM</finish>
+    <date>29 March 2026</date>
+  </channel>
+  <channel>
+    <name>BBC News UK</name>
+    <id>BBCNews.uk</id>
+    <title>BBC News</title>
+    <desc>The latest news from the BBC.</desc>
+    <image>https://images.metadata.sky.com/pd-image/a55962ac-2335-4720-9747-4a622c16cc52/16-9</image>
+    <start>02:00AM</start>
+    <finish>02:30AM</finish>
+    <date>29 March 2026</date>
+  </channel>
+  <channel>
+    <name>BBC News UK</name>
+    <id>BBCNews.uk</id>
+    <title>Unspun World with John Simpson</title>
+    <desc>Unspun World provides an unvarnished version of the week's major global news stories - reliable, honest and essential viewing with the BBC's world affairs editor, John Simpson.</desc>
+    <image>https://images.metadata.sky.com/pd-image/dbf9c08d-27d8-426a-b208-9240e3361c69/16-9</image>
+    <start>02:30AM</start>
+    <finish>03:00AM</finish>
+    <date>29 March 2026</date>
+  </channel>
+  <channel>
+    <name>BBC News UK</name>
+    <id>BBCNews.uk</id>
+    <title>BBC News</title>
+    <desc>The latest news from the BBC.</desc>
+    <image>https://images.metadata.sky.com/pd-image/89811f13-a7d4-4379-bb0e-b547bc0d54ae/16-9</image>
+    <start>03:00AM</start>
+    <finish>03:30AM</finish>
+    <date>29 March 2026</date>
+  </channel>
+  <channel>
+    <name>BBC News UK</name>
+    <id>BBCNews.uk</id>
+    <title>AI Decoded</title>
+    <desc>Join our AI Decoded team as we unpack and take a deep dive into the world of artificial intelligence.</desc>
+    <image>https://images.metadata.sky.com/pd-image/9428de66-0cfa-4949-954b-fbdaf38e8b24/16-9</image>
+    <start>03:30AM</start>
+    <finish>04:00AM</finish>
+    <date>29 March 2026</date>
+  </channel>
+  <channel>
+    <name>BBC News UK</name>
+    <id>BBCNews.uk</id>
+    <title>BBC News</title>
+    <desc>The latest news from the BBC.</desc>
+    <image>https://images.metadata.sky.com/pd-image/cc4b24d0-ed13-4794-86cb-bc523d233377/16-9</image>
+    <start>04:00AM</start>
+    <finish>04:30AM</finish>
+    <date>29 March 2026</date>
+  </channel>
+  <channel>
+    <name>BBC News UK</name>
+    <id>BBCNews.uk</id>
+    <title>Global Eye</title>
+    <desc>Bringing forensic journalism from all corners of the world.</desc>
+    <image>https://images.metadata.sky.com/pd-image/dc51cc5f-8b99-4d53-838f-e79c034d29bb/16-9</image>
+    <start>04:30AM</start>
+    <finish>05:00AM</finish>
+    <date>29 March 2026</date>
+  </channel>
+  <channel>
+    <name>BBC News UK</name>
+    <id>BBCNews.uk</id>
+    <title>BBC News</title>
+    <desc>The latest news from the BBC.</desc>
+    <image>https://images.metadata.sky.com/pd-image/d51e89bc-b294-4c31-9500-8bff90d42cd1/16-9</image>
+    <start>05:00AM</start>
+    <finish>05:30AM</finish>
+    <date>29 March 2026</date>
+  </channel>
+  <channel>
+    <name>BBC News UK</name>
+    <id>BBCNews.uk</id>
+    <title>Clive Myrie's Caribbean Adventure</title>
+    <desc>Clive builds his own bamboo raft to explore the rivers of Cuba's oldest city and helps prepare a meal at what's thought to be Cuba's only fully vegan restaurant.</desc>
+    <image>https://images.metadata.sky.com/pd-image/1e994664-d5c0-34f5-a426-56c664052142/16-9</image>
+    <start>05:30AM</start>
+    <finish>06:00AM</finish>
+    <date>29 March 2026</date>
+  </channel>
+  <channel>
+    <name>BBC News UK</name>
+    <id>BBCNews.uk</id>
+    <title>Breakfast</title>
+    <desc>The latest news, sport, business and weather from the BBC's Breakfast team.</desc>
+    <image>https://images.metadata.sky.com/pd-image/1c6868ee-4234-4dee-b2bc-fc580f6dd7a3/16-9</image>
+    <start>06:00AM</start>
+    <finish>09:00AM</finish>
+    <date>29 March 2026</date>
+  </channel>
+  <channel>
+    <name>BBC News UK</name>
+    <id>BBCNews.uk</id>
+    <title>Sunday with Laura Kuenssberg</title>
+    <desc>The big names behind the big stories. Laura Kuenssberg talks to those making the news, inside and outside politics.</desc>
+    <image>https://images.metadata.sky.com/pd-image/ca02acee-fc4d-4952-a896-a8ef803d7ef5/16-9</image>
+    <start>09:00AM</start>
+    <finish>10:00AM</finish>
+    <date>29 March 2026</date>
+  </channel>
+  <channel>
+    <name>BBC News UK</name>
+    <id>BBCNews.uk</id>
+    <title>BBC News</title>
+    <desc>The latest news from the BBC.</desc>
+    <image>https://images.metadata.sky.com/pd-image/2bf43cdb-3789-4fdb-bb29-d1388838b4e2/16-9</image>
+    <start>10:00AM</start>
+    <finish>10:30AM</finish>
+    <date>29 March 2026</date>
+  </channel>
+  <channel>
+    <name>BBC News UK</name>
+    <id>BBCNews.uk</id>
+    <title>BBC News</title>
+    <desc>The latest news from the BBC.</desc>
+    <image>https://images.metadata.sky.com/pd-image/7345d258-6743-4b66-bd44-73add66a9e3f/16-9</image>
+    <start>10:30AM</start>
+    <finish>11:00AM</finish>
+    <date>29 March 2026</date>
+  </channel>
+  <channel>
+    <name>BBC News UK</name>
+    <id>BBCNews.uk</id>
+    <title>BBC News</title>
+    <desc>The latest news from the BBC.</desc>
+    <image>https://images.metadata.sky.com/pd-image/760298cf-f03b-48ad-812c-4dcba02225cf/16-9</image>
+    <start>11:00AM</start>
+    <finish>11:30AM</finish>
+    <date>29 March 2026</date>
+  </channel>
+  <channel>
+    <name>BBC News UK</name>
+    <id>BBCNews.uk</id>
+    <title>The President's Path</title>
+    <desc>Join Caitr?ona Perry and Sumi Somaskanda for a dynamic weekly discussion on the US presidency.</desc>
+    <image>https://images.metadata.sky.com/pd-image/d44e266a-804b-4bc2-85ed-ff6e9ddcb511/16-9</image>
+    <start>11:30AM</start>
+    <finish>12:00PM</finish>
+    <date>29 March 2026</date>
+  </channel>
+  <channel>
+    <name>BBC News UK</name>
+    <id>BBCNews.uk</id>
+    <title>BBC News</title>
+    <desc>The latest news from the BBC.</desc>
+    <image>https://images.metadata.sky.com/pd-image/68813b18-c2f1-4637-8124-b623f04fae90/16-9</image>
+    <start>12:00PM</start>
+    <finish>12:30PM</finish>
+    <date>29 March 2026</date>
+  </channel>
+  <channel>
+    <name>BBC News UK</name>
+    <id>BBCNews.uk</id>
+    <title>BBC News</title>
+    <desc>The latest news from the BBC.</desc>
+    <image>https://images.metadata.sky.com/pd-image/096193e4-9673-4485-b9f1-8ff87ed9e042/16-9</image>
+    <start>12:30PM</start>
+    <finish>01:00PM</finish>
+    <date>29 March 2026</date>
+  </channel>
+  <channel>
+    <name>BBC News UK</name>
+    <id>BBCNews.uk</id>
+    <title>BBC News</title>
+    <desc>The latest news from the BBC.</desc>
+    <image>https://images.metadata.sky.com/pd-image/efe0cf05-ac99-4756-851d-145d4a93b1d6/16-9</image>
+    <start>01:00PM</start>
+    <finish>01:30PM</finish>
+    <date>29 March 2026</date>
+  </channel>
+  <channel>
+    <name>BBC News UK</name>
+    <id>BBCNews.uk</id>
+    <title>Julian Barnes</title>
+    <desc>Acclaimed and award-winning writer Julian Barnes talks to Katie Razzall about his literary life, preoccupation with death, why he's written his final novel and missing his readers.</desc>
+    <image>https://images.metadata.sky.com/pd-image/88a08404-6ae7-47fc-addf-e6ae9f3ee00c/16-9</image>
+    <start>01:30PM</start>
+    <finish>02:00PM</finish>
+    <date>29 March 2026</date>
+  </channel>
+  <channel>
+    <name>BBC News UK</name>
+    <id>BBCNews.uk</id>
+    <title>BBC News</title>
+    <desc>The latest news from the BBC.</desc>
+    <image>https://images.metadata.sky.com/pd-image/40f3961a-5f01-46e9-8174-9aa704d412fb/16-9</image>
+    <start>02:00PM</start>
+    <finish>02:30PM</finish>
+    <date>29 March 2026</date>
+  </channel>
+  <channel>
+    <name>BBC News UK</name>
+    <id>BBCNews.uk</id>
+    <title>Tech Now</title>
+    <desc>Nick Kwek visits this year's SXSW Festival in Austin, Texas.</desc>
+    <image>https://images.metadata.sky.com/pd-image/0bab9f29-b4a9-4173-8c25-cb914e04c173/16-9</image>
+    <start>02:30PM</start>
+    <finish>03:00PM</finish>
+    <date>29 March 2026</date>
+  </channel>
+  <channel>
+    <name>BBC News UK</name>
+    <id>BBCNews.uk</id>
+    <title>BBC News</title>
+    <desc>The latest news from the BBC.</desc>
+    <image>https://images.metadata.sky.com/pd-image/fc8f1f89-c6f9-45b9-bde7-f78c7ca9ee41/16-9</image>
+    <start>03:00PM</start>
+    <finish>03:30PM</finish>
+    <date>29 March 2026</date>
+  </channel>
+  <channel>
+    <name>BBC News UK</name>
+    <id>BBCNews.uk</id>
+    <title>BBC News</title>
+    <desc>The latest news from the BBC.</desc>
+    <image>https://images.metadata.sky.com/pd-image/3ddde9ff-e73f-4239-bdc0-3cf098dafa4c/16-9</image>
+    <start>03:30PM</start>
+    <finish>04:00PM</finish>
+    <date>29 March 2026</date>
+  </channel>
+  <channel>
+    <name>BBC News UK</name>
+    <id>BBCNews.uk</id>
+    <title>BBC News</title>
+    <desc>The latest news from the BBC.</desc>
+    <image>https://images.metadata.sky.com/pd-image/cc21891b-b821-4857-b981-6438af452360/16-9</image>
+    <start>04:00PM</start>
+    <finish>04:30PM</finish>
+    <date>29 March 2026</date>
+  </channel>
+  <channel>
+    <name>BBC News UK</name>
+    <id>BBCNews.uk</id>
+    <title>Global Eye</title>
+    <desc>Bringing forensic journalism from all corners of the world.</desc>
+    <image>https://images.metadata.sky.com/pd-image/dc51cc5f-8b99-4d53-838f-e79c034d29bb/16-9</image>
+    <start>04:30PM</start>
+    <finish>05:00PM</finish>
+    <date>29 March 2026</date>
+  </channel>
+  <channel>
+    <name>BBC News UK</name>
+    <id>BBCNews.uk</id>
+    <title>BBC News</title>
+    <desc>The latest news from the BBC.</desc>
+    <image>https://images.metadata.sky.com/pd-image/4e66592b-9c2f-4c75-88e1-402d473ac1d9/16-9</image>
+    <start>05:00PM</start>
+    <finish>06:00PM</finish>
+    <date>29 March 2026</date>
+  </channel>
+  <channel>
+    <name>BBC News UK</name>
+    <id>BBCNews.uk</id>
+    <title>BBC News</title>
+    <desc>The latest news from the BBC.</desc>
+    <image>https://images.metadata.sky.com/pd-image/2603004d-67a9-46c6-ad6a-813e43dc0e5c/16-9</image>
+    <start>06:00PM</start>
+    <finish>06:30PM</finish>
+    <date>29 March 2026</date>
+  </channel>
+  <channel>
+    <name>BBC News UK</name>
+    <id>BBCNews.uk</id>
+    <title>BBC News including Sport</title>
+    <desc>The latest news from the BBC including a round-up of the day's sporting action.</desc>
+    <image>https://images.metadata.sky.com/pd-image/0ca7ea24-900a-47a4-a20d-1a2881da5712/16-9</image>
+    <start>06:30PM</start>
+    <finish>07:00PM</finish>
+    <date>29 March 2026</date>
+  </channel>
+  <channel>
+    <name>BBC News UK</name>
+    <id>BBCNews.uk</id>
+    <title>BBC News</title>
+    <desc>The latest news from the BBC.</desc>
+    <image>https://images.metadata.sky.com/pd-image/6beffea0-586f-44bb-ae38-8548393f9428/16-9</image>
+    <start>07:00PM</start>
+    <finish>07:30PM</finish>
+    <date>29 March 2026</date>
+  </channel>
+  <channel>
+    <name>BBC News UK</name>
+    <id>BBCNews.uk</id>
+    <title>BBC News including Sport</title>
+    <desc>The latest news from the BBC including a round-up of the day's sporting action.</desc>
+    <image>https://images.metadata.sky.com/pd-image/935043f7-0864-4c3e-b018-df2dfbdc1568/16-9</image>
+    <start>07:30PM</start>
+    <finish>08:00PM</finish>
+    <date>29 March 2026</date>
+  </channel>
+  <channel>
+    <name>BBC News UK</name>
+    <id>BBCNews.uk</id>
+    <title>BBC News</title>
+    <desc>The latest news from the BBC.</desc>
+    <image>https://images.metadata.sky.com/pd-image/637d34c4-eb02-46b1-aaa7-1d78c8f19cf3/16-9</image>
+    <start>08:00PM</start>
+    <finish>08:30PM</finish>
+    <date>29 March 2026</date>
+  </channel>
+  <channel>
+    <name>BBC News UK</name>
+    <id>BBCNews.uk</id>
+    <title>Newscast</title>
+    <desc>Lighthearted discussion of the day's news.</desc>
+    <image>https://images.metadata.sky.com/pd-image/6104b400-307d-4c6f-81e9-171e43b61d55/16-9</image>
+    <start>08:30PM</start>
+    <finish>09:00PM</finish>
+    <date>29 March 2026</date>
+  </channel>
+  <channel>
+    <name>BBC News UK</name>
+    <id>BBCNews.uk</id>
+    <title>BBC News</title>
+    <desc>The latest news from the BBC.</desc>
+    <image>https://images.metadata.sky.com/pd-image/f41e56ba-f7cd-4e35-9c66-6de60a7431b1/16-9</image>
+    <start>09:00PM</start>
+    <finish>10:00PM</finish>
+    <date>29 March 2026</date>
+  </channel>
+  <channel>
+    <name>BBC News UK</name>
+    <id>BBCNews.uk</id>
+    <title>BBC News</title>
+    <desc>The latest news from the BBC.</desc>
+    <image>https://images.metadata.sky.com/pd-image/89377e21-59a6-48d5-a641-41ea2567302f/16-9</image>
+    <start>10:00PM</start>
+    <finish>11:00PM</finish>
+    <date>29 March 2026</date>
+  </channel>
+  <channel>
+    <name>BBC News UK</name>
+    <id>BBCNews.uk</id>
+    <title>BBC News</title>
+    <desc>The latest news from the BBC.</desc>
+    <image>https://images.metadata.sky.com/pd-image/d741fce9-21bc-41eb-b871-d9e0a3a36a0e/16-9</image>
+    <start>11:00PM</start>
+    <finish>11:30PM</finish>
+    <date>29 March 2026</date>
+  </channel>
+</tv>

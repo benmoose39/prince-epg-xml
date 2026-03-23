@@ -1,33 +1,584 @@
 <?xml version="1.0" ?>
 <tv>
   <channel>
+    <name>3ABN US</name>
+    <id>3ABN.us</id>
+    <title>IIW Sabbath School</title>
+    <desc>The host, along with a panel of religious scholars, conduct various discussions to provide an in-depth insight into various topics from the Bible and the life of Jesus Christ.</desc>
+    <image>http://cltv.tmsimg.com/assets/p22985747_b_h10_aa.jpg?w=960&amp;h=540</image>
+    <start>10:30PM</start>
+    <finish>11:00PM</finish>
+    <date>23 March 2026</date>
+  </channel>
+  <channel>
+    <name>92 News PK</name>
+    <id>92News.pk</id>
+    <title>News Headlines</title>
+    <desc>The presenter reports political and socio-economic news from India and around the world.</desc>
+    <image>http://cltv.tmsimg.com/assets/p19013496_b_h8_ae.jpg</image>
+    <start>07:30PM</start>
+    <finish>12:00AM</finish>
+    <date>23 March 2026</date>
+  </channel>
+  <channel>
     <name>AB1 FR</name>
     <id>AB1.fr</id>
     <title>Superman and Lois</title>
-    <desc>Tag tente d'?chapper au d?partement de la D?fense. Avec ses nouveaux pouvoirs, il est d?sorient? et effray?. Il s'en prend ? Jordan pour essayer de comprendre ce qui lui arrive, mais il s'enfuit ? l'arriv?e de Superman.</desc>
+    <desc>Les pouvoirs de Jordan ?voluent, mais il ne les contr?le pas encore. Lo?s arrange une rencontre entre Superman et Marcus Bridgewater, afin que celui-ci r?v?le sa v?ritable identit?, mais le rendez-vous se passe mal.</desc>
     <image>http://cltv.tmsimg.com/assets/p18320269_b_h8_ai.jpg?w=960&amp;h=540</image>
-    <start>09:35PM</start>
-    <finish>10:25PM</finish>
+    <start>10:23PM</start>
+    <finish>11:12PM</finish>
+    <date>23 March 2026</date>
+  </channel>
+  <channel>
+    <name>AB1 FR</name>
+    <id>AB1.fr</id>
+    <title>Superman and Lois</title>
+    <desc>Les pouvoirs de Jordan ?voluent, mais il ne les contr?le pas encore. Lo?s arrange une rencontre entre Superman et Marcus Bridgewater, afin que celui-ci r?v?le sa v?ritable identit?, mais le rendez-vous se passe mal.</desc>
+    <image>http://cltv.tmsimg.com/assets/p18320269_b_h8_ai.jpg?w=960&amp;h=540</image>
+    <start>10:23PM</start>
+    <finish>11:12PM</finish>
+    <date>23 March 2026</date>
+  </channel>
+  <channel>
+    <name>AB1 FR</name>
+    <id>AB1.fr</id>
+    <title>Superman and Lois</title>
+    <desc>Les pouvoirs de Jordan ?voluent, mais il ne les contr?le pas encore. Lo?s arrange une rencontre entre Superman et Marcus Bridgewater, afin que celui-ci r?v?le sa v?ritable identit?, mais le rendez-vous se passe mal.</desc>
+    <image>http://cltv.tmsimg.com/assets/p18320269_b_h8_ai.jpg?w=960&amp;h=540</image>
+    <start>10:25PM</start>
+    <finish>11:10PM</finish>
+    <date>23 March 2026</date>
+  </channel>
+  <channel>
+    <name>ABC AU</name>
+    <id>ABC.au</id>
+    <title>ABC News Mornings</title>
+    <desc>Stay in the know with what's happening this morning. ABC News brings you up-to-the-minute news to fuel your daily conversations so you can stay connected and follow the discussion across the day. Presented by Gemma Veness.</desc>
+    <image>https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/80/40/61/804061_p10108352_b_h9_ac_360.jpg</image>
+    <start>10:00PM</start>
+    <finish>10:59PM</finish>
+    <date>23 March 2026</date>
+  </channel>
+  <channel>
+    <name>ABC Comedy AU</name>
+    <id>ABCComedy.au</id>
+    <title>ABC Kids Programs Resume At 4am</title>
+    <desc>ABC Kids programs resume at 4.00am.</desc>
+    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
+    <start>04:52PM</start>
+    <finish>08:30AM</finish>
+    <date>23 March 2026</date>
+  </channel>
+  <channel>
+    <name>ABC ME AU</name>
+    <id>ABCME.au</id>
+    <title>Operation Ouch!</title>
+    <desc>A look at the body's enormous, explosive, energy storage system, the liver; Lilia undergoes an amazing operation on her brain.</desc>
+    <image>https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/82/90/11/829011_p9487439_b_h9_av_360.jpg</image>
+    <start>10:34PM</start>
+    <finish>11:03PM</finish>
+    <date>23 March 2026</date>
+  </channel>
+  <channel>
+    <name>ABC News 24 AU</name>
+    <id>ABCNews24.au</id>
+    <title>ABC News Mornings</title>
+    <desc>Stay in the know with what's happening this morning. ABC News brings you up-to-the-minute news to fuel your daily conversations so you can stay connected and follow the discussion across the day. Presented by Gemma Veness.</desc>
+    <image>https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/80/40/61/804061_p10108352_b_h9_ac_360.jpg</image>
+    <start>10:00PM</start>
+    <finish>01:00AM</finish>
+    <date>23 March 2026</date>
+  </channel>
+  <channel>
+    <name>ABP Ananda IN</name>
+    <id>ABPAnanda.in</id>
+    <title>Ananda News</title>
+    <desc>The host delivers the latest news stories and recent updates on crucial matters relating to governance, economics and socio-political issues from across the world.</desc>
+    <image>http://cltv.tmsimg.com/assets/p26463685_b_h8_aa.jpg</image>
+    <start>10:30PM</start>
+    <finish>11:00PM</finish>
+    <date>23 March 2026</date>
+  </channel>
+  <channel>
+    <name>ABP Asmita IN</name>
+    <id>ABPAsmita.in</id>
+    <title>Top 50</title>
+    <desc>A comprehensive compilation of the top 50 songs composed and performed by renowned singers and musicians is played back-to-back.</desc>
+    <image>http://cltv.tmsimg.com/assets/p16641825_b_h8_aa.jpg</image>
+    <start>10:30PM</start>
+    <finish>11:00PM</finish>
+    <date>23 March 2026</date>
+  </channel>
+  <channel>
+    <name>ABP Majha IN</name>
+    <id>ABPMajha.in</id>
+    <title>Divasbharatlya Baatmya</title>
+    <desc>The host presents the latest news updates and developments pertaining to society, business, economics, sports and culture from across India.</desc>
+    <image>http://cltv.tmsimg.com/assets/p26465008_b_h8_aa.jpg</image>
+    <start>10:30PM</start>
+    <finish>11:30PM</finish>
+    <date>23 March 2026</date>
+  </channel>
+  <channel>
+    <name>ABP News IN</name>
+    <id>ABPNews.in</id>
+    <title>Special Report</title>
+    <desc>The host provides a detailed report featuring the latest updates, top news stories and key developments from across the field of sports.</desc>
+    <image>http://cltv.tmsimg.com/assets/p8871554_b_h8_aa.jpg</image>
+    <start>10:30PM</start>
+    <finish>11:00PM</finish>
+    <date>23 March 2026</date>
+  </channel>
+  <channel>
+    <name>Aaj Tak IN</name>
+    <id>AajTak.in</id>
+    <title>Hallabol</title>
+    <desc></desc>
+    <image>http://cltv.tmsimg.com/assets/p13219536_b_h8_aa.jpg</image>
+    <start>10:30PM</start>
+    <finish>11:00PM</finish>
+    <date>23 March 2026</date>
+  </channel>
+  <channel>
+    <name>A&amp;E CA</name>
+    <id>AandE.ca</id>
+    <title>Live PD: Greatest Shifts</title>
+    <desc>In Lawrence, a traffic stop uncovers a suspected arsenal of guns; in Salinas, officers engage in a pursuit after spotting a vehicle tied to an alleged carjacking; in Tulsa, officers shut down a car club meeting after complaints from the property owner.</desc>
+    <image>http://cltv.tmsimg.com/assets/p31189202_b_h8_aa.jpg</image>
+    <start>10:00PM</start>
+    <finish>11:00PM</finish>
+    <date>23 March 2026</date>
+  </channel>
+  <channel>
+    <name>Adult Swim CA</name>
+    <id>AdultSwim.ca</id>
+    <title>King of the Hill</title>
+    <desc>Kahn decides to be a beer-drinking, El Camino-driving, ATV-riding redneck when Connie is rejected by a prestigious summer school.</desc>
+    <image>http://cltv.tmsimg.com/assets/p184316_b_h8_ah.jpg</image>
+    <start>10:30PM</start>
+    <finish>11:00PM</finish>
+    <date>23 March 2026</date>
+  </channel>
+  <channel>
+    <name>Afro Music Channel PT</name>
+    <id>AfroMusicChannel.pt</id>
+    <title>Fresh Music</title>
+    <desc>As m?sicas mais frescas do momento est?o no ?Fresh Music?.</desc>
+    <image>https://mage.stream.nos.pt/v1/nostv_mage/Images?sourceUri=http%3A%2F%2Fvip.pam.local.internal%2FPAM.Images%2FStore%2F995f98d90237478c8404a9498dbf4f92</image>
+    <start>10:10PM</start>
+    <finish>10:50PM</finish>
+    <date>23 March 2026</date>
+  </channel>
+  <channel>
+    <name>Al Jazeera English UK</name>
+    <id>AlJazeeraEnglish.uk</id>
+    <title>Newshour</title>
+    <desc>Up-to-date news and analysis from around the world.</desc>
+    <image>https://staticqbr-prod-ch.gnp.cloud.sunrisetv.ch/image-service/ImagesEPG/EventImages/p31949330_i_h10_aa.jpg</image>
+    <start>10:00PM</start>
+    <finish>11:00PM</finish>
+    <date>23 March 2026</date>
+  </channel>
+  <channel>
+    <name>And Flix IN</name>
+    <id>AndFlix.in</id>
+    <title>Dance With Me</title>
+    <desc>The hosts shed light on the theme and become teary-eyed at Siddhesh and Sonal's performance. Later, one of the artists wins the Nritya Shakti Scholarship.</desc>
+    <image>http://cltv.tmsimg.com/assets/p19074508_b_h10_aa.jpg</image>
+    <start>10:35PM</start>
+    <finish>11:25PM</finish>
+    <date>23 March 2026</date>
+  </channel>
+  <channel>
+    <name>And Prive IN</name>
+    <id>AndPrive.in</id>
+    <title>Chef vs Fridge</title>
+    <desc>Ajay Chopra and Shipra Khanna make a delicious biryani using mutton. Later, they elaborate the day's challenge to chefs, Nalini and Yash Dadlani.</desc>
+    <image>http://cltv.tmsimg.com/assets/p19871011_b_h10_ag.jpg</image>
+    <start>10:25PM</start>
+    <finish>11:15PM</finish>
+    <date>23 March 2026</date>
+  </channel>
+  <channel>
+    <name>Antenne Reunion MU</name>
+    <id>AntenneReunion.mu</id>
+    <title>Sept ? huit</title>
+    <desc>Des reportages sur la soci?t? et l'actualit? nationale et internationale, des zooms sur des faits divers ou des gros plans sur des ?v?nements marquants du moment invitent ? d?couvrir le monde d'aujourd'hui. Le portrait de la semaine cl?t le rendez-vous</desc>
+    <image>https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/filters:quality({imageQualityPercentage})/canalplus-cdn.canal-plus.io/p1/plmws/images.media-press.cloud/c913/c91394ea352540a19754a316d134b29d</image>
+    <start>07:00PM</start>
+    <finish>12:45AM</finish>
+    <date>23 March 2026</date>
+  </channel>
+  <channel>
+    <name>Arirang World KR</name>
+    <id>ArirangWorld.kr</id>
+    <title>K-CHAT: TRAVEL IN KOREA</title>
+    <desc>Simple and Fun Korean Lessons, ?K-Chat: Travel in Korea? What are the most useful expressions visitors to Korea can use right away?From arriving at the airport to finding your hotel and exploring popular travel destinations, this program offers practical expressions for your Korean language journey. It also covers traditional Korean culture and essential travel information, making it an invaluable resource for beginner to intermediate learners! Discover Korean travel expressions in an engaging and entertaining way with skits performed by ONF?s Hyo-jin, Seung-jun, Wyatt, and Alexa. With clear and accessible explanations from Hye-rim of the Wonder Girls, a graduate of Hankuk University of Foreign Studies, you?ll systematically improve your Korean!</desc>
+    <image>https://img.arirang.com/v1/AUTH_d52449c16d3b4bbca17d4fffd9fc44af/public/images/202410/2701241265957110530.png</image>
+    <start>10:40PM</start>
+    <finish>10:50PM</finish>
+    <date>23 March 2026</date>
+  </channel>
+  <channel>
+    <name>Arise News UK</name>
+    <id>AriseNews.uk</id>
+    <title>Newsnight Nigeria</title>
+    <desc>Nightly Current Affairs, Analysis and Cross Examination of Key News Events.</desc>
+    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
+    <start>10:00PM</start>
+    <finish>11:00PM</finish>
+    <date>23 March 2026</date>
+  </channel>
+  <channel>
+    <name>Artv PT</name>
+    <id>Artv.pt</id>
+    <title>Informa??o N?o Disponibilizada Pelo Canal</title>
+    <desc></desc>
+    <image>https://mage.stream.nos.pt/v1/nostv_mage/Images?sourceUri=http%3A%2F%2Fvip.pam.local.internal%2FPAM.Images%2FStore%2F72203a64b7134011be0d9cc2165ed022</image>
+    <start>03:00PM</start>
+    <finish>11:00PM</finish>
+    <date>23 March 2026</date>
+  </channel>
+  <channel>
+    <name>Assemblee Nationale CA</name>
+    <id>AssembleeNationale.ca</id>
+    <title>? hauteur d'X, la cr?ation</title>
+    <desc>On plonge dans le processus cr?atif de l'artiste multim?dia Isabelle Gagn? pour son oeuvre vid?o, qui rend hommage ? 15 militantes qu?b?coises qui ont marqu? l'histoire dans leur lutte pour l'obtention du droit de vote et l'?ligibilit? des femmes au Qu?bec.</desc>
+    <image>http://cltv.tmsimg.com/assets/p30125651_b_h8_aa.jpg</image>
+    <start>10:30PM</start>
+    <finish>11:00PM</finish>
+    <date>23 March 2026</date>
+  </channel>
+  <channel>
+    <name>Astro Rania MY</name>
+    <id>AstroRania.my</id>
+    <title>Para Pencari Tuhan Jilid 12</title>
+    <desc>No description available.</desc>
+    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
+    <start>10:00PM</start>
+    <finish>11:00PM</finish>
+    <date>23 March 2026</date>
+  </channel>
+  <channel>
+    <name>BBC4 UK</name>
+    <id>BBC4.uk</id>
+    <title>The Unseen Alistair Cooke</title>
+    <desc>A revealing portrait of one of the most celebrated broadcasters of the 20th century, Alistair Cooke, whose Radio 4 programme Letter from America spanned 58 years.</desc>
+    <image>https://images.metadata.sky.com/pd-image/b775f5d8-5284-4304-921b-95e5909fbd36/16-9</image>
+    <start>10:00PM</start>
+    <finish>11:00PM</finish>
+    <date>23 March 2026</date>
+  </channel>
+  <channel>
+    <name>BBC News UK</name>
+    <id>BBCNews.uk</id>
+    <title>Newsnight</title>
+    <desc>Insights and global interviews on the news stories of the day. With Victoria Derbyshire.</desc>
+    <image>https://images.metadata.sky.com/pd-image/047494ba-fc7b-4db6-a5f6-8e9ce1f3a816/16-9</image>
+    <start>10:30PM</start>
+    <finish>11:00PM</finish>
     <date>23 March 2026</date>
   </channel>
   <channel>
     <name>BBC One NL</name>
     <id>BBCOne.nl</id>
-    <title>MasterChef: The Professionals</title>
-    <desc>Finals week has arrived, along with the biggest challenge the four remaining in the competition have faced in their careers: cooking for 27 of the UK and Ireland's leading chefs at the Goring Hotel.</desc>
-    <image>https://staticqbr-prod-nl.gnp.cloud.ziggogo.tv/image-service/ImagesEPG/EventImages/p32300807_bd_h10_aa.jpg</image>
-    <start>09:00PM</start>
-    <finish>10:00PM</finish>
+    <title>Trying</title>
+    <desc>Jason makes a huge sacrifice for Tyler, Nikki attempts some tough love with Princess and Freddy tries a different sort of group therapy.</desc>
+    <image>https://staticqbr-prod-nl.gnp.cloud.ziggogo.tv/image-service/ImagesEPG/EventImages/p22486404_e_h8_aa.jpg</image>
+    <start>10:40PM</start>
+    <finish>11:10PM</finish>
+    <date>23 March 2026</date>
+  </channel>
+  <channel>
+    <name>BBC Parliament UK</name>
+    <id>BBCParliament.uk</id>
+    <title>Northern Ireland Assembly</title>
+    <desc>Questions in Stormont to the education minister, Paul Givan, on Monday 23 March.
+ (R).</desc>
+    <image>https://image.tmdb.org/t/p/w500/1VlprHEeLGOjm3h9nFwQI2mLFMK.jpg</image>
+    <start>10:30PM</start>
+    <finish>11:15PM</finish>
     <date>23 March 2026</date>
   </channel>
   <channel>
     <name>BBC Two NL</name>
     <id>BBCTwo.nl</id>
-    <title>Clash of the Super Powers: America v China</title>
-    <desc>Donald Trump comes to office in 2017 and upends America's relationship with Beijing. He promises to 'make China pay', but when he starts a trade war, Xi Jinping fights back.</desc>
-    <image>https://staticqbr-prod-nl.gnp.cloud.ziggogo.tv/image-service/ImagesEPG/EventImages/g8_h10_aa.jpg</image>
+    <title>Newsnight</title>
+    <desc>Featuring extensive coverage of the day's top national and international news stories, along with explanations about the context and potential aftereffects.</desc>
+    <image>https://staticqbr-prod-nl.gnp.cloud.ziggogo.tv/image-service/ImagesEPG/EventImages/p269693_bd_h8_ab.jpg</image>
+    <start>10:30PM</start>
+    <finish>10:58PM</finish>
+    <date>23 March 2026</date>
+  </channel>
+  <channel>
+    <name>BFM Business Fr</name>
+    <id>BFMBusiness.fr</id>
+    <title>C'est votre argent !</title>
+    <desc></desc>
+    <image>http://static-cdn.tv.sfr.net/data/img/pl/1/3/0/13931031.jpg</image>
+    <start>10:00PM</start>
+    <finish>11:00PM</finish>
+    <date>23 March 2026</date>
+  </channel>
+  <channel>
+    <name>Band Sports BR</name>
+    <id>BandSports.br</id>
+    <title>LA Open: Simples Masculino</title>
+    <desc></desc>
+    <image>https://cdn.mitvstatic.com/programs/br_tennis-la-open-simples-masculino_l_m.jpg</image>
+    <start>10:00PM</start>
+    <finish>11:30PM</finish>
+    <date>23 March 2026</date>
+  </channel>
+  <channel>
+    <name>Bloomberg TV MN</name>
+    <id>BloombergTV.mn</id>
+    <title>???? ??????????</title>
+    <desc></desc>
+    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
+    <start>04:00PM</start>
+    <finish>11:00PM</finish>
+    <date>23 March 2026</date>
+  </channel>
+  <channel>
+    <name>Bloomberg TV US</name>
+    <id>BloombergTV.us</id>
+    <title>Power Players</title>
+    <desc>Sports personalities share their perspectives and discuss various subjects like the ever-evolving world of business, diversity in elite competitions and the rise of eSports.</desc>
+    <image>http://cltv.tmsimg.com/assets/p25755668_b_h10_ab.jpg?w=960&amp;h=540</image>
+    <start>10:30PM</start>
+    <finish>11:00PM</finish>
+    <date>23 March 2026</date>
+  </channel>
+  <channel>
+    <name>CBBC UK</name>
+    <id>CBBC.uk</id>
+    <title>So Awkward Academy</title>
+    <desc>Tune in for laugh-out-loud chaos and capers as So Awkward Academy returns for more madcap adventures with the ridiculous staff and kooky students.</desc>
+    <image>https://img.freeviewplay.tv/p7f9799794fca8d06104f9d21782c554c</image>
+    <start>06:55PM</start>
+    <finish>05:30AM</finish>
+    <date>23 March 2026</date>
+  </channel>
+  <channel>
+    <name>CBC Toronto CA</name>
+    <id>CBC.ca</id>
+    <title>CBC Toronto News</title>
+    <desc>Dwight Drummond and team take a comprehensive look at the top stories, with breaking news, reports and updates relevant to the city of Toronto.</desc>
+    <image>https://tv.bell.ca/api/artwork/v3/artworks/artworkSelection/ASSET/TMS/SH023391900000/THUMBNAIL/500x373</image>
+    <start>10:00PM</start>
+    <finish>11:00PM</finish>
+    <date>23 March 2026</date>
+  </channel>
+  <channel>
+    <name>CBC News CA</name>
+    <id>CBCNews.ca</id>
+    <title>Live: Power and Politics With David Cochrane</title>
+    <desc>An insider's view of the continuously unfolding drama of the Canadian political scene.</desc>
+    <image>http://cltv.tmsimg.com/assets/p30005715_b_h8_aa.jpg</image>
     <start>09:00PM</start>
-    <finish>10:00PM</finish>
+    <finish>11:00PM</finish>
+    <date>23 March 2026</date>
+  </channel>
+  <channel>
+    <name>CBC Ottawa CA</name>
+    <id>CBCOttawa.ca</id>
+    <title>CBC Ottawa News</title>
+    <desc>Coverage of the top local news.</desc>
+    <image>http://cltv.tmsimg.com/assets/p12186113_b_h10_aa.jpg</image>
+    <start>10:00PM</start>
+    <finish>11:00PM</finish>
+    <date>23 March 2026</date>
+  </channel>
+  <channel>
+    <name>CBC Vancouver CA</name>
+    <id>CBUT.ca</id>
+    <title>Murdoch Mysteries</title>
+    <desc>Days before a major horse race, Murdoch investigates the intentional killing of a champion horse favored to win.</desc>
+    <image>https://tv.bell.ca/api/artwork/v3/artworks/artworkSelection/ASSET/TMS/EP010146820301/THUMBNAIL/500x373</image>
+    <start>10:00PM</start>
+    <finish>11:00PM</finish>
+    <date>23 March 2026</date>
+  </channel>
+  <channel>
+    <name>CBeebies UK</name>
+    <id>CBeebies.uk</id>
+    <title>..programmes start at 6.00am</title>
+    <desc></desc>
+    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
+    <start>06:58PM</start>
+    <finish>12:58AM</finish>
+    <date>23 March 2026</date>
+  </channel>
+  <channel>
+    <name>CBC Yellowknife CA</name>
+    <id>CFYK.ca</id>
+    <title>Escape to the Country</title>
+    <desc>A couple from Birmingham, England, look for the perfect escape destination in Cornwall, England.</desc>
+    <image>http://cltv.tmsimg.com/assets/p379352_b_h10_bn.jpg</image>
+    <start>10:30PM</start>
+    <finish>11:30PM</finish>
+    <date>23 March 2026</date>
+  </channel>
+  <channel>
+    <name>CGTN-Documentary En CN</name>
+    <id>CGTNDocu.cn</id>
+    <title>Special Edition</title>
+    <desc>Prestige Chinese documentary production, tackling serious subjects with the best cinematography, editing, and all round production values with a unique Chinese perspective.</desc>
+    <image>https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/73/20/32/732032_p15889825_b_h9_aa_360.jpg</image>
+    <start>10:00PM</start>
+    <finish>11:00PM</finish>
+    <date>23 March 2026</date>
+  </channel>
+  <channel>
+    <name>CGTN French CN</name>
+    <id>CGTNFrench.cn</id>
+    <title>Documentaire</title>
+    <desc></desc>
+    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
+    <start>10:00PM</start>
+    <finish>10:45PM</finish>
+    <date>23 March 2026</date>
+  </channel>
+  <channel>
+    <name>CMC TV US</name>
+    <id>CMCTV.us</id>
+    <title>Mia Amor Show</title>
+    <desc>The latest news on recording artists combined with music hits from today and yesterday.</desc>
+    <image>http://cltv.tmsimg.com/assets/p11401635_b_h8_aa.jpg?w=960&amp;h=540</image>
+    <start>08:00PM</start>
+    <finish>11:00PM</finish>
+    <date>23 March 2026</date>
+  </channel>
+  <channel>
+    <name>CNBC Awaaz IN</name>
+    <id>CNBCAwaaz.in</id>
+    <title>Awaaz Adda</title>
+    <desc>Prominent political, social, economic, bureaucratic and cultural personalities of the nation debate the key national and regional issues.</desc>
+    <image>http://cltv.tmsimg.com/assets/p28820643_b_h8_aa.jpg</image>
+    <start>10:30PM</start>
+    <finish>10:50PM</finish>
+    <date>23 March 2026</date>
+  </channel>
+  <channel>
+    <name>CPAC Francais CA</name>
+    <id>CPAC.ca</id>
+    <title>Live: D?lib?rations de la Chambre des communes</title>
+    <desc>Couverture des d?lib?rations de la Chambre des communes, alors que les d?put?s discutent et d?battent de la l?gislation et des enjeux nationaux.</desc>
+    <image>http://cltv.tmsimg.com/assets/p29708808_b_h8_aa.jpg</image>
+    <start>07:30PM</start>
+    <finish>11:00PM</finish>
+    <date>23 March 2026</date>
+  </channel>
+  <channel>
+    <name>CSPAN US</name>
+    <id>CSPAN.us</id>
+    <title>Public Affairs Events</title>
+    <desc>Public affairs events, congressional hearings, speeches, and interviews.</desc>
+    <image>http://cltv.tmsimg.com/assets/p13343903_b_h10_ab.jpg?w=960&amp;h=540</image>
+    <start>07:07PM</start>
+    <finish>11:15PM</finish>
+    <date>23 March 2026</date>
+  </channel>
+  <channel>
+    <name>CSPAN US</name>
+    <id>CSPAN.us</id>
+    <title>Public Affairs Events</title>
+    <desc>Public affairs events, congressional hearings, speeches, and interviews.</desc>
+    <image>http://cltv.tmsimg.com/assets/p13343903_b_h10_ab.jpg?w=960&amp;h=540</image>
+    <start>07:07PM</start>
+    <finish>11:15PM</finish>
+    <date>23 March 2026</date>
+  </channel>
+  <channel>
+    <name>CSPAN US</name>
+    <id>CSPAN.us</id>
+    <title>Public Affairs Events</title>
+    <desc>Public affairs events, congressional hearings, speeches, and interviews.</desc>
+    <image>http://cltv.tmsimg.com/assets/p13343903_b_h10_ab.jpg?w=960&amp;h=540</image>
+    <start>09:00PM</start>
+    <finish>04:00AM</finish>
+    <date>23 March 2026</date>
+  </channel>
+  <channel>
+    <name>CSPAN US</name>
+    <id>CSPAN.us</id>
+    <title>Public Affairs Events</title>
+    <desc>Public affairs events, congressional hearings, speeches, and interviews.</desc>
+    <image>http://cltv.tmsimg.com/assets/p13343903_b_h10_ab.jpg?w=960&amp;h=540</image>
+    <start>07:07PM</start>
+    <finish>11:15PM</finish>
+    <date>23 March 2026</date>
+  </channel>
+  <channel>
+    <name>CSPAN US</name>
+    <id>CSPAN.us</id>
+    <title>Public Affairs Events</title>
+    <desc>Public affairs events, congressional hearings, speeches, and interviews.</desc>
+    <image>http://cltv.tmsimg.com/assets/p13343903_b_h10_ab.jpg?w=960&amp;h=540</image>
+    <start>09:00PM</start>
+    <finish>04:00AM</finish>
+    <date>23 March 2026</date>
+  </channel>
+  <channel>
+    <name>CSPAN US</name>
+    <id>CSPAN.us</id>
+    <title>Live: Current &amp; Former Gov't Officials on Defense Technology &amp; Innovation</title>
+    <desc>Former Defense Secretary Mark Esper, Former Deputy Defense Secretary Kathleen Hicks and Under Secretary of State for Economic Affairs Jacob Helberg discuss defense technology and innovation at an event hosted by Axios in Washington, DC.</desc>
+    <image>https://static.epg.best/img/default.jpg</image>
+    <start>09:45PM</start>
+    <finish>11:00PM</finish>
+    <date>23 March 2026</date>
+  </channel>
+  <channel>
+    <name>CSPAN 2 US</name>
+    <id>CSPAN2.us</id>
+    <title>Live: U.S. Senate</title>
+    <desc>The Senate continues debate on the GOP voter ID and citizenship requirements bill. Lawmakers may also vote on confirmation of Pres. Trump's DHS Secy. Nominee, Sen. Mullin (R-OK).</desc>
+    <image>http://cltv.tmsimg.com/assets/p969128_b_h8_aa.jpg?w=960&amp;h=540</image>
+    <start>07:00PM</start>
+    <finish>12:00AM</finish>
+    <date>23 March 2026</date>
+  </channel>
+  <channel>
+    <name>CSPAN 3 US</name>
+    <id>CSPAN3.us</id>
+    <title>Public Affairs Events</title>
+    <desc>Public affairs events, congressional hearings, speeches, and interviews.</desc>
+    <image>http://cltv.tmsimg.com/assets/p13343903_b_h10_ab.jpg?w=960&amp;h=540</image>
+    <start>06:38PM</start>
+    <finish>11:19PM</finish>
+    <date>23 March 2026</date>
+  </channel>
+  <channel>
+    <name>CSPAN 3 US</name>
+    <id>CSPAN3.us</id>
+    <title>Public Affairs Events</title>
+    <desc>Public affairs events, congressional hearings, speeches, and interviews.</desc>
+    <image>http://cltv.tmsimg.com/assets/p13343903_b_h10_ab.jpg?w=960&amp;h=540</image>
+    <start>06:38PM</start>
+    <finish>11:19PM</finish>
+    <date>23 March 2026</date>
+  </channel>
+  <channel>
+    <name>CSPAN 3 US</name>
+    <id>CSPAN3.us</id>
+    <title>Public Affairs Events</title>
+    <desc>Public affairs events, congressional hearings, speeches, and interviews.</desc>
+    <image>http://cltv.tmsimg.com/assets/p13343903_b_h10_ab.jpg?w=960&amp;h=540</image>
+    <start>08:00PM</start>
+    <finish>04:00AM</finish>
+    <date>23 March 2026</date>
+  </channel>
+  <channel>
+    <name>Channel News Asia IN</name>
+    <id>ChannelNewsAsia.in</id>
+    <title>To Be Announced</title>
+    <desc>Programming to be announced.</desc>
+    <image>http://cltv.tmsimg.com/assets/p514472_b_h8_ad.jpg</image>
+    <start>09:00PM</start>
+    <finish>01:00AM</finish>
     <date>23 March 2026</date>
   </channel>
   <channel>
@@ -43,21 +594,573 @@
   <channel>
     <name>Classica IT</name>
     <id>Classica.it</id>
-    <title>Dante all'Opera</title>
-    <desc>Le Donne nella Divina Commedia: per i 700 anni dalla morte di Dante, uno spettacolo con P.Maranghi, E.Tonello, L.Caridi - Orchestra e Coro Teatro Carlo Felice - M.Spotti, dir., P.Gavazzeni, P.Maranghi, reg.\(Genova, 2021\).[(96057)] </desc>
-    <image>https://guidatv.sky.it/uuid/d9f31c80-1131-49f4-9e54-00f18f1c2065/16-9?cgid=260&amp;territory=IT&amp;md5ChecksumParam=e0a684d6dd3c1b8c322ce870d74dc56f</image>
-    <start>08:45PM</start>
-    <finish>10:30PM</finish>
+    <title>Kaiserwalzer: Kirill Petrenko</title>
+    <desc>Un programma di e con il critico musicale, direttore d'orchestra, scrittore e fotografo Francesco Maria Colombo per scoprire e approfondire le notizie di attualita' del mondo musicale internazionale - A.G.Onofri \(2021\).</desc>
+    <image>https://guidatv.sky.it/uuid/ab80d0c2-49eb-44fa-bf7c-2f3516a8b553/16-9?cgid=260&amp;territory=IT&amp;md5ChecksumParam=e0a684d6dd3c1b8c322ce870d74dc56f</image>
+    <start>10:35PM</start>
+    <finish>10:45PM</finish>
+    <date>23 March 2026</date>
+  </channel>
+  <channel>
+    <name>Comet US</name>
+    <id>Comet.us</id>
+    <title>Grimm</title>
+    <desc>A cyclist's murder leads Hank and Nick to a wesen with a fatal touch; Adalind and Capt. Renard discover that the Royals have increased their efforts.</desc>
+    <image>http://cltv.tmsimg.com/assets/p8677098_b_h10_al.jpg?w=960&amp;h=540</image>
+    <start>10:00PM</start>
+    <finish>11:00PM</finish>
+    <date>23 March 2026</date>
+  </channel>
+  <channel>
+    <name>Cooking Channel US</name>
+    <id>CookingChannel.us</id>
+    <title>Bizarre Foods America</title>
+    <desc>Andrew wants to find out what Hawaiians really like to eat; dried octopus bile sac; crispy pork intestine;and a traditional take on a raw fish salad that includes the eyeballs.</desc>
+    <image>http://cltv.tmsimg.com/assets/p9054212_b_h8_ag.jpg?w=960&amp;h=540</image>
+    <start>10:30PM</start>
+    <finish>11:00PM</finish>
+    <date>23 March 2026</date>
+  </channel>
+  <channel>
+    <name>DD News IN</name>
+    <id>DDNews.in</id>
+    <title>Samachar</title>
+    <desc>Presents recent news, updates and developments from across the world.</desc>
+    <image>http://cltv.tmsimg.com/assets/p283894_b_h8_aa.jpg</image>
+    <start>10:30PM</start>
+    <finish>11:30PM</finish>
+    <date>23 March 2026</date>
+  </channel>
+  <channel>
+    <name>DD Sports IN</name>
+    <id>DDSports.in</id>
+    <title>38th National Games 2025</title>
+    <desc></desc>
+    <image>http://cltv.tmsimg.com/assets/p29395006_b_h8_aa.jpg</image>
+    <start>10:35PM</start>
+    <finish>11:35PM</finish>
+    <date>23 March 2026</date>
+  </channel>
+  <channel>
+    <name>Dubai One En AE</name>
+    <id>DubaiOneEn.ae</id>
+    <title>Movie</title>
+    <desc>Movie to be announced.</desc>
+    <image>http://cltv.tmsimg.com/assets/p809737_b_h8_bq.jpg?w=960&amp;h=540</image>
+    <start>09:30PM</start>
+    <finish>11:30PM</finish>
+    <date>23 March 2026</date>
+  </channel>
+  <channel>
+    <name>Dubai One En AE</name>
+    <id>DubaiOneEn.ae</id>
+    <title>Movie</title>
+    <desc>Movie to be announced.</desc>
+    <image>http://cltv.tmsimg.com/assets/p809737_b_h8_bq.jpg?w=960&amp;h=540</image>
+    <start>09:30PM</start>
+    <finish>11:30PM</finish>
+    <date>23 March 2026</date>
+  </channel>
+  <channel>
+    <name>Dubai One En AE</name>
+    <id>DubaiOneEn.ae</id>
+    <title>Emirates News</title>
+    <desc>The host presents the latest and important news, providing breaking news stories, in-depth reports, and covering relevant events from Dubai and around the world.</desc>
+    <image>http://cltv.tmsimg.com/assets/p22294222_b_h10_ab.jpg?w=960&amp;h=540</image>
+    <start>10:30PM</start>
+    <finish>11:00PM</finish>
+    <date>23 March 2026</date>
+  </channel>
+  <channel>
+    <name>EBS KR</name>
+    <id>EBS.kr</id>
+    <title>????? ?????Z</title>
+    <desc></desc>
+    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
+    <start>10:30PM</start>
+    <finish>10:45PM</finish>
+    <date>23 March 2026</date>
+  </channel>
+  <channel>
+    <name>EWTN UK</name>
+    <id>EWTN.uk</id>
+    <title>The Faithful Traveler In Portugal</title>
+    <desc>The northern city of Braga with its beautiful and vast Se before going to Born Jesus do Monte, where reparation can be embarked upon with a 500-stair climb.</desc>
+    <image>https://image.tmdb.org/t/p/w500/zXPfbviGAYPojPSKrlQVZgBakdA.jpg</image>
+    <start>10:30PM</start>
+    <finish>11:00PM</finish>
+    <date>23 March 2026</date>
+  </channel>
+  <channel>
+    <name>EWTN ZA</name>
+    <id>EWTNAfricaAsia.za</id>
+    <title>Lent A Season Of Grace</title>
+    <desc>Death is our ultimate enemy. Because of Jesus, not even death can separate us from the love of God. We can experience resurrection even now, because in Jesus we can rise and experience victory in every area of our life. (30 minutes).</desc>
+    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
+    <start>10:30PM</start>
+    <finish>11:00PM</finish>
+    <date>23 March 2026</date>
+  </channel>
+  <channel>
+    <name>EXPO AU</name>
+    <id>EXPO.au</id>
+    <title>Cashmasoft 10th Anniversary</title>
+    <desc>Stay warm and cosy with Cashmasoft . Experience the weightless cashmere collection offering style and comfort. Indulge in pieces made to last. Ensure you look and feel incredible every time.</desc>
+    <image>https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/73/18/91/731891_p15024371_b_h9_aa_360.jpg</image>
+    <start>10:30PM</start>
+    <finish>11:30PM</finish>
+    <date>23 March 2026</date>
+  </channel>
+  <channel>
+    <name>EuroNews UK</name>
+    <id>EuroNews.uk</id>
+    <title>The European Debrief</title>
+    <desc>Live headlines, breaking news, analysis and interviews from Europe's News Centre.</desc>
+    <image>https://images.metadata.sky.com/pd-image/4141d588-f71a-4ef8-ae74-4e1b7e9179f5/16-9</image>
+    <start>10:30PM</start>
+    <finish>11:00PM</finish>
+    <date>23 March 2026</date>
+  </channel>
+  <channel>
+    <name>Euronews FR</name>
+    <id>Euronews.fr</id>
+    <title>Euronews</title>
+    <desc>La premi?re cha?ne europ?enne d'information internationale, en France. Gr?ce ? Pluto TV, restez inform? gratuitement 24/24 h et 7/7 j.</desc>
+    <image>https://images.pluto.tv/episodes/613b1d8d689b5f0007085ee4/thumbnail.jpg</image>
+    <start>08:30AM</start>
+    <finish>04:00AM</finish>
+    <date>23 March 2026</date>
+  </channel>
+  <channel>
+    <name>Euronews FR</name>
+    <id>Euronews.fr</id>
+    <title>Euronews</title>
+    <desc>La premi?re cha?ne europ?enne d'information internationale, en France. Gr?ce ? Pluto TV, restez inform? gratuitement 24/24 h et 7/7 j.</desc>
+    <image>https://images.pluto.tv/episodes/613b1d8d689b5f0007085ee4/thumbnail.jpg</image>
+    <start>08:30AM</start>
+    <finish>04:00AM</finish>
+    <date>23 March 2026</date>
+  </channel>
+  <channel>
+    <name>Euronews FR</name>
+    <id>Euronews.fr</id>
+    <title>Euronews</title>
+    <desc>La premi?re cha?ne europ?enne d'information internationale, en France. Gr?ce ? Pluto TV, restez inform? gratuitement 24/24 h et 7/7 j.</desc>
+    <image>https://images.pluto.tv/episodes/613b1d8d689b5f0007085ee4/thumbnail.jpg</image>
+    <start>04:30PM</start>
+    <finish>04:00AM</finish>
+    <date>23 March 2026</date>
+  </channel>
+  <channel>
+    <name>Euronews FR</name>
+    <id>Euronews.fr</id>
+    <title>Euronews</title>
+    <desc>La premi?re cha?ne europ?enne d'information internationale, en France. Gr?ce ? Pluto TV, restez inform? gratuitement 24/24 h et 7/7 j.</desc>
+    <image>https://images.pluto.tv/episodes/613b1d8d689b5f0007085ee4/thumbnail.jpg</image>
+    <start>08:30AM</start>
+    <finish>04:00AM</finish>
+    <date>23 March 2026</date>
+  </channel>
+  <channel>
+    <name>Euronews FR</name>
+    <id>Euronews.fr</id>
+    <title>Euronews</title>
+    <desc>La premi?re cha?ne europ?enne d'information internationale, en France. Gr?ce ? Pluto TV, restez inform? gratuitement 24/24 h et 7/7 j.</desc>
+    <image>https://images.pluto.tv/episodes/613b1d8d689b5f0007085ee4/thumbnail.jpg</image>
+    <start>04:30PM</start>
+    <finish>04:00AM</finish>
+    <date>23 March 2026</date>
+  </channel>
+  <channel>
+    <name>Euronews FR</name>
+    <id>Euronews.fr</id>
+    <title>Europe le debrief</title>
+    <desc>Toutes les demi-heures, un tr?s vaste panel d'informations europ?ennes et internationales est pr?sent? et d?taill?, images ? l'appui.</desc>
+    <image>https://resize.programme-television.org/landscape_1280_webp/images/imported/programs/410528384/b947be89a75e4a6bb87b16268e2dcf0b.jpg</image>
+    <start>10:30PM</start>
+    <finish>11:00PM</finish>
+    <date>23 March 2026</date>
+  </channel>
+  <channel>
+    <name>Euronews FR</name>
+    <id>Euronews.fr</id>
+    <title>Euronews</title>
+    <desc>La premi?re cha?ne europ?enne d'information internationale, en France. Gr?ce ? Pluto TV, restez inform? gratuitement 24/24 h et 7/7 j.</desc>
+    <image>https://images.pluto.tv/episodes/613b1d8d689b5f0007085ee4/thumbnail.jpg</image>
+    <start>08:30AM</start>
+    <finish>04:00AM</finish>
+    <date>23 March 2026</date>
+  </channel>
+  <channel>
+    <name>Euronews FR</name>
+    <id>Euronews.fr</id>
+    <title>Euronews</title>
+    <desc>La premi?re cha?ne europ?enne d'information internationale, en France. Gr?ce ? Pluto TV, restez inform? gratuitement 24/24 h et 7/7 j.</desc>
+    <image>https://images.pluto.tv/episodes/613b1d8d689b5f0007085ee4/thumbnail.jpg</image>
+    <start>04:30PM</start>
+    <finish>04:00AM</finish>
+    <date>23 March 2026</date>
+  </channel>
+  <channel>
+    <name>Euronews FR</name>
+    <id>Euronews.fr</id>
+    <title>Europe le debrief</title>
+    <desc>Toutes les demi-heures, un tr?s vaste panel d'informations europ?ennes et internationales est pr?sent? et d?taill?, images ? l'appui.</desc>
+    <image>https://resize.programme-television.org/landscape_1280_webp/images/imported/programs/410528384/b947be89a75e4a6bb87b16268e2dcf0b.jpg</image>
+    <start>10:30PM</start>
+    <finish>11:00PM</finish>
+    <date>23 March 2026</date>
+  </channel>
+  <channel>
+    <name>Euronews FR</name>
+    <id>Euronews.fr</id>
+    <title>Euronews</title>
+    <desc>La premi?re cha?ne europ?enne d'information internationale, en France. Gr?ce ? Pluto TV, restez inform? gratuitement 24/24 h et 7/7 j.</desc>
+    <image>https://images.pluto.tv/episodes/613b1d8d689b5f0007085ee4/thumbnail.jpg</image>
+    <start>10:30PM</start>
+    <finish>11:00PM</finish>
+    <date>23 March 2026</date>
+  </channel>
+  <channel>
+    <name>Euronews FR</name>
+    <id>Euronews.fr</id>
+    <title>Euronews</title>
+    <desc>La premi?re cha?ne europ?enne d'information internationale, en France. Gr?ce ? Pluto TV, restez inform? gratuitement 24/24 h et 7/7 j.</desc>
+    <image>https://images.pluto.tv/episodes/613b1d8d689b5f0007085ee4/thumbnail.jpg</image>
+    <start>08:30AM</start>
+    <finish>04:00AM</finish>
+    <date>23 March 2026</date>
+  </channel>
+  <channel>
+    <name>Euronews FR</name>
+    <id>Euronews.fr</id>
+    <title>Euronews</title>
+    <desc>La premi?re cha?ne europ?enne d'information internationale, en France. Gr?ce ? Pluto TV, restez inform? gratuitement 24/24 h et 7/7 j.</desc>
+    <image>https://images.pluto.tv/episodes/613b1d8d689b5f0007085ee4/thumbnail.jpg</image>
+    <start>04:30PM</start>
+    <finish>04:00AM</finish>
+    <date>23 March 2026</date>
+  </channel>
+  <channel>
+    <name>Euronews FR</name>
+    <id>Euronews.fr</id>
+    <title>Europe le debrief</title>
+    <desc>Toutes les demi-heures, un tr?s vaste panel d'informations europ?ennes et internationales est pr?sent? et d?taill?, images ? l'appui.</desc>
+    <image>https://resize.programme-television.org/landscape_1280_webp/images/imported/programs/410528384/b947be89a75e4a6bb87b16268e2dcf0b.jpg</image>
+    <start>10:30PM</start>
+    <finish>11:00PM</finish>
+    <date>23 March 2026</date>
+  </channel>
+  <channel>
+    <name>Euronews FR</name>
+    <id>Euronews.fr</id>
+    <title>Euronews</title>
+    <desc>La premi?re cha?ne europ?enne d'information internationale, en France. Gr?ce ? Pluto TV, restez inform? gratuitement 24/24 h et 7/7 j.</desc>
+    <image>https://images.pluto.tv/episodes/613b1d8d689b5f0007085ee4/thumbnail.jpg</image>
+    <start>10:30PM</start>
+    <finish>11:00PM</finish>
+    <date>23 March 2026</date>
+  </channel>
+  <channel>
+    <name>Euronews FR</name>
+    <id>Euronews.fr</id>
+    <title>Euronews</title>
+    <desc>La premi?re cha?ne europ?enne d'information internationale, en France. Gr?ce ? Pluto TV, restez inform? gratuitement 24/24 h et 7/7 j.</desc>
+    <image>https://images.pluto.tv/episodes/613b1d8d689b5f0007085ee4/thumbnail.jpg</image>
+    <start>10:30PM</start>
+    <finish>11:00PM</finish>
+    <date>23 March 2026</date>
+  </channel>
+  <channel>
+    <name>Fox News US</name>
+    <id>FoxNews.us</id>
+    <title>Live: Special Report With Bret Baier</title>
+    <desc>Former Fox News chief White House correspondent Bret Baier takes a closer look at political stories from Washington, DC.</desc>
+    <image>http://cltv.tmsimg.com/assets/p195296_b_h8_ae.jpg?w=960&amp;h=540</image>
+    <start>10:00PM</start>
+    <finish>11:00PM</finish>
+    <date>23 March 2026</date>
+  </channel>
+  <channel>
+    <name>Fox Sports News AU</name>
+    <id>FoxSportsNews.au</id>
+    <title>FOX SPORTS News</title>
+    <desc>The latest highlights, reaction and analysis of the biggest sport stories from Australia and around the world.</desc>
+    <image>https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/71/21/60/712160_p10976034_b_h3_aa.jpg</image>
+    <start>10:30PM</start>
+    <finish>11:00PM</finish>
     <date>23 March 2026</date>
   </channel>
   <channel>
     <name>France 24 Fr</name>
     <id>France24.fr</id>
-    <title>Culture Prime</title>
-    <desc>?mission culturelle et sociale qui raconte l'actualit? via le prisme de la culture. Les sujets de soci?t? sont mis en avant par le biais de spectacles, d'initiatives ou encore d'artistes.[(96057)] </desc>
-    <image>https://staticqbr-prod-ch.gnp.cloud.sunrisetv.ch/image-service/ImagesEPG/EventImages/p28456910_bd_h8_aa.jpg</image>
-    <start>10:56AM</start>
-    <finish>10:56PM</finish>
+    <title>Les cl?s de l'info</title>
+    <desc>Un point sur l'information et l'actualit? internationale avec des explications d?taill?es.</desc>
+    <image>https://staticqbr-prod-ch.gnp.cloud.sunrisetv.ch/image-service/ImagesEPG/EventImages/g156_h10_ab.jpg</image>
+    <start>10:39PM</start>
+    <finish>10:43PM</finish>
+    <date>23 March 2026</date>
+  </channel>
+  <channel>
+    <name>GauTV ZA</name>
+    <id>GauTV.za</id>
+    <title>My Selector</title>
+    <desc>Get entertained through various genres of music</desc>
+    <image>https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/img/204552_gautv_holding_slide.png</image>
+    <start>10:30PM</start>
+    <finish>04:00AM</finish>
+    <date>23 March 2026</date>
+  </channel>
+  <channel>
+    <name>Global News BC1 CA</name>
+    <id>GlobalNewsBC1.ca</id>
+    <title>BC 1 News</title>
+    <desc>Weather, sports and breaking news, led by a team of anchors.</desc>
+    <image>http://cltv.tmsimg.com/assets/p9826413_b_h10_aa.jpg</image>
+    <start>10:00PM</start>
+    <finish>11:00PM</finish>
+    <date>23 March 2026</date>
+  </channel>
+  <channel>
+    <name>Gulli Fr</name>
+    <id>Gulli.fr</id>
+    <title>La v?rit? si je mens ! 2</title>
+    <desc>Une entreprise de confection se voit tra?treusement accul?e ? la faillite par un g?ant de la distribution auquel elle s'est imprudemment alli?e.</desc>
+    <image>http://static-cdn.tv.sfr.net/data/img/pl/2/4/7/13704742.jpg</image>
+    <start>10:20PM</start>
+    <finish>12:35AM</finish>
+    <date>23 March 2026</date>
+  </channel>
+  <channel>
+    <name>HSN2 US</name>
+    <id>HSN2.us</id>
+    <title>Best of HSN2</title>
+    <desc>A collection of top selling items.</desc>
+    <image>http://cltv.tmsimg.com/assets/p8665806_b_h10_ag.jpg?w=960&amp;h=540</image>
+    <start>10:00PM</start>
+    <finish>11:00PM</finish>
+    <date>23 March 2026</date>
+  </channel>
+  <channel>
+    <name>HirTV HU</name>
+    <id>HirTV.hu</id>
+    <title>Komment</title>
+    <desc>Kem?ny v?g?sok, ?gyes sz?r?sok jobbr?l ?s balr?l. A m?sorvezet? vend?geivel veszi sorra a legfontosabb, ?rdekl?d?sre legink?bb sz?mot tart? k?z?leti t?rt?n?seket, esem?nyeket. Mindenki elmondhatja ?s el is mondja ?ll?spontj?t, a m?sorvezet? moder?l?sa mellett a n?z?k kem?ny vit?kra sz?m?thatnak. ?sszecsaphat a st?di?ban jobb ?s bal, konzervat?v ?s liber?lis, itt nem a lovagiass?g, hanem a sz?kimond?s sz?m?t.</desc>
+    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
+    <start>10:30PM</start>
+    <finish>11:30PM</finish>
+    <date>23 March 2026</date>
+  </channel>
+  <channel>
+    <name>ITV 1 UK</name>
+    <id>ITV1.uk</id>
+    <title>ITV News London</title>
+    <desc>The latest news and weather from London and the South East.</desc>
+    <image>https://images.metadata.sky.com/pd-image/2c10ca1c-53cc-4296-ae64-8cc3c9dca41a/16-9</image>
+    <start>10:30PM</start>
+    <finish>10:45PM</finish>
+    <date>23 March 2026</date>
+  </channel>
+  <channel>
+    <name>Ictimai TV AZ</name>
+    <id>IctimaiTV.az</id>
+    <title>B?dii film: &quot;5-ci element&quot;</title>
+    <desc></desc>
+    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
+    <start>08:50PM</start>
+    <finish>10:50PM</finish>
+    <date>23 March 2026</date>
+  </channel>
+  <channel>
+    <name>Kuriakos Tv PT</name>
+    <id>KuriakosTv.pt</id>
+    <title>Man? World</title>
+    <desc>Programa que pretende dar a conhecer quem ? a Igreja Man?, quem somos, o que fazemos e onde estamos. Apresenta a biografia do Ap?stolo Jorge Tadeu, mostrando v?rios departamentos do Minist?rio Man?.</desc>
+    <image>https://mage.stream.nos.pt/v1/nostv_mage/Images?sourceUri=http%3A%2F%2Fvip.pam.local.internal%2FPAM.Images%2FStore%2F8def4ffe8b2f4bf28b4b87a25857a784</image>
+    <start>10:00PM</start>
+    <finish>11:00PM</finish>
+    <date>23 March 2026</date>
+  </channel>
+  <channel>
+    <name>LCI Fr</name>
+    <id>LCI.fr</id>
+    <title>22H Darius Rochebin</title>
+    <desc></desc>
+    <image>http://static-cdn.tv.sfr.net/data/img/pl/8/9/1/12648198.jpg</image>
+    <start>09:00PM</start>
+    <finish>11:00PM</finish>
+    <date>23 March 2026</date>
+  </channel>
+  <channel>
+    <name>L'Equipe 21 FR</name>
+    <id>LEquipe21.fr</id>
+    <title>L'Equipe du soir</title>
+    <desc>Au menu de ce talk sportif, des d?bats souvent passionn?s et des points de vue sans concession sur celles et ceux qui font le sport en France et ? l'?tranger.</desc>
+    <image>https://resize.programme-television.org/landscape_1280_webp/images/imported/programs/414884575/0a972c91cfb24cc38738b2126ea485d2</image>
+    <start>09:55PM</start>
+    <finish>11:52PM</finish>
+    <date>23 March 2026</date>
+  </channel>
+  <channel>
+    <name>La Otra ES</name>
+    <id>LaOtra.es</id>
+    <title>El hombre que no sab?a nada</title>
+    <desc>Por error recibi? una orden dirigida a un asesino. No lo sabe, pero la paz de Oriente y Occidente est? en sus manos.</desc>
+    <image>https://www.movistarplus.es/recorte/n/caratula5/MOTRAP71006</image>
+    <start>10:40PM</start>
+    <finish>12:20AM</finish>
+    <date>23 March 2026</date>
+  </channel>
+  <channel>
+    <name>Law &amp; Crime US</name>
+    <id>LawAndCrime.us</id>
+    <title>BodyCam by Law&amp;Crime</title>
+    <desc>Bodycam takes you on patrol and in the line of duty with raw footage of high-stakes police encounters.</desc>
+    <image>http://cltv.tmsimg.com/assets/p31007360_b_h8_ab.jpg?w=960&amp;h=540</image>
+    <start>10:00PM</start>
+    <finish>11:00PM</finish>
+    <date>23 March 2026</date>
+  </channel>
+  <channel>
+    <name>MBC 4 SA</name>
+    <id>MBC4.sa</id>
+    <title>?????? ????? ???????</title>
+    <desc></desc>
+    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
+    <start>10:30PM</start>
+    <finish>11:00PM</finish>
+    <date>23 March 2026</date>
+  </channel>
+  <channel>
+    <name>MBC Action SA</name>
+    <id>MBCAction.sa</id>
+    <title>?????? action bodcast</title>
+    <desc></desc>
+    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
+    <start>10:00PM</start>
+    <finish>11:00PM</finish>
+    <date>23 March 2026</date>
+  </channel>
+  <channel>
+    <name>MBC Bollywood SA</name>
+    <id>MBCBollywood.sa</id>
+    <title>No title available</title>
+    <desc></desc>
+    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
+    <start>09:00PM</start>
+    <finish>11:30PM</finish>
+    <date>23 March 2026</date>
+  </channel>
+  <channel>
+    <name>MBC Drama KR</name>
+    <id>MBCDrama.kr</id>
+    <title>? ?? ??</title>
+    <desc></desc>
+    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
+    <start>10:13PM</start>
+    <finish>10:51PM</finish>
+    <date>23 March 2026</date>
+  </channel>
+  <channel>
+    <name>MBC Max Ar AE</name>
+    <id>MBCMax.ae</id>
+    <title>No title available</title>
+    <desc></desc>
+    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
+    <start>09:00PM</start>
+    <finish>11:30PM</finish>
+    <date>23 March 2026</date>
+  </channel>
+  <channel>
+    <name>MCM Fr</name>
+    <id>MCM.fr</id>
+    <title>Ape vs Monster</title>
+    <desc>Une substance aux propri?t?s ?tranges fait grandir deux animaux, un chimpanz? et un iguane qui, devenus g?ants, s'affrontent pour la domination du monde.</desc>
+    <image>http://static-cdn.tv.sfr.net/data/img/pl/2/6/9/14307962.jpg</image>
+    <start>09:35PM</start>
+    <finish>11:15PM</finish>
+    <date>23 March 2026</date>
+  </channel>
+  <channel>
+    <name>MNC TV ID</name>
+    <id>MNCTV.id</id>
+    <title>Siraman Qolbu</title>
+    <desc></desc>
+    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
+    <start>10:00PM</start>
+    <finish>11:00PM</finish>
+    <date>23 March 2026</date>
+  </channel>
+  <channel>
+    <name>MSNBC US</name>
+    <id>MSNBC.us</id>
+    <title>Live: The Beat With Ari Melber</title>
+    <desc>Attorney and journalist Ari Melber dives into political and news stories with interviews and original reporting from around the nation.</desc>
+    <image>http://cltv.tmsimg.com/assets/p14383384_b_h8_af.jpg?w=960&amp;h=540</image>
+    <start>10:00PM</start>
+    <finish>11:00PM</finish>
+    <date>23 March 2026</date>
+  </channel>
+  <channel>
+    <name>MTV UK</name>
+    <id>MTV.uk</id>
+    <title>Tattoo Fixers</title>
+    <desc>Jay deals with a couple who are obsessed with going on holiday and getting cheap tattoos. Lou is busy sorting out Thom, who has a rude tribute to one of his friends on his rear end.</desc>
+    <image>https://images.metadata.sky.com/pd-image/8bf004e7-a915-4291-86be-329928403359/16-9</image>
+    <start>10:00PM</start>
+    <finish>11:00PM</finish>
+    <date>23 March 2026</date>
+  </channel>
+  <channel>
+    <name>Mama RU</name>
+    <id>Mama.ru</id>
+    <title>????? ???????</title>
+    <desc>?????????? ??? ????? ????????? ???????????? ????????? ?????????? ???? ????????????? ????????, ?????? ???????????????? ?????????????? ?????? ????????.
+?????? ???? ????????? ?????? ???????? ??????? ????? ???????? ?????? ?????????? ????? ????????? ??? ???? ???. ????? ?????? ?????????????? ??????? ??? ???????????????? ???????????? ??? ???????? ?????????? ????????????? ??????? ????? ??????????????? ??????? ??????????????? ??????? ????? ??????. ???????? ?????????? ?????? ???????? ?????????, ?????? ??? ????? ????????? ??????? ????????? ??????????. ??????????? ????????? ????????? ???? ??? ?????????? ??? ?????????. ????? ????????? ????? ??????? ????? ???????? ????? ?????, ?????, ?????, ?????, ?????, ???? ??????? ????????????! 
+??? ????????? ????????????? ????? ?????? ???????? ?????????? ??????????? ?????????????? ??? ????? ???3-? ???, ????????? ??????? ?????????? ??????????? ????.</desc>
+    <image>https://tlum.ru/uploads/1f51770a50b82d2d75e31ed2be2fdd6484c92c230403fff9da8065802a211687.jpeg</image>
+    <start>10:00PM</start>
+    <finish>11:50PM</finish>
+    <date>23 March 2026</date>
+  </channel>
+  <channel>
+    <name>Whakaata Maori NZ</name>
+    <id>MaoriTelevision.nz</id>
+    <title>M?ori Wardens</title>
+    <desc>Captures the 160-year history of the M?ori Wardens, through the lens of the volunteers, administrators, politicians and the community members who have benefited from the support, guidance and interventions of the wardens.</desc>
+    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
+    <start>10:30PM</start>
+    <finish>11:30PM</finish>
+    <date>23 March 2026</date>
+  </channel>
+  <channel>
+    <name>Metro TV ID</name>
+    <id>MetroTV.id</id>
+    <title>Metro TV</title>
+    <desc></desc>
+    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
+    <start>10:30PM</start>
+    <finish>10:50PM</finish>
+    <date>23 March 2026</date>
+  </channel>
+  <channel>
+    <name>Movies 24 UK</name>
+    <id>Movies24.uk</id>
+    <title>Love Served Here</title>
+    <desc>In order to get a promotion, a chef must turn the worst restaurant in the city around. in two weeks. But as she cooks up a storm, her relationship with the owner starts to sizzle.</desc>
+    <image>https://images.metadata.sky.com/pd-image/b63e29d2-446d-3ba3-be74-d54d207a436e/16-9</image>
+    <start>09:00PM</start>
+    <finish>11:00PM</finish>
+    <date>23 March 2026</date>
+  </channel>
+  <channel>
+    <name>NHK World JP</name>
+    <id>NHKWorld.jp</id>
+    <title>Easy Japanese</title>
+    <desc>#13 I want to see the snow. / To say what you want to do, replace the \&quot;masu\&quot; ending of a verb with \&quot;tai desu.\&quot; For example, \&quot;mimasu\&quot; (to see) becomes \&quot;mitai desu\&quot; (to want to see).</desc>
+    <image>https://www3.nhk.or.jp/nhkworld/en/shows/easyjapanese/images/wide_l_PxRfAAB6R9EYFd28Nx820kL6zYAegY92ZQkpqJZd.jpg</image>
+    <start>10:40PM</start>
+    <finish>10:43PM</finish>
     <date>23 March 2026</date>
   </channel>
   <channel>
@@ -71,33 +1174,513 @@
     <date>23 March 2026</date>
   </channel>
   <channel>
+    <name>Nagoya TV JP</name>
+    <id>NagoyaTV.jp</id>
+    <title>??????AmBitious???????????????????3?A????????</title>
+    <desc>?????????? ??????????????????? ????????????????????????? ???????????????????????.</desc>
+    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
+    <start>09:00PM</start>
+    <finish>11:00PM</finish>
+    <date>23 March 2026</date>
+  </channel>
+  <channel>
+    <name>Newsmax US</name>
+    <id>Newsmax.us</id>
+    <title>Live: Carl Higbie Frontline</title>
+    <desc>Carl Higbie gives news analysis as he fights for American values.</desc>
+    <image>http://cltv.tmsimg.com/assets/p24514121_b_h8_ab.jpg?w=960&amp;h=540</image>
+    <start>10:00PM</start>
+    <finish>11:00PM</finish>
+    <date>23 March 2026</date>
+  </channel>
+  <channel>
+    <name>Nick Jr UK</name>
+    <id>NickJunior.uk</id>
+    <title>Peppa Pig</title>
+    <desc>On a day out with her family, Peppa is encouraged to find words to describe the different kinds of puddles they find.</desc>
+    <image>https://images.metadata.sky.com/pd-image/604dbcec-04de-4915-b268-231d406b3579/16-9</image>
+    <start>10:35PM</start>
+    <finish>10:45PM</finish>
+    <date>23 March 2026</date>
+  </channel>
+  <channel>
     <name>Nickelodeon RO</name>
     <id>Nickelodeon.ro</id>
-    <title>Pove?tile ?estoaselor Ninja</title>
-    <desc>?estoasele Ninja s-au ?ntors cu patru pove?ti noi, dedicate fiec?rui erou ?n parte! Raph se lupt? ?n arena mutan?ilor, Donnie ?nfrunt? un cercet?tor nebun, Leo se lupt? cu un r?uf?c?tor, iar ancheta lui Mikey ?l conduce c?tre Muckman.</desc>
+    <title>SpongeBob Pantaloni P?tra?i</title>
+    <desc>SpongeBob sau Buretele Bob, este un buretel care duce o viata normala dar nelipsita de aventuri. Calamarul, Sandy veverita, Plancton, dl. Krabs, si prietenul lui cel mai bun, Patrick, sunt personajele care i se alatura in aventurile lui zilnice.</desc>
+    <image>https://static.cinemagia.ro/img/db/movie/00/85/27/spongebob-squarepants-997563l.jpg</image>
+    <start>10:20PM</start>
+    <finish>10:45PM</finish>
+    <date>23 March 2026</date>
+  </channel>
+  <channel>
+    <name>TVNZ 1 NZ</name>
+    <id>One.nz</id>
+    <title>The Chase</title>
+    <desc>It's game on as teams of complete strangers work together to win money and try and defeat the Chaser, a ruthless quiz genius, who wants to leave them with nothing.</desc>
     <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
-    <start>09:35PM</start>
-    <finish>10:00PM</finish>
+    <start>10:00PM</start>
+    <finish>11:00PM</finish>
+    <date>23 March 2026</date>
+  </channel>
+  <channel>
+    <name>PTC Punjabi UK</name>
+    <id>PTCPunjabi.uk</id>
+    <title>Punjabi Beats</title>
+    <desc>Punjabi Music.</desc>
+    <image>https://images.metadata.sky.com/pd-image/05dddebe-af28-4283-91fe-fcc643f4e2fa/16-9</image>
+    <start>10:30PM</start>
+    <finish>11:00PM</finish>
+    <date>23 March 2026</date>
+  </channel>
+  <channel>
+    <name>PopTV US</name>
+    <id>PopTV.us</id>
+    <title>Law &amp; Order</title>
+    <desc>An Internet photo of a murdered woman provokes a slew of 911 calls.</desc>
+    <image>http://cltv.tmsimg.com/assets/p183983_b_h8_cc.jpg?w=960&amp;h=540</image>
+    <start>09:55PM</start>
+    <finish>11:00PM</finish>
+    <date>23 March 2026</date>
+  </channel>
+  <channel>
+    <name>Porto Canal PT</name>
+    <id>Porto.pt</id>
+    <title>Os Eleitos</title>
+    <desc>Os temas da atualidade nacional est?o em debate todas as semanas n'Os Eleitos. \nOs escolhidos para a Assembleia da Rep?blica da regi?o Norte s?o chamados a responder.</desc>
+    <image>https://mage.stream.nos.pt/v1/nostv_mage/Images?sourceUri=http%3A%2F%2Fvip.pam.local.internal%2FPAM.Images%2FStore%2Ff3f532fe29eb4a1fa27c533ce67fa5a2</image>
+    <start>10:30PM</start>
+    <finish>11:00PM</finish>
+    <date>23 March 2026</date>
+  </channel>
+  <channel>
+    <name>QVC UK</name>
+    <id>QVC.uk</id>
+    <title>Skechers Footwear</title>
+    <desc>Step out in style in Skechers! Renowned for their on-trend, sporty designs, you can now find their fab shoes at QVC too.</desc>
+    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
+    <start>10:00PM</start>
+    <finish>11:00PM</finish>
+    <date>23 March 2026</date>
+  </channel>
+  <channel>
+    <name>QVC Beauty UK</name>
+    <id>QVCBeauty.uk</id>
+    <title>Live Well by QVC</title>
+    <desc>Live well every day with QVC. Discover inspiring products, expert tips and wellness essentials to help you feel your best, inside and out.</desc>
+    <image>https://image.tmdb.org/t/p/w500/A5Cj159vYEhpqXoXcr9Vp8SnnsB.jpg</image>
+    <start>10:00PM</start>
+    <finish>11:00PM</finish>
+    <date>23 March 2026</date>
+  </channel>
+  <channel>
+    <name>QVC Style UK</name>
+    <id>QVCStyle.uk</id>
+    <title>Bronx Footwear</title>
+    <desc>Elevate every outfit with fashionable shoes from Bronx. Crafted from quality materials and in a range of fun, fresh designs, there's a style to suit every wardrobe here at QVC.</desc>
+    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
+    <start>10:00PM</start>
+    <finish>11:00PM</finish>
+    <date>23 March 2026</date>
+  </channel>
+  <channel>
+    <name>RDI News CA</name>
+    <id>RDINews.ca</id>
+    <title>Live: Zone ?conomie</title>
+    <desc>Comprendre les petits et grands enjeux ?conomiques : des finances publiques, au march? de l'emploi et ? l'?volution de la bourse.</desc>
+    <image>http://cltv.tmsimg.com/assets/p18704303_b_h10_af.jpg</image>
+    <start>09:55PM</start>
+    <finish>11:00PM</finish>
+    <date>23 March 2026</date>
+  </channel>
+  <channel>
+    <name>RTE News Now IE</name>
+    <id>RTENewsNow.ie</id>
+    <title>Latest News and Weather</title>
+    <desc>Latest News and Weather.</desc>
+    <image>https://images.metadata.sky.com/pd-image/aef329ad-8cc7-47bf-8976-c8ff76aec46f/16-9</image>
+    <start>10:00PM</start>
+    <finish>11:00PM</finish>
+    <date>23 March 2026</date>
+  </channel>
+  <channel>
+    <name>RTM CZ</name>
+    <id>RTM.cz</id>
+    <title>Blok po?ad?</title>
+    <desc>Region?ln? zpravodajstv?, publicistika, magaz?ny, besedy, z?jmov? a sout??n? po?ady dopln?n? o dokument?rn? tvorbu.</desc>
+    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
+    <start>10:00PM</start>
+    <finish>11:00PM</finish>
+    <date>23 March 2026</date>
+  </channel>
+  <channel>
+    <name>RTP Internacional PT</name>
+    <id>RTPInternacional.pt</id>
+    <title>Casa Abrigo</title>
+    <desc>O Abrigo de Conceiu00e7u00e3o (Versu00e3o Legendada em Inglu00eas).</desc>
+    <image>https://cdn-images.rtp.pt/EPG/imagens/48027_77538_40606.jpg</image>
+    <start>10:30PM</start>
+    <finish>11:14PM</finish>
+    <date>23 March 2026</date>
+  </channel>
+  <channel>
+    <name>RTSH Sport AL</name>
+    <id>RTSHSport.al</id>
+    <title>Rubrika Sportive</title>
+    <desc>Edicioni i 55-t i emisionit m? t? vjet?r sportiv n? ekranet shqiptare. Diskutim n? studio me personazhet m? pikant t? futbollit ton?. Nj? studio ku debatohet mbi mbar?vajtjen, ecurin? dhe detajet e futbollit vendas.</desc>
+    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
+    <start>10:30PM</start>
+    <finish>12:30AM</finish>
+    <date>23 March 2026</date>
+  </channel>
+  <channel>
+    <name>Real Madrid TV ES</name>
+    <id>RealMadridTV.es</id>
+    <title>Los secretos de la cosa nostra</title>
+    <desc>La mafia americana se ve amenazada por un ex miembro que se ha convertido en el principal testigo de un juicio que ser? retrasmitido por televisi?n a todo el pa?s.</desc>
+    <image>https://www.movistarplus.es/recorte/n/caratula5/MREALMP221117</image>
+    <start>08:30PM</start>
+    <finish>10:50PM</finish>
+    <date>23 March 2026</date>
+  </channel>
+  <channel>
+    <name>Rtp 1 PT</name>
+    <id>Rtp1.pt</id>
+    <title>Joker</title>
+    <desc>Vasco Palmeirim apresenta o JOKER, o concurso favorito dos portugueses. Um concorrente, com a ajuda de 7 Jokers e do Super Joker, responde a 12 perguntas com um s? objetivo em mente: Conquistar os 50 000 euros do pr?mio m?ximo!</desc>
+    <image>https://mage.stream.nos.pt/v1/nostv_mage/Images?sourceUri=http%3A%2F%2Fvip.pam.local.internal%2FPAM.Images%2FStore%2Fd722441db8bc4c7fa578779b35bf97d5</image>
+    <start>09:43PM</start>
+    <finish>10:43PM</finish>
+    <date>23 March 2026</date>
+  </channel>
+  <channel>
+    <name>Rtp 3 PT</name>
+    <id>Rtp3.pt</id>
+    <title>Tudo ? Economia</title>
+    <desc>Programa semanal sobre economia, finan?as, macroeconomia, mas tamb?m neg?cios, empresas, mercados e finan?as pessoais. \&quot;Tudo ? Economia\&quot; procura responder a quest?es da atualidade.</desc>
+    <image>https://mage.stream.nos.pt/v1/nostv_mage/Images?sourceUri=http%3A%2F%2Fvip.pam.local.internal%2FPAM.Images%2FStore%2F10a5bd000d2f4628a94a8859935fb278</image>
+    <start>10:35PM</start>
+    <finish>11:15PM</finish>
+    <date>23 March 2026</date>
+  </channel>
+  <channel>
+    <name>Rtp Açores PT</name>
+    <id>RtpAcores.pt</id>
+    <title>Atl?ntida - A?ores</title>
+    <desc>Espa?o de divulga??o das viv?ncias e da cultura dos a?orianos, residentes ou n?o nas nove ilhas, nos seus mais diversos aspectos: etnogr?ficos, folcl?rico, musical, religioso, patrimonial, etc.</desc>
+    <image>https://mage.stream.nos.pt/v1/nostv_mage/Images?sourceUri=http%3A%2F%2Fvip.pam.local.internal%2FPAM.Images%2FStore%2F22dfe2114df744a282753a54088563c0</image>
+    <start>10:40PM</start>
+    <finish>12:11AM</finish>
+    <date>23 March 2026</date>
+  </channel>
+  <channel>
+    <name>Rtp África PT</name>
+    <id>RtpAfrica.pt</id>
+    <title>Em Casa d'Am?lia</title>
+    <desc>Que mais poder?amos pedir para o regresso deste programa, do que receber um dos poetas de Am?lia? Manuel Alegre, autor do ic?nico \&quot;Trova do Vento que Passa\&quot;, estar? connosco. A este raro momento, juntam-se tamb?m ilustres convidados: Paulo de Carvalho e o seu filho Agir, Rita Guerra e Andr? Amaro...</desc>
+    <image>https://mage.stream.nos.pt/v1/nostv_mage/Images?sourceUri=http%3A%2F%2Fvip.pam.local.internal%2FPAM.Images%2FStore%2F901d96a8f1534749b076212c296d821e</image>
+    <start>10:01PM</start>
+    <finish>12:00AM</finish>
+    <date>23 March 2026</date>
+  </channel>
+  <channel>
+    <name>Rtp Madeira PT</name>
+    <id>RtpMadeira.pt</id>
+    <title>Prolongamento</title>
+    <desc>Porque no futebol nem tudo fica resolvido no fim de semana, segunda-feira ? noite vamos para \&quot;Prolongamento\&quot;.</desc>
+    <image>https://mage.stream.nos.pt/v1/nostv_mage/Images?sourceUri=http%3A%2F%2Fvip.pam.local.internal%2FPAM.Images%2FStore%2F17b2364ba55d4baaa8bff7c9b549a2de</image>
+    <start>10:20PM</start>
+    <finish>11:25PM</finish>
+    <date>23 March 2026</date>
+  </channel>
+  <channel>
+    <name>S4C UK</name>
+    <id>S4C.uk</id>
+    <title>Sgorio</title>
+    <desc>Uchafbwyntiau o'r Cymru Premier JD, Y Bala v Hwlffordd a Llansawel v Y Fflint. Ac mae Caerdydd yn croesawu Abertawe yn y Brif Adran. In the Genero Adran Premier, Cardiff City v Swansea City.</desc>
+    <image>https://images.metadata.sky.com/pd-image/8dd7f623-098a-4684-aeec-b1809334b15c/16-9</image>
+    <start>10:20PM</start>
+    <finish>10:50PM</finish>
+    <date>23 March 2026</date>
+  </channel>
+  <channel>
+    <name>SABC News ZA</name>
+    <id>SABCNews.za</id>
+    <title>Madlanga Commission</title>
+    <desc>The Commission will investigate allegations by KwaZulu-Natal Police Commissioner, Nhlanhla Mkhwanazi, that a criminal syndicate, including drug cartels, has infiltrated and influenced key institutions of the criminal justice system</desc>
+    <image>https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/img/696050_Madlanga Commission.jpg</image>
+    <start>10:00PM</start>
+    <finish>11:00PM</finish>
+    <date>23 March 2026</date>
+  </channel>
+  <channel>
+    <name>SBS Plus KR</name>
+    <id>SBSPlus.kr</id>
+    <title>TV ????</title>
+    <desc>??????? ????? ??? ?? ??? ??, ??? ??? ???? ??? ??? ??? ???? ???? ????? ???? ?? ?? ????.  ?? ??? ???? ??? ??? ??? ??? ??? ?? ??? ??? ??? ??? ?? ??.</desc>
+    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
+    <start>10:01PM</start>
+    <finish>11:24PM</finish>
+    <date>23 March 2026</date>
+  </channel>
+  <channel>
+    <name>SKY Racing AU</name>
+    <id>SKYRacing.au</id>
+    <title>Racing Xtra</title>
+    <desc>Lewis Willoughby and Nick Berney break down racing and sport each weekday with the latest odds, moves and betting insights.</desc>
+    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
+    <start>10:00PM</start>
+    <finish>11:00PM</finish>
+    <date>23 March 2026</date>
+  </channel>
+  <channel>
+    <name>SKY Racing 2 AU</name>
+    <id>SKYRacing2.au</id>
+    <title>Sky Racing 2 Racemorning</title>
+    <desc>Greyhound Racing from Hatrick Straight, Kinsley, Nottingham, Yarmouth, Harlow; Harness Racing from Western Fair, Mohawk, Yonkers.</desc>
+    <image>https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/73/25/68/732568_p18088944_b_h9_aa_360.jpg</image>
+    <start>09:00PM</start>
+    <finish>01:00AM</finish>
+    <date>23 March 2026</date>
+  </channel>
+  <channel>
+    <name>Sky News UK</name>
+    <id>SkyNews.uk</id>
+    <title>The Wrap With Anna Botting</title>
+    <desc>Debate, analysis and insight on the biggest news stories of the day from the UK and around the world.</desc>
+    <image>https://images.metadata.sky.com/pd-image/d4dcd1f9-c861-4219-b24c-9f36c812f219/16-9</image>
+    <start>10:30PM</start>
+    <finish>11:00PM</finish>
+    <date>23 March 2026</date>
+  </channel>
+  <channel>
+    <name>Stadium US</name>
+    <id>Stadium.us</id>
+    <title>Ice Road Truckers</title>
+    <desc>Polar's top dog Todd Dewey gets into trouble with a government contract; truck problems have Polar driver Art Burke's season headed for the gutter; ice road rookie Mike Simmons has his first solo delivery.</desc>
+    <image>http://cltv.tmsimg.com/assets/p185608_b_h8_ae.jpg?w=960&amp;h=540</image>
+    <start>10:00PM</start>
+    <finish>11:00PM</finish>
     <date>23 March 2026</date>
   </channel>
   <channel>
     <name>TF 1 FR</name>
     <id>TF1.fr</id>
-    <title>Maison de retraite</title>
-    <desc>D?couvrant qu'ils ont ?t? victimes d'un attentat, les anciens comme Ad?le et Alban refusent de se laisser intimider : ils vont r?sister et faire du camping !</desc>
-    <image>http://cltv.tmsimg.com/assets/p32355851_b_h10_ab.jpg?w=960&amp;h=540</image>
-    <start>09:00PM</start>
-    <finish>10:05PM</finish>
+    <title>New York, unit? sp?ciale</title>
+    <desc>Perry Gilbert et sa meilleure amie Mia Harris, ?g?es de 13 ans, disparaissent myst?rieusement dans les bois, le lendemain d'Halloween. Les enqu?teurs de l'Unit? Sp?ciale tentent d'identifier un suspect avec l'aide de Zo?, la petite soeur de Mia, qui a ?t? retrouv?e inconsciente apr?s avoir ?t? violemment agress?e.</desc>
+    <image>http://cltv.tmsimg.com/assets/p10819212_b_h10_al.jpg?w=960&amp;h=540</image>
+    <start>10:05PM</start>
+    <finish>10:50PM</finish>
+    <date>23 March 2026</date>
+  </channel>
+  <channel>
+    <name>TF1 Séries-Films Fr</name>
+    <id>TF1SeriesFilms.fr</id>
+    <title>Chroniques criminelles</title>
+    <desc>Durant trente ans, un pr?dateur a sem? la terreur dans le Nord de la France et en Belgique. Surnomm? \&quot;le violeur de la Sambre\&quot;, l'homme s'en prenait aux jeunes filles et aux femmes qui se promenaient seules, et les violaient sous la menace d'un couteau. Pendant des ann?es, l'homme a tenu toutes les polices en ?chec jusqu'en f?vrier 2018.</desc>
+    <image>http://static-cdn.tv.sfr.net/data/img/pl/1/8/1/13938181.jpg</image>
+    <start>10:25PM</start>
+    <finish>11:35PM</finish>
+    <date>23 March 2026</date>
+  </channel>
+  <channel>
+    <name>TFX Fr</name>
+    <id>TFX.fr</id>
+    <title>Appels d'urgence</title>
+    <desc>A Saint-Etienne, les urgentistes t?moignent de la difficult? de leurs missions ? hauts risques. Ici, ils tentent de sauver un parapentiste ayant fait une chute vertigineuse, l? ils s'embourbent de nuit dans de petits chemins ruraux ? la recherche d'une victime dont le pronostic vital est engag?. Chaque mission ressemble ? une aventure humaine.</desc>
+    <image>http://static-cdn.tv.sfr.net/data/img/pl/0/6/4/13932460.jpg</image>
+    <start>10:25PM</start>
+    <finish>11:35PM</finish>
+    <date>23 March 2026</date>
+  </channel>
+  <channel>
+    <name>TG4 IE</name>
+    <id>TG4.ie</id>
+    <title>Scann?n</title>
+    <desc>Sc?al Whitey Bulger, an bithi?nach ba mh? c?il i stair fhor?igneach Bhost?in agus a d'oibrigh mar bhrathad?ir don FBI.</desc>
+    <image>https://images.metadata.sky.com/pd-image/8146dcc7-9951-4cc8-bfd5-13076b0aac9f/16-9</image>
+    <start>09:30PM</start>
+    <finish>11:48PM</finish>
+    <date>23 March 2026</date>
+  </channel>
+  <channel>
+    <name>TVNZ 2 NZ</name>
+    <id>TV2.nz</id>
+    <title>Shortland Street</title>
+    <desc>Emmett braces himself.</desc>
+    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
+    <start>10:30PM</start>
+    <finish>11:00PM</finish>
     <date>23 March 2026</date>
   </channel>
   <channel>
     <name>TV 5 Monde F-Be-Ch Fr</name>
     <id>TV5Monde.fr</id>
-    <title>L'actu</title>
-    <desc>Le journal t?l?vis? de TVMonaco. Pr?sent? par : Ambre Gstalder.</desc>
-    <image>http://cltv.tmsimg.com/assets/p19518941_b_h8_aa.jpg?w=960&amp;h=540</image>
-    <start>09:37PM</start>
-    <finish>10:10PM</finish>
+    <title>La Permission</title>
+    <desc>Turner, un soldat noir am?ricain bas? en France, se voit accord? trois jours de permission. Il passe la premi?re soir?e dans une bo?te de nuit o? il rencontre Miriam, une jeune Fran?aise blanche. Ils se plaisent et d?cident de passer ensemble le week-end en Normandie, dans un h?tel du bord de mer. Les pr?jug?s raciaux vont vite ternir leur idylle.</desc>
+    <image>http://cltv.tmsimg.com/assets/p20204_b_h8_ab.jpg?w=960&amp;h=540</image>
+    <start>10:10PM</start>
+    <finish>11:36PM</finish>
+    <date>23 March 2026</date>
+  </channel>
+  <channel>
+    <name>TV 5 Monde F-Be-Ch Fr</name>
+    <id>TV5Monde.fr</id>
+    <title>La Permission</title>
+    <desc>Turner, un soldat noir am?ricain bas? en France, se voit accord? trois jours de permission. Il passe la premi?re soir?e dans une bo?te de nuit o? il rencontre Miriam, une jeune Fran?aise blanche. Ils se plaisent et d?cident de passer ensemble le week-end en Normandie, dans un h?tel du bord de mer. Les pr?jug?s raciaux vont vite ternir leur idylle.</desc>
+    <image>http://cltv.tmsimg.com/assets/p20204_b_h8_ab.jpg?w=960&amp;h=540</image>
+    <start>10:10PM</start>
+    <finish>11:36PM</finish>
+    <date>23 March 2026</date>
+  </channel>
+  <channel>
+    <name>TV 5 Monde F-Be-Ch Fr</name>
+    <id>TV5Monde.fr</id>
+    <title>La Permission</title>
+    <desc>Turner, un soldat noir am?ricain bas? en France, se voit accord? trois jours de permission. Il passe la premi?re soir?e dans une bo?te de nuit o? il rencontre Miriam, une jeune Fran?aise blanche. Ils se plaisent et d?cident de passer ensemble le week-end en Normandie, dans un h?tel du bord de mer. Les pr?jug?s raciaux vont vite ternir leur idylle.</desc>
+    <image>http://cltv.tmsimg.com/assets/p20204_b_h8_ab.jpg?w=960&amp;h=540</image>
+    <start>10:18PM</start>
+    <finish>11:46PM</finish>
+    <date>23 March 2026</date>
+  </channel>
+  <channel>
+    <name>TVA CA</name>
+    <id>TVA.ca</id>
+    <title>Le tricheur</title>
+    <desc>Caroline Dhavernas, Maxime LeFlaguais, Karine Vanasse, ?ric Bruneau et Marc-Andr? Grondin.</desc>
+    <image>http://cltv.tmsimg.com/assets/p9000285_b_h8_aa.jpg</image>
+    <start>10:29PM</start>
+    <finish>10:59PM</finish>
+    <date>23 March 2026</date>
+  </channel>
+  <channel>
+    <name>Tennis Channel US</name>
+    <id>TennisChannel.us</id>
+    <title>Live: 2026 Miami Open Tennis</title>
+    <desc>From Hard Rock Stadium in Miami Gardens, Fla.</desc>
+    <image>http://cltv.tmsimg.com/assets/p32116252_b_h8_ac.jpg?w=960&amp;h=540</image>
+    <start>03:00PM</start>
+    <finish>11:00PM</finish>
+    <date>23 March 2026</date>
+  </channel>
+  <channel>
+    <name>The Home Channel ZA</name>
+    <id>TheHomeChannel.za</id>
+    <title>Interior Design Masters</title>
+    <desc>Ten aspiring interior designers take part in a commercial design challenge to redesign two Show Homes</desc>
+    <image>https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/img/258720_InteriorDesignMasters.jpg</image>
+    <start>10:00PM</start>
+    <finish>11:00PM</finish>
+    <date>23 March 2026</date>
+  </channel>
+  <channel>
+    <name>Thrill ID</name>
+    <id>Thrill.id</id>
+    <title>Room For Rent</title>
+    <desc></desc>
+    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
+    <start>10:35PM</start>
+    <finish>12:05AM</finish>
+    <date>23 March 2026</date>
+  </channel>
+  <channel>
+    <name>Together TV UK</name>
+    <id>TogetherTV.uk</id>
+    <title>Queer Lives Today</title>
+    <desc>Shiva Raichandani's film follows Asifa as she prepares to undergo gender affirmation surgery. The trans activist reflects on how her life has changed during her transition.</desc>
+    <image>https://images.metadata.sky.com/pd-image/8d1e3995-5863-4399-a7e9-208a500142fe/16-9</image>
+    <start>10:30PM</start>
+    <finish>11:00PM</finish>
+    <date>23 March 2026</date>
+  </channel>
+  <channel>
+    <name>Vosges TV Fr</name>
+    <id>ViaVosges.fr</id>
+    <title>C?TE SPORTS</title>
+    <desc>Retour sur l'actu sportive du d?partement, pr?sent? par Nicolas Br?dard.</desc>
+    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
+    <start>10:30PM</start>
+    <finish>11:00PM</finish>
+    <date>23 March 2026</date>
+  </channel>
+  <channel>
+    <name>CW Boston US</name>
+    <id>WLVI.us</id>
+    <title>Bob Hearts Abishola</title>
+    <desc>Bob and Abishola finally go on a proper date, which is interrupted by Dottie's medical emergency.</desc>
+    <image>http://cltv.tmsimg.com/assets/p16945108_b_h8_aa.jpg?w=960&amp;h=540</image>
+    <start>10:30PM</start>
+    <finish>11:00PM</finish>
+    <date>23 March 2026</date>
+  </channel>
+  <channel>
+    <name>Detroit Public TV US</name>
+    <id>WTVS.us</id>
+    <title>PBS News Hour</title>
+    <desc>Co-anchors Amna Nawaz and Geoff Bennett and correspondents offer in-depth analysis of current events.</desc>
+    <image>http://cltv.tmsimg.com/assets/p27608822_b_h8_ac.jpg?w=960&amp;h=540</image>
+    <start>10:00PM</start>
+    <finish>11:00PM</finish>
+    <date>23 March 2026</date>
+  </channel>
+  <channel>
+    <name>Weather Channel US</name>
+    <id>WeatherChannel.us</id>
+    <title>Weather Unfiltered</title>
+    <desc>Uncensored take on weather and storms from an expert trio as unpredictable as nature itself.</desc>
+    <image>http://cltv.tmsimg.com/assets/p27375423_b_h10_ab.jpg?w=960&amp;h=540</image>
+    <start>10:00PM</start>
+    <finish>11:00PM</finish>
+    <date>23 March 2026</date>
+  </channel>
+  <channel>
+    <name>Weather Nation US</name>
+    <id>WeatherNation.us</id>
+    <title>Top Weather News, Regional Forecasts, Live Severe Coverage, and Local Weather</title>
+    <desc>Live top weather news, severe weather coverage, regional forecasts, and a look at your local weather every hour on the 7's. Get more local weather, sooner!</desc>
+    <image>http://cltv.tmsimg.com/assets/p32207743_st_h10_aa.jpg?w=960&amp;h=540</image>
+    <start>10:00PM</start>
+    <finish>12:00AM</finish>
+    <date>23 March 2026</date>
+  </channel>
+  <channel>
+    <name>YTN KR</name>
+    <id>YTN.kr</id>
+    <title>??START</title>
+    <desc></desc>
+    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
+    <start>09:50PM</start>
+    <finish>10:50PM</finish>
+    <date>23 March 2026</date>
+  </channel>
+  <channel>
+    <name>YTN Science KR</name>
+    <id>YTNScience.kr</id>
+    <title>????</title>
+    <desc></desc>
+    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
+    <start>10:25PM</start>
+    <finish>11:00PM</finish>
+    <date>23 March 2026</date>
+  </channel>
+  <channel>
+    <name>Z Living US</name>
+    <id>ZLiving.us</id>
+    <title>21 Jump Street</title>
+    <desc>After a teen idol receives death threats, Hanson and Penhall provide protection on the set of the young actor's latest project.</desc>
+    <image>http://cltv.tmsimg.com/assets/p184168_b_h10_ae.jpg?w=960&amp;h=540</image>
+    <start>10:00PM</start>
+    <finish>11:00PM</finish>
+    <date>23 March 2026</date>
+  </channel>
+  <channel>
+    <name>Happy RS</name>
+    <id>happytv.rs</id>
+    <title>?ena</title>
+    <desc></desc>
+    <image>https://images-web.ug-be.cdn.united.cloud/4762a8b8/2026/02/09/63aaf3b4_58d1_40fd_a574_79653860ff17_stb_xl.jpg</image>
+    <start>10:00PM</start>
+    <finish>10:46PM</finish>
     <date>23 March 2026</date>
   </channel>
 </tv>
