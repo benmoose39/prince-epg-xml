@@ -1,2 +1,1383 @@
 <?xml version="1.0" ?>
-<tv/>
+<tv>
+  <channel>
+    <name>HirTV HU</name>
+    <id>HirTV.hu</id>
+    <title>L?ncreakci?: H?bor?</title>
+    <desc>Legfrissebb h?rek az orosz-ukr?n h?bor?r?l.</desc>
+    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
+    <start>11:30AM</start>
+    <finish>12:00PM</finish>
+    <date>06 April 2026</date>
+  </channel>
+  <channel>
+    <name>HirTV HU</name>
+    <id>HirTV.hu</id>
+    <title>L?ncreakci?</title>
+    <desc>Legfrissebb h?rek az orosz-ukr?n h?bor?r?l.</desc>
+    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
+    <start>12:00PM</start>
+    <finish>01:00PM</finish>
+    <date>06 April 2026</date>
+  </channel>
+  <channel>
+    <name>HirTV HU</name>
+    <id>HirTV.hu</id>
+    <title>H?rad?</title>
+    <desc>A m?sor naponta t?bbsz?r jelentkezik a K?rp?t-medence ?s a nagyvil?g legfrissebb h?reivel. Politikai ?s k?z?leti t?m?k, szoci?lis, p?nz?gyi, gazdas?gi k?rd?sek ker?lnek ter?t?kre, helysz?ni tud?s?t?sokkal ?s ?l? bejelentkez?sekkel kieg?sz?tve.</desc>
+    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
+    <start>01:00PM</start>
+    <finish>01:30PM</finish>
+    <date>06 April 2026</date>
+  </channel>
+  <channel>
+    <name>HirTV HU</name>
+    <id>HirTV.hu</id>
+    <title>Pal?ver hangol?</title>
+    <desc></desc>
+    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
+    <start>01:30PM</start>
+    <finish>02:00PM</finish>
+    <date>06 April 2026</date>
+  </channel>
+  <channel>
+    <name>HirTV HU</name>
+    <id>HirTV.hu</id>
+    <title>H?rad?</title>
+    <desc>A m?sor naponta t?bbsz?r jelentkezik a K?rp?t-medence ?s a nagyvil?g legfrissebb h?reivel. Politikai ?s k?z?leti t?m?k, szoci?lis, p?nz?gyi, gazdas?gi k?rd?sek ker?lnek ter?t?kre, helysz?ni tud?s?t?sokkal ?s ?l? bejelentkez?sekkel kieg?sz?tve.</desc>
+    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
+    <start>02:00PM</start>
+    <finish>02:30PM</finish>
+    <date>06 April 2026</date>
+  </channel>
+  <channel>
+    <name>HirTV HU</name>
+    <id>HirTV.hu</id>
+    <title>Pal?ver</title>
+    <desc>A Pal?ver a H?r TV ?s a Karc FM interakt?v, a k?z?gyeket, aktu?lpolitikai esem?nyeket t?rgyal?, a polg?rok v?lem?ny?t hallhat?v? t?v? m?sora. Nincs tabu t?ma, nincs tabu k?rd?s. Mindazokat v?rj?k a m?sorvezet?k, akik alak?tani akarj?k a k?zbesz?det, akik v?lem?ny?kkel hozz?j?ruln?nak a k?z?s gondolkod?shoz, akik vitatkozni akarnak k?z?s ?gyekr?l.</desc>
+    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
+    <start>02:30PM</start>
+    <finish>04:00PM</finish>
+    <date>06 April 2026</date>
+  </channel>
+  <channel>
+    <name>HirTV HU</name>
+    <id>HirTV.hu</id>
+    <title>H?rad?</title>
+    <desc>A m?sor naponta t?bbsz?r jelentkezik a K?rp?t-medence ?s a nagyvil?g legfrissebb h?reivel. Politikai ?s k?z?leti t?m?k, szoci?lis, p?nz?gyi, gazdas?gi k?rd?sek ker?lnek ter?t?kre, helysz?ni tud?s?t?sokkal ?s ?l? bejelentkez?sekkel kieg?sz?tve.</desc>
+    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
+    <start>04:00PM</start>
+    <finish>04:30PM</finish>
+    <date>06 April 2026</date>
+  </channel>
+  <channel>
+    <name>HirTV HU</name>
+    <id>HirTV.hu</id>
+    <title>Radar</title>
+    <desc>Riportm?sorunk izgalmas t?m?kkal ?s megk?zel?t?ssel pr?b?l a h?tk?znapi embereknek seg?teni olyan probl?m?k felt?r?s?val ?s megold?s?val, amely a nagyk?z?ns?get ?rinti. A m?sor h?zigazd?i Budai Ivett ?s Eper M?rton.</desc>
+    <image>https://image.tmdb.org/t/p/w500/bD5LoiiVtweREMFIzM3xAlWd0Dg.jpg</image>
+    <start>04:30PM</start>
+    <finish>05:00PM</finish>
+    <date>06 April 2026</date>
+  </channel>
+  <channel>
+    <name>HirTV HU</name>
+    <id>HirTV.hu</id>
+    <title>H?rad?</title>
+    <desc>A m?sor naponta t?bbsz?r jelentkezik a K?rp?t-medence ?s a nagyvil?g legfrissebb h?reivel. Politikai ?s k?z?leti t?m?k, szoci?lis, p?nz?gyi, gazdas?gi k?rd?sek ker?lnek ter?t?kre, helysz?ni tud?s?t?sokkal ?s ?l? bejelentkez?sekkel kieg?sz?tve.</desc>
+    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
+    <start>05:00PM</start>
+    <finish>06:00PM</finish>
+    <date>06 April 2026</date>
+  </channel>
+  <channel>
+    <name>HirTV HU</name>
+    <id>HirTV.hu</id>
+    <title>Komment</title>
+    <desc>Kem?ny v?g?sok, ?gyes sz?r?sok jobbr?l ?s balr?l. A m?sorvezet? vend?geivel veszi sorra a legfontosabb, ?rdekl?d?sre legink?bb sz?mot tart? k?z?leti t?rt?n?seket, esem?nyeket. Mindenki elmondhatja ?s el is mondja ?ll?spontj?t, a m?sorvezet? moder?l?sa mellett a n?z?k kem?ny vit?kra sz?m?thatnak. ?sszecsaphat a st?di?ban jobb ?s bal, konzervat?v ?s liber?lis, itt nem a lovagiass?g, hanem a sz?kimond?s sz?m?t.</desc>
+    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
+    <start>06:00PM</start>
+    <finish>07:30PM</finish>
+    <date>06 April 2026</date>
+  </channel>
+  <channel>
+    <name>HirTV HU</name>
+    <id>HirTV.hu</id>
+    <title>H?rad?</title>
+    <desc>A m?sor naponta t?bbsz?r jelentkezik a K?rp?t-medence ?s a nagyvil?g legfrissebb h?reivel. Politikai ?s k?z?leti t?m?k, szoci?lis, p?nz?gyi, gazdas?gi k?rd?sek ker?lnek ter?t?kre, helysz?ni tud?s?t?sokkal ?s ?l? bejelentkez?sekkel kieg?sz?tve.</desc>
+    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
+    <start>07:30PM</start>
+    <finish>08:00PM</finish>
+    <date>06 April 2026</date>
+  </channel>
+  <channel>
+    <name>HirTV HU</name>
+    <id>HirTV.hu</id>
+    <title>Vez?rcikk - Olvasunk a sorok k?z?tt</title>
+    <desc>A m?sorban ?js?g?r?k elemzik az adott napon a sajt?ban megjelent cikkeket, de ezen fel?l Magyarorsz?gon egyed?l?ll?an bemutatj?k, hogy a m?snapi ?js?gok, weboldalak mir?l fognak ?rni.</desc>
+    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
+    <start>08:00PM</start>
+    <finish>09:00PM</finish>
+    <date>06 April 2026</date>
+  </channel>
+  <channel>
+    <name>HirTV HU</name>
+    <id>HirTV.hu</id>
+    <title>H?rad?</title>
+    <desc>A m?sor naponta t?bbsz?r jelentkezik a K?rp?t-medence ?s a nagyvil?g legfrissebb h?reivel. Politikai ?s k?z?leti t?m?k, szoci?lis, p?nz?gyi, gazdas?gi k?rd?sek ker?lnek ter?t?kre, helysz?ni tud?s?t?sokkal ?s ?l? bejelentkez?sekkel kieg?sz?tve.</desc>
+    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
+    <start>09:00PM</start>
+    <finish>09:30PM</finish>
+    <date>06 April 2026</date>
+  </channel>
+  <channel>
+    <name>HirTV HU</name>
+    <id>HirTV.hu</id>
+    <title>Lel?t?</title>
+    <desc>A m?sor els?dleges c?lja a sportol?s megszerettet?se.</desc>
+    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
+    <start>09:30PM</start>
+    <finish>10:30PM</finish>
+    <date>06 April 2026</date>
+  </channel>
+  <channel>
+    <name>HirTV HU</name>
+    <id>HirTV.hu</id>
+    <title>Komment</title>
+    <desc>Kem?ny v?g?sok, ?gyes sz?r?sok jobbr?l ?s balr?l. A m?sorvezet? vend?geivel veszi sorra a legfontosabb, ?rdekl?d?sre legink?bb sz?mot tart? k?z?leti t?rt?n?seket, esem?nyeket. Mindenki elmondhatja ?s el is mondja ?ll?spontj?t, a m?sorvezet? moder?l?sa mellett a n?z?k kem?ny vit?kra sz?m?thatnak. ?sszecsaphat a st?di?ban jobb ?s bal, konzervat?v ?s liber?lis, itt nem a lovagiass?g, hanem a sz?kimond?s sz?m?t.</desc>
+    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
+    <start>10:30PM</start>
+    <finish>11:30PM</finish>
+    <date>06 April 2026</date>
+  </channel>
+  <channel>
+    <name>HirTV HU</name>
+    <id>HirTV.hu</id>
+    <title>Telev?zi?s v?s?rl?si m?sorablak</title>
+    <desc>A hirdet?s ?runak, szolg?ltat?snak a forgalmaz?val vagy szolg?ltat?val val? kapcsolatteremt?s ?tj?n t?rt?n? ?rt?kes?t?s?re vagy m?s m?don t?rt?n? ig?nybev?tel?re tartalmaz k?zvetlen aj?nlatot.</desc>
+    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
+    <start>11:30PM</start>
+    <finish>12:30AM</finish>
+    <date>06 April 2026</date>
+  </channel>
+  <channel>
+    <name>HirTV HU</name>
+    <id>HirTV.hu</id>
+    <title>Hazah?z?</title>
+    <desc>A m?sor a hazai ?d?l?si ?s szabadid?s lehet?s?geket mutatja be.</desc>
+    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
+    <start>12:30AM</start>
+    <finish>01:15AM</finish>
+    <date>07 April 2026</date>
+  </channel>
+  <channel>
+    <name>HirTV HU</name>
+    <id>HirTV.hu</id>
+    <title>Tan?sv?ny</title>
+    <desc>A m?sor c?lja, hogy a k?znevel?sr?l sz?l? k?zbesz?det k?zelebb hozza a val?s?ghoz, ?s abban seg?tsen a n?z?knek, hogy eligazodjanak a gyermekek j?v?j?t meghat?roz? k?rd?sek k?z?tt. A m?sorvezet? dr. Balatoni Katalin mint pedag?gus, nevel?studom?nyi kutat?, szakember ?s minisztereln?ki biztos, hiteles hangon k?pviseli a hazai nevel?s-oktat?st, ugyanakkor a vend?gek ?s helysz?ni riportok r?v?n sokf?le n?z?pontot ismertet meg a n?z?kkel.</desc>
+    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
+    <start>01:15AM</start>
+    <finish>01:30AM</finish>
+    <date>07 April 2026</date>
+  </channel>
+  <channel>
+    <name>HirTV HU</name>
+    <id>HirTV.hu</id>
+    <title>Radar</title>
+    <desc>Riportm?sorunk izgalmas t?m?kkal ?s megk?zel?t?ssel pr?b?l a h?tk?znapi embereknek seg?teni olyan probl?m?k felt?r?s?val ?s megold?s?val, amely a nagyk?z?ns?get ?rinti. A m?sor h?zigazd?i Budai Ivett ?s Eper M?rton.</desc>
+    <image>https://image.tmdb.org/t/p/w500/bD5LoiiVtweREMFIzM3xAlWd0Dg.jpg</image>
+    <start>01:30AM</start>
+    <finish>02:00AM</finish>
+    <date>07 April 2026</date>
+  </channel>
+  <channel>
+    <name>HirTV HU</name>
+    <id>HirTV.hu</id>
+    <title>Vet?t?</title>
+    <desc>Rendez?: Kocsis Tibor Az FC Barcelona ?s Messi nev?t a vil?gon mindenki ismeri. Azt viszont csak kevesen tudj?k idehaza, hogy az ?tvenes ?vek &quot;Messij?t&quot; Kubala L?szl?nak h?vt?k. Miatta ?p?tett?k fel a 100.000-es ar?n?t, a Camp Nout. Azt?n 1956-ban csatlakozott Kubal?hoz Kocsis ?s Czibor, az Aranycsapat k?t j?t?kosa. A h?rom magyar h?ss? v?lt Barcelon?ban ?s megh?d?totta a spanyol ?s a katal?n n?p sz?v?t. A &quot;rongyl?b?&quot; Czibort csak &quot;a bolond mad?r&quot; n?ven emlegett?k, m?g a visszafogott, eleg?ns Kocsist legend?s fejesei miatt &quot;Aranyfejnek&quot; bec?zt?k. Ezek?rt a sikerek?rt azonban nagy ?rat kellett fizetni?k a &quot;&quot;disszidenseknek&quot;, kinti sikereikr?l a magyarok semmit sem tudtak. Dr?mai arch?v felv?telekkel, sosem l?tott g?lokkal, sosem hallott megind?t? t?rt?netekkel tal?lkozhat a n?z?, amelyeken id?nk?nt k?nnyezni, de nevetni is lehet. A Magyarok a Barc??rt c?m? dokumentumfilm megtekint?se ut?n senki nem fog meglep?dni azon, ha egy magyar kapusr?l sz?l? vers k?telez? tananyag a spanyol iskol?kban, vagy ha Eur?pa legnagyobb stadionj?nak bej?rat?n?l egy magyar j?t?kos k?t m?teres bronzszobra ?ll.</desc>
+    <image>https://media.port.hu/images/000/856/530.jpg</image>
+    <start>02:00AM</start>
+    <finish>03:00AM</finish>
+    <date>07 April 2026</date>
+  </channel>
+  <channel>
+    <name>HirTV HU</name>
+    <id>HirTV.hu</id>
+    <title>Telev?zi?s v?s?rl?si m?sorablak</title>
+    <desc>A hirdet?s ?runak, szolg?ltat?snak a forgalmaz?val vagy szolg?ltat?val val? kapcsolatteremt?s ?tj?n t?rt?n? ?rt?kes?t?s?re vagy m?s m?don t?rt?n? ig?nybev?tel?re tartalmaz k?zvetlen aj?nlatot.</desc>
+    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
+    <start>03:00AM</start>
+    <finish>04:00AM</finish>
+    <date>07 April 2026</date>
+  </channel>
+  <channel>
+    <name>HirTV HU</name>
+    <id>HirTV.hu</id>
+    <title>Vet?t?</title>
+    <desc>Rendez?: Papp G?bor Zsigmond &quot;1980. janu?rj?ban 7. oszt?lyos voltam, amikor kaptam egy szovjet levelez?pajt?st. Az orosztan?rn?nk kiosztott mindenkinek egy cirill bet?s bor?t?kot azzal, hogy mostant?l ? lesz a levelez?pajt?sod. Szerencs?m volt, mert l?ny volt ?s moszkvai. H?rom ?vig levelezt?nk egym?ssal, ?s b?r soha nem tal?lkoztunk, az ?sszes level?t meg?riztem. ?s most elhat?roztam, hogy megkeresem, ?s filmet k?sz?tek arr?l, hogy kinek milyen gyerekkora volt a szocializmusban.&quot;.</desc>
+    <image>https://media.port.hu/images/000/856/530.jpg</image>
+    <start>04:00AM</start>
+    <finish>04:55AM</finish>
+    <date>07 April 2026</date>
+  </channel>
+  <channel>
+    <name>HirTV HU</name>
+    <id>HirTV.hu</id>
+    <title>Napind?t?</title>
+    <desc>Szak?rt?k elemzik az orosz-ukr?n h?bor? legfontosabb esem?nyeit. A m?sorban a kultur?lis ?let szerepl?i mellett a k?zszolg?lati t?m?k szerepelnek.</desc>
+    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
+    <start>04:55AM</start>
+    <finish>05:00AM</finish>
+    <date>07 April 2026</date>
+  </channel>
+  <channel>
+    <name>HirTV HU</name>
+    <id>HirTV.hu</id>
+    <title>H?rad?</title>
+    <desc>A m?sor naponta t?bbsz?r jelentkezik a K?rp?t-medence ?s a nagyvil?g legfrissebb h?reivel. Politikai ?s k?z?leti t?m?k, szoci?lis, p?nz?gyi, gazdas?gi k?rd?sek ker?lnek ter?t?kre, helysz?ni tud?s?t?sokkal ?s ?l? bejelentkez?sekkel kieg?sz?tve.</desc>
+    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
+    <start>05:00AM</start>
+    <finish>05:25AM</finish>
+    <date>07 April 2026</date>
+  </channel>
+  <channel>
+    <name>HirTV HU</name>
+    <id>HirTV.hu</id>
+    <title>Napind?t?</title>
+    <desc>Szak?rt?k elemzik az orosz-ukr?n h?bor? legfontosabb esem?nyeit. A m?sorban a kultur?lis ?let szerepl?i mellett a k?zszolg?lati t?m?k szerepelnek.</desc>
+    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
+    <start>05:25AM</start>
+    <finish>08:00AM</finish>
+    <date>07 April 2026</date>
+  </channel>
+  <channel>
+    <name>HirTV HU</name>
+    <id>HirTV.hu</id>
+    <title>Napind?t? +</title>
+    <desc>A m?sorban ?letviteli tan?csok ?s a nagyk?z?ns?g sz?m?ra ?rdekes inform?ci?val rendelkez? megh?vott vend?gek szerepelnek.</desc>
+    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
+    <start>08:00AM</start>
+    <finish>08:30AM</finish>
+    <date>07 April 2026</date>
+  </channel>
+  <channel>
+    <name>HirTV HU</name>
+    <id>HirTV.hu</id>
+    <title>Radar +</title>
+    <desc>A m?sor izgalmas t?m?kkal ?s megk?zel?t?ssel pr?b?l a h?tk?znapi embereknek seg?teni olyan probl?m?k felt?r?s?val ?s megold?s?val amely a nagyk?z?ns?get ?rinti. A m?sor h?zigazd?i Budai Ivett ?s Eper M?rton.</desc>
+    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
+    <start>08:30AM</start>
+    <finish>09:00AM</finish>
+    <date>07 April 2026</date>
+  </channel>
+  <channel>
+    <name>HirTV HU</name>
+    <id>HirTV.hu</id>
+    <title>Telev?zi?s v?s?rl?si m?sorablak</title>
+    <desc>A hirdet?s ?runak, szolg?ltat?snak a forgalmaz?val vagy szolg?ltat?val val? kapcsolatteremt?s ?tj?n t?rt?n? ?rt?kes?t?s?re vagy m?s m?don t?rt?n? ig?nybev?tel?re tartalmaz k?zvetlen aj?nlatot.</desc>
+    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
+    <start>09:00AM</start>
+    <finish>10:00AM</finish>
+    <date>07 April 2026</date>
+  </channel>
+  <channel>
+    <name>HirTV HU</name>
+    <id>HirTV.hu</id>
+    <title>Vez?rcikk - Olvasunk a sorok k?z?tt</title>
+    <desc>A m?sorban ?js?g?r?k elemzik az adott napon a sajt?ban megjelent cikkeket, de ezen fel?l Magyarorsz?gon egyed?l?ll?an bemutatj?k, hogy a m?snapi ?js?gok, weboldalak mir?l fognak ?rni.</desc>
+    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
+    <start>10:00AM</start>
+    <finish>11:00AM</finish>
+    <date>07 April 2026</date>
+  </channel>
+  <channel>
+    <name>HirTV HU</name>
+    <id>HirTV.hu</id>
+    <title>H?rad?</title>
+    <desc>A m?sor naponta t?bbsz?r jelentkezik a K?rp?t-medence ?s a nagyvil?g legfrissebb h?reivel. Politikai ?s k?z?leti t?m?k, szoci?lis, p?nz?gyi, gazdas?gi k?rd?sek ker?lnek ter?t?kre, helysz?ni tud?s?t?sokkal ?s ?l? bejelentkez?sekkel kieg?sz?tve.</desc>
+    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
+    <start>11:00AM</start>
+    <finish>11:30AM</finish>
+    <date>07 April 2026</date>
+  </channel>
+  <channel>
+    <name>HirTV HU</name>
+    <id>HirTV.hu</id>
+    <title>L?ncreakci?: H?bor?</title>
+    <desc>Legfrissebb h?rek az orosz-ukr?n h?bor?r?l.</desc>
+    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
+    <start>11:30AM</start>
+    <finish>12:00PM</finish>
+    <date>07 April 2026</date>
+  </channel>
+  <channel>
+    <name>HirTV HU</name>
+    <id>HirTV.hu</id>
+    <title>L?ncreakci?</title>
+    <desc>Legfrissebb h?rek az orosz-ukr?n h?bor?r?l.</desc>
+    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
+    <start>12:00PM</start>
+    <finish>01:00PM</finish>
+    <date>07 April 2026</date>
+  </channel>
+  <channel>
+    <name>HirTV HU</name>
+    <id>HirTV.hu</id>
+    <title>H?rad?</title>
+    <desc>A m?sor naponta t?bbsz?r jelentkezik a K?rp?t-medence ?s a nagyvil?g legfrissebb h?reivel. Politikai ?s k?z?leti t?m?k, szoci?lis, p?nz?gyi, gazdas?gi k?rd?sek ker?lnek ter?t?kre, helysz?ni tud?s?t?sokkal ?s ?l? bejelentkez?sekkel kieg?sz?tve.</desc>
+    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
+    <start>01:00PM</start>
+    <finish>01:30PM</finish>
+    <date>07 April 2026</date>
+  </channel>
+  <channel>
+    <name>HirTV HU</name>
+    <id>HirTV.hu</id>
+    <title>Pal?ver hangol?</title>
+    <desc></desc>
+    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
+    <start>01:30PM</start>
+    <finish>02:00PM</finish>
+    <date>07 April 2026</date>
+  </channel>
+  <channel>
+    <name>HirTV HU</name>
+    <id>HirTV.hu</id>
+    <title>H?rad?</title>
+    <desc>A m?sor naponta t?bbsz?r jelentkezik a K?rp?t-medence ?s a nagyvil?g legfrissebb h?reivel. Politikai ?s k?z?leti t?m?k, szoci?lis, p?nz?gyi, gazdas?gi k?rd?sek ker?lnek ter?t?kre, helysz?ni tud?s?t?sokkal ?s ?l? bejelentkez?sekkel kieg?sz?tve.</desc>
+    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
+    <start>02:00PM</start>
+    <finish>02:30PM</finish>
+    <date>07 April 2026</date>
+  </channel>
+  <channel>
+    <name>HirTV HU</name>
+    <id>HirTV.hu</id>
+    <title>Pal?ver</title>
+    <desc>A Pal?ver a H?r TV ?s a Karc FM interakt?v, a k?z?gyeket, aktu?lpolitikai esem?nyeket t?rgyal?, a polg?rok v?lem?ny?t hallhat?v? t?v? m?sora. Nincs tabu t?ma, nincs tabu k?rd?s. Mindazokat v?rj?k a m?sorvezet?k, akik alak?tani akarj?k a k?zbesz?det, akik v?lem?ny?kkel hozz?j?ruln?nak a k?z?s gondolkod?shoz, akik vitatkozni akarnak k?z?s ?gyekr?l.</desc>
+    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
+    <start>02:30PM</start>
+    <finish>03:30PM</finish>
+    <date>07 April 2026</date>
+  </channel>
+  <channel>
+    <name>HirTV HU</name>
+    <id>HirTV.hu</id>
+    <title>H?rad? k?l?nkiad?s</title>
+    <desc>Aktu?lis h?rek a magyarorsz?gi ?s a nemzetk?zi k?z?let aktu?lis esem?nyer?l.</desc>
+    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
+    <start>03:30PM</start>
+    <finish>06:00PM</finish>
+    <date>07 April 2026</date>
+  </channel>
+  <channel>
+    <name>HirTV HU</name>
+    <id>HirTV.hu</id>
+    <title>Komment</title>
+    <desc>Kem?ny v?g?sok, ?gyes sz?r?sok jobbr?l ?s balr?l. A m?sorvezet? vend?geivel veszi sorra a legfontosabb, ?rdekl?d?sre legink?bb sz?mot tart? k?z?leti t?rt?n?seket, esem?nyeket. Mindenki elmondhatja ?s el is mondja ?ll?spontj?t, a m?sorvezet? moder?l?sa mellett a n?z?k kem?ny vit?kra sz?m?thatnak. ?sszecsaphat a st?di?ban jobb ?s bal, konzervat?v ?s liber?lis, itt nem a lovagiass?g, hanem a sz?kimond?s sz?m?t.</desc>
+    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
+    <start>06:00PM</start>
+    <finish>07:30PM</finish>
+    <date>07 April 2026</date>
+  </channel>
+  <channel>
+    <name>HirTV HU</name>
+    <id>HirTV.hu</id>
+    <title>H?rad?</title>
+    <desc>A m?sor naponta t?bbsz?r jelentkezik a K?rp?t-medence ?s a nagyvil?g legfrissebb h?reivel. Politikai ?s k?z?leti t?m?k, szoci?lis, p?nz?gyi, gazdas?gi k?rd?sek ker?lnek ter?t?kre, helysz?ni tud?s?t?sokkal ?s ?l? bejelentkez?sekkel kieg?sz?tve.</desc>
+    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
+    <start>07:30PM</start>
+    <finish>08:00PM</finish>
+    <date>07 April 2026</date>
+  </channel>
+  <channel>
+    <name>HirTV HU</name>
+    <id>HirTV.hu</id>
+    <title>Vez?rcikk - Olvasunk a sorok k?z?tt</title>
+    <desc>A m?sorban ?js?g?r?k elemzik az adott napon a sajt?ban megjelent cikkeket, de ezen fel?l Magyarorsz?gon egyed?l?ll?an bemutatj?k, hogy a m?snapi ?js?gok, weboldalak mir?l fognak ?rni.</desc>
+    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
+    <start>08:00PM</start>
+    <finish>09:00PM</finish>
+    <date>07 April 2026</date>
+  </channel>
+  <channel>
+    <name>HirTV HU</name>
+    <id>HirTV.hu</id>
+    <title>H?rad?</title>
+    <desc>A m?sor naponta t?bbsz?r jelentkezik a K?rp?t-medence ?s a nagyvil?g legfrissebb h?reivel. Politikai ?s k?z?leti t?m?k, szoci?lis, p?nz?gyi, gazdas?gi k?rd?sek ker?lnek ter?t?kre, helysz?ni tud?s?t?sokkal ?s ?l? bejelentkez?sekkel kieg?sz?tve.</desc>
+    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
+    <start>09:00PM</start>
+    <finish>09:30PM</finish>
+    <date>07 April 2026</date>
+  </channel>
+  <channel>
+    <name>HirTV HU</name>
+    <id>HirTV.hu</id>
+    <title>Trump</title>
+    <desc>Az amerikai eln?kv?laszt?s egy maratoni k?zdelem, amely sor?n a jel?lteknek a felmer?l? v?laszt?si t?m?kra a v?laszt?k sz?m?ra elfogadhat? javaslatokat kell k?n?lniuk. A m?sor korunk legnagyobb politikai csat?j?nak minden fontos ?s ?rdekes r?szlet?re megpr?b?lja felh?vni a figyelmet.</desc>
+    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
+    <start>09:30PM</start>
+    <finish>10:30PM</finish>
+    <date>07 April 2026</date>
+  </channel>
+  <channel>
+    <name>HirTV HU</name>
+    <id>HirTV.hu</id>
+    <title>Komment</title>
+    <desc>Kem?ny v?g?sok, ?gyes sz?r?sok jobbr?l ?s balr?l. A m?sorvezet? vend?geivel veszi sorra a legfontosabb, ?rdekl?d?sre legink?bb sz?mot tart? k?z?leti t?rt?n?seket, esem?nyeket. Mindenki elmondhatja ?s el is mondja ?ll?spontj?t, a m?sorvezet? moder?l?sa mellett a n?z?k kem?ny vit?kra sz?m?thatnak. ?sszecsaphat a st?di?ban jobb ?s bal, konzervat?v ?s liber?lis, itt nem a lovagiass?g, hanem a sz?kimond?s sz?m?t.</desc>
+    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
+    <start>10:30PM</start>
+    <finish>11:30PM</finish>
+    <date>07 April 2026</date>
+  </channel>
+  <channel>
+    <name>HirTV HU</name>
+    <id>HirTV.hu</id>
+    <title>Telev?zi?s v?s?rl?si m?sorablak</title>
+    <desc>A hirdet?s ?runak, szolg?ltat?snak a forgalmaz?val vagy szolg?ltat?val val? kapcsolatteremt?s ?tj?n t?rt?n? ?rt?kes?t?s?re vagy m?s m?don t?rt?n? ig?nybev?tel?re tartalmaz k?zvetlen aj?nlatot.</desc>
+    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
+    <start>11:30PM</start>
+    <finish>12:30AM</finish>
+    <date>07 April 2026</date>
+  </channel>
+  <channel>
+    <name>HirTV HU</name>
+    <id>HirTV.hu</id>
+    <title>Hazah?z?</title>
+    <desc>A m?sor a hazai ?d?l?si ?s szabadid?s lehet?s?geket mutatja be.</desc>
+    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
+    <start>12:30AM</start>
+    <finish>01:15AM</finish>
+    <date>08 April 2026</date>
+  </channel>
+  <channel>
+    <name>HirTV HU</name>
+    <id>HirTV.hu</id>
+    <title>Radar +</title>
+    <desc>A m?sor izgalmas t?m?kkal ?s megk?zel?t?ssel pr?b?l a h?tk?znapi embereknek seg?teni olyan probl?m?k felt?r?s?val ?s megold?s?val amely a nagyk?z?ns?get ?rinti. A m?sor h?zigazd?i Budai Ivett ?s Eper M?rton.</desc>
+    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
+    <start>01:15AM</start>
+    <finish>01:30AM</finish>
+    <date>08 April 2026</date>
+  </channel>
+  <channel>
+    <name>HirTV HU</name>
+    <id>HirTV.hu</id>
+    <title>Radar</title>
+    <desc>Riportm?sorunk izgalmas t?m?kkal ?s megk?zel?t?ssel pr?b?l a h?tk?znapi embereknek seg?teni olyan probl?m?k felt?r?s?val ?s megold?s?val, amely a nagyk?z?ns?get ?rinti. A m?sor h?zigazd?i Budai Ivett ?s Eper M?rton.</desc>
+    <image>https://image.tmdb.org/t/p/w500/bD5LoiiVtweREMFIzM3xAlWd0Dg.jpg</image>
+    <start>01:30AM</start>
+    <finish>02:00AM</finish>
+    <date>08 April 2026</date>
+  </channel>
+  <channel>
+    <name>HirTV HU</name>
+    <id>HirTV.hu</id>
+    <title>Vet?t?</title>
+    <desc>Rendez?: Papp G?bor Zsigmond &quot;1980. janu?rj?ban 7. oszt?lyos voltam, amikor kaptam egy szovjet levelez?pajt?st. Az orosztan?rn?nk kiosztott mindenkinek egy cirill bet?s bor?t?kot azzal, hogy mostant?l ? lesz a levelez?pajt?sod. Szerencs?m volt, mert l?ny volt ?s moszkvai. H?rom ?vig levelezt?nk egym?ssal, ?s b?r soha nem tal?lkoztunk, az ?sszes level?t meg?riztem. ?s most elhat?roztam, hogy megkeresem, ?s filmet k?sz?tek arr?l, hogy kinek milyen gyerekkora volt a szocializmusban.&quot;.</desc>
+    <image>https://media.port.hu/images/000/856/530.jpg</image>
+    <start>02:00AM</start>
+    <finish>03:00AM</finish>
+    <date>08 April 2026</date>
+  </channel>
+  <channel>
+    <name>HirTV HU</name>
+    <id>HirTV.hu</id>
+    <title>Telev?zi?s v?s?rl?si m?sorablak</title>
+    <desc>A hirdet?s ?runak, szolg?ltat?snak a forgalmaz?val vagy szolg?ltat?val val? kapcsolatteremt?s ?tj?n t?rt?n? ?rt?kes?t?s?re vagy m?s m?don t?rt?n? ig?nybev?tel?re tartalmaz k?zvetlen aj?nlatot.</desc>
+    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
+    <start>03:00AM</start>
+    <finish>04:00AM</finish>
+    <date>08 April 2026</date>
+  </channel>
+  <channel>
+    <name>HirTV HU</name>
+    <id>HirTV.hu</id>
+    <title>Vet?t?</title>
+    <desc>Rendez?: Nov?k Emil Gerl?czy Gedeon a k?t vil?gh?bor? k?z?tti ?p?t?szet meghat?roz? ?p?t?sze volt. P?lyafut?s?nak felvir?gz?s?val egyidej?leg Csontv?ry pusztul?sra ?t?lt ?letm?v?t is ?letre kelti. 1919-ben egy m?teremben r?tal?l a fest? m?veire, beleszeret, megveszi a fest? rokon?t?l. 56 ?ven ?t azon f?radozik, hogy Csontv?ry festm?nyei megmaradjanak, elismertt? v?ljanak. Megismerj?k Gerl?czy p?lyafut?s?t, egyidej?leg Csontv?ry ?let?nek fontos mozzanatait. A korszak egyik legfoglalkoztatottabb ?p?t?sze lesz. A dilett?ns ?lmodoz?nak min?s?tett fest? k?peit gondozza, szabadidej?t felem?szti az ?letm? ismertt? t?tele. A k?pek eljutnak P?rizsba, Br?sszelbe, elvesznek, rong?l?dnak, el?znak. A Sors mindig megmenti ?ket.</desc>
+    <image>https://media.port.hu/images/000/856/530.jpg</image>
+    <start>04:00AM</start>
+    <finish>04:55AM</finish>
+    <date>08 April 2026</date>
+  </channel>
+  <channel>
+    <name>HirTV HU</name>
+    <id>HirTV.hu</id>
+    <title>Napind?t?</title>
+    <desc>Szak?rt?k elemzik az orosz-ukr?n h?bor? legfontosabb esem?nyeit. A m?sorban a kultur?lis ?let szerepl?i mellett a k?zszolg?lati t?m?k szerepelnek.</desc>
+    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
+    <start>04:55AM</start>
+    <finish>05:00AM</finish>
+    <date>08 April 2026</date>
+  </channel>
+  <channel>
+    <name>HirTV HU</name>
+    <id>HirTV.hu</id>
+    <title>H?rad?</title>
+    <desc>A m?sor naponta t?bbsz?r jelentkezik a K?rp?t-medence ?s a nagyvil?g legfrissebb h?reivel. Politikai ?s k?z?leti t?m?k, szoci?lis, p?nz?gyi, gazdas?gi k?rd?sek ker?lnek ter?t?kre, helysz?ni tud?s?t?sokkal ?s ?l? bejelentkez?sekkel kieg?sz?tve.</desc>
+    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
+    <start>05:00AM</start>
+    <finish>05:25AM</finish>
+    <date>08 April 2026</date>
+  </channel>
+  <channel>
+    <name>HirTV HU</name>
+    <id>HirTV.hu</id>
+    <title>Napind?t?</title>
+    <desc>Szak?rt?k elemzik az orosz-ukr?n h?bor? legfontosabb esem?nyeit. A m?sorban a kultur?lis ?let szerepl?i mellett a k?zszolg?lati t?m?k szerepelnek.</desc>
+    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
+    <start>05:25AM</start>
+    <finish>08:00AM</finish>
+    <date>08 April 2026</date>
+  </channel>
+  <channel>
+    <name>HirTV HU</name>
+    <id>HirTV.hu</id>
+    <title>Napind?t? +</title>
+    <desc>A m?sorban ?letviteli tan?csok ?s a nagyk?z?ns?g sz?m?ra ?rdekes inform?ci?val rendelkez? megh?vott vend?gek szerepelnek.</desc>
+    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
+    <start>08:00AM</start>
+    <finish>08:30AM</finish>
+    <date>08 April 2026</date>
+  </channel>
+  <channel>
+    <name>HirTV HU</name>
+    <id>HirTV.hu</id>
+    <title>Radar +</title>
+    <desc>A m?sor izgalmas t?m?kkal ?s megk?zel?t?ssel pr?b?l a h?tk?znapi embereknek seg?teni olyan probl?m?k felt?r?s?val ?s megold?s?val amely a nagyk?z?ns?get ?rinti. A m?sor h?zigazd?i Budai Ivett ?s Eper M?rton.</desc>
+    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
+    <start>08:30AM</start>
+    <finish>09:00AM</finish>
+    <date>08 April 2026</date>
+  </channel>
+  <channel>
+    <name>HirTV HU</name>
+    <id>HirTV.hu</id>
+    <title>Telev?zi?s v?s?rl?si m?sorablak</title>
+    <desc>A hirdet?s ?runak, szolg?ltat?snak a forgalmaz?val vagy szolg?ltat?val val? kapcsolatteremt?s ?tj?n t?rt?n? ?rt?kes?t?s?re vagy m?s m?don t?rt?n? ig?nybev?tel?re tartalmaz k?zvetlen aj?nlatot.</desc>
+    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
+    <start>09:00AM</start>
+    <finish>10:00AM</finish>
+    <date>08 April 2026</date>
+  </channel>
+  <channel>
+    <name>HirTV HU</name>
+    <id>HirTV.hu</id>
+    <title>Vez?rcikk - Olvasunk a sorok k?z?tt</title>
+    <desc>A m?sorban ?js?g?r?k elemzik az adott napon a sajt?ban megjelent cikkeket, de ezen fel?l Magyarorsz?gon egyed?l?ll?an bemutatj?k, hogy a m?snapi ?js?gok, weboldalak mir?l fognak ?rni.</desc>
+    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
+    <start>10:00AM</start>
+    <finish>11:00AM</finish>
+    <date>08 April 2026</date>
+  </channel>
+  <channel>
+    <name>HirTV HU</name>
+    <id>HirTV.hu</id>
+    <title>H?rad?</title>
+    <desc>A m?sor naponta t?bbsz?r jelentkezik a K?rp?t-medence ?s a nagyvil?g legfrissebb h?reivel. Politikai ?s k?z?leti t?m?k, szoci?lis, p?nz?gyi, gazdas?gi k?rd?sek ker?lnek ter?t?kre, helysz?ni tud?s?t?sokkal ?s ?l? bejelentkez?sekkel kieg?sz?tve.</desc>
+    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
+    <start>11:00AM</start>
+    <finish>11:30AM</finish>
+    <date>08 April 2026</date>
+  </channel>
+  <channel>
+    <name>HirTV HU</name>
+    <id>HirTV.hu</id>
+    <title>L?ncreakci?: H?bor?</title>
+    <desc>Legfrissebb h?rek az orosz-ukr?n h?bor?r?l.</desc>
+    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
+    <start>11:30AM</start>
+    <finish>12:00PM</finish>
+    <date>08 April 2026</date>
+  </channel>
+  <channel>
+    <name>HirTV HU</name>
+    <id>HirTV.hu</id>
+    <title>L?ncreakci?</title>
+    <desc>Legfrissebb h?rek az orosz-ukr?n h?bor?r?l.</desc>
+    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
+    <start>12:00PM</start>
+    <finish>01:00PM</finish>
+    <date>08 April 2026</date>
+  </channel>
+  <channel>
+    <name>HirTV HU</name>
+    <id>HirTV.hu</id>
+    <title>H?rad?</title>
+    <desc>A m?sor naponta t?bbsz?r jelentkezik a K?rp?t-medence ?s a nagyvil?g legfrissebb h?reivel. Politikai ?s k?z?leti t?m?k, szoci?lis, p?nz?gyi, gazdas?gi k?rd?sek ker?lnek ter?t?kre, helysz?ni tud?s?t?sokkal ?s ?l? bejelentkez?sekkel kieg?sz?tve.</desc>
+    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
+    <start>01:00PM</start>
+    <finish>01:30PM</finish>
+    <date>08 April 2026</date>
+  </channel>
+  <channel>
+    <name>HirTV HU</name>
+    <id>HirTV.hu</id>
+    <title>Pal?ver hangol?</title>
+    <desc></desc>
+    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
+    <start>01:30PM</start>
+    <finish>02:00PM</finish>
+    <date>08 April 2026</date>
+  </channel>
+  <channel>
+    <name>HirTV HU</name>
+    <id>HirTV.hu</id>
+    <title>H?rad?</title>
+    <desc>A m?sor naponta t?bbsz?r jelentkezik a K?rp?t-medence ?s a nagyvil?g legfrissebb h?reivel. Politikai ?s k?z?leti t?m?k, szoci?lis, p?nz?gyi, gazdas?gi k?rd?sek ker?lnek ter?t?kre, helysz?ni tud?s?t?sokkal ?s ?l? bejelentkez?sekkel kieg?sz?tve.</desc>
+    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
+    <start>02:00PM</start>
+    <finish>02:30PM</finish>
+    <date>08 April 2026</date>
+  </channel>
+  <channel>
+    <name>HirTV HU</name>
+    <id>HirTV.hu</id>
+    <title>Pal?ver</title>
+    <desc>A Pal?ver a H?r TV ?s a Karc FM interakt?v, a k?z?gyeket, aktu?lpolitikai esem?nyeket t?rgyal?, a polg?rok v?lem?ny?t hallhat?v? t?v? m?sora. Nincs tabu t?ma, nincs tabu k?rd?s. Mindazokat v?rj?k a m?sorvezet?k, akik alak?tani akarj?k a k?zbesz?det, akik v?lem?ny?kkel hozz?j?ruln?nak a k?z?s gondolkod?shoz, akik vitatkozni akarnak k?z?s ?gyekr?l.</desc>
+    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
+    <start>02:30PM</start>
+    <finish>04:00PM</finish>
+    <date>08 April 2026</date>
+  </channel>
+  <channel>
+    <name>HirTV HU</name>
+    <id>HirTV.hu</id>
+    <title>H?rad?</title>
+    <desc>A m?sor naponta t?bbsz?r jelentkezik a K?rp?t-medence ?s a nagyvil?g legfrissebb h?reivel. Politikai ?s k?z?leti t?m?k, szoci?lis, p?nz?gyi, gazdas?gi k?rd?sek ker?lnek ter?t?kre, helysz?ni tud?s?t?sokkal ?s ?l? bejelentkez?sekkel kieg?sz?tve.</desc>
+    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
+    <start>04:00PM</start>
+    <finish>04:30PM</finish>
+    <date>08 April 2026</date>
+  </channel>
+  <channel>
+    <name>HirTV HU</name>
+    <id>HirTV.hu</id>
+    <title>Radar</title>
+    <desc>Riportm?sorunk izgalmas t?m?kkal ?s megk?zel?t?ssel pr?b?l a h?tk?znapi embereknek seg?teni olyan probl?m?k felt?r?s?val ?s megold?s?val, amely a nagyk?z?ns?get ?rinti. A m?sor h?zigazd?i Budai Ivett ?s Eper M?rton.</desc>
+    <image>https://image.tmdb.org/t/p/w500/bD5LoiiVtweREMFIzM3xAlWd0Dg.jpg</image>
+    <start>04:30PM</start>
+    <finish>04:50PM</finish>
+    <date>08 April 2026</date>
+  </channel>
+  <channel>
+    <name>HirTV HU</name>
+    <id>HirTV.hu</id>
+    <title>H?rad?; benne: 18:00-kor Orb?n Viktor orsz?gj?r?sa</title>
+    <desc>Orb?n Viktor minisztereln?k orsz?gj?r?sa sor?n t?bb helysz?nen, szem?lyesen is ?sszekapcsolja a haz?juk?rt tenni akar? polg?rokat.</desc>
+    <image>https://media.port.hu/images/001/801/426.webp</image>
+    <start>04:50PM</start>
+    <finish>06:00PM</finish>
+    <date>08 April 2026</date>
+  </channel>
+  <channel>
+    <name>HirTV HU</name>
+    <id>HirTV.hu</id>
+    <title>Komment</title>
+    <desc>Kem?ny v?g?sok, ?gyes sz?r?sok jobbr?l ?s balr?l. A m?sorvezet? vend?geivel veszi sorra a legfontosabb, ?rdekl?d?sre legink?bb sz?mot tart? k?z?leti t?rt?n?seket, esem?nyeket. Mindenki elmondhatja ?s el is mondja ?ll?spontj?t, a m?sorvezet? moder?l?sa mellett a n?z?k kem?ny vit?kra sz?m?thatnak. ?sszecsaphat a st?di?ban jobb ?s bal, konzervat?v ?s liber?lis, itt nem a lovagiass?g, hanem a sz?kimond?s sz?m?t.</desc>
+    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
+    <start>06:00PM</start>
+    <finish>07:30PM</finish>
+    <date>08 April 2026</date>
+  </channel>
+  <channel>
+    <name>HirTV HU</name>
+    <id>HirTV.hu</id>
+    <title>H?rad?</title>
+    <desc>A m?sor naponta t?bbsz?r jelentkezik a K?rp?t-medence ?s a nagyvil?g legfrissebb h?reivel. Politikai ?s k?z?leti t?m?k, szoci?lis, p?nz?gyi, gazdas?gi k?rd?sek ker?lnek ter?t?kre, helysz?ni tud?s?t?sokkal ?s ?l? bejelentkez?sekkel kieg?sz?tve.</desc>
+    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
+    <start>07:30PM</start>
+    <finish>08:00PM</finish>
+    <date>08 April 2026</date>
+  </channel>
+  <channel>
+    <name>HirTV HU</name>
+    <id>HirTV.hu</id>
+    <title>Vez?rcikk - Olvasunk a sorok k?z?tt</title>
+    <desc>A m?sorban ?js?g?r?k elemzik az adott napon a sajt?ban megjelent cikkeket, de ezen fel?l Magyarorsz?gon egyed?l?ll?an bemutatj?k, hogy a m?snapi ?js?gok, weboldalak mir?l fognak ?rni.</desc>
+    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
+    <start>08:00PM</start>
+    <finish>09:00PM</finish>
+    <date>08 April 2026</date>
+  </channel>
+  <channel>
+    <name>HirTV HU</name>
+    <id>HirTV.hu</id>
+    <title>H?rad?</title>
+    <desc>A m?sor naponta t?bbsz?r jelentkezik a K?rp?t-medence ?s a nagyvil?g legfrissebb h?reivel. Politikai ?s k?z?leti t?m?k, szoci?lis, p?nz?gyi, gazdas?gi k?rd?sek ker?lnek ter?t?kre, helysz?ni tud?s?t?sokkal ?s ?l? bejelentkez?sekkel kieg?sz?tve.</desc>
+    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
+    <start>09:00PM</start>
+    <finish>09:30PM</finish>
+    <date>08 April 2026</date>
+  </channel>
+  <channel>
+    <name>HirTV HU</name>
+    <id>HirTV.hu</id>
+    <title>Riaszt?s</title>
+    <desc></desc>
+    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
+    <start>09:30PM</start>
+    <finish>10:30PM</finish>
+    <date>08 April 2026</date>
+  </channel>
+  <channel>
+    <name>HirTV HU</name>
+    <id>HirTV.hu</id>
+    <title>Komment</title>
+    <desc>Kem?ny v?g?sok, ?gyes sz?r?sok jobbr?l ?s balr?l. A m?sorvezet? vend?geivel veszi sorra a legfontosabb, ?rdekl?d?sre legink?bb sz?mot tart? k?z?leti t?rt?n?seket, esem?nyeket. Mindenki elmondhatja ?s el is mondja ?ll?spontj?t, a m?sorvezet? moder?l?sa mellett a n?z?k kem?ny vit?kra sz?m?thatnak. ?sszecsaphat a st?di?ban jobb ?s bal, konzervat?v ?s liber?lis, itt nem a lovagiass?g, hanem a sz?kimond?s sz?m?t.</desc>
+    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
+    <start>10:30PM</start>
+    <finish>11:30PM</finish>
+    <date>08 April 2026</date>
+  </channel>
+  <channel>
+    <name>HirTV HU</name>
+    <id>HirTV.hu</id>
+    <title>Telev?zi?s v?s?rl?si m?sorablak</title>
+    <desc>A hirdet?s ?runak, szolg?ltat?snak a forgalmaz?val vagy szolg?ltat?val val? kapcsolatteremt?s ?tj?n t?rt?n? ?rt?kes?t?s?re vagy m?s m?don t?rt?n? ig?nybev?tel?re tartalmaz k?zvetlen aj?nlatot.</desc>
+    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
+    <start>11:30PM</start>
+    <finish>12:30AM</finish>
+    <date>08 April 2026</date>
+  </channel>
+  <channel>
+    <name>HirTV HU</name>
+    <id>HirTV.hu</id>
+    <title>Hazah?z?</title>
+    <desc>A m?sor a hazai ?d?l?si ?s szabadid?s lehet?s?geket mutatja be.</desc>
+    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
+    <start>12:30AM</start>
+    <finish>01:15AM</finish>
+    <date>09 April 2026</date>
+  </channel>
+  <channel>
+    <name>HirTV HU</name>
+    <id>HirTV.hu</id>
+    <title>Radar +</title>
+    <desc>A m?sor izgalmas t?m?kkal ?s megk?zel?t?ssel pr?b?l a h?tk?znapi embereknek seg?teni olyan probl?m?k felt?r?s?val ?s megold?s?val amely a nagyk?z?ns?get ?rinti. A m?sor h?zigazd?i Budai Ivett ?s Eper M?rton.</desc>
+    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
+    <start>01:15AM</start>
+    <finish>01:30AM</finish>
+    <date>09 April 2026</date>
+  </channel>
+  <channel>
+    <name>HirTV HU</name>
+    <id>HirTV.hu</id>
+    <title>Radar</title>
+    <desc>Riportm?sorunk izgalmas t?m?kkal ?s megk?zel?t?ssel pr?b?l a h?tk?znapi embereknek seg?teni olyan probl?m?k felt?r?s?val ?s megold?s?val, amely a nagyk?z?ns?get ?rinti. A m?sor h?zigazd?i Budai Ivett ?s Eper M?rton.</desc>
+    <image>https://image.tmdb.org/t/p/w500/bD5LoiiVtweREMFIzM3xAlWd0Dg.jpg</image>
+    <start>01:30AM</start>
+    <finish>02:00AM</finish>
+    <date>09 April 2026</date>
+  </channel>
+  <channel>
+    <name>HirTV HU</name>
+    <id>HirTV.hu</id>
+    <title>Vet?t?</title>
+    <desc>Rendez?: Nov?k Emil Gerl?czy Gedeon a k?t vil?gh?bor? k?z?tti ?p?t?szet meghat?roz? ?p?t?sze volt. P?lyafut?s?nak felvir?gz?s?val egyidej?leg Csontv?ry pusztul?sra ?t?lt ?letm?v?t is ?letre kelti. 1919-ben egy m?teremben r?tal?l a fest? m?veire, beleszeret, megveszi a fest? rokon?t?l. 56 ?ven ?t azon f?radozik, hogy Csontv?ry festm?nyei megmaradjanak, elismertt? v?ljanak. Megismerj?k Gerl?czy p?lyafut?s?t, egyidej?leg Csontv?ry ?let?nek fontos mozzanatait. A korszak egyik legfoglalkoztatottabb ?p?t?sze lesz. A dilett?ns ?lmodoz?nak min?s?tett fest? k?peit gondozza, szabadidej?t felem?szti az ?letm? ismertt? t?tele. A k?pek eljutnak P?rizsba, Br?sszelbe, elvesznek, rong?l?dnak, el?znak. A Sors mindig megmenti ?ket.</desc>
+    <image>https://media.port.hu/images/000/856/530.jpg</image>
+    <start>02:00AM</start>
+    <finish>03:00AM</finish>
+    <date>09 April 2026</date>
+  </channel>
+  <channel>
+    <name>HirTV HU</name>
+    <id>HirTV.hu</id>
+    <title>Telev?zi?s v?s?rl?si m?sorablak</title>
+    <desc>A hirdet?s ?runak, szolg?ltat?snak a forgalmaz?val vagy szolg?ltat?val val? kapcsolatteremt?s ?tj?n t?rt?n? ?rt?kes?t?s?re vagy m?s m?don t?rt?n? ig?nybev?tel?re tartalmaz k?zvetlen aj?nlatot.</desc>
+    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
+    <start>03:00AM</start>
+    <finish>04:00AM</finish>
+    <date>09 April 2026</date>
+  </channel>
+  <channel>
+    <name>HirTV HU</name>
+    <id>HirTV.hu</id>
+    <title>Vet?t?</title>
+    <desc>Rendez?: L?szl? G?bor Sv?b sz?rmaz?s? volt a legend?s Pusk?s ?csi, ak?rcsak Blaha Lujza, T?rley J?zsef vagy G?rdonyi G?za ?s M?rai S?ndor. A film a sv?bok ?s a magyarok egy?tt?l?s?nek 300 ?v?t dolgozza fel.</desc>
+    <image>https://media.port.hu/images/000/856/530.jpg</image>
+    <start>04:00AM</start>
+    <finish>04:55AM</finish>
+    <date>09 April 2026</date>
+  </channel>
+  <channel>
+    <name>HirTV HU</name>
+    <id>HirTV.hu</id>
+    <title>Napind?t?</title>
+    <desc>Szak?rt?k elemzik az orosz-ukr?n h?bor? legfontosabb esem?nyeit. A m?sorban a kultur?lis ?let szerepl?i mellett a k?zszolg?lati t?m?k szerepelnek.</desc>
+    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
+    <start>04:55AM</start>
+    <finish>05:00AM</finish>
+    <date>09 April 2026</date>
+  </channel>
+  <channel>
+    <name>HirTV HU</name>
+    <id>HirTV.hu</id>
+    <title>H?rad?</title>
+    <desc>A m?sor naponta t?bbsz?r jelentkezik a K?rp?t-medence ?s a nagyvil?g legfrissebb h?reivel. Politikai ?s k?z?leti t?m?k, szoci?lis, p?nz?gyi, gazdas?gi k?rd?sek ker?lnek ter?t?kre, helysz?ni tud?s?t?sokkal ?s ?l? bejelentkez?sekkel kieg?sz?tve.</desc>
+    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
+    <start>05:00AM</start>
+    <finish>05:25AM</finish>
+    <date>09 April 2026</date>
+  </channel>
+  <channel>
+    <name>HirTV HU</name>
+    <id>HirTV.hu</id>
+    <title>Napind?t?</title>
+    <desc>Szak?rt?k elemzik az orosz-ukr?n h?bor? legfontosabb esem?nyeit. A m?sorban a kultur?lis ?let szerepl?i mellett a k?zszolg?lati t?m?k szerepelnek.</desc>
+    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
+    <start>05:25AM</start>
+    <finish>08:00AM</finish>
+    <date>09 April 2026</date>
+  </channel>
+  <channel>
+    <name>HirTV HU</name>
+    <id>HirTV.hu</id>
+    <title>Napind?t? +</title>
+    <desc>A m?sorban ?letviteli tan?csok ?s a nagyk?z?ns?g sz?m?ra ?rdekes inform?ci?val rendelkez? megh?vott vend?gek szerepelnek.</desc>
+    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
+    <start>08:00AM</start>
+    <finish>08:30AM</finish>
+    <date>09 April 2026</date>
+  </channel>
+  <channel>
+    <name>HirTV HU</name>
+    <id>HirTV.hu</id>
+    <title>Radar +</title>
+    <desc>A m?sor izgalmas t?m?kkal ?s megk?zel?t?ssel pr?b?l a h?tk?znapi embereknek seg?teni olyan probl?m?k felt?r?s?val ?s megold?s?val amely a nagyk?z?ns?get ?rinti. A m?sor h?zigazd?i Budai Ivett ?s Eper M?rton.</desc>
+    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
+    <start>08:30AM</start>
+    <finish>09:00AM</finish>
+    <date>09 April 2026</date>
+  </channel>
+  <channel>
+    <name>HirTV HU</name>
+    <id>HirTV.hu</id>
+    <title>Telev?zi?s v?s?rl?si m?sorablak</title>
+    <desc>A hirdet?s ?runak, szolg?ltat?snak a forgalmaz?val vagy szolg?ltat?val val? kapcsolatteremt?s ?tj?n t?rt?n? ?rt?kes?t?s?re vagy m?s m?don t?rt?n? ig?nybev?tel?re tartalmaz k?zvetlen aj?nlatot.</desc>
+    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
+    <start>09:00AM</start>
+    <finish>10:00AM</finish>
+    <date>09 April 2026</date>
+  </channel>
+  <channel>
+    <name>HirTV HU</name>
+    <id>HirTV.hu</id>
+    <title>Vez?rcikk - Olvasunk a sorok k?z?tt</title>
+    <desc>A m?sorban ?js?g?r?k elemzik az adott napon a sajt?ban megjelent cikkeket, de ezen fel?l Magyarorsz?gon egyed?l?ll?an bemutatj?k, hogy a m?snapi ?js?gok, weboldalak mir?l fognak ?rni.</desc>
+    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
+    <start>10:00AM</start>
+    <finish>11:00AM</finish>
+    <date>09 April 2026</date>
+  </channel>
+  <channel>
+    <name>HirTV HU</name>
+    <id>HirTV.hu</id>
+    <title>H?rad?</title>
+    <desc>A m?sor naponta t?bbsz?r jelentkezik a K?rp?t-medence ?s a nagyvil?g legfrissebb h?reivel. Politikai ?s k?z?leti t?m?k, szoci?lis, p?nz?gyi, gazdas?gi k?rd?sek ker?lnek ter?t?kre, helysz?ni tud?s?t?sokkal ?s ?l? bejelentkez?sekkel kieg?sz?tve.</desc>
+    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
+    <start>11:00AM</start>
+    <finish>11:30AM</finish>
+    <date>09 April 2026</date>
+  </channel>
+  <channel>
+    <name>HirTV HU</name>
+    <id>HirTV.hu</id>
+    <title>L?ncreakci?: H?bor?</title>
+    <desc>Legfrissebb h?rek az orosz-ukr?n h?bor?r?l.</desc>
+    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
+    <start>11:30AM</start>
+    <finish>12:00PM</finish>
+    <date>09 April 2026</date>
+  </channel>
+  <channel>
+    <name>HirTV HU</name>
+    <id>HirTV.hu</id>
+    <title>L?ncreakci?</title>
+    <desc>Legfrissebb h?rek az orosz-ukr?n h?bor?r?l.</desc>
+    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
+    <start>12:00PM</start>
+    <finish>01:00PM</finish>
+    <date>09 April 2026</date>
+  </channel>
+  <channel>
+    <name>HirTV HU</name>
+    <id>HirTV.hu</id>
+    <title>H?rad?</title>
+    <desc>A m?sor naponta t?bbsz?r jelentkezik a K?rp?t-medence ?s a nagyvil?g legfrissebb h?reivel. Politikai ?s k?z?leti t?m?k, szoci?lis, p?nz?gyi, gazdas?gi k?rd?sek ker?lnek ter?t?kre, helysz?ni tud?s?t?sokkal ?s ?l? bejelentkez?sekkel kieg?sz?tve.</desc>
+    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
+    <start>01:00PM</start>
+    <finish>01:30PM</finish>
+    <date>09 April 2026</date>
+  </channel>
+  <channel>
+    <name>HirTV HU</name>
+    <id>HirTV.hu</id>
+    <title>Pal?ver hangol?</title>
+    <desc></desc>
+    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
+    <start>01:30PM</start>
+    <finish>02:00PM</finish>
+    <date>09 April 2026</date>
+  </channel>
+  <channel>
+    <name>HirTV HU</name>
+    <id>HirTV.hu</id>
+    <title>H?rad?</title>
+    <desc>A m?sor naponta t?bbsz?r jelentkezik a K?rp?t-medence ?s a nagyvil?g legfrissebb h?reivel. Politikai ?s k?z?leti t?m?k, szoci?lis, p?nz?gyi, gazdas?gi k?rd?sek ker?lnek ter?t?kre, helysz?ni tud?s?t?sokkal ?s ?l? bejelentkez?sekkel kieg?sz?tve.</desc>
+    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
+    <start>02:00PM</start>
+    <finish>02:30PM</finish>
+    <date>09 April 2026</date>
+  </channel>
+  <channel>
+    <name>HirTV HU</name>
+    <id>HirTV.hu</id>
+    <title>Pal?ver</title>
+    <desc>A Pal?ver a H?r TV ?s a Karc FM interakt?v, a k?z?gyeket, aktu?lpolitikai esem?nyeket t?rgyal?, a polg?rok v?lem?ny?t hallhat?v? t?v? m?sora. Nincs tabu t?ma, nincs tabu k?rd?s. Mindazokat v?rj?k a m?sorvezet?k, akik alak?tani akarj?k a k?zbesz?det, akik v?lem?ny?kkel hozz?j?ruln?nak a k?z?s gondolkod?shoz, akik vitatkozni akarnak k?z?s ?gyekr?l.</desc>
+    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
+    <start>02:30PM</start>
+    <finish>04:00PM</finish>
+    <date>09 April 2026</date>
+  </channel>
+  <channel>
+    <name>HirTV HU</name>
+    <id>HirTV.hu</id>
+    <title>H?rad?</title>
+    <desc>A m?sor naponta t?bbsz?r jelentkezik a K?rp?t-medence ?s a nagyvil?g legfrissebb h?reivel. Politikai ?s k?z?leti t?m?k, szoci?lis, p?nz?gyi, gazdas?gi k?rd?sek ker?lnek ter?t?kre, helysz?ni tud?s?t?sokkal ?s ?l? bejelentkez?sekkel kieg?sz?tve.</desc>
+    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
+    <start>04:00PM</start>
+    <finish>04:30PM</finish>
+    <date>09 April 2026</date>
+  </channel>
+  <channel>
+    <name>HirTV HU</name>
+    <id>HirTV.hu</id>
+    <title>Radar</title>
+    <desc>Riportm?sorunk izgalmas t?m?kkal ?s megk?zel?t?ssel pr?b?l a h?tk?znapi embereknek seg?teni olyan probl?m?k felt?r?s?val ?s megold?s?val, amely a nagyk?z?ns?get ?rinti. A m?sor h?zigazd?i Budai Ivett ?s Eper M?rton.</desc>
+    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
+    <start>04:30PM</start>
+    <finish>04:50PM</finish>
+    <date>09 April 2026</date>
+  </channel>
+  <channel>
+    <name>HirTV HU</name>
+    <id>HirTV.hu</id>
+    <title>H?rad?; benne: 18:00-kor Orb?n Viktor orsz?gj?r?sa</title>
+    <desc>Orb?n Viktor minisztereln?k orsz?gj?r?sa sor?n t?bb helysz?nen, szem?lyesen is ?sszekapcsolja a haz?juk?rt tenni akar? polg?rokat.</desc>
+    <image>https://media.port.hu/images/001/801/426.webp</image>
+    <start>04:50PM</start>
+    <finish>06:00PM</finish>
+    <date>09 April 2026</date>
+  </channel>
+  <channel>
+    <name>HirTV HU</name>
+    <id>HirTV.hu</id>
+    <title>Komment</title>
+    <desc>Kem?ny v?g?sok, ?gyes sz?r?sok jobbr?l ?s balr?l. A m?sorvezet? vend?geivel veszi sorra a legfontosabb, ?rdekl?d?sre legink?bb sz?mot tart? k?z?leti t?rt?n?seket, esem?nyeket. Mindenki elmondhatja ?s el is mondja ?ll?spontj?t, a m?sorvezet? moder?l?sa mellett a n?z?k kem?ny vit?kra sz?m?thatnak. ?sszecsaphat a st?di?ban jobb ?s bal, konzervat?v ?s liber?lis, itt nem a lovagiass?g, hanem a sz?kimond?s sz?m?t.</desc>
+    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
+    <start>06:00PM</start>
+    <finish>07:30PM</finish>
+    <date>09 April 2026</date>
+  </channel>
+  <channel>
+    <name>HirTV HU</name>
+    <id>HirTV.hu</id>
+    <title>H?rad?</title>
+    <desc>A m?sor naponta t?bbsz?r jelentkezik a K?rp?t-medence ?s a nagyvil?g legfrissebb h?reivel. Politikai ?s k?z?leti t?m?k, szoci?lis, p?nz?gyi, gazdas?gi k?rd?sek ker?lnek ter?t?kre, helysz?ni tud?s?t?sokkal ?s ?l? bejelentkez?sekkel kieg?sz?tve.</desc>
+    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
+    <start>07:30PM</start>
+    <finish>08:00PM</finish>
+    <date>09 April 2026</date>
+  </channel>
+  <channel>
+    <name>HirTV HU</name>
+    <id>HirTV.hu</id>
+    <title>Vez?rcikk - Olvasunk a sorok k?z?tt</title>
+    <desc>A m?sorban ?js?g?r?k elemzik az adott napon a sajt?ban megjelent cikkeket, de ezen fel?l Magyarorsz?gon egyed?l?ll?an bemutatj?k, hogy a m?snapi ?js?gok, weboldalak mir?l fognak ?rni.</desc>
+    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
+    <start>08:00PM</start>
+    <finish>09:00PM</finish>
+    <date>09 April 2026</date>
+  </channel>
+  <channel>
+    <name>HirTV HU</name>
+    <id>HirTV.hu</id>
+    <title>H?rad?</title>
+    <desc>A m?sor naponta t?bbsz?r jelentkezik a K?rp?t-medence ?s a nagyvil?g legfrissebb h?reivel. Politikai ?s k?z?leti t?m?k, szoci?lis, p?nz?gyi, gazdas?gi k?rd?sek ker?lnek ter?t?kre, helysz?ni tud?s?t?sokkal ?s ?l? bejelentkez?sekkel kieg?sz?tve.</desc>
+    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
+    <start>09:00PM</start>
+    <finish>09:30PM</finish>
+    <date>09 April 2026</date>
+  </channel>
+  <channel>
+    <name>HirTV HU</name>
+    <id>HirTV.hu</id>
+    <title>Ikon Budai Ivettel</title>
+    <desc>Frissess?g, dinamikuss?g, ?rdekess?g sok ?szinte gondolattal ?tv?zve. Egy rendk?v?li ?s egyed?l?ll? riportsorozat, ami ?gy mutat be politikusokat ?s k?z?leti szerepl?ket, ahogyan nem l?tt?k kor?bban a n?z?k.</desc>
+    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
+    <start>09:30PM</start>
+    <finish>10:30PM</finish>
+    <date>09 April 2026</date>
+  </channel>
+  <channel>
+    <name>HirTV HU</name>
+    <id>HirTV.hu</id>
+    <title>Komment</title>
+    <desc>Kem?ny v?g?sok, ?gyes sz?r?sok jobbr?l ?s balr?l. A m?sorvezet? vend?geivel veszi sorra a legfontosabb, ?rdekl?d?sre legink?bb sz?mot tart? k?z?leti t?rt?n?seket, esem?nyeket. Mindenki elmondhatja ?s el is mondja ?ll?spontj?t, a m?sorvezet? moder?l?sa mellett a n?z?k kem?ny vit?kra sz?m?thatnak. ?sszecsaphat a st?di?ban jobb ?s bal, konzervat?v ?s liber?lis, itt nem a lovagiass?g, hanem a sz?kimond?s sz?m?t.</desc>
+    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
+    <start>10:30PM</start>
+    <finish>11:30PM</finish>
+    <date>09 April 2026</date>
+  </channel>
+  <channel>
+    <name>HirTV HU</name>
+    <id>HirTV.hu</id>
+    <title>Telev?zi?s v?s?rl?si m?sorablak</title>
+    <desc>A hirdet?s ?runak, szolg?ltat?snak a forgalmaz?val vagy szolg?ltat?val val? kapcsolatteremt?s ?tj?n t?rt?n? ?rt?kes?t?s?re vagy m?s m?don t?rt?n? ig?nybev?tel?re tartalmaz k?zvetlen aj?nlatot.</desc>
+    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
+    <start>11:30PM</start>
+    <finish>12:30AM</finish>
+    <date>09 April 2026</date>
+  </channel>
+  <channel>
+    <name>HirTV HU</name>
+    <id>HirTV.hu</id>
+    <title>Hazah?z?</title>
+    <desc>A m?sor a hazai ?d?l?si ?s szabadid?s lehet?s?geket mutatja be.</desc>
+    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
+    <start>12:30AM</start>
+    <finish>01:15AM</finish>
+    <date>10 April 2026</date>
+  </channel>
+  <channel>
+    <name>HirTV HU</name>
+    <id>HirTV.hu</id>
+    <title>Radar +</title>
+    <desc>A m?sor izgalmas t?m?kkal ?s megk?zel?t?ssel pr?b?l a h?tk?znapi embereknek seg?teni olyan probl?m?k felt?r?s?val ?s megold?s?val amely a nagyk?z?ns?get ?rinti. A m?sor h?zigazd?i Budai Ivett ?s Eper M?rton.</desc>
+    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
+    <start>01:15AM</start>
+    <finish>01:30AM</finish>
+    <date>10 April 2026</date>
+  </channel>
+  <channel>
+    <name>HirTV HU</name>
+    <id>HirTV.hu</id>
+    <title>Radar</title>
+    <desc>Riportm?sorunk izgalmas t?m?kkal ?s megk?zel?t?ssel pr?b?l a h?tk?znapi embereknek seg?teni olyan probl?m?k felt?r?s?val ?s megold?s?val, amely a nagyk?z?ns?get ?rinti. A m?sor h?zigazd?i Budai Ivett ?s Eper M?rton.</desc>
+    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
+    <start>01:30AM</start>
+    <finish>02:00AM</finish>
+    <date>10 April 2026</date>
+  </channel>
+  <channel>
+    <name>HirTV HU</name>
+    <id>HirTV.hu</id>
+    <title>Vet?t?</title>
+    <desc>Rendez?: L?szl? G?bor Sv?b sz?rmaz?s? volt a legend?s Pusk?s ?csi, ak?rcsak Blaha Lujza, T?rley J?zsef vagy G?rdonyi G?za ?s M?rai S?ndor. A film a sv?bok ?s a magyarok egy?tt?l?s?nek 300 ?v?t dolgozza fel.</desc>
+    <image>https://media.port.hu/images/000/856/530.jpg</image>
+    <start>02:00AM</start>
+    <finish>03:00AM</finish>
+    <date>10 April 2026</date>
+  </channel>
+  <channel>
+    <name>HirTV HU</name>
+    <id>HirTV.hu</id>
+    <title>Telev?zi?s v?s?rl?si m?sorablak</title>
+    <desc>A hirdet?s ?runak, szolg?ltat?snak a forgalmaz?val vagy szolg?ltat?val val? kapcsolatteremt?s ?tj?n t?rt?n? ?rt?kes?t?s?re vagy m?s m?don t?rt?n? ig?nybev?tel?re tartalmaz k?zvetlen aj?nlatot.</desc>
+    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
+    <start>03:00AM</start>
+    <finish>04:00AM</finish>
+    <date>10 April 2026</date>
+  </channel>
+  <channel>
+    <name>HirTV HU</name>
+    <id>HirTV.hu</id>
+    <title>Vet?t?</title>
+    <desc>Rendez?: Harcsa B?la Bizonyos ?rtelemben focir?l sz?l a film, de legal?bb ilyen fontosak benne m?s ?rt?kek is, mint p?ld?ul a magyars?g szeretete, a k?z?ss?g form?l?s ?s az ?sszetartoz?s tudat?nak er?s?t?se Erd?lyben. Di?szegi L?szl? a dolgos sepsiszentgy?rgyi p?k mert nagyot ?lmodni ?s elsz?nt t?rsaival l?trehozta a Sepsi OSK focicsapat?t. A dolgok persze nem mentek egyszer?en, de sikert?rt?net lett a v?ge.</desc>
+    <image>https://media.port.hu/images/000/856/530.jpg</image>
+    <start>04:00AM</start>
+    <finish>04:55AM</finish>
+    <date>10 April 2026</date>
+  </channel>
+  <channel>
+    <name>HirTV HU</name>
+    <id>HirTV.hu</id>
+    <title>Napind?t?</title>
+    <desc>Szak?rt?k elemzik az orosz-ukr?n h?bor? legfontosabb esem?nyeit. A m?sorban a kultur?lis ?let szerepl?i mellett a k?zszolg?lati t?m?k szerepelnek.</desc>
+    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
+    <start>04:55AM</start>
+    <finish>05:00AM</finish>
+    <date>10 April 2026</date>
+  </channel>
+  <channel>
+    <name>HirTV HU</name>
+    <id>HirTV.hu</id>
+    <title>H?rad?</title>
+    <desc>A m?sor naponta t?bbsz?r jelentkezik a K?rp?t-medence ?s a nagyvil?g legfrissebb h?reivel. Politikai ?s k?z?leti t?m?k, szoci?lis, p?nz?gyi, gazdas?gi k?rd?sek ker?lnek ter?t?kre, helysz?ni tud?s?t?sokkal ?s ?l? bejelentkez?sekkel kieg?sz?tve.</desc>
+    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
+    <start>05:00AM</start>
+    <finish>05:25AM</finish>
+    <date>10 April 2026</date>
+  </channel>
+  <channel>
+    <name>HirTV HU</name>
+    <id>HirTV.hu</id>
+    <title>Napind?t?</title>
+    <desc>Szak?rt?k elemzik az orosz-ukr?n h?bor? legfontosabb esem?nyeit. A m?sorban a kultur?lis ?let szerepl?i mellett a k?zszolg?lati t?m?k szerepelnek.</desc>
+    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
+    <start>05:25AM</start>
+    <finish>08:00AM</finish>
+    <date>10 April 2026</date>
+  </channel>
+  <channel>
+    <name>HirTV HU</name>
+    <id>HirTV.hu</id>
+    <title>Napind?t? +</title>
+    <desc>A m?sorban ?letviteli tan?csok ?s a nagyk?z?ns?g sz?m?ra ?rdekes inform?ci?val rendelkez? megh?vott vend?gek szerepelnek.</desc>
+    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
+    <start>08:00AM</start>
+    <finish>08:30AM</finish>
+    <date>10 April 2026</date>
+  </channel>
+  <channel>
+    <name>HirTV HU</name>
+    <id>HirTV.hu</id>
+    <title>Radar +</title>
+    <desc>A m?sor izgalmas t?m?kkal ?s megk?zel?t?ssel pr?b?l a h?tk?znapi embereknek seg?teni olyan probl?m?k felt?r?s?val ?s megold?s?val amely a nagyk?z?ns?get ?rinti. A m?sor h?zigazd?i Budai Ivett ?s Eper M?rton.</desc>
+    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
+    <start>08:30AM</start>
+    <finish>09:00AM</finish>
+    <date>10 April 2026</date>
+  </channel>
+  <channel>
+    <name>HirTV HU</name>
+    <id>HirTV.hu</id>
+    <title>Telev?zi?s v?s?rl?si m?sorablak</title>
+    <desc>A hirdet?s ?runak, szolg?ltat?snak a forgalmaz?val vagy szolg?ltat?val val? kapcsolatteremt?s ?tj?n t?rt?n? ?rt?kes?t?s?re vagy m?s m?don t?rt?n? ig?nybev?tel?re tartalmaz k?zvetlen aj?nlatot.</desc>
+    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
+    <start>09:00AM</start>
+    <finish>10:00AM</finish>
+    <date>10 April 2026</date>
+  </channel>
+  <channel>
+    <name>HirTV HU</name>
+    <id>HirTV.hu</id>
+    <title>Vez?rcikk - Olvasunk a sorok k?z?tt</title>
+    <desc>A m?sorban ?js?g?r?k elemzik az adott napon a sajt?ban megjelent cikkeket, de ezen fel?l Magyarorsz?gon egyed?l?ll?an bemutatj?k, hogy a m?snapi ?js?gok, weboldalak mir?l fognak ?rni.</desc>
+    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
+    <start>10:00AM</start>
+    <finish>11:00AM</finish>
+    <date>10 April 2026</date>
+  </channel>
+  <channel>
+    <name>HirTV HU</name>
+    <id>HirTV.hu</id>
+    <title>H?rad?</title>
+    <desc>A m?sor naponta t?bbsz?r jelentkezik a K?rp?t-medence ?s a nagyvil?g legfrissebb h?reivel. Politikai ?s k?z?leti t?m?k, szoci?lis, p?nz?gyi, gazdas?gi k?rd?sek ker?lnek ter?t?kre, helysz?ni tud?s?t?sokkal ?s ?l? bejelentkez?sekkel kieg?sz?tve.</desc>
+    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
+    <start>11:00AM</start>
+    <finish>11:30AM</finish>
+    <date>10 April 2026</date>
+  </channel>
+  <channel>
+    <name>HirTV HU</name>
+    <id>HirTV.hu</id>
+    <title>L?ncreakci?: H?bor?</title>
+    <desc>Legfrissebb h?rek az orosz-ukr?n h?bor?r?l.</desc>
+    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
+    <start>11:30AM</start>
+    <finish>12:00PM</finish>
+    <date>10 April 2026</date>
+  </channel>
+  <channel>
+    <name>HirTV HU</name>
+    <id>HirTV.hu</id>
+    <title>L?ncreakci?</title>
+    <desc>Legfrissebb h?rek az orosz-ukr?n h?bor?r?l.</desc>
+    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
+    <start>12:00PM</start>
+    <finish>01:00PM</finish>
+    <date>10 April 2026</date>
+  </channel>
+  <channel>
+    <name>HirTV HU</name>
+    <id>HirTV.hu</id>
+    <title>H?rad?</title>
+    <desc>A m?sor naponta t?bbsz?r jelentkezik a K?rp?t-medence ?s a nagyvil?g legfrissebb h?reivel. Politikai ?s k?z?leti t?m?k, szoci?lis, p?nz?gyi, gazdas?gi k?rd?sek ker?lnek ter?t?kre, helysz?ni tud?s?t?sokkal ?s ?l? bejelentkez?sekkel kieg?sz?tve.</desc>
+    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
+    <start>01:00PM</start>
+    <finish>01:30PM</finish>
+    <date>10 April 2026</date>
+  </channel>
+  <channel>
+    <name>HirTV HU</name>
+    <id>HirTV.hu</id>
+    <title>Pal?ver hangol?</title>
+    <desc></desc>
+    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
+    <start>01:30PM</start>
+    <finish>02:00PM</finish>
+    <date>10 April 2026</date>
+  </channel>
+  <channel>
+    <name>HirTV HU</name>
+    <id>HirTV.hu</id>
+    <title>H?rad?</title>
+    <desc>A m?sor naponta t?bbsz?r jelentkezik a K?rp?t-medence ?s a nagyvil?g legfrissebb h?reivel. Politikai ?s k?z?leti t?m?k, szoci?lis, p?nz?gyi, gazdas?gi k?rd?sek ker?lnek ter?t?kre, helysz?ni tud?s?t?sokkal ?s ?l? bejelentkez?sekkel kieg?sz?tve.</desc>
+    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
+    <start>02:00PM</start>
+    <finish>02:30PM</finish>
+    <date>10 April 2026</date>
+  </channel>
+  <channel>
+    <name>HirTV HU</name>
+    <id>HirTV.hu</id>
+    <title>Pal?ver</title>
+    <desc>A Pal?ver a H?r TV ?s a Karc FM interakt?v, a k?z?gyeket, aktu?lpolitikai esem?nyeket t?rgyal?, a polg?rok v?lem?ny?t hallhat?v? t?v? m?sora. Nincs tabu t?ma, nincs tabu k?rd?s. Mindazokat v?rj?k a m?sorvezet?k, akik alak?tani akarj?k a k?zbesz?det, akik v?lem?ny?kkel hozz?j?ruln?nak a k?z?s gondolkod?shoz, akik vitatkozni akarnak k?z?s ?gyekr?l.</desc>
+    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
+    <start>02:30PM</start>
+    <finish>04:00PM</finish>
+    <date>10 April 2026</date>
+  </channel>
+  <channel>
+    <name>HirTV HU</name>
+    <id>HirTV.hu</id>
+    <title>H?rad?</title>
+    <desc>A m?sor naponta t?bbsz?r jelentkezik a K?rp?t-medence ?s a nagyvil?g legfrissebb h?reivel. Politikai ?s k?z?leti t?m?k, szoci?lis, p?nz?gyi, gazdas?gi k?rd?sek ker?lnek ter?t?kre, helysz?ni tud?s?t?sokkal ?s ?l? bejelentkez?sekkel kieg?sz?tve.</desc>
+    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
+    <start>04:00PM</start>
+    <finish>04:30PM</finish>
+    <date>10 April 2026</date>
+  </channel>
+  <channel>
+    <name>HirTV HU</name>
+    <id>HirTV.hu</id>
+    <title>Radar</title>
+    <desc>Riportm?sorunk izgalmas t?m?kkal ?s megk?zel?t?ssel pr?b?l a h?tk?znapi embereknek seg?teni olyan probl?m?k felt?r?s?val ?s megold?s?val, amely a nagyk?z?ns?get ?rinti. A m?sor h?zigazd?i Budai Ivett ?s Eper M?rton.</desc>
+    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
+    <start>04:30PM</start>
+    <finish>04:50PM</finish>
+    <date>10 April 2026</date>
+  </channel>
+  <channel>
+    <name>HirTV HU</name>
+    <id>HirTV.hu</id>
+    <title>H?rad?; benne: 18:00-kor Orb?n Viktor orsz?gj?r?sa</title>
+    <desc>Orb?n Viktor minisztereln?k orsz?gj?r?sa sor?n t?bb helysz?nen, szem?lyesen is ?sszekapcsolja a haz?juk?rt tenni akar? polg?rokat.</desc>
+    <image>https://media.port.hu/images/001/801/426.webp</image>
+    <start>04:50PM</start>
+    <finish>06:00PM</finish>
+    <date>10 April 2026</date>
+  </channel>
+  <channel>
+    <name>HirTV HU</name>
+    <id>HirTV.hu</id>
+    <title>Komment</title>
+    <desc>Kem?ny v?g?sok, ?gyes sz?r?sok jobbr?l ?s balr?l. A m?sorvezet? vend?geivel veszi sorra a legfontosabb, ?rdekl?d?sre legink?bb sz?mot tart? k?z?leti t?rt?n?seket, esem?nyeket. Mindenki elmondhatja ?s el is mondja ?ll?spontj?t, a m?sorvezet? moder?l?sa mellett a n?z?k kem?ny vit?kra sz?m?thatnak. ?sszecsaphat a st?di?ban jobb ?s bal, konzervat?v ?s liber?lis, itt nem a lovagiass?g, hanem a sz?kimond?s sz?m?t.</desc>
+    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
+    <start>06:00PM</start>
+    <finish>07:00PM</finish>
+    <date>10 April 2026</date>
+  </channel>
+  <channel>
+    <name>HirTV HU</name>
+    <id>HirTV.hu</id>
+    <title>P?ntek 8</title>
+    <desc>D?ri Stefi ?s Fut? Bogl?rka minden alkalommal ?j vend?ggel, k?tetlen?l besz?li ?s vitatja meg a magyar k?z?let aktu?lis k?rd?seit.</desc>
+    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
+    <start>07:00PM</start>
+    <finish>08:00PM</finish>
+    <date>10 April 2026</date>
+  </channel>
+  <channel>
+    <name>HirTV HU</name>
+    <id>HirTV.hu</id>
+    <title>Vez?rcikk - Olvasunk a sorok k?z?tt</title>
+    <desc>A m?sorban ?js?g?r?k elemzik az adott napon a sajt?ban megjelent cikkeket, de ezen fel?l Magyarorsz?gon egyed?l?ll?an bemutatj?k, hogy a m?snapi ?js?gok, weboldalak mir?l fognak ?rni.</desc>
+    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
+    <start>08:00PM</start>
+    <finish>09:00PM</finish>
+    <date>10 April 2026</date>
+  </channel>
+  <channel>
+    <name>HirTV HU</name>
+    <id>HirTV.hu</id>
+    <title>H?rad?</title>
+    <desc>A m?sor naponta t?bbsz?r jelentkezik a K?rp?t-medence ?s a nagyvil?g legfrissebb h?reivel. Politikai ?s k?z?leti t?m?k, szoci?lis, p?nz?gyi, gazdas?gi k?rd?sek ker?lnek ter?t?kre, helysz?ni tud?s?t?sokkal ?s ?l? bejelentkez?sekkel kieg?sz?tve.</desc>
+    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
+    <start>09:00PM</start>
+    <finish>09:30PM</finish>
+    <date>10 April 2026</date>
+  </channel>
+  <channel>
+    <name>HirTV HU</name>
+    <id>HirTV.hu</id>
+    <title>C?lpont</title>
+    <desc>Vesz?lyekt?l sem mentes oknyomoz? munk?nk sor?n az?rt dolgozunk, mert ?nnek joga van tudni azt, amir?l a politikai ?let szerepl?i azt akarj?k, hogy ?n ne tudja.</desc>
+    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
+    <start>09:30PM</start>
+    <finish>10:30PM</finish>
+    <date>10 April 2026</date>
+  </channel>
+  <channel>
+    <name>HirTV HU</name>
+    <id>HirTV.hu</id>
+    <title>P?ntek 8</title>
+    <desc>D?ri Stefi ?s Fut? Bogl?rka minden alkalommal ?j vend?ggel, k?tetlen?l besz?li ?s vitatja meg a magyar k?z?let aktu?lis k?rd?seit.</desc>
+    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
+    <start>10:30PM</start>
+    <finish>11:30PM</finish>
+    <date>10 April 2026</date>
+  </channel>
+  <channel>
+    <name>HirTV HU</name>
+    <id>HirTV.hu</id>
+    <title>Telev?zi?s v?s?rl?si m?sorablak</title>
+    <desc>A hirdet?s ?runak, szolg?ltat?snak a forgalmaz?val vagy szolg?ltat?val val? kapcsolatteremt?s ?tj?n t?rt?n? ?rt?kes?t?s?re vagy m?s m?don t?rt?n? ig?nybev?tel?re tartalmaz k?zvetlen aj?nlatot.</desc>
+    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
+    <start>11:30PM</start>
+    <finish>12:30AM</finish>
+    <date>10 April 2026</date>
+  </channel>
+  <channel>
+    <name>HirTV HU</name>
+    <id>HirTV.hu</id>
+    <title>Hazah?z?</title>
+    <desc>A m?sor a hazai ?d?l?si ?s szabadid?s lehet?s?geket mutatja be.</desc>
+    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
+    <start>12:30AM</start>
+    <finish>01:15AM</finish>
+    <date>11 April 2026</date>
+  </channel>
+  <channel>
+    <name>HirTV HU</name>
+    <id>HirTV.hu</id>
+    <title>Radar +</title>
+    <desc>A m?sor izgalmas t?m?kkal ?s megk?zel?t?ssel pr?b?l a h?tk?znapi embereknek seg?teni olyan probl?m?k felt?r?s?val ?s megold?s?val amely a nagyk?z?ns?get ?rinti. A m?sor h?zigazd?i Budai Ivett ?s Eper M?rton.</desc>
+    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
+    <start>01:15AM</start>
+    <finish>01:30AM</finish>
+    <date>11 April 2026</date>
+  </channel>
+  <channel>
+    <name>HirTV HU</name>
+    <id>HirTV.hu</id>
+    <title>Radar</title>
+    <desc>Riportm?sorunk izgalmas t?m?kkal ?s megk?zel?t?ssel pr?b?l a h?tk?znapi embereknek seg?teni olyan probl?m?k felt?r?s?val ?s megold?s?val, amely a nagyk?z?ns?get ?rinti. A m?sor h?zigazd?i Budai Ivett ?s Eper M?rton.</desc>
+    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
+    <start>01:30AM</start>
+    <finish>02:00AM</finish>
+    <date>11 April 2026</date>
+  </channel>
+  <channel>
+    <name>HirTV HU</name>
+    <id>HirTV.hu</id>
+    <title>Vet?t?</title>
+    <desc>Rendez?: Harcsa B?la Bizonyos ?rtelemben focir?l sz?l a film, de legal?bb ilyen fontosak benne m?s ?rt?kek is, mint p?ld?ul a magyars?g szeretete, a k?z?ss?g form?l?s ?s az ?sszetartoz?s tudat?nak er?s?t?se Erd?lyben. Di?szegi L?szl? a dolgos sepsiszentgy?rgyi p?k mert nagyot ?lmodni ?s elsz?nt t?rsaival l?trehozta a Sepsi OSK focicsapat?t. A dolgok persze nem mentek egyszer?en, de sikert?rt?net lett a v?ge.[(96057)] </desc>
+    <image>https://media.port.hu/images/000/856/530.jpg</image>
+    <start>02:00AM</start>
+    <finish>02:30AM</finish>
+    <date>11 April 2026</date>
+  </channel>
+</tv>
