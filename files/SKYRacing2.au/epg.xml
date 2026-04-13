@@ -1,2 +1,433 @@
 <?xml version="1.0" ?>
-<tv/>
+<tv>
+  <channel>
+    <name>SKY Racing 2 AU</name>
+    <id>SKYRacing2.au</id>
+    <title>Sky Racing 2 Racenight</title>
+    <desc>Greyhound Racing from Northam.</desc>
+    <image>https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/73/25/72/732572_p18088949_b_h9_aa_360.jpg</image>
+    <start>09:00AM</start>
+    <finish>03:00PM</finish>
+    <date>13 April 2026</date>
+  </channel>
+  <channel>
+    <name>SKY Racing 2 AU</name>
+    <id>SKYRacing2.au</id>
+    <title>Sky Racing 2 Latenight</title>
+    <desc></desc>
+    <image>https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/77/42/52/774252_p26190769_b_h9_aa_360.jpg</image>
+    <start>03:00PM</start>
+    <finish>08:00PM</finish>
+    <date>13 April 2026</date>
+  </channel>
+  <channel>
+    <name>SKY Racing 2 AU</name>
+    <id>SKYRacing2.au</id>
+    <title>News Central Encore</title>
+    <desc>Ally Mosley, Ray Thomas, Neil Breen &amp; Corey Brown discuss all the latest racing news.</desc>
+    <image>https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/74/70/20/747020_p18069703_b_h9_aa_360.jpg</image>
+    <start>08:00PM</start>
+    <finish>08:30PM</finish>
+    <date>13 April 2026</date>
+  </channel>
+  <channel>
+    <name>SKY Racing 2 AU</name>
+    <id>SKYRacing2.au</id>
+    <title>Racing Replay: Scone Thoroughbreds</title>
+    <desc>Highlights of Thoroughbred racing from Scone.</desc>
+    <image>https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/73/20/06/732006_p17165961_b_h9_aa_360.jpg</image>
+    <start>08:30PM</start>
+    <finish>09:00PM</finish>
+    <date>13 April 2026</date>
+  </channel>
+  <channel>
+    <name>SKY Racing 2 AU</name>
+    <id>SKYRacing2.au</id>
+    <title>Formline Extra Encore</title>
+    <desc>Know the contenders from the pretenders as our team of Sky Racing expert form analysts dissect tomorrow's meeting.</desc>
+    <image>https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/74/70/26/747026_p18103974_b_h9_aa_360.jpg</image>
+    <start>09:00PM</start>
+    <finish>09:30PM</finish>
+    <date>13 April 2026</date>
+  </channel>
+  <channel>
+    <name>SKY Racing 2 AU</name>
+    <id>SKYRacing2.au</id>
+    <title>Bred To Win Encore</title>
+    <desc>From profile stories on star stallions to the yearling sales from around the world, Bred to Win has all aspects of breeding covered to ensure you will not miss a thing.</desc>
+    <image>https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/73/51/58/735158_p17238136_b_h9_aa_360.jpg</image>
+    <start>09:30PM</start>
+    <finish>10:00PM</finish>
+    <date>13 April 2026</date>
+  </channel>
+  <channel>
+    <name>SKY Racing 2 AU</name>
+    <id>SKYRacing2.au</id>
+    <title>News Central Encore</title>
+    <desc>Ally Mosley, Ray Thomas, Neil Breen &amp; Corey Brown discuss all the latest racing news.</desc>
+    <image>https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/74/70/20/747020_p18069703_b_h9_aa_360.jpg</image>
+    <start>10:00PM</start>
+    <finish>10:30PM</finish>
+    <date>13 April 2026</date>
+  </channel>
+  <channel>
+    <name>SKY Racing 2 AU</name>
+    <id>SKYRacing2.au</id>
+    <title>Racing Replay: Longreach Thoroughbreds</title>
+    <desc>Highlights of Thoroughbred racing from Longreach.</desc>
+    <image>https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/73/20/06/732006_p17165961_b_h9_aa_360.jpg</image>
+    <start>10:30PM</start>
+    <finish>11:00PM</finish>
+    <date>13 April 2026</date>
+  </channel>
+  <channel>
+    <name>SKY Racing 2 AU</name>
+    <id>SKYRacing2.au</id>
+    <title>Sky Racing 2 Racemorning</title>
+    <desc>Greyhound Racing from Manawatu; Harness Racing from Mohawk, Western Fair, Yonkers.</desc>
+    <image>https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/73/25/68/732568_p18088944_b_h9_aa_360.jpg</image>
+    <start>11:00PM</start>
+    <finish>03:00AM</finish>
+    <date>13 April 2026</date>
+  </channel>
+  <channel>
+    <name>SKY Racing 2 AU</name>
+    <id>SKYRacing2.au</id>
+    <title>Sky Racing 2 Raceday</title>
+    <desc>Thoroughbreds from Tokyo City Keiba; Greyhound Racing from Manawatu, Geelong, Grafton, Q1 Lakeside, Horsham; Harness Racing from Mohawk, Western Fair, Yonkers.</desc>
+    <image>https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/73/25/70/732570_p18088947_b_h9_aa_360.jpg</image>
+    <start>03:00AM</start>
+    <finish>09:00AM</finish>
+    <date>14 April 2026</date>
+  </channel>
+  <channel>
+    <name>SKY Racing 2 AU</name>
+    <id>SKYRacing2.au</id>
+    <title>Sky Racing 2 Racenight</title>
+    <desc>Thoroughbreds from Vaal, Elazig, Tokyo City Keiba, Newmarket, Newton Abbot, Market Rasen, Nantes, Chantilly; Greyhound Racing from Geelong, Grafton, Q1 Lakeside, Horsham, Mandurah, Horsham Extra, Tralee, Valley, Sheffield, Newcastle, Romford, Monmore; Harness Racing from Lyon Parilly, Vincennes.</desc>
+    <image>https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/73/25/72/732572_p18088949_b_h9_aa_360.jpg</image>
+    <start>09:00AM</start>
+    <finish>03:00PM</finish>
+    <date>14 April 2026</date>
+  </channel>
+  <channel>
+    <name>SKY Racing 2 AU</name>
+    <id>SKYRacing2.au</id>
+    <title>Sky Racing 2 Latenight</title>
+    <desc>Thoroughbreds from Vaal, Elazig, Kocaeli, Newmarket, Newton Abbot, Market Rasen, Clonmel, Chantilly; Greyhound Racing from Valley, Star Pelaw, Romford, Monmore; Harness Racing from Vincennes.</desc>
+    <image>https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/77/42/52/774252_p26190769_b_h9_aa_360.jpg</image>
+    <start>03:00PM</start>
+    <finish>08:00PM</finish>
+    <date>14 April 2026</date>
+  </channel>
+  <channel>
+    <name>SKY Racing 2 AU</name>
+    <id>SKYRacing2.au</id>
+    <title>Racing Replay: Ballina Thoroughbreds</title>
+    <desc>Highlights of Thoroughbred racing from Ballina.</desc>
+    <image>https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/73/20/06/732006_p17165961_b_h9_aa_360.jpg</image>
+    <start>08:00PM</start>
+    <finish>08:30PM</finish>
+    <date>14 April 2026</date>
+  </channel>
+  <channel>
+    <name>SKY Racing 2 AU</name>
+    <id>SKYRacing2.au</id>
+    <title>Racing Replay: Hawkesbury T'breds</title>
+    <desc>Highlights of Thoroughbred racing from Hawkesbury.</desc>
+    <image>https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/73/20/06/732006_p17165961_b_h9_aa_360.jpg</image>
+    <start>08:30PM</start>
+    <finish>09:00PM</finish>
+    <date>14 April 2026</date>
+  </channel>
+  <channel>
+    <name>SKY Racing 2 AU</name>
+    <id>SKYRacing2.au</id>
+    <title>Formline Extra Encore</title>
+    <desc>Know the contenders from the pretenders as our team of Sky Racing expert form analysts dissect tomorrow's meeting.</desc>
+    <image>https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/74/70/26/747026_p18103974_b_h9_aa_360.jpg</image>
+    <start>09:00PM</start>
+    <finish>09:30PM</finish>
+    <date>14 April 2026</date>
+  </channel>
+  <channel>
+    <name>SKY Racing 2 AU</name>
+    <id>SKYRacing2.au</id>
+    <title>Bred To Win Encore</title>
+    <desc>From profile stories on star stallions to the yearling sales from around the world, Bred to Win has all aspects of breeding covered to ensure you will not miss a thing.</desc>
+    <image>https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/73/51/58/735158_p17238136_b_h9_aa_360.jpg</image>
+    <start>09:30PM</start>
+    <finish>10:00PM</finish>
+    <date>14 April 2026</date>
+  </channel>
+  <channel>
+    <name>SKY Racing 2 AU</name>
+    <id>SKYRacing2.au</id>
+    <title>Punter's Intelligence Encore</title>
+    <desc>Ben Way and Brad Gray use the Punter's Intelligence app to crunch the key statistical data from the past week of racing and help you find a future winner.</desc>
+    <image>https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/74/69/14/746914_p17165796_b_h9_aa_360.jpg</image>
+    <start>10:00PM</start>
+    <finish>10:30PM</finish>
+    <date>14 April 2026</date>
+  </channel>
+  <channel>
+    <name>SKY Racing 2 AU</name>
+    <id>SKYRacing2.au</id>
+    <title>Racing Replay: Townsville Thoroughbreds</title>
+    <desc>Highlights of Thoroughbred racing from Townsville.</desc>
+    <image>https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/73/20/06/732006_p17165961_b_h9_aa_360.jpg</image>
+    <start>10:30PM</start>
+    <finish>11:00PM</finish>
+    <date>14 April 2026</date>
+  </channel>
+  <channel>
+    <name>SKY Racing 2 AU</name>
+    <id>SKYRacing2.au</id>
+    <title>Sky Racing 2 Racemorning</title>
+    <desc>Greyhound Racing from Ascot Park, Murray Bridge Straight; Harness Racing from Western Fair, Northfield Park, Yonkers.</desc>
+    <image>https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/73/25/68/732568_p18088944_b_h9_aa_360.jpg</image>
+    <start>11:00PM</start>
+    <finish>03:00AM</finish>
+    <date>14 April 2026</date>
+  </channel>
+  <channel>
+    <name>SKY Racing 2 AU</name>
+    <id>SKYRacing2.au</id>
+    <title>Sky Racing 2 Raceday</title>
+    <desc>Thoroughbreds from Tokyo City Keiba; Greyhound Racing from Temora, Q1 Lakeside, Capalaba, Ascot Park, Murray Bridge Straight; Harness Racing from Addington, Western Fair, Northfield Park, Yonkers.</desc>
+    <image>https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/73/25/70/732570_p18088947_b_h9_aa_360.jpg</image>
+    <start>03:00AM</start>
+    <finish>09:00AM</finish>
+    <date>15 April 2026</date>
+  </channel>
+  <channel>
+    <name>SKY Racing 2 AU</name>
+    <id>SKYRacing2.au</id>
+    <title>Sky Racing 2 Racenight</title>
+    <desc>Thoroughbreds from Kenilworth, Istanbul, Tokyo City Keiba, Beverley, Cheltenham, Leopardstown, Fontainebleau, Evreux; Greyhound Racing from Taree, Q1 Lakeside, Q1 Lakeside Extra, Mandurah, Harlow, Valley, Doncaster, Kilkenny, Monmore, Nottingham, Hove, Newcastle, Sunderland; Harness Racing from Addington, Cordemais.</desc>
+    <image>https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/73/25/72/732572_p18088949_b_h9_aa_360.jpg</image>
+    <start>09:00AM</start>
+    <finish>03:00PM</finish>
+    <date>15 April 2026</date>
+  </channel>
+  <channel>
+    <name>SKY Racing 2 AU</name>
+    <id>SKYRacing2.au</id>
+    <title>Sky Racing 2 Latenight</title>
+    <desc>Thoroughbreds from San Isidro, Istanbul, Elazig, Beverley, Cheltenham, Leopardstown, Evreux, Tampa Bay, Keeneland; Greyhound Racing from Mandurah, Valley, Doncaster, Hove, Newcastle, Sunderland, Dunstall Park, Romford; Harness Racing from Cordemais, Reims.</desc>
+    <image>https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/77/42/52/774252_p26190769_b_h9_aa_360.jpg</image>
+    <start>03:00PM</start>
+    <finish>08:00PM</finish>
+    <date>15 April 2026</date>
+  </channel>
+  <channel>
+    <name>SKY Racing 2 AU</name>
+    <id>SKYRacing2.au</id>
+    <title>Warwick Farm Showcase Replay</title>
+    <desc>Highlights of Thoroughbred racing from Warwick Farm.</desc>
+    <image>https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/73/26/78/732678_p18410379_b_h9_aa_360.jpg</image>
+    <start>08:00PM</start>
+    <finish>09:00PM</finish>
+    <date>15 April 2026</date>
+  </channel>
+  <channel>
+    <name>SKY Racing 2 AU</name>
+    <id>SKYRacing2.au</id>
+    <title>Formline Extra Encore</title>
+    <desc>Know the contenders from the pretenders as our team of Sky Racing expert form analysts dissect tomorrow's meeting.</desc>
+    <image>https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/74/70/26/747026_p18103974_b_h9_aa_360.jpg</image>
+    <start>09:00PM</start>
+    <finish>09:30PM</finish>
+    <date>15 April 2026</date>
+  </channel>
+  <channel>
+    <name>SKY Racing 2 AU</name>
+    <id>SKYRacing2.au</id>
+    <title>Racing Replay: Doomben Thoroughbreds</title>
+    <desc>Highlights of Thoroughbred racing from Doomben.</desc>
+    <image>https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/73/20/06/732006_p17165961_b_h9_aa_360.jpg</image>
+    <start>09:30PM</start>
+    <finish>10:00PM</finish>
+    <date>15 April 2026</date>
+  </channel>
+  <channel>
+    <name>SKY Racing 2 AU</name>
+    <id>SKYRacing2.au</id>
+    <title>Black Bookers Encore</title>
+    <desc>Lewis Willoughby &amp; Chantelle Buckley identify the horses to follow, betting strategies to play and highlight the star performers of the week.</desc>
+    <image>https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/74/70/04/747004_p18024629_b_h9_aa_360.jpg</image>
+    <start>10:00PM</start>
+    <finish>10:30PM</finish>
+    <date>15 April 2026</date>
+  </channel>
+  <channel>
+    <name>SKY Racing 2 AU</name>
+    <id>SKYRacing2.au</id>
+    <title>Bred To Win Encore</title>
+    <desc>From profile stories on star stallions to the yearling sales from around the world, Bred to Win has all aspects of breeding covered to ensure you will not miss a thing.</desc>
+    <image>https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/73/51/58/735158_p17238136_b_h9_aa_360.jpg</image>
+    <start>10:30PM</start>
+    <finish>11:00PM</finish>
+    <date>15 April 2026</date>
+  </channel>
+  <channel>
+    <name>SKY Racing 2 AU</name>
+    <id>SKYRacing2.au</id>
+    <title>Sky Racing 2 Racemorning</title>
+    <desc>Thoroughbreds from Ashburton; Greyhound Racing from Richmond Straight, Q Straight, Cambridge; Harness Racing from Winton, Western Fair, Northfield Park, Hoosier Park, Yonkers.</desc>
+    <image>https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/73/25/68/732568_p18088944_b_h9_aa_360.jpg</image>
+    <start>11:00PM</start>
+    <finish>03:00AM</finish>
+    <date>15 April 2026</date>
+  </channel>
+  <channel>
+    <name>SKY Racing 2 AU</name>
+    <id>SKYRacing2.au</id>
+    <title>Sky Racing 2 Raceday</title>
+    <desc>Thoroughbreds from Ashburton, Tokyo City Keiba; Greyhound Racing from Richmond Straight, Casino, Warragul, Warrnambool, Q Straight, Mount Gambier, Cambridge, Addington, Addington Extra; Harness Racing from Winton, Cambridge, Western Fair, Northfield Park, Hoosier Park, Yonkers.</desc>
+    <image>https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/73/25/70/732570_p18088947_b_h9_aa_360.jpg</image>
+    <start>03:00AM</start>
+    <finish>09:00AM</finish>
+    <date>16 April 2026</date>
+  </channel>
+  <channel>
+    <name>SKY Racing 2 AU</name>
+    <id>SKYRacing2.au</id>
+    <title>Sky Racing 2 Racenight</title>
+    <desc>Thoroughbreds from Ankara, Tokyo City Keiba, Cheltenham, Ripon, Limerick, Salon de Provence, Longchamp; Greyhound Racing from Casino, Nowra, Warragul, Warrnambool, Warrnambool Extra, Cannington, Addington Extra, Waterford, Limerick, Valley, Sheffield, Kinsley, Nottingham, Central Park, Dunstall Park; Harness Racing from Cambridge.</desc>
+    <image>https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/73/25/72/732572_p18088949_b_h9_aa_360.jpg</image>
+    <start>09:00AM</start>
+    <finish>03:00PM</finish>
+    <date>16 April 2026</date>
+  </channel>
+  <channel>
+    <name>SKY Racing 2 AU</name>
+    <id>SKYRacing2.au</id>
+    <title>Sky Racing 2 Latenight</title>
+    <desc>Thoroughbreds from Ankara, Izmir, Cheltenham, Ripon, Hereford, Limerick, Longchamp, Gulfstream, Aqueduct, Keeneland; Greyhound Racing from Limerick, Valley, Central Park, Dunstall Park, Monmore; Harness Racing from Enghien.</desc>
+    <image>https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/77/42/52/774252_p26190769_b_h9_aa_360.jpg</image>
+    <start>03:00PM</start>
+    <finish>08:00PM</finish>
+    <date>16 April 2026</date>
+  </channel>
+  <channel>
+    <name>SKY Racing 2 AU</name>
+    <id>SKYRacing2.au</id>
+    <title>Form Line Encore</title>
+    <desc>Know the contenders from the pretenders as the experts dissect the upcoming weekend of racing, and deliver their pre-race analysis for the biggest races.</desc>
+    <image>https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/74/69/12/746912_p17161864_b_h9_aa_360.jpg</image>
+    <start>08:00PM</start>
+    <finish>09:00PM</finish>
+    <date>16 April 2026</date>
+  </channel>
+  <channel>
+    <name>SKY Racing 2 AU</name>
+    <id>SKYRacing2.au</id>
+    <title>Formline Extra Encore</title>
+    <desc>Know the contenders from the pretenders as our team of Sky Racing expert form analysts dissect tomorrow's meeting.</desc>
+    <image>https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/74/70/26/747026_p18103974_b_h9_aa_360.jpg</image>
+    <start>09:00PM</start>
+    <finish>09:30PM</finish>
+    <date>16 April 2026</date>
+  </channel>
+  <channel>
+    <name>SKY Racing 2 AU</name>
+    <id>SKYRacing2.au</id>
+    <title>Racing Replay: Armidale Thoroughbreds</title>
+    <desc>Highlights of Thoroughbred racing from Armidale.</desc>
+    <image>https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/73/20/06/732006_p17165961_b_h9_aa_360.jpg</image>
+    <start>09:30PM</start>
+    <finish>10:00PM</finish>
+    <date>16 April 2026</date>
+  </channel>
+  <channel>
+    <name>SKY Racing 2 AU</name>
+    <id>SKYRacing2.au</id>
+    <title>The Form NZ</title>
+    <desc>Join The Form team for an in-depth preview of this week's Gallops &amp; Harness, plus get the best bets ahead of the weekend.</desc>
+    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
+    <start>10:00PM</start>
+    <finish>11:00PM</finish>
+    <date>16 April 2026</date>
+  </channel>
+  <channel>
+    <name>SKY Racing 2 AU</name>
+    <id>SKYRacing2.au</id>
+    <title>Sky Racing 2 Racemorning</title>
+    <desc>Thoroughbreds from Hawera, Remington Park, Charles Town; Greyhound Racing from Addington; Harness Racing from Flamboro Downs, Hoosier Park, Yonkers.</desc>
+    <image>https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/73/25/68/732568_p18088944_b_h9_aa_360.jpg</image>
+    <start>11:00PM</start>
+    <finish>03:00AM</finish>
+    <date>16 April 2026</date>
+  </channel>
+  <channel>
+    <name>SKY Racing 2 AU</name>
+    <id>SKYRacing2.au</id>
+    <title>Sky Racing 2 Raceday</title>
+    <desc>Thoroughbreds from Hawera, Busan, Tokyo City Keiba, Remington Park, Charles Town; Greyhound Racing from Addington, Goulburn, Warragul, The Gardens, Q1 Lakeside, Townsville, Hatrick, Murray Bridge; Harness Racing from Hobart, Alexandra Park, Addington, Flamboro Downs, Hoosier Park, Yonkers.</desc>
+    <image>https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/73/25/70/732570_p18088947_b_h9_aa_360.jpg</image>
+    <start>03:00AM</start>
+    <finish>09:00AM</finish>
+    <date>17 April 2026</date>
+  </channel>
+  <channel>
+    <name>SKY Racing 2 AU</name>
+    <id>SKYRacing2.au</id>
+    <title>Sky Racing 2 Racenight</title>
+    <desc>Thoroughbreds from Fairview, Bursa, Busan, Tokyo City Keiba, Ayr, Newbury, Tarbes, Saint Cloud; Greyhound Racing from Warragul, The Gardens, Q1 Lakeside, Richmond, Bendigo, Wagga, Mandurah, Hatrick, Murray Bridge, Hove, Central Park, Kinsley, Newcastle; Harness Racing from Hobart, Alexandra Park, Addington, Parkes, Marseille Borely.</desc>
+    <image>https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/73/25/72/732572_p18088949_b_h9_aa_360.jpg</image>
+    <start>09:00AM</start>
+    <finish>03:00PM</finish>
+    <date>17 April 2026</date>
+  </channel>
+  <channel>
+    <name>SKY Racing 2 AU</name>
+    <id>SKYRacing2.au</id>
+    <title>Sky Racing 2 Latenight</title>
+    <desc>Thoroughbreds from Bahrain, Greyville, Bursa, Istanbul, Ayr, Newbury, Exeter, Ballinrobe, Saint Cloud, Laurel Park, Tampa Bay, Gulfstream, Aqueduct, Keeneland; Greyhound Racing from Kinsley, Newcastle, Romford, Sunderland; Harness Racing from Vincennes.</desc>
+    <image>https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/77/42/52/774252_p26190769_b_h9_aa_360.jpg</image>
+    <start>03:00PM</start>
+    <finish>08:00PM</finish>
+    <date>17 April 2026</date>
+  </channel>
+  <channel>
+    <name>SKY Racing 2 AU</name>
+    <id>SKYRacing2.au</id>
+    <title>Form Line Encore</title>
+    <desc>Know the contenders from the pretenders as the experts dissect the upcoming weekend of racing, and deliver their pre-race analysis for the biggest races.</desc>
+    <image>https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/74/69/12/746912_p17161864_b_h9_aa_360.jpg</image>
+    <start>08:00PM</start>
+    <finish>09:00PM</finish>
+    <date>17 April 2026</date>
+  </channel>
+  <channel>
+    <name>SKY Racing 2 AU</name>
+    <id>SKYRacing2.au</id>
+    <title>Formline Extra Encore</title>
+    <desc>Know the contenders from the pretenders as our team of Sky Racing expert form analysts dissect tomorrow's meeting.</desc>
+    <image>https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/74/70/26/747026_p18103974_b_h9_aa_360.jpg</image>
+    <start>09:00PM</start>
+    <finish>09:30PM</finish>
+    <date>17 April 2026</date>
+  </channel>
+  <channel>
+    <name>SKY Racing 2 AU</name>
+    <id>SKYRacing2.au</id>
+    <title>The Playbook Encore</title>
+    <desc>Form experts Bernadette Cooper &amp; Michael Maxworthy analyse Saturday racing in the Sunshine State.</desc>
+    <image>https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/73/25/80/732580_p18103726_b_h9_aa_360.jpg</image>
+    <start>09:30PM</start>
+    <finish>10:00PM</finish>
+    <date>17 April 2026</date>
+  </channel>
+  <channel>
+    <name>SKY Racing 2 AU</name>
+    <id>SKYRacing2.au</id>
+    <title>The Form NZ</title>
+    <desc>Join The Form team for an in-depth preview of this week's Gallops &amp; Harness, plus get the best bets ahead of the weekend.[(96057)] </desc>
+    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
+    <start>10:00PM</start>
+    <finish>11:00PM</finish>
+    <date>17 April 2026</date>
+  </channel>
+</tv>
