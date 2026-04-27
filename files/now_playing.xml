@@ -3,31 +3,21 @@
   <channel>
     <name>BBC One NL</name>
     <id>BBCOne.nl</id>
-    <title>Breakfast</title>
-    <desc>The BBC's Breakfast programme features the latest news, sport, business, weather and other items on a daily basis.</desc>
-    <image>https://staticqbr-prod-nl.gnp.cloud.ziggogo.tv/image-service/ImagesEPG/EventImages/p214496_bd_h10_ac.jpg</image>
-    <start>06:00AM</start>
-    <finish>09:30AM</finish>
+    <title>Morning Live</title>
+    <desc>Join Gethin Jones, Helen Skelton, Michelle Ackerley and the team for conversation, advice and tips to make your day that little bit easier.</desc>
+    <image>https://staticqbr-prod-nl.gnp.cloud.ziggogo.tv/image-service/ImagesEPG/EventImages/p32760979_bd_h10_aa.jpg</image>
+    <start>09:30AM</start>
+    <finish>10:45AM</finish>
     <date>27 April 2026</date>
   </channel>
   <channel>
     <name>BBC Two NL</name>
     <id>BBCTwo.nl</id>
-    <title>Secret Garden</title>
-    <desc>David Attenborough reveals the hidden struggles of swallows, field mice, newts and moles as they race to breed in a beautiful country garden in Cumbria.</desc>
-    <image>https://staticqbr-prod-nl.gnp.cloud.ziggogo.tv/image-service/ImagesEPG/EventImages/p32783948_e_h10_aa.jpg</image>
-    <start>07:30AM</start>
-    <finish>08:30AM</finish>
-    <date>27 April 2026</date>
-  </channel>
-  <channel>
-    <name>Tennis Channel US</name>
-    <id>TennisChannel.us</id>
-    <title>2026 Mutua Madrid Open Tennis</title>
-    <desc>From Caja Magica in Madrid, Spain.</desc>
-    <image>http://cltv.tmsimg.com/assets/p32125621_b_h8_aa.jpg?w=960&amp;h=540</image>
-    <start>12:00AM</start>
-    <finish>08:00AM</finish>
+    <title>BBC News</title>
+    <desc>A comprehensive compilation of the latest and the most important news stories, updates and developments from the UK and different parts of the world.</desc>
+    <image>https://staticqbr-prod-nl.gnp.cloud.ziggogo.tv/image-service/ImagesEPG/EventImages/p8133775_bd_h8_aa.jpg</image>
+    <start>09:00AM</start>
+    <finish>12:15PM</finish>
     <date>27 April 2026</date>
   </channel>
 </tv>
