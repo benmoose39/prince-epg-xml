@@ -1,13 +1,23 @@
 <?xml version="1.0" ?>
 <tv>
   <channel>
-    <name>Band Sports BR</name>
+    <name>BandSports BR</name>
     <id>BandSports.br</id>
-    <title>Encontro de Craques</title>
+    <title>Campeonato Russo</title>
+    <desc>Do Est?dio S?o Petersburgo, em S?o Petersburgo, R?ssia.</desc>
+    <image>http://cltv.tmsimg.com/assets/GNLZZGG0031FMBT.jpg?w=960&amp;h=540</image>
+    <start>01:00PM</start>
+    <finish>02:45PM</finish>
+    <date>11 May 2026</date>
+  </channel>
+  <channel>
+    <name>BandSports BR</name>
+    <id>BandSports.br</id>
+    <title>Zenit x Sochi</title>
     <desc></desc>
-    <image>https://cdn.mitvstatic.com/programs/br_sports-talk-encontro-de-craques_l_m.jpg</image>
-    <start>11:00PM</start>
-    <finish>12:30AM</finish>
-    <date>03 May 2026</date>
+    <image>https://cdn.mitvstatic.com/programs/br_soccer-zenit-x-sochi_l_m.jpg</image>
+    <start>01:00PM</start>
+    <finish>02:45PM</finish>
+    <date>11 May 2026</date>
   </channel>
 </tv>
