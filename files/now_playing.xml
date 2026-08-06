@@ -1,16 +1,6 @@
 <?xml version="1.0" ?>
 <tv>
   <channel>
-    <name>3ABN US</name>
-    <id>3ABN.us</id>
-    <title>Ultimate Prescription</title>
-    <desc>Nick Evenson; Dr. James Marcum.</desc>
-    <image>http://cltv.tmsimg.com/assets/p9621269_b_h8_aa.jpg?w=960&amp;h=540</image>
-    <start>12:00AM</start>
-    <finish>12:30AM</finish>
-    <date>06 August 2026</date>
-  </channel>
-  <channel>
     <name>92 News PK</name>
     <id>92News.pk</id>
     <title>News Headlines</title>
@@ -23,81 +13,21 @@
   <channel>
     <name>AB1 FR</name>
     <id>AB1.fr</id>
-    <title>Les myst?res de l'amour</title>
-    <desc>Jos? et Laly s'avouent enfin leur amour mais gardent leur relation secr?te. Addy a trouv? refuge sur le bateau d'un certain Brad. Fanny et Christian arrivent ? Love Island et partent ? sa recherche, tandis que Jeanne et Pierre se retrouvent enfin.</desc>
-    <image>http://cltv.tmsimg.com/assets/p10051016_b_h10_af.jpg?w=960&amp;h=540</image>
-    <start>11:15PM</start>
-    <finish>12:10AM</finish>
-    <date>05 August 2026</date>
-  </channel>
-  <channel>
-    <name>ABP Ananda IN</name>
-    <id>ABPAnanda.in</id>
-    <title>Ananda News</title>
-    <desc>The host delivers the latest news stories and recent updates on crucial matters relating to governance, economics and socio-political issues from across the world.</desc>
-    <image>http://cltv.tmsimg.com/assets/p26463685_b_h8_aa.jpg</image>
-    <start>12:00AM</start>
-    <finish>12:30AM</finish>
-    <date>06 August 2026</date>
-  </channel>
-  <channel>
-    <name>ABP Asmita IN</name>
-    <id>ABPAsmita.in</id>
-    <title>Fatafat</title>
-    <desc>The host presents the latest updates pertaining to the political, economic, social and top stories in a fast succession.</desc>
-    <image>http://cltv.tmsimg.com/assets/p7967279_b_h10_aa.jpg</image>
-    <start>12:00AM</start>
-    <finish>12:30AM</finish>
+    <title>Premiers baisers</title>
+    <desc>Les jumelles font un pari avec Annette. Elles vont acheter des chewing-gums rouges et bleus et s'?changer les gar?ons.</desc>
+    <image>http://cltv.tmsimg.com/assets/p20171139_b_h10_aa.jpg?w=960&amp;h=540</image>
+    <start>01:05AM</start>
+    <finish>01:30AM</finish>
     <date>06 August 2026</date>
   </channel>
   <channel>
     <name>ABP Majha IN</name>
     <id>ABPMajha.in</id>
     <title>Divasbharatlya Baatmya</title>
-    <desc>The host presents the latest news updates and developments pertaining to society, business, economics, sports and culture from across India.</desc>
+    <desc>The host presents the latest news updates and developments pertaining to society, business, economics, sports and culture from across India.[(96057)] </desc>
     <image>http://cltv.tmsimg.com/assets/p26465008_b_h8_aa.jpg</image>
-    <start>11:30PM</start>
-    <finish>12:30AM</finish>
-    <date>05 August 2026</date>
-  </channel>
-  <channel>
-    <name>ABP News IN</name>
-    <id>ABPNews.in</id>
-    <title>Special Report</title>
-    <desc>The host provides a detailed report featuring the latest updates, top news stories and key developments from across the field of sports.</desc>
-    <image>http://cltv.tmsimg.com/assets/p8871554_b_h8_aa.jpg</image>
-    <start>12:00AM</start>
-    <finish>12:30AM</finish>
-    <date>06 August 2026</date>
-  </channel>
-  <channel>
-    <name>Aaj Tak IN</name>
-    <id>AajTak.in</id>
-    <title>Aajtak Punjab</title>
-    <desc>Aaj Tak covers news in politics, entertainment, Bollywood, business and sports.</desc>
-    <image>http://cltv.tmsimg.com/assets/p18326072_b_h10_ab.jpg</image>
-    <start>12:00AM</start>
-    <finish>12:30AM</finish>
-    <date>06 August 2026</date>
-  </channel>
-  <channel>
-    <name>A&amp;E CA</name>
-    <id>AandE.ca</id>
-    <title>My Strange Arrest</title>
-    <desc>A hyped-up man goes toe to toe with police; a woman flips off fellow drivers while dancing in the street; a pilot is arrested for allegedly stealing a plane; and more.</desc>
-    <image>http://cltv.tmsimg.com/assets/p24550623_b_h8_al.jpg</image>
-    <start>12:00AM</start>
-    <finish>12:30AM</finish>
-    <date>06 August 2026</date>
-  </channel>
-  <channel>
-    <name>Adult Swim CA</name>
-    <id>AdultSwim.ca</id>
-    <title>King of the Hill</title>
-    <desc>Hank's wish is granted when Bobby accidentally shoots a garden gnome Peggy installed in the front yard.</desc>
-    <image>http://cltv.tmsimg.com/assets/p184316_b_h8_ah.jpg</image>
-    <start>12:00AM</start>
-    <finish>12:30AM</finish>
+    <start>12:30AM</start>
+    <finish>01:30AM</finish>
     <date>06 August 2026</date>
   </channel>
   <channel>
@@ -113,11 +43,11 @@
   <channel>
     <name>Al Jazeera English UK</name>
     <id>AlJazeeraEnglish.uk</id>
-    <title>News</title>
-    <desc>Up-to-date news and analysis from around the world.</desc>
-    <image>https://staticqbr-prod-ch.gnp.cloud.sunrisetv.ch/image-service/ImagesEPG/EventImages/p269593_i_h8_aa.jpg</image>
-    <start>12:00AM</start>
-    <finish>12:30AM</finish>
+    <title>Newshour</title>
+    <desc>Latest news and in-depth analysis from around the world.</desc>
+    <image>https://staticqbr-prod-ch.gnp.cloud.sunrisetv.ch/image-service/ImagesEPG/EventImages/p31949330_i_h10_aa.jpg</image>
+    <start>01:00AM</start>
+    <finish>02:00AM</finish>
     <date>06 August 2026</date>
   </channel>
   <channel>
@@ -153,11 +83,11 @@
   <channel>
     <name>Arise News UK</name>
     <id>AriseNews.uk</id>
-    <title>The World</title>
-    <desc>Global News and Analysis of the Political, Business and Sports News of the Day.</desc>
+    <title>ARISE Xchange</title>
+    <desc>Todays News on International Business, Trade, World and Global Business.</desc>
     <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
-    <start>12:00AM</start>
-    <finish>01:00AM</finish>
+    <start>01:00AM</start>
+    <finish>02:00AM</finish>
     <date>06 August 2026</date>
   </channel>
   <channel>
@@ -171,54 +101,34 @@
     <date>06 August 2026</date>
   </channel>
   <channel>
-    <name>Assemblee Nationale CA</name>
-    <id>AssembleeNationale.ca</id>
-    <title>?quilibre</title>
-    <desc>Au fil de t?moignages de parlementaires d'hier ? aujourd'hui, dont Pauline Marois, Christine Labrie, Kariane Bourassa et Lise Th?riault, on explore les d?fis de concilier vie politique et vie familiale ; on d?voile les strat?gies et les sacrifices des ?lus devant ce double mandat et on met en lumi?re les retomb?es de leurs choix.[(96057)] </desc>
-    <image>http://cltv.tmsimg.com/assets/p30125637_b_h10_ab.jpg</image>
-    <start>12:00AM</start>
-    <finish>01:00AM</finish>
-    <date>06 August 2026</date>
-  </channel>
-  <channel>
-    <name>Astro Rania MY</name>
-    <id>AstroRania.my</id>
-    <title>Pernikahan Palsu</title>
-    <desc>Nila had an accident 1 day before her wedding and had to lose her sight. After the incident, Aji cancelled the wedding. Galang, who couldn't bear to see was desperate to propose to Nila.[(96057)] </desc>
-    <image>https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/KDEMS.jpg</image>
-    <start>12:00AM</start>
-    <finish>01:00AM</finish>
-    <date>06 August 2026</date>
-  </channel>
-  <channel>
     <name>BBC4 UK</name>
     <id>BBC4.uk</id>
-    <title>Treasures of Ancient Rome</title>
-    <desc>A look at the artistic legacy of Rome's mad, bad and dangerous emperors, including Claudius's pleasure palace and the cave where Tiberius held wild parties. Deals with adult themes.</desc>
-    <image>https://images.metadata.sky.com/pd-image/71756e6e-57dc-4a62-b655-e4622e7dffbb/16-9</image>
-    <start>11:55PM</start>
-    <finish>12:55AM</finish>
-    <date>05 August 2026</date>
+    <title>Wainwright Walks</title>
+    <desc>Julia Bradbury explores the work of Britain's well-known fell walker and author Alfred Wainwright. She is in the Western Lakes to walk to the summit of the Haystacks fell.</desc>
+    <image>https://images.metadata.sky.com/pd-image/31e39af3-a35b-40a5-95dc-e137ff545adf/16-9</image>
+    <start>12:55AM</start>
+    <finish>01:25AM</finish>
+    <date>06 August 2026</date>
   </channel>
   <channel>
     <name>BBC News UK</name>
     <id>BBCNews.uk</id>
     <title>BBC News</title>
     <desc>The latest news from the BBC.</desc>
-    <image>https://images.metadata.sky.com/pd-image/ec076997-7410-4117-9607-1a3d53a90760/16-9</image>
-    <start>12:00AM</start>
-    <finish>12:30AM</finish>
+    <image>https://images.metadata.sky.com/pd-image/7cac653f-f7f0-4f1e-920c-66362d911cea/16-9</image>
+    <start>01:00AM</start>
+    <finish>01:30AM</finish>
     <date>06 August 2026</date>
   </channel>
   <channel>
     <name>BBC One NL</name>
     <id>BBCOne.nl</id>
-    <title>You're Cordially Invited</title>
-    <desc>A woman planning her sister's ideal wedding and the father of a bride-to-be discover their destination weddings at a remote resort are double-booked. When both parties decide to share the small venue, chaos ensues and disaster awaits.</desc>
+    <title>Weather for the Week Ahead</title>
+    <desc>Detailed weather forecast.</desc>
     <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
-    <start>10:40PM</start>
-    <finish>12:25AM</finish>
-    <date>05 August 2026</date>
+    <start>01:10AM</start>
+    <finish>01:15AM</finish>
+    <date>06 August 2026</date>
   </channel>
   <channel>
     <name>BBC Parliament UK</name>
@@ -233,11 +143,11 @@
   <channel>
     <name>BBC Two NL</name>
     <id>BBCTwo.nl</id>
-    <title>Devil in the Family: The Fall of Ruby Franke</title>
-    <desc>The Franks rise quickly in life coach Jodi's organisation, but all is not as it seems as mother Ruby starts banishing family members from their home.</desc>
+    <title>Amityville: An Origin Story</title>
+    <desc>A year before the Lutzes moved into 112 Ocean Ave., the DeFeo family is found shot to death under strange circumstances in the same house. The lone survivor, Ronnie DeFeo Jr, is accused of murder, but mob ties and paranormal theories cloud the case.</desc>
     <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
-    <start>12:05AM</start>
-    <finish>12:55AM</finish>
+    <start>12:55AM</start>
+    <finish>01:50AM</finish>
     <date>06 August 2026</date>
   </channel>
   <channel>
@@ -291,16 +201,6 @@
     <date>05 August 2026</date>
   </channel>
   <channel>
-    <name>CBC Toronto CA</name>
-    <id>CBC.ca</id>
-    <title>Coronation Street</title>
-    <desc>The working-class residents of Weatherfield see their fair share of drama as they make their way about their daily lives.</desc>
-    <image>https://tv.bell.ca/api/artwork/v3/artworks/artworkSelection/ASSET/TMS/EP000010669497/THUMBNAIL/500x373</image>
-    <start>12:00AM</start>
-    <finish>12:30AM</finish>
-    <date>06 August 2026</date>
-  </channel>
-  <channel>
     <name>CBC News CA</name>
     <id>CBCNews.ca</id>
     <title>Live: Hanomansing Tonight</title>
@@ -311,53 +211,13 @@
     <date>06 August 2026</date>
   </channel>
   <channel>
-    <name>CBC Ottawa CA</name>
-    <id>CBCOttawa.ca</id>
-    <title>Coronation Street</title>
-    <desc>The working-class residents of Weatherfield see their fair share of drama as they make their way about their daily lives.</desc>
-    <image>http://cltv.tmsimg.com/assets/p31898227_b_h11_aa.jpg</image>
-    <start>12:00AM</start>
-    <finish>12:30AM</finish>
-    <date>06 August 2026</date>
-  </channel>
-  <channel>
-    <name>CBC Vancouver CA</name>
-    <id>CBUT.ca</id>
-    <title>Call the Midwife</title>
-    <desc>Nancy focuses on her final midwifery examinations; it is all hands on deck as the Nonnatus team prepares for what will inevitably be a busy Christmas; the maternity home is filled with expectant moms-to-be, each with their own challenging case.[(96057)] </desc>
-    <image>https://tv.bell.ca/api/artwork/v3/artworks/artworkSelection/ASSET/TMS/EP015685700134/THUMBNAIL/500x373</image>
-    <start>12:00AM</start>
-    <finish>01:00AM</finish>
-    <date>06 August 2026</date>
-  </channel>
-  <channel>
     <name>CBeebies UK</name>
     <id>CBeebies.uk</id>
     <title>..programmes start at 6.00am</title>
     <desc></desc>
     <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
-    <start>06:58PM</start>
-    <finish>12:58AM</finish>
-    <date>05 August 2026</date>
-  </channel>
-  <channel>
-    <name>CBC Yellowknife CA</name>
-    <id>CFYK.ca</id>
-    <title>Escape to the Country</title>
-    <desc>Helping prospective buyers find their dream home in the country.</desc>
-    <image>http://cltv.tmsimg.com/assets/p379352_b_h8_bq.jpg</image>
-    <start>11:30PM</start>
-    <finish>12:30AM</finish>
-    <date>05 August 2026</date>
-  </channel>
-  <channel>
-    <name>CGTN-Documentary En CN</name>
-    <id>CGTNDocu.cn</id>
-    <title>Journeys and Discoveries</title>
-    <desc>A documentary series showcasing the history of China and its people.[(96057)] </desc>
-    <image>https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/13/89/33/46/65/1389334665.jpg</image>
-    <start>12:00AM</start>
-    <finish>12:30AM</finish>
+    <start>12:58AM</start>
+    <finish>05:30AM</finish>
     <date>06 August 2026</date>
   </channel>
   <channel>
@@ -371,54 +231,14 @@
     <date>06 August 2026</date>
   </channel>
   <channel>
-    <name>CNBC Awaaz IN</name>
-    <id>CNBCAwaaz.in</id>
-    <title>Your Money</title>
-    <desc>The host presents business updates and talks to experts in the field of finance who provide key stock market tips and insights.</desc>
-    <image>http://cltv.tmsimg.com/assets/p29118077_b_h8_aa.jpg</image>
-    <start>11:50PM</start>
-    <finish>12:10AM</finish>
-    <date>05 August 2026</date>
-  </channel>
-  <channel>
-    <name>CPAC Francais CA</name>
-    <id>CPAC.ca</id>
-    <title>Dossier public</title>
-    <desc>Couverture int?grale des conf?rences, des enqu?tes et des d?lib?rations parlementaires.[(96057)] </desc>
-    <image>http://cltv.tmsimg.com/assets/p32121134_b_h8_aa.jpg</image>
-    <start>12:00AM</start>
-    <finish>01:00AM</finish>
-    <date>06 August 2026</date>
-  </channel>
-  <channel>
-    <name>CSPAN US</name>
-    <id>CSPAN.us</id>
-    <title>Public Affairs Events</title>
-    <desc>Public affairs events, congressional hearings, speeches, and interviews.[(96057)] </desc>
-    <image>http://cltv.tmsimg.com/assets/p13343903_b_h10_ab.jpg?w=960&amp;h=540</image>
-    <start>11:00PM</start>
-    <finish>01:00AM</finish>
-    <date>05 August 2026</date>
-  </channel>
-  <channel>
     <name>CSPAN 2 US</name>
     <id>CSPAN2.us</id>
-    <title>Live: U.S. Senate</title>
-    <desc>Gavel-to-gavel and uninterrupted live coverage of the U.S. Senate from the Capitol Building in Washington, D.C.</desc>
-    <image>http://cltv.tmsimg.com/assets/p29100997_b_h8_aa.jpg?w=960&amp;h=540</image>
-    <start>10:36PM</start>
-    <finish>12:30AM</finish>
-    <date>05 August 2026</date>
-  </channel>
-  <channel>
-    <name>CSPAN 3 US</name>
-    <id>CSPAN3.us</id>
     <title>Public Affairs Events</title>
     <desc>Public affairs events, congressional hearings, speeches, and interviews.[(96057)] </desc>
     <image>http://cltv.tmsimg.com/assets/p13343903_b_h10_ab.jpg?w=960&amp;h=540</image>
-    <start>11:00PM</start>
-    <finish>01:00AM</finish>
-    <date>05 August 2026</date>
+    <start>12:30AM</start>
+    <finish>02:00AM</finish>
+    <date>06 August 2026</date>
   </channel>
   <channel>
     <name>Channel News Asia IN</name>
@@ -431,54 +251,24 @@
     <date>05 August 2026</date>
   </channel>
   <channel>
-    <name>Classica DE</name>
-    <id>Classica.de</id>
-    <title>Richard Strauss ? Ein Heldenleben: Op. 40</title>
-    <desc>Franz Welser-M?st dirigiert das Cleveland Orchestra in einem Konzert mit Richard Strauss' Tondichtung &quot;Ein Heldenleben&quot;, Op. 40. Der Violin-Solist ist David Radzynski. Aufgenommen in der Severance Hall in Cleveland im Februar 2023. Strauss erregte im Alter von 34 Jahren gro?es Aufsehen, indem er sich selbst als zentrale Figur seines Tongedichts inszenierte. Allgemein als autobiografisch angesehen, enth?lt das Werk ?ber drei?ig Zitate aus Strauss' fr?heren Kompositionen.</desc>
-    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
-    <start>11:43PM</start>
-    <finish>12:38AM</finish>
-    <date>05 August 2026</date>
-  </channel>
-  <channel>
     <name>Classica IT</name>
     <id>Classica.it</id>
-    <title>Almanacco di Bellezza</title>
-    <desc>Piero Maranghi, direttore di Sky Classica, passa in rassegna, anniversari e ricorrenze legati la mondo dell'arte, della cultura, della storia e dello sport. In studio con lui, il collezionista ed esperto d'arte Leonardo Piccinini.</desc>
-    <image>https://guidatv.sky.it/uuid/Intrattenimento_Scene_7GZn0K86e.png</image>
-    <start>12:00AM</start>
-    <finish>01:00AM</finish>
-    <date>06 August 2026</date>
-  </channel>
-  <channel>
-    <name>Comet US</name>
-    <id>Comet.us</id>
-    <title>Grimm</title>
-    <desc>While investigating a drowning, Nick and Hank discover a group of water-bound Wesen; Rosalee unpacks at Monroe's; Renard comes to a realization about the royal baby.[(96057)] </desc>
-    <image>http://cltv.tmsimg.com/assets/p8677098_b_h10_ac.jpg?w=960&amp;h=540</image>
-    <start>12:00AM</start>
-    <finish>01:00AM</finish>
-    <date>06 August 2026</date>
-  </channel>
-  <channel>
-    <name>Cooking Channel US</name>
-    <id>CookingChannel.us</id>
-    <title>Unique Sweets</title>
-    <desc>Sweet brunch specialties; Hawaiian flavors with Italian techniques to make frozen sweets; out-of-the-box dessert creations.</desc>
-    <image>http://cltv.tmsimg.com/assets/p8567893_b_h10_ac.jpg?w=960&amp;h=540</image>
-    <start>12:00AM</start>
-    <finish>12:30AM</finish>
+    <title>ArtiGENERALI - Almanacco di Letteratura</title>
+    <desc>Una serie di Almanacco di Bellezza dedicata alle arti dell'uomo, in collaborazione con il gruppo Generali - : la letteratura - Piero Maranghi e Leonardo Piccinini tra i luoghi di Dino Buzzati \(Milano, Belluno - 2026\).</desc>
+    <image>https://guidatv.sky.it/uuid/d31a4639-74d7-4e73-b0ea-b0c95e88a21e/16-9?cgid=260&amp;territory=IT&amp;md5ChecksumParam=5c88ab32699c12c9b358a8a91cefbaa9</image>
+    <start>01:00AM</start>
+    <finish>02:00AM</finish>
     <date>06 August 2026</date>
   </channel>
   <channel>
     <name>DD News IN</name>
     <id>DDNews.in</id>
-    <title>Samachar</title>
-    <desc>Presents recent news, updates and developments from across the world.</desc>
-    <image>http://cltv.tmsimg.com/assets/p283894_b_h8_aa.jpg</image>
-    <start>11:30PM</start>
-    <finish>12:30AM</finish>
-    <date>05 August 2026</date>
+    <title>Do Took</title>
+    <desc>Important figures come together to share their opinions about political and social topics from India.[(96057)] </desc>
+    <image>http://cltv.tmsimg.com/assets/p12724434_b_h8_ab.jpg</image>
+    <start>12:30AM</start>
+    <finish>01:30AM</finish>
+    <date>06 August 2026</date>
   </channel>
   <channel>
     <name>DD Sports IN</name>
@@ -493,21 +283,21 @@
   <channel>
     <name>Dubai One En AE</name>
     <id>DubaiOneEn.ae</id>
-    <title>Movie</title>
-    <desc>Movie to be announced.</desc>
-    <image>http://cltv.tmsimg.com/assets/p17723347_b_h8_aa.jpg?w=960&amp;h=540</image>
-    <start>10:30PM</start>
-    <finish>12:30AM</finish>
-    <date>05 August 2026</date>
+    <title>DXB Today</title>
+    <desc>The presenters review reports about different aspects of living in Dubai, spotlighting the latest events, tastemakers, trend-setters and innovation in the city.[(96057)] </desc>
+    <image>http://cltv.tmsimg.com/assets/p32242109_b_h10_ab.jpg?w=960&amp;h=540</image>
+    <start>12:30AM</start>
+    <finish>01:30AM</finish>
+    <date>06 August 2026</date>
   </channel>
   <channel>
     <name>EWTN UK</name>
     <id>EWTN.uk</id>
-    <title>Chaplet of St. Michael</title>
-    <desc>Mother Angelica and the Nuns of Our Lady of the Angels Monastery ask for the intercession of the Prince of the Heavenly Hosts and the nine Choirs of Angels, as they pray the chaplet of St. Michael.</desc>
+    <title>EWTN Live</title>
+    <desc>Every Wednesday night, Fr. Mitch Pacwa, interviews various guests seeking to teach and prepare us for evangelism. Learn more about your faith and reawaken your desire to bring others to the Church.</desc>
     <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
-    <start>12:00AM</start>
-    <finish>12:30AM</finish>
+    <start>01:00AM</start>
+    <finish>02:00AM</finish>
     <date>06 August 2026</date>
   </channel>
   <channel>
@@ -515,9 +305,9 @@
     <id>EuroNews.uk</id>
     <title>The European Debrief</title>
     <desc>Live headlines,breaking news, analysis and interviews from Europe's News Centre.</desc>
-    <image>https://images.metadata.sky.com/pd-image/1c856424-9b24-4e9e-8ce5-a38142d3b1ce/16-9</image>
-    <start>12:00AM</start>
-    <finish>12:15AM</finish>
+    <image>https://images.metadata.sky.com/pd-image/b00513c7-3aa7-4a6a-a494-5369744fdfe9/16-9</image>
+    <start>01:00AM</start>
+    <finish>01:15AM</finish>
     <date>06 August 2026</date>
   </channel>
   <channel>
@@ -526,18 +316,8 @@
     <title>Europe le debrief</title>
     <desc>Toutes les demi-heures, un tr?s vaste panel d'informations europ?ennes et internationales est pr?sent? et d?taill?, images ? l'appui.</desc>
     <image>https://tv7j.cdnartwhere.eu/cache/i3/78/15/BcFLDoMgEADQu8y6AhIE5CxsZmTql0g6NmnSeHff-wOhMCRYrqtJyjrrteLMoiqXFbv2YZFO5FDTcX5L1jS6QBxHDAM79EQxUO-tj2zL9DaktjbDCyrKDgl6Y91viAbuBw.jpg</image>
-    <start>12:00AM</start>
-    <finish>12:14AM</finish>
-    <date>06 August 2026</date>
-  </channel>
-  <channel>
-    <name>Fox News US</name>
-    <id>FoxNews.us</id>
-    <title>Live: The Ingraham Angle</title>
-    <desc>Laura Ingraham aims to cut through the Washington chatter to speak directly with unexpected voices and the actual people who are impacted by the news of the day.[(96057)] </desc>
-    <image>http://cltv.tmsimg.com/assets/p14696416_b_h8_aa.jpg?w=960&amp;h=540</image>
-    <start>12:00AM</start>
-    <finish>01:00AM</finish>
+    <start>01:00AM</start>
+    <finish>01:15AM</finish>
     <date>06 August 2026</date>
   </channel>
   <channel>
@@ -546,8 +326,8 @@
     <title>Le journal</title>
     <desc>Toutes les heures, 24 h sur 24, un journal de 10 minutes est pr?sent? en direct de la salle de r?daction.</desc>
     <image>https://staticqbr-prod-ch.gnp.cloud.sunrisetv.ch/image-service/ImagesEPG/EventImages/p8187192_bd_h8_ab.jpg</image>
-    <start>12:00AM</start>
-    <finish>12:14AM</finish>
+    <start>01:00AM</start>
+    <finish>01:14AM</finish>
     <date>06 August 2026</date>
   </channel>
 </tv>
