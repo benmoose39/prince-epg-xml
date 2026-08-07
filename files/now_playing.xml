@@ -3,21 +3,11 @@
   <channel>
     <name>BBC One NL</name>
     <id>BBCOne.nl</id>
-    <title>Newsday</title>
-    <desc>The latest international news from London and Singapore.</desc>
+    <title>Breakfast</title>
+    <desc>The BBC's Breakfast programme features the latest news, sport, business, weather and other items on a daily basis.</desc>
     <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
-    <start>04:00AM</start>
-    <finish>04:30AM</finish>
-    <date>07 August 2026</date>
-  </channel>
-  <channel>
-    <name>BBC Parliament UK</name>
-    <id>BBCParliament.uk</id>
-    <title>Joins BBC News</title>
-    <desc>BBC Parliament joins the BBC's rolling news channel.[(96057)] </desc>
-    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
-    <start>12:00AM</start>
-    <finish>06:00AM</finish>
+    <start>06:00AM</start>
+    <finish>09:30AM</finish>
     <date>07 August 2026</date>
   </channel>
   <channel>
@@ -29,15 +19,5 @@
     <start>02:40AM</start>
     <finish>06:30AM</finish>
     <date>07 August 2026</date>
-  </channel>
-  <channel>
-    <name>CBBC UK</name>
-    <id>CBBC.uk</id>
-    <title>The Dumping Ground</title>
-    <desc>Growing up in a care home brings all sorts of tough challenges, but these kids know?that if they stick together, they can get through anything life throws at them.[(96057)] </desc>
-    <image>https://img.freeviewplay.tv/p20ec03743d1313077bceefb472e25a08</image>
-    <start>06:55PM</start>
-    <finish>05:30AM</finish>
-    <date>06 August 2026</date>
   </channel>
 </tv>
