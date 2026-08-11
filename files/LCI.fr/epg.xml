@@ -1,2 +1,613 @@
 <?xml version="1.0" ?>
-<tv/>
+<tv>
+  <channel>
+    <name>LCI Fr</name>
+    <id>LCI.fr</id>
+    <title>On ne plaisante pas avec l'info</title>
+    <desc></desc>
+    <image>http://static-cdn.tv.sfr.net/data/img/pl/0/3/5/15531530.jpg</image>
+    <start>08:00AM</start>
+    <finish>11:00AM</finish>
+    <date>11 August 2026</date>
+  </channel>
+  <channel>
+    <name>LCI Fr</name>
+    <id>LCI.fr</id>
+    <title>LCI midi</title>
+    <desc></desc>
+    <image>http://static-cdn.tv.sfr.net/data/img/pl/5/5/5/15531555.jpg</image>
+    <start>11:00AM</start>
+    <finish>02:00PM</finish>
+    <date>11 August 2026</date>
+  </channel>
+  <channel>
+    <name>LCI Fr</name>
+    <id>LCI.fr</id>
+    <title>LCI Direct</title>
+    <desc></desc>
+    <image>http://static-cdn.tv.sfr.net/data/img/pl/5/1/5/15531515.jpg</image>
+    <start>02:00PM</start>
+    <finish>04:00PM</finish>
+    <date>11 August 2026</date>
+  </channel>
+  <channel>
+    <name>LCI Fr</name>
+    <id>LCI.fr</id>
+    <title>Le grand dossier</title>
+    <desc></desc>
+    <image>http://static-cdn.tv.sfr.net/data/img/pl/1/1/5/15531511.jpg</image>
+    <start>04:00PM</start>
+    <finish>05:00PM</finish>
+    <date>11 August 2026</date>
+  </channel>
+  <channel>
+    <name>LCI Fr</name>
+    <id>LCI.fr</id>
+    <title>24 Heures</title>
+    <desc></desc>
+    <image>http://static-cdn.tv.sfr.net/data/img/pl/7/1/5/15531517.jpg</image>
+    <start>05:00PM</start>
+    <finish>07:00PM</finish>
+    <date>11 August 2026</date>
+  </channel>
+  <channel>
+    <name>LCI Fr</name>
+    <id>LCI.fr</id>
+    <title>Face ? Darius Rochebin</title>
+    <desc></desc>
+    <image>http://static-cdn.tv.sfr.net/data/img/pl/2/8/0/15186082.jpg</image>
+    <start>07:00PM</start>
+    <finish>09:00PM</finish>
+    <date>11 August 2026</date>
+  </channel>
+  <channel>
+    <name>LCI Fr</name>
+    <id>LCI.fr</id>
+    <title>Le 22H</title>
+    <desc></desc>
+    <image>http://static-cdn.tv.sfr.net/data/img/pl/8/1/5/15531518.jpg</image>
+    <start>09:00PM</start>
+    <finish>11:00PM</finish>
+    <date>11 August 2026</date>
+  </channel>
+  <channel>
+    <name>LCI Fr</name>
+    <id>LCI.fr</id>
+    <title>LCI Nuit</title>
+    <desc></desc>
+    <image>http://static-cdn.tv.sfr.net/data/img/pl/4/7/1/15616174.jpg</image>
+    <start>11:00PM</start>
+    <finish>02:30AM</finish>
+    <date>11 August 2026</date>
+  </channel>
+  <channel>
+    <name>LCI Fr</name>
+    <id>LCI.fr</id>
+    <title>Histoires criminelles</title>
+    <desc></desc>
+    <image>http://static-cdn.tv.sfr.net/data/img/pl/9/1/5/15531519.jpg</image>
+    <start>02:30AM</start>
+    <finish>03:30AM</finish>
+    <date>12 August 2026</date>
+  </channel>
+  <channel>
+    <name>LCI Fr</name>
+    <id>LCI.fr</id>
+    <title>Les grands reportages LCI</title>
+    <desc></desc>
+    <image>http://static-cdn.tv.sfr.net/data/img/pl/1/6/2/15183261.jpg</image>
+    <start>03:30AM</start>
+    <finish>04:00AM</finish>
+    <date>12 August 2026</date>
+  </channel>
+  <channel>
+    <name>LCI Fr</name>
+    <id>LCI.fr</id>
+    <title>Le 5H Info</title>
+    <desc></desc>
+    <image>http://static-cdn.tv.sfr.net/data/img/pl/1/7/0/15186071.jpg</image>
+    <start>04:00AM</start>
+    <finish>04:30AM</finish>
+    <date>12 August 2026</date>
+  </channel>
+  <channel>
+    <name>LCI Fr</name>
+    <id>LCI.fr</id>
+    <title>Le 5H30 Info</title>
+    <desc></desc>
+    <image>http://static-cdn.tv.sfr.net/data/img/pl/3/8/0/15186083.jpg</image>
+    <start>04:30AM</start>
+    <finish>05:00AM</finish>
+    <date>12 August 2026</date>
+  </channel>
+  <channel>
+    <name>LCI Fr</name>
+    <id>LCI.fr</id>
+    <title>La matinale LCI</title>
+    <desc></desc>
+    <image>http://static-cdn.tv.sfr.net/data/img/pl/4/3/3/15533334.jpg</image>
+    <start>05:00AM</start>
+    <finish>08:00AM</finish>
+    <date>12 August 2026</date>
+  </channel>
+  <channel>
+    <name>LCI Fr</name>
+    <id>LCI.fr</id>
+    <title>On ne plaisante pas avec l'info</title>
+    <desc></desc>
+    <image>http://static-cdn.tv.sfr.net/data/img/pl/0/3/5/15531530.jpg</image>
+    <start>08:00AM</start>
+    <finish>11:00AM</finish>
+    <date>12 August 2026</date>
+  </channel>
+  <channel>
+    <name>LCI Fr</name>
+    <id>LCI.fr</id>
+    <title>LCI midi</title>
+    <desc></desc>
+    <image>http://static-cdn.tv.sfr.net/data/img/pl/5/5/5/15531555.jpg</image>
+    <start>11:00AM</start>
+    <finish>02:00PM</finish>
+    <date>12 August 2026</date>
+  </channel>
+  <channel>
+    <name>LCI Fr</name>
+    <id>LCI.fr</id>
+    <title>LCI Direct</title>
+    <desc></desc>
+    <image>http://static-cdn.tv.sfr.net/data/img/pl/5/1/5/15531515.jpg</image>
+    <start>02:00PM</start>
+    <finish>04:00PM</finish>
+    <date>12 August 2026</date>
+  </channel>
+  <channel>
+    <name>LCI Fr</name>
+    <id>LCI.fr</id>
+    <title>Le grand dossier</title>
+    <desc></desc>
+    <image>http://static-cdn.tv.sfr.net/data/img/pl/1/1/5/15531511.jpg</image>
+    <start>04:00PM</start>
+    <finish>05:00PM</finish>
+    <date>12 August 2026</date>
+  </channel>
+  <channel>
+    <name>LCI Fr</name>
+    <id>LCI.fr</id>
+    <title>24 Heures</title>
+    <desc></desc>
+    <image>http://static-cdn.tv.sfr.net/data/img/pl/7/1/5/15531517.jpg</image>
+    <start>05:00PM</start>
+    <finish>07:00PM</finish>
+    <date>12 August 2026</date>
+  </channel>
+  <channel>
+    <name>LCI Fr</name>
+    <id>LCI.fr</id>
+    <title>Face ? Darius Rochebin</title>
+    <desc></desc>
+    <image>http://static-cdn.tv.sfr.net/data/img/pl/2/8/0/15186082.jpg</image>
+    <start>07:00PM</start>
+    <finish>09:00PM</finish>
+    <date>12 August 2026</date>
+  </channel>
+  <channel>
+    <name>LCI Fr</name>
+    <id>LCI.fr</id>
+    <title>Le 22H</title>
+    <desc></desc>
+    <image>http://static-cdn.tv.sfr.net/data/img/pl/8/1/5/15531518.jpg</image>
+    <start>09:00PM</start>
+    <finish>11:00PM</finish>
+    <date>12 August 2026</date>
+  </channel>
+  <channel>
+    <name>LCI Fr</name>
+    <id>LCI.fr</id>
+    <title>LCI Nuit</title>
+    <desc></desc>
+    <image>http://static-cdn.tv.sfr.net/data/img/pl/4/7/1/15616174.jpg</image>
+    <start>11:00PM</start>
+    <finish>02:30AM</finish>
+    <date>12 August 2026</date>
+  </channel>
+  <channel>
+    <name>LCI Fr</name>
+    <id>LCI.fr</id>
+    <title>Histoires criminelles</title>
+    <desc></desc>
+    <image>http://static-cdn.tv.sfr.net/data/img/pl/9/1/5/15531519.jpg</image>
+    <start>02:30AM</start>
+    <finish>03:30AM</finish>
+    <date>13 August 2026</date>
+  </channel>
+  <channel>
+    <name>LCI Fr</name>
+    <id>LCI.fr</id>
+    <title>Les grands reportages LCI</title>
+    <desc></desc>
+    <image>http://static-cdn.tv.sfr.net/data/img/pl/1/6/2/15183261.jpg</image>
+    <start>03:30AM</start>
+    <finish>04:00AM</finish>
+    <date>13 August 2026</date>
+  </channel>
+  <channel>
+    <name>LCI Fr</name>
+    <id>LCI.fr</id>
+    <title>Le 5H Info</title>
+    <desc></desc>
+    <image>http://static-cdn.tv.sfr.net/data/img/pl/1/7/0/15186071.jpg</image>
+    <start>04:00AM</start>
+    <finish>04:30AM</finish>
+    <date>13 August 2026</date>
+  </channel>
+  <channel>
+    <name>LCI Fr</name>
+    <id>LCI.fr</id>
+    <title>Le 5H30 Info</title>
+    <desc></desc>
+    <image>http://static-cdn.tv.sfr.net/data/img/pl/3/8/0/15186083.jpg</image>
+    <start>04:30AM</start>
+    <finish>05:00AM</finish>
+    <date>13 August 2026</date>
+  </channel>
+  <channel>
+    <name>LCI Fr</name>
+    <id>LCI.fr</id>
+    <title>La matinale LCI</title>
+    <desc></desc>
+    <image>http://static-cdn.tv.sfr.net/data/img/pl/4/3/3/15533334.jpg</image>
+    <start>05:00AM</start>
+    <finish>08:00AM</finish>
+    <date>13 August 2026</date>
+  </channel>
+  <channel>
+    <name>LCI Fr</name>
+    <id>LCI.fr</id>
+    <title>On ne plaisante pas avec l'info</title>
+    <desc></desc>
+    <image>http://static-cdn.tv.sfr.net/data/img/pl/0/3/5/15531530.jpg</image>
+    <start>08:00AM</start>
+    <finish>11:00AM</finish>
+    <date>13 August 2026</date>
+  </channel>
+  <channel>
+    <name>LCI Fr</name>
+    <id>LCI.fr</id>
+    <title>LCI midi</title>
+    <desc></desc>
+    <image>http://static-cdn.tv.sfr.net/data/img/pl/5/5/5/15531555.jpg</image>
+    <start>11:00AM</start>
+    <finish>02:00PM</finish>
+    <date>13 August 2026</date>
+  </channel>
+  <channel>
+    <name>LCI Fr</name>
+    <id>LCI.fr</id>
+    <title>LCI Direct</title>
+    <desc></desc>
+    <image>http://static-cdn.tv.sfr.net/data/img/pl/5/1/5/15531515.jpg</image>
+    <start>02:00PM</start>
+    <finish>04:00PM</finish>
+    <date>13 August 2026</date>
+  </channel>
+  <channel>
+    <name>LCI Fr</name>
+    <id>LCI.fr</id>
+    <title>Le grand dossier</title>
+    <desc></desc>
+    <image>http://static-cdn.tv.sfr.net/data/img/pl/1/1/5/15531511.jpg</image>
+    <start>04:00PM</start>
+    <finish>05:00PM</finish>
+    <date>13 August 2026</date>
+  </channel>
+  <channel>
+    <name>LCI Fr</name>
+    <id>LCI.fr</id>
+    <title>24 Heures</title>
+    <desc></desc>
+    <image>http://static-cdn.tv.sfr.net/data/img/pl/7/1/5/15531517.jpg</image>
+    <start>05:00PM</start>
+    <finish>07:00PM</finish>
+    <date>13 August 2026</date>
+  </channel>
+  <channel>
+    <name>LCI Fr</name>
+    <id>LCI.fr</id>
+    <title>Face ? Darius Rochebin</title>
+    <desc></desc>
+    <image>http://static-cdn.tv.sfr.net/data/img/pl/2/8/0/15186082.jpg</image>
+    <start>07:00PM</start>
+    <finish>09:00PM</finish>
+    <date>13 August 2026</date>
+  </channel>
+  <channel>
+    <name>LCI Fr</name>
+    <id>LCI.fr</id>
+    <title>Le 22H</title>
+    <desc></desc>
+    <image>http://static-cdn.tv.sfr.net/data/img/pl/8/1/5/15531518.jpg</image>
+    <start>09:00PM</start>
+    <finish>11:00PM</finish>
+    <date>13 August 2026</date>
+  </channel>
+  <channel>
+    <name>LCI Fr</name>
+    <id>LCI.fr</id>
+    <title>LCI Nuit</title>
+    <desc></desc>
+    <image>http://static-cdn.tv.sfr.net/data/img/pl/4/7/1/15616174.jpg</image>
+    <start>11:00PM</start>
+    <finish>02:30AM</finish>
+    <date>13 August 2026</date>
+  </channel>
+  <channel>
+    <name>LCI Fr</name>
+    <id>LCI.fr</id>
+    <title>Histoires criminelles</title>
+    <desc></desc>
+    <image>http://static-cdn.tv.sfr.net/data/img/pl/9/1/5/15531519.jpg</image>
+    <start>02:30AM</start>
+    <finish>03:30AM</finish>
+    <date>14 August 2026</date>
+  </channel>
+  <channel>
+    <name>LCI Fr</name>
+    <id>LCI.fr</id>
+    <title>Les grands reportages LCI</title>
+    <desc></desc>
+    <image>http://static-cdn.tv.sfr.net/data/img/pl/1/6/2/15183261.jpg</image>
+    <start>03:30AM</start>
+    <finish>04:00AM</finish>
+    <date>14 August 2026</date>
+  </channel>
+  <channel>
+    <name>LCI Fr</name>
+    <id>LCI.fr</id>
+    <title>Le 5H Info</title>
+    <desc></desc>
+    <image>http://static-cdn.tv.sfr.net/data/img/pl/1/7/0/15186071.jpg</image>
+    <start>04:00AM</start>
+    <finish>04:30AM</finish>
+    <date>14 August 2026</date>
+  </channel>
+  <channel>
+    <name>LCI Fr</name>
+    <id>LCI.fr</id>
+    <title>Le 5H30 Info</title>
+    <desc></desc>
+    <image>http://static-cdn.tv.sfr.net/data/img/pl/3/8/0/15186083.jpg</image>
+    <start>04:30AM</start>
+    <finish>05:00AM</finish>
+    <date>14 August 2026</date>
+  </channel>
+  <channel>
+    <name>LCI Fr</name>
+    <id>LCI.fr</id>
+    <title>La matinale LCI</title>
+    <desc></desc>
+    <image>http://static-cdn.tv.sfr.net/data/img/pl/4/3/3/15533334.jpg</image>
+    <start>05:00AM</start>
+    <finish>08:00AM</finish>
+    <date>14 August 2026</date>
+  </channel>
+  <channel>
+    <name>LCI Fr</name>
+    <id>LCI.fr</id>
+    <title>On ne plaisante pas avec l'info</title>
+    <desc></desc>
+    <image>http://static-cdn.tv.sfr.net/data/img/pl/0/3/5/15531530.jpg</image>
+    <start>08:00AM</start>
+    <finish>11:00AM</finish>
+    <date>14 August 2026</date>
+  </channel>
+  <channel>
+    <name>LCI Fr</name>
+    <id>LCI.fr</id>
+    <title>LCI midi</title>
+    <desc></desc>
+    <image>http://static-cdn.tv.sfr.net/data/img/pl/5/5/5/15531555.jpg</image>
+    <start>11:00AM</start>
+    <finish>02:00PM</finish>
+    <date>14 August 2026</date>
+  </channel>
+  <channel>
+    <name>LCI Fr</name>
+    <id>LCI.fr</id>
+    <title>LCI Direct</title>
+    <desc></desc>
+    <image>http://static-cdn.tv.sfr.net/data/img/pl/5/1/5/15531515.jpg</image>
+    <start>02:00PM</start>
+    <finish>04:00PM</finish>
+    <date>14 August 2026</date>
+  </channel>
+  <channel>
+    <name>LCI Fr</name>
+    <id>LCI.fr</id>
+    <title>Le grand dossier</title>
+    <desc></desc>
+    <image>http://static-cdn.tv.sfr.net/data/img/pl/1/1/5/15531511.jpg</image>
+    <start>04:00PM</start>
+    <finish>05:00PM</finish>
+    <date>14 August 2026</date>
+  </channel>
+  <channel>
+    <name>LCI Fr</name>
+    <id>LCI.fr</id>
+    <title>24 Heures</title>
+    <desc></desc>
+    <image>http://static-cdn.tv.sfr.net/data/img/pl/7/1/5/15531517.jpg</image>
+    <start>05:00PM</start>
+    <finish>07:00PM</finish>
+    <date>14 August 2026</date>
+  </channel>
+  <channel>
+    <name>LCI Fr</name>
+    <id>LCI.fr</id>
+    <title>Face ?</title>
+    <desc></desc>
+    <image>http://static-cdn.tv.sfr.net/data/img/pl/2/1/4/15178412.jpg</image>
+    <start>07:00PM</start>
+    <finish>09:00PM</finish>
+    <date>14 August 2026</date>
+  </channel>
+  <channel>
+    <name>LCI Fr</name>
+    <id>LCI.fr</id>
+    <title>Le 22H</title>
+    <desc></desc>
+    <image>http://static-cdn.tv.sfr.net/data/img/pl/8/1/5/15531518.jpg</image>
+    <start>09:00PM</start>
+    <finish>11:00PM</finish>
+    <date>14 August 2026</date>
+  </channel>
+  <channel>
+    <name>LCI Fr</name>
+    <id>LCI.fr</id>
+    <title>LCI Nuit</title>
+    <desc></desc>
+    <image>http://static-cdn.tv.sfr.net/data/img/pl/4/7/1/15616174.jpg</image>
+    <start>11:00PM</start>
+    <finish>02:30AM</finish>
+    <date>14 August 2026</date>
+  </channel>
+  <channel>
+    <name>LCI Fr</name>
+    <id>LCI.fr</id>
+    <title>Histoires criminelles</title>
+    <desc></desc>
+    <image>http://static-cdn.tv.sfr.net/data/img/pl/9/1/5/15531519.jpg</image>
+    <start>02:30AM</start>
+    <finish>03:30AM</finish>
+    <date>15 August 2026</date>
+  </channel>
+  <channel>
+    <name>LCI Fr</name>
+    <id>LCI.fr</id>
+    <title>Les grands reportages LCI</title>
+    <desc></desc>
+    <image>http://static-cdn.tv.sfr.net/data/img/pl/1/6/2/15183261.jpg</image>
+    <start>03:30AM</start>
+    <finish>04:00AM</finish>
+    <date>15 August 2026</date>
+  </channel>
+  <channel>
+    <name>LCI Fr</name>
+    <id>LCI.fr</id>
+    <title>Le 5H Info</title>
+    <desc></desc>
+    <image>http://static-cdn.tv.sfr.net/data/img/pl/1/7/0/15186071.jpg</image>
+    <start>04:00AM</start>
+    <finish>04:30AM</finish>
+    <date>15 August 2026</date>
+  </channel>
+  <channel>
+    <name>LCI Fr</name>
+    <id>LCI.fr</id>
+    <title>Le 5H30 Info</title>
+    <desc></desc>
+    <image>http://static-cdn.tv.sfr.net/data/img/pl/3/8/0/15186083.jpg</image>
+    <start>04:30AM</start>
+    <finish>05:00AM</finish>
+    <date>15 August 2026</date>
+  </channel>
+  <channel>
+    <name>LCI Fr</name>
+    <id>LCI.fr</id>
+    <title>La matinale du week-end</title>
+    <desc></desc>
+    <image>http://static-cdn.tv.sfr.net/data/img/pl/8/3/4/15256438.jpg</image>
+    <start>05:00AM</start>
+    <finish>09:00AM</finish>
+    <date>15 August 2026</date>
+  </channel>
+  <channel>
+    <name>LCI Fr</name>
+    <id>LCI.fr</id>
+    <title>On ne plaisante pas avec l'info</title>
+    <desc></desc>
+    <image>http://static-cdn.tv.sfr.net/data/img/pl/0/3/5/15531530.jpg</image>
+    <start>09:00AM</start>
+    <finish>11:00AM</finish>
+    <date>15 August 2026</date>
+  </channel>
+  <channel>
+    <name>LCI Fr</name>
+    <id>LCI.fr</id>
+    <title>LCI Midi week-end</title>
+    <desc></desc>
+    <image>http://static-cdn.tv.sfr.net/data/img/pl/5/5/5/15531555.jpg</image>
+    <start>11:00AM</start>
+    <finish>01:00PM</finish>
+    <date>15 August 2026</date>
+  </channel>
+  <channel>
+    <name>LCI Fr</name>
+    <id>LCI.fr</id>
+    <title>Histoires criminelles, l'enqu?te</title>
+    <desc></desc>
+    <image>http://static-cdn.tv.sfr.net/data/img/pl/9/2/3/15445329.jpg</image>
+    <start>01:00PM</start>
+    <finish>02:00PM</finish>
+    <date>15 August 2026</date>
+  </channel>
+  <channel>
+    <name>LCI Fr</name>
+    <id>LCI.fr</id>
+    <title>LCI Direct week-end</title>
+    <desc></desc>
+    <image>http://static-cdn.tv.sfr.net/data/img/pl/7/2/5/15531527.jpg</image>
+    <start>02:00PM</start>
+    <finish>04:00PM</finish>
+    <date>15 August 2026</date>
+  </channel>
+  <channel>
+    <name>LCI Fr</name>
+    <id>LCI.fr</id>
+    <title>Le grand dossier</title>
+    <desc></desc>
+    <image>http://static-cdn.tv.sfr.net/data/img/pl/1/1/5/15531511.jpg</image>
+    <start>04:00PM</start>
+    <finish>05:00PM</finish>
+    <date>15 August 2026</date>
+  </channel>
+  <channel>
+    <name>LCI Fr</name>
+    <id>LCI.fr</id>
+    <title>18H week-end</title>
+    <desc></desc>
+    <image>http://static-cdn.tv.sfr.net/data/img/pl/9/2/5/15531529.jpg</image>
+    <start>05:00PM</start>
+    <finish>07:00PM</finish>
+    <date>15 August 2026</date>
+  </channel>
+  <channel>
+    <name>LCI Fr</name>
+    <id>LCI.fr</id>
+    <title>Face ?</title>
+    <desc></desc>
+    <image>http://static-cdn.tv.sfr.net/data/img/pl/0/6/2/15178260.jpg</image>
+    <start>07:00PM</start>
+    <finish>09:00PM</finish>
+    <date>15 August 2026</date>
+  </channel>
+  <channel>
+    <name>LCI Fr</name>
+    <id>LCI.fr</id>
+    <title>Le 22H</title>
+    <desc></desc>
+    <image>http://static-cdn.tv.sfr.net/data/img/pl/8/1/5/15531518.jpg</image>
+    <start>09:00PM</start>
+    <finish>11:00PM</finish>
+    <date>15 August 2026</date>
+  </channel>
+  <channel>
+    <name>LCI Fr</name>
+    <id>LCI.fr</id>
+    <title>LCI Nuit</title>
+    <desc></desc>
+    <image>http://static-cdn.tv.sfr.net/data/img/pl/4/7/1/15616174.jpg</image>
+    <start>11:00PM</start>
+    <finish>02:30AM</finish>
+    <date>15 August 2026</date>
+  </channel>
+</tv>
