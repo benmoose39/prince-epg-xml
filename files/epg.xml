@@ -123,26 +123,6 @@
   <channel>
     <name>BBC News UK</name>
     <id>BBCNews.uk</id>
-    <title>Signed</title>
-    <desc>The latest news from the BBC.</desc>
-    <image>https://images.metadata.sky.com/pd-image/14ae6778-215b-4750-a72f-b07dfa301b01/16-9</image>
-    <start>08:00AM</start>
-    <finish>08:30AM</finish>
-    <date>17 August 2026</date>
-  </channel>
-  <channel>
-    <name>BBC News UK</name>
-    <id>BBCNews.uk</id>
-    <title>BBC News</title>
-    <desc>The latest news from the BBC.</desc>
-    <image>https://images.metadata.sky.com/pd-image/3409f9f4-fa6b-4ed0-baa0-c3fc3c71677c/16-9</image>
-    <start>08:30AM</start>
-    <finish>09:00AM</finish>
-    <date>17 August 2026</date>
-  </channel>
-  <channel>
-    <name>BBC News UK</name>
-    <id>BBCNews.uk</id>
     <title>BBC News</title>
     <desc>The latest news from the BBC.</desc>
     <image>https://images.metadata.sky.com/pd-image/ab143fcc-a207-4b46-9b91-78c71c2adf83/16-9</image>
@@ -1013,16 +993,6 @@
   <channel>
     <name>BBC Two NL</name>
     <id>BBCTwo.nl</id>
-    <title>The Repair Shop</title>
-    <desc>The team revive a cherished rocking horse, a spectacular set of conga drums, and a logbook that played a key role in British LGBTQ+ history.</desc>
-    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
-    <start>08:00AM</start>
-    <finish>09:00AM</finish>
-    <date>17 August 2026</date>
-  </channel>
-  <channel>
-    <name>BBC Two NL</name>
-    <id>BBCTwo.nl</id>
     <title>BBC News</title>
     <desc>A comprehensive compilation of the latest and the most important news stories, updates and developments from the UK and different parts of the world.</desc>
     <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
@@ -1413,56 +1383,6 @@
   <channel>
     <name>CBBC UK</name>
     <id>CBBC.uk</id>
-    <title>Grizzy and the Lemmings</title>
-    <desc>The Lemmings use magic Chinese lanterns for sound and light shows.</desc>
-    <image>https://img.freeviewplay.tv/pc5e5b2b6e0498ea0f97679ba5f75b9a4</image>
-    <start>08:05AM</start>
-    <finish>08:15AM</finish>
-    <date>17 August 2026</date>
-  </channel>
-  <channel>
-    <name>CBBC UK</name>
-    <id>CBBC.uk</id>
-    <title>Duck and Frog</title>
-    <desc>When Duck becomes an auctioneer's assistant, selling valuable antiques to the highest bidder, Frog sees a chance to sell some of his old tat and make a fortune.</desc>
-    <image>https://img.freeviewplay.tv/p9c77247d4e7fea1e84a60b2a4701ad34</image>
-    <start>08:15AM</start>
-    <finish>08:25AM</finish>
-    <date>17 August 2026</date>
-  </channel>
-  <channel>
-    <name>CBBC UK</name>
-    <id>CBBC.uk</id>
-    <title>Duck and Frog</title>
-    <desc>Duck gets a rare day off and heads for a day at the spa. But once he sees that Frog is working there, he finds it impossible to relax.</desc>
-    <image>https://img.freeviewplay.tv/pc53bd007365432e08a045be85092271f</image>
-    <start>08:25AM</start>
-    <finish>08:30AM</finish>
-    <date>17 August 2026</date>
-  </channel>
-  <channel>
-    <name>CBBC UK</name>
-    <id>CBBC.uk</id>
-    <title>Counterfeit Cat</title>
-    <desc>Max and Gark must pass a series of tests to sit in the perfect sunbathing spot.</desc>
-    <image>https://img.freeviewplay.tv/pae95bc1482d1c4559a68ef60b22a26e6</image>
-    <start>08:30AM</start>
-    <finish>08:45AM</finish>
-    <date>17 August 2026</date>
-  </channel>
-  <channel>
-    <name>CBBC UK</name>
-    <id>CBBC.uk</id>
-    <title>The Amazing World of Gumball</title>
-    <desc>A ghost named Carrie keeps possessing Gumball's body so she can enjoy eating.</desc>
-    <image>https://img.freeviewplay.tv/pbb22b9bfb0a5e16ce0f3c6dd281f0b98</image>
-    <start>08:45AM</start>
-    <finish>09:00AM</finish>
-    <date>17 August 2026</date>
-  </channel>
-  <channel>
-    <name>CBBC UK</name>
-    <id>CBBC.uk</id>
     <title>Teen Titans Go!</title>
     <desc>Robin poses as Speedy to sabotage his date with Starfire.</desc>
     <image>https://img.freeviewplay.tv/p9d74bfd9a6c4f0ce1cb927b11fd41461</image>
@@ -1758,56 +1678,6 @@
     <image>https://img.freeviewplay.tv/p3ab46c7d378ceaf3d9034a12e00abd65</image>
     <start>06:30PM</start>
     <finish>05:30AM</finish>
-    <date>17 August 2026</date>
-  </channel>
-  <channel>
-    <name>CBeebies UK</name>
-    <id>CBeebies.uk</id>
-    <title>Octonauts</title>
-    <desc>Octonauts and the Bomber Worms. Preschool animation. While diving down to the Midnight Zone, the Octonauts are attacked by bomber worms and have to rescue an injured colleague.</desc>
-    <image>https://images.metadata.sky.com/pd-image/9e654094-729e-400b-ac79-aa0ab4f67c66/16-9</image>
-    <start>08:00AM</start>
-    <finish>08:10AM</finish>
-    <date>17 August 2026</date>
-  </channel>
-  <channel>
-    <name>CBeebies UK</name>
-    <id>CBeebies.uk</id>
-    <title>Numberblocks</title>
-    <desc>Making Patterns. Twenty-Seven and Twenty-Eight explore the new Pattern Wall at the Gallery. Followed by Hey Duggee.</desc>
-    <image>https://images.metadata.sky.com/pd-image/13297b67-32ce-4deb-afb5-aff7da20138b/16-9</image>
-    <start>08:10AM</start>
-    <finish>08:20AM</finish>
-    <date>17 August 2026</date>
-  </channel>
-  <channel>
-    <name>CBeebies UK</name>
-    <id>CBeebies.uk</id>
-    <title>Piripenguins</title>
-    <desc>The Mystery Gossiper. A mystery gossiper causes friction on the berg, until Brinicle sets a clever trap.</desc>
-    <image>https://images.metadata.sky.com/pd-image/1438cb13-2593-4e2b-ab5e-fe2c10edb123/16-9</image>
-    <start>08:20AM</start>
-    <finish>08:35AM</finish>
-    <date>17 August 2026</date>
-  </channel>
-  <channel>
-    <name>CBeebies UK</name>
-    <id>CBeebies.uk</id>
-    <title>Zog</title>
-    <desc>Slow Clinic Day. Zog and Gadabout must help Pearl relax before she bandages every creature in sight.</desc>
-    <image>https://images.metadata.sky.com/pd-image/dcabeaa2-a21e-4518-a065-5c504e499033/16-9</image>
-    <start>08:35AM</start>
-    <finish>08:45AM</finish>
-    <date>17 August 2026</date>
-  </channel>
-  <channel>
-    <name>CBeebies UK</name>
-    <id>CBeebies.uk</id>
-    <title>Mojo Swoptops</title>
-    <desc>Shark 'n' Ride. A shark in Swoppiton? Mojo and Bo go on a fishing trip to find out more.</desc>
-    <image>https://images.metadata.sky.com/pd-image/99e97246-1aa3-4207-adce-8a4b79fffb28/16-9</image>
-    <start>08:45AM</start>
-    <finish>09:00AM</finish>
     <date>17 August 2026</date>
   </channel>
   <channel>
@@ -2513,26 +2383,6 @@
   <channel>
     <name>EWTN UK</name>
     <id>EWTN.uk</id>
-    <title>EWTN Pro-Life Weekly</title>
-    <desc>Host Catherine Hadro and a team of anti-abortion experts reveal the truth about abortion, euthanasia, assisted suicide, and the culture of death.</desc>
-    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
-    <start>08:00AM</start>
-    <finish>08:30AM</finish>
-    <date>17 August 2026</date>
-  </channel>
-  <channel>
-    <name>EWTN UK</name>
-    <id>EWTN.uk</id>
-    <title>Vaticano</title>
-    <desc>We journey through the Franciscan Jubilee Year, exploring the relics, writings, and living legacy of St. Francis of Assisi eight centuries after his death.</desc>
-    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
-    <start>08:30AM</start>
-    <finish>09:00AM</finish>
-    <date>17 August 2026</date>
-  </channel>
-  <channel>
-    <name>EWTN UK</name>
-    <id>EWTN.uk</id>
     <title>Living right with dr. ray</title>
     <desc>Sarah Buttino shares their story of conversion after eight children and 15 years of marriage.</desc>
     <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
@@ -2798,16 +2648,6 @@
     <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
     <start>11:00PM</start>
     <finish>12:00AM</finish>
-    <date>17 August 2026</date>
-  </channel>
-  <channel>
-    <name>EuroNews UK</name>
-    <id>EuroNews.uk</id>
-    <title>Made in europe</title>
-    <desc>'Made in Europe' asks if European firms still lead the world - going inside the factories to find out.</desc>
-    <image>https://images.metadata.sky.com/pd-image/329e0cb2-f9fa-42b6-9309-51b5d78cc3d4/16-9</image>
-    <start>07:48AM</start>
-    <finish>08:30AM</finish>
     <date>17 August 2026</date>
   </channel>
   <channel>
@@ -3288,56 +3128,6 @@
     <image>https://images.metadata.sky.com/pd-image/f357fb98-604f-4c69-b609-ad3867e93c2e/16-9</image>
     <start>11:30PM</start>
     <finish>12:00AM</finish>
-    <date>17 August 2026</date>
-  </channel>
-  <channel>
-    <name>France 24 Fr</name>
-    <id>France24.fr</id>
-    <title>? la une</title>
-    <desc>Les r?dactions de la presse chr?tienne vous pr?sentent leur une, le point fort de leurs publications ? venir. Retrouvez les journalistes de Famille chr?tienne, La Vie, Le P?lerin, France catholique et R?forme.</desc>
-    <image>https://staticqbr-prod-ch.gnp.cloud.sunrisetv.ch/image-service/ImagesEPG/EventImages/p552022_bd_h8_aa.jpg</image>
-    <start>07:59AM</start>
-    <finish>08:15AM</finish>
-    <date>17 August 2026</date>
-  </channel>
-  <channel>
-    <name>France 24 Fr</name>
-    <id>France24.fr</id>
-    <title>? l'Affiche !</title>
-    <desc>Comment les cin?astes, les romanciers, les artistes racontent-ils le monde ? France 24 part ? la rencontre d'une culture engag?e dans son temps.</desc>
-    <image>https://staticqbr-prod-ch.gnp.cloud.sunrisetv.ch/image-service/ImagesEPG/EventImages/p10389935_bd_h8_ac.jpg</image>
-    <start>08:15AM</start>
-    <finish>08:29AM</finish>
-    <date>17 August 2026</date>
-  </channel>
-  <channel>
-    <name>France 24 Fr</name>
-    <id>France24.fr</id>
-    <title>? la une</title>
-    <desc>Les r?dactions de la presse chr?tienne vous pr?sentent leur une, le point fort de leurs publications ? venir. Retrouvez les journalistes de Famille chr?tienne, La Vie, Le P?lerin, France catholique et R?forme.</desc>
-    <image>https://staticqbr-prod-ch.gnp.cloud.sunrisetv.ch/image-service/ImagesEPG/EventImages/p552022_bd_h8_aa.jpg</image>
-    <start>08:29AM</start>
-    <finish>08:45AM</finish>
-    <date>17 August 2026</date>
-  </channel>
-  <channel>
-    <name>France 24 Fr</name>
-    <id>France24.fr</id>
-    <title>Focus</title>
-    <desc>Un tour du monde quotidien avec des reportages r?alis?s par plusieurs correspondants dans leur pays, sur les faits marquants de la semaine.</desc>
-    <image>https://staticqbr-prod-ch.gnp.cloud.sunrisetv.ch/image-service/ImagesEPG/EventImages/p26024904_bd_h8_ac.jpg</image>
-    <start>08:45AM</start>
-    <finish>08:50AM</finish>
-    <date>17 August 2026</date>
-  </channel>
-  <channel>
-    <name>France 24 Fr</name>
-    <id>France24.fr</id>
-    <title>Sports</title>
-    <desc>Toutes les informations sportives du jour avec les chroniqueurs de France 24 et un r?sum? de l'actualit? sportive mondiale, sur les terrains de jeu et en dehors.</desc>
-    <image>https://staticqbr-prod-ch.gnp.cloud.sunrisetv.ch/image-service/ImagesEPG/EventImages/p9862655_bd_h8_aa.jpg</image>
-    <start>08:50AM</start>
-    <finish>09:00AM</finish>
     <date>17 August 2026</date>
   </channel>
   <channel>
@@ -4153,16 +3943,6 @@
   <channel>
     <name>Kuriakos Tv PT</name>
     <id>KuriakosTv.pt</id>
-    <title>Conven??o de F? 2026</title>
-    <desc>? uma cerim?nia religiosa da responsabilidade da Igreja Man?. Uma festa onde ao longo da semana podemos assistir a atua??o de v?rias bandas, n?meros especiais, ver cinema e ouvir v?rias mensagens direccionadas para todas as pessoas.</desc>
-    <image>https://mage.stream.nos.pt/v1/nostv_mage/Images?sourceUri=http%3A%2F%2Fvip.pam.local.internal%2FPAM.Images%2FStore%2Ff518ac349272439c84b4f2248404f615</image>
-    <start>04:30AM</start>
-    <finish>08:30AM</finish>
-    <date>17 August 2026</date>
-  </channel>
-  <channel>
-    <name>Kuriakos Tv PT</name>
-    <id>KuriakosTv.pt</id>
     <title>A Minha Caminhada Com Deus</title>
     <desc>Durante uma breve entrevista pode acompanhar o percurso de vida de algu?m que foi tocado por Deus. Assista a hist?rias de vida ver?dicas com testemunhos e experi?ncias de vida incr?veis que quem sabe podem ajuda lo tamb?m na sua caminhada.</desc>
     <image>https://mage.stream.nos.pt/v1/nostv_mage/Images?sourceUri=http%3A%2F%2Fvip.pam.local.internal%2FPAM.Images%2FStore%2F566aef25475c44458d7b52ef83794385</image>
@@ -4369,26 +4149,6 @@
     <start>12:00AM</start>
     <finish>12:30AM</finish>
     <date>18 August 2026</date>
-  </channel>
-  <channel>
-    <name>La Otra ES</name>
-    <id>LaOtra.es</id>
-    <title>Il ?tait une fois</title>
-    <desc>No hay descripci?n disponible.</desc>
-    <image>https://www.movistarplus.es/recorte/n/caratula5/MOTRAP3383530</image>
-    <start>07:46AM</start>
-    <finish>08:18AM</finish>
-    <date>17 August 2026</date>
-  </channel>
-  <channel>
-    <name>La Otra ES</name>
-    <id>LaOtra.es</id>
-    <title>El punto sobre la historia</title>
-    <desc>David Botello y Lorenzo Gallardo recorrer?n Madrid en bicicleta en busca de an?cdotas de la historia de la ciudad, cont?ndolas de una forma apasionante, desenfadada, divertida y con el m?ximo rigor.</desc>
-    <image>https://www.movistarplus.es/recorte/n/caratula5/MTELMADP1371320</image>
-    <start>08:18AM</start>
-    <finish>08:49AM</finish>
-    <date>17 August 2026</date>
   </channel>
   <channel>
     <name>La Otra ES</name>
@@ -4646,16 +4406,6 @@
     <title>Upin &amp; Ipin</title>
     <desc></desc>
     <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
-    <start>05:30AM</start>
-    <finish>08:30AM</finish>
-    <date>17 August 2026</date>
-  </channel>
-  <channel>
-    <name>MNC TV ID</name>
-    <id>MNCTV.id</id>
-    <title>Upin &amp; Ipin</title>
-    <desc></desc>
-    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
     <start>08:30AM</start>
     <finish>10:00AM</finish>
     <date>17 August 2026</date>
@@ -4718,30 +4468,6 @@
     <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
     <start>02:00PM</start>
     <finish>05:00PM</finish>
-    <date>17 August 2026</date>
-  </channel>
-  <channel>
-    <name>Mama RU</name>
-    <id>Mama.ru</id>
-    <title>????? ???????. 10 ??? ??????????. ????????? ???????</title>
-    <desc>?????????? ??? ????? ????????? ???????????? ????????? ?????????? ???? ????????????? ????????, ?????? ???????????????? ?????????????? ?????? ????????.
-?????? ???? ????????? ?????? ???????? ??????? ????? ???????? ?????? ?????????? ????? ????????? ??? ???? ???. ????? ?????? ?????????????? ??????? ??? ???????????????? ???????????? ??? ???????? ?????????? ????????????? ??????? ????? ??????????????? ??????? ??????????????? ??????? ????? ??????. ???????? ?????????? ?????? ???????? ?????????, ?????? ??? ????? ????????? ??????? ????????? ??????????. ??????????? ????????? ????????? ???? ??? ?????????? ??? ?????????. ????? ????????? ????? ??????? ????? ???????? ????? ?????, ?????, ?????, ?????, ?????, ???? ??????? ????????????! 
-??? ????????? ????????????? ????? ?????? ???????? ?????????? ??????????? ?????????????? ??? ????? ???3-? ???, ????????? ??????? ?????????? ??????????? ????.</desc>
-    <image>https://tlum.ru/uploads/1f51770a50b82d2d75e31ed2be2fdd6484c92c230403fff9da8065802a211687.jpeg</image>
-    <start>07:20AM</start>
-    <finish>08:30AM</finish>
-    <date>17 August 2026</date>
-  </channel>
-  <channel>
-    <name>Mama RU</name>
-    <id>Mama.ru</id>
-    <title>????? ???????. ??????????</title>
-    <desc>?????????? ??? ????? ????????? ???????????? ????????? ?????????? ???? ????????????? ????????, ?????? ???????????????? ?????????????? ?????? ????????.
-?????? ???? ????????? ?????? ???????? ??????? ????? ???????? ?????? ?????????? ????? ????????? ??? ???? ???. ????? ?????? ?????????????? ??????? ??? ???????????????? ???????????? ??? ???????? ?????????? ????????????? ??????? ????? ??????????????? ??????? ??????????????? ??????? ????? ??????. ???????? ?????????? ?????? ???????? ?????????, ?????? ??? ????? ????????? ??????? ????????? ??????????. ??????????? ????????? ????????? ???? ??? ?????????? ??? ?????????. ????? ????????? ????? ??????? ????? ???????? ????? ?????, ?????, ?????, ?????, ?????, ???? ??????? ????????????! 
-??? ????????? ????????????? ????? ?????? ???????? ?????????? ??????????? ?????????????? ??? ????? ???3-? ???, ????????? ??????? ?????????? ??????????? ????.</desc>
-    <image>https://tlum.ru/uploads/1f51770a50b82d2d75e31ed2be2fdd6484c92c230403fff9da8065802a211687.jpeg</image>
-    <start>08:30AM</start>
-    <finish>09:00AM</finish>
     <date>17 August 2026</date>
   </channel>
   <channel>
@@ -4928,26 +4654,6 @@
   <channel>
     <name>Metro TV ID</name>
     <id>MetroTV.id</id>
-    <title>Merayakan Kemerdekaan</title>
-    <desc></desc>
-    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
-    <start>08:05AM</start>
-    <finish>08:30AM</finish>
-    <date>17 August 2026</date>
-  </channel>
-  <channel>
-    <name>Metro TV ID</name>
-    <id>MetroTV.id</id>
-    <title>Merayakan Kemerdekaan</title>
-    <desc></desc>
-    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
-    <start>08:30AM</start>
-    <finish>09:00AM</finish>
-    <date>17 August 2026</date>
-  </channel>
-  <channel>
-    <name>Metro TV ID</name>
-    <id>MetroTV.id</id>
     <title>Headline News</title>
     <desc></desc>
     <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
@@ -4993,16 +4699,6 @@
     <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
     <start>10:05AM</start>
     <finish>10:30AM</finish>
-    <date>17 August 2026</date>
-  </channel>
-  <channel>
-    <name>Movies 24 UK</name>
-    <id>Movies24.uk</id>
-    <title>Food For The Heart</title>
-    <desc>Chef and owner of The Loving Spoonful, Lia, learns how to accept help - and love - when she tries to expand her food delivery business.</desc>
-    <image>https://images.metadata.sky.com/pd-image/4ff1ee3f-7a30-3b16-bf5c-89844b2ba575/16-9</image>
-    <start>07:00AM</start>
-    <finish>09:00AM</finish>
     <date>17 August 2026</date>
   </channel>
   <channel>
@@ -5083,46 +4779,6 @@
     <image>https://images.metadata.sky.com/pd-image/57ff7ea9-2333-382d-8775-89aa2aaa7aa0/16-9</image>
     <start>11:00PM</start>
     <finish>01:00AM</finish>
-    <date>17 August 2026</date>
-  </channel>
-  <channel>
-    <name>Nick Jr UK</name>
-    <id>NickJunior.uk</id>
-    <title>Tim Rex in Space</title>
-    <desc>Tim, Tommy and Tia take on their parents at Tailball.</desc>
-    <image>https://images.metadata.sky.com/pd-image/cccfddae-3303-47af-acfb-501e9d198661/16-9</image>
-    <start>08:00AM</start>
-    <finish>08:12AM</finish>
-    <date>17 August 2026</date>
-  </channel>
-  <channel>
-    <name>Nick Jr UK</name>
-    <id>NickJunior.uk</id>
-    <title>Tim Rex in Space</title>
-    <desc>Tim, Kai and Tommy try to get their ball back from Mum's bedroom.</desc>
-    <image>https://images.metadata.sky.com/pd-image/80be0fa6-ab4d-4a2a-9525-d913a210c10e/16-9</image>
-    <start>08:12AM</start>
-    <finish>08:24AM</finish>
-    <date>17 August 2026</date>
-  </channel>
-  <channel>
-    <name>Nick Jr UK</name>
-    <id>NickJunior.uk</id>
-    <title>Pup Gear</title>
-    <desc>Jet into the Paw Patrol garage for a look at some of Skye's favourite vehicles.</desc>
-    <image>https://images.metadata.sky.com/pd-image/1115ed61-609b-48bf-a836-981dcc0e26ad/16-9</image>
-    <start>08:24AM</start>
-    <finish>08:29AM</finish>
-    <date>17 August 2026</date>
-  </channel>
-  <channel>
-    <name>Nick Jr UK</name>
-    <id>NickJunior.uk</id>
-    <title>Deer Squad</title>
-    <desc>Jade uses a Quake Crystal underwater in 'Quake Crystal Quest', then in 'Yes Day Disaster', the twins take saying yes too far.</desc>
-    <image>https://images.metadata.sky.com/pd-image/705f2141-816b-4624-af8f-24dffa0c7797/16-9</image>
-    <start>08:29AM</start>
-    <finish>09:00AM</finish>
     <date>17 August 2026</date>
   </channel>
   <channel>
@@ -5758,26 +5414,6 @@
   <channel>
     <name>Nickelodeon RO</name>
     <id>Nickelodeon.ro</id>
-    <title>Un show cu Patrick Stea</title>
-    <desc>Toalet? are o aventur? ?i c?l?tore?te ?n timp. // Patrick ?i Squidina nu au voie s? se uite la televizor c?nd stau o zi cu p?rin?ii lor.</desc>
-    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
-    <start>08:05AM</start>
-    <finish>08:30AM</finish>
-    <date>17 August 2026</date>
-  </channel>
-  <channel>
-    <name>Nickelodeon RO</name>
-    <id>Nickelodeon.ro</id>
-    <title>Un show cu Patrick Stea</title>
-    <desc>Familia Stea se bucur? de o vacan?? pe o nav? de croazier?... ?n spa?iul cosmic.</desc>
-    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
-    <start>08:30AM</start>
-    <finish>08:45AM</finish>
-    <date>17 August 2026</date>
-  </channel>
-  <channel>
-    <name>Nickelodeon RO</name>
-    <id>Nickelodeon.ro</id>
     <title>Marsupilami</title>
     <desc></desc>
     <image>https://static.cinemagia.ro/img/db/movie/11/58/591/marsupilami-300561l.jpg</image>
@@ -6248,16 +5884,6 @@
   <channel>
     <name>QVC UK</name>
     <id>QVC.uk</id>
-    <title>Beauty Must Haves with Nakery</title>
-    <desc>Discover beauty must-haves with Nakery. From feel-good body care to everyday essentials, find simple ways to refresh your routine and boost your glow.</desc>
-    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
-    <start>08:00AM</start>
-    <finish>09:00AM</finish>
-    <date>17 August 2026</date>
-  </channel>
-  <channel>
-    <name>QVC UK</name>
-    <id>QVC.uk</id>
     <title>Top Offer's Morning Show</title>
     <desc>Start your day with our Top Offers Morning Show. Discover brilliant deals across beauty, home, fashion and more, with great finds to brighten your morning.</desc>
     <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
@@ -6393,16 +6019,6 @@
     <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
     <start>11:00PM</start>
     <finish>12:00AM</finish>
-    <date>17 August 2026</date>
-  </channel>
-  <channel>
-    <name>QVC Beauty UK</name>
-    <id>QVCBeauty.uk</id>
-    <title>Best Of QVC Beauty</title>
-    <desc>All the highlights and star products.</desc>
-    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
-    <start>08:00AM</start>
-    <finish>09:00AM</finish>
     <date>17 August 2026</date>
   </channel>
   <channel>
@@ -6553,16 +6169,6 @@
     <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
     <start>11:00PM</start>
     <finish>12:00AM</finish>
-    <date>17 August 2026</date>
-  </channel>
-  <channel>
-    <name>QVC Style UK</name>
-    <id>QVCStyle.uk</id>
-    <title>Best of QVC Style</title>
-    <desc>Catch all the recent highlights from our sister channel with the Best of QVC Style.</desc>
-    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
-    <start>08:00AM</start>
-    <finish>09:00AM</finish>
     <date>17 August 2026</date>
   </channel>
   <channel>
@@ -6713,16 +6319,6 @@
     <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
     <start>11:00PM</start>
     <finish>12:00AM</finish>
-    <date>17 August 2026</date>
-  </channel>
-  <channel>
-    <name>RTE News Now IE</name>
-    <id>RTENewsNow.ie</id>
-    <title>Morning Ireland</title>
-    <desc>Morning news programme.</desc>
-    <image>https://images.metadata.sky.com/pd-image/6e75ee55-3e6b-4035-a328-6d034ea204fd/16-9</image>
-    <start>07:00AM</start>
-    <finish>09:00AM</finish>
     <date>17 August 2026</date>
   </channel>
   <channel>
@@ -7201,36 +6797,6 @@
     <title>Bom Dia Portugal</title>
     <desc>O Bom Dia Portugal ? um programa de informa??o apresentado por Jo?o Tom? de Carvalho e Carla Trafaria, de 2a a 6a feira entre as 06:30h e as 10:00h.</desc>
     <image>https://mage.stream.nos.pt/v1/nostv_mage/Images?sourceUri=http%3A%2F%2Fvip.pam.local.internal%2FPAM.Images%2FStore%2Fbcda226bd11c4f1ab2825fc75f8282a2</image>
-    <start>07:30AM</start>
-    <finish>08:25AM</finish>
-    <date>17 August 2026</date>
-  </channel>
-  <channel>
-    <name>Rtp 3 PT</name>
-    <id>Rtp3.pt</id>
-    <title>Mundo Autom?vel</title>
-    <desc>Mundo Autom?vel destaca os temas de grande atualidade: autom?veis alternativos, seguran?a, tecnologia, design e concepts assim como o lan?amento dos novos modelos nos mercados nacional e internacional.</desc>
-    <image>https://mage.stream.nos.pt/v1/nostv_mage/Images?sourceUri=http%3A%2F%2Fvip.pam.local.internal%2FPAM.Images%2FStore%2F50072ec7f7b64874ae54404dafaa505f</image>
-    <start>08:25AM</start>
-    <finish>08:30AM</finish>
-    <date>17 August 2026</date>
-  </channel>
-  <channel>
-    <name>Rtp 3 PT</name>
-    <id>Rtp3.pt</id>
-    <title>Minuto Energia</title>
-    <desc>O ?Minuto Energia? foi pensado para ser um ve?culo de comunica??o permanente em televis?o, pr?tico, informativo e, acima de tudo ?til.</desc>
-    <image>https://mage.stream.nos.pt/v1/nostv_mage/Images?sourceUri=http%3A%2F%2Fvip.pam.local.internal%2FPAM.Images%2FStore%2Fa38dfef22b214c28a2cf6b626c875e95</image>
-    <start>08:30AM</start>
-    <finish>08:35AM</finish>
-    <date>17 August 2026</date>
-  </channel>
-  <channel>
-    <name>Rtp 3 PT</name>
-    <id>Rtp3.pt</id>
-    <title>Bom Dia Portugal</title>
-    <desc>O Bom Dia Portugal ? um programa de informa??o apresentado por Jo?o Tom? de Carvalho e Carla Trafaria, de 2a a 6a feira entre as 06:30h e as 10:00h.</desc>
-    <image>https://mage.stream.nos.pt/v1/nostv_mage/Images?sourceUri=http%3A%2F%2Fvip.pam.local.internal%2FPAM.Images%2FStore%2Fbcda226bd11c4f1ab2825fc75f8282a2</image>
     <start>08:35AM</start>
     <finish>09:25AM</finish>
     <date>17 August 2026</date>
@@ -7431,16 +6997,6 @@
     <title>Informa??o N?o Disponibilizada Pelo Canal</title>
     <desc></desc>
     <image>https://mage.stream.nos.pt/v1/nostv_mage/Images?sourceUri=http%3A%2F%2Fvip.pam.local.internal%2FPAM.Images%2FStore%2F643938e95441496196930a8bac507abd</image>
-    <start>02:30AM</start>
-    <finish>08:30AM</finish>
-    <date>17 August 2026</date>
-  </channel>
-  <channel>
-    <name>Rtp Açores PT</name>
-    <id>RtpAcores.pt</id>
-    <title>Informa??o N?o Disponibilizada Pelo Canal</title>
-    <desc></desc>
-    <image>https://mage.stream.nos.pt/v1/nostv_mage/Images?sourceUri=http%3A%2F%2Fvip.pam.local.internal%2FPAM.Images%2FStore%2F643938e95441496196930a8bac507abd</image>
     <start>08:30AM</start>
     <finish>02:30PM</finish>
     <date>17 August 2026</date>
@@ -7453,16 +7009,6 @@
     <image>https://mage.stream.nos.pt/v1/nostv_mage/Images?sourceUri=http%3A%2F%2Fvip.pam.local.internal%2FPAM.Images%2FStore%2F643938e95441496196930a8bac507abd</image>
     <start>02:30PM</start>
     <finish>08:30PM</finish>
-    <date>17 August 2026</date>
-  </channel>
-  <channel>
-    <name>Rtp África PT</name>
-    <id>RtpAfrica.pt</id>
-    <title>Bom Dia Portugal</title>
-    <desc>Porque ? de manh? que se come?a o dia, ent?o inicie-o na nossa companhia! Todos os dias, o ?Bom dia Portugal? dedica espa?os espec?ficos ?s not?cias da atualidade nacional e internacional, desporto, meteorologia, tr?nsito e economia.</desc>
-    <image>https://mage.stream.nos.pt/v1/nostv_mage/Images?sourceUri=http%3A%2F%2Fvip.pam.local.internal%2FPAM.Images%2FStore%2Fbcda226bd11c4f1ab2825fc75f8282a2</image>
-    <start>06:00AM</start>
-    <finish>09:00AM</finish>
     <date>17 August 2026</date>
   </channel>
   <channel>
@@ -7733,26 +7279,6 @@
     <image>https://mage.stream.nos.pt/v1/nostv_mage/Images?sourceUri=http%3A%2F%2Fvip.pam.local.internal%2FPAM.Images%2FStore%2F0ef41bd71e104d75b14110249745ab6a</image>
     <start>11:30PM</start>
     <finish>12:00AM</finish>
-    <date>17 August 2026</date>
-  </channel>
-  <channel>
-    <name>Sky News UK</name>
-    <id>SkyNews.uk</id>
-    <title>Mornings with Ridge and Frost</title>
-    <desc>All the big stories of the morning plus news making interviews, analysis and eyewitness reports from around the world.</desc>
-    <image>https://images.metadata.sky.com/pd-image/09ba9f99-c1c8-43a5-bec0-86fa15fdade2/16-9</image>
-    <start>08:00AM</start>
-    <finish>08:30AM</finish>
-    <date>17 August 2026</date>
-  </channel>
-  <channel>
-    <name>Sky News UK</name>
-    <id>SkyNews.uk</id>
-    <title>Mornings with Ridge and Frost</title>
-    <desc>All the big stories of the morning plus news making interviews, analysis and eyewitness reports from around the world.</desc>
-    <image>https://images.metadata.sky.com/pd-image/abf87175-b37b-409a-a04c-a4eddc9fddc8/16-9</image>
-    <start>08:30AM</start>
-    <finish>09:00AM</finish>
     <date>17 August 2026</date>
   </channel>
   <channel>
@@ -8058,16 +7584,6 @@
   <channel>
     <name>TF 1 FR</name>
     <id>TF1.fr</id>
-    <title>Live: Bonjour !</title>
-    <desc>Cette matinale propose un d?cryptage de l'actualit? avec les journaux pr?sent?s toutes les demi-heures. Chaque jour, l'?mission accueille un invit?, qu'il soit artiste, sportif ou ?crivain, ainsi qu'un invit? politique.</desc>
-    <image>http://cltv.tmsimg.com/assets/p31933053_b_h10_aa.jpg?w=960&amp;h=540</image>
-    <start>05:55AM</start>
-    <finish>09:00AM</finish>
-    <date>17 August 2026</date>
-  </channel>
-  <channel>
-    <name>TF 1 FR</name>
-    <id>TF1.fr</id>
     <title>Tfou</title>
     <desc>?mission de t?l?vision fran?aise pour la jeunesse qui regroupe plusieurs s?ries et dessins anim?s pour enfants. L'?mission a ?t? diffus?e pour la premi?re fois en janvier 2007 sur TF1.</desc>
     <image>http://cltv.tmsimg.com/assets/p31933202_b_h10_aa.jpg?w=960&amp;h=540</image>
@@ -8324,76 +7840,6 @@
     <start>12:05AM</start>
     <finish>01:00AM</finish>
     <date>18 August 2026</date>
-  </channel>
-  <channel>
-    <name>TG4 IE</name>
-    <id>TG4.ie</id>
-    <title>Charlie agus Lola</title>
-    <desc>N?l baol ar Lola cabhair a iarraidh fi? amh?in nuair nach mb?onn aon chleachtadh aici ar rud.</desc>
-    <image>https://images.metadata.sky.com/pd-image/ba20f9f5-5cf3-3fec-8f07-4108b8422908/16-9</image>
-    <start>08:02AM</start>
-    <finish>08:15AM</finish>
-    <date>17 August 2026</date>
-  </channel>
-  <channel>
-    <name>TG4 IE</name>
-    <id>TG4.ie</id>
-    <title>Petronix Defenders</title>
-    <desc>T? speirsheabhac S?neach gafa ag Mo, Joe agus MacTrapp.</desc>
-    <image>https://images.metadata.sky.com/pd-image/ee8b514e-b5e4-3894-9000-a1b31247d54c/16-9</image>
-    <start>08:15AM</start>
-    <finish>08:27AM</finish>
-    <date>17 August 2026</date>
-  </channel>
-  <channel>
-    <name>TG4 IE</name>
-    <id>TG4.ie</id>
-    <title>Pat an Madra</title>
-    <desc>Eagra?onn Lola dinn?ar chun p?sadh a tuismitheoir? a chom?radh.</desc>
-    <image>https://images.metadata.sky.com/pd-image/52e4876f-ce7e-4fcf-a020-3a5d93ce4af8/16-9</image>
-    <start>08:27AM</start>
-    <finish>08:35AM</finish>
-    <date>17 August 2026</date>
-  </channel>
-  <channel>
-    <name>TG4 IE</name>
-    <id>TG4.ie</id>
-    <title>Angelo Rules</title>
-    <desc>Ba mhaith le Angelo p?osa? a chaitheamh sa teach leis f?in.</desc>
-    <image>https://images.metadata.sky.com/pd-image/8e13c05b-d276-3756-ac74-473a3995a01b/16-9</image>
-    <start>08:35AM</start>
-    <finish>08:46AM</finish>
-    <date>17 August 2026</date>
-  </channel>
-  <channel>
-    <name>TG4 IE</name>
-    <id>TG4.ie</id>
-    <title>D?nall D?na</title>
-    <desc>Is faoi Dh?nall a bh?onn s? aire a thabhairt don ph?iste nuair a thagann Eithne ?isealach ar cuairt.</desc>
-    <image>https://images.metadata.sky.com/pd-image/91aead7b-20fb-4d54-af3e-4fb4b989d94a/16-9</image>
-    <start>08:46AM</start>
-    <finish>08:58AM</finish>
-    <date>17 August 2026</date>
-  </channel>
-  <channel>
-    <name>TG4 IE</name>
-    <id>TG4.ie</id>
-    <title>C?la4</title>
-    <desc>N?l aon easpa cl?racha do dhaoine ?ga ar C?la4 - b? ag spraoi agus ag foghlaim in ?ineacht linn.</desc>
-    <image>https://images.metadata.sky.com/pd-image/e90280a6-7476-4494-b963-ca61389e15d1/16-9</image>
-    <start>08:58AM</start>
-    <finish>09:00AM</finish>
-    <date>17 August 2026</date>
-  </channel>
-  <channel>
-    <name>TG4 IE</name>
-    <id>TG4.ie</id>
-    <title>Super Simple Amhr?in</title>
-    <desc>Amhr?n spra??il faoin z?.</desc>
-    <image>https://images.metadata.sky.com/pd-image/be970648-1d8c-47ff-bbad-1c2c5bf12251/16-9</image>
-    <start>09:00AM</start>
-    <finish>09:03AM</finish>
-    <date>17 August 2026</date>
   </channel>
   <channel>
     <name>TG4 IE</name>
@@ -8758,36 +8204,6 @@
   <channel>
     <name>TV 5 Monde F-Be-Ch Fr</name>
     <id>TV5Monde.fr</id>
-    <title>L'art et la mati?re</title>
-    <desc>Le dynamisme de la cr?ation fran?aise dans les domaines de la mode, de l'artisanat, du design, de la beaut?, de la cuisine : une ?mission consacr?e ? l'art de vivre et au savoir-faire ? la fran?aise.</desc>
-    <image>http://cltv.tmsimg.com/assets/p30279264_b_h8_aa.jpg?w=960&amp;h=540</image>
-    <start>07:52AM</start>
-    <finish>08:10AM</finish>
-    <date>17 August 2026</date>
-  </channel>
-  <channel>
-    <name>TV 5 Monde F-Be-Ch Fr</name>
-    <id>TV5Monde.fr</id>
-    <title>La m?t?o</title>
-    <desc>Bulletin m?t?orologique international.</desc>
-    <image>http://cltv.tmsimg.com/assets/p768217_b_h10_ad.jpg?w=960&amp;h=540</image>
-    <start>08:10AM</start>
-    <finish>08:15AM</finish>
-    <date>17 August 2026</date>
-  </channel>
-  <channel>
-    <name>TV 5 Monde F-Be-Ch Fr</name>
-    <id>TV5Monde.fr</id>
-    <title>La belle vie</title>
-    <desc>La vie dans une maison conteneur flottante Julien se rend en Ontario pour rencontrer Joe et Erin. Tout r?cemment, Joe a r?ussi ? r?aliser son r?ve, celui de construire leur maison flottante ? partir de conteneurs industriels.</desc>
-    <image>http://cltv.tmsimg.com/assets/p20024462_b_h8_ac.jpg?w=960&amp;h=540</image>
-    <start>08:15AM</start>
-    <finish>08:50AM</finish>
-    <date>17 August 2026</date>
-  </channel>
-  <channel>
-    <name>TV 5 Monde F-Be-Ch Fr</name>
-    <id>TV5Monde.fr</id>
     <title>Le projet bonheur int?rieur brut</title>
     <desc>Et si toutes les ?coles nous incitaient ? nous engager dans l'aventure humaine ? Et si elles ?veillaient notre curiosit? pour le monde vivant ?</desc>
     <image>http://cltv.tmsimg.com/assets/p26506330_st_h10_aa.jpg?w=960&amp;h=540</image>
@@ -9058,26 +8474,6 @@
   <channel>
     <name>Thrill ID</name>
     <id>Thrill.id</id>
-    <title>Guns Of Eden</title>
-    <desc></desc>
-    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
-    <start>07:35AM</start>
-    <finish>08:15AM</finish>
-    <date>17 August 2026</date>
-  </channel>
-  <channel>
-    <name>Thrill ID</name>
-    <id>Thrill.id</id>
-    <title>Trans7</title>
-    <desc></desc>
-    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
-    <start>08:15AM</start>
-    <finish>09:00AM</finish>
-    <date>17 August 2026</date>
-  </channel>
-  <channel>
-    <name>Thrill ID</name>
-    <id>Thrill.id</id>
     <title>Trans7</title>
     <desc></desc>
     <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
@@ -9233,26 +8629,6 @@
     <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
     <start>05:15PM</start>
     <finish>05:30PM</finish>
-    <date>17 August 2026</date>
-  </channel>
-  <channel>
-    <name>Together TV UK</name>
-    <id>TogetherTV.uk</id>
-    <title>Teleshopping</title>
-    <desc>Teleshopping programming bringing you a selection of innovative products.</desc>
-    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
-    <start>08:00AM</start>
-    <finish>08:30AM</finish>
-    <date>17 August 2026</date>
-  </channel>
-  <channel>
-    <name>Together TV UK</name>
-    <id>TogetherTV.uk</id>
-    <title>Teleshopping</title>
-    <desc>Teleshopping programming bringing you a selection of innovative products.</desc>
-    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
-    <start>08:30AM</start>
-    <finish>09:00AM</finish>
     <date>17 August 2026</date>
   </channel>
   <channel>
@@ -9433,26 +8809,6 @@
     <image>https://images.metadata.sky.com/pd-image/cd1eb2e9-d0c4-4cc6-b0a4-9a46c1bb878d/16-9</image>
     <start>10:30PM</start>
     <finish>12:00AM</finish>
-    <date>17 August 2026</date>
-  </channel>
-  <channel>
-    <name>Vosges TV Fr</name>
-    <id>ViaVosges.fr</id>
-    <title>Case ? bulles Entretien avec DAWID</title>
-    <desc>Pas de description disponible.</desc>
-    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
-    <start>08:00AM</start>
-    <finish>08:40AM</finish>
-    <date>17 August 2026</date>
-  </channel>
-  <channel>
-    <name>Vosges TV Fr</name>
-    <id>ViaVosges.fr</id>
-    <title>LE JOURNAL DE L'ATELIER HORS SERIE Nature 1 - SUR LE VIF</title>
-    <desc>Magazine mensuel de l'Atelier d'Images Plus, pour et par les t?l?spectateurs qui nous font partager leur regard sur l'acutalit?.</desc>
-    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
-    <start>08:40AM</start>
-    <finish>09:00AM</finish>
     <date>17 August 2026</date>
   </channel>
   <channel>
