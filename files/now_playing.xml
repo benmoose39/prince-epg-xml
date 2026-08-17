@@ -1,43 +1,33 @@
 <?xml version="1.0" ?>
 <tv>
   <channel>
-    <name>Artv PT</name>
-    <id>Artv.pt</id>
-    <title>Informa??o n?o disponibilizada pelo canal</title>
-    <desc>Programa sem grava??o e grava??o autom?tica.</desc>
-    <image>https://mage.stream.nos.pt/v1/nostv_mage/Images?sourceUri=http%3A%2F%2Fvip.pam.local.internal%2FPAM.Images%2FStore%2FFilmes.jpg</image>
-    <start>01:00AM</start>
-    <finish>01:00AM</finish>
-    <date>16 August 2026</date>
-  </channel>
-  <channel>
-    <name>Assemblee Nationale CA</name>
-    <id>AssembleeNationale.ca</id>
-    <title>?quilibre</title>
-    <desc>Au fil de t?moignages de parlementaires d'hier ? aujourd'hui, dont Pauline Marois, Christine Labrie, Kariane Bourassa et Lise Th?riault, on explore les d?fis de concilier vie politique et vie familiale ; on d?voile les strat?gies et les sacrifices des ?lus devant ce double mandat et on met en lumi?re les retomb?es de leurs choix.[(96057)] </desc>
-    <image>http://cltv.tmsimg.com/assets/p30125637_b_h10_ab.jpg</image>
-    <start>12:00AM</start>
-    <finish>01:00AM</finish>
-    <date>17 August 2026</date>
-  </channel>
-  <channel>
     <name>BBC4 UK</name>
     <id>BBC4.uk</id>
-    <title>Jane Austen</title>
-    <desc>Martha Kearney follows Dr Paula Byrne, who believes she has come across a portrait of Jane Austen lost to the world for nearly two centuries. Can the picture stand up to scrutiny.</desc>
-    <image>https://images.metadata.sky.com/pd-image/ac7507b7-4014-4fe1-acba-4190e2101b1a/16-9</image>
-    <start>12:35AM</start>
-    <finish>01:35AM</finish>
+    <title>Bill Oddie Goes Wild</title>
+    <desc>Bill Oddie presents a compilation of the best clips from the three series of Bill Oddie Goes Wild.</desc>
+    <image>https://images.metadata.sky.com/pd-image/3ec0739e-f83d-40f5-9da6-cbe89a3b859d/16-9</image>
+    <start>02:35AM</start>
+    <finish>03:05AM</finish>
     <date>17 August 2026</date>
   </channel>
   <channel>
     <name>BBC News UK</name>
     <id>BBCNews.uk</id>
-    <title>What Happened at Chernobyl?</title>
-    <desc>Jordan Dunbar travels to Chernobyl to explore events that caused the world's worst nuclear disaster and to understand what we can learn from them.</desc>
-    <image>https://images.metadata.sky.com/pd-image/befe06c7-629f-484d-9997-73c8ab3677da/16-9</image>
-    <start>12:30AM</start>
-    <finish>01:00AM</finish>
+    <title>Business Today</title>
+    <desc>Bringing the latest business news and up-to-date informed analysis from Singapore and around the world.</desc>
+    <image>https://images.metadata.sky.com/pd-image/89abb31a-90c9-4a88-a9e0-ecb50cc0a00c/16-9</image>
+    <start>02:30AM</start>
+    <finish>02:45AM</finish>
+    <date>17 August 2026</date>
+  </channel>
+  <channel>
+    <name>BBC One NL</name>
+    <id>BBCOne.nl</id>
+    <title>Business Today</title>
+    <desc>Bringing the latest business news and up-to-date informed analysis from London and around the world.</desc>
+    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
+    <start>02:30AM</start>
+    <finish>02:45AM</finish>
     <date>17 August 2026</date>
   </channel>
   <channel>
@@ -53,21 +43,11 @@
   <channel>
     <name>BBC Two NL</name>
     <id>BBCTwo.nl</id>
-    <title>Bonnie and Clyde</title>
-    <desc>Celebrated tale about the rise and fall of two violent young outlaws and their gang, based on the lives of the two most notorious American outlaws of the 1930s - Bonnie Parker and Clyde Barrow. The film became a cinematic landmark because of its groundbreaking, realistic and brutal scenes of violence, and won two Oscars.</desc>
+    <title>This Is BBC TWO</title>
+    <desc>A preview of upcoming programmes from BBC Two.</desc>
     <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
-    <start>11:40PM</start>
-    <finish>01:30AM</finish>
-    <date>16 August 2026</date>
-  </channel>
-  <channel>
-    <name>Bloomberg TV US</name>
-    <id>BloombergTV.us</id>
-    <title>Live: Bloomberg The Asia Trade</title>
-    <desc>Bringing global investors everything you need to know as the trading day begins in Asia; Bloomberg TV is live from Tokyo and Sydney with Shery Ahn and Haidi Stroud-Watts, getting insight and analysis from newsmakers and industry leaders on the biggest stories shaping markets, from tech, to geopolitics, and the world's energy transition.[(96057)] </desc>
-    <image>http://cltv.tmsimg.com/assets/p29269509_b_h10_aa.jpg?w=960&amp;h=540</image>
-    <start>12:00AM</start>
-    <finish>02:00AM</finish>
+    <start>02:00AM</start>
+    <finish>06:45AM</finish>
     <date>17 August 2026</date>
   </channel>
   <channel>
@@ -81,243 +61,83 @@
     <date>16 August 2026</date>
   </channel>
   <channel>
-    <name>CBC Toronto CA</name>
-    <id>CBC.ca</id>
-    <title>Junior Baking Show</title>
-    <desc>Kids competing in a baking competition.</desc>
-    <image>https://tv.bell.ca/api/artwork/v3/artworks/artworkSelection/ASSET/TMS/EP035261400122/THUMBNAIL/500x373</image>
-    <start>12:00AM</start>
-    <finish>01:00AM</finish>
-    <date>17 August 2026</date>
-  </channel>
-  <channel>
-    <name>CBC News CA</name>
-    <id>CBCNews.ca</id>
-    <title>The Fifth Estate</title>
-    <desc>A vacation to Quebec's Mont-Tremblant turned into a nightmare. Last February, 22-year-old Liam Toman vanished without a trace. All that remains of his last moments are CCTV footage and his wallet.[(96057)] </desc>
-    <image>http://cltv.tmsimg.com/assets/p185883_b_h8_ag.jpg</image>
-    <start>12:00AM</start>
-    <finish>01:00AM</finish>
-    <date>17 August 2026</date>
-  </channel>
-  <channel>
-    <name>CBC Ottawa CA</name>
-    <id>CBCOttawa.ca</id>
-    <title>Junior Baking Show</title>
-    <desc>Kids competing in a baking competition.</desc>
-    <image>http://cltv.tmsimg.com/assets/p8906351_b_h8_ac.jpg</image>
-    <start>12:00AM</start>
-    <finish>01:00AM</finish>
-    <date>17 August 2026</date>
-  </channel>
-  <channel>
-    <name>CBC Vancouver CA</name>
-    <id>CBUT.ca</id>
-    <title>Jamie Oliver: Together</title>
-    <desc>Television chef Jamie Oliver offers a collection of recipes meant to be enjoyed with friends, family and loved ones.[(96057)] </desc>
-    <image>https://tv.bell.ca/api/artwork/v3/artworks/artworkSelection/ASSET/TMS/SH040620120000/THUMBNAIL/500x373</image>
-    <start>12:00AM</start>
-    <finish>01:00AM</finish>
-    <date>17 August 2026</date>
-  </channel>
-  <channel>
     <name>CBeebies UK</name>
     <id>CBeebies.uk</id>
     <title>..programmes start at 6.00am</title>
     <desc></desc>
     <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
-    <start>06:58PM</start>
-    <finish>12:58AM</finish>
-    <date>16 August 2026</date>
-  </channel>
-  <channel>
-    <name>CBC Yellowknife CA</name>
-    <id>CFYK.ca</id>
-    <title>The Great Canadian Baking Show</title>
-    <desc>The series brings together 10 amateur bakers from across Canada to compete in a series of themed culinary challenges that celebrate their diverse backgrounds, families and communities. Each episode features three rounds: the Signature Bake, the Technical Bake and the Show Stopper. After the judges taste and critique the bakes, they crown one Star Baker and ask one baker to leave the tent. The final three bakers compete for the title. &quot;The Great Canadian Baking Show&quot; is an affirming, warm-spirited competition that celebrates personal achievement and the joy of baking.[(96057)] </desc>
-    <image>http://cltv.tmsimg.com/assets/p14507922_b_h8_ab.jpg</image>
-    <start>12:00AM</start>
-    <finish>01:00AM</finish>
+    <start>12:58AM</start>
+    <finish>05:30AM</finish>
     <date>17 August 2026</date>
-  </channel>
-  <channel>
-    <name>CNBC Awaaz IN</name>
-    <id>CNBCAwaaz.in</id>
-    <title>Tech Guru</title>
-    <desc>The hosts share their reviews of the latest gadgets dominating the digital landscape whole providing guidance on navigating through technological trends.[(96057)] </desc>
-    <image>http://cltv.tmsimg.com/assets/p28894861_b_h8_aa.jpg</image>
-    <start>06:57PM</start>
-    <finish>01:57AM</finish>
-    <date>16 August 2026</date>
-  </channel>
-  <channel>
-    <name>CPAC Francais CA</name>
-    <id>CPAC.ca</id>
-    <title>Dossier public</title>
-    <desc>Couverture int?grale des conf?rences, des enqu?tes et des d?lib?rations parlementaires.[(96057)] </desc>
-    <image>http://cltv.tmsimg.com/assets/p32121134_b_h8_aa.jpg</image>
-    <start>12:10AM</start>
-    <finish>01:10AM</finish>
-    <date>17 August 2026</date>
-  </channel>
-  <channel>
-    <name>CSPAN US</name>
-    <id>CSPAN.us</id>
-    <title>Washington This Week</title>
-    <desc>Capitol Hill hearings, speeches from policymakers and political coverage from around the country.[(96057)] </desc>
-    <image>http://cltv.tmsimg.com/assets/p8775984_b_h10_ac.jpg?w=960&amp;h=540</image>
-    <start>12:00AM</start>
-    <finish>01:00AM</finish>
-    <date>17 August 2026</date>
-  </channel>
-  <channel>
-    <name>CSPAN 2 US</name>
-    <id>CSPAN2.us</id>
-    <title>America's Book Club</title>
-    <desc>Pulitzer Prize winner Jon Meacham joins David M. Rubenstein to discuss his biographies of Thomas Jefferson, Andrew Jackson, and George H.W. Bush, and his upcoming book on Dwight Eisenhower.[(96057)] </desc>
-    <image>http://cltv.tmsimg.com/assets/p31446220_b_h8_ab.jpg?w=960&amp;h=540</image>
-    <start>12:00AM</start>
-    <finish>01:00AM</finish>
-    <date>17 August 2026</date>
-  </channel>
-  <channel>
-    <name>CSPAN 3 US</name>
-    <id>CSPAN3.us</id>
-    <title>American History TV</title>
-    <desc>Airing weekends, &quot;American History TV&quot; offers programming about people and events that document the American story, geared toward history aficionados. Shows that air under the &quot;American History TV&quot; banner cover the history of the nation, from its founding in the 18th century through modern times. Topics covered include the Civil War, presidents and the exploration of historical sites.[(96057)] </desc>
-    <image>http://cltv.tmsimg.com/assets/p7824636_b_h8_ac.jpg?w=960&amp;h=540</image>
-    <start>11:20PM</start>
-    <finish>01:00AM</finish>
-    <date>16 August 2026</date>
   </channel>
   <channel>
     <name>Classica IT</name>
     <id>Classica.it</id>
-    <title>Passione secondo Giovanni - parte 1</title>
-    <desc>Composizione sacra \(1724\) di J.S.Bach - con Helen Donath, Julia Hamari, Peter Schreier, Horst Laubenthal, Ernst Gerold Schramm, Siegmund NimsGern - Muenchner Bachchor e Bachorchester - Karl Richter, dir. \(Ammersee, 1970\).</desc>
-    <image>https://guidatv.sky.it/uuid/Intrattenimento_Scene_7GZn0K86e.png</image>
-    <start>12:45AM</start>
-    <finish>02:15AM</finish>
-    <date>17 August 2026</date>
-  </channel>
-  <channel>
-    <name>Comet US</name>
-    <id>Comet.us</id>
-    <title>The Outpost</title>
-    <desc>Zed waits for Talon after a mysterious disappearance; Tobin faces his despised cousin; Gwynn makes Tobin an offer he can't refuse; a surprise visitor to the outpost interrupts a royal ceremony.[(96057)] </desc>
-    <image>http://cltv.tmsimg.com/assets/p15260617_b_h8_ag.jpg?w=960&amp;h=540</image>
-    <start>12:00AM</start>
-    <finish>01:00AM</finish>
-    <date>17 August 2026</date>
-  </channel>
-  <channel>
-    <name>Cooking Channel US</name>
-    <id>CookingChannel.us</id>
-    <title>Man v. Food</title>
-    <desc>Casey Webb's tasty travels take him to the Florida Keys for a bad-to-the-bone shrimp burrito and Ropa Vieja at a Cuban institution; then he grabs a fork for the largest slice of pie he's ever seen in The Fish House's Key Lime Pie Challenge.[(96057)] </desc>
-    <image>http://cltv.tmsimg.com/assets/p192792_b_h10_cn.jpg?w=960&amp;h=540</image>
-    <start>12:30AM</start>
-    <finish>01:00AM</finish>
-    <date>17 August 2026</date>
-  </channel>
-  <channel>
-    <name>DD News IN</name>
-    <id>DDNews.in</id>
-    <title>Do Took</title>
-    <desc>Important figures come together to share their opinions about political and social topics from India.[(96057)] </desc>
-    <image>http://cltv.tmsimg.com/assets/p12724434_b_h8_ab.jpg</image>
-    <start>12:30AM</start>
-    <finish>01:30AM</finish>
+    <title>Glenn Gould - Hereafter</title>
+    <desc>Alla scoperta dell'arte e della vita del singolare musicista canadese Glenn Gould, annoverato tra i piu' celebri pianisti di tutti i tempi, attraverso la voce di Mathieu Amalric - Bruno Monsaingeon, reg. \(2006\).</desc>
+    <image>https://guidatv.sky.it/uuid/00e6d865-cf9e-4f71-8007-4cb92d407e0c/16-9?cgid=260&amp;territory=IT&amp;md5ChecksumParam=4abca66ecd600fa94c2a9a520c4a96b8</image>
+    <start>02:15AM</start>
+    <finish>04:10AM</finish>
     <date>17 August 2026</date>
   </channel>
   <channel>
     <name>EWTN UK</name>
     <id>EWTN.uk</id>
-    <title>Savoring our faith</title>
-    <desc>Fr. Leo begins his time in the Philippines in Manila's historic Intramuros, visiting the Manila Cathedral and St. Augustine Church.</desc>
+    <title>Sunday best with fr. groeschel</title>
+    <desc>Experience some of the most inspirational interviews and discussions Fr. Benedict Groeschel had throughout his ministry on EWTN.</desc>
     <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
-    <start>12:30AM</start>
-    <finish>01:00AM</finish>
+    <start>02:30AM</start>
+    <finish>03:00AM</finish>
     <date>17 August 2026</date>
   </channel>
   <channel>
     <name>EuroNews UK</name>
     <id>EuroNews.uk</id>
-    <title>News</title>
-    <desc>The leading news stories of the moment.</desc>
-    <image>https://images.metadata.sky.com/pd-image/bb026750-e283-42c5-8a59-cd43522a1c7e/16-9</image>
-    <start>12:48AM</start>
-    <finish>01:00AM</finish>
+    <title>Made in europe</title>
+    <desc>'Made in Europe' asks if European firms still lead the world - going inside the factories to find out.</desc>
+    <image>https://images.metadata.sky.com/pd-image/82b6ab33-f5a4-4b25-848f-c9dc0f2ffdb0/16-9</image>
+    <start>02:38AM</start>
+    <finish>02:48AM</finish>
     <date>17 August 2026</date>
   </channel>
   <channel>
     <name>Euronews FR</name>
     <id>Euronews.fr</id>
-    <title>News</title>
-    <desc>L'info internationale toutes les 15 minutes de 5h00 ? 10h00 CET et toutes les demi-heures le reste de la journ?e. euronews: un regard diff?rent sur l'actualit?.</desc>
-    <image>https://tv7j.cdnartwhere.eu/cache/i3/76/7d/BcFRDsIgDADQu_TbQdE1Bc7CTxGY0xGJnYnJ4t333gFZtEKEx74Pjckmu3ZZqppeyyrT-FTVSXUz9-39LcnSDbkh-0zMc5AswRfm4BxSI25inmOBC3TRF0RweJ1_5BH-Jw.jpg</image>
-    <start>12:48AM</start>
-    <finish>01:00AM</finish>
-    <date>17 August 2026</date>
-  </channel>
-  <channel>
-    <name>Fox News US</name>
-    <id>FoxNews.us</id>
-    <title>Live: The Big Weekend Show</title>
-    <desc>Rotating panelists discuss the big news of the day and react to the top stories.[(96057)] </desc>
-    <image>http://cltv.tmsimg.com/assets/p24898330_b_h8_aa.jpg?w=960&amp;h=540</image>
-    <start>12:00AM</start>
-    <finish>01:00AM</finish>
+    <title>Made in Europe</title>
+    <desc>Focus sur les innovations, entreprises et initiatives europ?ennes dans les domaines de la technologie, de l'industrie, de l'environnement, de la sant? ou de l'alimentation.</desc>
+    <image>https://tv7j.cdnartwhere.eu/cache/i3/ff/3c/BcFJDsMgDADAv_jcsBcF3sLFDs7WoKI4lSpV_XtmfkAoDBnW6-qSiy56a7iwqMZ1w6GfLDKIHGo63p9atPeByVZnOVHwKVCk6GY3GUxj9JHU3hd4QEN5QQZrXPg-RwP_Gw.jpg</image>
+    <start>02:38AM</start>
+    <finish>02:48AM</finish>
     <date>17 August 2026</date>
   </channel>
   <channel>
     <name>France 24 Fr</name>
     <id>France24.fr</id>
-    <title>En t?te ? t?te</title>
-    <desc>Dans ce nouveau programme, la r?daction vous propose un ?change long format avec une personnalit? forte de notre r?gion.</desc>
-    <image>https://staticqbr-prod-ch.gnp.cloud.sunrisetv.ch/image-service/ImagesEPG/EventImages/p18820174_bd_h10_aa.jpg</image>
-    <start>12:45AM</start>
-    <finish>01:00AM</finish>
-    <date>17 August 2026</date>
-  </channel>
-  <channel>
-    <name>Global News BC1 CA</name>
-    <id>GlobalNewsBC1.ca</id>
-    <title>Global National</title>
-    <desc>The top stories from around the world.</desc>
-    <image>http://cltv.tmsimg.com/assets/p185876_b_h8_ae.jpg</image>
-    <start>12:30AM</start>
-    <finish>01:00AM</finish>
-    <date>17 August 2026</date>
-  </channel>
-  <channel>
-    <name>HSN2 US</name>
-    <id>HSN2.us</id>
-    <title>Best of HSN2</title>
-    <desc>A collection of top-selling items.</desc>
-    <image>http://cltv.tmsimg.com/assets/p8665806_b_h10_ag.jpg?w=960&amp;h=540</image>
-    <start>12:00AM</start>
-    <finish>01:00AM</finish>
+    <title>L?gendes urbaines</title>
+    <desc>La \.</desc>
+    <image>https://staticqbr-prod-ch.gnp.cloud.sunrisetv.ch/image-service/ImagesEPG/EventImages/p17595781_bd_h8_aa.jpg</image>
+    <start>02:42AM</start>
+    <finish>03:00AM</finish>
     <date>17 August 2026</date>
   </channel>
   <channel>
     <name>ITV 1 UK</name>
     <id>ITV1.uk</id>
-    <title>25 Years in Afghanistan</title>
-    <desc>Documentary revisiting Mir, whose life audiences followed through two decades of extraordinary change in the 2021 documentary My Childhood, My Country - 20 Years in Afghanistan.</desc>
-    <image>https://images.metadata.sky.com/pd-image/6ba3d568-de9f-47ac-9ae9-8ae02a687e67/16-9</image>
-    <start>11:15PM</start>
-    <finish>01:05AM</finish>
-    <date>16 August 2026</date>
+    <title>Shop on TV</title>
+    <desc>Teleshopping.</desc>
+    <image>https://images.metadata.sky.com/pd-image/999a3ff8-6fb5-4c18-8db9-0f2a5fc6a658/16-9</image>
+    <start>01:05AM</start>
+    <finish>03:00AM</finish>
+    <date>17 August 2026</date>
   </channel>
   <channel>
     <name>Kuriakos Tv PT</name>
     <id>KuriakosTv.pt</id>
-    <title>Encontro Com Deus</title>
-    <desc>Culto religioso da igreja Man? onde ter? um encontro com Deus.</desc>
-    <image>https://mage.stream.nos.pt/v1/nostv_mage/Images?sourceUri=http%3A%2F%2Fvip.pam.local.internal%2FPAM.Images%2FStore%2Ff19cbedf3b964f4e90c576292c8ff8fa</image>
-    <start>12:00AM</start>
-    <finish>02:00AM</finish>
+    <title>Pol?tica &amp; Religi?o</title>
+    <desc>O programa ter? a presen?a do Ap?stolo Jorge Tadeu, onde ser?o abordados v?rios temas da atualidade sobre a POL?TICA vs o que a B?BLIA fala.</desc>
+    <image>https://mage.stream.nos.pt/v1/nostv_mage/Images?sourceUri=http%3A%2F%2Fvip.pam.local.internal%2FPAM.Images%2FStore%2F6e16f45335954d3bac64aa488eea2870</image>
+    <start>02:00AM</start>
+    <finish>03:00AM</finish>
     <date>17 August 2026</date>
   </channel>
   <channel>
@@ -333,41 +153,21 @@
   <channel>
     <name>La Otra ES</name>
     <id>LaOtra.es</id>
-    <title>Cine</title>
-    <desc></desc>
-    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
-    <start>12:28AM</start>
-    <finish>02:09AM</finish>
-    <date>17 August 2026</date>
-  </channel>
-  <channel>
-    <name>Law &amp; Crime US</name>
-    <id>LawAndCrime.us</id>
-    <title>Cops Reloaded</title>
-    <desc>A drug-addled suspect is off in another dimension; two prostitutes are questioned on the Vegas Strip; Police question a driver's claim that she wasn't in her car when it crashed through a bar.[(96057)] </desc>
-    <image>http://cltv.tmsimg.com/assets/p11953512_b_h8_aa.jpg?w=960&amp;h=540</image>
-    <start>12:30AM</start>
-    <finish>01:00AM</finish>
+    <title>Una historia de cr?menes</title>
+    <desc>Con la participaci?n de reconocidos expertos como Manuel Marlasca, Miguel Lorente o Patricia Abet, cada episodio analiza en profundidad un crimen e intenta esclarecer las posibles razones que llevaron a los asesinos a cometerlo.</desc>
+    <image>https://www.movistarplus.es/recorte/n/caratula5/MOTRAP3860403</image>
+    <start>02:09AM</start>
+    <finish>02:51AM</finish>
     <date>17 August 2026</date>
   </channel>
   <channel>
     <name>MNC TV ID</name>
     <id>MNCTV.id</id>
-    <title>Pada Zaman Dahulu</title>
+    <title>Upin &amp; Ipin</title>
     <desc></desc>
     <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
-    <start>12:00AM</start>
-    <finish>01:00AM</finish>
-    <date>17 August 2026</date>
-  </channel>
-  <channel>
-    <name>MSNBC US</name>
-    <id>MSNBC.us</id>
-    <title>Connect With Jacob Soboroff</title>
-    <desc>Jacob Soboroff brings viewers closer to the news, people and conversations shaping America, forging a meaningful link between himself, his audience and the communities at the center of the national dialogue.[(96057)] </desc>
-    <image>http://cltv.tmsimg.com/assets/p33137583_b_h8_aa.jpg?w=960&amp;h=540</image>
-    <start>12:00AM</start>
-    <finish>01:00AM</finish>
+    <start>02:00AM</start>
+    <finish>03:30AM</finish>
     <date>17 August 2026</date>
   </channel>
   <channel>
@@ -378,9 +178,9 @@
 ?????? ???? ????????? ?????? ???????? ??????? ????? ???????? ?????? ?????????? ????? ????????? ??? ???? ???. ????? ?????? ?????????????? ??????? ??? ???????????????? ???????????? ??? ???????? ?????????? ????????????? ??????? ????? ??????????????? ??????? ??????????????? ??????? ????? ??????. ???????? ?????????? ?????? ???????? ?????????, ?????? ??? ????? ????????? ??????? ????????? ??????????. ??????????? ????????? ????????? ???? ??? ?????????? ??? ?????????. ????? ????????? ????? ??????? ????? ???????? ????? ?????, ?????, ?????, ?????, ?????, ???? ??????? ????????????! 
 ??? ????????? ????????????? ????? ?????? ???????? ?????????? ??????????? ?????????????? ??? ????? ???3-? ???, ????????? ??????? ?????????? ??????????? ????.</desc>
     <image>https://tlum.ru/uploads/1f51770a50b82d2d75e31ed2be2fdd6484c92c230403fff9da8065802a211687.jpeg</image>
-    <start>11:00PM</start>
-    <finish>12:55AM</finish>
-    <date>16 August 2026</date>
+    <start>01:20AM</start>
+    <finish>03:05AM</finish>
+    <date>17 August 2026</date>
   </channel>
   <channel>
     <name>Metro TV ID</name>
@@ -388,58 +188,38 @@
     <title>Pengibaran Bendera RI</title>
     <desc></desc>
     <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
-    <start>12:30AM</start>
-    <finish>01:00AM</finish>
+    <start>02:30AM</start>
+    <finish>03:00AM</finish>
     <date>17 August 2026</date>
   </channel>
   <channel>
     <name>Movies 24 UK</name>
     <id>Movies24.uk</id>
-    <title>Romance At Hope Ranch</title>
-    <desc>Hope Morgan arrives in Ruidoso, New Mexico, to fulfil her childhood dream of running a ranch and revive the beloved Giddy Up Gala. Starring Alison Sweeney and Gabriel Hogan.</desc>
-    <image>https://images.metadata.sky.com/pd-image/b54a1e1b-c325-49d0-a9a2-2cc17443cceb/16-9</image>
-    <start>11:00PM</start>
-    <finish>01:00AM</finish>
-    <date>16 August 2026</date>
-  </channel>
-  <channel>
-    <name>Newsmax US</name>
-    <id>Newsmax.us</id>
-    <title>Carl Higbie This Week</title>
-    <desc>Carl Higbie gives common-sense news analysis, exposes government and media bias, as he fights for American values.[(96057)] </desc>
-    <image>http://cltv.tmsimg.com/assets/p29246468_b_h10_aa.jpg?w=960&amp;h=540</image>
-    <start>12:00AM</start>
-    <finish>01:00AM</finish>
+    <title>The Reluctant Royal</title>
+    <desc>When Philly mechanic Johnny learns that his long-lost father is a duke, he reluctantly enters the world of royalty. Starring Emilie de Ravin.</desc>
+    <image>https://images.metadata.sky.com/pd-image/2e15917c-d619-49c6-a8dd-5b1b6e9f79e8/16-9</image>
+    <start>01:00AM</start>
+    <finish>03:00AM</finish>
     <date>17 August 2026</date>
   </channel>
   <channel>
     <name>Nick Jr UK</name>
     <id>NickJunior.uk</id>
-    <title>Peppa Pig</title>
-    <desc>Peppa is playing at Suzy's house and they find out that Granny Sheep is moving in! She transforms the dull spare room and attic into an exotic boudoir and creative studio.</desc>
-    <image>https://images.metadata.sky.com/pd-image/426a924d-227c-3784-b102-ab255ae9ace9/16-9</image>
-    <start>12:50AM</start>
-    <finish>01:00AM</finish>
+    <title>The Adventures of Paddington</title>
+    <desc>The Windsor Ruby is missing in 'Paddington's Adventure Club Cracks The Case!', then in 'Paddington And Aunt Lucy's Special Recipe', the Browns set up a takeaway, but it's hard work.</desc>
+    <image>https://images.metadata.sky.com/pd-image/74c07187-d787-3578-8642-56819b40453a/16-9</image>
+    <start>02:30AM</start>
+    <finish>03:00AM</finish>
     <date>17 August 2026</date>
   </channel>
   <channel>
     <name>Nickelodeon RO</name>
     <id>Nickelodeon.ro</id>
-    <title>Un show cu Patrick Stea</title>
-    <desc>Bunica Tentacule ?l ajut? pe Calamar s?-?i ia banii de la Cecil pentru livrarea de ziare. // Casa familiei Stea... fuge de acas?.</desc>
-    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
-    <start>12:40AM</start>
-    <finish>01:05AM</finish>
-    <date>17 August 2026</date>
-  </channel>
-  <channel>
-    <name>PopTV US</name>
-    <id>PopTV.us</id>
-    <title>Criminal Minds</title>
-    <desc>When corpses are discovered in public places in Boston, a ride-sharing service may lead the team to the killer.[(96057)] </desc>
-    <image>http://cltv.tmsimg.com/assets/p185123_b_h8_ak.jpg?w=960&amp;h=540</image>
-    <start>12:10AM</start>
-    <finish>01:15AM</finish>
+    <title>Henry Pericol</title>
+    <desc></desc>
+    <image>https://static.cinemagia.ro/img/db/movie/89/81/57/henry-danger-806743l.jpg</image>
+    <start>02:30AM</start>
+    <finish>02:55AM</finish>
     <date>17 August 2026</date>
   </channel>
   <channel>
@@ -458,8 +238,8 @@
     <title>Beauty Must Haves with Nakery</title>
     <desc>Discover beauty must-haves with Nakery. From feel-good body care to everyday essentials, find simple ways to refresh your routine and boost your glow.</desc>
     <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
-    <start>12:00AM</start>
-    <finish>01:00AM</finish>
+    <start>02:00AM</start>
+    <finish>03:00AM</finish>
     <date>17 August 2026</date>
   </channel>
   <channel>
@@ -468,8 +248,8 @@
     <title>Best Of QVC Beauty</title>
     <desc>All the highlights and star products.</desc>
     <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
-    <start>12:00AM</start>
-    <finish>01:00AM</finish>
+    <start>02:00AM</start>
+    <finish>03:00AM</finish>
     <date>17 August 2026</date>
   </channel>
   <channel>
@@ -478,18 +258,8 @@
     <title>Best of QVC Style</title>
     <desc>Catch all the recent highlights from our sister channel with the Best of QVC Style.</desc>
     <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
-    <start>12:00AM</start>
-    <finish>01:00AM</finish>
-    <date>17 August 2026</date>
-  </channel>
-  <channel>
-    <name>RDI News CA</name>
-    <id>RDINews.ca</id>
-    <title>Live: L'info maintenant</title>
-    <desc>Les nouvelles qui marquent l'actualit? au pays et ailleurs dans le monde.[(96057)] </desc>
-    <image>http://cltv.tmsimg.com/assets/p22137270_b_h10_ac.jpg</image>
-    <start>12:30AM</start>
-    <finish>01:00AM</finish>
+    <start>02:00AM</start>
+    <finish>03:00AM</finish>
     <date>17 August 2026</date>
   </channel>
   <channel>
@@ -505,11 +275,11 @@
   <channel>
     <name>RTP Internacional PT</name>
     <id>RTPInternacional.pt</id>
-    <title>24 Horas</title>
-    <desc>Ou00a0essencial da informau00e7u00e3o u00e0 meia-noite e as primeiras pu00e1ginas dos jornais com anu00e1lise em antena.</desc>
-    <image>https://cdn-images.rtp.pt/EPG/imagens/46712_77584_54941.png</image>
-    <start>12:00AM</start>
-    <finish>01:00AM</finish>
+    <title>Su00f3 Como e Bebo. Por Acaso, Trabalho!</title>
+    <desc>Tempo.</desc>
+    <image>https://cdn-images.rtp.pt/EPG/imagens/47442_78301_75812.jpg</image>
+    <start>02:15AM</start>
+    <finish>03:15AM</finish>
     <date>17 August 2026</date>
   </channel>
   <channel>
@@ -525,32 +295,32 @@
   <channel>
     <name>Rtp 3 PT</name>
     <id>Rtp3.pt</id>
-    <title>24 Horas</title>
-    <desc>O\u00A0essencial da informa??o ? meia-noite e as primeiras p?ginas dos jornais com an?lise em antena. Com F?tima Ara?jo e Beatriz Veloso.</desc>
-    <image>https://mage.stream.nos.pt/v1/nostv_mage/Images?sourceUri=http%3A%2F%2Fvip.pam.local.internal%2FPAM.Images%2FStore%2F9b033fd06b5146dd9a5e2c7e2f0040d9</image>
-    <start>11:50PM</start>
-    <finish>01:00AM</finish>
-    <date>16 August 2026</date>
+    <title>Especial Desporto</title>
+    <desc>Programa especial de debate e pe?as de conte?do Desportivo.</desc>
+    <image>https://mage.stream.nos.pt/v1/nostv_mage/Images?sourceUri=http%3A%2F%2Fvip.pam.local.internal%2FPAM.Images%2FStore%2F99c62b37867f4635a4e1e495ef410976</image>
+    <start>01:55AM</start>
+    <finish>02:55AM</finish>
+    <date>17 August 2026</date>
   </channel>
   <channel>
     <name>Rtp Açores PT</name>
     <id>RtpAcores.pt</id>
     <title>Informa??o N?o Disponibilizada Pelo Canal</title>
     <desc></desc>
-    <image>https://mage.stream.nos.pt/v1/nostv_mage/Images?sourceUri=http%3A%2F%2Fvip.pam.local.internal%2FPAM.Images%2FStore%2F85b83fced6804441836fec27a3959dbe</image>
-    <start>08:30PM</start>
-    <finish>02:30AM</finish>
-    <date>16 August 2026</date>
+    <image>https://mage.stream.nos.pt/v1/nostv_mage/Images?sourceUri=http%3A%2F%2Fvip.pam.local.internal%2FPAM.Images%2FStore%2F643938e95441496196930a8bac507abd</image>
+    <start>02:30AM</start>
+    <finish>08:30AM</finish>
+    <date>17 August 2026</date>
   </channel>
   <channel>
     <name>Rtp África PT</name>
     <id>RtpAfrica.pt</id>
-    <title>24 Horas</title>
-    <desc>Bloco noticioso com um olhar para o dia que termina, marcando claramente a atualidade do novo dia que come?a. Neste espa?o de informa??o t?m tamb?m destaque os principais eventos culturais do pa?s, com as opini?es de quem os constr?i e daqueles que estiveram na plateia.</desc>
-    <image>https://mage.stream.nos.pt/v1/nostv_mage/Images?sourceUri=http%3A%2F%2Fvip.pam.local.internal%2FPAM.Images%2FStore%2F9b033fd06b5146dd9a5e2c7e2f0040d9</image>
-    <start>11:45PM</start>
-    <finish>01:01AM</finish>
-    <date>16 August 2026</date>
+    <title>The Voice Gera??es - Melhores Momentos</title>
+    <desc>Recorde as atua??es inesquec?veis, as hist?rias inspiradoras e os momentos ?nicos dos concorrentes do The Voice Gera??es.</desc>
+    <image>https://mage.stream.nos.pt/v1/nostv_mage/Images?sourceUri=http%3A%2F%2Fvip.pam.local.internal%2FPAM.Images%2FStore%2F1f36caa1a25842d5beb465530061672a</image>
+    <start>02:00AM</start>
+    <finish>03:00AM</finish>
+    <date>17 August 2026</date>
   </channel>
   <channel>
     <name>Rtp Madeira PT</name>
@@ -567,9 +337,9 @@
     <id>SkyNews.uk</id>
     <title>Sky News</title>
     <desc>A round up of all the latest news from the UK and around the world.</desc>
-    <image>https://images.metadata.sky.com/pd-image/fe5b1474-b96a-47df-b8a1-8c09a162cc9d/16-9</image>
-    <start>12:00AM</start>
-    <finish>01:00AM</finish>
+    <image>https://images.metadata.sky.com/pd-image/02d56fe0-2775-4aea-8071-64eecbdc14af/16-9</image>
+    <start>02:00AM</start>
+    <finish>03:00AM</finish>
     <date>17 August 2026</date>
   </channel>
   <channel>
@@ -585,22 +355,22 @@
   <channel>
     <name>TG4 IE</name>
     <id>TG4.ie</id>
-    <title>S? Mo Laoch</title>
-    <desc>Is ? Mair?ad N? Mhaonaigh as Gaoth Dobhair a bheidh faoi chaibidil sa chl?r seo.</desc>
-    <image>https://images.metadata.sky.com/pd-image/cab051bf-10b9-469d-9baf-67cd3bddc3e3/16-9</image>
-    <start>12:15AM</start>
-    <finish>01:15AM</finish>
+    <title>Sc?alta ?r Stampa?</title>
+    <desc>Gheobhaidh Aed?n N? Thiarnaigh amach faoin gcaoi a l?ir?tear planda? na h?ireann ar stampa? na t?re.</desc>
+    <image>https://images.metadata.sky.com/pd-image/d4a8de0d-99f4-3930-a798-d5cd580850f2/16-9</image>
+    <start>02:30AM</start>
+    <finish>03:00AM</finish>
     <date>17 August 2026</date>
   </channel>
   <channel>
     <name>TV 5 Monde F-Be-Ch Fr</name>
     <id>TV5Monde.fr</id>
-    <title>Dr?le de drame</title>
-    <desc>Le brave Pr Molyneux ?crit des romans policiers sous le pseudonyme de Chaptel. Son cousin, Mgr Soper, ?v?que de Bedford, condamne avec virulence ce genre litt?raire et m?ne une v?ritable campagne contre ce Chaptel. Pour compliquer le tout, Mgr Soper choisit un soir o? les Molyneux n'ont plus de bonne pour s'inviter ? d?ner.</desc>
-    <image>http://cltv.tmsimg.com/assets/p9508_v_h10_aa.jpg?w=960&amp;h=540</image>
-    <start>11:54PM</start>
-    <finish>01:30AM</finish>
-    <date>16 August 2026</date>
+    <title>? l'instinct</title>
+    <desc>Teva Royer, lieutenant de police ? Cayenne, accorde une confiance aveugle ? son instinct. Ana Kerjouan, capitaine de la SRPJ de Nantes, est rigoureuse et patiente. 48h apr?s la d?couverte du cadavre de la fille d'un magnat immobilier, Teva est d?p?ch? pour assister l'?quipe d'Ana.</desc>
+    <image>http://cltv.tmsimg.com/assets/p23819963_b_h8_ad.jpg?w=960&amp;h=540</image>
+    <start>01:30AM</start>
+    <finish>03:00AM</finish>
+    <date>17 August 2026</date>
   </channel>
   <channel>
     <name>TVA CA</name>
@@ -618,28 +388,28 @@
     <title>Trans7</title>
     <desc></desc>
     <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
-    <start>12:30AM</start>
-    <finish>01:15AM</finish>
+    <start>02:30AM</start>
+    <finish>03:30AM</finish>
     <date>17 August 2026</date>
   </channel>
   <channel>
     <name>Together TV UK</name>
     <id>TogetherTV.uk</id>
-    <title>Groupie Girl</title>
-    <desc>Sally runs away from her strict upbringing to become a rock band's groupie. A cautionary tale of hairy hippies and heartbreak.</desc>
-    <image>https://images.metadata.sky.com/pd-image/c75f3a0c-b593-4e10-90bd-b09533fe4a93/16-9</image>
-    <start>12:00AM</start>
-    <finish>02:00AM</finish>
+    <title>Deadly Recruits</title>
+    <desc>Spy thriller. Promising Oxford University students are disappearing. An M15 investigation uncovers a pattern of accidents and arrests. Is the KGB involved? Terence Stamp stars.</desc>
+    <image>https://images.metadata.sky.com/pd-image/36cd2934-63a4-32a4-91ad-d80ea3814089/16-9</image>
+    <start>02:00AM</start>
+    <finish>04:00AM</finish>
     <date>17 August 2026</date>
   </channel>
   <channel>
     <name>Vosges TV Fr</name>
     <id>ViaVosges.fr</id>
-    <title>CONCERT : Grand Choral 2025</title>
-    <desc>Pas de description disponible.</desc>
+    <title>LE GRAND JOURNAL DES TERRITOIRES - RETRO - METEO - ECO REGIONS - LA TERRE VUE DU SPORT ? MEDITATION ? P?TIT CAB - LES TOQUES DU SUD - EXPERIMETIERS - TALENTS VOSGIENS</title>
+    <desc>Retrouvez votre journal du lundi au vendredi ? partir de 18h, en continu jusqu'? 19h, puis ? 20h30, 22h30, et le lendemain de 5h ? 10h.</desc>
     <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
-    <start>12:10AM</start>
-    <finish>01:40AM</finish>
+    <start>01:40AM</start>
+    <finish>08:00AM</finish>
     <date>17 August 2026</date>
   </channel>
   <channel>
@@ -650,46 +420,6 @@
     <image>http://cltv.tmsimg.com/assets/p172507_v_h10_ac.jpg?w=960&amp;h=540</image>
     <start>12:30AM</start>
     <finish>03:00AM</finish>
-    <date>17 August 2026</date>
-  </channel>
-  <channel>
-    <name>Detroit Public TV US</name>
-    <id>WTVS.us</id>
-    <title>Dolly Parton: Here I Am</title>
-    <desc>The life, career and music of Dolly Parton are reflected in interviews with friends, companions and the artist herself, mixed with clips of Parton's performances.[(96057)] </desc>
-    <image>http://cltv.tmsimg.com/assets/p17688544_b_h8_ai.jpg?w=960&amp;h=540</image>
-    <start>11:00PM</start>
-    <finish>01:00AM</finish>
-    <date>16 August 2026</date>
-  </channel>
-  <channel>
-    <name>Weather Channel US</name>
-    <id>WeatherChannel.us</id>
-    <title>Deadline to Disaster</title>
-    <desc>Record-setting rainfall sends a wall of water into the small town of Waverly, Tenn., leaving residents stranded and clinging to life.[(96057)] </desc>
-    <image>http://cltv.tmsimg.com/assets/p23191668_b_h8_ad.jpg?w=960&amp;h=540</image>
-    <start>12:00AM</start>
-    <finish>01:00AM</finish>
-    <date>17 August 2026</date>
-  </channel>
-  <channel>
-    <name>Weather Nation US</name>
-    <id>WeatherNation.us</id>
-    <title>Top Weather News, Regional Forecasts, Live Severe Coverage, and Local Weather</title>
-    <desc>Live top weather news, severe weather coverage, regional forecasts, and a look at your local weather every hour on the 7's. Get more local weather, sooner![(96057)] </desc>
-    <image>http://cltv.tmsimg.com/assets/p32207743_st_h10_aa.jpg?w=960&amp;h=540</image>
-    <start>11:00PM</start>
-    <finish>01:00AM</finish>
-    <date>16 August 2026</date>
-  </channel>
-  <channel>
-    <name>Z Living US</name>
-    <id>ZLiving.us</id>
-    <title>Wiseguy</title>
-    <desc>When his wife leaves him, Sonny Steelgrave's accountant escapes government protection to exact revenge on Frank McPike.[(96057)] </desc>
-    <image>http://cltv.tmsimg.com/assets/p183905_b_h10_ad.jpg?w=960&amp;h=540</image>
-    <start>12:00AM</start>
-    <finish>01:00AM</finish>
     <date>17 August 2026</date>
   </channel>
 </tv>
