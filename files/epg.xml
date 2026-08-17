@@ -33,16 +33,6 @@
   <channel>
     <name>BBC News UK</name>
     <id>BBCNews.uk</id>
-    <title>BBC News at Ten</title>
-    <desc>The latest national and international news, with reports from BBC correspondents worldwide.</desc>
-    <image>https://images.metadata.sky.com/pd-image/8e1f4ef7-5793-4af2-90f3-9e8d1d6b4ae8/16-9</image>
-    <start>10:00PM</start>
-    <finish>10:30PM</finish>
-    <date>17 August 2026</date>
-  </channel>
-  <channel>
-    <name>BBC News UK</name>
-    <id>BBCNews.uk</id>
     <title>Newsnight</title>
     <desc>Insights and global interviews on the crucial news stories of the day. With Faisal Islam.</desc>
     <image>https://images.metadata.sky.com/pd-image/58de8abc-a8cb-448d-b07f-ce1ddcbfd9cf/16-9</image>
@@ -58,26 +48,6 @@
     <image>https://images.metadata.sky.com/pd-image/688bad96-dad2-49a4-ae4d-a3565a2fdb77/16-9</image>
     <start>11:00PM</start>
     <finish>12:00AM</finish>
-    <date>17 August 2026</date>
-  </channel>
-  <channel>
-    <name>BBC One NL</name>
-    <id>BBCOne.nl</id>
-    <title>BBC News at Ten</title>
-    <desc>The latest national and international news, with reports from BBC correspondents worldwide.</desc>
-    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
-    <start>10:00PM</start>
-    <finish>10:30PM</finish>
-    <date>17 August 2026</date>
-  </channel>
-  <channel>
-    <name>BBC One NL</name>
-    <id>BBCOne.nl</id>
-    <title>BBC London</title>
-    <desc>News, sport and weather from London.</desc>
-    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
-    <start>10:30PM</start>
-    <finish>10:40PM</finish>
     <date>17 August 2026</date>
   </channel>
   <channel>
@@ -443,16 +413,6 @@
   <channel>
     <name>BBC Two NL</name>
     <id>BBCTwo.nl</id>
-    <title>Mortimer and Whitehouse: Gone Fishing</title>
-    <desc>Paul and Bob set off in a punt to fish for perch on a weir pool on the River Thames, leaving poor old terrier Ted forlorn on the river bank, as he is not allowed on the boat with them. The trio are also joined by comedian Richard Herring for a hearty, healthy meal.</desc>
-    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
-    <start>10:00PM</start>
-    <finish>10:30PM</finish>
-    <date>17 August 2026</date>
-  </channel>
-  <channel>
-    <name>BBC Two NL</name>
-    <id>BBCTwo.nl</id>
     <title>Newsnight</title>
     <desc>Featuring extensive coverage of the day's top national and international news stories, along with explanations about the context and potential aftereffects.</desc>
     <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
@@ -723,31 +683,11 @@
   <channel>
     <name>Classica IT</name>
     <id>Classica.it</id>
-    <title>The making of West Side Story</title>
-    <desc>Documentario che svela il dietro le quinte della registrazione del celebre musical di Bernstein a 27 anni dalla prima assoluta - K.T.Kanawa, J.Carreras, T.Troyanos, K.Ollmann - L.Bernstein, dir. - C.Swann, reg. \(1984\).</desc>
-    <image>https://guidatv.sky.it/uuid/4c71fa17-9ef6-4687-8477-9886bdc8b56f/16-9?cgid=260&amp;territory=IT&amp;md5ChecksumParam=d1b3a72d7b74c232b612788e6004a39e</image>
-    <start>08:45PM</start>
-    <finish>10:30PM</finish>
-    <date>17 August 2026</date>
-  </channel>
-  <channel>
-    <name>Classica IT</name>
-    <id>Classica.it</id>
     <title>Schumann - Carnaval, op.9</title>
     <desc>Composta da Robert Schumann nel 1835, questa composizione pianistica e' costituita da ventidue pezzi, una serie di miniature unite da un motivo ricorrente - Orazio Sciortino al pianoforte \(Milano, Piano City 2014\).[(96057)] </desc>
     <image>https://guidatv.sky.it/uuid/770fc6e1-437a-4d74-9ab0-abcf75c0a946/16-9?territory=IT&amp;md5ChecksumParam=2c1553cc60d266cc9baec15a68d7bbd9</image>
     <start>10:30PM</start>
     <finish>11:00PM</finish>
-    <date>17 August 2026</date>
-  </channel>
-  <channel>
-    <name>EWTN UK</name>
-    <id>EWTN.uk</id>
-    <title>Life on the rock</title>
-    <desc>Fr. Mark and the Franciscan Friars of the Eternal Word are back. Interviews, spiritual insights from the friars, music videos and much more.</desc>
-    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
-    <start>10:00PM</start>
-    <finish>10:30PM</finish>
     <date>17 August 2026</date>
   </channel>
   <channel>
@@ -768,26 +708,6 @@
     <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
     <start>11:00PM</start>
     <finish>12:00AM</finish>
-    <date>17 August 2026</date>
-  </channel>
-  <channel>
-    <name>EuroNews UK</name>
-    <id>EuroNews.uk</id>
-    <title>The European Debrief</title>
-    <desc>Live headlines,breaking news, analysis and interviews from Europe's News Centre.</desc>
-    <image>https://images.metadata.sky.com/pd-image/30dbbbd0-4a6d-4d21-a1ab-bd0456d843b0/16-9</image>
-    <start>10:00PM</start>
-    <finish>10:15PM</finish>
-    <date>17 August 2026</date>
-  </channel>
-  <channel>
-    <name>EuroNews UK</name>
-    <id>EuroNews.uk</id>
-    <title>The European Debrief</title>
-    <desc>Live headlines,breaking news, analysis and interviews from Europe's News Centre.</desc>
-    <image>https://images.metadata.sky.com/pd-image/c32fec47-4c38-4193-a782-647d866dca7f/16-9</image>
-    <start>10:15PM</start>
-    <finish>10:30PM</finish>
     <date>17 August 2026</date>
   </channel>
   <channel>
@@ -828,36 +748,6 @@
     <image>https://images.metadata.sky.com/pd-image/f357fb98-604f-4c69-b609-ad3867e93c2e/16-9</image>
     <start>11:30PM</start>
     <finish>12:00AM</finish>
-    <date>17 August 2026</date>
-  </channel>
-  <channel>
-    <name>France 24 Fr</name>
-    <id>France24.fr</id>
-    <title>Le journal</title>
-    <desc>Toutes les heures, 24 h sur 24, un journal de 10 minutes est pr?sent? en direct de la salle de r?daction.</desc>
-    <image>https://staticqbr-prod-ch.gnp.cloud.sunrisetv.ch/image-service/ImagesEPG/EventImages/p8187192_bd_h8_ab.jpg</image>
-    <start>10:00PM</start>
-    <finish>10:12PM</finish>
-    <date>17 August 2026</date>
-  </channel>
-  <channel>
-    <name>France 24 Fr</name>
-    <id>France24.fr</id>
-    <title>Billet Retour</title>
-    <desc>Les reporters de France 24 reviennent dans des villes oubli?es qui ont fait la Une de l'actualit?. Comment vit-on aujourd'hui dans les villes traumatis?es par une guerre, une catastrophe naturelle ou un d?sastre industriel ?</desc>
-    <image>https://staticqbr-prod-ch.gnp.cloud.sunrisetv.ch/image-service/ImagesEPG/EventImages/p9870666_bd_h10_ab.jpg</image>
-    <start>10:12PM</start>
-    <finish>10:30PM</finish>
-    <date>17 August 2026</date>
-  </channel>
-  <channel>
-    <name>France 24 Fr</name>
-    <id>France24.fr</id>
-    <title>Le journal</title>
-    <desc>Toutes les heures, 24 h sur 24, un journal de 10 minutes est pr?sent? en direct de la salle de r?daction.</desc>
-    <image>https://staticqbr-prod-ch.gnp.cloud.sunrisetv.ch/image-service/ImagesEPG/EventImages/p8187192_bd_h8_ab.jpg</image>
-    <start>10:30PM</start>
-    <finish>10:42PM</finish>
     <date>17 August 2026</date>
   </channel>
   <channel>
@@ -943,16 +833,6 @@
   <channel>
     <name>ITV 1 UK</name>
     <id>ITV1.uk</id>
-    <title>ITV News at Ten</title>
-    <desc>ITV News provides a fresh perspective on the major stories of the day with national and international news with reports and analysis from ITV's Correspondents.</desc>
-    <image>https://images.metadata.sky.com/pd-image/69d20316-5c61-4175-9f07-c5b1eb932980/16-9</image>
-    <start>10:00PM</start>
-    <finish>10:30PM</finish>
-    <date>17 August 2026</date>
-  </channel>
-  <channel>
-    <name>ITV 1 UK</name>
-    <id>ITV1.uk</id>
     <title>ITV News London</title>
     <desc>The latest news and weather from London and the South East.</desc>
     <image>https://images.metadata.sky.com/pd-image/5e731543-0e5c-4a7b-8494-a919555d0297/16-9</image>
@@ -1003,16 +883,6 @@
   <channel>
     <name>La Otra ES</name>
     <id>LaOtra.es</id>
-    <title>Mujeres esp?as en la Segunda Guerra Mundial</title>
-    <desc>Una serie de seis episodios sobre las haza?as y villan?as del espionaje en la Segunda Guerra Mundial, con mujeres en el centro de las operaciones de alto riesgo.[(96057)] </desc>
-    <image>https://www.movistarplus.es/recorte/n/caratula5/MOTRAP4315982</image>
-    <start>09:38PM</start>
-    <finish>10:36PM</finish>
-    <date>17 August 2026</date>
-  </channel>
-  <channel>
-    <name>La Otra ES</name>
-    <id>LaOtra.es</id>
     <title>Cine</title>
     <desc></desc>
     <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
@@ -1050,56 +920,6 @@
     <image>https://images.metadata.sky.com/pd-image/57ff7ea9-2333-382d-8775-89aa2aaa7aa0/16-9</image>
     <start>11:00PM</start>
     <finish>01:00AM</finish>
-    <date>17 August 2026</date>
-  </channel>
-  <channel>
-    <name>Nick Jr UK</name>
-    <id>NickJunior.uk</id>
-    <title>Peppa Pig</title>
-    <desc>Mummy and Daddy Pig are working in their home office and Peppa wants to 'work' like them too. Peppa decides that she needs her own office, so she takes the cupboard under the stairs.</desc>
-    <image>https://images.metadata.sky.com/pd-image/e96d8705-a2ac-31c1-8ac5-b5afee30575b/16-9</image>
-    <start>10:00PM</start>
-    <finish>10:05PM</finish>
-    <date>17 August 2026</date>
-  </channel>
-  <channel>
-    <name>Nick Jr UK</name>
-    <id>NickJunior.uk</id>
-    <title>Peppa Pig</title>
-    <desc>Peppa and her family take a poorly swift to the vet's. After a night of rest, the swift recovers and Doctor Hamster releases it so it can fly around the world again.</desc>
-    <image>https://images.metadata.sky.com/pd-image/1601b6fc-e6ab-383b-a31d-9899ece849cc/16-9</image>
-    <start>10:05PM</start>
-    <finish>10:15PM</finish>
-    <date>17 August 2026</date>
-  </channel>
-  <channel>
-    <name>Nick Jr UK</name>
-    <id>NickJunior.uk</id>
-    <title>Peppa Pig</title>
-    <desc>Peppa and her family are visiting Cousin Chloe's House to play with Baby Alexander. Peppa learns babies are not like dolls at all, and do lots of things every day.</desc>
-    <image>https://images.metadata.sky.com/pd-image/6cbb1332-6ea2-3987-9b15-9c0ed2a74275/16-9</image>
-    <start>10:15PM</start>
-    <finish>10:20PM</finish>
-    <date>17 August 2026</date>
-  </channel>
-  <channel>
-    <name>Nick Jr UK</name>
-    <id>NickJunior.uk</id>
-    <title>Peppa Pig</title>
-    <desc>Peppa hands Penny and Pedro the wrong glasses by mistake and they can't see very well. Madame Gazelle then tells them the importance of lenses and how they're in all sorts of things.</desc>
-    <image>https://images.metadata.sky.com/pd-image/fed36dcc-560c-348f-b614-81c99dfc1be4/16-9</image>
-    <start>10:20PM</start>
-    <finish>10:30PM</finish>
-    <date>17 August 2026</date>
-  </channel>
-  <channel>
-    <name>Nick Jr UK</name>
-    <id>NickJunior.uk</id>
-    <title>Peppa Pig</title>
-    <desc>It's a snowy day and Peppa's family build an igloo for their snowman. They then hide away in it during the snowstorm, but Penny Polar Bear and her parents love snowstorms and Peppa's igloo too.</desc>
-    <image>https://images.metadata.sky.com/pd-image/90f7c376-053a-39d8-a5b4-2e4d1c1a29cb/16-9</image>
-    <start>10:30PM</start>
-    <finish>10:35PM</finish>
     <date>17 August 2026</date>
   </channel>
   <channel>
@@ -1190,16 +1010,6 @@
     <image>https://images.metadata.sky.com/pd-image/ce18dcb7-935d-4f32-9916-c7bd76493096/16-9</image>
     <start>11:45PM</start>
     <finish>12:00AM</finish>
-    <date>17 August 2026</date>
-  </channel>
-  <channel>
-    <name>Nickelodeon RO</name>
-    <id>Nickelodeon.ro</id>
-    <title>Pove?tile ?estoaselor Ninja</title>
-    <desc>Nimeni nu-l place pe Rod, mai ales ?estoasele! Internul lui Bishop ?ncearc? s?-i r?peasc? ?i s? le fure s?ngele mutant, dar c?nd Rod este r?pit... Mikey se ocup? de caz! Primul lui suspect: creatorul de Mechazoizi care ur??te mutan?ii, Bishop.</desc>
-    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
-    <start>10:00PM</start>
-    <finish>10:20PM</finish>
     <date>17 August 2026</date>
   </channel>
   <channel>
@@ -1385,31 +1195,11 @@
   <channel>
     <name>Rtp 1 PT</name>
     <id>Rtp1.pt</id>
-    <title>Joker</title>
-    <desc>Vasco Palmeirim apresenta o JOKER, o concurso favorito dos portugueses. Um concorrente, com a ajuda de 7 Jokers e do Super Joker, responde a 12 perguntas com um s? objetivo em mente: Conquistar os 50 000 euros do pr?mio m?ximo!</desc>
-    <image>https://mage.stream.nos.pt/v1/nostv_mage/Images?sourceUri=http%3A%2F%2Fvip.pam.local.internal%2FPAM.Images%2FStore%2F68b344175a91468499883a81d4b597a7</image>
-    <start>09:30PM</start>
-    <finish>10:30PM</finish>
-    <date>17 August 2026</date>
-  </channel>
-  <channel>
-    <name>Rtp 1 PT</name>
-    <id>Rtp1.pt</id>
     <title>Salto de F?</title>
     <desc>As aventuras de um padre jovem, incapaz de dizer mentiras, que ? enviado para uma par?quia no interior do pa?s, onde todo o seu otimismo crist?o e ingenuidade natural v?o ser postos ? prova por um \&quot;rebanho\&quot; de pecadores.[(96057)] </desc>
     <image>https://mage.stream.nos.pt/v1/nostv_mage/Images?sourceUri=http%3A%2F%2Fvip.pam.local.internal%2FPAM.Images%2FStore%2F0c3b2fd4a61d49899c274f3d70794412</image>
     <start>10:30PM</start>
     <finish>11:00PM</finish>
-    <date>17 August 2026</date>
-  </channel>
-  <channel>
-    <name>Rtp 3 PT</name>
-    <id>Rtp3.pt</id>
-    <title>Not?cias 21</title>
-    <desc>A atualidade nacional e internacional em destaque na noite da RTP Not?cias, com Jos? Rodrigues dos Santos e Jo?o Adelino Faria. O rigor e a an?lise com os protagonistas que fazem not?cia.</desc>
-    <image>https://mage.stream.nos.pt/v1/nostv_mage/Images?sourceUri=http%3A%2F%2Fvip.pam.local.internal%2FPAM.Images%2FStore%2F059803b96cab408fbf63c2cca957188c</image>
-    <start>09:00PM</start>
-    <finish>10:20PM</finish>
     <date>17 August 2026</date>
   </channel>
   <channel>
@@ -1455,16 +1245,6 @@
   <channel>
     <name>Rtp Madeira PT</name>
     <id>RtpMadeira.pt</id>
-    <title>Como Se Faz</title>
-    <desc>Nesta s?rie pretende-se revelar os bastidores das ind?strias alimentares na Regi?o Aut?noma da Madeira, mostrando os processo de produ??o, tecnologia, pessoas e hist?rias que d?o vida aos produtos que todos os dias chegam ? nossa mesa.</desc>
-    <image>https://mage.stream.nos.pt/v1/nostv_mage/Images?sourceUri=http%3A%2F%2Fvip.pam.local.internal%2FPAM.Images%2FStore%2F684031cfc06d451cab9702d0789c0c74</image>
-    <start>09:50PM</start>
-    <finish>10:20PM</finish>
-    <date>17 August 2026</date>
-  </channel>
-  <channel>
-    <name>Rtp Madeira PT</name>
-    <id>RtpMadeira.pt</id>
     <title>Prolongamento</title>
     <desc>Programa semanal com emiss?o ? segunda-feira, de debate e an?lise sobre o futebol.</desc>
     <image>https://mage.stream.nos.pt/v1/nostv_mage/Images?sourceUri=http%3A%2F%2Fvip.pam.local.internal%2FPAM.Images%2FStore%2Fa87c0310a57948afa63f76d968ce82e1</image>
@@ -1480,16 +1260,6 @@
     <image>https://mage.stream.nos.pt/v1/nostv_mage/Images?sourceUri=http%3A%2F%2Fvip.pam.local.internal%2FPAM.Images%2FStore%2F0ef41bd71e104d75b14110249745ab6a</image>
     <start>11:30PM</start>
     <finish>12:00AM</finish>
-    <date>17 August 2026</date>
-  </channel>
-  <channel>
-    <name>Sky News UK</name>
-    <id>SkyNews.uk</id>
-    <title>The Wrap With Anna Botting</title>
-    <desc>Debate, analysis and insight on the biggest news stories of the day from the UK and around the world.</desc>
-    <image>https://images.metadata.sky.com/pd-image/80442e9a-3089-4394-a980-fab7090fb3b5/16-9</image>
-    <start>10:00PM</start>
-    <finish>10:30PM</finish>
     <date>17 August 2026</date>
   </channel>
   <channel>
@@ -1520,16 +1290,6 @@
     <image>https://images.metadata.sky.com/pd-image/2699780a-60f9-41ca-a4d8-6bd666b3abcb/16-9</image>
     <start>11:30PM</start>
     <finish>12:00AM</finish>
-    <date>17 August 2026</date>
-  </channel>
-  <channel>
-    <name>TF 1 FR</name>
-    <id>TF1.fr</id>
-    <title>Camping paradis</title>
-    <desc>Les &quot;First Kiss&quot;, un boys band star des ann?es 90, d?barque au Camping Paradis pour sa reformation. Ce come-back rend Xavier jaloux car ? l'?poque, il avait lui aussi cr?? un groupe, avec Tom : les &quot;Camping Lovers&quot;, au succ?s bien plus confidentiel.</desc>
-    <image>http://cltv.tmsimg.com/assets/p8422612_b_h8_ag.jpg?w=960&amp;h=540</image>
-    <start>09:00PM</start>
-    <finish>10:05PM</finish>
     <date>17 August 2026</date>
   </channel>
   <channel>
@@ -1595,16 +1355,6 @@
   <channel>
     <name>TV 5 Monde F-Be-Ch Fr</name>
     <id>TV5Monde.fr</id>
-    <title>L'actu</title>
-    <desc>Le journal t?l?vis? de TV Monaco. Pr?sent? par : Ambre Gstalder.</desc>
-    <image>http://cltv.tmsimg.com/assets/p19518941_b_h10_ab.jpg?w=960&amp;h=540</image>
-    <start>09:38PM</start>
-    <finish>10:13PM</finish>
-    <date>17 August 2026</date>
-  </channel>
-  <channel>
-    <name>TV 5 Monde F-Be-Ch Fr</name>
-    <id>TV5Monde.fr</id>
     <title>La mesure des choses</title>
     <desc>En M?diterran?e, un lieu r?el et fictif ? la fois. L? d'o? Icare s'est jet? pour se br?ler les ailes. L? o? se croisent paquebots, p?cheurs, migrants fuyant le d?sastre, sauveteurs et scientifiques ?tudiant les cons?quences du r?chauffement sur les fonds marins. L? o? des signes se r?v?lent : notre capacit? ? mesurer et ? interpr?ter le monde est peut-?tre tomb?e dans une d?mesure technologique qui perd son sens pour l'?tre humain et nous fait nous br?ler les ailes.</desc>
     <image>http://cltv.tmsimg.com/assets/p26055826_v_h8_aa.jpg?w=960&amp;h=540</image>
@@ -1635,31 +1385,11 @@
   <channel>
     <name>Together TV UK</name>
     <id>TogetherTV.uk</id>
-    <title>LumoTV</title>
-    <desc>Ryan is back from LA but all is not well, Chris has a key to the flat, the rent needs paying and what happened 'That Nigh.</desc>
-    <image>https://images.metadata.sky.com/pd-image/752844ff-6d5b-4229-823f-d7a874881462/16-9</image>
-    <start>10:00PM</start>
-    <finish>10:30PM</finish>
-    <date>17 August 2026</date>
-  </channel>
-  <channel>
-    <name>Together TV UK</name>
-    <id>TogetherTV.uk</id>
     <title>Strip Poker</title>
     <desc>Man-about-town John Carter is implicated in the murder of a woman from a nightclub. With gangsters strong-arming him, can he escape from seedy Soho? Contains nudity.[(96057)] </desc>
     <image>https://images.metadata.sky.com/pd-image/cd1eb2e9-d0c4-4cc6-b0a4-9a46c1bb878d/16-9</image>
     <start>10:30PM</start>
     <finish>12:00AM</finish>
-    <date>17 August 2026</date>
-  </channel>
-  <channel>
-    <name>Vosges TV Fr</name>
-    <id>ViaVosges.fr</id>
-    <title>LE GRAND JOURNAL DES TERRITOIRES</title>
-    <desc>Retrouvez votre journal du lundi au vendredi ? partir de 18h, en continu jusqu'? 19h, puis ? 20h30, 22h30, et le lendemain de 5h ? 10h.</desc>
-    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
-    <start>10:00PM</start>
-    <finish>10:30PM</finish>
     <date>17 August 2026</date>
   </channel>
   <channel>
