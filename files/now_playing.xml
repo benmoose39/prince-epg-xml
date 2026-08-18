@@ -3,12 +3,12 @@
   <channel>
     <name>BBC One NL</name>
     <id>BBCOne.nl</id>
-    <title>Mission: Impossible III</title>
-    <desc>Now a trainer for IMF recruits, superspy Ethan Hunt is called back to active duty to confront the toughest foe he has ever faced: Owen Davian, an international broker of arms and information who is as cunning as he is ruthless. As Ethan searches for the missing agent, Davian emerges to threaten him and all that he holds dear, including the woman that he loves.</desc>
+    <title>Business Today</title>
+    <desc>Bringing the latest business news and up-to-date informed analysis from London and around the world.</desc>
     <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
-    <start>11:10PM</start>
-    <finish>01:05AM</finish>
-    <date>17 August 2026</date>
+    <start>02:30AM</start>
+    <finish>02:45AM</finish>
+    <date>18 August 2026</date>
   </channel>
   <channel>
     <name>BBC Parliament UK</name>
@@ -18,6 +18,16 @@
     <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
     <start>12:00AM</start>
     <finish>06:00AM</finish>
+    <date>18 August 2026</date>
+  </channel>
+  <channel>
+    <name>BBC Two NL</name>
+    <id>BBCTwo.nl</id>
+    <title>Bergerac</title>
+    <desc>A revelation about the night of Cate's murder changes everything. Bergerac's behaviour becomes increasingly erratic, calling into question whether he can continue the investigation.</desc>
+    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
+    <start>02:00AM</start>
+    <finish>02:45AM</finish>
     <date>18 August 2026</date>
   </channel>
   <channel>
@@ -31,26 +41,6 @@
     <date>17 August 2026</date>
   </channel>
   <channel>
-    <name>CBeebies UK</name>
-    <id>CBeebies.uk</id>
-    <title>..programmes start at 6.00am</title>
-    <desc></desc>
-    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
-    <start>06:58PM</start>
-    <finish>12:58AM</finish>
-    <date>17 August 2026</date>
-  </channel>
-  <channel>
-    <name>Movies 24 UK</name>
-    <id>Movies24.uk</id>
-    <title>Just In Time</title>
-    <desc>A couple struggling to conceive receives an antique watch from a stranger, leading the wife to realise that the answers she seeks will come in due time.[(96057)] </desc>
-    <image>https://images.metadata.sky.com/pd-image/57ff7ea9-2333-382d-8775-89aa2aaa7aa0/16-9</image>
-    <start>11:00PM</start>
-    <finish>01:00AM</finish>
-    <date>17 August 2026</date>
-  </channel>
-  <channel>
     <name>RTE News Now IE</name>
     <id>RTENewsNow.ie</id>
     <title>EuroNews</title>
@@ -59,25 +49,5 @@
     <start>11:15PM</start>
     <finish>06:00AM</finish>
     <date>17 August 2026</date>
-  </channel>
-  <channel>
-    <name>TF 1 FR</name>
-    <id>TF1.fr</id>
-    <title>Camping paradis</title>
-    <desc>Quand la petite L?a r?clame une fois encore l'histoire de la rencontre de ses parents, Tom et St?phanie s'ex?cutent. Ils lui parlent du fameux voyage qui a tout chamboul? et ? quel point ce fut un coup de foudre.[(96057)] </desc>
-    <image>http://cltv.tmsimg.com/assets/p8422612_b_h8_ag.jpg?w=960&amp;h=540</image>
-    <start>12:05AM</start>
-    <finish>01:00AM</finish>
-    <date>18 August 2026</date>
-  </channel>
-  <channel>
-    <name>TV 5 Monde F-Be-Ch Fr</name>
-    <id>TV5Monde.fr</id>
-    <title>La petite femelle</title>
-    <desc>Novembre 1953. Pauline Dubuisson est accus?e d'avoir tu? de sang-froid son jeune amant F?lix. Mais qui est donc cette jeune femme dont la France enti?re r?clame la t?te ?[(96057)] </desc>
-    <image>http://cltv.tmsimg.com/assets/p19383078_v_h10_aa.jpg?w=960&amp;h=540</image>
-    <start>12:14AM</start>
-    <finish>01:45AM</finish>
-    <date>18 August 2026</date>
   </channel>
 </tv>
