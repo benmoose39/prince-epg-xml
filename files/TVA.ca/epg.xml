@@ -1,2 +1,1443 @@
 <?xml version="1.0" ?>
-<tv/>
+<tv>
+  <channel>
+    <name>TVA CA</name>
+    <id>TVA.ca</id>
+    <title>Salut bonjour</title>
+    <desc>Actualit?, revue de presse, m?t?o, circulation, actualit?s culturelles et sportives sont abord?es avec dynamisme et enthousiasme chaque matin. Diff?rents collaborateurs viennent partager leurs passions : cuisine, sant?, famille, mode, etc.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IjN6T0VyRHRzZHhQN2NreWhoQnJUWFE9PSIsInZhbHVlIjoiMmdcL1pvQ05la0VkXC9MU0s4ckdYaDg3M2JCU1FvR1pCVmMxRFN1cEJCN3JyNGxvSnNWQTdpeEZBaHNWWnNlTFE3dVBaMm1hQ0tabzZORHcwMFliXC9aSlRLS0d3b0w0KzZSdVQzRzlSK3JYaXM9IiwibWFjIjoiMjkwNjlhZGM0MTJiYzllOTBiYTA3Y2NkMTc0MTlkYTlkNjliZDQ3NjljYjE1NjgyZmMyZTc5OWNkOTdkZWU1YyJ9&amp;signature=7ff724e6234dbec313df213dc4280df0e11b3fdef33d8857985b20674c737790</image>
+    <start>11:30AM</start>
+    <finish>03:29PM</finish>
+    <date>07 September 2026</date>
+  </channel>
+  <channel>
+    <name>TVA CA</name>
+    <id>TVA.ca</id>
+    <title>Le tricheur</title>
+    <desc>Jean-S?bastien Girard, Marie-Soleil Michon, Antoine V?zina, Marie-?ve Morency et St?phane Bellavance.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IllvbUd2UmcyNlwvVmJLcWc0T09VVXlnPT0iLCJ2YWx1ZSI6Ikk0UnlPN0lIRTc1djBUUzdBOGNLSHd5N1wvWE1BNENHdHE4R2xXazQ2cXNoTkd5d0xFUmxwR21tZlE2d3dFRU45U3Q4UFF6MTQ1MDZuV2phUkVNWCtFSzhaZFM0dzMyVFYwXC8zRjdGZ1NZSGc9IiwibWFjIjoiOTc3YTYyZDU2YjgwY2MyNDBlNGZkZDA5YmRiZjViM2U2NGRiMjBkNWFjZGFkMTZhZGUxNDMyNWViZTA1OTNhMSJ9&amp;signature=f8b2cdbf3c8480b8ed8a9f81c957d3e606918cc19de51323d7e4eea40d31fe36</image>
+    <start>03:29PM</start>
+    <finish>03:59PM</finish>
+    <date>07 September 2026</date>
+  </channel>
+  <channel>
+    <name>TVA CA</name>
+    <id>TVA.ca</id>
+    <title>Mario Dumont</title>
+    <desc>Mario Dumont vulgarise l'actualit? et la commente ; ?mission ax?e sur la politique qu?b?coise, canadienne et am?ricaine, ainsi que l'?conomie.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6ImRzSk1oMnVDT0VVK01KRjRXVmc5eHc9PSIsInZhbHVlIjoiZTFXKzJnUlcxVGxXYnVRNFFcL3ZmaytUVjh1MXZ2MDVvUnlXVHpxRFcrQ3VlVTM0VnNseVNHM2kzSnFyV2l6cDhEN283MWVxNlAzajdNUXNqVERuZzd2YjlJSVwvM1MxOGpSczFWVXU5ajd2UT0iLCJtYWMiOiIxMDJmN2Y2NTZkZjY2NmJiYjI2MjM5NzJjZWEzM2RjNTY0YmJmYTEzZTRkNjYxYjNmZDJhMGE3NmMyYjNjMjYzIn0%3D&amp;signature=865c25cede4e119f37d47d5aede5c630a4ced45a7a773c41a5ba8238b2c29c10</image>
+    <start>03:59PM</start>
+    <finish>04:57PM</finish>
+    <date>07 September 2026</date>
+  </channel>
+  <channel>
+    <name>TVA CA</name>
+    <id>TVA.ca</id>
+    <title>TVA nouvelles</title>
+    <desc>Avec Philippe-Vincent Foisy, on reste au fait des nouvelles de derni?re heure, des analyses, et la m?t?o au bulletin d'information complet et pr?f?r? des Qu?b?cois.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6Ik1tV0kzQU5jYWQ0MTRHczVMa3pmMnc9PSIsInZhbHVlIjoiT080aGJNV1wvYmpFcHFIN2dPb3l2NUZJUTRwdDJqemprZkRYVmcxTzRZXC81cllDQ29jYVVxQzQ0RkFcL296RHA5ditZaEh2RE0ydGdwZThGVTFoM25YaVwvd1lpTkVcLzhheVFRTTJ6ZnpoNkNITT0iLCJtYWMiOiJkOTMxODg2OGIyNjhkNzIwN2FkOWQ0MDQ2Mzk0ZGQ5YzBkMWYxNjRjNjFmNTBiZTUxMGQyN2MxYmFlODkwMjk4In0%3D&amp;signature=05d2bb895d0f830c99ecd07662a077c0f3facc2fe8ea24d32c7c9bbe37e96b49</image>
+    <start>04:57PM</start>
+    <finish>05:31PM</finish>
+    <date>07 September 2026</date>
+  </channel>
+  <channel>
+    <name>TVA CA</name>
+    <id>TVA.ca</id>
+    <title>Le bilan du midi</title>
+    <desc>C'est le moment de la journ?e pour analyser ? chaud l'actualit? politique provinciale, f?d?rale et internationale avec des experts passionn?s.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6InBocEVyaVM2XC9ldUtCOFg2NHhvSHJRPT0iLCJ2YWx1ZSI6IkFTTjlaRTFUUW5xTlwvN2dEMmFhTGYzNjF1UDZcLzdPWmY1S1dNeHNNQ29zODZJQkl2d01zRVBIV0RHUVhoUldLVGJqeUxlVUZkWEZ3WXpyWlhkaUduMFBnaHlsdFVwVDFUNWhpRUN0UzRGVUU9IiwibWFjIjoiNGQyM2QyNjM3Njg4MmFhZTFiMzE0ZGZkZDk1ZDRiODJiZjg2N2QyMzNhY2IwYzM0NDA5M2UwYjBjNzg3MGUyMCJ9&amp;signature=cfe36d08f8a7ab6324b152c27ab664f8a4a00cf195006156c80fcf118ab41bd7</image>
+    <start>05:31PM</start>
+    <finish>06:00PM</finish>
+    <date>07 September 2026</date>
+  </channel>
+  <channel>
+    <name>TVA CA</name>
+    <id>TVA.ca</id>
+    <title>La chute</title>
+    <desc>Lex et Mani forment un jeune couple ?panoui. D'autant qu'ils g?rent ensemble la boulangerie artisanale de leurs r?ves ? Los Angeles. Impatients de fonder une famille, l'invitation ? un mariage sur une ?le tropicale semble ?tre l'occasion id?ale pour concevoir, la date co?ncidant avec le cycle d'ovulation de Lex.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6ImxIMW1YMXRnbUFBaVJ5ZGVFUW04M1E9PSIsInZhbHVlIjoiZnJtSmEwUnNwSUpJMlFhVnI4MjFjM3E4aEQ3WXVzYXVqalpJVHB6WEdPVENGVHlYcVQ4MVArdThkbDRGeGR4VThLU0hPRUlJd0t3XC9cL0x4ME9hK2piNGFteHZrWGErR3hqVjhBNVA2UVFLXC9RdnozU3BTc1pPb3VkR2JZUUdBbFoiLCJtYWMiOiJkZWRkMDczZTBjZjNhZTczNTNhOGQ3ODRmOGNmMjlkZjhmYzAxOGUxYzllMDc0YzdkN2FmZjdjMzFhZDAyNWMwIn0%3D&amp;signature=e27f99d764b0296ae9b913b5c19a0d3e8d1d6b0fd412948ad56b512e146a433a</image>
+    <start>06:00PM</start>
+    <finish>08:00PM</finish>
+    <date>07 September 2026</date>
+  </channel>
+  <channel>
+    <name>TVA CA</name>
+    <id>TVA.ca</id>
+    <title>Infopublicit?</title>
+    <desc>Ceci est une ?mission publicitaire pay?e.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6ImhWVFJcLzl3RFpnTG04MENuQnpBYmlRPT0iLCJ2YWx1ZSI6IkJmSWx6NTJSUlorOVhVbzZvVGxoaFwvalVTV2lVZ2dCS3J4TWRNZXRWdGdsZGRSbUJMR3VIelhkV2NjMmdWdm9GNUU5WFwvQUozNzNWTnNnVzV0TktLUVhNNWRUb29pbUZNWVJLeXNvK2J1Y2M9IiwibWFjIjoiZmRmODU2NGM4OWNkNWM1ZGYyMjliMGUyYzk4YTdkNzIzMzE3ZjEwNGJhYjU4ZTQxYTYzNTVjMjM4MTEyNzNhNSJ9&amp;signature=967f40507205d869e160cccc2b3f111872a88e36d47d3c957d93d7395efe6b5a</image>
+    <start>08:00PM</start>
+    <finish>08:30PM</finish>
+    <date>07 September 2026</date>
+  </channel>
+  <channel>
+    <name>TVA CA</name>
+    <id>TVA.ca</id>
+    <title>Les feux de l'amour</title>
+    <desc>Amiti?s et tractations de diff?rentes familles et de leurs associ?s dans la ville de Genoa au Wisconsin.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6Ill4cW5COHFDWm9oU1RvT3U0a0FOQVE9PSIsInZhbHVlIjoiR2JIWXE5aGZhOElMZjNXZ01HNU1DRis5NUhuOGxDZWZvQmNhVmNxcW12cWNKZHRYelRjVm9EVUNqXC9qcTdkdElxNDZ2a1hWUDRIcmlaSFwvZUhZODdIVWhoM1pnWnFPb1YwbGxJZzdzTCtvWT0iLCJtYWMiOiJmYmJjOGY5MTQzY2M3MmU5YTgxMThlYjk3OTEzMmNjMzc3YjE4MDZhZTIyNzg4Njk3N2E3N2FhYzY2ZWU1NmU2In0%3D&amp;signature=9cc55fed7120092e316bff11871ba68e34a4569c84f2e8b138f36761c76eec49</image>
+    <start>08:30PM</start>
+    <finish>09:28PM</finish>
+    <date>07 September 2026</date>
+  </channel>
+  <channel>
+    <name>TVA CA</name>
+    <id>TVA.ca</id>
+    <title>Top mod?les</title>
+    <desc>Deux familles de Los Angeles rivalisent dans le milieu de la mode.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IjI0Vmxab1l1bE90dHJzSWkzcnVLSHc9PSIsInZhbHVlIjoiWGRsNVZRTXoyVnNodFpkdWNWXC91T1dVUTdvN2dydW1GNWh3NUFnTWlLVzk5N3BTU0FyMmRBMU1qU3Z6YmtHMUlMUGlRQ29sTjYzbmxrYUwxUnkwSW50azN4aHlQQlJkSzZNZGN3eHNzYmhZPSIsIm1hYyI6Ijc4ZjI0MmJhYzRjMzY4YTJkYjgyNDhkMWZhZmNlMmEwMGJhZjQ0ZWRiNWZmYTZmYzJiMDlkMDliOGNhMjU3NDYifQ%3D%3D&amp;signature=a7cb1c3de5128c32702433fc6b25847c90e233482cae3be377ba0eda71e4e5ff</image>
+    <start>09:28PM</start>
+    <finish>09:58PM</finish>
+    <date>07 September 2026</date>
+  </channel>
+  <channel>
+    <name>TVA CA</name>
+    <id>TVA.ca</id>
+    <title>TVA nouvelles</title>
+    <desc>Avec Julie Marcoux, on reste au fait des nouvelles de derni?re heure, des analyses de Paul Larocque, Emmanuelle Latraverse, Richard Latendresse et Mario Dumont, du sport et de la m?t?o au bulletin d'information complet et pr?f?r? des Qu?b?cois.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IjFMbnpLMlRaa3lrdXQrWlI0VU9lZEE9PSIsInZhbHVlIjoiR1pDTGtcL1ZPeWdjQ29DNTIyRHhGRkdRa2xhaEM3Q3NBNDZOSnBLMXU1VWVtY3N0YXd3cDM5K1VBeXlzdFphMTl1T3AwZDFndm01Vmk2ZUxPdEs3THJqK0JKd2FMbThXNGJrdld4amM2dTF3PSIsIm1hYyI6Ijk5Yjc4ZjlhNWRjZTU3NDAzMDY1M2EyMTZkNmE5OWY4YTVjOTM4NmQ0M2RmNTc1OGNmNmUzZTUzMTlkZWQwMWIifQ%3D%3D&amp;signature=ffd3dc849263e63a50c647ee0e5caf277f389dac57071aef22b1d6297f904bc0</image>
+    <start>09:58PM</start>
+    <finish>10:58PM</finish>
+    <date>07 September 2026</date>
+  </channel>
+  <channel>
+    <name>TVA CA</name>
+    <id>TVA.ca</id>
+    <title>TVA nouvelles</title>
+    <desc>Avec Julie Marcoux, on reste au fait des nouvelles de derni?re heure, des analyses de Paul Larocque, Emmanuelle Latraverse, Richard Latendresse et Mario Dumont, du sport et de la m?t?o au bulletin d'information complet et pr?f?r? des Qu?b?cois.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IkxaaWhFNmRBYlkwM2dnMFFLWFRXZnc9PSIsInZhbHVlIjoiNVwvWEY3VktQbUI3N2FaTHU0KzJORVkweHN2UU85SHBtaTBubGVjWDA5Yk4wV3ZidU5nUTlySGFkUmRTandyWXRyK3lVckZqTkhTT3VnUUlvYU41OFRncTJmbWtUQjdDWnJtckRPcGtVY1EwPSIsIm1hYyI6Ijc0Y2VlYzAwZDU4ODM4MTAyNGM2Mzc5OTA0MTk0OTFiOWM2YjlmNzRiNDlmOGVlYWZmNDM4ZTIwMjFkY2NkMDYifQ%3D%3D&amp;signature=277dafe513fb5e49fa86444ac85486eb1fe64737ffac12eab44f2d20d3e16782</image>
+    <start>10:58PM</start>
+    <finish>11:29PM</finish>
+    <date>07 September 2026</date>
+  </channel>
+  <channel>
+    <name>TVA CA</name>
+    <id>TVA.ca</id>
+    <title>Le tricheur</title>
+    <desc>Anouk Meunier, ?ve-Marie Lortie, Julie Houle, S?bastien Beno?t et Jean-Michel Anctil.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6ImY4eU4rNEZjNHhvQXlubW9UYmgxb1E9PSIsInZhbHVlIjoiUloxdDBlVzlhck5TUlwvaGRPemhuYVY4YklwaVoxSkdsTWc2VEpRUm05M2hBSitZcGJqTUJYbXpcL0hnMEwyS0lFendvRnNIUmFyT2liT3hyRFNwTitVeldHVVJKNXZjbzczd21jUzNpN2w4UT0iLCJtYWMiOiJiZTI3NmExNGI4YmU5NDA4MjZiYTk2ZGQ4NGNmZGI2ZmQyOGRiMDQ5MzNhZGIxN2M2MTA0ZDU3MmQ1ZDM2MzE5In0%3D&amp;signature=c1922a4c441120d455216cf6befcf89dc5b4f6849b2ce40351e51b3d6ed41907</image>
+    <start>11:29PM</start>
+    <finish>11:59PM</finish>
+    <date>07 September 2026</date>
+  </channel>
+  <channel>
+    <name>TVA CA</name>
+    <id>TVA.ca</id>
+    <title>Ind?fendable</title>
+    <desc>Max est entre la vie et la mort pendant que les recherches pour Ti-Bill continuent; L?o prend la d?fense de Thomas Caron, accus? d'avoir poignard? son ami dans un restaurant bond?.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6InJKSHdqK1V5ZmpUOVdCclJSeFJQc1E9PSIsInZhbHVlIjoialwvM0hPeWtnUkJnaldtWXlNYXYxMkx6dTdYeUQ2aFlKQUwyeEF3ekpEWkNReDFHTllYWDlLd0EzXC9BQjAzZjFtQkx6QXcybXlzeWZhRE8wdzNpcEFTS1wvZkNXbnpnS2lSa3dRMHdNSDlKTmN5XC9XMm54aFJVVFlrYkFzVXRGVXFVIiwibWFjIjoiOTQ3YWE4YzI5YjlmMTgzYTUyOGIyYTYxNTM2OTcyMTBlZTk4NDI5NjI4YTMzYjRlOWYzNWQwOThiZjc3ZGUwNCJ9&amp;signature=84f5430e9086cd07a2ca8889be1b8cdf8adc26fb7385b68efed783c27fffcc1c</image>
+    <start>11:59PM</start>
+    <finish>12:30AM</finish>
+    <date>07 September 2026</date>
+  </channel>
+  <channel>
+    <name>TVA CA</name>
+    <id>TVA.ca</id>
+    <title>MasterChef Qu?bec</title>
+    <desc>Les tabliers verts ont une nouvelle chance d'int?grer officiellement la comp?tition; ils doivent cuisiner une coquille Saint-Jacques parfaite pour enfin mettre la main sur leur tablier blanc.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6InpXaVhMSFpoUnowRnRcL1wvZWVPd2tvUT09IiwidmFsdWUiOiJqZ2p3K3hMa3I5b01BZ1hOanJNMkFjbEozbU01dWIzZExtV1QxTlwvUGU5bTBLaEVsckFnUExGWElGU1pqNDdMVXg1UXpoV2lPQnlIRlJGN2YySlRaeDJqXC9WSzhLRWVweFo3NmNMbUMzVElpZkdVU3B4MW9cL0VzZ2N5c0dBS0hGbCIsIm1hYyI6IjY1NzMyMjNiMjkxNzg0ZGU4ZjVjY2I5ZTNjY2RmM2Q4MDQ0OWNhYzQyYTliNjM2OWQxMTJkZTk4MWMyNjI1OGIifQ%3D%3D&amp;signature=46d3c35637c467e3e0f0b4c1263b6d580d502a70a27877d2d315ce29bc77dbd3</image>
+    <start>12:30AM</start>
+    <finish>01:00AM</finish>
+    <date>08 September 2026</date>
+  </channel>
+  <channel>
+    <name>TVA CA</name>
+    <id>TVA.ca</id>
+    <title>Les armes</title>
+    <desc>Avec l'appui de Craig et de JTF16, Savard cherche ? retrouver Colin co?te que co?te; plus que jamais en froid avec Rose, Gabrielle doit mener avec elle une enqu?te sur une soldate qui manque ? l'appel; Vanier prend les r?nes d'une unit? de JTF.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6Ikgrc0FqNFB2UFpGRlIrbE5JVnNQUlE9PSIsInZhbHVlIjoiMmU5cmpzS3BBWlBtbmxtWHlaV3BQd2U1THNlckJKY0t5VWh5ckNSMXBKNWg5Tmp6YUNrOEtscE0zVkoyMFpNS0FoV0E4RVBaQmlWMnRkRmwwWjVLWEdXeEZQNHkzOG9tR2ZaVFJlNjlrTlBqa1FOU284VXdiaDRSYkQxcDM0cmsiLCJtYWMiOiI2Yjc0ZjU3OWM4MTdjMmUwMDk2YmQ4NTg4MjIxNDQzOWRjMDliZjg2NTc5NzczNTZmMmQwMmVlMjFlNWU3OGJmIn0%3D&amp;signature=3afb752d23d97143427cf5e854595b36647697a30a3912dfc9f3ff43d35ea5a7</image>
+    <start>01:00AM</start>
+    <finish>02:00AM</finish>
+    <date>08 September 2026</date>
+  </channel>
+  <channel>
+    <name>TVA CA</name>
+    <id>TVA.ca</id>
+    <title>L'appel</title>
+    <desc>L'escouade Carcajou est sur les dents ? la suite du meurtre de deux agents correctionnels.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IllmY1Z6ZXdQQTJrWVIrK2xtbzdwS0E9PSIsInZhbHVlIjoiWVRtVnc5c3kzZEdQMjRnTmFOMEh0ZWhoM1laVHhWOWVzOVFyclB0MGF4VGxqM1wvWGdPUk1RbUZoYWJJdE5jTmlabEExc0dhT3FwdkdVXC9cL0RaVTMxQU5tSTNxaEVDNlJYT0o3b1wvQnNNZlBrPSIsIm1hYyI6IjgxMmI0NTczMmQ4ZTIxNmVmMmRjZmE0ZDkzZDY0NzBlOTU5OGZjNzkzZDAxOTk4YzU5ZWM1ZjVlZGM5NTAyZDgifQ%3D%3D&amp;signature=411f8f598fde2b80bf05c95ce8cfb77450eab42c6f9b3f6633498d61121a729f</image>
+    <start>02:00AM</start>
+    <finish>03:00AM</finish>
+    <date>08 September 2026</date>
+  </channel>
+  <channel>
+    <name>TVA CA</name>
+    <id>TVA.ca</id>
+    <title>TVA nouvelles</title>
+    <desc>Pierre-Olivier Zappa vous pr?sente l'actualit? de derni?re heure, les nouvelles r?gionales, internationales et ?conomiques en temps r?el, et plus encore.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IjJNMEJXTW1uZ21LNUNMTlFacHd4YkE9PSIsInZhbHVlIjoiaEJVaGpCZ0RIaVlPRXhEYjBIYmhpcmJkSXA3OTJcLzArU3hKVlFIU3Z1c3ZGaEtSSHNrRFN6N0tXR3NpS0h4K21EcHZvdDMxSjRtcGY2K0VcL3Z0WkZRSXhLa291S3Znek5PU1hyZ0FtZFgrZz0iLCJtYWMiOiIwMDE3NDZiZmYzNThiNDgxMGJmZmJhZTIyOTQxOWI5NTc3YjNkZjZiOTEzZmZhYTE3YWQxNDUxOTgwNDVkY2IxIn0%3D&amp;signature=1ddfa4635c8aa29dbdfc5cc9b91a5bc1b46282295b3cc51236d7b6637e21fce2</image>
+    <start>03:00AM</start>
+    <finish>03:35AM</finish>
+    <date>08 September 2026</date>
+  </channel>
+  <channel>
+    <name>TVA CA</name>
+    <id>TVA.ca</id>
+    <title>? vos affaires</title>
+    <desc>Pierre-Olivier Zappa d?cortique l'actualit? ?conomique et ses impacts dans le quotidien des Qu?b?cois.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6ImRFT2NHcFdnazIxcmREVGpwOUNockE9PSIsInZhbHVlIjoiOVd0ZFlVU1UxcXJ4Q1RMVnlDWE4yQlpFUmJobFFhdFRmZ2VvQnBNMjNQdzhzOUt2MENrUXJ2V042QTNWemp5WW1iYXZ3WHFUb0ZsZGU2bXJnc3VwNWY4eHJ4MTlDNVExNXBvMSt6dmtcL09nM01DaDgxRWRGekVzd2NCR3J0YlVWIiwibWFjIjoiYzZiYTkwYjc5ZmMyYmY2N2Y5YWJjYjU1NjAzNWM1NGFjYTBlYzUyOTI1YjYxYmQ2ODA5NmRkY2YyZTFjYmFhNiJ9&amp;signature=b81773a53a07a78989c02f3ea5a28ee6a07ca62edf15f3a76630f99f111fa13b</image>
+    <start>03:35AM</start>
+    <finish>04:05AM</finish>
+    <date>08 September 2026</date>
+  </channel>
+  <channel>
+    <name>TVA CA</name>
+    <id>TVA.ca</id>
+    <title>En mille morceaux</title>
+    <desc>Chris, un riche divorc?, tombe amoureux d'une myst?rieuse femme Sky. Chris, son ex-femme et son enfant finissent par se retrouver pi?g?s et un combat d?sesp?r? pour la survie s'ensuivra.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6Ikc0dnc1MzRDazJGTnhrN25xTWQ1NlE9PSIsInZhbHVlIjoiQ1BmTlRIYk04dktcL0dpQXBKazRNQmNzNzNDRVZINDQrYzZOQnlUdnZvZlZpTUdWdEc2ZWMxaHd2NGJzdU9ia3l2UlpoT2Z0REx4NGJxNEkwaHF5OHNjNVlNYkdSMGFJbFpmdWhGejdVbGdtY2MyVFBhd0ZCUUpxdEQzSEVhRFNpIiwibWFjIjoiZGJmY2IxYzZjNGY5M2UyZDg0YmE0MmU5NDU0NjIzZGNiZjVhNmY2MjNmOTA5MjQ4N2U4ZjlmNTU3NGNkNjZlYyJ9&amp;signature=692d97526d9d4e812a99fa378dcf1d5b44bb9b55fe2da9b6926bd601639bf8eb</image>
+    <start>04:05AM</start>
+    <finish>05:51AM</finish>
+    <date>08 September 2026</date>
+  </channel>
+  <channel>
+    <name>TVA CA</name>
+    <id>TVA.ca</id>
+    <title>Secrets officiels</title>
+    <desc>En 2003, Katharine Gun, sp?cialiste des services de renseignements britanniques, re?oit une note de la NSA: les ?tats-Unis sollicitent l'aide de la Grande-Bretagne pour recueillir des informations compromettantes sur les membres du Conseil de s?curit? de l'ONU afin de les faire chanter pour qu'ils votent en faveur de l'invasion de l'Irak. Elle prend la d?cision d?chirante de d?fier son gouvernement et de divulguer le m?mo ? la presse.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IkdLUnl5WktDVlZCdWFIZGpnXC9KbXBnPT0iLCJ2YWx1ZSI6ImZia1JFNnRkVXVnK0p1UFQ5M1czXC96VW5WTGJcL3hQYmw3ZjJ0UzRQZHkwUUJWWGJTcDdSUXFrZktXTUd0aThxQmhuZFU0YUorNUt5cUhkYVhCWWdidG5vNXUwc0N6VkxKclwvYmlIUlZRanhvPSIsIm1hYyI6ImQyZTkyNzQ4MzUzYTliYmM1OWZmZDA1Zjc0MGU4MzhiN2FiNWVkOWU4YTRkNTMxMzcyZDhhYTY4NmNjZGVmODkifQ%3D%3D&amp;signature=0520565a95d8cf6412ff4a6f0ad24768a1730e1709ed2bfc2551215d96c25e30</image>
+    <start>05:51AM</start>
+    <finish>07:51AM</finish>
+    <date>08 September 2026</date>
+  </channel>
+  <channel>
+    <name>TVA CA</name>
+    <id>TVA.ca</id>
+    <title>Infopublicit?</title>
+    <desc>Ceci est une ?mission publicitaire pay?e.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IncwU3l4blRKajNBOUxwV2s4MEpUTHc9PSIsInZhbHVlIjoieit2V0x2V1VMdW1lQ3ZIWGlwZDNEbkt3SHY5TFNqdkE1V1ZmYTY0S3VmSXRERWZiREZnb0RxUmI0U3lBdVQ4OHQyckxWQ0xcL0NqUHU1NENHeTJjZ3RzUVBXV0orTWg2VDdVTE9JSTUxVEJFPSIsIm1hYyI6ImQyYzNkYTc0NTE5NDE2OGE2MDg3ZWViYTJlYWQ1M2E5ZjQ5NzFmYTc4ZDA3ZTg4NTM1YjNmODllOWUwMDM2OTcifQ%3D%3D&amp;signature=ca30f8367c15bed817e44e3ff1b25b3c2ff7b608a4f8f51b708b16fc9c33df4e</image>
+    <start>07:51AM</start>
+    <finish>08:21AM</finish>
+    <date>08 September 2026</date>
+  </channel>
+  <channel>
+    <name>TVA CA</name>
+    <id>TVA.ca</id>
+    <title>Infopublicit?</title>
+    <desc>Ceci est une ?mission publicitaire pay?e.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IktvNzE1VWoxVmR6MndBcTJJeVVrTFE9PSIsInZhbHVlIjoiTmo5dXBjMnJNdVNyRFBCdGp5bU42UTliTUJaUFB3c0FwaVBwQzZqN1ZEM1I3U2k0K1p2eFlGY253anMxeXpVSExuajdrWU01OHkzS1l2Qk5VU3pXUk9mN09mZXRWUG9lNWs0d0gwVWtCbms9IiwibWFjIjoiNjQ0MDlmYzc1OTMyOTIwMWFlOWI4MWFkYWJmMWQ0ODRkMjEyZTMxZjNhMTgyOTg5ZDgwMjAyZDc4ZGI4NTIxZiJ9&amp;signature=cb569f616fb718984a4405324428d961ff4a96bfdd7abffbff4b0e465d29f3c8</image>
+    <start>08:21AM</start>
+    <finish>08:51AM</finish>
+    <date>08 September 2026</date>
+  </channel>
+  <channel>
+    <name>TVA CA</name>
+    <id>TVA.ca</id>
+    <title>TVA nouvelles</title>
+    <desc>Information r?gionale, nationale et internationale.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6Im1sMlczbFRFcnY4Tm9zcEdzZGxvbFE9PSIsInZhbHVlIjoiMFplZ1RSS1pQdTRPc3VjcnFNQ2luRzJQTVd1a1wvZ294d3pTdFIrS3NNWmFKdHhnRjk5b0J6bnhmRUhEM3FrRlh2XC9NVWxxWlJucE1FenNVaVVDV1ZLQ2l3YU1ENFpjZXVVTGZ0UWc3U0l5dz0iLCJtYWMiOiIyNTk2NjE0YjlmMmUxY2Q2MmE4ZTdlYTM0M2VjOGZhOWEzNGJlMjI4N2NhMjhmNGYyMWE4NDEzMDhhN2EyNzM2In0%3D&amp;signature=35edb7a93e82cb0e3c6ec978d6d1c23bb33c57964f4474c995389a511d4e4449</image>
+    <start>08:51AM</start>
+    <finish>10:00AM</finish>
+    <date>08 September 2026</date>
+  </channel>
+  <channel>
+    <name>TVA CA</name>
+    <id>TVA.ca</id>
+    <title>La victoire de l'amour</title>
+    <desc>Pr?sent?e par l'organisme catholique La Victoire de l'amour, cette ?mission religieuse du m?me nom est constitu?e de t?moignages de personnes qui sont parvenues, gr?ce ? leur foi, ? surmonter de lourdes ?preuves. Les invit?s font preuve de courage et sont une source d'inspiration.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IjdqT2l6U3FwamJreEYyazFOS0sxWEE9PSIsInZhbHVlIjoiRGc2N21odk0zTktPdDFDNlhSS2RVUjN1cmE1Sm5ZRVBkMlwvQktPaWlXNGRrOSszUEFsdktJVXl6MnBWWWJrVlBzc0VEdUphT1NZcDE4SnoxV2JOblhvT1EzZDRNYmFVNlpHTXNLTmtWOG9VdE5NXC9LNjNMdDZYWm8renRSbzhZUCIsIm1hYyI6ImE0ZDk2NjJiMjczOGE5Y2ZjYmJmOTUyMGUyN2IxYjMyNWUyYjRiMjAzMGRiYjg0NGNkNjRkN2FlZmI4OGJhOWUifQ%3D%3D&amp;signature=8a27621166138ac81fc5a0fd3ff364f79bbb6670b31e0dcf3558c288ae6bb152</image>
+    <start>10:00AM</start>
+    <finish>10:14AM</finish>
+    <date>08 September 2026</date>
+  </channel>
+  <channel>
+    <name>TVA CA</name>
+    <id>TVA.ca</id>
+    <title>La victoire de l'amour</title>
+    <desc>Pr?sent?e par l'organisme catholique La Victoire de l'amour, cette ?mission religieuse du m?me nom est constitu?e de t?moignages de personnes qui sont parvenues, gr?ce ? leur foi, ? surmonter de lourdes ?preuves. Les invit?s font preuve de courage et sont une source d'inspiration.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IkNCZGEyYW9EaEpVeUJ0QUR6cWpJUnc9PSIsInZhbHVlIjoieFQyUGhnc2tMM3I4T2Y4NHFZbzRLb3pXTENORG9peFFKUzFhTVh0RlhWbzZiTkdNMGk3XC9DVU42SWhpR2lYbXdWZk40ek5wS2x4cXUzOE1Kb1JWeDJ6c01XR2t2aG1mQ25ZNGhVZncra1wvVCtLWWVuRDdZRUpuMlwvSklKcGpFdVciLCJtYWMiOiJmYWNiNjA2Yjk0OTQ2NGJjZjQ5N2E2NWQzOWRlNTU0OGEyZTkwNWI1ZTMyMGM3YzNmYmQ3MzJkODI4MjI0NmI4In0%3D&amp;signature=66537a836db6e0ae329a392fd48a7695909f1b6368c00cce7303ba0f585cbe05</image>
+    <start>10:14AM</start>
+    <finish>10:30AM</finish>
+    <date>08 September 2026</date>
+  </channel>
+  <channel>
+    <name>TVA CA</name>
+    <id>TVA.ca</id>
+    <title>Infopublicit?</title>
+    <desc>Ceci est une ?mission publicitaire pay?e.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6ImVUdHlQV2ZkckJManprbEp2azBRV3c9PSIsInZhbHVlIjoiVXg4Qm1GdWZrM25meFlcL3liMUo3MWxoXC9iaUt3ZXRibzdWWW1ZSW1FQ3dodHRlU2pFQ2RPeHh4MXBFRFJnRzVJNklnM3RVSG9ZYk95KzBVUnloNWU2dk1jditpK0tBK1wvMldXTWVWcmVOKzg9IiwibWFjIjoiMDZkZjA5ZGQ2NTczYmNkMjQ2ZjIxNjAxNTM4NjkwMzk1NDlkMmZmZDAxYTBhOTkwNzgyYmZjMjljYzIwYTRmYSJ9&amp;signature=232cf81268c913630e42eba7a10e4024440d999b975d1ed76a9be21d0e45bcfd</image>
+    <start>10:30AM</start>
+    <finish>11:00AM</finish>
+    <date>08 September 2026</date>
+  </channel>
+  <channel>
+    <name>TVA CA</name>
+    <id>TVA.ca</id>
+    <title>Le Qu?bec matin</title>
+    <desc>On reste ? l'aff?t de toute l'actualit? sur des sujets tels que la politique, l'?conomie, la sant?, la m?t?o et la consommation gr?ce ? des reporters en direct sur le terrain ? Montr?al, Qu?bec, Sherbrooke, Trois-Rivi?res, Saguenay et Rimouski.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IjRZOVAyZnhLcDJaWmttN29zWEdwV1E9PSIsInZhbHVlIjoiTWtveUhQQmJiV1dNbXhPRU52R3c5ZU90RjFIWDR2REkrTFB5eUI1NmNtcGh4SHN3THY4ZnlXN1BIS3dMUEZ6eDlVOGljdUozTkY5RU1jbHlEWWphdXZKZWlTdkFVVERmUjEweUpiXC9UOUNcL25uaStYeFwvMHVmOUE0Z0VXZDladUYiLCJtYWMiOiI5ZmE3ZmRlMzhhNGVkZDgxYjM1NWNhZDEwZWUxMTgxZjc4MzFjN2Q2NGE2MDRhYmZmNjRmODk1ZDYyMjkyMjQ5In0%3D&amp;signature=cce988149db408a6624d965258a358c1bb508b3193348360df259b0078859d3f</image>
+    <start>11:00AM</start>
+    <finish>11:30AM</finish>
+    <date>08 September 2026</date>
+  </channel>
+  <channel>
+    <name>TVA CA</name>
+    <id>TVA.ca</id>
+    <title>Salut bonjour</title>
+    <desc>Actualit?, revue de presse, m?t?o, circulation, actualit?s culturelles et sportives sont abord?es avec dynamisme et enthousiasme chaque matin. Diff?rents collaborateurs viennent partager leurs passions : cuisine, sant?, famille, mode, etc.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IkE5VmF1OEhiSkl2U0pLU28yelF3ZFE9PSIsInZhbHVlIjoiM2dWXC85ZDdYMnRqb3MzbEs0alVrR05ucXJHMEgrVkc2dnpheFpFTU1QcjBNUEZlTzhTTURHbURwN0ozZnBURHI0K3VxeTUyTGJsQ1c3bXpOZnFIRnFaNGJKU2diVHRrVm1FVDdVeFUrdWRRPSIsIm1hYyI6Ijk2MWRkZWQ2NDNlZWZhNWFhY2VjNmZmMDU3ZGE0YTI3NTg2MzBiMzE5YWI3ZDgxYTIwODNhNDdjMTJkYzgwYTIifQ%3D%3D&amp;signature=9d793559f0a828c8064ea384689df3dd82414692cfcff342d6b6972a63c34382</image>
+    <start>11:30AM</start>
+    <finish>03:29PM</finish>
+    <date>08 September 2026</date>
+  </channel>
+  <channel>
+    <name>TVA CA</name>
+    <id>TVA.ca</id>
+    <title>Le tricheur</title>
+    <desc>Jean-S?bastien Girard, Marie-Soleil Michon, Antoine V?zina, Marie-?ve Morency et St?phane Bellavance.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IldFVG03cHVGbjF3cHJFNFlkWGtZMXc9PSIsInZhbHVlIjoiak92bTRNdUpsQXpwYmdOR2NuVzdTTGkxVklZS2VvdDQ3NVJYb05tNWRDeUhjRDlnZ2ErUVdlVnI0XC9VWFdselhWalNMSVRyOEFyMTNWanFcL3FsUFdNYjR0U2wxT29MK1o3M3NWRmYxNjVHZz0iLCJtYWMiOiI1ZGEwNGI4OTNmNTY1NDM5MWUzNjJjZjAwMDY5ZmI4OWUyZGZlMzgwZTI1YjdmZGNkZjJiNjI3NjI0YTg4ZDE2In0%3D&amp;signature=e621f8cd0f5d36ee313486b4befcee42be57673cb9551a82c18c2ab466ea6e0a</image>
+    <start>03:29PM</start>
+    <finish>03:59PM</finish>
+    <date>08 September 2026</date>
+  </channel>
+  <channel>
+    <name>TVA CA</name>
+    <id>TVA.ca</id>
+    <title>Mario Dumont</title>
+    <desc>Mario Dumont vulgarise l'actualit? et la commente ; ?mission ax?e sur la politique qu?b?coise, canadienne et am?ricaine, ainsi que l'?conomie.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6InFLNUdVNUtQaXdVTExkUTh1VURqZkE9PSIsInZhbHVlIjoieUwrMW10TEFyaVwvMUdBNTdNOUxkZGtIOGFqS1ZqZktWcDJlRGY0OVBHK3VIOVQzOGZ2ZEwrUDBMTHVPVTNNSmNiT1wvNWVjUFlwcUNJY1Q4cXpLT1hnMHNCdE1ianZZTll0ZW5hVUlcL242c289IiwibWFjIjoiMWVkYWI2MDA4NmQwZmM5NGNmMTYxZDFiYjJjNWM2N2U3NjgxOTFjNmUwY2RlNjdjZjJjYzk3ZmRlZjBmZGZjYSJ9&amp;signature=fc506718a87480c758ba169f66e7dfcaae0720b9c404d964e6dc30881f7cf0b8</image>
+    <start>03:59PM</start>
+    <finish>04:57PM</finish>
+    <date>08 September 2026</date>
+  </channel>
+  <channel>
+    <name>TVA CA</name>
+    <id>TVA.ca</id>
+    <title>TVA nouvelles</title>
+    <desc>Avec Philippe-Vincent Foisy, on reste au fait des nouvelles de derni?re heure, des analyses, et la m?t?o au bulletin d'information complet et pr?f?r? des Qu?b?cois.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6ImxUK3lXYkpLTG11N01iWWdMQ1VTTFE9PSIsInZhbHVlIjoiTllBZlltVTlHMHhWSzhVS2tIcnhPaTg4cm4xVERBSXFMaHZvMnhXb09GTjlDMklncmVGaG4xeldmUkhQTFJxN3hcL2JPY2Nva0lLSmsrNkpXb0tuUlFjdXVyNllkaXRIc0F6STd4RnM2N3BRPSIsIm1hYyI6IjNjYmIyZGI0MjAxZjg0NWI0NzdhODgyNzA1OTk0NmU5OGVjY2NlNWJjYWQzMWIzMTkxZTNlZDYwNWIyN2Q1YWUifQ%3D%3D&amp;signature=8fd960d5465be9da63a70c135b690b3ad78a137330b90bcaed83be29b9571ca6</image>
+    <start>04:57PM</start>
+    <finish>05:31PM</finish>
+    <date>08 September 2026</date>
+  </channel>
+  <channel>
+    <name>TVA CA</name>
+    <id>TVA.ca</id>
+    <title>Le bilan du midi</title>
+    <desc>C'est le moment de la journ?e pour analyser ? chaud l'actualit? politique provinciale, f?d?rale et internationale avec des experts passionn?s.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6ImR0QzA5ZFwvODBPc3ViVWJBNlRSY2hBPT0iLCJ2YWx1ZSI6Ik9URm1zTE1HRnExUDBRNXdmNzN5bXo1N2ZTMDhKZlNXdWdTTFkwSVFsNnMzeWhNeUlCNkY4NHZZRzRZVWZXQmtVb0czNmF2ajZHTmIrQ05vbGIzeXA1UzNldWlLSE52SlJ6U0daV0lqQkJFPSIsIm1hYyI6IjBjZWEyZDcxNzEzMGI0ZmIxMmM1NWIzYmVkNDU0MThhNGRmMjdiOWQzOTQyMWMzZjY5MGZlYmMwYjZmZDY5MTEifQ%3D%3D&amp;signature=d56ab1897e60a01728453f1966326e35e31e11ca182df471bb84d04b035bb69a</image>
+    <start>05:31PM</start>
+    <finish>06:00PM</finish>
+    <date>08 September 2026</date>
+  </channel>
+  <channel>
+    <name>TVA CA</name>
+    <id>TVA.ca</id>
+    <title>Ici et maintenant</title>
+    <desc>Un adolescent brillant, dr?le, charmant, est tr?s port? sur la boisson; son quotidien est chamboul? par sa rencontre avec une timide jeune femme totalement diff?rente de lui.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6Im1xcExmOEhzYUZIbE53elBOa0dSMmc9PSIsInZhbHVlIjoieTl0UkhGQ0Q5QTRlZ0Zxc05ycm40YVExaGNqV1J1amhqUEhmXC9PXC9DTnlsREw1ZUI3bUk0eGNHRWlOb2l3ak9GT0tMSmhrMm1WdGdEdkNhZFhrNk12ajdvaUFGcDdVWStBd0o4VTJkTSthND0iLCJtYWMiOiIyZTcwOWJjNzkzNTJjY2M2NTk4YjFkYzY1ODk5ODk1N2QzMjQ3YTFiODIyYTRkYzM1ODAyNDQyZGIwNTk4Yzc2In0%3D&amp;signature=937e3eb5fa12e0cdb25255920c0ffcbe833e1a8e9b792ade6da67386c5ee62bd</image>
+    <start>06:00PM</start>
+    <finish>08:00PM</finish>
+    <date>08 September 2026</date>
+  </channel>
+  <channel>
+    <name>TVA CA</name>
+    <id>TVA.ca</id>
+    <title>Infopublicit?</title>
+    <desc>Ceci est une ?mission publicitaire pay?e.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6InArMFE4WW5DR3liVERDem1uR3EyM2c9PSIsInZhbHVlIjoiMzIrYUtCNU55RGJtWEhablVINHRvMEJjS2UxMlphaFV1NUEreVdqRTBHTWVVK3RjNU9PRlhBVUNiaGsrek1SN1hGSTdsMFpkTjYxMkNcL2FhNHYyYlwvenZiQ2F5UzdVbmhGNmQ5d3ZrUzRnUT0iLCJtYWMiOiIyNDcxZTQwZTQ1OGQxZDg4ZGI2Yjk4NTZjOTc3ODVhZDM0ZWY2MzMzZjlhYjhlODgxYWJiODg4YjQ4ZWJmODg1In0%3D&amp;signature=b3865ee2ffb88735afc7bd4b63344e230e6e8a2884812b2d96c542698aa05dfb</image>
+    <start>08:00PM</start>
+    <finish>08:30PM</finish>
+    <date>08 September 2026</date>
+  </channel>
+  <channel>
+    <name>TVA CA</name>
+    <id>TVA.ca</id>
+    <title>Les feux de l'amour</title>
+    <desc>Amiti?s et tractations de diff?rentes familles et de leurs associ?s dans la ville de Genoa au Wisconsin.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6InV6b0pRb2ZqRFFJNHZRTm8xTHlRb0E9PSIsInZhbHVlIjoiMEdZN29rSnU4bktNSmhxRFFBY0s2MVoyWjNaOGs3YmViYkxDSWlxcXJ5dk5HTVRzR1owS3pSaGdNa1NsbEdKOXozekxaeTFVYlh4MkRNbTgxNWRQNlNRbURWaDNUTmVQQlZIMnk3MUJ5OFU9IiwibWFjIjoiOTk1ZmRjOGMxZWMxMTRjNTBjOWEyZjBiMTAyNGRkZGU4YmY4MTdlN2JjODRkOTZlZTc0MWRmZTQ3OGQwN2ExYiJ9&amp;signature=2f9aa1bbbfa619105eecd87e720e79c3f9df6696020d47ae6b662d363dadadeb</image>
+    <start>08:30PM</start>
+    <finish>09:28PM</finish>
+    <date>08 September 2026</date>
+  </channel>
+  <channel>
+    <name>TVA CA</name>
+    <id>TVA.ca</id>
+    <title>Top mod?les</title>
+    <desc>Deux familles de Los Angeles rivalisent dans le milieu de la mode.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IlhWSGZFUWFNakxhMUtCSlE2N0ZVY3c9PSIsInZhbHVlIjoiOEpOV3BLZW50NnV1dDJQS0M4K05rMW43ZFJmUHdyVk02TUx5RUFTdkpPa0RCY0NKTzRnaFBUZkZ1N2FHRlM4a0hiOHRpZmJvMGowMmhaR3N5N2pNTzRQRXYrbEVjdmRqbUJrWFNpYUpMUVE9IiwibWFjIjoiZDhhYzc3YWJhM2NlMmNmZWQ0NmI1MmMzZDk5OGRmY2FhN2YwNDkyYzM0NTE5MjI2ODFiNmRjMTczMjk2ZDU5OSJ9&amp;signature=51729c89b87c5ca1af6cafba9556e14fb39df2511386e44a8d2c84364d68d607</image>
+    <start>09:28PM</start>
+    <finish>09:58PM</finish>
+    <date>08 September 2026</date>
+  </channel>
+  <channel>
+    <name>TVA CA</name>
+    <id>TVA.ca</id>
+    <title>TVA nouvelles</title>
+    <desc>Avec Julie Marcoux, on reste au fait des nouvelles de derni?re heure, des analyses de Paul Larocque, Emmanuelle Latraverse, Richard Latendresse et Mario Dumont, du sport et de la m?t?o au bulletin d'information complet et pr?f?r? des Qu?b?cois.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IllGeVpiTGdDNmdoMCtWbUZGTENGN3c9PSIsInZhbHVlIjoienptTlB0WmVGM1dwMkhWYW5TXC9vUldnMnlCWHk5V0s0TnRwNmtGOFI5S2ZKUWpwXC9JMXFhMWpRQlwvbnJSNXcrYXFYeTMrUjhUS0dndTZXaWpDWHNsbmxDWElpaUpLMHQ2VFM3SHRUYXM0TGc9IiwibWFjIjoiYTMxZDhjMzExYzlhMWJmNGVmMDY5YjE5N2YzOTQ0NWZmYTVlZTlhNjEyMGI3N2M3NGNkY2U5YzQ3ZWVmMjBmZCJ9&amp;signature=d83008a0de77f2d1a5bbed65ced6a370d362bab275972f3c062cf53089b53a48</image>
+    <start>09:58PM</start>
+    <finish>10:58PM</finish>
+    <date>08 September 2026</date>
+  </channel>
+  <channel>
+    <name>TVA CA</name>
+    <id>TVA.ca</id>
+    <title>TVA nouvelles</title>
+    <desc>Avec Julie Marcoux, on reste au fait des nouvelles de derni?re heure, des analyses de Paul Larocque, Emmanuelle Latraverse, Richard Latendresse et Mario Dumont, du sport et de la m?t?o au bulletin d'information complet et pr?f?r? des Qu?b?cois.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IkNHdlwvYVlUVGg0NncyS09SMGpkMFBRPT0iLCJ2YWx1ZSI6Im54K2I3ME1jWTRQQksrdEo5c3QzTG5QR2lLTGJ1KytFTVpOV2Zna3JKUUNzdlhFODMyaFRQMnF3eWZOSVlTN00rK2NOdTZBQUF2ZUVDem1HMHZ6enkwSWsxK2xrK0tRZko4dElcL1hMUk12OD0iLCJtYWMiOiI3ZTk1MGJhMjU3YTQ2MzZhM2VkYTI5MmUyOThhNTI4NTU0MDAxNDY5MTA5YTBlMDIzOTBhMjFlYWE0NmU0MWM4In0%3D&amp;signature=06237bb71a1dba5832b0d8ccf3f0b32fafa0597e3cf6e3d712c885f3b54434f9</image>
+    <start>10:58PM</start>
+    <finish>11:29PM</finish>
+    <date>08 September 2026</date>
+  </channel>
+  <channel>
+    <name>TVA CA</name>
+    <id>TVA.ca</id>
+    <title>Le tricheur</title>
+    <desc>Anouk Meunier, ?ve-Marie Lortie, Julie Houle, S?bastien Beno?t et Jean-Michel Anctil.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IlwvakJJb1JBeVwvSUpkYWQxYlowUkNHdz09IiwidmFsdWUiOiJGZXlkdFwvY3lQaG8xeGxET2twbEhTWG94alpOekRWZkxNeVNabm9FQ2FXK0dvVXU3TFZZaUppODJUY3AwRTd4M3c4Z2I5NVJna25XaHNPNTNQaUUyUUVPUVdaamFkcFhsdGpWWjlXU3diMEk9IiwibWFjIjoiMjI2OGFjNDMwNWVkZjMyNjBhNWMwNGE0ODdmMTNjN2JlM2I2NWViOWNlYTIwYzQxNDg3MDAzN2I1NDk5YmRiZCJ9&amp;signature=406552657c9c95d54225b6a36f8696a5efb8444aabd582daaf5fe41d16c116f3</image>
+    <start>11:29PM</start>
+    <finish>11:59PM</finish>
+    <date>08 September 2026</date>
+  </channel>
+  <channel>
+    <name>TVA CA</name>
+    <id>TVA.ca</id>
+    <title>Ind?fendable</title>
+    <desc>Kim, boulevers?e, inqui?te son entourage par sa froide col?re; L?o cherche ce qui a men? au drame entre Thomas et Conrad; Louka vit difficilement la cyberintimidation.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6ImROREQ5d21YUGU2dW1NOXFcL2V3OHVRPT0iLCJ2YWx1ZSI6Ik9vYlJTeHpqcTZGYTJJOVVhQkI0SitcL3oyTU81dWVFMEtwdlg2bjRTazBlanRtQzBUMXNNc0g4XC9tMm15ZWt2RTFVN2MwYTFjaHI3WE84QWR5VjY3a2RKOE8yb0JIUlZxZENpMVRFY0p5Qm1MWFpmZWc5bERHem5lakx2Rk9meVkiLCJtYWMiOiI4ODEyZjdhNmRjNWIyZDQ3YTc1NDljOTdhYmQxODM4NzU4MGRlZjk3ZGFkOWU5YjI2MjhjODhkMGIxNTdmOWMxIn0%3D&amp;signature=98dc38775cc05b5a7b188d1bd96aa0d884074f6d50553716a258e7d0fbdda836</image>
+    <start>11:59PM</start>
+    <finish>12:30AM</finish>
+    <date>08 September 2026</date>
+  </channel>
+  <channel>
+    <name>TVA CA</name>
+    <id>TVA.ca</id>
+    <title>MasterChef Qu?bec</title>
+    <desc>Les tabliers gris ont une nouvelle chance d'int?grer officiellement la comp?tition; pour gagner leur tablier blanc, ils doivent se d?marquer en cuisinant un grand classique: un steak-frites.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6Ik5FaTlaSjBnU25SZEx0eVFCb0lwOHc9PSIsInZhbHVlIjoiUktVN25STHBhdEZ0dWoyc0NKN1ZcL0JwMzFaVVlHRE5LSkF3dFFnb2htdHNkdUowQUFKWHYxNk1Va3Q4Mjk3NkRnSjQ0R0V5UmRaXC9vS1F2WlQ4OWx1MjluZGhLR09ycldYa0srbkZzMWxBZTkyRjZFbmd1OGd5ckltRzJsSlN3KyIsIm1hYyI6ImQ5NDNiNTA0ZDU2NzUxYTRjMWU3NTNhMDYzNmU0MGY3NzdkZDg1ZDhkMmQ4YjEwYzkwYmZmYTVlYmEyZTRkYTkifQ%3D%3D&amp;signature=a66aa874eeb902ab32670063b6a7a60f52fdca7ff95c03245db740f0bebec037</image>
+    <start>12:30AM</start>
+    <finish>01:00AM</finish>
+    <date>09 September 2026</date>
+  </channel>
+  <channel>
+    <name>TVA CA</name>
+    <id>TVA.ca</id>
+    <title>Alertes</title>
+    <desc>Une clinique d'avortement est le th??tre d'un terrible drame; le Dr Shapiro est attaqu? alors qu'il arrive ? sa clinique; St?phanie est de retour au QG, o? une surprise de taille l'attend; Lucinda se confie sur les menaces qui ciblaient la clinique.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IkN1OUYwaWxEb3p3XC9ZZ3ltdWkzQzVnPT0iLCJ2YWx1ZSI6Ik5GXC9UKzlUZ1U2M3hDUHdLb1pvNStYQm03OGJIMk5xOEpmTFM5Tk1nemFPUTVibEU2anRqK2p1OFwvVkFzS1VaQXduR2h2cDN5Z3ErdTZtaEZwM0VSaWlYSFQ3WDFPWXEweDlvOVpCZExhR1E9IiwibWFjIjoiMzJiMjE4MjYxOGQ4Nzc3NWU1ZjIzYzFkYTk4MmMxYzRmMTM0ZjQ3Nzc5MDQ3MjI2ZTgyZTQ0ZTIwYmQwMWRmZSJ9&amp;signature=a562774f782311c8b13ab829e58721fe4eb52a9677e4ac9d08641e4a9ee30cd9</image>
+    <start>01:00AM</start>
+    <finish>02:00AM</finish>
+    <date>09 September 2026</date>
+  </channel>
+  <channel>
+    <name>TVA CA</name>
+    <id>TVA.ca</id>
+    <title>Ravages</title>
+    <desc>Sarah fait une d?couverte macabre qui changera tout pour elle et son entourage.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6Imp4T3hcL0lhYUxYdEswcVFTQUJIYjRBPT0iLCJ2YWx1ZSI6IjdLS1l6OUJ6cU1oT0RnRVJwR3dhbTJsY3NGbytiY2pKWlFocXJkbHB0NFExUWZ3NGxmeHBrNXVuNlB5VlBwM042NVphd1YyZCtkaW12cm9LTmNOTUEyUkdcL0I0ZGFOelI5YXc2Rjh2MnFRaEh6RkZId2h5NFZWYUVKMjdsOUc4MCIsIm1hYyI6IjA2NTNlNjUyZmI5NmY3ZTg4ODYyODQyODYzZGVkYmUxYWI5Y2E2ZDAyNGQ3MjZjOWUxNzQzYWU4ZmQxYzA2N2IifQ%3D%3D&amp;signature=1a64fe90c8a5083d12e4f33781aebea18b9d8497cef6e37274df47208fcebb83</image>
+    <start>02:00AM</start>
+    <finish>03:00AM</finish>
+    <date>09 September 2026</date>
+  </channel>
+  <channel>
+    <name>TVA CA</name>
+    <id>TVA.ca</id>
+    <title>TVA nouvelles</title>
+    <desc>Pierre-Olivier Zappa vous pr?sente l'actualit? de derni?re heure, les nouvelles r?gionales, internationales et ?conomiques en temps r?el, et plus encore.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6ImNPQTlOOUhcL2UyaXp3aWN2UWNrditRPT0iLCJ2YWx1ZSI6InJcL2tPM1hpbzZRcGpQMjNRQkZEN1JIMTd5diszTFwvTnVlck50VDEzS2F5Yml5WkJZTjlObFJVb2JhQUhTcFFiU1NFa0h1NG1lcFFkNks1WUFEWWI3NGZBeHpWRFdtOXJEdUdFV1RMakd4RHc9IiwibWFjIjoiM2Y3ODZmZGRkZjE0M2U4NTkyZmJhMTQzZGVmYjljMGZiYmJjOGRiMzBjY2JmYzRkMjdkYmIxNzQxNGIwNDJjYSJ9&amp;signature=e4228b3770a3506186f79b2aa5caebd430bd9340b30350b4a2b4ce6de005f1dc</image>
+    <start>03:00AM</start>
+    <finish>03:35AM</finish>
+    <date>09 September 2026</date>
+  </channel>
+  <channel>
+    <name>TVA CA</name>
+    <id>TVA.ca</id>
+    <title>? vos affaires</title>
+    <desc>Pierre-Olivier Zappa d?cortique l'actualit? ?conomique et ses impacts dans le quotidien des Qu?b?cois.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IktHN3I0aWhxNFNlWk1iZU5uU1pPZlE9PSIsInZhbHVlIjoidzhrU0FrSjBXYVk5SlwvNzF1SW5Lc0FsSXJ1QW9EOHpiNmVNcE9CYTNJOFR3MEs4eSt2T21IQk1vZ2YyVTBORGttTlhJVkJOZXNsUFg1aU44aVFIa2lESzd2aWJNOEoreUlTZUZLTkxrbGdERFV5aUJiVlpsbzhLV2ZQWGw4KzFrIiwibWFjIjoiZjU3ZDM0ZmRmYTJkMThmMzE0MDViMDBlZTJkODE5NzA5MjJmZmFkMWZlZDFlMmI1MDRiMzdlYWIyODU3ZTNlNiJ9&amp;signature=f2a3e1a22973f4874e35bf428872e16af9081cd173f5f49853b35bd8f83f3220</image>
+    <start>03:35AM</start>
+    <finish>04:05AM</finish>
+    <date>09 September 2026</date>
+  </channel>
+  <channel>
+    <name>TVA CA</name>
+    <id>TVA.ca</id>
+    <title>?ternelle Adaline</title>
+    <desc>Apr?s un accident qui aurait d? lui ?tre fatal, la belle Adaline cesse de vieillir. Aujourd'hui, bien qu'ayant v?cu pr?s de huit d?cennies, elle est toujours ?g?e de 29 ans. Apr?s avoir men? une existence solitaire afin de ne jamais r?v?ler son secret, une rencontre fortuite avec le philanthrope et charismatique Ellis Jones, va raviver sa passion de la vie et de l'amour.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6ImtaS0o2Y1B4ZlRHblhtWXFqOFo5Y3c9PSIsInZhbHVlIjoiT3hGWGdOdWFjcXp2MW5iMTQrOU93TnFhajYxNDRIQ0tiUWlkTVpMRFFhamFpVFZCbGhOY2JaWFNaUXZGVFVlWEJxQnFlS2xjYklDNm5ZV0YreFFNVXFJYXR4SlJBRzF2N0VCOGRnSElZTm89IiwibWFjIjoiMTViNGY5M2JhYjZhOWVlOTMxMWU5NDczODVhMTMxZmU2OTJjMjhkY2MwNGRmZjZjYmNkZjYxN2Q3NWM2YjQ2YSJ9&amp;signature=501ff1bb4fd93fa1c68068229591a6aab45a56924de81d34b4e5c16f9c974aac</image>
+    <start>04:05AM</start>
+    <finish>06:17AM</finish>
+    <date>09 September 2026</date>
+  </channel>
+  <channel>
+    <name>TVA CA</name>
+    <id>TVA.ca</id>
+    <title>Coup de foudre ? la carte</title>
+    <desc>Caroline, chef d'un restaurant gastronomique ? New York ? la conqu?te d'une ?toile, se rend en Australie pour vendre le restaurant h?rit? de sa tante. Sur place, elle d?couvre un accueil chaleureux et une cuisine g?n?reuse qui la font douter sur sa volont? de vendre.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IjVvcnZHTCt3UWRpaGxZQUFSTXlXRkE9PSIsInZhbHVlIjoiQlpydDZjUnYyc1hnempOTEw5OXRBZFwvR2FJR1BGaXY0MkdrSEQwMjQ3Mjlha1gzcFFZVFlsdkFwTWlwUGh6clJaYU85RXdvZHpmRklEeHRLdkxob2RxN1FKU2hxZlhHMWtEN1dVSGRlY2FjPSIsIm1hYyI6IjI0ZDMwZTYyNjA3MzhiNzczNTRlOWU2ZjJiZDE3OTQxYjBiY2YxMzgzNjM3OTMwYTI5Y2RhOWMyZGYyMTEyYzYifQ%3D%3D&amp;signature=02be5ca47be16f7b5586663b2ba1a79e035798df7b67928326448d4385bc2e63</image>
+    <start>06:17AM</start>
+    <finish>08:03AM</finish>
+    <date>09 September 2026</date>
+  </channel>
+  <channel>
+    <name>TVA CA</name>
+    <id>TVA.ca</id>
+    <title>Les armes</title>
+    <desc>Bien qu'ils doivent travailler ensemble, Craig et Savard demeurent tr?s m?fiants; ils diff?rent notamment d'opinion sur l'attitude ? adopter face aux trois suspects dont Sofiane Lecours, une soldate d'infanterie finaliste pour l'unit? JTF-16.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IlJpMTQybGZmcHQ2enhjYWdlTUVEWkE9PSIsInZhbHVlIjoib1FFZFI5c2JcL2hvMk05c21FY0pmbElLZG9yVTJCS3VMUzRKWUdsTDkxQUxJcGZ0XC9LcVlCVzhybFBKQ1M3NFR1WlpKcjVBTkhWSDhRUXcwNGQxVWR4aVIyZ2ljZXNZV2swXC8wU2FSazI4MGtibnJpRHZHRjRWYnNLZ245dTEwYnMiLCJtYWMiOiJiMDkyYTE3ZDc1N2MyZjNjOTIxZjFlYzBhYWNkZWMyMmI4YmNlZWZmZGVlZWVlODhmMDEzZTRlY2Q3MGE1MzA3In0%3D&amp;signature=152b9f661754ce8e8e81acee63618865d485a462f00f1d6538c69af58f01b146</image>
+    <start>08:03AM</start>
+    <finish>09:03AM</finish>
+    <date>09 September 2026</date>
+  </channel>
+  <channel>
+    <name>TVA CA</name>
+    <id>TVA.ca</id>
+    <title>TVA nouvelles</title>
+    <desc>Information r?gionale, nationale et internationale.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IkttcE8wNmY4Q3dpUzZENHd4SXFtQnc9PSIsInZhbHVlIjoialpaZUxNb2cwN2o0ZFJWdEFcLzBjdTQybzVSck40Qk5IVzZiMUxcL21LXC8wZGhROHFTbVAycVFmcFk1Y3BPZlBvb0l2QmE3azdrNlQwRDZIVEFvTkcwbG1MaUFVZ3hSWlJ4NHVKUzBSV094enM9IiwibWFjIjoiZWUzOWFjNzU2ZGI4ZGZjNDgxNDI0ZmUyOWY0MTMxNTA3Zjg1MzRhYzdmNTgzMDcyZmFiYzY0NThjMWEwNTYyYiJ9&amp;signature=1aeaf7d3867b18ce0066c3c6c37cfb2dee3647b23311ab835333f7e61f9f323c</image>
+    <start>09:03AM</start>
+    <finish>10:00AM</finish>
+    <date>09 September 2026</date>
+  </channel>
+  <channel>
+    <name>TVA CA</name>
+    <id>TVA.ca</id>
+    <title>La victoire de l'amour</title>
+    <desc>Pr?sent?e par l'organisme catholique La Victoire de l'amour, cette ?mission religieuse du m?me nom est constitu?e de t?moignages de personnes qui sont parvenues, gr?ce ? leur foi, ? surmonter de lourdes ?preuves. Les invit?s font preuve de courage et sont une source d'inspiration.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6ImM3UTJ3bURFWTEyWVQ4a2FhTFBPbHc9PSIsInZhbHVlIjoiSDY5OFJmMTBpQXFzVUE3cVlxSnFnRGdiUkJlTWlOTUZ2OWhEcGdWZEV6cWZKVitoWXoyR1RzR3VKMk9PQ21ISEtqTUV5ZWgrcytQWWdzZ0dWY2JSeFpQU0ROcWUrQ2RFMXZDV3ZxeDRBdzg0WVwva3I5a2E2VWdjMEpYTnpQbUpRIiwibWFjIjoiMWMxM2NmN2U0MGViMTNiOWZiYmI5MzkyOTg3ZDlkMDc1YWQ0NDY0MDgxODE0NWY3MmM4ZWI1MjE2YjNkNWU5YyJ9&amp;signature=8f3338f903fa03dff367e023cf3a4e3ab7bbacb9f2d113cc5fe501beafd26c82</image>
+    <start>10:00AM</start>
+    <finish>10:14AM</finish>
+    <date>09 September 2026</date>
+  </channel>
+  <channel>
+    <name>TVA CA</name>
+    <id>TVA.ca</id>
+    <title>La victoire de l'amour</title>
+    <desc>Pr?sent?e par l'organisme catholique La Victoire de l'amour, cette ?mission religieuse du m?me nom est constitu?e de t?moignages de personnes qui sont parvenues, gr?ce ? leur foi, ? surmonter de lourdes ?preuves. Les invit?s font preuve de courage et sont une source d'inspiration.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6Im14NGZUMXVsXC9SemVQUmp3OFwvZTBKdz09IiwidmFsdWUiOiI0NHV2VmUzVTBkTFdLMFIraVVmTUx0eklneVdKaG5KRkozMW9mQnBVb00xRk9qUWZtMytNZVZzbzVva3hBNnFsYVd2akFLU3gzNUEwOVpTQmpjUlZBSkx5ZHk4SWlreVc0SmJ5MERudFJ3R3JUSWNBbUh0Z2pQaFY5Vm9rXC9mVGoiLCJtYWMiOiJjYzA2MDk1ODc3ODJhZDU3ZmVjZWY3YjQzNmI0ZTFmYWRkZDU4MjQ2ODIzNDhlNmQwZDA1YzE3MmNmNWM3YzI3In0%3D&amp;signature=1dc0a6f1b164765c748e97fcdb5c0e1f1249228ef4c559b793dd3daf1ec5febb</image>
+    <start>10:14AM</start>
+    <finish>10:30AM</finish>
+    <date>09 September 2026</date>
+  </channel>
+  <channel>
+    <name>TVA CA</name>
+    <id>TVA.ca</id>
+    <title>Infopublicit?</title>
+    <desc>Ceci est une ?mission publicitaire pay?e.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6Ink3Qm5RZHhodTR0bVkxQlFySDBOZWc9PSIsInZhbHVlIjoiajZGeHpOYlA2eDFXK1JTTTF2aUVjYUVCb0Y3R3VsU2c4VkxYdnhjdHhjNG84WXd6UzZxT2FZQzdCYkJvTXVBQ2Q2WDFvbVN6U3liQUN4cDYwSEZsOVNUZ0UyMUVUWUlCbjA2aGUyQ3hzZ1E9IiwibWFjIjoiOWI1ZDA1OGRkMTcxMWQ2MDBkY2FhODdkNGUwY2YyNWI3Mzc5NTE1NDcyNzk0YjZkODk2MjNjOTI4MWJhNjY5MyJ9&amp;signature=a7345ac2fbcc2978eb0dae4608ce732c6d3d025f746de329ff8bd7a33b316a1b</image>
+    <start>10:30AM</start>
+    <finish>11:00AM</finish>
+    <date>09 September 2026</date>
+  </channel>
+  <channel>
+    <name>TVA CA</name>
+    <id>TVA.ca</id>
+    <title>Le Qu?bec matin</title>
+    <desc>On reste ? l'aff?t de toute l'actualit? sur des sujets tels que la politique, l'?conomie, la sant?, la m?t?o et la consommation gr?ce ? des reporters en direct sur le terrain ? Montr?al, Qu?bec, Sherbrooke, Trois-Rivi?res, Saguenay et Rimouski.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IjUzeEVCVnNQcThMU1ZONUdmWU42clE9PSIsInZhbHVlIjoib1BpdGFiU3Y5QjhKZ3laVVJMXC9LNUFYd3RDYkhQRmRiaDFxbW05dnRoUWhXQzQyZnBHNXlhNFRwN1hGTGRlTkxuNU9zcnFlbVV1SDU5citJUGlEZ2lEZDEwRFVmSnBTWXNYZjlcLzl5d0NjVkd1VmxzK0h1eUVTbFdNOHQ2V2JMYiIsIm1hYyI6IjYzNjA3ZWMyYzQ3NzQ1MzQ1NGU4OTUyMjExMzgxNzQ2NmQxOTExYmNmMjExM2YyMzQ0NTQwNThjNzg1OGRmZDMifQ%3D%3D&amp;signature=27c8f4e76deeae7c3dbebf611e04895046171ac3644f162c2a21fdb52d20f8bf</image>
+    <start>11:00AM</start>
+    <finish>11:30AM</finish>
+    <date>09 September 2026</date>
+  </channel>
+  <channel>
+    <name>TVA CA</name>
+    <id>TVA.ca</id>
+    <title>Salut bonjour</title>
+    <desc>Actualit?, revue de presse, m?t?o, circulation, actualit?s culturelles et sportives sont abord?es avec dynamisme et enthousiasme chaque matin. Diff?rents collaborateurs viennent partager leurs passions : cuisine, sant?, famille, mode, etc.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6Ik1oT0NvTHdEMTFUWTJic2xHTlFZQnc9PSIsInZhbHVlIjoiRVJKUklsV0M5c1wvTWw4VXhoNTd1eXVWVGlTbXJSWU9tSzhRXC9aWjk5NkhlRXV4Ukltc0k4d1RoUWI2aTNabVZTWU52OWVnb1AxVW0rOFBncllFTVFuaEluaHc2VG05Y2lqWlRJNzgrSDFuRT0iLCJtYWMiOiIzMjU3NTA1MzI4MGYzNjE3MjUxYmM0NzRkZDcyNzhlOWVmYmMyYWI5NjI1ZjVjNDdiYjA5NDU1YzMxNzg0MDJhIn0%3D&amp;signature=a440d18d8ae6983d517eb227fd95583ecb32292b98e4b3e65cab6ac1f4324e00</image>
+    <start>11:30AM</start>
+    <finish>03:29PM</finish>
+    <date>09 September 2026</date>
+  </channel>
+  <channel>
+    <name>TVA CA</name>
+    <id>TVA.ca</id>
+    <title>Le tricheur</title>
+    <desc>Jean-S?bastien Girard, Marie-Soleil Michon, Antoine V?zina, Marie-?ve Morency et St?phane Bellavance.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6ImpcL3lDZnkrRTZtUEpKOUY3RlVoMjN3PT0iLCJ2YWx1ZSI6ImZjK0huQjRFQURJN2liR21OalZLeTk4MEFneU1yVXZpeWhqRThQRXZXMWIzajMrTG93Zk9aMkdUSDlZekJQakNoT055UnIzdXZCeEJ5NUxoc0RLU0FYdm9vV1lcL3BXNnpUa3N5clwvVzZSZ009IiwibWFjIjoiNWU3YjA2YjE0OGJmMmZjYzE0ZTg2MjU5NGI4OWFlNGM4YjIwYmM1YTdjODQ2NTI0MzIzMDEwYzRmNTRjMDFjMCJ9&amp;signature=ff75371cc03b6742e223edf01d977f4aa2a5623f94a6e0b25b77be5154097f5a</image>
+    <start>03:29PM</start>
+    <finish>03:59PM</finish>
+    <date>09 September 2026</date>
+  </channel>
+  <channel>
+    <name>TVA CA</name>
+    <id>TVA.ca</id>
+    <title>Mario Dumont</title>
+    <desc>Mario Dumont vulgarise l'actualit? et la commente ; ?mission ax?e sur la politique qu?b?coise, canadienne et am?ricaine, ainsi que l'?conomie.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6ImpDbUQ1bTNJYnlGQUxiTXZyREx5alE9PSIsInZhbHVlIjoiRVl3UmdHbDhDZVFTZWJyWk45ZFwvMmE1VmY3MVlTQWlMNTdqb1pVUmtLTTNoeVFpZ0t1NGlRVkVjUkUwNnpMaVFpU0tKV0dHeWc0RjdDbE1tSHBRTXZxYTRGZkF0UTJhRUcxZzY1NVdpUmJJPSIsIm1hYyI6ImJhNmNlZDUxYzZmMjIwNWNiYjk5NDllMmYyMTgyN2JiYTQxZmNjMDFlMzYyMTU2NzAxY2M0MGVkMWJhMDE2NGQifQ%3D%3D&amp;signature=c38d3f299b658aa4e5a1def4670ca3dd9de671a408d7c7dc55f08a45b40cf7d5</image>
+    <start>03:59PM</start>
+    <finish>04:57PM</finish>
+    <date>09 September 2026</date>
+  </channel>
+  <channel>
+    <name>TVA CA</name>
+    <id>TVA.ca</id>
+    <title>TVA nouvelles</title>
+    <desc>Avec Philippe-Vincent Foisy, on reste au fait des nouvelles de derni?re heure, des analyses, et la m?t?o au bulletin d'information complet et pr?f?r? des Qu?b?cois.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6ImRPeFl3ajFHa2ZycnZJM29aM2lHQUE9PSIsInZhbHVlIjoiQ3kxYVBibHZkTkFoSEhCZnZzNzEzUmxmd2FodEloNkh4dFJDdjRaemVnOHd5UFJHOEVmTTIzOEtFNlpjdlcrV1Y3YlVycGJuc1VWRnRsRnNaTXg3K0NHOVwvSEx4ckkxTEtjNUxjeUpoRXBNPSIsIm1hYyI6IjM3N2Q1OWZiZThlNWMxYjQ0NzFhNzI5OTA0MTg2MmQ4MTY4OWY1MTFmYzQwNTlkMjQ4NGI3YzBmYTc5YmRkMmUifQ%3D%3D&amp;signature=5e1b0576a5aa2cc55f8ce11b8edd7e249643369d0a783983da908be1c82f899d</image>
+    <start>04:57PM</start>
+    <finish>05:31PM</finish>
+    <date>09 September 2026</date>
+  </channel>
+  <channel>
+    <name>TVA CA</name>
+    <id>TVA.ca</id>
+    <title>Le bilan du midi</title>
+    <desc>C'est le moment de la journ?e pour analyser ? chaud l'actualit? politique provinciale, f?d?rale et internationale avec des experts passionn?s.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6ImdXeDVrSTF6TlR3Y2ljSTRjQzVwblE9PSIsInZhbHVlIjoid0l3c0hcL2RaNG5HalJqYnBNdTQ5SHRIRHNXcUV2NUVURXYrRFEwcGpSZ2FYZzlXcGU5VXZYcXpFRHBwejMrMVBZUmtKTXZmNWM4UVE2Q0ZQZzA3UHc4aVFkODA5QmdBaXhQTm1lc1R5SlNvPSIsIm1hYyI6IjkyZmRhODBlMzM0MWVlYjZlYzNiYTZhNDU3NWRjMTI4M2VlZTJkMTVhODcwZDJjMGNkODFjMWJkYTIzNWM0MDYifQ%3D%3D&amp;signature=694ce52856ed52f4884e68c5bc8ff193afbc968f1fd7fb7eb44146c64109ddf1</image>
+    <start>05:31PM</start>
+    <finish>06:00PM</finish>
+    <date>09 September 2026</date>
+  </channel>
+  <channel>
+    <name>TVA CA</name>
+    <id>TVA.ca</id>
+    <title>M?re extravagante</title>
+    <desc>Des mondes se confrontent lorsqu'une directrice de chorale d'une ?glise du Texas h?rite du club de drag queens de son fils d?c?d? ? San Francisco.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6Ijh1VzNuQW5hQ1ZKMVF1R09ObUJQXC9BPT0iLCJ2YWx1ZSI6IkFhbVMrUzZuM2xWQ2hLRFBOd1plNVNcL0JxZUY2SHh3SklNZ2FRZ1dZazJiUitRZnJFTStkV2pKcVdxdFRPRFNKbXVSQ2VBakFRdDZKWllYVjNKXC9BcVRwZlN3M2Q1XC9hRDlcL1pTanNsTXRIUW5pbWlGTzAyN1E0UzRVVWVvcWZ1aCIsIm1hYyI6IjE1NjM2ZGJkZTIyZWY1Y2E5YzZmM2RiN2U2ZDI2ZWYxOTU0MjA1ZmIxZWFjMDA3MWJkZTZmNzllMzkyMTBjY2YifQ%3D%3D&amp;signature=11c9dbc51d6c5b17fdbfcb58ba4ab175ef9af727d19703d733adb8b0bc779951</image>
+    <start>06:00PM</start>
+    <finish>08:00PM</finish>
+    <date>09 September 2026</date>
+  </channel>
+  <channel>
+    <name>TVA CA</name>
+    <id>TVA.ca</id>
+    <title>Infopublicit?</title>
+    <desc>Ceci est une ?mission publicitaire pay?e.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IlhSdlFweGRiK1FNMWw5NnFSb3RjU0E9PSIsInZhbHVlIjoiWXp5R1wvUDJpRnlvcVR5d3NabE9qeG1XZHMrMkJYNGZ6bkdsZEhuRDVUY3FIYjA1cWFveU5meXl3QWI5WTFSM0tXdlpVTXFtNDdqZkdVZmdCRFhMaXVoSWYxUVRlWDVlK0VadE5SaXBRVlpNPSIsIm1hYyI6IjZjZGYwMWVkMjM3YTgyZjY4M2ZiN2U5YjUxNDMxMGU0OTg2NWEzOGVkNWY4ZjJlNDg4ZGI4N2JhZGVjZWM3OGUifQ%3D%3D&amp;signature=31df7a9f4074223b16d66a729d294941b42cb7b5fb2d8ace57f4d967dd6e77de</image>
+    <start>08:00PM</start>
+    <finish>08:30PM</finish>
+    <date>09 September 2026</date>
+  </channel>
+  <channel>
+    <name>TVA CA</name>
+    <id>TVA.ca</id>
+    <title>Les feux de l'amour</title>
+    <desc>Amiti?s et tractations de diff?rentes familles et de leurs associ?s dans la ville de Genoa au Wisconsin.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6Ik0yTDNYNFkweUZcLzFMVW9BdjNtRFhBPT0iLCJ2YWx1ZSI6Img1YnlKSFwvY25mTjl6MGh0RWpTMFhsd1Z0dHltbjBiMVM4eVZIWTYzZmhcL2JlNE1IXC9MVFdjUFBqcHlBeGxoaDhaaVwvMVwveVV5OWQ0OTZZT3ByalpDcXZhOGtOWEEwWGlENUFqVkNqankxOVk9IiwibWFjIjoiNWVjY2E0MzdhYjIwNDU2NmY0NjBlYjQ1N2M0YTFkYjg3NTg2ZWY0MDQzNjBhZTM1YTNlNDg2OWIzNDk5NzU5YSJ9&amp;signature=3dc54ca96c8195f346f3e30825bb88f213388e50f7918e1503d47ccb74d5d41b</image>
+    <start>08:30PM</start>
+    <finish>09:28PM</finish>
+    <date>09 September 2026</date>
+  </channel>
+  <channel>
+    <name>TVA CA</name>
+    <id>TVA.ca</id>
+    <title>Top mod?les</title>
+    <desc>Deux familles de Los Angeles rivalisent dans le milieu de la mode.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IlN3c3NuS3BVeFN0aGpISDFEQUJXa0E9PSIsInZhbHVlIjoiQStVWHRTSkp3aFRcL2hUSTB0b0FkcTJ6K2RWNmVVaGJTUWNFOEtPclBDN1wvQ0R1ZWc4aGFxT2NHYmloWjJIcHFcL081NjA2a1N4QmFRYVwvMGZ3V1BMM244UGtcL3RKcWRjZGIybUdFSkhZUldZUT0iLCJtYWMiOiJhZjlhYTcxNGU0NjdjODc1Nzg1NmFhYzFjYjcyMWM2MGU0ZmNlYWRjMmVhOTUzOWYwMzg5ZTljN2E4ZGQ0NjcwIn0%3D&amp;signature=40840cb65faedc11137cb3ffd6ba9ee34739a1d24138b2acc723b076d618be85</image>
+    <start>09:28PM</start>
+    <finish>09:58PM</finish>
+    <date>09 September 2026</date>
+  </channel>
+  <channel>
+    <name>TVA CA</name>
+    <id>TVA.ca</id>
+    <title>TVA nouvelles</title>
+    <desc>Avec Julie Marcoux, on reste au fait des nouvelles de derni?re heure, des analyses de Paul Larocque, Emmanuelle Latraverse, Richard Latendresse et Mario Dumont, du sport et de la m?t?o au bulletin d'information complet et pr?f?r? des Qu?b?cois.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6InY4RFFnUmxudmZhcGVZSTIwSzZmVEE9PSIsInZhbHVlIjoiNElRM2RZTEl5azRXTXJqYXVOWldMVFlteCtXMmRpUyt6V3NBRXM4T0o1b1B5dWtBTW5GVEJIR0ZXR2VrMThjcUNVNjVGcGJ2a2NoZ2J0QkpWZ21jQUdZSjVCN1RvbDNPR051TXRNeVJqRW89IiwibWFjIjoiZjEwZGEzYmIzMmQ4ZmE0ZTgwNTg1NjcxNGY0MzEzM2Y2ZDY1NjkwZGMzYTEyOTk2Y2I3ZmRlOWNkYzJkZjc3ZSJ9&amp;signature=0b20bd016a421b77e6140627f6f85edf7d6011c5653cc1396731dc9439eaa80c</image>
+    <start>09:58PM</start>
+    <finish>10:58PM</finish>
+    <date>09 September 2026</date>
+  </channel>
+  <channel>
+    <name>TVA CA</name>
+    <id>TVA.ca</id>
+    <title>TVA nouvelles</title>
+    <desc>Avec Julie Marcoux, on reste au fait des nouvelles de derni?re heure, des analyses de Paul Larocque, Emmanuelle Latraverse, Richard Latendresse et Mario Dumont, du sport et de la m?t?o au bulletin d'information complet et pr?f?r? des Qu?b?cois.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IldBSGhPc0RzVzBDMHc3akY4ZjBFRmc9PSIsInZhbHVlIjoiWVdxSmxrcFJOUU44QWhzVEFFMXBjRFdRWkdSM2tJYTN6Zjc5UlVMUW5XVm9WaWNsZlU4QkYzNmpcL01Yc1NscFVMM21mbHQyZmIzaWZYNEhFTVdJeFl5SnlGc3RrbTNEK0x4RlprNnI1NERVPSIsIm1hYyI6IjBmMzQ0NGJjOWVlZGNmMThiOTNiMDE5NzRhOTkzNWZiMmYyZjUwM2Q3NGYxNDYyOTRmYWExYzQzNTA3MmUyOTkifQ%3D%3D&amp;signature=d228cb750d45b8855352e1ebf49f96d02c018309609c50c5d4f5897910e41771</image>
+    <start>10:58PM</start>
+    <finish>11:29PM</finish>
+    <date>09 September 2026</date>
+  </channel>
+  <channel>
+    <name>TVA CA</name>
+    <id>TVA.ca</id>
+    <title>Le tricheur</title>
+    <desc>Anouk Meunier, ?ve-Marie Lortie, Julie Houle, S?bastien Beno?t et Jean-Michel Anctil.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IkhEZXByVHJ1b3F2RUdxUTZrMHV1N0E9PSIsInZhbHVlIjoieHFlTitnQVEzNlF6c3JHNkt1OUFlc0ZTMCtqUmlRbUt3M1diaGVQQUJBRnhaWlNXWWJMRFVHZmFWU0JSVnFMK2trRjBCelZSelNuVlVVSFpsSHJIS0VjM0k3TXdvYm1STEM2ZFcyOFwvaEpNPSIsIm1hYyI6IjJiNWM0NDZhYWIwOGMyYzg0ODQ3MzU4YzAxNDYyNDUwM2NkOWY0NjMxYTEwMzFhZGNhZGEzZGY5Yjg3MWFjZjgifQ%3D%3D&amp;signature=d6c5379544a338a8001ff0143abf32e5475a2596fba4328a2e95af03a84536ed</image>
+    <start>11:29PM</start>
+    <finish>11:59PM</finish>
+    <date>09 September 2026</date>
+  </channel>
+  <channel>
+    <name>TVA CA</name>
+    <id>TVA.ca</id>
+    <title>Ind?fendable</title>
+    <desc>L?o cherche une preuve pour aider Thomas Caron et demande l'aide de Claude; apr?s des menaces anonymes, Louka prend les choses en main.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6InJuVWI5TmRYdDJtdVhXY0I3MFJGVUE9PSIsInZhbHVlIjoia3FFWG92MnZZazJhNjFhREo4ZTZTSGFHSkVaUTczdE9TelZ4QVQ1bFE0dFlyb1puZXFVVHp2b1JIUHoyTGhOdDlGc1J5MXZybXJPNytTbmhCSUQ4WlBkcjlSbDd1ZVp4cXI2cDZxM1J4aW1uT0IrVEsxc0lIQWRkSXJiWHFNOEsiLCJtYWMiOiI1OTU4ZmNkYzVmYWE3MDU5YmI5MGFiMjUxOTk2Njk3ODYzNWUzZjBjYmU4YzVkOTExMGE2ZWEwYjFjZWI0YzIyIn0%3D&amp;signature=fe456eecfeaedd0316c1032d742db0689b85ac93bef8b23b6b2ed723994253c2</image>
+    <start>11:59PM</start>
+    <finish>12:30AM</finish>
+    <date>09 September 2026</date>
+  </channel>
+  <channel>
+    <name>TVA CA</name>
+    <id>TVA.ca</id>
+    <title>MasterChef Qu?bec</title>
+    <desc>Une derni?re et ultime chance d'obtenir un tablier blanc est offerte aux futurs candidats; pour se distinguer, ils doivent cuisiner un plat qui sera d?gust? ? l'aveugle par les juges.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6ImozWWZjT3BcL24zNlZMXC9lNFlCNUJBdz09IiwidmFsdWUiOiI3K2NNVE5LKzUxQnpKazZrNng0bUNEQ2IwUHlMNmRwUFVSQ1kxQzcySXRWa0g1WmxGUmJRTDRTSHVzclE5VVwvUm9NbEZkVmx5cXkwVkxJWlwvSVgwR3JyTkNrc1lBTWhKd3lVYWFYdGdcL2FqM0lObyt4TUMrZnA3VE8zRklpXC9xM3ciLCJtYWMiOiIyYTBiNjkzZTBhMDRjYjU1MjFmNjM1NjdjMWM4NmQ1MzY0OTczMWFjODY0MTAzZmIzZjY4MTMxYmFkNjY1NjhhIn0%3D&amp;signature=f910eac1e729c747dffcdb3daafb76d20040ccd1248fcb79f947a83ddb7fdc74</image>
+    <start>12:30AM</start>
+    <finish>01:00AM</finish>
+    <date>10 September 2026</date>
+  </channel>
+  <channel>
+    <name>TVA CA</name>
+    <id>TVA.ca</id>
+    <title>Indomptables</title>
+    <desc>Michel, affaibli, rentre enfin ? la maison; c'est le moment pour Philippe de le confronter; tandis que Jessica, S?bastien et Louis craignent la r?action de leur paternel, Philippe exige des r?ponses sur le d?part de Julie et la mort des travailleurs.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IlcrM3RNaXRoR05obWFOanRmeFFyVWc9PSIsInZhbHVlIjoidWM2Z0FsOUh5M1pQNGg4K3lpdEU2bWNuZk0zV1dHV3NaVGhQV3JqcFRidEZXQmNKSHlQUGZHUkVxN3FxbXZ5XC9cL2VrN0taQzNjUmxRTU9yQW90Qm9vV014QnNyS3VkVHZHemwxRGxycXRvcz0iLCJtYWMiOiIwZDk2ZGM3OGNhMmVjNDBjZjQ5N2E0YTMzNzRjM2YzZGNjZDVkZTdlZDU4MGEwOWUxMTJmMTgwNzljM2VmYzQ5In0%3D&amp;signature=5c7b661cbc66346dfce328204753a0d33e6e4fec5761dbc5c490d663f32ca72e</image>
+    <start>01:00AM</start>
+    <finish>02:00AM</finish>
+    <date>10 September 2026</date>
+  </channel>
+  <channel>
+    <name>TVA CA</name>
+    <id>TVA.ca</id>
+    <title>Dre Amy</title>
+    <desc>La brillante Dre Amy Larsen a ?t? victime d'une grave commotion c?r?brale; d?termin?e ? reprendre l'exercice de la m?decine, elle d?cide de se frayer un nouveau chemin, pr?te ? affronter tous les obstacles qui se dresseront sur sa route.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6InI3WFJneDZCdW1cL1JMdFpvakEzQmNRPT0iLCJ2YWx1ZSI6Im0za1pRakdkdUJFS2lyM1BzV3VzNW1CcnVtb0RaZVwvQUV1cVpvU0xMdnhnTTg2K2pIdzBsbTFjMTJueWM4MzVodVBZUUllYXh5VUMxVjRqUU1jUkgzdGk5SlpHTkRWOGRBakNxMmpwWTFkUT0iLCJtYWMiOiI4OWMzN2Q5OGYzNzIyNDQ3ZGQ5MzI1OGYzNmM4NjBjMTI3ZmMzNjhiMjNlOTVlZGMyOGJlYjJkZjhjMzllNDc2In0%3D&amp;signature=1c97f05b7b736455fc6a1674caa47e411ce39f66c41ce4d0ad650cd79b095f52</image>
+    <start>02:00AM</start>
+    <finish>03:00AM</finish>
+    <date>10 September 2026</date>
+  </channel>
+  <channel>
+    <name>TVA CA</name>
+    <id>TVA.ca</id>
+    <title>TVA nouvelles</title>
+    <desc>Pierre-Olivier Zappa vous pr?sente l'actualit? de derni?re heure, les nouvelles r?gionales, internationales et ?conomiques en temps r?el, et plus encore.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IkZyd2ZvKzBuY01yeVh4UnJmTEo2R1E9PSIsInZhbHVlIjoiWmppRWNlNFB6blArWCt2UmxjZERTRVFiYllJQXh5TldWU3NpOW84OUhYdExteXY0ZnZ3SGd3bkxQMCt5N1ZGTXpFYTc4emlPQzRQVzRrTkxNajVWMEg0cUZzQ3pYRDEyckhiQUYzVTZMYm89IiwibWFjIjoiN2U3YTFlODJhNmUzNTA4MzJmNWE1ZjAwZmM4ZjA0ODg2YjM4YTdkNzc3ZjUxYWE1OTY2NDZkOTllMTdhMzUxMiJ9&amp;signature=78f81456a1727b41c6bee9a1a02edc30fb7666c28aa8eaa37b0d5366cafea147</image>
+    <start>03:00AM</start>
+    <finish>03:35AM</finish>
+    <date>10 September 2026</date>
+  </channel>
+  <channel>
+    <name>TVA CA</name>
+    <id>TVA.ca</id>
+    <title>? vos affaires</title>
+    <desc>Pierre-Olivier Zappa d?cortique l'actualit? ?conomique et ses impacts dans le quotidien des Qu?b?cois.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6Ijd2anlQMHM3TUdpRHNNcjd3eVpjVHc9PSIsInZhbHVlIjoiU2lkSlZSajZXNUl4TitBekptYWhTZUwza0lTRk1jUWpvVjA2cVwvODREdkJCc3RORjNyM21PZ1E4bXE1M1Jja2ZVNlNQVFZhdFE0NFwvb2dLSkRKMFYrQXlZSmdMYmc3d0VRN1dCSklJbW5KWFEyU2NkcHRcL25vQURjbCs4bHRONVgiLCJtYWMiOiI0OWVjNmM3ODc4YmYxOWIzOGM2NzMzMDRiYWM5ZmZmZWRlYWM4NjdlNzE3Y2IzZTU3ZjI3ZWY0MDAzMGY5OWE1In0%3D&amp;signature=a5a5df7b82df3d01c8b2c3650760ee58082079f342abdff40f1cc536b741e5d4</image>
+    <start>03:35AM</start>
+    <finish>04:05AM</finish>
+    <date>10 September 2026</date>
+  </channel>
+  <channel>
+    <name>TVA CA</name>
+    <id>TVA.ca</id>
+    <title>Les sacrifi?s 2</title>
+    <desc>Des mercenaires doivent r?cup?rer une grande quantit? de plutonium cach?e dans une grotte des Balkans.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IjFudVk4aGNBdGxHVXB3WkdGV2owQnc9PSIsInZhbHVlIjoiOHlNdFgzZGdsdnl6M3FtYnZ2K3dubStQdDk0TU15cm13KzVGTWs1bUhmdUxKblJNcXJoT2JZbVYrbGtCUkI0RkUrQjVlQnNyTEJ2NVBETGtNWjlqbVZNZW9JNGtkZGFJaUtxS1ZRRmxWUHM9IiwibWFjIjoiMzBhOWYxNjA4NTM3YWEyMWI3MDA0ZDk0ZGEyOTE4MTI2YzBkNDc2NTFhZjVmOTJlZmVmZGJkMGY5YmU0NjFkZCJ9&amp;signature=0c95647ff6de7b638780be9b6ac18c92855619afda7cc47a0a83e467728d78a0</image>
+    <start>04:05AM</start>
+    <finish>06:06AM</finish>
+    <date>10 September 2026</date>
+  </channel>
+  <channel>
+    <name>TVA CA</name>
+    <id>TVA.ca</id>
+    <title>Ligne d'horizon</title>
+    <desc>Apr?s avoir manqu? leur bateau, Sara et Jackson se retrouvent seuls passagers d'un avion survolant l'oc?an Indien. Quand le pilote, Freddie, d?c?de subitement d'une crise cardiaque, ils vont devoir tout faire pour rester en vie.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6Ikpxd1JadEpCMk45dGZCSUdRQzBIZWc9PSIsInZhbHVlIjoiOFVCbHE5eVdWVmtoR1lteEVBR2VBN0paTUJ2UnRJRFpnb0lSSWhIbVhiS0VkbFVXVmNCV1F3MzNKaFpRalRpVURmb1ZOV29xaDdGc1NtSW8wYjdqSVluT1NMN2djaFBoQXRSTWtjOGRkMlk9IiwibWFjIjoiNTJiNWU3NzlhZDYxNWU5YTU3YTVkZTdiZjE0MDc2NWZkMDRlODU0YmI1NGFhMWY0MTUxZGY1YTliOWJhYmNmMiJ9&amp;signature=b01331720bd4384ad06a796ac9e8c927f3108a0976cfa72ac24b53fe2d5811a8</image>
+    <start>06:06AM</start>
+    <finish>07:42AM</finish>
+    <date>10 September 2026</date>
+  </channel>
+  <channel>
+    <name>TVA CA</name>
+    <id>TVA.ca</id>
+    <title>Les armes</title>
+    <desc>De retour ? la maison apr?s sa Hell Week, Ivan a une am?re confrontation avec ses parents; alors que la partie de cache-cache s'intensifie avec les Russes, H?lo?se Drouin convoque Savard pour lui confier une mission de la plus haute importance.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6ImgwMHgwSlN2TWpZb3ZNNWc4T09oVWc9PSIsInZhbHVlIjoicXRDZEQzTG42XC8wem9hemhcL1MrQUN6elYxalRXcU4rTUlzYjNoREUyZDBwZHBkVXpyU0lITjBRTnEyaFdxdnN3V3k4UjRCNzE4QXhEcDV4aDYyZnQ4Zklnbmx6cWNINlQyKzdWUWNxbjdEMUlMNjlyTGhraXpsd2NLV01OYzBoTCIsIm1hYyI6IjA0ODdmODNjNWVhYzhlMjdmNGNhMzU4YWRiODY4ZTE5NDZkZDI0NDZlZjNmMTgxMTIxN2E3ZjBkZjY3ZGVjMmEifQ%3D%3D&amp;signature=a9084dd5cb7da6322082da207a74ecd6bd654402ec1786eedfce884966dd5de7</image>
+    <start>07:42AM</start>
+    <finish>08:42AM</finish>
+    <date>10 September 2026</date>
+  </channel>
+  <channel>
+    <name>TVA CA</name>
+    <id>TVA.ca</id>
+    <title>Infopublicit?</title>
+    <desc>Ceci est une ?mission publicitaire pay?e.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IjlNdlZDbUcydzQ3U01yOWxSenVEcUE9PSIsInZhbHVlIjoiQ1lBYkJJZ3hveFhZd0lPOVpIU1FicXFEU0NxQ0pjQVMrWHdhWkplemMzVjlnamJVakhyUHFRTWtjd0NNaFBOZ2c1eHNZNHd6UHVhdmkyVXNaTjZxbEFQdWJHdzdMTGZFbzgxeFAwSUlWSmc9IiwibWFjIjoiNmE0MGQwNzUwNmJkYWFjM2NmMjYzNzMwZmQxZTJmNmIyNzE3NDEwNjExYjJmMGE3YWNhMDdlMjYwNTU5MjBlMyJ9&amp;signature=756ce93ecc4fb85224a043e963d4bcbe1b3e23351d406b451799ac35df0ecf35</image>
+    <start>08:42AM</start>
+    <finish>09:12AM</finish>
+    <date>10 September 2026</date>
+  </channel>
+  <channel>
+    <name>TVA CA</name>
+    <id>TVA.ca</id>
+    <title>TVA nouvelles</title>
+    <desc>Information r?gionale, nationale et internationale.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6InhHSWRGYWo2bm1BTjExaytqM3ptbGc9PSIsInZhbHVlIjoiSjlvTU9NdnliclV4M045K2EwQk1oWGZKSVBIN2FrUkpQbHBRQ1UwQm5tMk1rbTY3TG44aDN2VEZWdGNMbHZhc2tZY1pGc0lDd2pDYXRVSytXWk9QK0ptQVQ5K1wvaWtzQmRDUjdDb3RPTmFNPSIsIm1hYyI6IjFjZDhjYWIxOWI0ODRiNDQ4NmVkOWU2OTAzMDI5YTg3M2QzZTRiZDYzNTU2ODJkMzFmODUyOTNiNGMxZTcxZDAifQ%3D%3D&amp;signature=b25b9c410df145314ceb0f2926a3a4ae9a11455898db7986428e83c0029487f2</image>
+    <start>09:12AM</start>
+    <finish>10:00AM</finish>
+    <date>10 September 2026</date>
+  </channel>
+  <channel>
+    <name>TVA CA</name>
+    <id>TVA.ca</id>
+    <title>La victoire de l'amour</title>
+    <desc>Pr?sent?e par l'organisme catholique La Victoire de l'amour, cette ?mission religieuse du m?me nom est constitu?e de t?moignages de personnes qui sont parvenues, gr?ce ? leur foi, ? surmonter de lourdes ?preuves. Les invit?s font preuve de courage et sont une source d'inspiration.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6Im9mc0p1SGRaYXpMT3VUbkxNdGRWZ1E9PSIsInZhbHVlIjoiNzhhMEFSVERsUHNNQ1UzRnpqUmh3Tno2Z2FqWmtxd2VxTXBpUmk1clNVVDdRcTZlN0ZkWXcweWFCTWNyWW9leDU4RjdpcFNLKzJQNFJmZzZMMUZla3lMeFwvd3pUYTVNM05pampcL3hTXC9LalJrYzVzamRDNEZYRDZ0QVVOTFJcL3FQIiwibWFjIjoiY2I5MGUxYjZiMzNhNzI4NzM5YmEyODQzNDVhZTBmOTNhNWY2MzJkY2M2ODQ4OWJlZmUxMzc2YzVhNWFhMTk4YSJ9&amp;signature=29b66718e1906fa1690f5d435a23944927e37cb1c5fa53af2bbe53d8258744cc</image>
+    <start>10:00AM</start>
+    <finish>10:14AM</finish>
+    <date>10 September 2026</date>
+  </channel>
+  <channel>
+    <name>TVA CA</name>
+    <id>TVA.ca</id>
+    <title>La victoire de l'amour</title>
+    <desc>Pr?sent?e par l'organisme catholique La Victoire de l'amour, cette ?mission religieuse du m?me nom est constitu?e de t?moignages de personnes qui sont parvenues, gr?ce ? leur foi, ? surmonter de lourdes ?preuves. Les invit?s font preuve de courage et sont une source d'inspiration.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6InNhWUF6VXN6XC9jYUJFZUxrRXdKeFV3PT0iLCJ2YWx1ZSI6Iis4Y3VyS2NWZFJxNzArZDlsclRZSlJUYU1oVWpuRkYzeHp6T0grODFiWWNVTnY5TXRMWnQxN1p5VUI3Y1RGd2Qzd0podVRpZFwvUnBrZTlXUHBMNFNcL0IwOUFHeDRaczlhM3pYdFlwOCtDXC9Qb01id3I0MWhvOExGbjNrUWFKWGJ0IiwibWFjIjoiYzNhZGQwMDgzZGM2Y2Y5ZDE5ZTEwZDIzYTNiMmE3NDY2NmEzYjM2ZWZkZDcyYjBjY2QyOWFjMDYwYTRmZjJhNSJ9&amp;signature=e728b363892a11dcacc04a638e37720c07cefa18ae7c28bc25b45a839b1f39f9</image>
+    <start>10:14AM</start>
+    <finish>10:30AM</finish>
+    <date>10 September 2026</date>
+  </channel>
+  <channel>
+    <name>TVA CA</name>
+    <id>TVA.ca</id>
+    <title>Infopublicit?</title>
+    <desc>Ceci est une ?mission publicitaire pay?e.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6InhPbTdic1N5NnBIY3htSkNlN3FkQlE9PSIsInZhbHVlIjoieU9rWmtZRDJWbDl2eWVFZXdnTnRYSVJ1SDJicGs4MmRURUdMNURReG9lUzJLNitBcEpEOStvUzkxamVSbHN3VTdYNVE2R1Vhd1RFOU4zdlZ1NGhvN0ZObm5pNVdUREIwaWhyXC9VbGVobGJjPSIsIm1hYyI6ImExMzFkMDNhMDQ2ZDhkMjFjMTY1ZTM5NWJmN2ZhMDA0YjhkNmVkZDllYzc4MzVlMDYxYzZiM2Y3ODYzNDA5ZTMifQ%3D%3D&amp;signature=7ef8ec207a33e35da897706c301e0c5b1b63a533b87196845eec9fd081461d18</image>
+    <start>10:30AM</start>
+    <finish>11:00AM</finish>
+    <date>10 September 2026</date>
+  </channel>
+  <channel>
+    <name>TVA CA</name>
+    <id>TVA.ca</id>
+    <title>Le Qu?bec matin</title>
+    <desc>On reste ? l'aff?t de toute l'actualit? sur des sujets tels que la politique, l'?conomie, la sant?, la m?t?o et la consommation gr?ce ? des reporters en direct sur le terrain ? Montr?al, Qu?bec, Sherbrooke, Trois-Rivi?res, Saguenay et Rimouski.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6Imd0a2R3dEYyVUxkXC9vZFZLeWo3djJRPT0iLCJ2YWx1ZSI6IktkTXp1ZDRUSU1RSnBBc2xRU2p2a0hPb3k4NTVVUURYUXMwNDlZN0I3Z21kTWtTSlwvTFBrUVdzRUhsb1JYcWNzWjNBcnh6XC9GR1VBSnpIbVg2NTlOODdqekVrM3pCdDhGXC9WOENxMFViZXBUaG5NTUZ4Wm1UUGJ5UU5LWElFXC9rKyIsIm1hYyI6IjZjZjJkNDE2MDM1YjgzNzc5OTBiZjVjYmYzYzAxNWM0ZDE1YTY2ODc5ODNjNjc4ZmQyNmRlNzljMDk3MDViOTEifQ%3D%3D&amp;signature=3c80cb8eea4ffe6487e687a94a85999fcafd3a8005c5ac5f4f8d0e0e5d375b38</image>
+    <start>11:00AM</start>
+    <finish>11:30AM</finish>
+    <date>10 September 2026</date>
+  </channel>
+  <channel>
+    <name>TVA CA</name>
+    <id>TVA.ca</id>
+    <title>Salut bonjour</title>
+    <desc>Actualit?, revue de presse, m?t?o, circulation, actualit?s culturelles et sportives sont abord?es avec dynamisme et enthousiasme chaque matin. Diff?rents collaborateurs viennent partager leurs passions : cuisine, sant?, famille, mode, etc.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6InR2Y1JvTjROTjJ0bXFhUlE1TFB5Unc9PSIsInZhbHVlIjoidVZvUzQ2ZWprR0JoNUVcL0FRQlwvNmlwN3I1ZTBEeXdtMElYbTROVXc3OGVzMklCRkxnaGdMUE03QUtDQjhWVVlPaEJuckhyXC9wV2xXXC9rRTBhYno5b3RkM092eTBLXC9zMURvZTc5MTJBVVRnWT0iLCJtYWMiOiJiNjljZjNmMDdmZTQ3MTg1MmQyOTFkNTRkNWZjNjNhZGYwMzA0ODAwZjY5YWM2MDBjNGE1M2NkZWVkNmVjNzdlIn0%3D&amp;signature=160a155962dfc8638b644b9bf146833e2c63d92196ec653a711e23ef53a51d96</image>
+    <start>11:30AM</start>
+    <finish>03:29PM</finish>
+    <date>10 September 2026</date>
+  </channel>
+  <channel>
+    <name>TVA CA</name>
+    <id>TVA.ca</id>
+    <title>Le tricheur</title>
+    <desc>Jean-S?bastien Girard, Marie-Soleil Michon, Antoine V?zina, Marie-?ve Morency et St?phane Bellavance.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IitFbUVyanJ5NitWNjVYRnBaU2Nkd3c9PSIsInZhbHVlIjoibnFaNDd1cjJJMXk0Q3B5b0x4ekdNcVFZbHJUUTltVFZHcjk1Ryt5QTdHMlN6OWRUWVVOUXJzaGQ1V0RVazQ1V1VXb1VNRGVuYTNFbUFXdWw1OUdYSTBqeFQ2azhxdTRpcDQrSXFHeVRNTmc9IiwibWFjIjoiOTE0MDRkYTQxOWZlNTY0NWJhMDlmOTc5YzBmYWFiMDZlYzhmOGJjYjdlM2YwNzlmMGUzMjFjNDMzYTEwNzlkZSJ9&amp;signature=47eaf16dc4fca33feb8f9ba45742a736bdd891452c152b267723a18dffda99a2</image>
+    <start>03:29PM</start>
+    <finish>03:59PM</finish>
+    <date>10 September 2026</date>
+  </channel>
+  <channel>
+    <name>TVA CA</name>
+    <id>TVA.ca</id>
+    <title>Mario Dumont</title>
+    <desc>Mario Dumont vulgarise l'actualit? et la commente ; ?mission ax?e sur la politique qu?b?coise, canadienne et am?ricaine, ainsi que l'?conomie.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IlVhanBhUEtQSDVTWjBxT3BRdXRDWkE9PSIsInZhbHVlIjoidDBZK0xFT0UzS0xzQnFoUWVId2ZlcnJLaWdvUWpLUmFyNUY4M21DdTN0K3lIaXMrdDZFZ1wvV1kwVjdxN1V4ckgxSE5peGdaUTh1ZXJXd1FDSFwvQnJweWFzbU12eWxacHk1U1J1WEJmUDNvOD0iLCJtYWMiOiJlMjQ4Mzg5ZGYzZWRhZmQ0ZjRjMjcxYjhkMDIyMTE5MDk5YmUzODQwNzAwODFhZmJmMTNiODdjZTY1NGY1OTdiIn0%3D&amp;signature=edcedbdffc970135c4e4c17da536df29f82da34bbc650766b4a19bd9dd20d64b</image>
+    <start>03:59PM</start>
+    <finish>04:57PM</finish>
+    <date>10 September 2026</date>
+  </channel>
+  <channel>
+    <name>TVA CA</name>
+    <id>TVA.ca</id>
+    <title>TVA nouvelles</title>
+    <desc>Avec Philippe-Vincent Foisy, on reste au fait des nouvelles de derni?re heure, des analyses, et la m?t?o au bulletin d'information complet et pr?f?r? des Qu?b?cois.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6Ims5THo4OTZrNzZ1cWdndXpqMHBLb0E9PSIsInZhbHVlIjoiaVdMMkF4RkR2bWMwTEZaZWxIbE01TElrUEhvZDBpejhwdGtKcDAySzdNMUU0ZkFwNlF5YmpNSHA0VXk3N3Rza2x0S0hVYjA3Q25QZnpxV0l2dkFSM0I1QldobFFVcVBmd2QxK1VZS0szZE09IiwibWFjIjoiYmM3NDk3NmU1NjE0OGUzZTQzMjE2N2Q0N2YzNjEyMmVlMjQzNTZjY2JhOTYyZDlhYjA2ZDFlN2E1ZWU0Njg1ZSJ9&amp;signature=bb6fb4156353af24b473e1bf7aecb96470ce7d17d26a1a99bbcd76fa94c19a39</image>
+    <start>04:57PM</start>
+    <finish>05:31PM</finish>
+    <date>10 September 2026</date>
+  </channel>
+  <channel>
+    <name>TVA CA</name>
+    <id>TVA.ca</id>
+    <title>Le bilan du midi</title>
+    <desc>C'est le moment de la journ?e pour analyser ? chaud l'actualit? politique provinciale, f?d?rale et internationale avec des experts passionn?s.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IkRJWUxIdkNZTUdXc1hXQmpvMWpPckE9PSIsInZhbHVlIjoiZUxObkwwbDhhcExza0hpdXB5MlVMNitFd09UMjZDeUd6enNGaG9zWDhHXC9BUURZY25Yb0Y0NldjdVVKbXdGUFBGU1JRYWZ0ZXNOREdxWXdWTkpZYzdWazJHd2tHZG9QazU3SUI5ZDlXSGgwPSIsIm1hYyI6IjEyYmJlMzUwNzliNGQ0ZGQzNTdhZTA4ODRkYWE4MjIyNjYwNThjYzc1MzY2MTRmNGYyZjc4MmNkOTEzZDUxMWQifQ%3D%3D&amp;signature=469e9c45d449bfcf04b9e38b3a18e51e0934611a545be2b6b5892412bad10989</image>
+    <start>05:31PM</start>
+    <finish>06:00PM</finish>
+    <date>10 September 2026</date>
+  </channel>
+  <channel>
+    <name>TVA CA</name>
+    <id>TVA.ca</id>
+    <title>M. Deeds</title>
+    <desc>Deeds, un jeune homme na?f, fait l'admiration de la population de Mandrake Falls en r?citant ses po?mes pour le moins ?tranges. Il h?rite un jour de son oncle, dont il ignorait l'existence, d'un empire industriel de 40 milliards de dollars. Il se retrouve alors ? New York au coeur d'un univers dont il ignore les r?gles.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IldSVVdjYTNaTGpCQVB6M0Z5UGJRZWc9PSIsInZhbHVlIjoiUldSTlwvVmVMR21pVjMwUm5yYkpDY2o5aWMyY1lxZ2dkSXF0R3MweUhJdGVUcEZ4WDhaNGVybVE0ajdjMVBtZzE4QnYxWmJMQzQ2bDcxOFRzY1RhY0FvQXVtZ1dJeXFRUEsyZ0E1MlhLS3VrPSIsIm1hYyI6ImEyNWU4ODZlN2ZiMjY5YmYxZTNmMjFmZDFlMTExOTA1YzI5NGFhNWQ5NGUyOWE0MjI0ZTZmYjE2OTNiZjMxZDcifQ%3D%3D&amp;signature=dcf53839a495096c6a3c0b8b871f2a8af330f6dd8f34122bc3c4072e7563e0c5</image>
+    <start>06:00PM</start>
+    <finish>07:45PM</finish>
+    <date>10 September 2026</date>
+  </channel>
+  <channel>
+    <name>TVA CA</name>
+    <id>TVA.ca</id>
+    <title>Infopublicit?</title>
+    <desc>Ceci est une ?mission publicitaire pay?e.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6ImZOYTFnVEZOc3BmYTJzYm5kSys3UXc9PSIsInZhbHVlIjoicGsybk1sS2JSU3I1MzVRbkhLTWErc3NHbjBaOXR4clRJZ3JHdzZRNjdnaDZlcGwzaXVQNDlERnlvVHl1QUhlSkM3NUlRSzE2NUhXMHNDbnJ6dlpTTTR1Z2NDVUhUZHF5QWdTcjFyaExJY289IiwibWFjIjoiZGU2ODZiNmE5M2U3MzBjOTQ4OWZjOWM0MjExMWQ3MDliY2I4YWVlNDBmOGMzMzhiY2IwMGU4NjQ2YjkzNmUxNyJ9&amp;signature=ca72b7232974f141f75bb9bad1fb05ed0f9120c799120af4adc8ef328afe69fc</image>
+    <start>07:45PM</start>
+    <finish>08:00PM</finish>
+    <date>10 September 2026</date>
+  </channel>
+  <channel>
+    <name>TVA CA</name>
+    <id>TVA.ca</id>
+    <title>Infopublicit?</title>
+    <desc>Ceci est une ?mission publicitaire pay?e.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IkVZbUR4bUEyMmNkMjJydFNubnRQUFE9PSIsInZhbHVlIjoibFM3UlZEMk9SVVhTSkY2UHFodTRKRGl3aTZiZlF1UVVGUzRXNWZiWm5qaFYrMUJ1WXdwT2dVc010QnVsWm1FOGJ0NGo1RW1UU1Z5QmhTWU9SSXVOT0x5WG9vdlwvOEJRV3VrTVJETTJkSDJnPSIsIm1hYyI6IjMwZGRkMmVmNmYzY2ViMjY2ZTI2Y2VjMzAxMTliYWNkMzc5MmZhNWIyYWViNjg4MzY1OThkYmNkM2NhOTM1ZmIifQ%3D%3D&amp;signature=c44428a6f1d9b2addae24987dbd48f611d073335c1d43aa70693cfc35dd1e998</image>
+    <start>08:00PM</start>
+    <finish>08:16PM</finish>
+    <date>10 September 2026</date>
+  </channel>
+  <channel>
+    <name>TVA CA</name>
+    <id>TVA.ca</id>
+    <title>Histoire de succ?s</title>
+    <desc>Des entrevues et des ?changes sur la r?ussite de gens d'affaires du Qu?bec sous toutes ses formes.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IlV3QWV4VzNCMmRSUFJcL1VTRFMzYjlRPT0iLCJ2YWx1ZSI6InN6cmg5UXlzMXI1cVJkZzVUSjR2VHhoSXJQNFpzbVwvSTc1Z3R0anNWQ1lCbzkyT0o3MjZJeTNvMklTZjhWRitybkhuRTZtR3IwSmpFNTllYit3c3ptNG16bkVWalp1UEY2OGNUdEhtdkxWTmtwbVlPRkpJY3dKXC9MNU1oelVZTjYiLCJtYWMiOiI3YWEwODRkNmI3MzBkYzU3NzRjZWMyMTZkYWE1MjJjNzNiZmY4NzJiNjZmM2JkYTAxODA4ODY1ZDVkYWRjMTBhIn0%3D&amp;signature=6d0559a06018b05a9c6f055ff85dd1a4dd4297da4cfb25b8e95de16881fc3c22</image>
+    <start>08:16PM</start>
+    <finish>08:30PM</finish>
+    <date>10 September 2026</date>
+  </channel>
+  <channel>
+    <name>TVA CA</name>
+    <id>TVA.ca</id>
+    <title>Les feux de l'amour</title>
+    <desc>Amiti?s et tractations de diff?rentes familles et de leurs associ?s dans la ville de Genoa au Wisconsin.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6ImU5cE1ua0dQQ2wrRXVJM2RsMDd6REE9PSIsInZhbHVlIjoiWjk2ZmxaY2FKSDJtYlVURFlCZHNUb2NONjJDcGpWYnd3bGVFK0dzOFNVR0c4Z0JuNG5uQ1Rod2lydXNLdE8yQjdQNmxqXC9WMU5EUHVxQlp2REZqRHhmYkRURll3TVpLNnRZSjNmaG9LR1dFPSIsIm1hYyI6IjM0ODhjNTIxYmM5NjcyMzA2ZmUxMDUyZDY0NmFkMTMxNzNiNDdiMjI2YjE5OWUzMzEwMmUwMzU3OGFlY2U1ZDYifQ%3D%3D&amp;signature=ebe89162af6d72efce75eeabf0971cceb0830a793f2b8847bce0c21686995c46</image>
+    <start>08:30PM</start>
+    <finish>09:28PM</finish>
+    <date>10 September 2026</date>
+  </channel>
+  <channel>
+    <name>TVA CA</name>
+    <id>TVA.ca</id>
+    <title>Top mod?les</title>
+    <desc>Deux familles de Los Angeles rivalisent dans le milieu de la mode.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IlROTjAwMU52RnBvaGFFT1UyMStwUmc9PSIsInZhbHVlIjoiYStiVkw1czk5aThNYUZkN2dOVm12UERDSWhJN3ZpSG4yXC90N0ZuMWJpb3l5XC9aYURINmQ2Y1cxWURjM080VjFFckRmSzBXS2I3Y2hJYzZNbndYU3FNWVJGZkI5VjRZc0lsNVwvXC9IU3NkcWVRPSIsIm1hYyI6ImQzYjc5NzhkNjcyOGJjMTMxNDhmNzJkZTkzMTk5ZjFhMmIyZTc3ZmQ1Y2M4NWJlOGYxZGQ4ZWE4ZWI1YzliODMifQ%3D%3D&amp;signature=51d7eb78174193c44a795089d35860b6743a6d1a240fefecb6dc36da1ef669b7</image>
+    <start>09:28PM</start>
+    <finish>09:58PM</finish>
+    <date>10 September 2026</date>
+  </channel>
+  <channel>
+    <name>TVA CA</name>
+    <id>TVA.ca</id>
+    <title>TVA nouvelles</title>
+    <desc>Avec Julie Marcoux, on reste au fait des nouvelles de derni?re heure, des analyses de Paul Larocque, Emmanuelle Latraverse, Richard Latendresse et Mario Dumont, du sport et de la m?t?o au bulletin d'information complet et pr?f?r? des Qu?b?cois.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6Ikh2Y0cyNEZOYmx6TmRHN1FGXC91SWdBPT0iLCJ2YWx1ZSI6ImFXUVpYM3VkeUhSU1N0WFdXYnllKzlibVpRU0lzS0psbkdxMjkydVJkYTlpenc3dzlFOHZ5ckdBMU45T3V5NDJXYmM1NHFRelgzSFYyM0dsUDl1dVdYbGZRamUwODN2RGJxeXhGRXlOaHhzPSIsIm1hYyI6IjVmMTU4N2IyZDRmMjc1NGQ5NjI1MjY1YWRjYzk3MGQ5NGY0MzBjY2UxYzVkNjgzNWRhMGFiNWRiZjhhMGMyYmYifQ%3D%3D&amp;signature=93879978654ebe50846a956d91483ff805f2813ad299ba58805687d314afe1ea</image>
+    <start>09:58PM</start>
+    <finish>10:58PM</finish>
+    <date>10 September 2026</date>
+  </channel>
+  <channel>
+    <name>TVA CA</name>
+    <id>TVA.ca</id>
+    <title>TVA nouvelles</title>
+    <desc>Avec Julie Marcoux, on reste au fait des nouvelles de derni?re heure, des analyses de Paul Larocque, Emmanuelle Latraverse, Richard Latendresse et Mario Dumont, du sport et de la m?t?o au bulletin d'information complet et pr?f?r? des Qu?b?cois.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6Ikk5T1JwbWdXeUJcLzZ6Sm5WNlZ6K3pnPT0iLCJ2YWx1ZSI6IkZxWDJqcFNIVFwvYXZ5RkNhdDJhNHZPK0c5QWdYYW9kMVYzNGgwWGVlOVhuOWxrbHlJblRBT0tZVWJjM3ZXVjlGYW9wMnJzcmlPWFZiM3Zsam9WMWY2bVE4TnV0WVhBSEhxbnlIQ2txcWFDOD0iLCJtYWMiOiJmNWVjYWRhODZhMmYzYzg4OTFkNGI2YmZjM2EwM2RlMGQ5NmFjZGQ0MGU5YWQ3NDVlZjJiOGYyMjI4YzQ0NmQ4In0%3D&amp;signature=164a4997d9121a1ae5195a94985bb6be1b439aaac9cf52c37bdc66d6c045b149</image>
+    <start>10:58PM</start>
+    <finish>11:29PM</finish>
+    <date>10 September 2026</date>
+  </channel>
+  <channel>
+    <name>TVA CA</name>
+    <id>TVA.ca</id>
+    <title>Le tricheur</title>
+    <desc>Anouk Meunier, ?ve-Marie Lortie, Julie Houle, S?bastien Beno?t et Jean-Michel Anctil.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6Im16UkZsYWFHeko5ZGJacGMxU3NTdXc9PSIsInZhbHVlIjoibVNsWmdNZGE2eFwvQ2Uxc25wRDBWcHJhWnhrWkZaSFV0Z0VLQWNGXC94WWhybDhMa3BoaFR6Z0FpNE1PK2U3V0UwaGVCd1wvQmJLcUVQY0VKbHZ1RVRCdFwvTDdpR0ZRMzlUU3d5N2oxZGRGVWhVPSIsIm1hYyI6ImJjNGRlYzhjYWFmNWIyMjI2MzI1OGY1YmQ1YzIzYTgzYmQ5Y2M4ZTQzZTFkODJlZTc2ZTllYzk0MjBlYzRkMzcifQ%3D%3D&amp;signature=1c6289580d90a61c1794da937083e9c8795d7fd01aed7abdfde66140f0d2ba09</image>
+    <start>11:29PM</start>
+    <finish>11:59PM</finish>
+    <date>10 September 2026</date>
+  </channel>
+  <channel>
+    <name>TVA CA</name>
+    <id>TVA.ca</id>
+    <title>Ind?fendable</title>
+    <desc>Kim travaille sur la cause de Katherine C?t? pendant que L?o et M?lo d?fendent Thomas; Claude les aide sur le terrain. Lapointe tente d'aider Kim et M?lo face ? l'outrage au tribunal.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IlYwTnFzanhIeDI1WFltaDhpZmw4NEE9PSIsInZhbHVlIjoiWVNZOFhodmNJQ2h0MWdMeWZNVjhVUUZiWXlIWW5uMDZyVE5xWk1HQmJCNERMQm5XVG5HWWxwWkVET0tjQm5wZzkyZWlTZmUrbndnckNOVU9hNmtSc3BqcEF1Wmt0SVp1VjJcL1ZcL2dwczlWaEZyNmNEWDFIK3N4SEFsUm1Vb09FTCIsIm1hYyI6IjhiOWE0OTVmYTY3YjMxMTQ4MDdjODM5ODcyZTY0MWY2MzRmMmQzNDM2YjI1NGZmNTM2ZDE2MjM3NGYxYjZhMWEifQ%3D%3D&amp;signature=312bef8423288638d8d4462bfabcca24fd272773dc63deeb64fa2f8250aa73d7</image>
+    <start>11:59PM</start>
+    <finish>12:30AM</finish>
+    <date>10 September 2026</date>
+  </channel>
+  <channel>
+    <name>TVA CA</name>
+    <id>TVA.ca</id>
+    <title>Bloopers TVA</title>
+    <desc>Nombreux extraits cocasses dans lesquels les artisans des ?missions de TVA ont tr?buch?, eu un fou rire, bafouill?.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6ImZwSnJIQkNIM0JwcDdGMnhIaEpcL05RPT0iLCJ2YWx1ZSI6ImZWSVJcL2ZlMlI0NDA4Nk9kQm9JYzRcLzJVM1cwYUtsWlVhTjUyN1ByYmhPYzQ5K3VhbjlJajA2dTVyaHp2ZG9vYTNVQk1nUGdZaFh2dDRsa2FKXC9qZ2tMeVwvY0QreWpcL2hGdmJcL1Q4dnRRNTBnPSIsIm1hYyI6ImM0ODMzYjJjMmM2Y2M2M2JjMTAzNDg0ZWRkZDg5MzdmNzkyNmJmMjFkMjU1YzY4NmU0MTc3ODQ0Y2FjNDQxYTUifQ%3D%3D&amp;signature=0b5769eed978a976f65c4cd27eea25037ddc2dc94f79bcef7dd7e174bca1d1a6</image>
+    <start>12:30AM</start>
+    <finish>01:00AM</finish>
+    <date>11 September 2026</date>
+  </channel>
+  <channel>
+    <name>TVA CA</name>
+    <id>TVA.ca</id>
+    <title>M?decin malgr? tout</title>
+    <desc>Martin Best est un brillant chirurgien aux mani?res brusques; il abandonne sa prestigieuse carri?re ? Boston pour devenir m?decin g?n?raliste dans un petit village de p?cheurs du Maine; il est rapidement agac? par les excentricit?s des habitants.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IlBvcEEwaVlhRkdhemRGZXRIem1VNmc9PSIsInZhbHVlIjoibVFEVDgzUnZ6QVZQcUxLZHhwQnhtRTJ4YUROU0tsT1dhOGFkVFRLYnJlSWZvbmZWbWlCV093REUyelE2Z1dLeGU1WWdQUGkwWnBuZGdUd3NNYU9YcTEzQ1RvNG9QXC9PNmh4cWtKaStETENFPSIsIm1hYyI6ImQzNGY1MTc5YzM2NjQ5OTJjYzE4YWU3NGIyYWIyMWMyNzNkZDBhYTFlZmEwNjM5ZDQ4NDE0YjUwNmM1MGM4OGQifQ%3D%3D&amp;signature=947d97af3252a9dd39707fde6f62444f2aa6e6b03e919628a8846022f4603b02</image>
+    <start>01:00AM</start>
+    <finish>02:00AM</finish>
+    <date>11 September 2026</date>
+  </channel>
+  <channel>
+    <name>TVA CA</name>
+    <id>TVA.ca</id>
+    <title>Daniel Lemire: nouveau spectacle 40 ans de carri?re</title>
+    <desc>On retrouve les personnages de Lemire: Edmond perdu dans les nouvelles tendances sexuelles; Yvon Travaill? propose des solutions ? la p?nurie de main d'oeuvre; Ronnie part une nouvelle tourn?e avec un vieux complice; Oncle Georges parle de retraite!</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IlpVMlFMaXRVTHk5ZmpWaW8rTk1CNHc9PSIsInZhbHVlIjoiZWhLNmpPanVpdDlHZFZOUjg2NzkrSXI4WnZFbnJ6NnpteHYwOGRVRjBMNm0xSjJlOHdUV3VkbENDSGRuNWtrMVp6dVNaUEs1eVNUQWtHVVZIM3k3VkNrQVUzTnJtU0hvT2NYdTN4SjJKMWc9IiwibWFjIjoiM2IzZTNiZmI4YWM0OGI1ZDFiYjUzNTZkNmYxNzQxNDdlODUzZmQwZjEyZDE3OTYwZjc1ZWU5NTJiYjFlYWUxZCJ9&amp;signature=6c60c24ee906e36b1d65538c044c42f71697ce78260127d70c2bb54cd9c6cda5</image>
+    <start>02:00AM</start>
+    <finish>03:00AM</finish>
+    <date>11 September 2026</date>
+  </channel>
+  <channel>
+    <name>TVA CA</name>
+    <id>TVA.ca</id>
+    <title>TVA nouvelles</title>
+    <desc>Pierre-Olivier Zappa vous pr?sente l'actualit? de derni?re heure, les nouvelles r?gionales, internationales et ?conomiques en temps r?el, et plus encore.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IjdrZVVHZWpESkdQUVNWMEI5VmdiU0E9PSIsInZhbHVlIjoiQlVta05VeUxcLzJQOTBhSHZFemhvbW1nRExKeHFPZ1Izc3Jsd2hyZm1PeFwvaGZ1STF2NmVaRDkwdHJHVlkwTHppR2RGXC9WUnBYQWp5Y0gzc3VLNmhLK0dabVpaTDFDaTl3cUMyZHBrZUh5eGc9IiwibWFjIjoiZDBiOTAwMDhhNjBlMDRhODUzYTU1YzllMGQ0ZmE1MDM3NTM2OGJmMWM4ZGJiMTllMjY1NzA3NjVmMzJmOTY0OSJ9&amp;signature=cd4a750a68ad620260c06cbc250e1015f2f214bff53b9aa7f5f96ed460d3545b</image>
+    <start>03:00AM</start>
+    <finish>03:35AM</finish>
+    <date>11 September 2026</date>
+  </channel>
+  <channel>
+    <name>TVA CA</name>
+    <id>TVA.ca</id>
+    <title>? vos affaires</title>
+    <desc>Pierre-Olivier Zappa d?cortique l'actualit? ?conomique et ses impacts dans le quotidien des Qu?b?cois.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6Imx0alZMcDFLTWFPSUxvOGZINUxaM3c9PSIsInZhbHVlIjoibGx2TENMb0N3UGtHVW93NjRHVmxSZ1NkSlJIN0JpT0MrcTVtVVdQdVk5OXV6YmEyeXVIbFh3dlpudWxJMXRJU0J3UFp3NjZseENScWU4YUdGMm9rNFwvaUNTcTZINEZJM3hQWkMrYllhNVFyS3dPR3grMHFuVXB4VXBUOThZU3JrIiwibWFjIjoiMDcxNWEzYTU1OGQ3ZGQzOWU4NDMwZGE5NmUxOWQxYjUyM2E5NWJhNWU2MDU2Y2Q2YjM0YzZlNDc2MjZhNmJkZiJ9&amp;signature=3fb19a2724d6771454f686999d38c72ce4070db5dc9d14e6db1ff8c20a63286b</image>
+    <start>03:35AM</start>
+    <finish>04:05AM</finish>
+    <date>11 September 2026</date>
+  </channel>
+  <channel>
+    <name>TVA CA</name>
+    <id>TVA.ca</id>
+    <title>Chappie</title>
+    <desc>Chaque enfant entre dans le monde avec plein de promesses, et Chappie ne fait pas exception : il est dou? et sp?cial, un vrai prodige. Comme n'importe quel enfant, Chappie sera influenc? par les gens de son entourage. Mais il y a une chose qui fait que Chappie n'est pas exactement comme tous les autres enfants : Chappie est un robot. Le premier robot de la plan?te avec la capacit? de penser et de ressentir les choses. Son histoire changera la mani?re dont les humains voient les robots.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IjFMYWZSa210RzNLNkxWWGpVTWFMckE9PSIsInZhbHVlIjoiNTg5Myt3dE1LWjNZZlhtbVkrMWszRXRiZXQ1XC9zZ3Q5Vmx4MmVLeGJjdzZ0SFhYSkY2UUhVNzk3M1h6UzVXQ1dRTXZTeUxKcHdTcFFONlZITUxyZDFtYnBPWng1K05NSjRQNTE0dG92c3k2SGY2M3dCTWVEWUg0eStodEp4Tmt1IiwibWFjIjoiOTkwYTY3ZGMzMTAyNjhmZjFhOWE4ZTk4NWNiNjA1MGQ0MmVkMTdiM2Y1ZDhiNjY5YjM0YmM3ZjA2M2ZiMzAxMCJ9&amp;signature=d7632eb6a266c4e0af84adce4d4b632f07b02cf8166e5950b11521f9d8833894</image>
+    <start>04:05AM</start>
+    <finish>06:31AM</finish>
+    <date>11 September 2026</date>
+  </channel>
+  <channel>
+    <name>TVA CA</name>
+    <id>TVA.ca</id>
+    <title>Unfriended: Dark Web</title>
+    <desc>Apr?s avoir trouv? un ordinateur portable, Matias se connecte en ligne pour jouer ? un jeu avec cinq de ses bons amis. Il leur montre un dossier myst?rieux o? se trouvent des vid?os troublantes de personnes qui semblent ?tre en danger. Les amis re?oivent bient?t un message d'une personne anonyme qui dit qu'ils vont tous mourir s'ils d?connectent ou appellent la police. La nuit de jeux planifi?e devient rapidement dangereuse.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6ImJNcHhReDZOZFVPWGVFbGM5UjIrWUE9PSIsInZhbHVlIjoiZnhDRWhQYTZoYUp1cGxxZENcL0N1T09pUmw0MElhaGJTczJqOVVZZElQNVdRS20zT1Y0MlkrM1diN0NScWs5Z3FlNTRldlpsNWhpWHpTNjRFeXRoS0pxekdJaDN0SldpTldQR21ZUTVLNnluMzJuNXc1SU8rVHdNME91Q1dvZnlXIiwibWFjIjoiNWFhYjk4MjQ3MzkwNzA1NWYyYTRmMGZhMzI0ODJiYjkwNjM4MWU1YjBhYTE3YWVhNDBjY2FkOWI4ZDkwN2JiZSJ9&amp;signature=9b132809fa4311f72a4dac544579194a87d64dcf08d21557dfc09ff79ddcba44</image>
+    <start>06:31AM</start>
+    <finish>08:14AM</finish>
+    <date>11 September 2026</date>
+  </channel>
+  <channel>
+    <name>TVA CA</name>
+    <id>TVA.ca</id>
+    <title>Les armes</title>
+    <desc>Une fois de plus Savard et Craig divergent compl?tement d'opinion; ils ne sont pas d'accord sur la marche ? suivre concernant une op?ration des plus d?licates ? orchestrer; l'heure de v?rit? approche pour le JTF-16; Craig enguirlande ses troupes.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6Ilh5Y2lTbzBuWDlod3VySjAzZDFTa0E9PSIsInZhbHVlIjoid05DcTNHZGVxOXR6YVg1ZUlvU3d1MXZuSldSZElUM00yK0RGMEFNaUViNm5cLzhpbm04Tm5FOFNYUXE2cXBGQWdPNytINnlxaHoyaUxSSjNVZlNkK0xvTjk3RzhGRjVxaW04a2RNak01MXgzanEzWTdGdUFlMklncXMxbmdaNzlpIiwibWFjIjoiMWRmODM5MjkyZWFlNWY2NTg4YmM5M2FjMzE3Y2IxMmQ4MGJlMGY5YTE2Mjg4NmQyZTc2YTliMzU3MmRlY2I3NiJ9&amp;signature=b92d0a4d20f0eede4f74c8fe2b55c8ae9654af4b3a2695f7596cda65f162b976</image>
+    <start>08:14AM</start>
+    <finish>09:14AM</finish>
+    <date>11 September 2026</date>
+  </channel>
+  <channel>
+    <name>TVA CA</name>
+    <id>TVA.ca</id>
+    <title>TVA nouvelles</title>
+    <desc>Information r?gionale, nationale et internationale.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IjgxQTZDODJoeEtZTDFQUm1vNE0rT1E9PSIsInZhbHVlIjoiclJYOTRrQ0p4WUorTUFwVHZxbTd4VVhpOEp4NDRXY0laZ3JXd0Z2dkpOS1ZjZGFNZ0Q2NlFjRndidnp3dnJyNDBGQ0VFS1FJVFdtYWhUa0pzWW5wK1AzblFiZTQxVGRTYXRrYkZpQXFsU009IiwibWFjIjoiNTQ3M2QwZDJmM2M5MzA2Y2NjNzFlYmI0MGQ0YzNlZmYwMDk0N2FjYzM1YTdjN2RjMjNjYTM3ZmFlYzBkMWY1OSJ9&amp;signature=4d11226ace69e679bf7e81c7eabc031407fe8c51baafc14e83f2fb6d2d332963</image>
+    <start>09:14AM</start>
+    <finish>10:00AM</finish>
+    <date>11 September 2026</date>
+  </channel>
+  <channel>
+    <name>TVA CA</name>
+    <id>TVA.ca</id>
+    <title>La victoire de l'amour</title>
+    <desc>Pr?sent?e par l'organisme catholique La Victoire de l'amour, cette ?mission religieuse du m?me nom est constitu?e de t?moignages de personnes qui sont parvenues, gr?ce ? leur foi, ? surmonter de lourdes ?preuves. Les invit?s font preuve de courage et sont une source d'inspiration.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6Ims5MzAyK0xyNnVKSUY3QXhhUWZmZEE9PSIsInZhbHVlIjoiM2JPSDJFQmFUam9BU29MNjZvcHhFUHd3SlNCZ2MwM2RadTBiRURIVjZGbGdnUmM1RUJYQVR2WDEwRU9yVzloQmFQZWtaVldxSTFSS2lJdHhHU2p5K1pma0RUQk93bWdST3dDcU1yN3pQQ0xKSndXQmg3ZW1JcGpYZDRZUjZsazUiLCJtYWMiOiIzZmNiMGEyMGJlMzcxMzgxNzU5YzVlNmM4NTVhNDFkMTEyN2EzOTRmNjY3ODYwMjY0Mzg2YzgwYTNkYzgwMGQ2In0%3D&amp;signature=1c2e9658fc8ee1cc632432427caf171e46a25847448b632594adce740106a1e2</image>
+    <start>10:00AM</start>
+    <finish>10:14AM</finish>
+    <date>11 September 2026</date>
+  </channel>
+  <channel>
+    <name>TVA CA</name>
+    <id>TVA.ca</id>
+    <title>La victoire de l'amour</title>
+    <desc>Pr?sent?e par l'organisme catholique La Victoire de l'amour, cette ?mission religieuse du m?me nom est constitu?e de t?moignages de personnes qui sont parvenues, gr?ce ? leur foi, ? surmonter de lourdes ?preuves. Les invit?s font preuve de courage et sont une source d'inspiration.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6ImpJeWhYaUZLQTdnUlJpRVdKUlhLREE9PSIsInZhbHVlIjoiVHFSS2kwK0N4R0ZNbDZRTzlZbG9tOGZ1XC9qVFdhVXdVc3RSa2FHeTRJcDZKcTg5am9ESlQ0RWkxZ1wvRXFmN0pPQ1pQT1VhZjlVNGh3K1R0MHRaK1BSYmtyeGpLK25NcjluS1NCcEcxXC9jQk0zTW55YndsUlIrMGl4VGVXcFNtY0giLCJtYWMiOiI0ZDMyYjVlZDdmNTgxZmJjZjZhZGJkOGRiNzRmYjBlOGFmZGE0NWVmNmZmNjY4OWZmYjFjNTIyNTc4ZDczMjA5In0%3D&amp;signature=64091809606a26d4b3ffd715fc0f7bc05aa050b73e665dae8ff5fb074ce605fd</image>
+    <start>10:14AM</start>
+    <finish>10:30AM</finish>
+    <date>11 September 2026</date>
+  </channel>
+  <channel>
+    <name>TVA CA</name>
+    <id>TVA.ca</id>
+    <title>Infopublicit?</title>
+    <desc>Ceci est une ?mission publicitaire pay?e.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6Ill2ZUpMK1BVeGpweWFsS0xtQ3J3WWc9PSIsInZhbHVlIjoiVmp1YnpkY3diQzdzT1Q3Vmk2T3ppa2NNRmFLRThqdllUejRBYzRDVlc1Y1RZWTk2V29OV2R1MFFrSEV6Nm45Qk1iWEpkK3lLcjB4dXpCbTBYSHA3OFE1cGJwYjdLUzNkSXVHRncwbHFzY1k9IiwibWFjIjoiZTlmYzM2NmI3YWQwMzkyZGFmYzMxMjU0YTI1MDdmMWIzZTRhOWViZTY0MTFmNzA1ODQ2Yjg1M2RjMzlhOTM2NiJ9&amp;signature=58816f3e5609fe587cd786df14de5f153b113eacff281ddc38380110ea11f973</image>
+    <start>10:30AM</start>
+    <finish>11:00AM</finish>
+    <date>11 September 2026</date>
+  </channel>
+  <channel>
+    <name>TVA CA</name>
+    <id>TVA.ca</id>
+    <title>Le Qu?bec matin</title>
+    <desc>On reste ? l'aff?t de toute l'actualit? sur des sujets tels que la politique, l'?conomie, la sant?, la m?t?o et la consommation gr?ce ? des reporters en direct sur le terrain ? Montr?al, Qu?bec, Sherbrooke, Trois-Rivi?res, Saguenay et Rimouski.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6Imx6UzVWd1h0emtkYTZjYmsrUEtSbGc9PSIsInZhbHVlIjoiV2tFcUdGekl6NnNBN3pCdVp4d1J5b0k1NmhvQXg5S1I4MTBhamc3eGRjc1JETG50UlQ2MkhhSU05Z0xcL0Z3NkdFNUphcFpXdVV0eVBPR2pmSlBINk1lTnZmN3Yza0locVBDXC8xWGFmMmxwSmFQaEJWbXk1cWFWcGdTNXpkczQ5SiIsIm1hYyI6IjNkZmVjNTcyYTdmZGNkNDYxZDA2YjE3MjU1NDhmYWEwMTA0YmE4Mjk2ZDk5ZjliM2QyMjIwZmFkMTVlMDI5YmMifQ%3D%3D&amp;signature=37d21066e92a33d61007ecbdc513c4599f02e672829f8c59829ac93f63304c25</image>
+    <start>11:00AM</start>
+    <finish>11:30AM</finish>
+    <date>11 September 2026</date>
+  </channel>
+  <channel>
+    <name>TVA CA</name>
+    <id>TVA.ca</id>
+    <title>Salut bonjour</title>
+    <desc>Actualit?, revue de presse, m?t?o, circulation, actualit?s culturelles et sportives sont abord?es avec dynamisme et enthousiasme chaque matin. Diff?rents collaborateurs viennent partager leurs passions : cuisine, sant?, famille, mode, etc.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6Ik9YXC9XXC9TRng1TVBhZG80RXFGY0FDZz09IiwidmFsdWUiOiJuR1FFVEJsOXJsSXVqZFBHVUFUVDhsbGU4RWIwbUE3cGU3NzRseWJENmdKVjZFWHdGYnZzM2xpd1BBZ01mTEpIcjI2djZYOWk2YUs2aTF6MmNDVnkwbmNuTHFNdFlkV2ZLaEV2N1M3akNnZz0iLCJtYWMiOiIwNTRjZjMyYWY2MDMzYjJmOTg2ZWRjYzU4OTQ4NjFlNmExMTFlMTlhZjI3NGExNWJkMjViYTg3NzBhNzU4YjZjIn0%3D&amp;signature=b214621284df9c87c32252dbcd4559bf8c814452c2d69886884b0a62872a16b6</image>
+    <start>11:30AM</start>
+    <finish>03:29PM</finish>
+    <date>11 September 2026</date>
+  </channel>
+  <channel>
+    <name>TVA CA</name>
+    <id>TVA.ca</id>
+    <title>Le tricheur</title>
+    <desc>Jean-S?bastien Girard, Marie-Soleil Michon, Antoine V?zina, Marie-?ve Morency et St?phane Bellavance.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IjY2SVBxM1BpaEE2TE43ZlV2eWNOYkE9PSIsInZhbHVlIjoiaTg0TFpmVkNJMnBrdnROOFh3OG9rUkg4aWVVUkpMSktHTndzQXVTb0M5ckorYTl3aXM3S0hoT3U5V1lJM29KMTVoczJzcThLNFwvMDdmK0tnbTlaSDExeExkY0l3am9MU2p3bmdqM0dOamxrPSIsIm1hYyI6ImVlMzU2YmRiYmE4ZmFlZGM3YzYyZmI1ODMwZjBmYjM0YmNhYTZlNTc5ZjIzN2I3ZDEzN2E0M2IzMmJlM2NlZGUifQ%3D%3D&amp;signature=312adf0537249d010c5778bac27f2e5bf4141468f636b5f742a7f2548ab0a834</image>
+    <start>03:29PM</start>
+    <finish>03:59PM</finish>
+    <date>11 September 2026</date>
+  </channel>
+  <channel>
+    <name>TVA CA</name>
+    <id>TVA.ca</id>
+    <title>Mario Dumont</title>
+    <desc>Mario Dumont vulgarise l'actualit? et la commente ; ?mission ax?e sur la politique qu?b?coise, canadienne et am?ricaine, ainsi que l'?conomie.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6InkxT3NhVnJkWHZDS1p5d29yQWhlZ0E9PSIsInZhbHVlIjoiODZ2UFF5a1RcL1BtclA1RWV3bUw1U1VGaEUxN29qQW1lK2g4U2ZxZ0Z4clVIaUNTb0dMY3dENVBLeEJvOGhIckZJS0xLVnZyTXFDcVhRdVJXMmU2SUFaTFgrcjY1NWd1TUpyV044VTZBRTg4PSIsIm1hYyI6ImM1ZTU5NTYwNmRiM2M2NzVkMWJjMDBhZTExOTliN2JlZDNjNWVjYTAyMTE0ZTkzNGIwOTQxN2FjMTdhNmUwOTAifQ%3D%3D&amp;signature=d6aeab1690d4351fdd779fd199a08918fd0e5ba5a1beca59658cd590ed512c38</image>
+    <start>03:59PM</start>
+    <finish>04:57PM</finish>
+    <date>11 September 2026</date>
+  </channel>
+  <channel>
+    <name>TVA CA</name>
+    <id>TVA.ca</id>
+    <title>TVA nouvelles</title>
+    <desc>Avec Philippe-Vincent Foisy, on reste au fait des nouvelles de derni?re heure, des analyses, et la m?t?o au bulletin d'information complet et pr?f?r? des Qu?b?cois.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IjlEZ0VoK0VQcSs1cVZcL1hiT1pxS1l3PT0iLCJ2YWx1ZSI6ImZNc0lmalJMQ1lOWEI5VGV1dnc1OEpDYlB5M3BadXFBa0t2OXlGZmU5WXpcLzRpTEdMc0dKWHdlXC9IQTBGVnF3TTRSOG51VmdMUE8rM3FzM1I5aWlwZVpzMTN5ajh6ekRacUJTRGo3WUNpc289IiwibWFjIjoiZTVhODZkMzJiYjY5MWEwMmU3ODc1MjgzM2FkMDdmMjdlZjBkN2IwMjI3M2M0ZmYyZjg5ODIxZDliNDYwZmU1NCJ9&amp;signature=067d59c488f87b01ec2d84077d7611162a0c87c8198922a7921e23e84367b03d</image>
+    <start>04:57PM</start>
+    <finish>05:31PM</finish>
+    <date>11 September 2026</date>
+  </channel>
+  <channel>
+    <name>TVA CA</name>
+    <id>TVA.ca</id>
+    <title>Le bilan du midi</title>
+    <desc>C'est le moment de la journ?e pour analyser ? chaud l'actualit? politique provinciale, f?d?rale et internationale avec des experts passionn?s.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IjM2RkRlTHN4RTE2RHlZVVVNWXlRZXc9PSIsInZhbHVlIjoiNHlXZWVwU0pCWVRWQzc3NE9JRFZQZlBnV0FcL3Q3aG9WeWxQbUo5ZHVrdTJpeTRXUDVPMHExRndGUU5DQlR1NkNubzdEbVd5dmVPSEozbDBMNkVxR2NpXC81UkFJSEpzUEZcL2pwWXMxU0tLQ1E9IiwibWFjIjoiYTY3YmNjMjk5NmFkNjI2MTU2NmViYmIyZTE0MTJjMGU1ODFiMzYzOTMyMDIwN2E0NDc3NDE4NTBhMmY4ZmMyZiJ9&amp;signature=20cd0d6e67d2246c6bfc259fd3462c3205ccd24b13da5e3e863552dfbe3b6887</image>
+    <start>05:31PM</start>
+    <finish>06:00PM</finish>
+    <date>11 September 2026</date>
+  </channel>
+  <channel>
+    <name>TVA CA</name>
+    <id>TVA.ca</id>
+    <title>Rejouer le pass?</title>
+    <desc>Une jeune femme se voit offrir la chance de sauver l'amour de sa vie lorsqu'elle d?couvre que la compilation musicale qu'ils ont cr??e ensemble lui permet de voyager dans le temps afin de changer leur destin.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IjQwMTNVQ1lQaTQ1cUJyOE1FWDg4SHc9PSIsInZhbHVlIjoibW1JTXpmZ2Q2SkNERldJakMxUnUwazUzRkpMbDI4a0JqVlBwQzRhbWhvUUZtT1hrYXc5M3JFMjBSeEFabzVQM245SXd0dzBpdDdWTDBycDBwUDQrNE9YK0JJTmk2aENMMGtaNTVCYUVKa3M9IiwibWFjIjoiYTE1MDE2OTg2MGMwYTNmMDg3MjI4MDc4ZDJkM2NmZGU2NWMyZTI0MjY0NTllNjk0NmJlZDdmNjA0ZTFkNTg1OCJ9&amp;signature=413316003047c9ef9eede288169efe241d100dd122328fb9aa9e186d3e6303cb</image>
+    <start>06:00PM</start>
+    <finish>07:45PM</finish>
+    <date>11 September 2026</date>
+  </channel>
+  <channel>
+    <name>TVA CA</name>
+    <id>TVA.ca</id>
+    <title>Les aventures de Tom &amp; Jerry</title>
+    <desc>Toujours en train de comploter l'un contre l'autre, Tom et Jerry sont ? la hauteur de leurs ?bats habituels. Le chat et la souris font des farces, des blagues et partent en escapades tout autour du globe.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6InhmT2RZdUJcL3g0Rm5wbFN3TUJmVDJnPT0iLCJ2YWx1ZSI6InNKM0pIaFB6bXB6WmtaXC94bkNsMktWSjhWWG9sZDlodVE1akhmVGxLVkZ6SWprRFI2elZ5blBNdlJnTkdBeHJYczJ6UW5CT1dxRm0rYmEyNGZiSktoZ3NReFlNMm82OGhYTGttQ1BuN3orcz0iLCJtYWMiOiJjMjBiYWZhYTI5YTA2MmM5YWFlNTU3YzMxNTcwZGM1OWQwZjk4M2IwMWExNmU1YWM1MmQ5ZDFmZjc4MTZlMDY1In0%3D&amp;signature=ac92391aa5a4cac8004bf95f085e1d06ed12adeb092c5a9bcea1abf58bfea920</image>
+    <start>07:45PM</start>
+    <finish>08:00PM</finish>
+    <date>11 September 2026</date>
+  </channel>
+  <channel>
+    <name>TVA CA</name>
+    <id>TVA.ca</id>
+    <title>Infopublicit?</title>
+    <desc>Ceci est une ?mission publicitaire pay?e.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IlkzdnpRRHIrSzhBcUl6cXhraXFGbkE9PSIsInZhbHVlIjoiVysxSndQSEJOb1o0bjYrY0RcL3pvYVIza21scW8wXC9wTlR2OFdnbVJBSHdNRDFxM3R2Nm1LMG9xWVh4SnlaMnBPc3Bjd2VxWDFWRlFyNmtHSldLQzBpTDFYaldnK3R4V3Y4c01nYXdMV1Vvcz0iLCJtYWMiOiJlMzc2NDk4ZGE2ZGUwYmU0MzE1NjYzMjIwYzkyMjJlNDQ5ZjYwMzU4YTNiOGFhMTI2NzU3ZGZhNGFjNjRhYzdjIn0%3D&amp;signature=ca47507f813b5b787d43f60d52c0be57858abc2763f07f5415c95fd70f787791</image>
+    <start>08:00PM</start>
+    <finish>08:16PM</finish>
+    <date>11 September 2026</date>
+  </channel>
+  <channel>
+    <name>TVA CA</name>
+    <id>TVA.ca</id>
+    <title>Histoire de succ?s</title>
+    <desc>Des entrevues et des ?changes sur la r?ussite de gens d'affaires du Qu?bec sous toutes ses formes.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6Ik1kNzNUaFBOMmtwR3ZiVmIyWGI2N0E9PSIsInZhbHVlIjoiYm5kanhCbEpDQVVJcWo3ak5WRlJzb3JZaWE1bEdxTGFPd2txaW44TXRHVGJvN2VvcUFvU3p1MUxsTG5OeEFVNDAwS3lzV21HM3d3K2xEZXFIdDRKZ2FManh6UFVQQkV1Z2ZjeE9iejVYMEt0QzJHN2FCYlI2cytHV0JMc1FwQVgiLCJtYWMiOiIzNDU0YWY0Zjk1OWM5Y2ExNDIxZmI1MjA5NGU5MmQxNjNiMDc3ODk4ZTBlZjQ1MjBhOWNjODFkYzYyZWY0NzE1In0%3D&amp;signature=20223058895a342e6b0de8293f83ed95d34c0a2ef85100628e16975b5cd5e3d7</image>
+    <start>08:16PM</start>
+    <finish>08:30PM</finish>
+    <date>11 September 2026</date>
+  </channel>
+  <channel>
+    <name>TVA CA</name>
+    <id>TVA.ca</id>
+    <title>Les feux de l'amour</title>
+    <desc>Le plan de Jack se retourne contre lui; Mariah interroge Sharon au sujet de Rey; Billy cherche ? se venger.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IlwvVjZ6ZWNDS0czSHB5ZkRheXdqK0tRPT0iLCJ2YWx1ZSI6InpvbmpqUTJLZ09pc2VKWnZzVVY5RTdnSmhHczRUaW40YVFOME9NRTkyVTErdHJ2MnBNQU1vNGJ1UmVuR3hQSisxUm1WbmdGdytNbG1pYUlXZkROa28rR3V2XC9uVnRpUVdjZ1V4VEFZT0liTT0iLCJtYWMiOiIwMWMyZTVhZmI4ZDE5MDliNDRmOWQ5OTFhNWFiN2QwYmQwMjdjNTBiZDdlODVhOTc1NmZmNmEyNDc0OTRjMjk1In0%3D&amp;signature=75abd5c1b42fdf89a611e0c7b237ead280031e557c7778ced962b589874eac75</image>
+    <start>08:30PM</start>
+    <finish>09:28PM</finish>
+    <date>11 September 2026</date>
+  </channel>
+  <channel>
+    <name>TVA CA</name>
+    <id>TVA.ca</id>
+    <title>Top mod?les</title>
+    <desc>Will est sous le choc lorsqu'il se retrouve face ? Luna devant chez lui.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IkJqcnA4Z2VuVzhyb1NKbnNvcjI5Rmc9PSIsInZhbHVlIjoiWk00TU9QRVpPUWxneHRDK2RBV2ljMDhHaGtGd1pERGpFUXZsMkoyWDdJVWpZV2pQOGJsVFhnTXhDOWR1MFZLY0NjbTVBVFdNOGFaV3ZcL2UxK1FjMlV5SUdFazExQm0zZmxjNkFEMVdXQ01jPSIsIm1hYyI6IjA2NmRkNDVhZWYxYTkyMzk2YjE5MzI3ZGUzZTc5Yzk3ZDBlMGJhNTI5YTAwNjk3MTgwMGEzMzM1MzgzMzNhNDAifQ%3D%3D&amp;signature=7e3b8b24e1dc78d03fddab8be8891ecc774feb4aeb51605875462037759123dc</image>
+    <start>09:28PM</start>
+    <finish>09:58PM</finish>
+    <date>11 September 2026</date>
+  </channel>
+  <channel>
+    <name>TVA CA</name>
+    <id>TVA.ca</id>
+    <title>TVA nouvelles</title>
+    <desc>Avec Julie Marcoux, on reste au fait des nouvelles de derni?re heure, des analyses de Paul Larocque, Emmanuelle Latraverse, Richard Latendresse et Mario Dumont, du sport et de la m?t?o au bulletin d'information complet et pr?f?r? des Qu?b?cois.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6InYwRkJDc1dRSTI5S1VJRFJEUWFncHc9PSIsInZhbHVlIjoiY1lqXC9NVWkrRmx1NjBtaFUyUjlIVGt2cU03NkY3cXNYMFdTdG5zZVNTM0Yza2tEOTc5MVwvaHlOaVMwSmFVZHhSb3krNkk2aFRqY3VTdTN2YU50KzhhWjFkT3hITFROYmJlMjF3YXRoS2FoMD0iLCJtYWMiOiJlMzNmNjRjZDJmNGEyMjViNDk3YWIxMWFlNDQ3YTFiMGY4NzU5NGNmZjdiODBiY2FkYzM3MDNjZTZhNzdjNjk0In0%3D&amp;signature=4106c8d2afe332e161541e1a34a42474982de8c24b5773c195a5db1e6268b4de</image>
+    <start>09:58PM</start>
+    <finish>10:58PM</finish>
+    <date>11 September 2026</date>
+  </channel>
+  <channel>
+    <name>TVA CA</name>
+    <id>TVA.ca</id>
+    <title>TVA nouvelles</title>
+    <desc>Avec Julie Marcoux, on reste au fait des nouvelles de derni?re heure, des analyses de Paul Larocque, Emmanuelle Latraverse, Richard Latendresse et Mario Dumont, du sport et de la m?t?o au bulletin d'information complet et pr?f?r? des Qu?b?cois.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6Ikp0OGh2MEdwbFc3UHFGdmFqZFJJMVE9PSIsInZhbHVlIjoiNE5XaXV4eU1mbUg5V0RxeDNxMjFKaGpWazU4ZWFnZnVyWnJnT2NBUUkxWTl4aHloSXI0dUFGeHZzS2NpUGVFT0NFMTVpa3RsNmZlSW9tcmNVQWtLV2twMXhPRnYwd2NVVGg5QWF3eGlzRVU9IiwibWFjIjoiZDUxYjM1NDVhYWQzMGI1ZTFkNDk1N2MyYzNiZmEwMDJhN2VkZTZkMTcxNjNjN2U4ZDQ0M2I4M2Y4YTdhMDE3MyJ9&amp;signature=6bca3507da94b47ffa3cfa8039631be28cbd58d55ede3f6ab0bdf75b0015db8a</image>
+    <start>10:58PM</start>
+    <finish>11:29PM</finish>
+    <date>11 September 2026</date>
+  </channel>
+  <channel>
+    <name>TVA CA</name>
+    <id>TVA.ca</id>
+    <title>Le tricheur</title>
+    <desc>Anouk Meunier, ?ve-Marie Lortie, Julie Houle, S?bastien Beno?t et Jean-Michel Anctil.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IjEycVRObHlxZGpCN1lJMGdOQUtvU1E9PSIsInZhbHVlIjoiMWduZE5mTnJwY1JjT2R6REV4V3poQ0pcL1wvTFlKWDViY29uWm5kdzUzSndLalR4bHhLajBJaGZyVXdhKzFaZmNDekhWcGt5T3I5OUlhVjNSaWVsK3hSZCtVM3RaZ3lMTFRDTlZDUnlORlIrZz0iLCJtYWMiOiJkNTQwZGZiMzZjZjg5M2Y5NGUwYjIwZDhjYTg5NWU5MzAyMTNkNGJhODEzMmM5NWMyMjkxYzMwNzA1OTM3ODU0In0%3D&amp;signature=da4b7ddca9ae515221816d8622694c68e2aa17992e30861a6ff7fc4301ae99e1</image>
+    <start>11:29PM</start>
+    <finish>11:59PM</finish>
+    <date>11 September 2026</date>
+  </channel>
+  <channel>
+    <name>TVA CA</name>
+    <id>TVA.ca</id>
+    <title>?a finit bien la semaine</title>
+    <desc>Un rendez-vous par excellence anim? par Julie B?langer et Jean-Michel Anctil qui constitue un lien unique vers les artistes chouchous du public, dans une formule conviviale et divertissante, ? l'image de ses animateurs.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6Ikw4VUpTbElqXC9rQUdtQzY5OTJ5d0FnPT0iLCJ2YWx1ZSI6IlhiSlU1MXJLWXNGZyszeno0S0thZzY2YW5Ya1dDRGs5NnY4bGNOXC9PRjJjdU02TTRKSmxKbGttQmswbjNBRld0dWlsbHhybGxmaE5paklnUDVOZnl1WGxZc1RzS1JySVlYU3JzV2ZRQm9WOD0iLCJtYWMiOiIxYWI2Njg3Y2E3MDdhMTUxZTkxM2U3ODM2YzhkMzg0ZjE1YmFmNDQwMjdlN2NmZjY5ODRiODU3YmNkYzIwODdjIn0%3D&amp;signature=e0e7099c1918ae667306f6856707f415cb22883d18d4e3018916627e6ba5c034</image>
+    <start>11:59PM</start>
+    <finish>01:00AM</finish>
+    <date>11 September 2026</date>
+  </channel>
+  <channel>
+    <name>TVA CA</name>
+    <id>TVA.ca</id>
+    <title>C'est la guerre</title>
+    <desc>Deux agents de la CIA, Foster et Tuck, sont des amis de longue date et partenaires. Tout est remis en cause lorsqu'ils s'?prennent d'une s?duisante jeune femme. Les anciens meilleurs amis d?cident de s'affronter par amour pour Lauren et tous les coups sont permis.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IjlkcHBlWmNpNU1BQ0ptZlwvT1RQT3JnPT0iLCJ2YWx1ZSI6ImFRNllXdENNUG1Ka1BTWjVaaURMXC9RcnV5MzNxTjN1WHlZSlJrSzFrdkt3aFBMWEZpYjRsK293S0xZbmtHVHhsMmVKTWVONFdvQ0dwa3ZxeHVXZ2FlRm01RnQ2QjFlXC9qUXBlVmhzbEhxMW89IiwibWFjIjoiYjg4Yjk0NjMwNWI4ZWU0ZWFjNGYwZTViZjE2YzI3YjQyYmFkNWIwNzk1ZjM1NWQ5ZTFiYmNhYzQyMjEyNWZhNyJ9&amp;signature=2df6c13a4df55ade7034b097afa4cba5aeb96f380b4724e94014af72774d4d98</image>
+    <start>01:00AM</start>
+    <finish>03:00AM</finish>
+    <date>12 September 2026</date>
+  </channel>
+  <channel>
+    <name>TVA CA</name>
+    <id>TVA.ca</id>
+    <title>TVA nouvelles</title>
+    <desc>Pierre-Olivier Zappa vous pr?sente l'actualit? de derni?re heure, les nouvelles r?gionales, internationales et ?conomiques en temps r?el, et plus encore.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6Ik9vOWxnVDBqQXVxRDM0NGVOYlREQnc9PSIsInZhbHVlIjoiNEdMeEF3cUFaRzR2bTY2NllsUnBzSWc1R240N2JmNnF3SERaRWMyN3YybkE0RjBcL3h3TVUwckZaaXRxVUR3VW5GSTM0ZzZISjRrXC9uN0NZT0NMb2tJUE5FSmk1N0IreXJmRnZiNGxuSEFKMD0iLCJtYWMiOiJlZjMxODlmNmNmMjQ0ZTdkNzYyYzc5MjFhN2RkZTk4NzNiZTA2ZGNhOGU2ZTBiMWE2NmIwYzdhYTE4Y2YyZjBmIn0%3D&amp;signature=0afb33d115158d0c2ad684775dade2014508422a48e640f2f148919bf9217af7</image>
+    <start>03:00AM</start>
+    <finish>03:35AM</finish>
+    <date>12 September 2026</date>
+  </channel>
+  <channel>
+    <name>TVA CA</name>
+    <id>TVA.ca</id>
+    <title>La rentr?e TVA 2026</title>
+    <desc>Anouk Meunier et Jean-Michel Anctil, le nouveau duo d'animateurs de &quot;?a finit bien la semaine,&quot; accueillent dans ce sp?cial de 90 minutes les t?tes d'affiche de la programmation d'automne afin de recueillir leurs anecdotes de tournage et d'en conna?tre davantage sur leurs projets respectifs.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6Ik5HOVhxVTdlQVkzMUwrQ0tmRmZ4Vnc9PSIsInZhbHVlIjoielpINlFxN2xVZElpZGRqZ0x5OGZxSmdOUENrNGIzUG54ck9PZWpOWjdZc1dSdVJaVWJnaml5bUh0OUNpeUo2djE5MVkrcE1TWDVUbkU4Zko3cXEzYkhkWFFwSlQ4OWIzUldFR2hnRjliQ2M9IiwibWFjIjoiN2QyOGM2ZTRjM2M0NGYxNjBmOWY3MGU0ODMyNTZkMzJlNTFlODVkNWE5NDg5NzM5NGVhYjM4Zjk3NDI5MDRiOCJ9&amp;signature=087649ce8b8b96d4a91084c198bc298424d58ada9a22038fd8edc98b34502bd2</image>
+    <start>03:35AM</start>
+    <finish>05:05AM</finish>
+    <date>12 September 2026</date>
+  </channel>
+  <channel>
+    <name>TVA CA</name>
+    <id>TVA.ca</id>
+    <title>Greta</title>
+    <desc>Frances trouve un sac ? main dans le m?tro de New York et le rapporte rapidement ? Greta, une professeure de piano fran?aise excentrique qui aime le th? et la musique classique. Ayant r?cemment perdu sa m?re, la jeune Frances se lie d'amiti? avec la veuve bienveillante qui aime sa compagnie. Mais lorsque le comportement de Greta devient de plus en plus erratique et obsessionnel, Frances fait tout ce qui est n?cessaire pour mettre fin ? la relation toxique.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6Inp4cmNjSE5qcndoZllWUnR3M3A3ZEE9PSIsInZhbHVlIjoicFhcL0drOEZUeDZRTE9JNEN6M0JNZXcyU0FtdWFTZ1VMNWtic282UkViblV2emhndTU1RVFyQWhZM1NPVUVIUjh1cDNvb0hDQmdERjlZU0s3SUtpMkNoYlJmM01FSkVuV1RRMnVkaklXQlc0PSIsIm1hYyI6IjkwNmE0Nzg2MDcxZGQzMDBmZmI1NTY4NjliYzI1NjU1MTliNGZkZDY5YTQ0MzI2NTY5ZmE5MDlhYmVjYzYzZjgifQ%3D%3D&amp;signature=1dc2e30680045d0cb384f4379b4e727e39d7629a88fffd31c8f17fa7de1a201f</image>
+    <start>05:05AM</start>
+    <finish>07:05AM</finish>
+    <date>12 September 2026</date>
+  </channel>
+  <channel>
+    <name>TVA CA</name>
+    <id>TVA.ca</id>
+    <title>Instinct de tueur</title>
+    <desc>En essayant de recr?er des liens avec son fils Danny, Will, un courtier de Wall Street, am?ne sa famille ? la cabane dans laquelle il a grandi. Pendant qu'ils font la chasse, ils rencontrent plusieurs criminels et sont t?moins du meurtre d'un de ceux-ci. Quand Danny est enlev? par des criminels, Will se retrouve forc? ? les aider ? ?viter la police.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IjNiYW9maU1peFVXUzlla3dWSENjMUE9PSIsInZhbHVlIjoiUUlLMUFlXC9jM3RtZzhKXC9QdVhJNG9XMGptREZlTjVxbE5QcHlvU1dieFRFTFp2YlNPVVJzVmRUVjFoT2VHSkpOUXVSS25QVjFMZkFqYzIyeWRzelYzcm55WmZHSVdWRWRrMWtqN1Vpb1NmMD0iLCJtYWMiOiJiMGRmNzg0NjI4MWZkNjdlMWQ1NDFkMWY5YTNjZGU3NjI1NDMyZDhmNDZkNTI1N2QzMmU0NTY5YjgyYjI1NTQ1In0%3D&amp;signature=553c708f2fe252ce93194442a948912addd2ccae3561e21a6b5b3896de5f2cf1</image>
+    <start>07:05AM</start>
+    <finish>09:05AM</finish>
+    <date>12 September 2026</date>
+  </channel>
+  <channel>
+    <name>TVA CA</name>
+    <id>TVA.ca</id>
+    <title>TVA nouvelles</title>
+    <desc>Information r?gionale, nationale et internationale.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IjE5OUdxNHBsOTJFTlZwRXVPMGdyYWc9PSIsInZhbHVlIjoiMTQ5Z3dISkZjY1o2enZGUVN2YzB4dFFFTEhnXC9jZTd0ZklkeGtrUXNLT1dWS1d2OVM3Y2RaTGhVSG01Tk45U3N5XC9IK2lhVktmc1RjN0cyeWMzdGJjN0pcL3ZuVkhidjJ2U0sxYWZQSUlQb3M9IiwibWFjIjoiZjg3NmY4MzgwMTAzODIzYzc5YjU1MTY0Yzc1NTAzYTNjMjFkYjkxNDRhMDVhMWM5ZjNmNzNiYmU0MzNkNDg3OCJ9&amp;signature=15fef38a958ad291ba4e53c5fc4470e47cac8c36511ecdb0c21d876bfb2c5968</image>
+    <start>09:05AM</start>
+    <finish>10:00AM</finish>
+    <date>12 September 2026</date>
+  </channel>
+  <channel>
+    <name>TVA CA</name>
+    <id>TVA.ca</id>
+    <title>Infopublicit?</title>
+    <desc>Ceci est une ?mission publicitaire pay?e.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6Ijh1Z2h4VTF0SlhJN0hJVzVyTmZybFE9PSIsInZhbHVlIjoianZkdFNiYlZHYTJXWjFVM0RCUVRCWktpOERLaVE4am4rQUdYOTRHcDdMNXY1cnJoVE5BOElRT2Y5SkJnQmYweVlPXC9wM3FCM1wvQ1hkSHBaNndOQm5uVTVkd0p1Ym1YNW90ZlNjSGFtRVwvMnM9IiwibWFjIjoiMjFiMDhkYTMyZTllYTBmZjJhMGQ0YzU3NmY2N2M1YTljYzBiM2ViNTVlYjY1M2U0NzZhODg5NWYwNDJkZWM4OSJ9&amp;signature=c4aa2ce6877f0493485a5fa884621040495a240adf99ae7c90bc2fb625385abb</image>
+    <start>10:00AM</start>
+    <finish>10:30AM</finish>
+    <date>12 September 2026</date>
+  </channel>
+  <channel>
+    <name>TVA CA</name>
+    <id>TVA.ca</id>
+    <title>Infopublicit?</title>
+    <desc>Ceci est une ?mission publicitaire pay?e.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IkxIYTV1NStwd2U5SmlMNThUS2pyXC9BPT0iLCJ2YWx1ZSI6InQ1T3RMZVRPZjJTWU9nclFWcGE2WGtVeTVaRUV5aThSOE9uZGRNUDl3dWg5dmd1SG9EbE1rSHQ3Y2xXS0dFNGJxMWNqNU1OeDBYYk9MbG51bjlnb0trb2dNUGJ6TlEyRGRUYW42RFdob0pZPSIsIm1hYyI6ImE0YjIwZDIzYTAxZDFhMDFkYWY0M2NjYzEyZjRmYzc4MDBmYzExNmMzOTkzNmMwNmQ5M2EwOWRlMWNjNDVkY2UifQ%3D%3D&amp;signature=9653448152262523b70b2a166e8bf410a94d7e71900431b550929d8d42db2139</image>
+    <start>10:30AM</start>
+    <finish>10:45AM</finish>
+    <date>12 September 2026</date>
+  </channel>
+  <channel>
+    <name>TVA CA</name>
+    <id>TVA.ca</id>
+    <title>La victoire de l'amour</title>
+    <desc>Pr?sent?e par l'organisme catholique La Victoire de l'amour, cette ?mission religieuse du m?me nom est constitu?e de t?moignages de personnes qui sont parvenues, gr?ce ? leur foi, ? surmonter de lourdes ?preuves. Les invit?s font preuve de courage et sont une source d'inspiration.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IjhpTjl2cTdIK2czMEVvVTJiUmdxbXc9PSIsInZhbHVlIjoibXBqY3ZtVFUrTTRHS3paSlBwblE1b3B4OEp6K21US3JUMWpNcVp0RFlXQ2U4c2FZekFlbGtkUXZBaHg3Y0pFWEl0Q05obEdkVXdcL1F6WWdhaUFqNEM2MW1CaVRORXJRYmdSUlJlQ2JEM3pOWG1xNFZZMjZoZXY2M0JWa1B5aExmIiwibWFjIjoiZjJjOWE2YmRlYmEyMDNiZDk1ZmVkN2Q3ZDI0N2ZmNTlkMzU2MjZlNWUwNDdlZmRkMDJmNDFjYTM4NmQwMzk4NSJ9&amp;signature=2b68d551ec8b8c09ea5ab4e8b3427b66e4019662573d6fc747b8383beaf56a10</image>
+    <start>10:45AM</start>
+    <finish>11:00AM</finish>
+    <date>12 September 2026</date>
+  </channel>
+  <channel>
+    <name>TVA CA</name>
+    <id>TVA.ca</id>
+    <title>Les looney tunes</title>
+    <desc>Ces courts-m?trages Looney Tunes relatent les aventures de c?l?bres personnages tels que Bugs Bunny, Daffy Duck, Porky Pig, Elmer Fudd, Sylvestre (Grosminet), Titi, Marvin le Martien, Taz le diable de Tasmanie, Bip Bip et Coyote, Charlie le coq, Sam le pirate, P?p? le putois, Gossamer et bon nombre d'autres personnages.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6ImJoNTIxOXhsUjFjOTlyKzZReTkwd1E9PSIsInZhbHVlIjoiWjlUMzJaOWpVMERqb0dpa045QmRrdzdxZXVKSzVhVm5jY2VPdXBCWjhPU3dROVYzSWNESE1iQXlmSW5xZWFoZkt2M0JOc3N5eGlneWY4ME5UVW4wbVh0cGZPNmplR3ROMndLRnBWV2JZS3c9IiwibWFjIjoiYzZhNzkzZmY3ZTgwMTRiY2U4MWVjMTdjODFmZDU0NWFhYjg4NzYxYjA2ZDJmNmVhZDQ3ZmNmNDYxMmI3ZjI4MSJ9&amp;signature=4e19bc69bb05704444504d30d546d9a2549dcca47de688693dfcb8cfdd588334</image>
+    <start>11:00AM</start>
+    <finish>11:30AM</finish>
+    <date>12 September 2026</date>
+  </channel>
+  <channel>
+    <name>TVA CA</name>
+    <id>TVA.ca</id>
+    <title>Salut bonjour week-end</title>
+    <desc>En provenance de Qu?bec, l'?quipe met l'accent sur l'actualit?, le culturel, la m?t?o, les sports, le Web et les diverses chroniques.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6InhxeFZ1Nkw2ellxVFI0UCtTdkdjTnc9PSIsInZhbHVlIjoibmx1cFBpMlY1ZENZQU9jRXhPdDkrTGg2c0o5aWFnd25iRzBJSW83UGNuYm0yQ1FnaElPNlZ0RkpQSUYxTURoa0ZMbkltVDZid3MwWEdMaFJBSDE1b3QzNXpOTnVQNkhGYjVcL0U1NG9FUE84PSIsIm1hYyI6ImZjYzMxMDYyMTQ2MmIzMzU5NTMyNDg2OTY0YmQxNmI4Mzk0MmEzMmY3MjZmNTNlODkxNzIxM2M0MDMzNWE2M2YifQ%3D%3D&amp;signature=5e2063234ef52a87ff26794ad12284f61f0a2e978c213bcc4d819511b1e4242a</image>
+    <start>11:30AM</start>
+    <finish>03:30PM</finish>
+    <date>12 September 2026</date>
+  </channel>
+  <channel>
+    <name>TVA CA</name>
+    <id>TVA.ca</id>
+    <title>Sur le pouce</title>
+    <desc>En Mauricie, St?phane s'arr?te ? La Florida, un casse-cro?te au d?cor pas ordinaire ; il se laisse ensuite emporter par l'ambiance festive et les saveurs mexicaines du Snack-bar chez M?lo, ? St-Mathieu-du-Parc.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IkxmUzJ3WGwzTjhEZ2dPTUh6Yloycnc9PSIsInZhbHVlIjoiekhFXC9oU0FaKyt0SXBrMHNRODdoTENPbjVZVm1sT0FWbllMa3RNOUVheElOQjNMWHZ0UERjbmI3SFhja2RpdklBOGhFb3ZGblpQU0pOQkozVVdDZnJxNmczalhBVE0zYW1PTlk2OXlYMStjPSIsIm1hYyI6IjAxZDRiOGYzMzI5MTlmMjA5MTRlZDhkOTc3M2E4OTg3OWU5NTM0ZDVjMzA1OGY5MmNkYjRmY2YyN2U4ZmZiZTIifQ%3D%3D&amp;signature=5383b49fc1f229231ce586732743dd94e5afed4cc521a60042c03e43f7a4e635</image>
+    <start>03:30PM</start>
+    <finish>04:30PM</finish>
+    <date>12 September 2026</date>
+  </channel>
+  <channel>
+    <name>TVA CA</name>
+    <id>TVA.ca</id>
+    <title>L'acad?mie du guide de l'auto: formule Grand Prix</title>
+    <desc>Le rire est au rendez-vous avec l'animateur S?bastien Diaz et le musicien Jean-Fran?ois Breau, qui s'affrontent en piste ? bord du Cybertruck de Location Paramount, pr?sent? par notre chroniqueur automobile vedette Antoine Joubert; puis, place ? l'aventure avec Rosalie Bonenfant, qui vous entra?ne dans un voyage en ?thiopie, premier pays au monde ? interdire l'importation de v?hicules ? essence et diesel; sa grande question: un futur sans p?trole est-il r?alisable en Afrique?</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6InFrZjZTZXZMelN2U1RQaG9JN0xPK2c9PSIsInZhbHVlIjoiQ1FJMFwvU3h6ZHNIVkZJVXRmSHFIZE5Neng3RW5iRlY2eXBjRVRJUU1MejFPZGJneTJ3dEI5TjJSWU1tOVR5ckh0a3RLNUpRcFlUeDNjOW1ZZ1hubkJDSU9lM2FDa1RiRk13NzJcL1liUW4rMk5qQVA2Mjd1VjB5clg2MDUyWjFGUCIsIm1hYyI6ImQ0ZDRlM2NlMjUyNmYxNDYxMWJkNmI0MzYwYTQ3ZTQ4YTExOGM2OWYwNmRhNTJhMmE3YTE2NWRkM2Y0YWViOWMifQ%3D%3D&amp;signature=ca3d2043fd5d6508852c13c3961060cfa39bcf67f982602eabd89ce781c99636</image>
+    <start>04:30PM</start>
+    <finish>05:00PM</finish>
+    <date>12 September 2026</date>
+  </channel>
+  <channel>
+    <name>TVA CA</name>
+    <id>TVA.ca</id>
+    <title>TVA Nouvelles</title>
+    <desc>On pr?sente l'actualit? de derni?re heure en temps r?el, les nouvelles r?gionales, internationales et ?conomiques, et plus encore. En provenance de Montr?al pour les stations des march?s de l'ouest du Qu?bec (Gatineau, Ottawa, Sherbrooke, Trois-Rivi?res et Rouyn-Noranda) et de Qu?bec pour les stations de l'est du Qu?bec (Rimouski, Rivi?re-du-Loup, Carleton sur Mer et Saguenay). On couvre toute l'actualit? qu?b?coise.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IkNnb1dmTlZ5alhDQ2NpdTVSQ1JtY1E9PSIsInZhbHVlIjoiVUFQUlZGU2dINDFBazBcLzZvQjM1TnoxVWx6c1U0dE1ReDN0aFJcL2tvcVYydzdnY0lQTHhkQnJIUUNNUzZOV01kQlpjQWoxaUlXRWJJbFltQ0duMzAzZHl0MXhyOEc3bU9tblFiakxJSWR2RT0iLCJtYWMiOiJiMjYzNDQxZjJmYzc4NzRmMjRiYzkyZmQ0YWUzYjQ1NDY0M2U0NTlkNzU3ZTNlOWY5MGFmZWZlNjAxNjU0YzE4In0%3D&amp;signature=f3205200d1651aeeed00b26d178320c9bc6955d158b1c23362c2c10606cdc28a</image>
+    <start>05:00PM</start>
+    <finish>05:30PM</finish>
+    <date>12 September 2026</date>
+  </channel>
+  <channel>
+    <name>TVA CA</name>
+    <id>TVA.ca</id>
+    <title>Infopublicit?</title>
+    <desc>Ceci est une ?mission publicitaire pay?e.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6InJ2NWl4dnZLVERQK25GQkI5MlFIQXc9PSIsInZhbHVlIjoiQXB3eU1mRlZvSjNPT0gxRmVhYkRzdmhPaENKN0xmVXUyVlEwdXpSU1NjVzhwQXN3ZUxVdEJjd1MyVzg1OG5PbVkyVGRjaGE0Zm83dThmVzBtSjJkbExBSktDbU43S09RXC92dXExazRTUHJFPSIsIm1hYyI6Ijg3NjBmMjliMTJmYjkzNGI0NmIzMzA0ZGViY2UxMzNhOWFhMjQ0MjQwYWNjNmY1MjllZDhkMWMzYTZjOTRiNDYifQ%3D%3D&amp;signature=0963d6a1d2fa91bb3d2d4f20bed9b8c548b90a304989ed7f7945a5ad612a3c29</image>
+    <start>05:30PM</start>
+    <finish>06:00PM</finish>
+    <date>12 September 2026</date>
+  </channel>
+  <channel>
+    <name>TVA CA</name>
+    <id>TVA.ca</id>
+    <title>Infopublicit?</title>
+    <desc>Ceci est une ?mission publicitaire pay?e.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6Im9neFY0S0hCNXkzc2JNbVo2NXNTbnc9PSIsInZhbHVlIjoiRlEyZDByS1R2MXF6UEMyY2QrV1pQbFwvODlIeUFNVDRcL1YxSXZuZmVmZlAzMnUrZm1tYThuRjhJY2VzY0paY2hPUUJNdTRWR21QZTRzV3NtSXZaa2c3UzFTTjlPYTlTS3FCcFNcL0tRZ3JnbTA9IiwibWFjIjoiYTIxMmVmZGZmYmRkMTRmZDgxNmY5Y2JjNjIzZWQxYTFkMGI1MmJjOTEyZDQzYWQ4YjEzZGVhMmNmZDg4MmZlNCJ9&amp;signature=fd2fba10ea0d8c8bc1a3785076ba6329bd74575063db94ca4f6f09d35a8a9518</image>
+    <start>06:00PM</start>
+    <finish>06:30PM</finish>
+    <date>12 September 2026</date>
+  </channel>
+  <channel>
+    <name>TVA CA</name>
+    <id>TVA.ca</id>
+    <title>Les aventures de Tom &amp; Jerry</title>
+    <desc>Toujours en train de comploter l'un contre l'autre, Tom et Jerry sont ? la hauteur de leurs ?bats habituels. Le chat et la souris font des farces, des blagues et partent en escapades tout autour du globe.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6InM0SUZIb0JYckJ3WUMrOWxLUWNqVGc9PSIsInZhbHVlIjoiRlY5TGNPRDR3SHdVcis1UkYxZGdVYWd4RUlyUHRGT3M2bmx5UjIyZ1VwSlZvNGl6d3NNZmQ4WXQ4UWoySkw0RGVzR0x5XC8zeXVZbEZwTGU5eDN4d29waXpJdU85akFhNW9iSzd0MWR3Y01nPSIsIm1hYyI6IjFmYTA4ZjRlNWIxNzRhYmU1ZDdmOTIzMWIzMzZhZmQyMmFmMjYyNDgwMGZmOWIxZjMwOTE2ODZiYmQ1MTlkNWMifQ%3D%3D&amp;signature=d4b4b8682e638f7c2578a99d4983c6df537f1e45cc91b0ec7f3bc79e1cb7993f</image>
+    <start>06:30PM</start>
+    <finish>06:45PM</finish>
+    <date>12 September 2026</date>
+  </channel>
+  <channel>
+    <name>TVA CA</name>
+    <id>TVA.ca</id>
+    <title>Mes vies de chien</title>
+    <desc>Petit chiot sauvage, Bailey doit d'abord apprendre ? faire confiance aux humains. Il rencontre Ethan, un jeune gar?on qui va devenir le ma?tre qu'il aimera plus que tout. Bailey se r?incarne en b?tard, golden retriever, berger allemand, labrador; il est chien de compagnie, puis chien de sauvetage. Au cours de chacune de ses vies, il va tout faire pour retrouver son ma?tre ador?.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6Ik1EXC9SK2VyNnVpdEZJVzFXTkE2RE9BPT0iLCJ2YWx1ZSI6IkVJR09yQlZTd2FNa3Fkc1hac1JxS1lrSWxwbGttVlNPUkI0NXZVUDl5MlVZbVBtRjJxMFNWR3BaT1Y5bWMrdEU4YTNhaVpJeWY1MmdjdE9id3VMQmJPYjFXcFM3b0x1Q1g2TFlPekZ5Y05Tb05xZ1JGeFpLdDcrNlRReWM4UmtDIiwibWFjIjoiNTMwZWVmNTkyYjU2MmI1ZmY4YjQ2YTlmN2MwNmVjY2RhMmE0MTI1MTM0MWU5NGUzY2ZjOWRlYTc2M2E3YThiNiJ9&amp;signature=5575251e9e821984574ce0cc0dc86b20137f413360aaf62f2aa77e7b3bc1d56f</image>
+    <start>06:45PM</start>
+    <finish>08:45PM</finish>
+    <date>12 September 2026</date>
+  </channel>
+  <channel>
+    <name>TVA CA</name>
+    <id>TVA.ca</id>
+    <title>Les chevaliers de Shanghai</title>
+    <desc>Venu ? Londres pour retrouver le meurtrier de son p?re, un expert (Jackie Chan) en arts martiaux apprend que celui qu'il cherche est un membre de la famille royale.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6Ikw1NHJjREhpaW5CRjYxeGVyTUFlSVE9PSIsInZhbHVlIjoiNmNsY1hiYk5GcVhZXC93Zm9EV1dCV25yNFFlYkQwcTRXQ1Ezc2ZrSWtBeXowVmh4cmFYdEJydmdcL0p6VlZ2REZ5XC9hblBld2VWUEwyZHZSMHprNEZ2MXB3S0xqZGdnXC9oZktweFJENlhcL1BjST0iLCJtYWMiOiI5MDFlOGQ4YjgwMWJkZDVjMzIwNjk4YWZlZTFmMzcyMTZkODcyMDZhMGY4YzFjZDVmY2QxNzQ5ZjBjY2U1Yzc1In0%3D&amp;signature=46c74e5e46bff92e9e0f0c361bca7b9f52f86790b77cee07c7a6547908f3cbac</image>
+    <start>08:45PM</start>
+    <finish>11:00PM</finish>
+    <date>12 September 2026</date>
+  </channel>
+  <channel>
+    <name>TVA CA</name>
+    <id>TVA.ca</id>
+    <title>TVA Nouvelles</title>
+    <desc>On pr?sente l'actualit? de derni?re heure en temps r?el, les nouvelles r?gionales, internationales et ?conomiques, et plus encore. En provenance de Montr?al pour les stations des march?s de l'ouest du Qu?bec (Gatineau, Ottawa, Sherbrooke, Trois-Rivi?res et Rouyn-Noranda) et de Qu?bec pour les stations de l'est du Qu?bec (Rimouski, Rivi?re-du-Loup, Carleton sur Mer et Saguenay). On couvre toute l'actualit? qu?b?coise.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IkZcL29TRlwvcTVtdnRGZ3krQVZqcWc2UT09IiwidmFsdWUiOiJMcExYTWcrNnQ0RjdBd1k4Rlh0SDhyMEVSWGp2NkptTTdwOVpCVU5rNW5iak1zOE93OGptSEdGUUNrc2hLdk9PM2NmSiswZnhyc0piWFRRQ3VnSUtXTSs3ZW92YjJua0lXZDZnY1ZtbVZJWT0iLCJtYWMiOiJhMGNhYzJiOGMyYmUwZGEzZjY5OWI0NDY1YmJjMDEwZjg4NmE4NWZjY2VlNDQzYjg0Njg4ZWE3ZGI0NzNkZDc4In0%3D&amp;signature=1e1c9e0ac5a3223e58ce3c12c314d24c78dbc59a20e4e86b02160bca446c0b81</image>
+    <start>11:00PM</start>
+    <finish>11:30PM</finish>
+    <date>12 September 2026</date>
+  </channel>
+  <channel>
+    <name>TVA CA</name>
+    <id>TVA.ca</id>
+    <title>Les Fabelman</title>
+    <desc>Le jeune Sammy Fabelman tombe amoureux du cin?ma apr?s que ses parents l'ont emmen? voir The Greatest Show on Earth. Arm? d'une cam?ra, Sammy commence ? faire ses propres films ? la maison, pour le plus grand plaisir de sa m?re qui le soutient.[(96057)] </desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IjBPekFwcmt4eWROU3JIb2NyNWs4bXc9PSIsInZhbHVlIjoiOExWanB1ZDQwN0dlblBJMGdDbzM4dmNNemRDTFYwR09tNENtWjNBcm5cLzZ0b25WSTRINHY2SXY0VmFJclU1M1lGM2JLcFdXZWpNZ25FMWtIQjRQMG9DMHkzc2NobG5tQWFXZkpUM0dOTkdRPSIsIm1hYyI6ImMzYjhjZTk4OTZmNjQzZGRiMTQzMGU2YzJlYjdhZGFjMjQ3NzIzYmM3ZjZiM2E2Yzc2ZjE5Njc3M2Y0ZjI3NmEifQ%3D%3D&amp;signature=333ccb7c38c1882f66b765cd504f1b885ec26444295dca87128fd9d2d8c12176</image>
+    <start>11:30PM</start>
+    <finish>02:30AM</finish>
+    <date>12 September 2026</date>
+  </channel>
+</tv>
