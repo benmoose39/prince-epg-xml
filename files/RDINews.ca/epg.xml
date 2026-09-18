@@ -1,2 +1,1593 @@
 <?xml version="1.0" ?>
-<tv/>
+<tv>
+  <channel>
+    <name>RDI News CA</name>
+    <id>RDINews.ca</id>
+    <title>Live: D'abord l'info</title>
+    <desc>Toutes les informations essentielles pour commencer la journ?e : les derni?res nouvelles, les sports et la m?t?o.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6Imh1Q1lJdUFpazg1Qzh0M0FvbytWY3c9PSIsInZhbHVlIjoiN2ZjNmt2RVwveHM1NHNmalwvcmtcL3MwNmVwUk9ETmF2ZzlLWGExNjFoblR2bXo4V2dhR2pEcEVvdjE1aUpyM2Z5V1l4clNVRHFKQVpTU05pRWw4eGg4elFQTWEzR1FtQjFIS3pJWDhKZE1uOGpsN0NVcUhHTUMycTk3TkZxZ05zSm4iLCJtYWMiOiI4ZWNlZTM1MjE3ZDIzMjQyYTk3NTM0YzRlZDUxYWNhOTE0ODI0OTIyYzkyNzk4NGVlMzY5YzNmNDAyYTExMWZiIn0%3D&amp;signature=3c3acadff15cefc67285ecf4772ce99cdc47cdeb0ab68af692d102b0150ae20d</image>
+    <start>11:00AM</start>
+    <finish>02:00PM</finish>
+    <date>18 September 2026</date>
+  </channel>
+  <channel>
+    <name>RDI News CA</name>
+    <id>RDINews.ca</id>
+    <title>Live: L'agenda</title>
+    <desc>Un regard sur ce qu'on attend de la journ?e politique qui commence avec des commentatrices et commentateurs aguerris.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6Ijkxc0V0NnZSbkxOVDZMY0ZrYm5hdVE9PSIsInZhbHVlIjoiRmt3Q3FWZjhKZ1NwK0dxT3hUb3hEXC9VWWVEMEtlS2NBQms0bGR0NkprQUx1dW5MTGtOSEpBMDM3K1wvUElzWVwvbDV5NklvZXUrcHZRU215TXRmMlVQbWxZdjZOckdFXC9uQjhzMnhYc2xEamtjPSIsIm1hYyI6IjEyMTdkMjc5YjQzNDU5MjEzYTdkY2FkOTE0ODVmODVkMmNmZDNhOWVlNjU3NDU0YzgxNDAxNDA4MDljM2RiYjIifQ%3D%3D&amp;signature=dd6f1f051b8ad61b1944f1384f84233b8fb1258d1dc989a3d1db802ab7cda179</image>
+    <start>02:00PM</start>
+    <finish>02:30PM</finish>
+    <date>18 September 2026</date>
+  </channel>
+  <channel>
+    <name>RDI News CA</name>
+    <id>RDINews.ca</id>
+    <title>Live: L'info maintenant</title>
+    <desc>Les nouvelles qui marquent l'actualit? au pays et ailleurs dans le monde.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6InRYdVZ4OVVVTUFSeVBudDdacnl0UGc9PSIsInZhbHVlIjoiVzR0QnlEak05blRaY0hIY2dVNkprXC82NnRDNUdOQkVoUjg2ellFYTdjSG1keW16YWF1Q2pEVis3VFg0U1hpcDlcLzdLbEswTW1NcFwvczlRYkprNkxoWmJPcFdrbytzN09Wa0hIYzl0RWtBaDg9IiwibWFjIjoiYTNjN2YwM2ZjYWZlZWY0ZjQ0ZmYxY2ZkNTFjOTdmYzZhNDJkNDBiOTc3ZjM0YWNkYWRmYTk3NGQwMDNlOGExYSJ9&amp;signature=64121c8bcec4f2f949428f7bfdc4c4831387d6267bbc14a326627804c01699d6</image>
+    <start>02:30PM</start>
+    <finish>05:00PM</finish>
+    <date>18 September 2026</date>
+  </channel>
+  <channel>
+    <name>RDI News CA</name>
+    <id>RDINews.ca</id>
+    <title>Live: Le t?l?journal midi</title>
+    <desc>Le point sur l'actualit? avec les journalistes sur le terrain, au pays et ailleurs dans le monde.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IjhOb2RTTkJjQURvajdoUXhBXC9iNHlBPT0iLCJ2YWx1ZSI6IlJNN1JJNGVQK0Z2Y1VtTE16SUNRRkxqR3piK3N0akIxUWJrV29VYWxoTmhGWVwvMTRUMzRGTmUwRWwzYngraCt3TmFQb2hwWGljUmRpazVpMUhZak1LNWpnTDNjWFVYRWlrK09oRFVcL2VXY1NXTWdZdUtSRzJsZU1PQUxiTmhGUHAiLCJtYWMiOiIwM2U3N2RiOTNkNWZjMDhhZjhhOTg1MGFmOTZlOGU2MTUwZTU2MzgzNjM0NmZkMjQyMzg3YWYxZGZlMzE4MWI3In0%3D&amp;signature=e2e43874927a70613144c6deabe7d245a9a6cf073b5f118ed1c5e30496ac39be</image>
+    <start>05:00PM</start>
+    <finish>05:30PM</finish>
+    <date>18 September 2026</date>
+  </channel>
+  <channel>
+    <name>RDI News CA</name>
+    <id>RDINews.ca</id>
+    <title>Live: La parole aux mordus de politique</title>
+    <desc>Des sp?cialistes r?pondent aux questions des t?l?spectateurs sur un sujet d'actualit? qui retient l'attention.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6Imp4WVloalNpa1ZXT0NydWNRTmcwVUE9PSIsInZhbHVlIjoielhBOTBYK3RNTDV3MlNLVWJJdnJITnJUZHdWNTR4TDhUZnVhR1RhUVVWVWI4S1VKMnRxRnkxaERQanVpNDFtaHpxR2xDUm9ZajBUa25mYTVLMjdhVmJ3Q1l4R1E1SGhNb09sUHFiZGQzenc9IiwibWFjIjoiODhjYTUwMTdjNjg1ZTJmNzI5NzgxZWQ1OTVjZTNkZWVmYjdlYTgzNDA5ZGU0MjA0NDQ1NzNiZThiYmM2NWUxYiJ9&amp;signature=3a4693ce223ccfd9a4c307143dc32d2cc796d69e6ada6bd54c0f5b0299be4a21</image>
+    <start>05:30PM</start>
+    <finish>06:58PM</finish>
+    <date>18 September 2026</date>
+  </channel>
+  <channel>
+    <name>RDI News CA</name>
+    <id>RDINews.ca</id>
+    <title>Live: Zone info avec G?rald Fillion</title>
+    <desc>Discussions et commentaires sur les sujets chauds du jour tout en suivant l'actualit? en d?veloppement.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6InppN2NjeWRrcVFXNnRoUG1xSStleEE9PSIsInZhbHVlIjoiZHJNRVl0VFUrd3A0Mjc2SU9mTUFZXC9BcTgyQ2F2NE1MKzV0c3VUZEx2RGZEVEs0VG41dGdnRjB3azNZYXZWUGZqOVNpc0t2cFhrc3FwK2tyc09XVWxOTnd3aHM2cVhmN3ZZZkxJOG02U0tqQzBJVnpiSTROMlhFbmZVcGtZaWZ3IiwibWFjIjoiNDUzM2Q2ZTdjNGEzYmQ5NWQ2Y2Y2ZjY5MGYyMzdhMTlmOGM1OTNjMmZiYTQ0NGY5NjgyMDAxYmE0YmQzZWExOCJ9&amp;signature=838a9d1c0329f521a1d681e63b174377a4f24a6a4262c6a0f120800d70c92ad9</image>
+    <start>06:58PM</start>
+    <finish>08:59PM</finish>
+    <date>18 September 2026</date>
+  </channel>
+  <channel>
+    <name>RDI News CA</name>
+    <id>RDINews.ca</id>
+    <title>Live: Sur le terrain</title>
+    <desc>En direct sur ce qui se passe en ce moment ? Washington et ailleurs dans le monde.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IjZJUW9YYVp5eWwxbjQ1bFwvMHJqNEhRPT0iLCJ2YWx1ZSI6IkhYSmRZQmFUZnBiSTNxNWpROTBKV05jSlc1WEtsNHFCdnBzXC9TSHRZeFVWNDFsZ2lUZ2dNbG5UYXZDWGV5dzZoRSswejZVeFN3elpsRG5jMWIyQU9wdWh6cm5xRkJhXC9xMys3Y3NpdzhjbjQ9IiwibWFjIjoiYTQ5NzY0NzYxN2RhZjk2MzAxZDliNGEzNGFiNWMwNmI4NzJlODY3MzVmYzY0OGJjN2RlMTJiZDUyNzFlYTdmZSJ9&amp;signature=e7d940b5dde581fe51c24c168089446bd53b8cdee9e7a55989928f85db101597</image>
+    <start>08:59PM</start>
+    <finish>09:57PM</finish>
+    <date>18 September 2026</date>
+  </channel>
+  <channel>
+    <name>RDI News CA</name>
+    <id>RDINews.ca</id>
+    <title>Live: En direct avec S?bastien Bovet</title>
+    <desc>Le point sur les grandes nouvelles de la journ?e et les enjeux qui touchent les citoyens avec reportages et entrevues.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6InNkTnZZN1YweDBKV2t1MlBzc2U5ckE9PSIsInZhbHVlIjoiOU9XUmNkUHF0ZUpsSDRqY0tTNFBuNFdEQ2Y2RFhrNTNVcFplaHdLZmYyY2s0WFRiT0MrMWt4dFwvYm9mR3BhN2xkbTVScEI2NkJNeTZBUnJMN001Z2x2VFdFb21DdWg1VFBuNEpnUFZLU0VTdE9TbEZQTzlRTjdvNkdpZmxQR3hEIiwibWFjIjoiOTU5MWFkMzZlZjcwNTExZmYzOGFlZDg5NTdkMzc4YjlmMGNhZGE2MTdmMmNjZDNjZjhmMzg2N2MyZWJjZjcwZiJ9&amp;signature=b308022c22728db2b429a77ddafe603aad4ae6d4ce0cbf32abe00a5574711959</image>
+    <start>09:57PM</start>
+    <finish>10:55PM</finish>
+    <date>18 September 2026</date>
+  </channel>
+  <channel>
+    <name>RDI News CA</name>
+    <id>RDINews.ca</id>
+    <title>Live: Zone ?conomie</title>
+    <desc>Comprendre les petits et grands enjeux ?conomiques : des finances publiques, au march? de l'emploi et ? l'?volution de la bourse.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IisxaTJNVWJTcjd2bTNnZTdlOHA0aFE9PSIsInZhbHVlIjoiTWYrSndGVVV3dGNUMzJaOVA5bytsNCtNWkFzMlI4OFFlZHpOcDJVYkRab1lVRDRiQndPQXVhS0xwWnBpYm5FUWlKTkZJYTZ3WTFQb3ExWmFhVXZMSEgyeCs1WUJrWDRGNnJLcUYyRjhhSkZIMFJqV3REQk5WaUx6VHJOWWxmaksiLCJtYWMiOiJjYzQ1ZTAzY2EwYTBmNDVlMzk5Yzc2YjYyNTZkODljOWRmMjMwNzg0ODRiZWQxNTRmYTkzYTQzMjgxOTA3ZDg5In0%3D&amp;signature=b0e000c2328deff7b3333d5a487489c1ee2f3e491a0a107498ae2f8ed97ba6fd</image>
+    <start>10:55PM</start>
+    <finish>12:00AM</finish>
+    <date>18 September 2026</date>
+  </channel>
+  <channel>
+    <name>RDI News CA</name>
+    <id>RDINews.ca</id>
+    <title>Live: 24/60</title>
+    <desc>Comprendre les ?v?nements de la journ?e, tant en politique nationale et internationale qu'en culture, environnement et soci?t?.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6ImpIb0RIVUlSKzFoNTkydHhUUmdLSkE9PSIsInZhbHVlIjoibFlQTXpSK29GVlFmcWsrZlBDcFg0dEVXNjZGYkVSUEdBRWlGMDhkM2ZVZEFuaDdxUVFlTWpRRzBrSDFVMlBpM2E0T281c0tZb2xlRk1DM2VpbFR3ajlvakN4UEhVTWRXdnFJNDJRZWFNam1WV2szTGFFZWdCSk9zQm1nY1dBcTgiLCJtYWMiOiJmZmM4NGNhODllNzU4ZTNkMGFkNWQ1ODlhMzlkNGE1YzNlZWUyYWYzNmE4OTRlZGUwMTMzODI5MTg0ZmRiMDNhIn0%3D&amp;signature=e8228cff22e8f49b2aacb4fdaa0e349850c5c82805f65f6b553ba04842a0089f</image>
+    <start>12:00AM</start>
+    <finish>01:00AM</finish>
+    <date>19 September 2026</date>
+  </channel>
+  <channel>
+    <name>RDI News CA</name>
+    <id>RDINews.ca</id>
+    <title>Les grands reportages</title>
+    <desc>On arr?te Ellena Baxter et Luke D'Wit, sur qui p?sent les soup?ons du double meurtre. Si Ellena est rapidement lib?r?e, Luke reste incarc?r?, car on trouve ? son domicile une grosse quantit? de fentanyl.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IjU1MFlPY1FMOUxnMDZGOEh0OUJEZFE9PSIsInZhbHVlIjoiNnY4OVRuNGlZcGRkeE9qTm1xOTU4MFBTMlN4bmFLZ0lIWGNTSjEwOW1UNlJFV2hMN0VxUlNuNUJndkVXR2RcL1d1NzN6SVwvSnlrZnVcLzZkbEFmTFRZOUd2SlwvaVpGNHNITTUycWhJaDlsWm1FPSIsIm1hYyI6IjRkMmExMDVlY2E4ZWY1MmYxMmQxYWFjOGY3ZDViNzY0YjBjNDE0NTJlMTM3YWFiYjUzODc0MWQ2NDczZDVhOWQifQ%3D%3D&amp;signature=a99fef7cc6edfb8487b19bb67a3a8b15e2dcbc2c133014b5a50153840dcdc881</image>
+    <start>01:00AM</start>
+    <finish>02:00AM</finish>
+    <date>19 September 2026</date>
+  </channel>
+  <channel>
+    <name>RDI News CA</name>
+    <id>RDINews.ca</id>
+    <title>Live: Le t?l?journal avec Claudine Bourbonnais</title>
+    <desc>Un regard approfondi sur les sujets de l'heure, au pays comme ? l'international, et sur les grands enjeux auxquels la soci?t? est confront?e.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6Im5IajE4Mndkb0J3S1Fyd3Z3NnhISlE9PSIsInZhbHVlIjoiQks3VUhDRFJUdWZRZXo0elBrZ2NGRlNJSzZsTitMY1RMM1d3Z3dzNkRpU0p4SzhDV2lUVFk4bzlqNzcyeWxOUmQ1bUFaUUpTUlY1WDdzWjBxc0p6djBQbFJLVmNHZVMrVGwwKzVWSWJkYkE9IiwibWFjIjoiNjBlNzE4MjljYWQ4Y2VlOTc1MDMzY2U5MzdkZDMxODE0MzVkYWM0NTQ1YzE4MzhiOWE4MzBlYWJjMThjMzI5OCJ9&amp;signature=658f7214f91cbb1dcca5224e3244009a257f65a49a130a3a7939d005420b35b7</image>
+    <start>02:00AM</start>
+    <finish>03:00AM</finish>
+    <date>19 September 2026</date>
+  </channel>
+  <channel>
+    <name>RDI News CA</name>
+    <id>RDINews.ca</id>
+    <title>Live: Le t?l?journal avec Claudine Bourbonnais</title>
+    <desc>Un regard approfondi sur les sujets de l'heure, au pays comme ? l'international, et sur les grands enjeux auxquels la soci?t? est confront?e.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IldjcW1rRnZLQ3hqeWpqT241b2drM1E9PSIsInZhbHVlIjoiTldGbmJhSWczakdPTTc3dFJ0NzRhOFVwbStoOTZvY2VcL0dTd0J2UVJ1Uk9BRkJja1FHcHpkQ0oyNjQ4UVpSZE84U2VyRUs4WHc3ZHRLeXJudGR2dW5pTHkyZ1JRU2xUcURVRkVuTzFES1FzPSIsIm1hYyI6ImQ1YmU2ZWQyYTM2ZDAyZmQ5ODU0ZmM2OGY5Y2Y2MThjYTBiY2Y0YThmMzFjN2ZlZTk1M2Q4NWMzZTdlZjA4NjQifQ%3D%3D&amp;signature=d5dabf5b30cae3725d5252d2d86b32912fe005e85bf528f933c7b31a8ed196fc</image>
+    <start>03:00AM</start>
+    <finish>04:00AM</finish>
+    <date>19 September 2026</date>
+  </channel>
+  <channel>
+    <name>RDI News CA</name>
+    <id>RDINews.ca</id>
+    <title>Live: Le national</title>
+    <desc>Un tour d'horizon des dossiers qui retiennent l'attention dans toutes les r?gions du pays.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IjA1NHlMenRwVVdSSjN5czJUUEc3U3c9PSIsInZhbHVlIjoiM0pkdERyVXA4V2JrN2MwU00wVTlJQ1hoaGY1QTNiT2RabEExSkpYQ0xkaXFHWVU5UEJFQ2orc1M2K2YwWWZcL1ZLeDc2SGVnVTNOdE9wYllGNnFIaThxMGdMdTBFSEFKUE9GREdpc3I5Vkh3PSIsIm1hYyI6IjVkMDhmNzA2NWRlYzhjMDA1YmQyMjFlNmZmMDBmYzM3ZWQ2MjY4OGNiNzM2YTMxNjQ4ZWJjNDNkOGRiZGUzM2MifQ%3D%3D&amp;signature=82efade94d27a2a24486ae71a0b6f696763ce30363bf70ea772f8bff494dc554</image>
+    <start>04:00AM</start>
+    <finish>04:30AM</finish>
+    <date>19 September 2026</date>
+  </channel>
+  <channel>
+    <name>RDI News CA</name>
+    <id>RDINews.ca</id>
+    <title>Live: Le national</title>
+    <desc>Un tour d'horizon des dossiers qui retiennent l'attention dans toutes les r?gions du pays.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IlFtRlFRYjBcL1prWm4ydkVtQmE4OG9BPT0iLCJ2YWx1ZSI6IllGaVdzZHpYR2hwS1BmN3BsRFpzQjdMUzRRTVlqRTBPYTVjTHRpVkp6SDArKzl3MVRlT0JxMVJmVE5tUnZMS2drYzZWREhqdDR4RzFrUjFCQmxCdzhybWRZNk1JQk5LSGViMzZ1cFpWZGNnPSIsIm1hYyI6IjRkNmNmZThhNTJhYTc0NjQ0YTYzNTc0YTQ4YTFkNjZmYzZjZjU5MzUxZmQ1MThlMmYzMWNlNDgzNWQzNmZkMjAifQ%3D%3D&amp;signature=fe31dc1afdcc04d9a17ad1d5188714f873b5da12d70e841b4fc7ab33482fa1ba</image>
+    <start>04:30AM</start>
+    <finish>05:00AM</finish>
+    <date>19 September 2026</date>
+  </channel>
+  <channel>
+    <name>RDI News CA</name>
+    <id>RDINews.ca</id>
+    <title>Live: 24/60</title>
+    <desc>Comprendre les ?v?nements de la journ?e, tant en politique nationale et internationale qu'en culture, environnement et soci?t?.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6Imc5TE9pUVwvTHlRcG1mWkc4TlliV0JBPT0iLCJ2YWx1ZSI6InoyTGpiSEZNQ2ZKbXF2TFg5N1ZIV0pyNURzeDNMSElTVElzWEU0ZE1Cdmllb0U2NTVcL1BwMFwvSFdVS2xOTUtrXC9GVzlMM2tydWYraTdkenVkVHo3UUQ1TzNxc0ttVnc3VjJwVnBiQUNReWNXVFwvZnhoRHdXbzhcL3pYNzNrNlhUeHciLCJtYWMiOiI5ZTcyMDE3ODcxM2Q2YzdmNThhNjliM2EzMjFlNGJjYmE4NWNmOWRiNTdhNWE2YTM3MjJjYzJjNDVjODYyNmIzIn0%3D&amp;signature=70d3fc43ef34fdab5a39723eff0cd034194c193bbd21e13e00c92ac35f0e48c9</image>
+    <start>05:00AM</start>
+    <finish>06:00AM</finish>
+    <date>19 September 2026</date>
+  </channel>
+  <channel>
+    <name>RDI News CA</name>
+    <id>RDINews.ca</id>
+    <title>Le t?l?journal 18h30</title>
+    <desc>Un rendez-vous d'information qui approfondit les enjeux d'actualit? qui touchent les francophones d'un oc?an ? l'autre et refl?te les r?alit?s des r?gions du pays tout en posant un regard sur le monde.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IlFzb0txZndDclk1dHRPZ09oY0NKUXc9PSIsInZhbHVlIjoiXC8rWWhIb3ViWDVuWlRVTVFYXC9XOXVmZXJWUmxYWFFWK3Uya2JBUWJqQW1vcXgzdXdKTzNVQkFnNGVlVHFvN3NDSlorZWZCUGJxWWdDWWFCQ0kxbDZoTE1XeGo1MDl1a25oa3VTWitFMGlJdz0iLCJtYWMiOiJiNTM4Y2U2YzFjYTk4MmJlYzIxODI4Mzg3NWE0Mzg1N2ZhMDZmMGM4Yjg2NTRmOThjY2FkZmEwMTIxOGYyZDBmIn0%3D&amp;signature=4a411a6b05675c1226ac5b1f507a68b329e4eeee4c545120c8872043ef3220a5</image>
+    <start>06:00AM</start>
+    <finish>06:30AM</finish>
+    <date>19 September 2026</date>
+  </channel>
+  <channel>
+    <name>RDI News CA</name>
+    <id>RDINews.ca</id>
+    <title>Les grands reportages</title>
+    <desc>On arr?te Ellena Baxter et Luke D'Wit, sur qui p?sent les soup?ons du double meurtre. Si Ellena est rapidement lib?r?e, Luke reste incarc?r?, car on trouve ? son domicile une grosse quantit? de fentanyl.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6ImRJNm9wRVI2RjJYaUhKa1BKUVhhdlE9PSIsInZhbHVlIjoieHhJU0ZybHhKM3lxTGQyNUY3eFZidklyb0xlQzRLV3hQRDhyQklMVHN2TGxSeVwvUThzemNFOFAyeVFIcUZ1enZtZVRoRUtFMDZVVStVWXhSYmxvSjNUSE01Z0hWVXgxK3ZLV0Y2M1VnR2VvPSIsIm1hYyI6ImNmZDQ0Zjg0M2ZkMjZkMTEyMmQzNjcyOWJmOWRlZGRmMjViODFlY2EzNjU5YTRlODc5N2I3NjhlOGFlYzAxOGQifQ%3D%3D&amp;signature=939fb7755049705ed105c475ce3f367b0401c5000440d3256471514442dd4f15</image>
+    <start>06:30AM</start>
+    <finish>07:30AM</finish>
+    <date>19 September 2026</date>
+  </channel>
+  <channel>
+    <name>RDI News CA</name>
+    <id>RDINews.ca</id>
+    <title>Le t?l?journal avec Claudine Bourbonnais</title>
+    <desc>Un regard approfondi sur les sujets de l'heure, au pays comme ? l'international, et sur les grands enjeux auxquels la soci?t? est confront?e.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6ImpkZDdoTTFMTXNJMWhpc0JiODRpZ1E9PSIsInZhbHVlIjoiN2NqOGZOSjY1d0J4T1REeFF2V3hLRWVETmZGR0RkaHNUY1wvMm9aRlhWaW9HK0thbFdcLzFrak5LK1c0U3Z3N1RQdThCaEluSW1MZHRBU05hMjZPeU9HZER4WjF3czFMbUtxTnA2UHVQWlRiZz0iLCJtYWMiOiIxYWQ2NzU2MGMyZjMwYmE2ZmZmZjNjYTkwNzZjZmVkZjViZmJmYzAyNTBlNTM5ZTc2MzMyZWU2YTI4ODBkZmM1In0%3D&amp;signature=86c60f1086962c8375ce90975270a55d83f468a436d15e8da2705cc6d6ffdd9a</image>
+    <start>07:30AM</start>
+    <finish>08:30AM</finish>
+    <date>19 September 2026</date>
+  </channel>
+  <channel>
+    <name>RDI News CA</name>
+    <id>RDINews.ca</id>
+    <title>Le national</title>
+    <desc>Un tour d'horizon des dossiers qui retiennent l'attention dans toutes les r?gions du pays.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IkhONkZVY2NiYnZ5aklRVDR4RXhzTHc9PSIsInZhbHVlIjoiZFwvTEcwYXJsK2poNHBKWDJIXC9IQ21FUVY0d0sxbjFLZFFURkc0VWo3bDlrSCttWXdJYlp1TFJHMjZpdWhrdmRMaGZZM1htZkpTbDJcL3FGRkhycEJMM0NLQzdPbFN3U2QrYWVPSnJiZDdLK3c9IiwibWFjIjoiMjQ3NzUyYmE4YzczMWRiZDQwNTUyNGNkN2M1NzdkOGI5YTQ1NWUzOWQzYzAwYTNmZDMwMDY5MDk0YjgyODgzNiJ9&amp;signature=3f1a8bd8a6f3294a7a8b91dea1950d6be8bb491e841a45e6d4297ecbd5cf5b7a</image>
+    <start>08:30AM</start>
+    <finish>09:00AM</finish>
+    <date>19 September 2026</date>
+  </channel>
+  <channel>
+    <name>RDI News CA</name>
+    <id>RDINews.ca</id>
+    <title>Zone ?conomie</title>
+    <desc>Comprendre les petits et grands enjeux ?conomiques : des finances publiques, au march? de l'emploi et ? l'?volution de la bourse.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6ImlnYmpub2xzdzh0cWNUMTR1SWJFdnc9PSIsInZhbHVlIjoiOFwvWTVUWjRhamNBdHZkWGdJMGs0MXpGdW1Sa2NvakJ4WXoyVjlHbmhuSE1KMjNra2JPR0JJa29xdzE5b2tTc2dlY1FEU00zYXJsSm5pUk8xUHh6TjE5XC9DMk9pR1lvbmV4TWxLNXlPTythQmVTeWk4T21Ndm5XMlRaS0RxUHR6TyIsIm1hYyI6IjA5NzZhMTVjMGQ0M2UxYTI2NDkxMGY4OTFhNjk3YjAzOGM0ZWE1NzQ0NGI0MzZhNDkyZjNmMjJjNGVhNThjY2UifQ%3D%3D&amp;signature=fa4c8acc3d3364e8a0c5fde32a366c9f0c109447815a258641d0581be4ad1a8a</image>
+    <start>09:00AM</start>
+    <finish>10:00AM</finish>
+    <date>19 September 2026</date>
+  </channel>
+  <channel>
+    <name>RDI News CA</name>
+    <id>RDINews.ca</id>
+    <title>Le 64'</title>
+    <desc>Les nouvelles internationales d'un point de vue europ?en.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6ImdGdUtnU0ZxUWc5WWxUQ0VybFwvTjlRPT0iLCJ2YWx1ZSI6IkFCY3NieVFJWTNZTkN5dWJ4WnVmSlBRalgzZm13ZnVIXC9KV1I1VitFYzVKSlpKN2hDclI1eHdLemhkVXJpOFgyZW5peURsd3NBTlBUXC9wNGFMSDlLSGYrV1UxbldNRGNpMFJtUTVNaWxaeDg9IiwibWFjIjoiYjU1NDBjNTJjMDQwNzgwMWU3YzMyNTRmMjYzODk2M2Y2YjJkYzIxNDQyMjA3ZTdhYzY2Y2Q0YWM4YTVlZTI4OSJ9&amp;signature=39b43ab8bb7888d650107480814636b9a05e4c386fae364269be3bb903c5c6ab</image>
+    <start>10:00AM</start>
+    <finish>10:34AM</finish>
+    <date>19 September 2026</date>
+  </channel>
+  <channel>
+    <name>RDI News CA</name>
+    <id>RDINews.ca</id>
+    <title>Le national</title>
+    <desc>Un tour d'horizon des dossiers qui retiennent l'attention dans toutes les r?gions du pays.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6ImVXZHZDTkUwdlNmWjhmOU9OcEE2cVE9PSIsInZhbHVlIjoiNWhtNk8yTDZqRHRIWEJWdWl3NjlYYTNpUGRKQjJucXhYRFI3VElnQ1cxa0hJZER3SCtZZHJ6aDkyTGVTcU9FN0t1bUkrOXhIcE01RE5xS1RobHdaUjRMbG1XTkZZbDZ0VTIzcndGdlE2RFE9IiwibWFjIjoiYTUzM2ZhNDQ3YmIzNGYyMTUzNWY5NDY2YTM3ZmYyNWZiMDYxMDVlZThmYzBlMDVmNGMwOTA3ZWYwOTE3Yzg2YSJ9&amp;signature=7cd1279e21e5c5ed88f6ab175f4068d0a15cb6f06ca28f19fa8fdab283210d93</image>
+    <start>10:34AM</start>
+    <finish>11:00AM</finish>
+    <date>19 September 2026</date>
+  </channel>
+  <channel>
+    <name>RDI News CA</name>
+    <id>RDINews.ca</id>
+    <title>Live: D'abord l'info</title>
+    <desc>Toutes les informations essentielles pour commencer la journ?e : les derni?res nouvelles, les sports et la m?t?o.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6Iktjc0p5TFBBbGZnOEY2elE3dUIzXC9RPT0iLCJ2YWx1ZSI6ImRwOTVhRExpUjVKKzFnSzhUSnVrdDBUTlhseng2UlJsaWR3dHg4VU1VSExRbHFWS3c1RVhwM0R4R1ZHZzJoYmRqNDR2U1ZuM2VTZk9uYkY5alwveTRXRXpBVXp2SDhXcjA2TlV3U3JhQjk3aEtEZGZ0SXdsY25TTnRiTU5Mc0dYcyIsIm1hYyI6IjMxMTE0YzVmNzg2MjE5YWFlYmE4ZThlN2U5MWU1MmI5YTQ3YTQ5NjY2MWExM2ExNDZhYjk2ZTY4ZTVmMGMxYmIifQ%3D%3D&amp;signature=a9a944fb830b0e239b5c0e9c3f66ca8e17769d1070143e233160d4c3b67eba18</image>
+    <start>11:00AM</start>
+    <finish>03:00PM</finish>
+    <date>19 September 2026</date>
+  </channel>
+  <channel>
+    <name>RDI News CA</name>
+    <id>RDINews.ca</id>
+    <title>Live: L'info maintenant</title>
+    <desc>Les nouvelles qui marquent l'actualit? au pays et ailleurs dans le monde.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6InVsNlwveGY3SGdoYkxSYUZOenBXVlZBPT0iLCJ2YWx1ZSI6Im5UZWZmSUVINGFtMVNjVjcyTVJJODZ6alNnb1wvXC95aEJNMVpUUlpLUmN1dVBGc3NJYUZnT05TYThcL1RrZ1ZxeWdJQUhJK3FySWRwNldpNmhocXVFQVRGMWRjTXpOSnVSQUpcLzlLVW5idEpuZnZSck1OV0RHWG9RZjJlWWF5VHZjeSIsIm1hYyI6IjYyZWRkYmUzZjIyMjUxMmE4MDBhMGUwNTJkY2ViMWI2NWJiYjUxM2U0Y2Y0OGVkZWJjY2E2MGRlZDcxNTdhN2QifQ%3D%3D&amp;signature=7289d78fe97eabcf92460cb6d3c414473e82762b81f813d795d4ad0b1f723331</image>
+    <start>03:00PM</start>
+    <finish>03:30PM</finish>
+    <date>19 September 2026</date>
+  </channel>
+  <channel>
+    <name>RDI News CA</name>
+    <id>RDINews.ca</id>
+    <title>L'info maintenant</title>
+    <desc>Les nouvelles qui marquent l'actualit? au pays et ailleurs dans le monde.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IlRrRVBKZUxlZmZTNnZrRk1ySzRzeEE9PSIsInZhbHVlIjoiSEJVTm9GME9FSW5STlJtZnNrODdScmdvUDRGWmVZUVJCZGRieXU3dHU1NjlsdlVXc1RZUGdHQ1VQelN0N0t0WWJnZW5yQlwvelJTcEhoVEljZjJJWEdwYkZBVHVmYTdXR1Q5OXVWQnRCV3kwcjVuVGdDZmUzQTNVUUV4RDQzNmY2IiwibWFjIjoiMmQwMzkzZjYxNTFiZmU4NmNmMTAwMmNiMDQwYWM4MzA4MzIxZTc1YzczOWM4MzliNWIyMzBiMzE1NWI5ZmM2NSJ9&amp;signature=53ab818693d691b7c23e5885072222efa534dd3ceff07f92b382fa82e57b8d8b</image>
+    <start>03:30PM</start>
+    <finish>04:00PM</finish>
+    <date>19 September 2026</date>
+  </channel>
+  <channel>
+    <name>RDI News CA</name>
+    <id>RDINews.ca</id>
+    <title>Les d?crypteurs</title>
+    <desc>L'?quipe traque les fausses nouvelles et transmet ses trucs aux t?l?spectateurs pour contrer la d?sinformation.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6InFla21xQlV3WmcwY2dCa1NQa09Kb2c9PSIsInZhbHVlIjoiY2VFcUs2aFhcL3I4XC9DUVI4WXJqUDA1QWdyWWN4NXduOHVURnZ5NEJjSHhPMFZCWTd6NWlhSHBYdUNGUXdGNkVRSHdiK2RtMFNkXC9ZV3ZIUFRJWHQzRlFFOEhPV2Z0NVRxOTg0bzNtUWNidzQ9IiwibWFjIjoiYjNmMzQzYjA4NGFlODQzZWU5YWJkZDBjY2UyNDEzMDRlYTdkYjY0YzQ1MzI3MGFjMzdjYmE2NDZiYzkxYWQ0MCJ9&amp;signature=6c5253b87a3898ee1415dade4eff7a90859167a1ab04f602e39fb06852a922eb</image>
+    <start>04:00PM</start>
+    <finish>05:00PM</finish>
+    <date>19 September 2026</date>
+  </channel>
+  <channel>
+    <name>RDI News CA</name>
+    <id>RDINews.ca</id>
+    <title>Live: Le t?l?journal midi</title>
+    <desc>Le point sur l'actualit? avec les journalistes sur le terrain, au pays et ailleurs dans le monde.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IkZOQnN1MGM4S1pPT1NKdGVRZnQ4VWc9PSIsInZhbHVlIjoiT0N6d01qN1lRXC82MjFQbGQ5S293SEx2VDl5SWZ5SFhPNE1NUmczc3JtaTVcL3htNFUrbGNLcTc2cll2bEVwR25EN25DSXJFZXluTHhobVlCMzhuVkc1dXY1cERxcFhzQkJjcmVcL1ljMFN2NmdaSk1jbDBlZjRET0VpbXRqR0ZhZmEiLCJtYWMiOiJmNzZiN2EwOTNjNjM2NDRjOGExMGJkODA2MDFkYTkwNjE1NTVjNDU5MTJkNGFjMDk0MTg2YjVkMDgxMDgwMmE2In0%3D&amp;signature=b71d29747b90d6f7e9b1b377f7b1ae027753829c513374111150787751bd900f</image>
+    <start>05:00PM</start>
+    <finish>05:31PM</finish>
+    <date>19 September 2026</date>
+  </channel>
+  <channel>
+    <name>RDI News CA</name>
+    <id>RDINews.ca</id>
+    <title>Le t?l?journal midi</title>
+    <desc>Le point sur l'actualit? avec les journalistes sur le terrain, au pays et ailleurs dans le monde.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IkNiTG5ocGx0bG5DSDZIWFJrV0JlZEE9PSIsInZhbHVlIjoiOVlMM05FT0w1MlZTdDZyTUJIUkw4RDlwOFNjTUdpQkliYzA5YkZyVDJxbkc5RjNia1wvY0hXTGtJV0JXWTlVXC9sR0prM1o0Yzk4cHNLM3pUMlFVS1FUeEg4K1RPNVhNYURjZE9IdEN1Y1BNSFhFYUF3bVwvdVJcL0tmTDdEZWxOV1E5IiwibWFjIjoiMTZlYWQ2MTNkYTdkYjhmYjZjZTBhZGM3ZGNlYmIwYjFkNzE0NmU5ZDFmZjNjNmUzNjE4MWFlNDljNWZhMzE1NyJ9&amp;signature=1ccf11b04eba0b20191d3ec5e54828951e98a7b01dea2cc81fa963931fb8b8e3</image>
+    <start>05:31PM</start>
+    <finish>06:00PM</finish>
+    <date>19 September 2026</date>
+  </channel>
+  <channel>
+    <name>RDI News CA</name>
+    <id>RDINews.ca</id>
+    <title>Live: Le national hebdo en direct de Toronto</title>
+    <desc></desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6Ik1kQURKMmxNQlJ6VURDd0M0Y0k2MlE9PSIsInZhbHVlIjoiVWJETWFMbXU0S1JDWEU0aFdQY0N5VXFaMWdtTW1YT2VqaTh6c1NjU0l5dnhBVkdNbnR5eXhXbVRZWk82ZUphWGRjTUJ0QStEMEUySVBHYUhDK3RFZWhFK0ViXC9NU1puOWJmenVlcGJPXC9WWkZ0N3BlTWdYM3lNYW5ZcGNuNXZWNyIsIm1hYyI6IjNjZDZjNGU4NDQyZDFmYmJiMDY2ODU0Y2RkZDIyNzczNjFlZWVjNWZlOTk4YTk1YzVkZjUzYTBjMGU5YmMyZDUifQ%3D%3D&amp;signature=8ca8b8a9acbfa956167ffb30aa74cc5df45c2ff6454e740218f92916dd7ff34e</image>
+    <start>06:00PM</start>
+    <finish>06:30PM</finish>
+    <date>19 September 2026</date>
+  </channel>
+  <channel>
+    <name>RDI News CA</name>
+    <id>RDINews.ca</id>
+    <title>Live: L'info maintenant</title>
+    <desc>Les nouvelles qui marquent l'actualit? au pays et ailleurs dans le monde.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6ImFiaE5cLzBOaEZoUmZ6bFNVYnJ0eHFRPT0iLCJ2YWx1ZSI6InZDXC9OVXFYaTFNN0ZoOXhacWY1NkNxSnZCbDRLV1NWU0M1OEV4WnRLVEF4eEdsXC9ORmNwYmdRWHNrWFhvOXAyVlJ1b0FXVFRcL1dpOXZxUG15SG1GKys1TFhJaUkwK1p5XC8wNE0rY1huXC9DOEVYTFg3MlkxNWhIcFBCYzRESmlLVU8iLCJtYWMiOiJjY2VlZjUyNjQwNzEzMmNlYzNiMGQ3ZTc5MTE2NzgzNTI2YjlhNDhjM2I0ZDBiYjVmMzI5NWFlZDRiNGI5MjI4In0%3D&amp;signature=9f3babfebdda19c4887d73bc53473133bd3189b8bf4e8ab6348450af9ed99178</image>
+    <start>06:30PM</start>
+    <finish>07:00PM</finish>
+    <date>19 September 2026</date>
+  </channel>
+  <channel>
+    <name>RDI News CA</name>
+    <id>RDINews.ca</id>
+    <title>Live: L'info maintenant</title>
+    <desc>Les nouvelles qui marquent l'actualit? au pays et ailleurs dans le monde.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IlVhXC9tY0lGbk5yV20xQ2VHQjV1UDJ3PT0iLCJ2YWx1ZSI6IlFESXJxXC82QnF5WGJOZ0FXc3pOTEJST0dESHdBR2U3c1habkJmUnBNU2JIdjRSNnpqVytsY0FQOUl6TFp4bFF5UGNOV2RrOEM2bmNpNEg0SHBNT0t2XC92Sm1tbk9UM2QydWprdVNVUGRKK2lrSCtQc29Va2xJWlVCeVNkaHJxVXciLCJtYWMiOiJkZTI5NjQxMDE0NDZiZGQ2YzU3NTcyZDkwODRiZjUxOGI2MmNmMjJlNDdmZDcwYWU4Y2Q0MTU2ZTcyYThmOWMwIn0%3D&amp;signature=20dc08c57c907419cb0ca874de9fa87b5efce415432f5331e2a99fa7a6da216f</image>
+    <start>07:00PM</start>
+    <finish>07:30PM</finish>
+    <date>19 September 2026</date>
+  </channel>
+  <channel>
+    <name>RDI News CA</name>
+    <id>RDINews.ca</id>
+    <title>L'info maintenant</title>
+    <desc>Les nouvelles qui marquent l'actualit? au pays et ailleurs dans le monde.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IlBOTW82OGl6TzJxY2daWHR3aUdYbXc9PSIsInZhbHVlIjoiTWlHb2hUdGNkbFkwR1VIckh5bGRndTBCb0lGT25yMVhocFB1dDI4dVBVYjd2ODlSZTN6ZjlEOUpOWUc0RmtuOG5JbUF6MkNsajEyeGNnbTRLS3BaYXh0Zk1YN1ZyU3dBQmhJZ2gwdUJuWFVFb1NTNXFCQTFMc2NXVzR1XC92UzZhIiwibWFjIjoiNmQ4OGE3YjFmZDgzNjk0ZGU0NzEyYThmMzc3MTg4M2Q2ZTZlNThiYWI0MDFlMjQ3NDNkZjdjMDIxMjZlZThlZiJ9&amp;signature=1811580fc82465a1c33a794d6231a213547cd3262fcb8ec964790db678b8283e</image>
+    <start>07:30PM</start>
+    <finish>08:00PM</finish>
+    <date>19 September 2026</date>
+  </channel>
+  <channel>
+    <name>RDI News CA</name>
+    <id>RDINews.ca</id>
+    <title>Live: L'info maintenant</title>
+    <desc>Les nouvelles qui marquent l'actualit? au pays et ailleurs dans le monde.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IkZKZDNvVEZOdjYxUjhEeXptTVM4UXc9PSIsInZhbHVlIjoiTEphd3hCd3BtNWFyNjIyZ2toV1BXdVQwXC9ZVURHaWlRUGJJeFJFSFZLZmhLMnZFakh4NU5hN1ZZMlJ3SENcL05iMFBoYzhtNjZuWlVXb3lpaUZJbVlzb3JKUjN0RVE1VjZ0Mkd2VXJUelp3Y3IrdlljYmhrTUF5Sk5qQ2VXNVdITyIsIm1hYyI6ImE4NmJhNGE4ZjMwNzNiOGJkNGZiMTJjMTgyYzQ1Yzc4NzA3YjZmODFjNDdkNWUxOWI0MzMyOTFiMDhiMzgwZDMifQ%3D%3D&amp;signature=3b5e36497f988784ed76577c776aa57514c26946c25509db43345ee9bf1f4733</image>
+    <start>08:00PM</start>
+    <finish>08:30PM</finish>
+    <date>19 September 2026</date>
+  </channel>
+  <channel>
+    <name>RDI News CA</name>
+    <id>RDINews.ca</id>
+    <title>L'info maintenant</title>
+    <desc>Les nouvelles qui marquent l'actualit? au pays et ailleurs dans le monde.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6InJGYXZlRkRBeDh3ZmRiV3dlM1VzQVE9PSIsInZhbHVlIjoiXC9iZERVczA2cTJObHRyelFNSFFCXC9rTHJTM0c1WE1RWEV3SEY0M3J0N2ZrQ3ZDUjZ5aE9wODdoaEVhMTAxVE9ta1Ria2crXC9HdlZKdWFcL1BkQ2dvOTBFNlJBZXc0djdxS2RQME5jblc4MmVWSzNVM0x1dnNoSmJMRFwvMUZ3dzRaMSIsIm1hYyI6IjEzYzBiYWNmZTFjZTA5NDkzMmZkZmM1ZTM4MWU0MGUxMmY0M2MwNGVjMDIyNTljMDNmZjVlMTAxZjgxMTZmOTgifQ%3D%3D&amp;signature=b959d6e509c5de44de329ea90bdcf4621ef0f1fdd6e73371d514f4edbfde4d0c</image>
+    <start>08:30PM</start>
+    <finish>09:00PM</finish>
+    <date>19 September 2026</date>
+  </channel>
+  <channel>
+    <name>RDI News CA</name>
+    <id>RDINews.ca</id>
+    <title>Live: L'info maintenant</title>
+    <desc>Les nouvelles qui marquent l'actualit? au pays et ailleurs dans le monde.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IkRNWDMzbG91b2NmSzVHeW80Y1hDdEE9PSIsInZhbHVlIjoiVURraW9kRnIyeGY0YU4zbVpybnNFQ2k2UWdUOUNvMjZidG1UQm81ajk2VU1QOGNUWEJrK1RjYjVuUmNDU1p3dUZsY20rbTBkQ1RyNjFwaklMVjVQODgxUWFKVmdKeTV3XC9rQ3VCYXFxUk1PeVBXYlJSdmtPN01Tc1J0RmRcL1hFZyIsIm1hYyI6ImY1YjY3ZjkyMzk1MDViODlmYjY2YzY4OWRiMGU5ZTVhZGUzM2JiYjRlZGI3NzVkNjhlYTIzMTIyODZhYTdkOTkifQ%3D%3D&amp;signature=b04b6258928e3c99bc6c5f0083997e0b3c6bc94f2e1af35f7153d3c1169148a9</image>
+    <start>09:00PM</start>
+    <finish>09:30PM</finish>
+    <date>19 September 2026</date>
+  </channel>
+  <channel>
+    <name>RDI News CA</name>
+    <id>RDINews.ca</id>
+    <title>L'info maintenant</title>
+    <desc>Les nouvelles qui marquent l'actualit? au pays et ailleurs dans le monde.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6Im1zeCtmbURQYlZ3dnJOUkUxUlliOUE9PSIsInZhbHVlIjoiYWFaSElhNnJQaEp0eUNockthZkdWd1RBb0pwVGJaKzc0M0NkQWQzVFpGVWZZdFRsZWxSVjZcLzhoUURcL243RURmT2VXWlRBTWdMcVg4WWF5Q3VIRlJPczQ0TnVJWE5OamdRXC80ZElHR1ZXRTZSUWRUU0gxc1wvQzVPZE5idTVJWVJZIiwibWFjIjoiMmMxZTg4YjJmNzgyYjQwY2M0ZjM2Yzc0ZjE1YTdiYzMzZDM3N2FhMmY4MTExM2I3MGNiNzU2ZDliZjE1ZDEyNiJ9&amp;signature=35eee79603c13cd19ab5d68f765d30e83f95363be1d3eb0e9afe257ac8bac347</image>
+    <start>09:30PM</start>
+    <finish>10:00PM</finish>
+    <date>19 September 2026</date>
+  </channel>
+  <channel>
+    <name>RDI News CA</name>
+    <id>RDINews.ca</id>
+    <title>Live: Le t?l?journal avec Claudine Bourbonnais</title>
+    <desc>Un regard approfondi sur les sujets de l'heure, au pays comme ? l'international, et sur les grands enjeux auxquels la soci?t? est confront?e.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IjBuZm5jWUNDOFhTK2VPc1dVODRXM1E9PSIsInZhbHVlIjoiQ3grRU5Na1BZVkdKdEhLUUduM0JnOU8weDZ6ZzZSZXhmaG5CbnhIZVdSTUF4dHFxQUVmdDROY1prTzdBbTQyanYrQ2Qzc05xMUdwYXN0dGI2VTdxTWpMK1FjZFZ2XC96NTFWSnZVVzFka0hzPSIsIm1hYyI6IjdhZjk1ODQ1NzkxZThkMDlmYmRlNGZiODg0NDQ0ODM3NWJiMTdjYzY2ZGEzMTc2N2UwNzc3MWI1MjhiYWI2OTAifQ%3D%3D&amp;signature=aa2c5a8a04f6a9c9db9a82b2730b27c96404a15cf5f17409f8d72978149d7472</image>
+    <start>10:00PM</start>
+    <finish>10:30PM</finish>
+    <date>19 September 2026</date>
+  </channel>
+  <channel>
+    <name>RDI News CA</name>
+    <id>RDINews.ca</id>
+    <title>L'?picerie</title>
+    <desc>Magazine d'information sur les bonnes pratiques en mati?re d'alimentation ; analyses, bancs d'essai, tests de go?t, d?couvertes culinaires.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IkJQdkVpZVgzRStMWjZwZGgzellpWkE9PSIsInZhbHVlIjoiN1B6eDh1RkJWK2pXYkY3RnJRN1U5VmhBRUcxdlpIaElCK0I5YjR1ODYyXC9jV3IrY29wb1VJZGVGNVREcStxVHg5TitDbUFCSXRlVGJTWlErNFA2RVQzTk1YaW9heEpHVFpkaU9oeGIzNW9zPSIsIm1hYyI6ImZkZjczYjk5MWM3MjRmM2IxMTAxM2IzZWE1MDMxZDY0NjM2MDlmNjU5YmMzYTNjZTU2NGM5YWEyMWNmYjYxZjkifQ%3D%3D&amp;signature=ad756c7b07bd48f56a499501e2331bdeec380a9c5a6f8f0f0eb58e5225b71cba</image>
+    <start>10:30PM</start>
+    <finish>11:00PM</finish>
+    <date>19 September 2026</date>
+  </channel>
+  <channel>
+    <name>RDI News CA</name>
+    <id>RDINews.ca</id>
+    <title>Live: Le t?l?journal avec Claudine Bourbonnais</title>
+    <desc>Un regard approfondi sur les sujets de l'heure, au pays comme ? l'international, et sur les grands enjeux auxquels la soci?t? est confront?e.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6Ikw2RkxkNlhcLzJnbkl2dGlLQ2RZVExnPT0iLCJ2YWx1ZSI6ImxqWGFVejRzbEhoN0U0R0dYUVwvV0Z6QmdDNWdTVVwvVzlsOFU4QmtId01tVERpNFlnWnprUm4zeUNPR202MXVXdjBRR3hyTDk0c3VrWVgrVFh2S1VuaUhxZDFpVkxrZ3U3dGxLcGpSN0ZINFE9IiwibWFjIjoiNmNmMjY3NzhjZjI4NWRkNGYzYzYyNTM1NTc3YWFlZjBjOGZmYTFkYzQ1M2U2ZGFlNThjNGMxMzQ3NTUzMGExOSJ9&amp;signature=4cc15661f5fbd3eb6c45daffac39ed5b4d0c0eed7986b6735422a4e0d7e44f30</image>
+    <start>11:00PM</start>
+    <finish>11:31PM</finish>
+    <date>19 September 2026</date>
+  </channel>
+  <channel>
+    <name>RDI News CA</name>
+    <id>RDINews.ca</id>
+    <title>Le t?l?journal avec Claudine Bourbonnais</title>
+    <desc>Un regard approfondi sur les sujets de l'heure, au pays comme ? l'international, et sur les grands enjeux auxquels la soci?t? est confront?e.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IlRFZis0RERVczVcL0RFck9GSldrQXZnPT0iLCJ2YWx1ZSI6IlVPTjBZTTBla2Z0SDJsbGhWSlltS1RiSXd0UHl1YzBUb3lLenVkc0Q3R2V5TnJnWjVsMzFIYnRSdjBPVCtCbmRhc0VsUUdMemM5MFdTam1cLzIxeXFOZDFQbnVCeVprU1BGN1VoN1wvRk1QVGc9IiwibWFjIjoiN2JlMTI3MGZlMWNmODg2YzY5ODVlMmQ3MjlhODljODk3ZTQ2MjM1YTYxYTEwYmU3YTIxMjUwODA4MWI5ZjEwYyJ9&amp;signature=eb272d0c936ca8e62d18a8435cf9d67f0d3dacc98b0db009d16b1e85f2ada091</image>
+    <start>11:31PM</start>
+    <finish>12:00AM</finish>
+    <date>19 September 2026</date>
+  </channel>
+  <channel>
+    <name>RDI News CA</name>
+    <id>RDINews.ca</id>
+    <title>Tout peut arriver</title>
+    <desc>Un grand plateau ? l'ambiance ?lectrique avec des entrevues surprenantes et confrontantes, sur des sujets incontournables de l'actualit? culturelle, sociale, politique et sportive.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IjdCUk1VT05mbVJ4SnRKZ1ZMWGYralE9PSIsInZhbHVlIjoiQk1yWmVCellqVThlT21kZWhPK3QyN1BtdWhsUDJPeDFQTkFwQXp4VzVmSHhMYTJvSlBLUlVyQjhCXC9pMzcyXC95MjdLYzd4cFE2b1NLZlpPS3hrYkxINVpVZWs0d0xjQ0loRFVBODlCcXhGTT0iLCJtYWMiOiJjNjQ4ODE3YTc0NzAyZmFkOWQ1NTk5ODU3OGI4ZmM2YjU2NTEwODVjOWUxOTVmZTc4Y2FkOTdjZjNmNzJkNmNhIn0%3D&amp;signature=115eb54779bf4e4e47aac0cb5fd5a23fc432247e5f25fe0820bb7b990d5d6791</image>
+    <start>12:00AM</start>
+    <finish>02:00AM</finish>
+    <date>20 September 2026</date>
+  </channel>
+  <channel>
+    <name>RDI News CA</name>
+    <id>RDINews.ca</id>
+    <title>Live: Le t?l?journal avec Claudine Bourbonnais</title>
+    <desc>Un regard approfondi sur les sujets de l'heure, au pays comme ? l'international, et sur les grands enjeux auxquels la soci?t? est confront?e.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IngzMW5zaDEzbmZLUVVCMENhZVlCd1E9PSIsInZhbHVlIjoiT3VvWCtlT21VaW5tVnRkcldRZitHV0JqNFRuWThSc1BSMFwvUDNjaElHKytsR2owQW1keEx3cXJhYklSXC9WRWEwMVhFcWtMZ3IwTm1OSUF6XC9xMXVibkZuOVVMUFRDVUhFMHE5R09zSUkyeUU9IiwibWFjIjoiOGQwZThkNGUyYjhlODdmZTliZjIwY2QzY2JlMDEwNDVlY2I2ZTYwNDdhNzRmOTRhZjIzNmJhYWE1NTlhZGQ1NiJ9&amp;signature=96a87c8cbb060b14b77c94e43d238ea53ef4316d975938ab23b01f72d1f24174</image>
+    <start>02:00AM</start>
+    <finish>02:27AM</finish>
+    <date>20 September 2026</date>
+  </channel>
+  <channel>
+    <name>RDI News CA</name>
+    <id>RDINews.ca</id>
+    <title>Live: Sports express</title>
+    <desc>Nouvelles du sport en bref.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6Imd4bXZhcStTUFVyWURpOEFPc1REMUE9PSIsInZhbHVlIjoiZFI1alZlTDNOcWRVRERDbTNFUEFodnJnSmkwR3BZOUtUdlJZcUhUc3p4ejRyRm1zUU1hK1Jya0hhK1N4K1BEWVdlSXFoSVdNZ1Q1OG1uYmNudmFwcE5hUnB1N00wcVNXbHVlU2ZCVW5MR1U9IiwibWFjIjoiMWE3N2FkYWZkNzgyODMwOGE0YTU0N2I0ZmIyZDEyOTc2MzFkMDYyODRlYzQ1MjllNTI2OGQzMmE2NWU4MGQzYiJ9&amp;signature=c165f615758460f1a2cb32afc7675cbea3f0154e1323ea29b786b7e800f4d60a</image>
+    <start>02:27AM</start>
+    <finish>02:30AM</finish>
+    <date>20 September 2026</date>
+  </channel>
+  <channel>
+    <name>RDI News CA</name>
+    <id>RDINews.ca</id>
+    <title>D?couverte</title>
+    <desc>Voyagez dans les mondes les plus ?tranges: formes improbables, paysages insens?s, ph?nom?nes myst?rieux; l'univers n'en est pas ? une bizarrerie pr?s.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6Ijl0TEhhQ0M4Q3ZYa1RkQWpyZHBSNXc9PSIsInZhbHVlIjoiUGJ3YUpMWGZoMjZpcEk0T0F1QjRKRHdTVjM1NyttNDhPZm9GOTVIVXJJV1pyZnlYeGVcL1E1c1JET2hvdThZTkxrakhod3h3c2Q2ZzhpaFZZUzNCblhnYktMMnowcGZcL0c0TmxhUHBERk1Faz0iLCJtYWMiOiJlYzg5ZmI1ZDlhZTdlMDVjZWNmYzA1Nzc3NjI0YjBiZDUwM2VkNzIxNmZhMzllMTFjYWY4YWY5MTg4OWMwYWViIn0%3D&amp;signature=88bc6a464ee56f3435af296aecb69d4b6e7a28635917746dce1fbbcdfeb165d1</image>
+    <start>02:30AM</start>
+    <finish>03:30AM</finish>
+    <date>20 September 2026</date>
+  </channel>
+  <channel>
+    <name>RDI News CA</name>
+    <id>RDINews.ca</id>
+    <title>Live: Le national</title>
+    <desc>Un tour d'horizon des dossiers qui retiennent l'attention dans toutes les r?gions du pays.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6ImRRQkJcL3FKd2lwdHIyNVdIWWxOTFh3PT0iLCJ2YWx1ZSI6Ing5ZGVKMWxDOWdFV2tMbjkrdGFQRmJZM1VqZkR2ZWVRc21ER1ZjeEo3NWJ6bG1makg3d3lcLzJrWEdIUWFZQWt6ckFsVUd3XC9ETzFBUmxCZUE0RFZiTkN5XC9LNUhDOFVcL1kwYjYwZ25WcFdGUT0iLCJtYWMiOiI0NTFmMjhlMGFmYTllN2UyNGMxYzQ0ZTc0M2U0ZTlmYmQ2ZTZiMWE4NDY1Yzc1MmUwNjI2NDY1YWFlYTkwZGFhIn0%3D&amp;signature=e48c33e89323bb0773d8985903a17c7ac33a87942158a1600d233b70d78c0245</image>
+    <start>03:30AM</start>
+    <finish>04:00AM</finish>
+    <date>20 September 2026</date>
+  </channel>
+  <channel>
+    <name>RDI News CA</name>
+    <id>RDINews.ca</id>
+    <title>Live: Le national</title>
+    <desc>Un tour d'horizon des dossiers qui retiennent l'attention dans toutes les r?gions du pays.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6ImNQakxTc3pQRzg2Q21BaG1XUGRuQ3c9PSIsInZhbHVlIjoiUXR2Tkpvc0RTS2U0T2VNRmIwRndERUdDSE93WDhCcmlJaXoxU1ZkR3JiZXRlaVpkeFdtSUFBd3FJeFlZalVkcXdEUEdjbGpucGxsTGllMEErU2d1bWNBeEg1MXhMeTJcLzM2bzFZbGRJSWVZPSIsIm1hYyI6IjA0ZTEyZjhmMDkwYjZiMzNmMzQ3N2RjOTljZjViYTI1OGRjNzk2Mzg5NDczNWJiN2FjYTAyM2ZjODI2OGY5M2YifQ%3D%3D&amp;signature=6fce1b624a7f2466fb1c87344a111d56a1f91cbee871497ecfad29e76870278b</image>
+    <start>04:00AM</start>
+    <finish>04:30AM</finish>
+    <date>20 September 2026</date>
+  </channel>
+  <channel>
+    <name>RDI News CA</name>
+    <id>RDINews.ca</id>
+    <title>TIFF 2026</title>
+    <desc>TIFF 2026 convie les cin?philes de toute la plan?te. Le Festival international du film de Toronto, r?put? pour attirer les stars et lancer la course aux Oscars, bat son plein du 10 au 20 septembre.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6Ik9JczVmdXVzMmh3VlNWQVQzOGw0WlE9PSIsInZhbHVlIjoiQXg2eWUyOVRNYlpVUHY3ZGhUNFpTbFlEXC93XC9HT3FVcGNDQTYyalp2TzZqR3orWWZIVG9RZXhYdUEwYWZUdm5iTHdNMElJaEhGemZsWkEzNG04MmNKY0M5djdvWWJQKzFjdDgyVXBydGc4dz0iLCJtYWMiOiI5MWM4YjkzMjBhNjAxMjA5Zjg0MWFkMDhlMDkwOWQwZDU2ZDQyNGZmZWEwMDIwOGYwODBhNDE0OTc4ZDY4ZGIxIn0%3D&amp;signature=5cd7800e1cbd847a611b5c56c737ece5837a5a161d9a3dd9ee421d5b34c35e42</image>
+    <start>04:30AM</start>
+    <finish>05:00AM</finish>
+    <date>20 September 2026</date>
+  </channel>
+  <channel>
+    <name>RDI News CA</name>
+    <id>RDINews.ca</id>
+    <title>Le t?l?journal avec Claudine Bourbonnais</title>
+    <desc>Un regard approfondi sur les sujets de l'heure, au pays comme ? l'international, et sur les grands enjeux auxquels la soci?t? est confront?e.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6ImR1MXlqSG93T2NCZDdnNFwvYW5DREx3PT0iLCJ2YWx1ZSI6Img5bmdCbmQ1aW8yQ3Y1TW94QncyUTJPZVF5cWpKZWxPUVJnYm1QRkVsMUR0WGZZaTUzd1lySWRET1BqSHRrd3grYVFNeCtJeXRGRG5JcGh3N2JPS0JkUXNRVmRJQkV3ZWxNdVh6VGhmcTFNPSIsIm1hYyI6ImIxZTMwYmNhMzhlOTQ2NjQ3NjA1Y2U5NTVjNjg4ZjhiZTE5Mjg3Njk5ZTdlOTk3OWNmZDc0OTk4MmM4YmZmMzYifQ%3D%3D&amp;signature=9182613206ac74325b3eba50c0753584030b750e7de4b05f8477f2914934d568</image>
+    <start>05:00AM</start>
+    <finish>05:27AM</finish>
+    <date>20 September 2026</date>
+  </channel>
+  <channel>
+    <name>RDI News CA</name>
+    <id>RDINews.ca</id>
+    <title>Sports express</title>
+    <desc>Nouvelles du sport en bref.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IlwvY1RlTVIzR0JsOWg3U1lUZnhocTNRPT0iLCJ2YWx1ZSI6IkxoS3pmdGdpYWtJU1RvVmI0dFJvZjVMMnpFc0h4Rmp0ZUlRMUdtYTlRbVFHSm5JazZxTHZ2cVFwaHhzNlBmOXlCaTFsdnlNcFpLXC9xV0lqWHpOR0xjVmhRaHFTODlUU3BqcVFuclNKM0FwMD0iLCJtYWMiOiI1MDI3M2NhODdkZDJmOGFmN2MwOGVmNDhmYTEyNjdmY2VjNTYzNTlkOTYwM2MzMGNmY2RhNzZlODc4NTgzMjVhIn0%3D&amp;signature=d2ad73d3df222fd379f7ddeac3c2b4c07406c2596625bbbfb9991ae9b6ed0f31</image>
+    <start>05:27AM</start>
+    <finish>05:30AM</finish>
+    <date>20 September 2026</date>
+  </channel>
+  <channel>
+    <name>RDI News CA</name>
+    <id>RDINews.ca</id>
+    <title>Le national</title>
+    <desc>Un tour d'horizon des dossiers qui retiennent l'attention dans toutes les r?gions du pays.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IjYxaGJsY2JCTm5nWEZwZm8wNlpRamc9PSIsInZhbHVlIjoiQ0tMQ1prUkRNdmRNWlNnMk1rVk91elZBZ1hwRUlObmN1ZlVsSVQxd1NyRlJ5dWV5ZWhWNFppdXU5ZStzeWZxdm5udERwU1hYYkFOUkhQNTh6bnoxK3VVUXlrQ1AzWlVoYzZMRTJ6Z1wvcTE0PSIsIm1hYyI6IjEyYjdkOTY0Zjg4NzIyNTZhNjhkZmQ5NzVhOGEzZWFlMjZkMzFmYmVhMGU4M2ZiMGUxNzhmZmIxMGU2NThiOTcifQ%3D%3D&amp;signature=de2b897c09e37c780568c08cb21903bb77579eb25a5519b78e214922d8867345</image>
+    <start>05:30AM</start>
+    <finish>06:00AM</finish>
+    <date>20 September 2026</date>
+  </channel>
+  <channel>
+    <name>RDI News CA</name>
+    <id>RDINews.ca</id>
+    <title>Le t?l?journal avec Claudine Bourbonnais</title>
+    <desc>Un regard approfondi sur les sujets de l'heure, au pays comme ? l'international, et sur les grands enjeux auxquels la soci?t? est confront?e.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IkMxSFlBaGh0aE0yY21BRTl4SlJFWmc9PSIsInZhbHVlIjoiV0lReGxsR1JPVlJTY2x5QkdmK2cxbnRiZTdcL1VPbjJ2Qk1SZVFIZkgwWmtZRXZZb09TTFwvWEI0bHNCQ0VWek9PTXFaRFBBOFQxcWJXSERSVnNCd0lXME1ma0pcL1NROFJqZmEwUDQxd040dUk9IiwibWFjIjoiMWFlNDRiY2ZkYTE4ZTdiNWU5YzUwNjZhN2UyZGI5MmQ3NDdhZDI3NWE1ZjA2YzlhZDI2YzBkNTM5ODE2YmJmNiJ9&amp;signature=fd9de979366ae9ab7c11cb8dfbd84cffa7c2f3a691b6ae325fc638c7f95f6643</image>
+    <start>06:00AM</start>
+    <finish>06:27AM</finish>
+    <date>20 September 2026</date>
+  </channel>
+  <channel>
+    <name>RDI News CA</name>
+    <id>RDINews.ca</id>
+    <title>Sports express</title>
+    <desc>Nouvelles du sport en bref.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IlNVOGlMdkhUSnpnN3ZkeTJPdXB2d0E9PSIsInZhbHVlIjoiUkJsODljV0xmR0I5NGdCU2NVSnl2eDluU2dJWmI4S1dyVncyUmF6a1hKbGdxTzNjc1Qxb0JmTEdJTmUyRDVnQ1NkT1JSQ1lDVGJSdkROWkNFdnZmQXZ3eHlxdHE4ajdnUmlXeXZwRXZQTmM9IiwibWFjIjoiOTlhZGFiM2Q5YzE3ZjVjNGZlYTE2ODI0YmZmYTNhZDlmM2MxYWQzZTg4NjI0Y2ExNzExOTMyYjljY2I4ZmM3YiJ9&amp;signature=65bb504ed426f3eeb7aff41c1154f4eba36c37de3ba7aa977aa8fafe5c5769f7</image>
+    <start>06:27AM</start>
+    <finish>06:30AM</finish>
+    <date>20 September 2026</date>
+  </channel>
+  <channel>
+    <name>RDI News CA</name>
+    <id>RDINews.ca</id>
+    <title>Le national</title>
+    <desc>Un tour d'horizon des dossiers qui retiennent l'attention dans toutes les r?gions du pays.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6ImtjdmtDekNcL0tVR3hjNnlhWUNoRWhnPT0iLCJ2YWx1ZSI6InBzM0pCU0tiVDg0T1VaSHJqcitIOW1MVTE3WVVmdFQ5ejVraWhodUNqUnFHa2YwZ3RoaHJHS0d0VTJUOTVpV1lCdTZpbzhiVDVoc3BoYUNLS0tReWZkMjJrK2h4M1lmXC9jbkdBUUZWcTZsWT0iLCJtYWMiOiIzM2ZkNjQxZjIwZjNiOGEzOGZiYTcyN2E2ODdkOGQ0ZDE1ZGRiMWYxMzE3MDU4YTI2NzA1MzA5ZTEyYjFkYjMzIn0%3D&amp;signature=4c111294897e3b25fcd5cb845f3fbeef8e847c437af1ef41e0aa07a9050b604c</image>
+    <start>06:30AM</start>
+    <finish>07:00AM</finish>
+    <date>20 September 2026</date>
+  </channel>
+  <channel>
+    <name>RDI News CA</name>
+    <id>RDINews.ca</id>
+    <title>Le t?l?journal avec Claudine Bourbonnais</title>
+    <desc>Un regard approfondi sur les sujets de l'heure, au pays comme ? l'international, et sur les grands enjeux auxquels la soci?t? est confront?e.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IjNOcms5bnB5eTBwbm9xcE4rMHdWT0E9PSIsInZhbHVlIjoiRFVTSWZ0bjN2XC85M0ZzZWx5K041UXJZNTIydW9NbWg2U0pUajIzR2J6NGZBTnQ3YUVhaEk3TTJkSm42ekNXN3lkRjErMTYyMWZQeGowM1NDek9oa1l6a3l4anhwQ0FiWDArWnpEOVBQOHRzPSIsIm1hYyI6IjhhNTNiMWQzZDNjNGU1MDE5NWJkYTVjNTk1NjYwNzEyMTk4NjRmYjlhOTBmMmIzY2NkZjk1NWYwYzQ3N2IyODQifQ%3D%3D&amp;signature=e3f9e107d381df6e22073cb9499be51d1bef69f8d9f78723ebeca2967ff77f0e</image>
+    <start>07:00AM</start>
+    <finish>07:27AM</finish>
+    <date>20 September 2026</date>
+  </channel>
+  <channel>
+    <name>RDI News CA</name>
+    <id>RDINews.ca</id>
+    <title>Sports express</title>
+    <desc>Nouvelles du sport en bref.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6Ik1NQXdQNk9LUzArdmhFbER6R3NhK3c9PSIsInZhbHVlIjoiVTJEYmpZZjBJZENSYzlxVlZkS2pBQzVBSXgrd2R1dmpqd0dVSXU1K0RlNDBmVjM3WVhnTURPbk9zWVZkckpjVFc1azVLcE11QjZNUmJIc2ZWODI5KytvNDZyaldCcXQ4SXZFSjV3TWpnWW89IiwibWFjIjoiZTY5MjU0MWI0OTc1Njg2M2M5YmYyYWY5YmIyM2RlMGE1NTI5OGRiODEzOTgwM2E0NDk4OTBkYmQ2ZWEyZDc3MSJ9&amp;signature=bab3030e620d6df7cc11304c77550388586ce08e68e0877371ac6569140c0216</image>
+    <start>07:27AM</start>
+    <finish>07:30AM</finish>
+    <date>20 September 2026</date>
+  </channel>
+  <channel>
+    <name>RDI News CA</name>
+    <id>RDINews.ca</id>
+    <title>Le national</title>
+    <desc>Un tour d'horizon des dossiers qui retiennent l'attention dans toutes les r?gions du pays.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IkRpTnp1ejVvdDBYVjV1dFhYYjlUZmc9PSIsInZhbHVlIjoidmp2THlONGkza3BOQkNicVdCSTBBWk94dUtoXC9lbW1HdWczMVlaV2FaMjFPbmdxcjR1cWY4OG1NbWM4c0pTbkZNTTlFdml5MHMySlFLVlp6UDFwZTdJb2VkMmJGZXJtSVBRN2RzWlhzYmRVPSIsIm1hYyI6ImNhYTI0ZTc2ODVhMDU5MDNjYWM2NTAyODQ3ODI3MmZjNDlmMzJmNjk3OWE4OWVjOTdjMDJlZTc4MDkyZjBjOGEifQ%3D%3D&amp;signature=6b0811b8a48c20ecb67c3b7965212e97ef5d64bd619e04ece47e31082d89b147</image>
+    <start>07:30AM</start>
+    <finish>08:00AM</finish>
+    <date>20 September 2026</date>
+  </channel>
+  <channel>
+    <name>RDI News CA</name>
+    <id>RDINews.ca</id>
+    <title>Le t?l?journal avec Claudine Bourbonnais</title>
+    <desc>Un regard approfondi sur les sujets de l'heure, au pays comme ? l'international, et sur les grands enjeux auxquels la soci?t? est confront?e.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IjVwVE1oUHNcL0dXN1FpV3dxRVloNzFBPT0iLCJ2YWx1ZSI6IjFGQ3ZXN255eU5SdnAxbHBMQmFjZ21JcmVQazdsdFRVSmFRQ1pld0ZSNTJMQytTeU0zTGVrTlJnWVZuXC9oclVHeDdhY1doVndnNGRQcnVTdTFSSk4wWnpWOG8xbnJWbW15dFZPZjZIc3VxND0iLCJtYWMiOiJlMzBmODE2YmRmMDRkZDgzZTlmODEwMDI0OTJmZTIyM2RhZjdhNjIzNDUxN2VjZDk5ZmZiNzNlOGZmNDQ0ZDA5In0%3D&amp;signature=40c78b665308980abb163c03a4823c20997c982536bee977c5a2691cb78cdf36</image>
+    <start>08:00AM</start>
+    <finish>08:27AM</finish>
+    <date>20 September 2026</date>
+  </channel>
+  <channel>
+    <name>RDI News CA</name>
+    <id>RDINews.ca</id>
+    <title>Sports express</title>
+    <desc>Nouvelles du sport en bref.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6Im9oNVRGaExqOTNLMXBaQVpvSVVXXC9BPT0iLCJ2YWx1ZSI6ImRFSjRDa1wveVJkZzR6bmJya2xRVURHbVVwQWIzN0hxM3pjaGlWXC9JQkVpT2I3UWNJb1pxQTAwUTlzWThjSlpKcTA1Y1JQXC84cFB1d05wV2Q0bTU3WVwvcTRnaFdENndPREMxRUd1REEzM2dPUT0iLCJtYWMiOiJmZmM0NTYzYmMzMjkxMzhhNThjZDEzYmZmMzJkOGQ2NmVmNzU1ODExYzY4ZTA1ZjRiMzNhODY1OTIyNjk2MzY4In0%3D&amp;signature=55936df2aa88f4c049aa8acc9f5a71d1b2cffa1f021653e449677638c2a22e2e</image>
+    <start>08:27AM</start>
+    <finish>08:30AM</finish>
+    <date>20 September 2026</date>
+  </channel>
+  <channel>
+    <name>RDI News CA</name>
+    <id>RDINews.ca</id>
+    <title>Le national</title>
+    <desc>Un tour d'horizon des dossiers qui retiennent l'attention dans toutes les r?gions du pays.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6ImphZFR3M2o3ZzRZXC82MmpRVEVaQXN3PT0iLCJ2YWx1ZSI6ImhWamEyNXVIVUlZYmc2dzc0RXVNc2k0Q01hQ01mQU5wWmxJNE5UOHRHbnhSYWlpcG5IbVkwXC9UQ0lkVHlUVXFBRG85TnZwQWJqK0ZCSEFJRk1vTWlnWGltWks2U1ZpU05EVEdMVkQ4TGtVUT0iLCJtYWMiOiJiZjUzMWRkODhkZDg0OWQzMTJlZGE4ODVhZjUxNDhkMmUyZThlODE1ZjBmNDQxNzBhZDFjMTAyNGU5YWE0M2FhIn0%3D&amp;signature=59c30373ce3913f6fdf81e1596d5a34e03355318b52de26c8a0b54c1f78f39d7</image>
+    <start>08:30AM</start>
+    <finish>09:00AM</finish>
+    <date>20 September 2026</date>
+  </channel>
+  <channel>
+    <name>RDI News CA</name>
+    <id>RDINews.ca</id>
+    <title>Le t?l?journal avec Claudine Bourbonnais</title>
+    <desc>Un regard approfondi sur les sujets de l'heure, au pays comme ? l'international, et sur les grands enjeux auxquels la soci?t? est confront?e.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IkJhRjJIc0hiNkFoZmI2dWNzZXY5bUE9PSIsInZhbHVlIjoiRXBMOFhUcHNFTDM2Z1BObWZWbERwRklNWkFCcHVXZWl6NGFlTGNIVGM5V3RCc2NUQ1VpTVJMSGk5cjI2UzA0MDN3R282RitrNk0rc2taV3NMNUJ3dm9mbDBDaElodGRDdkVoK1dVQitxOEE9IiwibWFjIjoiMzM2M2EwYTk3Zjk5ZDgwYzkxNmI5OWVlNGFhYmM4ZmQwM2ViZjY0MmVhYzc3MjYwMjRjNWE1MDdlYWEzZGY1YiJ9&amp;signature=fa3bfed8653f66e26931b7015fbe21c07a6406924f2699ecfa79faf2fc61bb00</image>
+    <start>09:00AM</start>
+    <finish>09:27AM</finish>
+    <date>20 September 2026</date>
+  </channel>
+  <channel>
+    <name>RDI News CA</name>
+    <id>RDINews.ca</id>
+    <title>Sports express</title>
+    <desc>Nouvelles du sport en bref.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6InRYUXFaSlAwRm1jUXlVdEhsTFFJOVE9PSIsInZhbHVlIjoiOVV4YTBZZDFBOGtWRWpqMlhtQ0puMW85OFBuUk1ZUWVKWDA2N2xSdEJiSnlDTyt1djBTVllBcmtSNFoycVNVRERmQ1p6MmttbTVBWk9PT3Q5MXlpcmRXS2tOYUtYNkZRQUZuS2lQcWdMNEE9IiwibWFjIjoiMjNlYjg3Mjk4ODI0ODMzZDVhYjI5Yjk5NTUzMzI4ZDFkY2RhZjA3M2Q3MzVhMWI2ZjE1NjZmZTM3M2U3MTJiOCJ9&amp;signature=e493cd1420cb51d7e5f532b40ffa88ceeda2828963ff10fcafe257127aa0df01</image>
+    <start>09:27AM</start>
+    <finish>09:30AM</finish>
+    <date>20 September 2026</date>
+  </channel>
+  <channel>
+    <name>RDI News CA</name>
+    <id>RDINews.ca</id>
+    <title>Le national</title>
+    <desc>Un tour d'horizon des dossiers qui retiennent l'attention dans toutes les r?gions du pays.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IkJPejMrS0xcLzg0MklVT1BiNXVSeVdnPT0iLCJ2YWx1ZSI6IlNQTE92TmdlMEhzOXpPRGFCZllpZDdwR1NnUngyVFdXc1ByaURtXC9uVkREcmgxWnl4ZEZrRUs1eTRsRVFnaDBlXC9WeFY0TWdPOEpOSFNlT1k4ZUVRRmwrNDlkMEZiNW9zcll5RUV1aUpSSkU9IiwibWFjIjoiZWI2MTEyN2JlNjA2MDM0NjRkYTAxM2JhZTJjNWIyMDEwZGYzNGZlNzEyMWMyNTEzOWJkZDc1MThmMTgwMTE4YiJ9&amp;signature=f69e3c17c7349d445dc8a590fb5f7b17f1048a4657c3e8dc33cd7f9f83d68d1d</image>
+    <start>09:30AM</start>
+    <finish>10:00AM</finish>
+    <date>20 September 2026</date>
+  </channel>
+  <channel>
+    <name>RDI News CA</name>
+    <id>RDINews.ca</id>
+    <title>Le 64'</title>
+    <desc>Les nouvelles internationales d'un point de vue europ?en.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IkhPWlFOd2oyMHZQTXNueU1CbXJLbFE9PSIsInZhbHVlIjoieEFQSFwvRnVMVlc5bEh6NVk4dE1lelltQ3J3bU9waUFCa283NEd6WTZEb2RSQVYzT2dlVkYzUklVSzY5UVdFQkQ4S3psTEVEWTZOS3piQzlNcjdKbVBqOG05MDF5dFdzdWtjV2ZmUUJ3OUpnPSIsIm1hYyI6IjE5OGExMmEwMzVkNTUwMTZhMjk1YzU4MjBkNDQwYzRlZTIxMmMzYjk1ZTdmM2U1NGQzY2Y3YjViZmE1OWUzOTEifQ%3D%3D&amp;signature=dbc12e0a07831e66d25a9fae64b4262fa5a6214a407f4aed39a61115d20033a5</image>
+    <start>10:00AM</start>
+    <finish>10:34AM</finish>
+    <date>20 September 2026</date>
+  </channel>
+  <channel>
+    <name>RDI News CA</name>
+    <id>RDINews.ca</id>
+    <title>Le t?l?journal avec Claudine Bourbonnais</title>
+    <desc>Un regard approfondi sur les sujets de l'heure, au pays comme ? l'international, et sur les grands enjeux auxquels la soci?t? est confront?e.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6InVRR3Q5elh3Q0JIZkhweWZNWjdDYUE9PSIsInZhbHVlIjoiRm1ZWXlMWkEzMTBFUjdab21cLzROOUhmbFZwd0p6bU9lTDFEQStxNHpJWjlEYWI5azc0QW9zYUNCSlhOeURJSjZuRk8zRUlPRGtDY1c0S0lKUThnZEl6QTlIN3I0SVZLSFRTeUU0ZlFcL2VTOD0iLCJtYWMiOiI0MjI2MjA3ZjY2YjMxYzUxMTRmOTdiMGQyMTA3YTUzOWU3OTY3NjQ4ZmUxYWNiYmJlNjY5MDY5YWM5ZGMyMGEwIn0%3D&amp;signature=e5e0cf12d9e41e3e3d6c46557dbd984ce3642a9fb1a9de6bb131a2fb5b0fee8f</image>
+    <start>10:34AM</start>
+    <finish>11:00AM</finish>
+    <date>20 September 2026</date>
+  </channel>
+  <channel>
+    <name>RDI News CA</name>
+    <id>RDINews.ca</id>
+    <title>Live: D'abord l'info</title>
+    <desc>Toutes les informations essentielles pour commencer la journ?e : les derni?res nouvelles, les sports et la m?t?o.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IklSamlUQ3JSdW9GNHZZY2pnYjUrUUE9PSIsInZhbHVlIjoiTmVjN2lYYkZjVjd2RWVla1hCZHkzVHhoQ2ZHb1FrbEptVlpwcHlZUzZZdkxaSmNTMVZXY1orc3U1cmNlbXd1azNtSUtGeHZvamlPT1MxTGNFTGZMVVcrU1NxazNjb1hQeHExZk8wV2VDenlKNUNVa1A2QzBrWXFCeVE5Vk1HeFoiLCJtYWMiOiJjZmI3OGIxMDE3ZTJiYjhjMGIxNjliNzFmNDE1NGQ4MGQ2OGJhODM2M2JkN2E0YjZhM2YzNTE2NTNmZWZiZmM0In0%3D&amp;signature=735bdccbef4b215e1ee069547c07f001c76ec7e903437f9830b21a8bf75d22e4</image>
+    <start>11:00AM</start>
+    <finish>03:00PM</finish>
+    <date>20 September 2026</date>
+  </channel>
+  <channel>
+    <name>RDI News CA</name>
+    <id>RDINews.ca</id>
+    <title>Live: L'info maintenant</title>
+    <desc>Les nouvelles qui marquent l'actualit? au pays et ailleurs dans le monde.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6Im9IRTI5VHA1dGE4akQxOGdFSjdRK2c9PSIsInZhbHVlIjoiN1wvVElweFwvblZDcTMybmJSd1wvMnVqdXg3bzdoeEhMQTU4MGd0U01JKyt5VVh5U0htWHRmb2pBU1wvRXZranJBV2lMekRPWnNlTmZSQVZHZDliQWxEaVAzXC9kOFpiS1I0V2FNWGRSQlZWUjdNelR3MGI2SytFYnh2bWI4UGh1OFZtSyIsIm1hYyI6Ijk3Njg4N2JmN2MwODQ1ODE0ZGUxYWZiYThlMjQ4N2YwOTNmNzEwYTRjYjhhOTU2N2FmMzNmNjhiNjRlZDQ3NWMifQ%3D%3D&amp;signature=797d725805275cc3f2668f89bddaf76e6f9829cfd9916bef827aa15adec2945f</image>
+    <start>03:00PM</start>
+    <finish>03:30PM</finish>
+    <date>20 September 2026</date>
+  </channel>
+  <channel>
+    <name>RDI News CA</name>
+    <id>RDINews.ca</id>
+    <title>L'info maintenant</title>
+    <desc>Les nouvelles qui marquent l'actualit? au pays et ailleurs dans le monde.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IjdZQkdwVUU0XC8yQnR4cHNsakV5dUl3PT0iLCJ2YWx1ZSI6ImdTMVZEZ0VOcTQwd1N3SjZmMEt6RXUzaEJmQUE3ZjIzV3lMYzRwdWJlemNxRGJTWXBiRE83TlQ2OU9pK1d3RXdaSUVSQ05hbFRBYU5mYlZRUXhOUElVQk91UStieWdTM3FOQXFIYnlDclUrVmZ6QkFjQW5RTEN4K1R6eFwvZUtacCIsIm1hYyI6ImJjMGU3NDZhOWU4OWMxMzdkZGIzNDkzZDFmYWQxZTY5OWRmNGE2NmNkOGEzODY0MTk0OGNhNTA4MGU3NjQ5N2EifQ%3D%3D&amp;signature=edd0f96f0cfb7a68f5821b50503b8ef51380fbf68f70e34cde038ecccc3834c5</image>
+    <start>03:30PM</start>
+    <finish>04:00PM</finish>
+    <date>20 September 2026</date>
+  </channel>
+  <channel>
+    <name>RDI News CA</name>
+    <id>RDINews.ca</id>
+    <title>Live: Les coulisses du pouvoir</title>
+    <desc>Incursion au c?ur des d?bats politiques qui font l'actualit?.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6ImJpRDhPRzNKVVg1c0NJZVwvRXBtbkNnPT0iLCJ2YWx1ZSI6Iks4TFpla1U3RFwvUmtDSFdRVTdjMTQ1Y0hJMGI3REVjbkJTazU5U3ZJZG05WnRVSU1yZFp4cks4SDJRN0R4YktDd251emlUY2pkY3NWUVlNUnliWms3bGpqVkVDTThQREVLeVVKU0F2TWlQRT0iLCJtYWMiOiIyNmM4MzQwNGFhOTQzZGE2Yzc4OWQ4MmY3ZjY2OGNhYzFlYzYyN2E1NGRkZDMyOTcxNDBjMmYwOTljMWM3YmJmIn0%3D&amp;signature=37dcf14aa0c0c612afd1d1624e25b4656aeb357eebf43e3fb0e2d963ba6cb6b4</image>
+    <start>04:00PM</start>
+    <finish>05:00PM</finish>
+    <date>20 September 2026</date>
+  </channel>
+  <channel>
+    <name>RDI News CA</name>
+    <id>RDINews.ca</id>
+    <title>Live: Le t?l?journal midi</title>
+    <desc>Le point sur l'actualit? avec les journalistes sur le terrain, au pays et ailleurs dans le monde.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6ImFGMFl4ZGQycEZWV0VTTzUxMXZBZGc9PSIsInZhbHVlIjoiSDJEclNFU3h4ZE9VTzBUY0xsYVNkdXgyRUtPY0JMbWtkeVorM2g5MEVucWVxalRyck5VYk9tbG9Sa1NuQWdXQ29xSjBYaHdIcXhCZnV3S3lsR1QyQVU2YktXeFRPR1NJc3pZYmVKUzBGV1wvekFPVVN2aTlMZU9ocDBjUUZxcTRXIiwibWFjIjoiY2Y0OWVhMzRiZGYzMmE4MDk4MjNiYmE0YTliYWMxMzIyYjBlYmM3YmU5ZGQyMTg1YmVjNzQ4YjY1NTAyODlkMiJ9&amp;signature=cf8224a79240a6033f6e9da974558552ffde3efa2f3c5d0277ddeaf2549c497c</image>
+    <start>05:00PM</start>
+    <finish>05:31PM</finish>
+    <date>20 September 2026</date>
+  </channel>
+  <channel>
+    <name>RDI News CA</name>
+    <id>RDINews.ca</id>
+    <title>Le t?l?journal midi</title>
+    <desc>Le point sur l'actualit? avec les journalistes sur le terrain, au pays et ailleurs dans le monde.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6Ijk1VElUQnlkR0FEckZqcU42RFhIWVE9PSIsInZhbHVlIjoiT2h5aHlIUFp4TUNyYzVGamExYWc4NWVhUWRGaFwvNW5CeElmaTAxYVRqSDdkaHB2ald6SDhrNFBnXC9kbVNoaTdDdU9xYnZJdDgwMlRJM0tJN2Z0RGJkcnJZaEpIdTVGMGllU0RDYk1iK0R4VjZYeDB5N09rS043azVPc01DckhCVCIsIm1hYyI6ImUyNjhkMWI0MTNmZTI1ZmFiOWU3MmVlYmEyOGZlZWY3MDY4NDc2YmM5OWY4ZjI3OGYwZDkyMDYwN2FlNzFiNjAifQ%3D%3D&amp;signature=2f9b00f85abf884c733b1c9c0a896e7019f84df007cbf22fb367af183ed8b624</image>
+    <start>05:31PM</start>
+    <finish>06:00PM</finish>
+    <date>20 September 2026</date>
+  </channel>
+  <channel>
+    <name>RDI News CA</name>
+    <id>RDINews.ca</id>
+    <title>Live: Le national hebdo en direct de Calgary</title>
+    <desc>Un tour d'horizon des dossiers qui ont retenu l'attention pendant la semaine dans toutes les r?gions du pays.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6Ikl3Z0NyVWhZaWF1ZEVQeW1rd1FWQmc9PSIsInZhbHVlIjoicEtaVWFXSnlYbDR6QjZnbGNRUTlSSUprdUpzaERDcTRRZlM0QmNvclhXbGd0dEg5SFE2V2piaEYxWXY2aXpMblBBanVuK1FsVWFsaFJpdjl0bzdUa0pjRTh5dUlJd2hDYmVGUCtUUVk3NXMxZGZpd210bjZMeG1pbmIyazFpY0QiLCJtYWMiOiIyNWI0NTU0ZGJmMjI0ZWQ5Y2ViYmJkZjJkMGM4ZmY3MmM2MmEwNzUyMGQ1MTg0YzY5MjhlYzE1YjQ3NDQwYzhmIn0%3D&amp;signature=70ab59230fdbf5485189ea6e74e005aa70dbc8a524a248e0671f354845f50599</image>
+    <start>06:00PM</start>
+    <finish>06:30PM</finish>
+    <date>20 September 2026</date>
+  </channel>
+  <channel>
+    <name>RDI News CA</name>
+    <id>RDINews.ca</id>
+    <title>Live: L'info maintenant</title>
+    <desc>Les nouvelles qui marquent l'actualit? au pays et ailleurs dans le monde.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6ImVuMFUyRGY0MDg5Z3BQdzJ6bUtPZmc9PSIsInZhbHVlIjoiaXFaUzVjSDJIOVBOcHFXV1Q4RlVSRmdud1RDS1JMRXRBbDdlSzUycVRyaUlxRlBEeTZMTkR6SEplOXU2eXVETCtSR1NTSTBGZ0VuYVlGK0J3K251eG1TXC81M0plYmFNXC9VNmdTMG5QWWhCcmlRK3JjN3E3dm1NUXJxMEgzckU3eiIsIm1hYyI6IjEzZmFhYzc1MzEwMTQ0MmZkMDY2ZGQxOTMxZTc5NmY1OWQ0ZmEyOTUyNWZmYzkxYmMyNDQ4ZmI3OGY1YzUwNDMifQ%3D%3D&amp;signature=b8867bcdc6f2f10dc70adb2e6c52e1db6599188ff220b1965dcac8f78bef1459</image>
+    <start>06:30PM</start>
+    <finish>07:00PM</finish>
+    <date>20 September 2026</date>
+  </channel>
+  <channel>
+    <name>RDI News CA</name>
+    <id>RDINews.ca</id>
+    <title>Live: L'info maintenant</title>
+    <desc>Les nouvelles qui marquent l'actualit? au pays et ailleurs dans le monde.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6InBmcTJCYlJjSlJcL28zSHZ3d3FCN2x3PT0iLCJ2YWx1ZSI6IkhqcForZ1VRc3gxUFF1b2phWERHNXB4d3gxeE5aT2RuYlBBVHhXYm1ib2sxc25kdzVQTDdtVWRGM2pZZmlFdHI5YVwvb09XRldEaXVWeTc5Zmk5UWxQN25sZVJqR3R2MCtvdE91Y2wxRHl3Wm9kU3l1Znp0dFBsdW5xRytGMCtSZSIsIm1hYyI6IjcyZmU1MzE4Yzk4MjdhOTdhZmFmZmJhODM5ZWQxYTM1YjdjYzk1YmE1NmVkNTMwMzY0ZDdjNWE3NzYzZTMzMTcifQ%3D%3D&amp;signature=f86e4b431503ca13c2d64565e360b6d7a18f0459a86e5ae5e7e07814709a964a</image>
+    <start>07:00PM</start>
+    <finish>07:30PM</finish>
+    <date>20 September 2026</date>
+  </channel>
+  <channel>
+    <name>RDI News CA</name>
+    <id>RDINews.ca</id>
+    <title>L'info maintenant</title>
+    <desc>Les nouvelles qui marquent l'actualit? au pays et ailleurs dans le monde.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IkZoSEM4Tmp3eE54bXdheFNUbHBOUmc9PSIsInZhbHVlIjoibFlzUTBhRVJKR3BsYVFZZW13Q1JYNFdKVlpSZ0dJR2xcLzBaOGJwUGtUcG1HZ1BMelJjZ2p3RUZFSjFGUlwveUZ0Y2IwSll0cVBTR0p6UVNXS3ZaSDN2QlRBWFE4eWdOc1dOU0VEeEJveGJpY3BGMTFQbG9jeDFCUXd2Ykl0YUtiUCIsIm1hYyI6IjZlODU3YmFiMGZjZTUzYjExMTdiZTA1NjYxMzg0ZWY0YzhjYzRiMDQzYWExOTBlZTkzYTE5NzE5YjYyZWI5MWMifQ%3D%3D&amp;signature=dd42f77ebf3b0ad102f559eeec9b40efcdf93dfd12fc611bdc3da7ff23c650d2</image>
+    <start>07:30PM</start>
+    <finish>08:00PM</finish>
+    <date>20 September 2026</date>
+  </channel>
+  <channel>
+    <name>RDI News CA</name>
+    <id>RDINews.ca</id>
+    <title>Live: L'info maintenant</title>
+    <desc>Les nouvelles qui marquent l'actualit? au pays et ailleurs dans le monde.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IlBCaFpuUXZrK2d5blY5dkV3M252Rnc9PSIsInZhbHVlIjoieGhGZG0rUHpJaEttMjc4NkI3d04xaXIwdndhOTdrbk9JdlQ3bFRxUzBvVUJ3bndCTXNueDVoNXR4V29ManRcL3lEZGRXcU9LbFJxQU9jSzhYY0VtQklweHR1dmRCVnV5aTFIY2Noek03XC9DN1hzdjdSWWtmWktEYlNiUEtBVDN6ayIsIm1hYyI6IjVhNDNkMWE4ZGFmMWVkNTIwNTI3YmFiNTViNWVkMDAwOTE5NWNkNGM2Y2YxOTlkMDI3Zjk4YTExNDQ3YzUzZTIifQ%3D%3D&amp;signature=04262f0bcee9acf81a7bab2b886abfe5d36fe34c561aa16966cb1832fe6870f7</image>
+    <start>08:00PM</start>
+    <finish>08:30PM</finish>
+    <date>20 September 2026</date>
+  </channel>
+  <channel>
+    <name>RDI News CA</name>
+    <id>RDINews.ca</id>
+    <title>L'info maintenant</title>
+    <desc>Les nouvelles qui marquent l'actualit? au pays et ailleurs dans le monde.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6InhYc3pjNHU5cGR1NUVoMER0QTVRRGc9PSIsInZhbHVlIjoiVmZqWDgreFwvQ0J5THp2bVFSQlcyVXNTSkg5aDU2UTVrZ3pjem85KzZVcFlwSXNKcjYwM3R1WjJLUWoreFY1NDluSFdIVzc3b3V6dXY0OGhnYmpYTkk3eXdwK0dSTHd0Nm0xSDRsSk9YQStIVU04RTI4K3RYWkxadjlQemtYd2VyIiwibWFjIjoiNGVkNTljYjA5MGMwZGIyYmNhOWMxOTMwN2U0OGNhNDgwMzRhYmFkOTJhNjgxMWRmMDc5YzExNDFkMThhZWRkZiJ9&amp;signature=876be958dd35bd342b0c66cecde7a7dc11a509f12b3d507f5478bd7c71991813</image>
+    <start>08:30PM</start>
+    <finish>09:00PM</finish>
+    <date>20 September 2026</date>
+  </channel>
+  <channel>
+    <name>RDI News CA</name>
+    <id>RDINews.ca</id>
+    <title>Live: L'info maintenant</title>
+    <desc>Les nouvelles qui marquent l'actualit? au pays et ailleurs dans le monde.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IlJaeGNzSGl6bTdXdHJoaml6dmMwNlE9PSIsInZhbHVlIjoieXVhdVF5cHZVNUJuZExEUHNmQWxHNFhKSHZVbjVKREN0QXFhMGQrZVZpdUEybWwra3hPREp3cHBxa3hsSmRZM2dtUXJlelBoTzVEdmJDaVlNNndzRStCRlBmTE1HdU8xdEJFOVwvRlVIcGNFRFN0NzRZVG16MUswSWdwcno1YnV3IiwibWFjIjoiOGY2NjBkN2JhYmQzNTAyNGE1ZjUwZmY5NGRiOGNlNTFlY2QwNWM0Nzg4MGQzMmZiMDUwOGUxY2YyZTYyNGVmZCJ9&amp;signature=0c5e39e2b38d5bd08f913043a44c6d2a4c47c9a6f7328f81e36fab3fb6b3eb1d</image>
+    <start>09:00PM</start>
+    <finish>09:30PM</finish>
+    <date>20 September 2026</date>
+  </channel>
+  <channel>
+    <name>RDI News CA</name>
+    <id>RDINews.ca</id>
+    <title>L'?picerie</title>
+    <desc>Magazine d'information sur les bonnes pratiques en mati?re d'alimentation ; analyses, bancs d'essai, tests de go?t, d?couvertes culinaires.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IkR4alwvMmIya1NMYUpBQ3Y4TDVEbkpBPT0iLCJ2YWx1ZSI6ImE2d0xSNHVmQzhESyt2enIwQXV4OW9QcWI5ODdLSFU2VzliRitVTVNqTnhtTVpwR0xUMXRrNjN0d01ya1wvY1A0UXJtTHUyRWpjOU9yQmg1akZOVFNBQTBHWHVFbHZaZEkyZ28rXC8xNG05Ykk9IiwibWFjIjoiYjZjYmVlNjkxM2VkOGFmOGY1YjIxZjUxM2JmNjk5MmIyNDUxNDYwYWUyNzJiM2FkOTc1MzRlMWQ0NGEzOGJiYyJ9&amp;signature=1b5d5773545a17f39e1cb111b1e6de56dc0925a58b2df104e6f316aa0ff94f88</image>
+    <start>09:30PM</start>
+    <finish>10:00PM</finish>
+    <date>20 September 2026</date>
+  </channel>
+  <channel>
+    <name>RDI News CA</name>
+    <id>RDINews.ca</id>
+    <title>Live: Le t?l?journal avec Claudine Bourbonnais</title>
+    <desc>Un regard approfondi sur les sujets de l'heure, au pays comme ? l'international, et sur les grands enjeux auxquels la soci?t? est confront?e.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IjVcL3dNS0UzeHUwUE53c2VyQVlMaWRnPT0iLCJ2YWx1ZSI6ImpEMkM0SGQ2SWQ0NVdBNVVpS3lCRUJVMk5IMGpBT3ZUeCtzVHNjZjh5c2tCVDFsNmxHbUludGpCYVhsazdDZ2h1ZElEZmVHdGdZa2pFVkNGSlFndEIrZVwvU2JSQUt2MXFzNVI1akVLNVJkbz0iLCJtYWMiOiIyMmU0NzU5NzQyNmE4ZGYwY2ZhOGJjMjEyMWJhN2U4ZDkxZjRmYTUwZWJkYzc4NzU3YmIyOTQ1ODJiMWIwYWIyIn0%3D&amp;signature=7c87a553aedcabb06187e387b9419dffd972d7c44eae2410e9be3fc374754106</image>
+    <start>10:00PM</start>
+    <finish>10:30PM</finish>
+    <date>20 September 2026</date>
+  </channel>
+  <channel>
+    <name>RDI News CA</name>
+    <id>RDINews.ca</id>
+    <title>La facture</title>
+    <desc>Des travailleurs accident?s bris?s par la CNESST.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6Ik1SKzdoVEVCeWVDSFpjem9oSndVZXc9PSIsInZhbHVlIjoiTWtMVEpwcm1abDl4UVwvK1Eza0xDV2pNXC9WaFZRbEd3dWI2M090TVhcLzNPNHJlcmZMNk1ZbFFGREZNdmpjRng0UWtLbUlpcld3UlVwRlwvdnhoQUtldFEwbFFtYUdXdmJ0Zklkbk4yREhvVUFNPSIsIm1hYyI6ImI0ODgzMWJiNWMwZjAyMjAzMTZmYjBjZTcwYTVjZDczNWM2M2MzZjE3NTE2M2E3YWIyY2M3NzJhNDZiMmJkMzQifQ%3D%3D&amp;signature=de3e5fc3e6349ba4ea7d5fd2ea72c39cafc880104997f6a5c6deb7874a7d58b0</image>
+    <start>10:30PM</start>
+    <finish>11:00PM</finish>
+    <date>20 September 2026</date>
+  </channel>
+  <channel>
+    <name>RDI News CA</name>
+    <id>RDINews.ca</id>
+    <title>Live: Le t?l?journal avec Claudine Bourbonnais</title>
+    <desc>Un regard approfondi sur les sujets de l'heure, au pays comme ? l'international, et sur les grands enjeux auxquels la soci?t? est confront?e.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IjNsaWRxemxrZWZCUmRxRmNnQzI4c1E9PSIsInZhbHVlIjoicjdienFyQW45Vm5wVk1SNDBOaFlTeHJ2QXQzc0tvZVRXeDhVdlVXdEZWdkVQc3UwM1p0M2RWRmNSVlM1SUtodHlxeVBDQVNYc1pIaUNwYW81QThVM2JyMU5icURhS1pcL0swT3ZlUmE2amhVPSIsIm1hYyI6ImEzMDA5NDZiNGNmNWUwOTRjMjdmOTYwZDEwZjQzOGEzOGYyZGVlMzczMDc2MzIxYTkyYWNmYTgyNGY1ZWIwYzIifQ%3D%3D&amp;signature=657d42309d1da50f3377ca5c2e37e8f227d8cce9fdd1608590a2742744dd8eb7</image>
+    <start>11:00PM</start>
+    <finish>11:31PM</finish>
+    <date>20 September 2026</date>
+  </channel>
+  <channel>
+    <name>RDI News CA</name>
+    <id>RDINews.ca</id>
+    <title>Le t?l?journal avec Claudine Bourbonnais</title>
+    <desc>Un regard approfondi sur les sujets de l'heure, au pays comme ? l'international, et sur les grands enjeux auxquels la soci?t? est confront?e.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IlYzamowbmNucU41MXhvbHRyXC9mUDR3PT0iLCJ2YWx1ZSI6IkhacWNrdmxPZ3BLSjJ6SGVpVGRPQ0xcL09sWmVJa05zcmVJcFkwU2dHZ2FzYzVobzRPamFCcU9qV3FuOGozK3VtQU1RZEtxXC9oNVJUVnlwZXdVbjBwbncyOXNFeng5aWUrcTV1TmRKN1A0c0E9IiwibWFjIjoiZmZhMGFkMzJjODk2MGM1ZWQ2ODZkZTUxNzNjNmJhNTA5NTgwNzQ0ZDczZWM0NmUwZmMyNDZjNDc4ZmFlYzRkMyJ9&amp;signature=321f34b6930c2d08e784701e6ce50e7859290a1685ecd63a599885fd991eb918</image>
+    <start>11:31PM</start>
+    <finish>12:00AM</finish>
+    <date>20 September 2026</date>
+  </channel>
+  <channel>
+    <name>RDI News CA</name>
+    <id>RDINews.ca</id>
+    <title>Live: L'info maintenant</title>
+    <desc>Les nouvelles qui marquent l'actualit? au pays et ailleurs dans le monde.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IkNhKzAyalJubFZjVmQ5eHMwWjdvNkE9PSIsInZhbHVlIjoiNStwVHdLdUtQRzVtWmorT2txbjE4TFYyR1VPQTFNV2tkMlwvZ3puajNwWlFIQURLRkVObjdHck1ZdkV5Q00wV1A3WjRkMDV5REtBdWR5VXFhU1V4SkNiOFB3WmhlSXBBRWx1ZEF3MGh1V1dlODIzaklEc3NudmhPcGx0eDhVb1Z6IiwibWFjIjoiMzQ2MjZmMGYxMzFlN2YwOWZiODA0MjljNDNhMzQwZjQ5NWFkMjFhMGViNTRjN2JhYzI1ZTUwYWFhYTU4ZjA3YSJ9&amp;signature=046cbf8b8c83bcbf04b732009908cda1eccd79663883e7f6080d5488872f9a52</image>
+    <start>12:00AM</start>
+    <finish>12:30AM</finish>
+    <date>21 September 2026</date>
+  </channel>
+  <channel>
+    <name>RDI News CA</name>
+    <id>RDINews.ca</id>
+    <title>Live: L'info maintenant</title>
+    <desc>Les nouvelles qui marquent l'actualit? au pays et ailleurs dans le monde.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IlNHVnp6aTJzTDQrdVlLdHdSRnRtUFE9PSIsInZhbHVlIjoiN3pOMjUySU9YT0R4S3dRdUJIczhmNVRTZWxXYnNOOFRnNUJTbXJDdEk5V1wvdXNhS0c2XC9wOGlqWE96OEVseFFmUzdpc0JQWlpaNThqc3hOVXEwcVJ2Rm0rdXk3T0dlSUx3VTZwbjJTaHdIcXJlOHBnTzlPa3E1MlVQTDlRbEtWdCIsIm1hYyI6ImQ2NWNjYTVkNzc5YTdmNzYxZjg5YzA4YWYwZTE3MjA1NjNiZGE5MzdhNzcwODQwMDFiNjI1YWMzMzM4ZmEzNmEifQ%3D%3D&amp;signature=c902fe5fec159e6ea53ec1a2338ce81d490d7c38ec516fcad26ae80f93b04a7c</image>
+    <start>12:30AM</start>
+    <finish>01:00AM</finish>
+    <date>21 September 2026</date>
+  </channel>
+  <channel>
+    <name>RDI News CA</name>
+    <id>RDINews.ca</id>
+    <title>Les grands reportages</title>
+    <desc>Avril 1945: la fin du r?gime nazi est imminente; des adjoints de Hitler ?laborent des plans pour survivre ? la fin de la guerre; seuls ses fid?les les plus inconditionnels restent ? ses c?t?s.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6Im8yb1Q4ZXprajhpUzA3WkZsempiU2c9PSIsInZhbHVlIjoiTTkxK1UyVEtqY05ZRHd6OXgwTlwvZDU4V2s5XC9SN2I0bnhuNitHV2JxWG9qZ3Z5VXZ2a3FobVhpZFlIUmxidmJiWDBCaDVTTEJ5Q1FJYXpNa21oQUVcL1ZrMTNGTzFBclJLcDVlM2MxRWVuelU9IiwibWFjIjoiMmYzOWZkOTcwYTFiMWU0OTMyNDVmNjJhNjIwMTk3OGU5MWM3NGY5ZjEwNTdkMjdmN2IyMjNmN2UyMmYzMzE4NCJ9&amp;signature=e231627eaff6a32dfab7fbf2e5f5c56b19e6d87fa0332a0506fce218766c9222</image>
+    <start>01:00AM</start>
+    <finish>02:00AM</finish>
+    <date>21 September 2026</date>
+  </channel>
+  <channel>
+    <name>RDI News CA</name>
+    <id>RDINews.ca</id>
+    <title>Live: Le t?l?journal avec Claudine Bourbonnais</title>
+    <desc>Un regard approfondi sur les sujets de l'heure, au pays comme ? l'international, et sur les grands enjeux auxquels la soci?t? est confront?e.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IkpqMlwvdWQ1Sk54OUxVcWFqWXNSOVRnPT0iLCJ2YWx1ZSI6IlVvUkRFSGl4c1VVMTJkNDI1Vm5vVlFiQ0IzQWdBNVo1REtjTTRzbER4QnNYMDlXQkl6VzA3NEdZcjVmeE0yWDdVYk90Y1Z3N3dhZkxSblFSQnhpQWZWV1VnMk5cL1NNV2VrR2laQXJ1Qlhwbz0iLCJtYWMiOiIwMGY5ZGE4MGZhYWIwODFhMDdjNjgyZDA2YTIwY2Q3NDg0OWU0ZTNhMjJhNGY3NTJiYTU3OWQ5NGYxYWU1MGI2In0%3D&amp;signature=428a896c50441f2cc63891793f9769b11f457ee1f81c46f71859edebdbb8a93f</image>
+    <start>02:00AM</start>
+    <finish>02:30AM</finish>
+    <date>21 September 2026</date>
+  </channel>
+  <channel>
+    <name>RDI News CA</name>
+    <id>RDINews.ca</id>
+    <title>La semaine verte</title>
+    <desc>Magazine d'actualit? agroalimentaire et foresti?re qui aborde les enjeux environnementaux et les innovations en gestion des ressources renouvelables.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6ImZqUFh6cnR4VjF5WEQ1Tys1cFpIQ3c9PSIsInZhbHVlIjoiblNUeXpuTUdFWkx6VXp2Q0piZUJWdzFIblhlSFZKSEp4cXFhbXVydzBuNExrdCtyUU53TDhOcW1DK05DSkpYMmd1R0NtdThjY1Nhc29ISzlobVMybEFoM0JxMEpTblF0R2pERTZmWGlNMlE9IiwibWFjIjoiZjE3ZmFlODNmYTJjMzZjODZlMGYzY2ExYzMzMGQ4OTkyYjA0Yzg0NTA4MmNhZDc5OTRmMDI2MTI2Yjg4YzU0OSJ9&amp;signature=532adf47e194df15bbb4bccb8797ab85b47e1bc3e0c2d485ea60fd6a32669f52</image>
+    <start>02:30AM</start>
+    <finish>03:30AM</finish>
+    <date>21 September 2026</date>
+  </channel>
+  <channel>
+    <name>RDI News CA</name>
+    <id>RDINews.ca</id>
+    <title>Live: Le national</title>
+    <desc>Un tour d'horizon des dossiers qui retiennent l'attention dans toutes les r?gions du pays.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IkhhcFplU2NQNTQ5TmtWc2VMYmdNRmc9PSIsInZhbHVlIjoiUGc0ZFFrSnNnSTRnd1hnZEZVMDFqNFNmbll1TVhRQ28rK1ZDejI2WkJ2UGJLOHZVRnhueXlPT0c5d3FBMzBvNnlkUDZuR2hUSzZ3cGpkYkJNNVBKeG1UdDk4a1o2djgyK2l6TWlJU0N3Z0k9IiwibWFjIjoiZTU1ZmNjODhjNzhhZTE1YzdjZTFkMDFmNzVlNDIzM2IzNmViMjA0MzFhYmRhMWMzZWRhMWU5NDFiYzhlYjJhMCJ9&amp;signature=03b36e77a09fdad7bfd7471534ede2f2f977215c2e080b8a87d9ee9ed56599d6</image>
+    <start>03:30AM</start>
+    <finish>04:00AM</finish>
+    <date>21 September 2026</date>
+  </channel>
+  <channel>
+    <name>RDI News CA</name>
+    <id>RDINews.ca</id>
+    <title>Live: Le national</title>
+    <desc>Un tour d'horizon des dossiers qui retiennent l'attention dans toutes les r?gions du pays.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6Ik5HbFZUZ0o2UDlKKzd1YUpQZ2hMK3c9PSIsInZhbHVlIjoiSHc0V1JCS2szbXRWdEp5elR0RFZcLzdoSXpMVXYycUZISUR1eG5qZDFTMXBQQmJJVDRJc0h4NVo0Y0xlOGM5aXRseURnYXA0YWZkMXp4YlVaNzdBZ2lMakRLUWNLVXI4ajk2YUQrSldJODZBPSIsIm1hYyI6ImY0OTNlMWIyZjFjZTA3NjljMTI1MDdhYTMwYWMwNWUyMzI1MzRkNDhhYWZiMzQ1NTI4M2FlZmNmMzFmYzZhYzgifQ%3D%3D&amp;signature=74bb56ae0d6c65fbef86d3e122a4673094d789cce91a0751f611c6debba806e1</image>
+    <start>04:00AM</start>
+    <finish>04:30AM</finish>
+    <date>21 September 2026</date>
+  </channel>
+  <channel>
+    <name>RDI News CA</name>
+    <id>RDINews.ca</id>
+    <title>Le journal de France 2</title>
+    <desc>Les derniers d?veloppements des dossiers internationaux d'un point de vue europ?en.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IjA4NUNiaFlZaUduenJ2YmxOMlE0Smc9PSIsInZhbHVlIjoiWlJGdTNjY3F5WjNURTdZeVFtWDY0ZmdzU0RCWlV5ZEMxRXFERFphcE1Yc0NpQXFGSExUQTFKSVNQMjV3VkJONmlsNkN2RmlFQ3FsdncyaVN5dDFSWTJHWFpMcUY3NUxjakR6RTB5U2xZVzQ9IiwibWFjIjoiZmQwNmM2NmFkZTIzNjkyZTc5ZTU0OWViZGEzNzViYTY4YmVlNTk3MWJkZDA0YTg1ZDZhOWY3YWUzMTJhZWEwNyJ9&amp;signature=b3626864556f22c888033cc20a857e845a6efad510af72a131b18370ce3d1a17</image>
+    <start>04:30AM</start>
+    <finish>05:00AM</finish>
+    <date>21 September 2026</date>
+  </channel>
+  <channel>
+    <name>RDI News CA</name>
+    <id>RDINews.ca</id>
+    <title>Le t?l?journal avec Claudine Bourbonnais</title>
+    <desc>Un regard approfondi sur les sujets de l'heure, au pays comme ? l'international, et sur les grands enjeux auxquels la soci?t? est confront?e.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6ImNcLzVpd3J1emg3MFwvcENFeTdMNmNTdz09IiwidmFsdWUiOiJMSUhncUQ0bkFtWGZKTmxXMVI2bHI4czNBNDA5RWE3cWRaYktBbkpZNVlQdFZBcTYxalh4ZVwvNTNSRm9pXC9DZDN5b3FpdDAzQ25sS1pyWkQ5V2tudnltYVY0T0VURWY0a05PU3J3UllUWlhvPSIsIm1hYyI6ImVkNWI2MjA1YWM3MGY5NWYxNjhkZjY0M2U5ODE0MzNjZGJkMzJmMzg4MThjODM5ZTA2MzQxYjM0ODY3N2JhMWMifQ%3D%3D&amp;signature=4981ca1b6e708e40cd618395a780195c7e449dc45e940e436a1a41c395f78823</image>
+    <start>05:00AM</start>
+    <finish>05:30AM</finish>
+    <date>21 September 2026</date>
+  </channel>
+  <channel>
+    <name>RDI News CA</name>
+    <id>RDINews.ca</id>
+    <title>Le national</title>
+    <desc>Un tour d'horizon des dossiers qui retiennent l'attention dans toutes les r?gions du pays.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6InlNdzkrSlwvRUNuZU1WSGZXS2V1eG1nPT0iLCJ2YWx1ZSI6ImpjT0p1SFNZSG5hYTc1YmkraDRWZ1BpbWZYUjZobWhFekhuYm5yNTBCSWZ2QUdwOXVpSExnVmJhRHlabFwvaVNRWm5iK01RRWZ4T2NNVHkxZGVTVG9iZFpndFArVjNwdFVKRWZaUlR4XC9peVU9IiwibWFjIjoiYTc2ZjU4YWZmYmE3NTk4NjQyMmQ3ZGIzZTFhMThkOTVkZDRjOWNhNDVkNDM1Mzk2YmE0ZDc1YWIwNzYxOGFjZiJ9&amp;signature=2940e9620138295384cb5c6c94fbd2a2989ffb05db4e5617095dac213ecbab1f</image>
+    <start>05:30AM</start>
+    <finish>06:00AM</finish>
+    <date>21 September 2026</date>
+  </channel>
+  <channel>
+    <name>RDI News CA</name>
+    <id>RDINews.ca</id>
+    <title>Le t?l?journal avec Claudine Bourbonnais</title>
+    <desc>Un regard approfondi sur les sujets de l'heure, au pays comme ? l'international, et sur les grands enjeux auxquels la soci?t? est confront?e.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IkIyb01ZbG9seHdKellrNXhIck1ldVE9PSIsInZhbHVlIjoiclc5Z0RBNzZack4ybmp6RlVkbWtXc1wveEFzZGpZcXBTUFwvcUZyVERGWXZpVytvQTh2NlwvcUc1V3pBdUlBQnFnNDNueitXbUdZdXFPemVrZnJpK3B6ejJjaHUyeHdWSnVKWXREc09ZZU1YWG89IiwibWFjIjoiNjk0MDc4MjBmODQ3YzI4Y2Q3ZDdhMTE4MmYzZGVjYjJiODA4Y2ZhZGEyOGNhOGJkNWY1NDU4NDVkNGM0YTk2MCJ9&amp;signature=acefb0858d2adf94a9655c5f0356c3a14c1554f23e2aeb8647d9e41b0d236d54</image>
+    <start>06:00AM</start>
+    <finish>06:30AM</finish>
+    <date>21 September 2026</date>
+  </channel>
+  <channel>
+    <name>RDI News CA</name>
+    <id>RDINews.ca</id>
+    <title>Le national</title>
+    <desc>Un tour d'horizon des dossiers qui retiennent l'attention dans toutes les r?gions du pays.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IjFNeWVoUm1nT2pHRTZJOGZSSDhcL2VnPT0iLCJ2YWx1ZSI6Ijhwc1Bja3hTb1dzT2szRjNNRFJcL1pHc2xVMGlzTHFiQ05BTjdydmlWanVpbmlleWJQVDV6OGliNzdWVytCUFB3RE56a0ZEN0RCcmhKK25JcUFSNkVUK0lSRThXamcwUjdGb1o1TFVlT2c1VT0iLCJtYWMiOiIzOTYwOGY3YWE3MjIyNjQyNzhjODJkMjY3NmFlZWE3MDRkM2Y0NzcyMTNhYjE0ZDBlYzAwNTA5MmRjNTBhNjlhIn0%3D&amp;signature=5e5b92223c77eb7a18c0b4b0adaf654a3fee5b01590592ce1bc1a2171338c5a0</image>
+    <start>06:30AM</start>
+    <finish>07:00AM</finish>
+    <date>21 September 2026</date>
+  </channel>
+  <channel>
+    <name>RDI News CA</name>
+    <id>RDINews.ca</id>
+    <title>Le t?l?journal avec Claudine Bourbonnais</title>
+    <desc>Un regard approfondi sur les sujets de l'heure, au pays comme ? l'international, et sur les grands enjeux auxquels la soci?t? est confront?e.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IlpadmxGS3BGaGMzSDV3UDVram0xbFE9PSIsInZhbHVlIjoiUW9FTFg2Kzh2bURrd2syNXRKOFJiSGlXR0UzSWNGaUNuRkhaY3VwWXJRdlhXV1VGSzFocmg1cHVMTWhUT2Q0b2xaWk0wT3lqZmoyd24yMXBUVjVUQTNSeDdpeGFaUXE1d2gwR1owTFNGRWs9IiwibWFjIjoiNzNiNDkxMjU0MzI5Mzk3NzIxN2VlNDVjYTVlMTRmYzM2Y2UwMTY3ZTVkYTBkOTRmOTgxMTZlZjA4NDc0MzJlMyJ9&amp;signature=fe52cdcab71e73bf60683a5e55e05146126859b0b1db76929e621fc1acf65d32</image>
+    <start>07:00AM</start>
+    <finish>07:30AM</finish>
+    <date>21 September 2026</date>
+  </channel>
+  <channel>
+    <name>RDI News CA</name>
+    <id>RDINews.ca</id>
+    <title>Le national</title>
+    <desc>Un tour d'horizon des dossiers qui retiennent l'attention dans toutes les r?gions du pays.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6InpOVU1DMlwvbFdLOThSWU1qY3FWSzNBPT0iLCJ2YWx1ZSI6ImZBVTd1NFg0SW1BZzdvekpkSU9JWGo1eWpkenJLSGtBQkxzNVo3V3VSQnBuY3FxV3cxTEdYOEpuQU1vV3ZLTU40MXp4dnRpMUVjeHVNXC9xQkhhaWFTNVY2UHNEQ1d3Y0xLb2R6WDNiMG45RT0iLCJtYWMiOiJmNzgxNzQ4MGZlYjI3M2EyNTMzYmI1Y2E4M2NlMGVjZGI1MTg3NDE2OTFhNTBiOGM1Mjg2MzkzMWFlYWY0N2UzIn0%3D&amp;signature=50428febc1a8423219c4426c428cb89c8ecdfab1ef6e50bfefad595dd07f2633</image>
+    <start>07:30AM</start>
+    <finish>08:00AM</finish>
+    <date>21 September 2026</date>
+  </channel>
+  <channel>
+    <name>RDI News CA</name>
+    <id>RDINews.ca</id>
+    <title>Le t?l?journal avec Claudine Bourbonnais</title>
+    <desc>Un regard approfondi sur les sujets de l'heure, au pays comme ? l'international, et sur les grands enjeux auxquels la soci?t? est confront?e.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IjBSNG01SFZobGg0NmJtd21YVUlsV3c9PSIsInZhbHVlIjoiMllQUEIxbFRXbVA0cWtSdjZpVUhMeHNMS3hYaG5SRlo3M2V3NjlxTDRYNW1oMXppb0ErRWF4UDQrXC9PWTRuK1Nka1F2VGRBd29xM0ZPSTh3YjUrNTJJbklRUnhLOG9CYXpQYXdVK1ZoeGhvPSIsIm1hYyI6ImYxYTRhMzQyMjA5MjQ1ZGE3MDI2OTJjODFmYjgwNTA0NWM1NjEzY2IyNTcwNWYyZTUxM2VhMThhOTJjMDMwYTIifQ%3D%3D&amp;signature=f16f25acca31ac34abb1d10748c2667a941d34a759da2617bbe7907b5bf70dfe</image>
+    <start>08:00AM</start>
+    <finish>08:30AM</finish>
+    <date>21 September 2026</date>
+  </channel>
+  <channel>
+    <name>RDI News CA</name>
+    <id>RDINews.ca</id>
+    <title>Le national</title>
+    <desc>Un tour d'horizon des dossiers qui retiennent l'attention dans toutes les r?gions du pays.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6Im1cLzBxdTZ1Um4ySWo4cm5JZE9qUFRBPT0iLCJ2YWx1ZSI6IlwvN0ZkRTdmTFwvZFlOTkhtWEl1ckM5dW9hMmRzTnhkUXBYKzg5ZEdCN0s3dWhJQnJzUnB4WUVyU2dXSll5UFlqak15S3dQWTJ4dlFwamhGd01VV2dBRjl3RnNkNGFQSW9RZkdPU08rWmtXeWs9IiwibWFjIjoiMWFkZTA4ZDA2NTQxN2RmMjE2ZmZiYzIyYTM2YWI2NjAwOTA3NDRjZGVlNDJmZTdjZWFkZjE3ODliZGYxNDVjOCJ9&amp;signature=fd6e52fb09ea70d0530aeecb86375c10a2755d5f89be252c5aa8ce341d105b9a</image>
+    <start>08:30AM</start>
+    <finish>09:00AM</finish>
+    <date>21 September 2026</date>
+  </channel>
+  <channel>
+    <name>RDI News CA</name>
+    <id>RDINews.ca</id>
+    <title>Le t?l?journal avec Claudine Bourbonnais</title>
+    <desc>Un regard approfondi sur les sujets de l'heure, au pays comme ? l'international, et sur les grands enjeux auxquels la soci?t? est confront?e.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IllpcFZaYTREckl1Vkw1WERoVUNZbEE9PSIsInZhbHVlIjoib0NYOTQrbFpUdDMxV2poOEY1WHk4VVZHNHBGczJjT3JLazVGTUlwT21cL05cL1VcL25tT25BRXdmRU96cDB0SEZVR0tuRHdUTGREbXlpdUV6Y2xmK1dWZEFib2M5MDFcL0oxNjkzaVp0bEJVV2tnPSIsIm1hYyI6IjI1OWI3NTNmNTBlMDIyOGVjMzZiNGQzNzVhOGFjNjhhZTRkMmFiNjIxNTNkNGYwZWU2YjVhNDUwNmEzNGU3N2YifQ%3D%3D&amp;signature=f85efef3ee4c086121f8facc3678bec7e8728270fca7f3e59000838a5027fa1f</image>
+    <start>09:00AM</start>
+    <finish>09:30AM</finish>
+    <date>21 September 2026</date>
+  </channel>
+  <channel>
+    <name>RDI News CA</name>
+    <id>RDINews.ca</id>
+    <title>Le national</title>
+    <desc>Un tour d'horizon des dossiers qui retiennent l'attention dans toutes les r?gions du pays.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IkI3NjNcLzJCeGE3V09xQWpNRzFSQk9BPT0iLCJ2YWx1ZSI6Im5OVTZsaXdoR3dMUjdQMUlnc3ZUR1JtQ3hYZzNcL1dKWU14YjJoYWQwcnNheDY1dXlPUFI4UnBCdjNZYXVNM0VzeUxQdFNqc0xwVVBQcmJJWGlJa09uaTVNbWZqRTVnY2IzXC9sYkhyZU5QenM9IiwibWFjIjoiMjBjN2ZkOWJmMzQ3MThkMzBjOTljODkxOGUyYWYyY2NkZmMyNjY1NTIxOWZlOTg5MmU4OTg0M2UzMWM3ZGYzZSJ9&amp;signature=21a6570c25197053792f55e58bdfc6bba1f429d2f5abf49d64a83775fbf48caf</image>
+    <start>09:30AM</start>
+    <finish>10:00AM</finish>
+    <date>21 September 2026</date>
+  </channel>
+  <channel>
+    <name>RDI News CA</name>
+    <id>RDINews.ca</id>
+    <title>Le 64'</title>
+    <desc>Les nouvelles internationales d'un point de vue europ?en.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6Ik1tVnpKdmE0WVNMTTBMb0hEdEZTcFE9PSIsInZhbHVlIjoiVDkzRmtKOHhCSWtjb3Zzc0RTMEVnWHpKa3o5dThDYm15S0g5cEphTWhSdmhRRUR4em5tNVJNZVdMWFNWajRtMUxLd2JcL1JGVHdGOEVYNXRvYWNhQnh5cHkremxyMmxxVnRRUm00UjFYNEZ3PSIsIm1hYyI6Ijk0YjMxNzE5ZWM1MjJjODFlZTcwZDMxYTI5ZjE2MzEwMmU1ZDc3MDIyNzY0NmU2NzU0YjQwM2NiMGFmOWQxZTIifQ%3D%3D&amp;signature=96d9e4ae94ad7b170102be28e9890cd80bb83bab72ed3089f6510bb48ac606e6</image>
+    <start>10:00AM</start>
+    <finish>10:34AM</finish>
+    <date>21 September 2026</date>
+  </channel>
+  <channel>
+    <name>RDI News CA</name>
+    <id>RDINews.ca</id>
+    <title>? la une</title>
+    <desc>Un condens? des premi?res nouvelles du jour, d'ici et d'ailleurs, pour bien d?marrer la journ?e. Le tout sur un ton convivial.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6ImZBTWl0OEFDWXZOS2xCOFpiTFhMakE9PSIsInZhbHVlIjoiaWc0cWIzbERoYTFBNnVjRVRZcW1JSXdCWEZXU055K3ZiUWxhTFwvU2hEdCswMXRlaHFUdStYekRnVDFqYUlhUDZxck5hOVY2UmxtUzJMMlAzM3RpY09zT3ZFb1JSUTQrQzdZTmx0QjIrMXBBPSIsIm1hYyI6IjhjOTdmMGQwMzg3Mzk5YWNiOTVjNWE2YzcxYmY2NWM0MjIzMzY2NjdhNTg5MmZlYWNlNmRhZGY3ZmM3NjRkYTQifQ%3D%3D&amp;signature=8fbf957dc20ca2fd1df354eabb4dedeba0d4b0d69c143d4d3f3e8a22750b213f</image>
+    <start>10:34AM</start>
+    <finish>10:59AM</finish>
+    <date>21 September 2026</date>
+  </channel>
+  <channel>
+    <name>RDI News CA</name>
+    <id>RDINews.ca</id>
+    <title>Live: Premi?re ligne</title>
+    <desc>Tout ce qu'il faut pour bien s'informer d?s le r?veil : actualit?s du jour de partout au pays, enjeux de politique internationale, nouvelles culturelles et sujets de soci?t? qui font parler.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IndUbENsMytpUXZ0RDBcL1M5Yks0SDlRPT0iLCJ2YWx1ZSI6IkRwN1diTUVVMjZuNGhhWmpoQmlEcUVFYWpUSHduQWZMNjJkYlwvU004SVhySGpxUUJxYyttUllwN1VnVkJYUktuMVBYakY4VDJQaW03a2tEM1YwVit4VUpVcjFHaDRWdlJORTJ6VVhSU1wvQk09IiwibWFjIjoiOTcyMTM5ZGI1NjdiNDRmOWUzYzU4NDc0YmM0MDc3NGY2ZDUxN2RjMTQ5NTdlYWExOTA5Y2E1MjgzN2YwNmIwZCJ9&amp;signature=1a2a3046da535bfa72866a2aeece8ee20bf61d9dc2b2c5895f655427f079cc95</image>
+    <start>10:59AM</start>
+    <finish>02:00PM</finish>
+    <date>21 September 2026</date>
+  </channel>
+  <channel>
+    <name>RDI News CA</name>
+    <id>RDINews.ca</id>
+    <title>Live: L'agenda</title>
+    <desc>Un regard sur ce qu'on attend de la journ?e politique qui commence avec des commentatrices et commentateurs aguerris.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6Iko4Mm5ZN2NaNzJEQmdnNlJWQkRBZ0E9PSIsInZhbHVlIjoiZVhWbkt4OUs0eEtGcFI0RVVpV3J6S3BOYjM0bWFRSjZzUGlTWlhmY0ZnUkVxVnVuU0d3N1VwSlhYbFlEN3lFS015QURWYVpqSHRLQVRtME5tZWxwcm80cDZCZDRpYWYreDhrVkhCSkhmOU09IiwibWFjIjoiOGJkN2YzNzcyMTRkYjVlZDBkYTk1NTgzNmJlOTA2Y2ZiMGE1MzZjNDgzYWE2NDNkODY4Y2QwYWFkMWYzZGY2NSJ9&amp;signature=f2b3208f10080a5e327cf2a9244b40b77a3bc6a09479a913b1c47aa0c0bceac8</image>
+    <start>02:00PM</start>
+    <finish>02:30PM</finish>
+    <date>21 September 2026</date>
+  </channel>
+  <channel>
+    <name>RDI News CA</name>
+    <id>RDINews.ca</id>
+    <title>Live: L'info maintenant</title>
+    <desc>Les nouvelles qui marquent l'actualit? au pays et ailleurs dans le monde.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IlVjYTd0Z1pnVHpmZ0MwU2tNcXhzdXc9PSIsInZhbHVlIjoibUFUdjRlUzQ5bEM1Y0tnWUljanJRRDFCeDVDeGtFVDlpblIzcXU4MUIwVytGRTExWm9xQTZPbkNwY1htTTVzZzVcL3BjYVRkVXlVRVJzZ3dkQnp3dk1Wc1h3cWNmdUJpZ0Rhc3dNdVAyT1kwPSIsIm1hYyI6ImIyMmZjZDBiYjgwMmYyMWMxOWQxMDg0OGU2Y2MwNTllNzZmOWUyN2JiZjJkMTRmYTJiMDI3MDg1YzMwYTY4NGIifQ%3D%3D&amp;signature=499d70a99e7d2f35bc2233f4663f42263365a42316b4e88903d18694ed4a0cde</image>
+    <start>02:30PM</start>
+    <finish>05:00PM</finish>
+    <date>21 September 2026</date>
+  </channel>
+  <channel>
+    <name>RDI News CA</name>
+    <id>RDINews.ca</id>
+    <title>Live: Le t?l?journal midi</title>
+    <desc>Le point sur l'actualit? avec les journalistes sur le terrain, au pays et ailleurs dans le monde.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6InY3cXdOSHV6Zm1uSXR4Z0hcL0p6ZzhnPT0iLCJ2YWx1ZSI6Im1PejVaenBVNk1mbGR3blJtTEU2b3VyQkRFWUZIRUtYSDJNeGlNRHpObm9wM3U5VE52TWhKRG1FSW9ocWNVQ0NsdFBxd2tjMGlHd2lMTmlzOHBjRU1RKzlRUnZCMGpta21uUERlTjZFT0pcL0VmMkFIWWZGeEhnSVNuWE9NaDFiNSIsIm1hYyI6IjM5ZmU2NDRmNzFkYzk5NDJkMzg4Mzc3OGYwNDY4YjY3NTUxNGZjY2NlYTM4MjcyNjIyZDExYzU2YTNmNjA4MjEifQ%3D%3D&amp;signature=93eb8068e10bfc7606a20ce02cf5d8c56404b2db95cac0a62260bfce70468ed3</image>
+    <start>05:00PM</start>
+    <finish>05:30PM</finish>
+    <date>21 September 2026</date>
+  </channel>
+  <channel>
+    <name>RDI News CA</name>
+    <id>RDINews.ca</id>
+    <title>Live: Mordus de politique</title>
+    <desc>Les mordus d?battent, analysent et discutent des enjeux politiques de l'heure.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IllZRGxMbmRFTDh2WVJNMm1yRENIbFE9PSIsInZhbHVlIjoiNUQ2NVR6VjNKRE9JT0hMODNYRGp4T3VwMkNOZDhuSWEySkVpaUExMG9oOHkrbUd3K1c0MlU3aTQ1SmNTK25keGpLanNvNFNUOTVKRDJxbXRCZVBXMnBWYlkxcWwxbVN3VGZneGg2eHJmNmI1azBvS2xNcklDcTJ0SVBpN1hsYmwiLCJtYWMiOiJiMDM0NGFjMDU1N2RmMzgwM2QzYTljNDllYzNmZjFkNmNmNjg0OGI4NjkyZTIzOWZmMWRlODVlNzEzZjFiYWU3In0%3D&amp;signature=efe170c3bc47facc4155e02a12a41c39936276e74f1f05dda8a58130b9d4bbde</image>
+    <start>05:30PM</start>
+    <finish>06:58PM</finish>
+    <date>21 September 2026</date>
+  </channel>
+  <channel>
+    <name>RDI News CA</name>
+    <id>RDINews.ca</id>
+    <title>Live: Zone info avec G?rald Fillion</title>
+    <desc>Discussions et commentaires sur les sujets chauds du jour tout en suivant l'actualit? en d?veloppement.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6ImVCSFJmYVFVc0hQbUtcL1VseDJZbFl3PT0iLCJ2YWx1ZSI6IlBGOGxFZkZ5OHM1MEdmY3VwczBXMUZ0MkNIZ3FlWDUyK2ZQdW5jV1AzaW8zMjFHdEN1XC9OMDRKWmFhZlRvcDdKaDJGTDVqU2VpV2k3UzdqR1U5ZnJ5eEJiZUxnZjNBbmFyaXlmUkdLWWRKM3BablVTTGVQeFE4MjkzRjA2YzZRKyIsIm1hYyI6ImIxMDY2M2U2YzdmMWY5NmZiYzgwMzM0NTgyYjZjMzgyZjI4ZDM5MDFkMzIxYWU2ZTU5Yzc0NDQxYzJiNDA4MGIifQ%3D%3D&amp;signature=5ee992895db3359a8b0494bdc5b2d88043346f2f2d75b13c1d60c712be282815</image>
+    <start>06:58PM</start>
+    <finish>08:59PM</finish>
+    <date>21 September 2026</date>
+  </channel>
+  <channel>
+    <name>RDI News CA</name>
+    <id>RDINews.ca</id>
+    <title>Live: Sur le terrain</title>
+    <desc>En direct sur ce qui se passe en ce moment ? Washington et ailleurs dans le monde.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6InZoQnRZQUVmRlIwamtWdkJ2VUlTNmc9PSIsInZhbHVlIjoib1RMOEJcL1U2Y0tZSzFGMHRoek9hbVJoWUlyODBxcmxpdSs1RUNnT2Y5dkg1NW9DZ3h4cm9jMlBzYTZ5b2pqNUxjcW9ITDBBUmlqUmdMYmxkbkU5Tys4V3FBeThqZEFHYmlBY1EzcldaR2E4PSIsIm1hYyI6Ijk3ZTcwOGUyMjFjZmY4ZmQxMjVmMGVhZTAxMGExNWRiOTQ0MGQzZWUzYWZhYTA4NDA5NmZlYmExMGU5N2ZiYTkifQ%3D%3D&amp;signature=7db2fcc95cfff25d3cf3e34654e0234411e59b2099ac093d4d9e0c9c120a61e8</image>
+    <start>08:59PM</start>
+    <finish>09:57PM</finish>
+    <date>21 September 2026</date>
+  </channel>
+  <channel>
+    <name>RDI News CA</name>
+    <id>RDINews.ca</id>
+    <title>Live: En direct avec Patrice Roy</title>
+    <desc>Le point sur les grandes nouvelles de la journ?e et les enjeux qui touchent les citoyens avec reportages et entrevues.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IkNoSXY3TVkxMDNrbWNQNVZjTDU3MVE9PSIsInZhbHVlIjoiRE5IcGxQSXU3YW9zSDh1dmVHZE00S2E4WnlYY29OcDhcLytINjk3XC9pSkVzQzNnNmlZSUxLcmFUUFhMeGljUTN1VjlHaG9LUTJGN081R0w4NHNpRWtEd1FYYUhcLzMweTBLSmZxczJKczQ5TmRNVnRBZmNwcUlYczZleVBGcENVbFkiLCJtYWMiOiJkNDc2MjExZTUzMTE2NWU1OGY0OTg3NzY2NGE1MjgyZTY4YWNiMDgzOGFkOTdjMWM2Nzg4Mjg4MmMxMWY0OGRjIn0%3D&amp;signature=b427d0925a79216aa86f088dca4ba7f0a3f202c8ea5cd8fac9ea2aa9ebd8df1c</image>
+    <start>09:57PM</start>
+    <finish>10:55PM</finish>
+    <date>21 September 2026</date>
+  </channel>
+  <channel>
+    <name>RDI News CA</name>
+    <id>RDINews.ca</id>
+    <title>Live: Zone ?conomie</title>
+    <desc>Comprendre les petits et grands enjeux ?conomiques : des finances publiques, au march? de l'emploi et ? l'?volution de la bourse.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6InhJTlJXbE1vZ2Q0RlpKeGZsNVUzUUE9PSIsInZhbHVlIjoid3JBVXZSZzhpOFAwSUg1YlZpczhsTDZxeVhsaVRtbkFOVDlmTnlLVDdDVzZlU1RoYkpBYmhNeFwvYnl4RjJSTVREZFlMYnZwbmZlTTZGUlBMaGhPeXYxZVJyZXg3bUxwRnZ4cmxkWmNaUmxXNnhuUTZPSWkyRHV3TEZoNTZTYzFFIiwibWFjIjoiOWQwNzJhMGMyZmJhYTlmZDYyNWM3YjRiOGU1ZjA3YWJjZDFmZTUzZmY4ZDRiZTJmYWNkZGE0MDAzN2JhNzY2MyJ9&amp;signature=48d4698ffb7ac274af4281fc51b9871e461c2b39e1b89edb86e3fc2f6b90f2b9</image>
+    <start>10:55PM</start>
+    <finish>12:00AM</finish>
+    <date>21 September 2026</date>
+  </channel>
+  <channel>
+    <name>RDI News CA</name>
+    <id>RDINews.ca</id>
+    <title>Live: 24/60</title>
+    <desc>Comprendre les ?v?nements de la journ?e, tant en politique nationale et internationale qu'en culture, environnement et soci?t?.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6InFhZENBekxpZVlpTWFjNjM2TGc0cnc9PSIsInZhbHVlIjoiRUY3VXh4YldhdFhyN0pzS25VXC9hUEhkYWhOb2VlXC9saWNsVmZxYU9wdTdtdG1aajZuMmVyZ3R4NVNjT2xqSWRUNTZnVVNxeEhQaFVid09FOEE1RjJnMXNscTJEaXFDaktVM0V1aXpwaEd1cjdUbVNaUE1WSkZPQjRDWmVScGM1MCIsIm1hYyI6ImJhNGIyNGZlNTJhNWY4NWZiNWVjN2NhMGU5NzgyZDliNDhiNTY5MjNlOTQwNzgwZjE4OGQ4NDAxMzQyNjYzM2UifQ%3D%3D&amp;signature=4a77d03e01eb3e994f46a324ac1056c21be1983eeb92d6927db23f22f3a3a0a0</image>
+    <start>12:00AM</start>
+    <finish>01:00AM</finish>
+    <date>22 September 2026</date>
+  </channel>
+  <channel>
+    <name>RDI News CA</name>
+    <id>RDINews.ca</id>
+    <title>Les grands reportages</title>
+    <desc>Ce dernier ?pisode retrace la mutation du crime organis? depuis les ann?es Carter. Nous comprenons en quoi le pr?sident Trump peut ?tre consid?r? comme un criminel empruntant ses codes ? la mafia.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IkRcL01KMldXaGNWXC9MK0hsTWZnTGNOdz09IiwidmFsdWUiOiI2V1c2a1wvRXRUKzZ6clpDRVZYZmI5TlNUVitKKzMzOUJLV0t6MTMwN283Y04wazV6T0tMTkJVckZBQjRwTVwvVkJTM0ZrUFwvZXhCTjZRU3I0RG5TSTdiOWNiNlhlWG9hWVwvZ256NEpiSjhvajg9IiwibWFjIjoiZjBhZTYwY2YyNzk4OWU4N2M5ZmM2ODViODhkNjk2ZGMwZDkzOTBhYjIzZmRlODRkYzRmYWI3NTc4MWQ3ZjEzNSJ9&amp;signature=2cb0e09923ca56ed55ccdc7bea5bfa02765332b14e0e24afcad2cbad082b53f4</image>
+    <start>01:00AM</start>
+    <finish>02:00AM</finish>
+    <date>22 September 2026</date>
+  </channel>
+  <channel>
+    <name>RDI News CA</name>
+    <id>RDINews.ca</id>
+    <title>Live: Le t?l?journal avec Azeb Wolde-Giorghis</title>
+    <desc>Un regard approfondi sur les sujets de l'heure, au pays comme ? l'international, et sur les grands enjeux auxquels la soci?t? est confront?e.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IlA1RnF0YzVrdnJOV3l0Y2dVUHFIRnc9PSIsInZhbHVlIjoiRzJEZW1oZ2FnRlhlZTBKbHZ2em1XcjJFMkhrOHRyNnA2VHRZWjlQQzBNNUxJSFFVdmd3R2U0YWFDVjlmN050YmFORDE0bVVKSTBxdWNmVTdHT2c4TFVhc2l3cVMzSlpXdmdSUmJ3anZqNzZVV21cL3c1OEhKUEhSY1hmcDZiZ1V4IiwibWFjIjoiYjNmMjVkNGJhMzQzYjhkMTcwNDY0ZDczZDZiZTUyNjU3ZTcyMzVhOTg1ZTA1NWI4Y2QzN2IxMDhmMWY0MWE2NyJ9&amp;signature=413f5adaeca9a6119fd04cc92c2bb5a126f7941bdea0a6c3c48126e938590e33</image>
+    <start>02:00AM</start>
+    <finish>03:00AM</finish>
+    <date>22 September 2026</date>
+  </channel>
+  <channel>
+    <name>RDI News CA</name>
+    <id>RDINews.ca</id>
+    <title>Live: Le t?l?journal avec Azeb Wolde-Giorghis</title>
+    <desc>Un regard approfondi sur les sujets de l'heure, au pays comme ? l'international, et sur les grands enjeux auxquels la soci?t? est confront?e.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6InNoc2RJMHdTR0kyeGp3YVJodXE1U3c9PSIsInZhbHVlIjoiUU5TY0ZKQURpVk1PbGtkR1N4b0FzZlhEMDh0T3RWcmw0d3lQdUZSQ2lCdVplN1gxRVV1NzU1K210MmFORG5EWUI2YWRIb1c0SURwSjFYUG5QMnZ5WFIreFllMmx0Zmc4YzRjU2c3UzB3dWIrT3ErQTB4cG9xb2I2cFpweXlROFQiLCJtYWMiOiJiMmNjNDBmOTNmOTIwZTI1NDk1MWQ5NDRhOGM5NWU2ZWFhZmVlN2E2YTAyZjlmYmUzMDEwNWZmZDgzNjdiYzFlIn0%3D&amp;signature=61a5698c082b74c498688498de98fae9e8aa36fc08676abd549c194709493d37</image>
+    <start>03:00AM</start>
+    <finish>04:00AM</finish>
+    <date>22 September 2026</date>
+  </channel>
+  <channel>
+    <name>RDI News CA</name>
+    <id>RDINews.ca</id>
+    <title>Live: Le national</title>
+    <desc>Un tour d'horizon des dossiers qui retiennent l'attention dans toutes les r?gions du pays.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IlNZenNrSmU5VFMxNUlUVWxmRW1laHc9PSIsInZhbHVlIjoiTHRwRjREXC9vTmMwd0xmRnRrYlBNNVMwaVVpdXFwd0lnN005ZkM3NktyZWVKdDFsY2o2MGlFZnBBOEhwMlpVM1FHbEVoNzNaN1RWM095V0tPa3k0TkRObmNqYmtNeWV4U3RKUEZ2cmNublZ3PSIsIm1hYyI6IjI5MzJmZGUxODEwNWJmNWJlZjU1ZTUzNzM5NzM0NDcyYzdjMDg0YzUxNDUzYjE0NDNiYTEwNjdjYzlmYzcyOTAifQ%3D%3D&amp;signature=a1e8ed2e3192980132b7a341bad848afff02239ce883e62c72fde62f8925eaf1</image>
+    <start>04:00AM</start>
+    <finish>04:30AM</finish>
+    <date>22 September 2026</date>
+  </channel>
+  <channel>
+    <name>RDI News CA</name>
+    <id>RDINews.ca</id>
+    <title>Live: Le national</title>
+    <desc>Un tour d'horizon des dossiers qui retiennent l'attention dans toutes les r?gions du pays.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IkJkUmszaWJXWFZId1oxdGFKT0lYRUE9PSIsInZhbHVlIjoiWjd6RGRTMW82OHZSVVpcL09YUkNlb0ZPZGpCTncxNGF4RkZTdzFWVnF5V1BoRkM2b2tVR1NzbkRUVXI0NTZiNFljclFPdVlCZGlXTzZXdkEzQ0ltMlc0VXFsem5hSlI3RFZvVGNhWkZrMU13PSIsIm1hYyI6IjZlOWYxZjBjMzkwODg0MWY0N2YwZmU1NzQxNzM2N2ZmZTFlNjg5MWVjMTZlN2NlNzU1NTBkNjkzNWYxYjY0NGIifQ%3D%3D&amp;signature=cfd7d5e5cd3fe2468a409276a48fff2f7bf066f41fef62d3d271162fb5cafcd0</image>
+    <start>04:30AM</start>
+    <finish>05:00AM</finish>
+    <date>22 September 2026</date>
+  </channel>
+  <channel>
+    <name>RDI News CA</name>
+    <id>RDINews.ca</id>
+    <title>Live: 24/60</title>
+    <desc>Comprendre les ?v?nements de la journ?e, tant en politique nationale et internationale qu'en culture, environnement et soci?t?.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IlQ0N08ralJqaWhEMEZDMjJ4aGUzbGc9PSIsInZhbHVlIjoiXC9ZcVwvRmdEOTBBVEQ1NXNTZFN1YldQVmJnaEF2ZWFLTWtCMUQ3cXVXc0c2Mm5xRFE5MGh3ZVNSUTU5TFZBWVZPOE9lc1FoOUtZT24yTk1tU3NHbVdjSEdaOWpkeUNHWmo3elNXTjJtWGFCazBudjYrRmJOdm9YQ3h1Z2VlaWorayIsIm1hYyI6ImViOWY1ZjNlNjI4MDhiYzJhYjY0ZmI1MGNlNzEwNjA4Y2I3MTIzZmI2YWZlNDg2NDljNDdhNGE0YmUwNzFlYjcifQ%3D%3D&amp;signature=e64d209cf9643f58885cc786ca816644966ce4386a1d9602813553dd214ab30e</image>
+    <start>05:00AM</start>
+    <finish>06:00AM</finish>
+    <date>22 September 2026</date>
+  </channel>
+  <channel>
+    <name>RDI News CA</name>
+    <id>RDINews.ca</id>
+    <title>Le t?l?journal 18h30</title>
+    <desc>Un rendez-vous d'information qui approfondit les enjeux d'actualit? qui touchent les francophones d'un oc?an ? l'autre et refl?te les r?alit?s des r?gions du pays tout en posant un regard sur le monde.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6ImZESXdpZVpKazVkd2dxbCtCdG9GM3c9PSIsInZhbHVlIjoianh4bjdleTVZakYxbENaSHlBQ1FXSTM0eEcyUDdJSW1PRGxmTHVROVc3R2VFTVk2b2xnNkd6OUg5S2xWRnNvZXd5RnFTZmZ3U1h5ajlHYWQwYmtvdnI0dWtlU21WRWpKaDlZTVwvRHFNclYwPSIsIm1hYyI6Ijg5MTY5MGIzYzhiNjI1NGM3NTllOTMwZDM1MjRmZTMzNmY5NmU2M2VlN2MyYTMzODI1M2QyOWVmNTAxNTRmNmQifQ%3D%3D&amp;signature=7980193e02a5ae20b571e204720af8f563e213b43208791c55bd222d96582dc0</image>
+    <start>06:00AM</start>
+    <finish>06:30AM</finish>
+    <date>22 September 2026</date>
+  </channel>
+  <channel>
+    <name>RDI News CA</name>
+    <id>RDINews.ca</id>
+    <title>Les grands reportages</title>
+    <desc>Ce dernier ?pisode retrace la mutation du crime organis? depuis les ann?es Carter. Nous comprenons en quoi le pr?sident Trump peut ?tre consid?r? comme un criminel empruntant ses codes ? la mafia.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6ImVYWHp5YVhBUXJsdWQ5NmU3UzYzaGc9PSIsInZhbHVlIjoiNHVoTFN1dDRzY1dCZElSR2xNNytxSXhRWk9lUUlqNTU0eUhtZzlhXC9MTGR0Sm96bDlGZ1RUZXVSaXFIZHpHZkJRMU9NWWU3T0lsTXRLaGdBbkcyS2N0bDlkakdvVDk5VEVrck9WVVZWN2RZPSIsIm1hYyI6IjFkZmNjMjdjZTRjZTFmMzA3ZDU0MThkMjQ3NDk3MTc0NTliODEwMDEwYjg0MmE0YjE3OTQ2MjdiZTZjYTU3MjkifQ%3D%3D&amp;signature=0acf4143012c6957acbf236f8bd18771232d2ae7c2657e8b5a2ee73e64d296cf</image>
+    <start>06:30AM</start>
+    <finish>07:30AM</finish>
+    <date>22 September 2026</date>
+  </channel>
+  <channel>
+    <name>RDI News CA</name>
+    <id>RDINews.ca</id>
+    <title>Le t?l?journal avec Azeb Wolde-Giorghis</title>
+    <desc>Un regard approfondi sur les sujets de l'heure, au pays comme ? l'international, et sur les grands enjeux auxquels la soci?t? est confront?e.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IlFJQ2hPOVdKR0d6UWgxbm9FdGx5UkE9PSIsInZhbHVlIjoia2NydnQzUzZaa2xsWGFabU9MNVQ2UXBrUnNnS296cnpTWjJaMktuRHVCeWM2a1RJQVJYa2J2NHhkSlJrRUVwaDd1UlU3R2d3SHpwUDdcL1EyeWo0MWd3bmJScjh0WHJ1NzlXbUFCd2NQamNURjlsN21EYW5zR3lRXC9Fb3ZUa0FZWCIsIm1hYyI6IjVkZjU2NThjMzRiYmU0ODRlZWVhZTI4NzdmZmQyMTA3ZjE0ODk5MmJjOTc1ZWNmZjczYThlZmM0YTcxMzE1YjgifQ%3D%3D&amp;signature=82cd07f3c3bc5fffb1e194068836d8374e03d3e5d6866519885389bba439e0db</image>
+    <start>07:30AM</start>
+    <finish>08:30AM</finish>
+    <date>22 September 2026</date>
+  </channel>
+  <channel>
+    <name>RDI News CA</name>
+    <id>RDINews.ca</id>
+    <title>Le national</title>
+    <desc>Un tour d'horizon des dossiers qui retiennent l'attention dans toutes les r?gions du pays.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6ImVQZUR6R2MyQ1Y0bnRSSlBTU256OVE9PSIsInZhbHVlIjoiaDQ3XC85WTFlc25sRnc0ckZHc2E4RkhtMVVnZGNPbFAzYmNqbHBLQ2FCczU0Q3ErNVdWQWR6U2tlamVwQlNQK2xsR1l3OVpua3ZzcU5HNkUrSkd6cEtUSXRzSVZsNmJtQlFwOTZzMmg5QmM0PSIsIm1hYyI6IjFiMzk3ZWQ3ODBlN2U0ZWExYTg5NzM2YWI2ZDcwYmQyNWFhY2JhODZjN2ZjYWU5ODc5ODRkYmI1NzU2NzhlNzQifQ%3D%3D&amp;signature=50ed73c2802afc8aa8c90026168d7603ef6d098c39ac6eeeebcb06c24f64e5f8</image>
+    <start>08:30AM</start>
+    <finish>09:00AM</finish>
+    <date>22 September 2026</date>
+  </channel>
+  <channel>
+    <name>RDI News CA</name>
+    <id>RDINews.ca</id>
+    <title>Zone ?conomie</title>
+    <desc>Comprendre les petits et grands enjeux ?conomiques : des finances publiques, au march? de l'emploi et ? l'?volution de la bourse.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IndWcXNJSDdCTk9GQWRGSmRGcUJTeGc9PSIsInZhbHVlIjoiOVY5em5VSmFscDQrRlF1bkxYaVVHZDRcL1wvNzFrcjhIcXpOVk5GT2w0cVhVOEhXa1VwYmhiWXMrb1wvSGVvYml2Y0w1OEJnRFZYWHdBcXZQckRJRHNTK1N3REdcLzdtR01tQWRQMk5za3FVczZmTER0ZDgrNTVpYlA2eUR6V3B6dmNBIiwibWFjIjoiYWM0MGZmMzI1OGI0YjcwYTRlNmE1MmE5ZGVjODEyNjhiYWU3YjE5YzQ0NDg5N2JkYzdkM2IxMDZlYzM4Nzc5NSJ9&amp;signature=fa0d0002eacf71dbdf718aa860ad248b79e31f4d16f558055a8c85541efcb7c1</image>
+    <start>09:00AM</start>
+    <finish>10:00AM</finish>
+    <date>22 September 2026</date>
+  </channel>
+  <channel>
+    <name>RDI News CA</name>
+    <id>RDINews.ca</id>
+    <title>Le 64'</title>
+    <desc>Les nouvelles internationales d'un point de vue europ?en.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6Ik1xZm9xcmRSUGRZd2Z1bGdmTXhlTGc9PSIsInZhbHVlIjoickdvZWhrQlVqbGlLaVhUc2NmOEc0dUtBMkY2eHZYS1M0KzlRV3hGTllWaXZrbzFZaWRlVElcL0VYS1NyaEk2VVRWdzJvYW9LZitHbHQydDRlNzl3cXVpcDFoOEZHblwvdGJLZWhJSTNKeHdWRT0iLCJtYWMiOiI1YTFhN2ZjNDdlMTcwZTAwOTZmYzFkNDU3MTFlZDBkNGJkODMwMWQwNzY1NWMzMDIyNjk1NmIwNTdjMjcyYzZkIn0%3D&amp;signature=8d19ca6016abaec8b93fb2b83e5df18b0078dd076b26e1232e5fe79bbc154ec7</image>
+    <start>10:00AM</start>
+    <finish>10:34AM</finish>
+    <date>22 September 2026</date>
+  </channel>
+  <channel>
+    <name>RDI News CA</name>
+    <id>RDINews.ca</id>
+    <title>? la une</title>
+    <desc>Un condens? des premi?res nouvelles du jour, d'ici et d'ailleurs, pour bien d?marrer la journ?e. Le tout sur un ton convivial.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IkIyaXdXVkNtb3d3N1dwRnVTXC9KWklRPT0iLCJ2YWx1ZSI6IlBDeVRnMzk2SkJUM0hqazhqdUNNUStMTHdTSVlnNXgzdTl1RW9GbUxzU2Y5VVZURmlWSml3bVQ3QXgyMWhcL1dZOXJEakM0YzlpcHE1U2tNQnI0KzE2SEZRQ2J3dnJ0VVwvVWRpaFltdk54TnM9IiwibWFjIjoiZjk1ZDg2MGYyNDg0MTVmNzljOTZiM2M0MTVlZjk2N2RhMDIyMDg2MGFlMTk1YTg3MWM0MDNjMWM5OWZlMmY1MCJ9&amp;signature=495218b3224bb5a002a3a34ef08097b8af109171c5e3027c899afdb35990679c</image>
+    <start>10:34AM</start>
+    <finish>10:59AM</finish>
+    <date>22 September 2026</date>
+  </channel>
+  <channel>
+    <name>RDI News CA</name>
+    <id>RDINews.ca</id>
+    <title>Live: Premi?re ligne</title>
+    <desc>Tout ce qu'il faut pour bien s'informer d?s le r?veil : actualit?s du jour de partout au pays, enjeux de politique internationale, nouvelles culturelles et sujets de soci?t? qui font parler.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6Im5rdXlHWGdsWkM2RWVvU3pqVTM2K1E9PSIsInZhbHVlIjoiT1gxam1FMlVQTVJwblwvaEt1MVwvRGZHazdjdXBuU0gzRHltMHR2ZlBCS0FocDRHNXhNUWZmVEo0MG5jR3I0TUZcL29UckZHaXBEQU5VanQwRXdNOGpzTlFvdmVHUldZdFlBME1oNkhPbUs1djQ9IiwibWFjIjoiNTE3NjlkMTlmMjZiNTQ0ZTg3ZWFlMzIwOThkYjYxZTQzZTdhMDllMDNiZDkzOTk0MjZhNjFhMDA1NGMwNGMyZCJ9&amp;signature=3dccb777843f03e412d640226396a5febfbc4ee707b6cd05d160d87d0a0d0576</image>
+    <start>10:59AM</start>
+    <finish>02:00PM</finish>
+    <date>22 September 2026</date>
+  </channel>
+  <channel>
+    <name>RDI News CA</name>
+    <id>RDINews.ca</id>
+    <title>Live: L'agenda</title>
+    <desc>Un regard sur ce qu'on attend de la journ?e politique qui commence avec des commentatrices et commentateurs aguerris.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IkJCUDJkZzlNUHdJQW9weExXdm1ZTFE9PSIsInZhbHVlIjoiTWt0ajNuXC9ZMDZGOTFwejlBN1hPN2l1Z0NPYlpVRWdcL3FlZnlpZFlobXNTVUJ6azhCYmQ3aFwvNVltNmJIZ3lpUXYrWFJ5ZlwvSGQ3NGduN05mNmQxTUpHUFQyc1Q5ZVVsTHpwUmluVjc0QU5ZPSIsIm1hYyI6IjhjNGU5YWYxOGU5MDM1ZTgzMzAwNmJkZjk3MWM0ZjI0MjdlZjUxMTQ0ZWUyZThmZTdhYjhjMGZmZTdjYjJkYzkifQ%3D%3D&amp;signature=190be0569188c2a7703645fe7d3bcc950a85877ef29ed757bf28cd1a45eedeb8</image>
+    <start>02:00PM</start>
+    <finish>02:30PM</finish>
+    <date>22 September 2026</date>
+  </channel>
+  <channel>
+    <name>RDI News CA</name>
+    <id>RDINews.ca</id>
+    <title>Live: L'info maintenant</title>
+    <desc>Les nouvelles qui marquent l'actualit? au pays et ailleurs dans le monde.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6Im95QXp4UDUyeVdiQmN6Q3FFbWhJWEE9PSIsInZhbHVlIjoienVFS2VMT1Y5enlQQVhUS1ZGUEh1NllsOWdPM3lFUlwvU3g5ak92M3FBUmdncUdwcHpFemM4Q2Jwdk9jSEllSUpITUxrZUhlcm5TRW1UR204SUZCVWs0Z1V1TVBXbVhyTkpQKzl1THhhOVdJPSIsIm1hYyI6ImJhNjQzZjFjMGIzNzE2ZmE5MzU1MzM3OWU2MjE1YTY2OTQ3ZjIxMTUwNTIzOGRlYmQ1OGRjZGEzOGJiMWY4NDcifQ%3D%3D&amp;signature=744479d973fb7167b54140bd4b4e74388bc2c01d097f138f08b199768277943c</image>
+    <start>02:30PM</start>
+    <finish>05:00PM</finish>
+    <date>22 September 2026</date>
+  </channel>
+  <channel>
+    <name>RDI News CA</name>
+    <id>RDINews.ca</id>
+    <title>Live: Le t?l?journal midi</title>
+    <desc>Le point sur l'actualit? avec les journalistes sur le terrain, au pays et ailleurs dans le monde.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6InlSMU1oK1F5RWVaRWV2TkNhR1wveE5RPT0iLCJ2YWx1ZSI6Ilgyd0IyZUJMK1RWd0had3JLYXJHNDN0eG1MRFJpS0tHSDVrS0ZtVHM2Q1lFb1BzbjZBcjZiS2VrVllcL0pcLzNNRHkwME5sVWZJNStJOVwvXC9kRUlSWU1wUHRxa08za1VZaUhsUE9ab1RZbE55K1BwOWFrNEtHSVBrK0J0dkxXRVV4KyIsIm1hYyI6ImRhYWE5MjA1NzRkZWQ1MTliOTA1ZmExNWIxOWM2M2MzMGYxYjhjOGU3ZGUzYzkzNTZjOWFmNzYxN2E0MjdkZDMifQ%3D%3D&amp;signature=854a226db1bf426eb3101a1a1c9b854ad8994f5b923f19068f957417d015306f</image>
+    <start>05:00PM</start>
+    <finish>05:30PM</finish>
+    <date>22 September 2026</date>
+  </channel>
+  <channel>
+    <name>RDI News CA</name>
+    <id>RDINews.ca</id>
+    <title>Live: Mordus de politique</title>
+    <desc>Les mordus d?battent, analysent et discutent des enjeux politiques de l'heure.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IkdXUkJwbWV0YXZrOGxzUVRrdkZrMWc9PSIsInZhbHVlIjoiK01rYWlyXC9GZXVqaklQNU5ZRmo3RFBMUXdzbytjOWtQMzF3b2N2THlQWkRjbWxoKzlWTDlkeUNtZE9GTWgzYWJyclhhaFpEXC9ma1U4ME1zUTdTVHdzSzJoRFJJMDNrcEJtS3ZpeTRKUk9yVFpBTmkwWGF1MzJ4OU9QV3lnOEREViIsIm1hYyI6ImFkNjFhYzk3ODMyZmYxOWQzNzlkMWRhZDVlYzI5MWVkZDk2ZTg2MGI4MjhiODk5YjBmNmRhZTcxNTE4YTNjN2EifQ%3D%3D&amp;signature=c1fc301da0d0ae7fff7c496edb8be50a7baf8c3b324e2998dad8cfc7b22817bf</image>
+    <start>05:30PM</start>
+    <finish>06:58PM</finish>
+    <date>22 September 2026</date>
+  </channel>
+  <channel>
+    <name>RDI News CA</name>
+    <id>RDINews.ca</id>
+    <title>Live: Zone info avec G?rald Fillion</title>
+    <desc>Discussions et commentaires sur les sujets chauds du jour tout en suivant l'actualit? en d?veloppement.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IlRIT1JkNUdSODhiWGNoakJ4djZOVkE9PSIsInZhbHVlIjoiYjdtVnRBdWxvXC9OXC9BM3JzRXF4bkt4S2FEZ2xTYWlFbU9UU2wrNmpcL1I3ZG5ueUZZYzBTd0pkZkVcL2hQcXRFaEt4Sld3Q0V5WEtLUDBTVlpGR0RHSStxblwvcTVCdzQwd05LRnRBbmIzcmtqaWpmMUk0VTJyYmdXZDU4Nm1yemRReCIsIm1hYyI6IjRlNTc3NWMzYjY5MGE2NDU0ZGNiMWVkMTcyZjgxOWI5ZjdhMzUzYmRmNGRlNGU4MDgyNzUzNThjOWI2Y2Y5Y2UifQ%3D%3D&amp;signature=a837f8afc56fd0277104d80757909f8ebe9ac51dc76f72b63d6fa82ef7d09125</image>
+    <start>06:58PM</start>
+    <finish>08:59PM</finish>
+    <date>22 September 2026</date>
+  </channel>
+  <channel>
+    <name>RDI News CA</name>
+    <id>RDINews.ca</id>
+    <title>Live: Sur le terrain</title>
+    <desc>En direct sur ce qui se passe en ce moment ? Washington et ailleurs dans le monde.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6InlNTHRWSHNIcDMrRzJNeE1tMW9KTmc9PSIsInZhbHVlIjoiYTE4UWVkWnZlK1lnTERIUTRUWDBUWGZXVzM3K1wvbENTNGVhNVhRQ21VcGlINWI1NjJKd3QzTUl4cER1eGg1cllEYWJhek1cLzRMdjBIY3VaSDRnbFdoUzE4N3RRb3ZVR0Zyd0V2SFhnOHVBWT0iLCJtYWMiOiIyZGIyNjQwZmQ5ZDkwYjcwZTQwMWNjZTE3ZTljMjMxZmE3M2U0OWVmZDk2MjdhMTdkZjM2MmY4YTZhMTg4NzI1In0%3D&amp;signature=2979208826a491f5800a3da671a45d60d26d25c306df1da88bad5d2ffe30abe5</image>
+    <start>08:59PM</start>
+    <finish>09:57PM</finish>
+    <date>22 September 2026</date>
+  </channel>
+  <channel>
+    <name>RDI News CA</name>
+    <id>RDINews.ca</id>
+    <title>Live: En direct avec Patrice Roy</title>
+    <desc>Le point sur les grandes nouvelles de la journ?e et les enjeux qui touchent les citoyens avec reportages et entrevues.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IkZRTkRHdFN1QSt0b1NiOVAxSm9UaFE9PSIsInZhbHVlIjoiOEh5Y2hSUDlOT0t1WEpTZkpEcWc4YWo3eEFNUTZIcGlkS0J2VE5obkdTQ0plYXBjc01FSWVZaVFCRDNZWHJKcytranZybVlWNXRrbVwvTFZCS200cEgwSnV1STE5dUtmZEF3cWJySWdGeVArWVNxdGZ5V0VzaXVCdlk0SGhpczRcLyIsIm1hYyI6Ijc4MDhkMjliNGYyNDUwMGI0NzM4OTg4Y2Y0M2YwMjA0MmUyZTRkMDY4NjgwZGYzMDlmMWIzOTIzNWViY2M4YmIifQ%3D%3D&amp;signature=24ffd2437d2a5b1561a0bc9fb9b591e4a62d0ede7b4c8ba30ae2275227b09c8c</image>
+    <start>09:57PM</start>
+    <finish>10:55PM</finish>
+    <date>22 September 2026</date>
+  </channel>
+  <channel>
+    <name>RDI News CA</name>
+    <id>RDINews.ca</id>
+    <title>Live: Zone ?conomie</title>
+    <desc>Comprendre les petits et grands enjeux ?conomiques : des finances publiques, au march? de l'emploi et ? l'?volution de la bourse.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6Inc4U1J4T2RSTUFwR3I3WUU2QWJON2c9PSIsInZhbHVlIjoiOVZtQnVNcEUyMWV1OW5EYTJGTWxNWTlKcU5SOGZOaFFGMWVCek5xN0J2U1hQczN1R3plMUJVR2haXC92aEViWmJDNmNpMUpHT2drY1l2SWY1bE84ZldqaHcxdE9KVTI0Q0Iyd3UzMWg4N3cyNDlOdGFxWGtxR3pMSEM5ZEcrZ01TIiwibWFjIjoiODE3MGIyMmIzNTAyNDA5YjI5MGFlMzJkYzdmYTVkOGQ5ODRlMTJkMWUwNzVlOGQ1OGJkOTE4NmVkZjk0MjMyNCJ9&amp;signature=5c5025218bc617a130ebb18c5ce27984f9caa6e2416f0393d49241a4e9b49d87</image>
+    <start>10:55PM</start>
+    <finish>12:00AM</finish>
+    <date>22 September 2026</date>
+  </channel>
+  <channel>
+    <name>RDI News CA</name>
+    <id>RDINews.ca</id>
+    <title>Live: 24/60</title>
+    <desc>Comprendre les ?v?nements de la journ?e, tant en politique nationale et internationale qu'en culture, environnement et soci?t?.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IjdCdUg4Tk1nSHhQemR5Ym9WRHdralE9PSIsInZhbHVlIjoicGk5NVJUWkg3U01iQlBsS3BONGtydXJ5XC8xYjc5U0ROQ1FZdHdPbDc3dTJkckxhZFJnWlwvcWd0OHdhRU5wNk05UEdZWmJpekYrYVpPeHRpWHdVXC81TWVxZ3VKMlFTaXdzcmlTcW1EdW9UcG1JSGlGVzdYZUU0NkFWb3VpSFZBSnkiLCJtYWMiOiIzYTI2OWFjMzRjZTlmNzcyYzUyZDY1MTU5ZGExNGVjMzNlZWM4YmU0ODk4NmQ1M2M0MmNkNmUwNzhhNmQ5MjU1In0%3D&amp;signature=17eedc69d18eab3f15d52aa456ccbceff76da6acb3deb74baee78cdd1d744139</image>
+    <start>12:00AM</start>
+    <finish>01:00AM</finish>
+    <date>23 September 2026</date>
+  </channel>
+  <channel>
+    <name>RDI News CA</name>
+    <id>RDINews.ca</id>
+    <title>Les grands reportages</title>
+    <desc>Nourries par les discours de haine d'id?ologues extr?mistes, des personnes radicalis?es aux profils de plus en plus divers tentent de s'organiser pour passer ? l'action et renverser la d?mocratie.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6ImdTUDFDRHlicCs1Yk9oTFIxa0NpdWc9PSIsInZhbHVlIjoiSFB5ZktxakQ1TVgyN09kYjUwNG5hYXh5Y25HcHBrajNCZEdLWk5KMnFDaUNVd0ttU1ZwcGFtVWxzS0kyWmVhVGlxdVl4NUZoSmc5REVuNU5MbVwvVVExTExTUFBDeTRUYU9mN0J6XC94TnF5Zz0iLCJtYWMiOiJiYjE2Njg5ZjA5MmJkZTFiNWRhY2U0MDcxMDEzN2ZlZjg5NzlmNzNiMjQ3ZDJjOGUwODk4NTZlNDA5ZmY5NDk1In0%3D&amp;signature=893a65534d3e20ec1764664eaa058ae4f4bb1db8395896b1843cd48dc9703b03</image>
+    <start>01:00AM</start>
+    <finish>02:00AM</finish>
+    <date>23 September 2026</date>
+  </channel>
+  <channel>
+    <name>RDI News CA</name>
+    <id>RDINews.ca</id>
+    <title>Live: Le t?l?journal avec Azeb Wolde-Giorghis</title>
+    <desc>Un regard approfondi sur les sujets de l'heure, au pays comme ? l'international, et sur les grands enjeux auxquels la soci?t? est confront?e.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IlQ0MVBXNWdZMWJic2dLbXZLRDZDRmc9PSIsInZhbHVlIjoiS0NVZ29jMGJFTnlkcHFJUWs4cktCaEpUWFR1d2QyQm1MS1BJU05jTHhsMVg0Z2h2dWhHRmRISHpOUk1SUkhBOWpiMURuXC9NK1JrcUxMQ3B2RnNTWUhpM0c3U2piUFMyXC9hUkdja1N6RkNcL0k3MnJuSmdDQ1ZRemU3SWxiNEU0VkMiLCJtYWMiOiI3MGU1ZmQ5MGFmY2ZmYzljYzNjOGMxMjgyZmNmNTRkYjBiZTY1MzQ1NmJhMTQ1MzNjMDY3NGRmZTVmZGZlN2QzIn0%3D&amp;signature=37a29276066ea7dfb3e493df3f4df5a53a959dbf0f9d972f2bdc5225b0c66b2e</image>
+    <start>02:00AM</start>
+    <finish>03:00AM</finish>
+    <date>23 September 2026</date>
+  </channel>
+  <channel>
+    <name>RDI News CA</name>
+    <id>RDINews.ca</id>
+    <title>Live: Le t?l?journal avec Azeb Wolde-Giorghis</title>
+    <desc>Un regard approfondi sur les sujets de l'heure, au pays comme ? l'international, et sur les grands enjeux auxquels la soci?t? est confront?e.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6InNDbDh3Yk1SMGJkY3lYbCtjNDNWRXc9PSIsInZhbHVlIjoiOTg1OVQwM2d3M3FTT0FcL3l6NCs4T2N2QjhoT3NFUnlLQUlMWmpCYjVJN0RuRUtHTzVnUURTNjM0Z0RkQW1UN0JydmFSdEh2UGhkbkFESThUUHc5OXNlZVwvYUZZamkxbnlJK2RGOEgyOGlZMlZOQzBmaU9FWk82SUVMN0hIR3d3VCIsIm1hYyI6IjUxMDVkYTY1YTNkNjRlYWE2ZWRjYzE1MDFkM2U5OGZmZmIxYjE5MjY5MGVhZTM0YTA1OWRkZjJjMTIyMzdjNmUifQ%3D%3D&amp;signature=bc673bad4db59cf86ed810b36f724e929d17dc2a81e0555b482c9b11987f46c2</image>
+    <start>03:00AM</start>
+    <finish>04:00AM</finish>
+    <date>23 September 2026</date>
+  </channel>
+  <channel>
+    <name>RDI News CA</name>
+    <id>RDINews.ca</id>
+    <title>Live: Le national</title>
+    <desc>Un tour d'horizon des dossiers qui retiennent l'attention dans toutes les r?gions du pays.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6Ik9cL1U0QXNIZWh4alNBbGd0QUhwbFwvZz09IiwidmFsdWUiOiJmMys3aURHYkt5RmpxZ0VCN1o1UHhNd2dPR1lYS0VOeFhWSFpBWStvaExQXC9GVCtjeENzWmt5WVpVZ1NxQ3dVbEJuUDdUV0s0K1ZJV2VNbVcrR25JQ3k2MUhHM3ZcLzJRVEZUeDZ2OTBaRU1NPSIsIm1hYyI6ImI3OTI4MzlhNzMwOGE4OWIxYTgzM2QzOGU0ZjBhZGU2ODQ0YzA4ZDFmNmUxMWUxNmY4NTgwZTdlN2NhYjQ0NGQifQ%3D%3D&amp;signature=5c8517d954dd188e770bdea1c06c62f5090ca8320741b50adc7e88b7f8fa97da</image>
+    <start>04:00AM</start>
+    <finish>04:30AM</finish>
+    <date>23 September 2026</date>
+  </channel>
+  <channel>
+    <name>RDI News CA</name>
+    <id>RDINews.ca</id>
+    <title>Live: Le national</title>
+    <desc>Un tour d'horizon des dossiers qui retiennent l'attention dans toutes les r?gions du pays.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IlR6TVwvOE0zV3k2dWNhWG1FWkZiWlZnPT0iLCJ2YWx1ZSI6IjBxaFNpZTNXVFB3ZHhqdWtPNG9FUlhvZ0liM1pwckNWbFNIbmZ5RHY4S1R4OUlQaEZvc0dNVUJCVE9vcUlMQ29KU3hXNEZiOTFCVFhRbjc4YU1aNGJYSmV0YXZsR1NLT2dKeUllMWlqWkNvPSIsIm1hYyI6IjBjNjA4OWJmZjgyMzBkODg1OWRhYmEwYzViMzU1ZDk1MzllNTdkYzJhNjEzOGQ1YThhNWZhZDhkZWQ5ODE5ZTEifQ%3D%3D&amp;signature=3b22ab56d28aedd61f0c8490bf1fbd83cb16eb2eb74104b65e3b564d4735a10b</image>
+    <start>04:30AM</start>
+    <finish>05:00AM</finish>
+    <date>23 September 2026</date>
+  </channel>
+  <channel>
+    <name>RDI News CA</name>
+    <id>RDINews.ca</id>
+    <title>Live: 24/60</title>
+    <desc>Comprendre les ?v?nements de la journ?e, tant en politique nationale et internationale qu'en culture, environnement et soci?t?.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IjB1UU91dkYwWDl1dDAxdnlmYXdaNUE9PSIsInZhbHVlIjoiS1BGU0dCSVZLYWRCOGxXcE4yc0Q4M29VU1wva3ZDbGlYamkwMHNpanVNdEhSUlZLb21jakhMYmk2OUU3Z2JxUnBkRnNyUk51TWNoVUtHUEZ6czlFTnFzaFRIVVFacVdlNmdUYjFYcFJwZDVZR2lcL3M2VU5MTDJhdVwvMzNmbmFJdzgiLCJtYWMiOiI4OTVlYzI4YzM0MzMwZjFlNGNjMmYyY2IxMGQxZTA4ODdkNjEwOTgzZDJkMGE0ODZlMWI4YWYyNzc3MmNlYzg1In0%3D&amp;signature=ce7075496635f77f8dd42e4abb7208d8de84f9e5c3bb43dc7fb0915b13c35b9a</image>
+    <start>05:00AM</start>
+    <finish>06:00AM</finish>
+    <date>23 September 2026</date>
+  </channel>
+  <channel>
+    <name>RDI News CA</name>
+    <id>RDINews.ca</id>
+    <title>Le t?l?journal 18h30</title>
+    <desc>Un rendez-vous d'information qui approfondit les enjeux d'actualit? qui touchent les francophones d'un oc?an ? l'autre et refl?te les r?alit?s des r?gions du pays tout en posant un regard sur le monde.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IkFwQXR3eDNrSVVTbk5obWVFdDNnOXc9PSIsInZhbHVlIjoiZDRONFwvdllRR3ZcLzREeVFQYWw3SGUrajJ6OXMxa1N3ckxURnlYanlNZzZKUHRwZ2RsbG02bzNzaEFqNGtIdkRhbTEyV1dGamhUeEFZanMrMkZZN0xkemgrbjkyeHlKamJiemlZOFhCeGdBbz0iLCJtYWMiOiJjODYwOTljYWM3M2JlZTVlMDk0NmJhYjdkOGEzNzgzNzRhYTA2OTQ5NTI2ZDJkZmRiYzNjNmY2NjNlMmQ2YzAwIn0%3D&amp;signature=1a6e6d19b2ecc3d8d17e2282f490228f6a9de7160ab7918c242b109ff99ef88a</image>
+    <start>06:00AM</start>
+    <finish>06:30AM</finish>
+    <date>23 September 2026</date>
+  </channel>
+  <channel>
+    <name>RDI News CA</name>
+    <id>RDINews.ca</id>
+    <title>Les grands reportages</title>
+    <desc>Nourries par les discours de haine d'id?ologues extr?mistes, des personnes radicalis?es aux profils de plus en plus divers tentent de s'organiser pour passer ? l'action et renverser la d?mocratie.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IjkraU9FOE1lYlZKcXEyUFYzem9TelE9PSIsInZhbHVlIjoicVdwZEVXVU5WUFc1cE1pVmZickdBV1RPSEszYWdITWNTN0xYOWljc0IyNzlWSlI1NGxTeDMrbG1mOEsrWWZTVHJLQTFablwvWWNnM3diTGpNaXdqdTJlUm5PRXgzbDh6VnlOMXRuVk1rWVY4PSIsIm1hYyI6ImU3ZGI5NTRmNTE2N2ViMDYzOWU2ZGY3YmE5ZGQ0Y2RjMjFiOWEyM2JlMjI5NDA1ZWQwNzE1MDkwNmZhNzgwMDcifQ%3D%3D&amp;signature=a5d277b7fa7a62c0377507ffce3f4856beca7a6e6a743d96bf0fa2c2a2285c06</image>
+    <start>06:30AM</start>
+    <finish>07:30AM</finish>
+    <date>23 September 2026</date>
+  </channel>
+  <channel>
+    <name>RDI News CA</name>
+    <id>RDINews.ca</id>
+    <title>Le t?l?journal avec Azeb Wolde-Giorghis</title>
+    <desc>Un regard approfondi sur les sujets de l'heure, au pays comme ? l'international, et sur les grands enjeux auxquels la soci?t? est confront?e.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6ImkrMCtwV2dqOGI3UCs1S1BMTGtFbUE9PSIsInZhbHVlIjoiMHB0YUwwTm5BR2tZOEV5UmhRYnVZXC9WQlFlajV1WWxma2NSb2lHTjJsVVdHNzZTZzZUWjFSRWxUWFluSU9kRXpMb3JIWjRSc1BURU5FT2lKdmtPbm5TUlRqU3pjbE9iXC8yOWpaWlc0VVVkVjllWEdpdXp1cVFCRVlwaSs5S2NSTCIsIm1hYyI6IjlkZjEzNzM2ZjhjNDMzZDNkODQ5MWZjYTI3NzNhNzAwZWJmYmM2N2EyMTNjYzQzOTE0MDhkY2ZiYWQ4Y2MxMGQifQ%3D%3D&amp;signature=b3cb7283358c6dc59974cd71bd149772795e395af67c9e0a0c2133bb892556ba</image>
+    <start>07:30AM</start>
+    <finish>08:30AM</finish>
+    <date>23 September 2026</date>
+  </channel>
+  <channel>
+    <name>RDI News CA</name>
+    <id>RDINews.ca</id>
+    <title>Le national</title>
+    <desc>Un tour d'horizon des dossiers qui retiennent l'attention dans toutes les r?gions du pays.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IkkxT05oZEN6bWhMZGdHalBJRjRHeUE9PSIsInZhbHVlIjoiTm1ZVjlmNDFpY28ybkxsbE5tQ0FPZUNTMnUrZ1VmNlJHSzdCZzB0UG1PMGtKRHVMUTA3ZGhpalc0TlZiV3B5RmQzd2hFdFM5c2pXSCtOc0lndnpyZitRVnZOZDRXeVR2dk9EeWl6VHFYQkk9IiwibWFjIjoiMmI2YWM1M2NmMTIwNzQ4ZmVmODE4ODM3NjI3YWJkNTRjMjhhNmMxYTc0MDRkYzljM2UyNTA2NGQ3Mjc5ODQ2MyJ9&amp;signature=dc5aadd11b8c3baf055c66b026bf94b123d3410fc79b1f85e8118d0696f25a56</image>
+    <start>08:30AM</start>
+    <finish>09:00AM</finish>
+    <date>23 September 2026</date>
+  </channel>
+  <channel>
+    <name>RDI News CA</name>
+    <id>RDINews.ca</id>
+    <title>Zone ?conomie</title>
+    <desc>Comprendre les petits et grands enjeux ?conomiques : des finances publiques, au march? de l'emploi et ? l'?volution de la bourse.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6InFEa1NXQjlUWDBKSkI2UENsdkNGTmc9PSIsInZhbHVlIjoiUzlFK1REOVlSOFwva0UyWG9CdWZZQXErRjlnUGRnNEhUYjQxRnpIazV2V0R3SU1BaG1UKzBFdEdFeUJcL1ZBZmkxZzBzSFwvUEJhZHFYazRnaFJZVjRGNzF2MlM4OTVUWk5cL1M0clwvVGFxOW1pdEpzS1Z0a1VIZkZ0Y2FKXC9iV2NJeU8iLCJtYWMiOiJiMjM0NDk4MGViN2VjYjFmNzkzN2E5ZjE3NGIxMzM1MTA3ZTFiZjZiMzhiZDkyNjEwMWIwNDE2Yjk0ZWZmOTQ1In0%3D&amp;signature=21a31bca2fc31501bab83f48ad64f55cd2b357be03b8d0b0bd4cf826ea6fa519</image>
+    <start>09:00AM</start>
+    <finish>10:00AM</finish>
+    <date>23 September 2026</date>
+  </channel>
+  <channel>
+    <name>RDI News CA</name>
+    <id>RDINews.ca</id>
+    <title>Le 64'</title>
+    <desc>Les nouvelles internationales d'un point de vue europ?en.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IjZBRUVZTnFtSDRsTW5naG1paGVraHc9PSIsInZhbHVlIjoiWHhUZ05hTkQya3V0RE1xQzB5N0dOeHYwejJ5blhlaVhCQndPU0FxOStjVXNSdnFCeitMVWQ0WlBUaFhDcVRCYnk1akN6eko2SkRMK0pJTkJEZWR5cVowNlY1YkM4c0o3amdScXNob2hrZ0k9IiwibWFjIjoiMWI1MWJmM2ZhYzgxMzMwZDhlZThjN2Q4YzU2MDU2ODc5N2ZiMTIwMjY1YjgwMmRlZGIwZTllZGI0M2E1OTIyZiJ9&amp;signature=0277d0133c30398748125c093c5079b2ee34d1165c2afa3ce182656430dc8a8b</image>
+    <start>10:00AM</start>
+    <finish>10:34AM</finish>
+    <date>23 September 2026</date>
+  </channel>
+  <channel>
+    <name>RDI News CA</name>
+    <id>RDINews.ca</id>
+    <title>? la une</title>
+    <desc>Un condens? des premi?res nouvelles du jour, d'ici et d'ailleurs, pour bien d?marrer la journ?e. Le tout sur un ton convivial.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6InBxWDZcL1pNRWFyVzNQR3lZdzAwZHFRPT0iLCJ2YWx1ZSI6ImF0d01hQWtTYlVISHViVTlsQXZwM3FaNnpRNlVPQVRTNEJZdGNXOHU4OGJKblwvTm1ldmIxSFdscGtyZzB4amttTUtKaWhiZFMrSDh0enk1YnQwb0hqcytEVjVldUJoUTk1K016bkVReW41VT0iLCJtYWMiOiI2YWM0NzM4NDBkY2U2YTUwZDFmNmMwYWViOTQ4ZmEyODI5ODk4ZjNhZDE2NzI0OGYwNDEyNzYxMDQ0YzQyYmNjIn0%3D&amp;signature=dc9e8560d5967ba01850e582208f5e211a8f7e770a145b39ace787b2e1cd5dd8</image>
+    <start>10:34AM</start>
+    <finish>10:59AM</finish>
+    <date>23 September 2026</date>
+  </channel>
+  <channel>
+    <name>RDI News CA</name>
+    <id>RDINews.ca</id>
+    <title>Live: Premi?re ligne</title>
+    <desc>Tout ce qu'il faut pour bien s'informer d?s le r?veil : actualit?s du jour de partout au pays, enjeux de politique internationale, nouvelles culturelles et sujets de soci?t? qui font parler.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IjdINUhpeXJteFwvTEhUa2RsOWI2K1wvdz09IiwidmFsdWUiOiJJMVFJaWFUOVNVM1VENytDM1daMGJrQWlqS2tWVjZaYmJFREU4NWFGeXc5R29BNWVta2lUQ1FGQlVLd3FuSnE4MzNIQnFxdUNJT2RhNVdSUGgrVXBobWtOeWY1YXQ1SEFuYlQ2cjF6WTlUST0iLCJtYWMiOiIxNzI4MzRlNWE0YWIxYWI5ZDBkNGIwZjZlZTA2MjMyNWIyNzc4YzYwNTU3MTE1NGZkZDk0ZmQ5NzE0MzE1ZTcwIn0%3D&amp;signature=8ab23eac0907567f8a0ab8f29713dd1d822646a8b1b8f66bdc61478192250e41</image>
+    <start>10:59AM</start>
+    <finish>02:00PM</finish>
+    <date>23 September 2026</date>
+  </channel>
+  <channel>
+    <name>RDI News CA</name>
+    <id>RDINews.ca</id>
+    <title>Live: L'agenda</title>
+    <desc>Un regard sur ce qu'on attend de la journ?e politique qui commence avec des commentatrices et commentateurs aguerris.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IlpRVnNQXC94NU1BZk9tSytyTnIrK1p3PT0iLCJ2YWx1ZSI6InNVRXRvZjd0QVBnVVN1NlcyKzNlM09qUzlSSHd0eGp3R2JKWXo2MkM5MFU2VURzXC9ISlwvOVdmT1Z6enllQ3R0Q0RRa0kxa0FzMzBHSWNYWStBa0xkVEx5MlZKQ2E1MFR6eW1mcEVUV0lkSEk9IiwibWFjIjoiY2VmNDRhOGI2MmJkYzYzN2I4YTdlMjQzODRkNGY2YWU0MWVhNTc3MWZmY2JlZDFiNTA1ZjNkMWE1ZjU5YzJlZiJ9&amp;signature=aba148888a3a8f59aeb6a161b2ef7a2e164247d8c0d24cce897d800e684ccf2c</image>
+    <start>02:00PM</start>
+    <finish>02:30PM</finish>
+    <date>23 September 2026</date>
+  </channel>
+  <channel>
+    <name>RDI News CA</name>
+    <id>RDINews.ca</id>
+    <title>Live: L'info maintenant</title>
+    <desc>Les nouvelles qui marquent l'actualit? au pays et ailleurs dans le monde.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IkNKYmlMSGxJTlwvd3lrMHllVU1obzZnPT0iLCJ2YWx1ZSI6InBWaVZuM2lTdysrRFJJU1FpMTV2MDRKcEdJbmFtcXFHeTFTQ0JFaXBkbzArNGxkUEphbWxoTVV6SGpJeHM0TnM0VTlOVGVxN0h3aUlhM2NiZHMxQVdaMDFPR0g1RXlYUGVSellObU9kVWdvPSIsIm1hYyI6ImYyOTdlYmJjYTJjN2EwNWNmMDBmYzk2YTQzZjEzM2Y0ZGJjMDcxMmU3M2E0YmFhMzBmMDU4MDc2NjhlNjcwYTAifQ%3D%3D&amp;signature=3c00f4edece682d69051c3179df790faf3b4b9d62ab6c4ef44714f77c5ad57ba</image>
+    <start>02:30PM</start>
+    <finish>05:00PM</finish>
+    <date>23 September 2026</date>
+  </channel>
+  <channel>
+    <name>RDI News CA</name>
+    <id>RDINews.ca</id>
+    <title>Live: Le t?l?journal midi</title>
+    <desc>Le point sur l'actualit? avec les journalistes sur le terrain, au pays et ailleurs dans le monde.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6ImJjbWVsMmhIUmlWMWZWN0tFVlJndmc9PSIsInZhbHVlIjoieXU1eVh2MWNDeVdKTHNVbDFHQW1sZjlsXC82bis1Q213UjRGYzVHWlwvNVZBc3pvZzRkc3VIcTZrUzNBSXFudkhXc1wvcnplTW9hR2pzZjZMZFRmaVZRcXJxK3duSEZORXVBSU1FM25FWnFGYlwvMk8zS2lmY0J4bTFFcE5nQmJxeEhzIiwibWFjIjoiNTM1YTQwYWM0MTA2ODMwNjMxNmNmOWNlMDA4YTZhNjUwMzU2NGY4NjMyZDk2YWE5MjkwMmVkZTgwYWUzNmU3OSJ9&amp;signature=228e0eb90edfe36d21a8b623c011a948e5d59598c2645965ee2a7c7e72d1bdc5</image>
+    <start>05:00PM</start>
+    <finish>05:30PM</finish>
+    <date>23 September 2026</date>
+  </channel>
+  <channel>
+    <name>RDI News CA</name>
+    <id>RDINews.ca</id>
+    <title>Live: Mordus de politique</title>
+    <desc>Les mordus d?battent, analysent et discutent des enjeux politiques de l'heure.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IlRzZjkzcmxqVTBSbFR1dFd0N043MFE9PSIsInZhbHVlIjoib2VaMWhnREhOcEY2aVpjQlVGcTdQS3M0aktEZlNZOVwvVWoyTXc3cW1iUnF3Z3dTVHd0WTNSRWxQYW91Q2J0ZkljZWtnOE5QclVvU0EzcG8yTXFjNHowZUtDdUxpWlpWQ2JZR0FwUlNQODVmVVZDWTVHQ1czcHZGTmh2MU56XC9CSCIsIm1hYyI6IjM5Zjk1YzViODgzZDliMWEyMTg1NjdmYTE5MDhhMDEzZDBiNDUwZjVmOWVhMDk3NzM3MzZiODIxNGQ3MDdmNWUifQ%3D%3D&amp;signature=8e49d94ba4a270f075e2b5981cc2e1e48b1def777614cbe48330ea994585a60e</image>
+    <start>05:30PM</start>
+    <finish>06:58PM</finish>
+    <date>23 September 2026</date>
+  </channel>
+  <channel>
+    <name>RDI News CA</name>
+    <id>RDINews.ca</id>
+    <title>Live: Zone info avec G?rald Fillion</title>
+    <desc>Discussions et commentaires sur les sujets chauds du jour tout en suivant l'actualit? en d?veloppement.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IjlPOVhORnh4elI5TDAwXC82WENqczJRPT0iLCJ2YWx1ZSI6IkVsOVZnNjI0S251S29HM3JuZTZ1bzdDeWJcL2p1WUprOWhKdGxWOFZTa2lHeWFZXC9VeFlTd0xzMFZuVlRhbHh1ajNKYkpRT09hcUJzaHc1WlFIcmtmaGUyQ3g5NXdQWGhWN05OTVd4Z1R3a2NyTjJ3a1hQbEE2WW9iMUlYMm9KYUkiLCJtYWMiOiI5NTkyNmFmYjFlNjc0NGE5YmYwNjEzNGY5NjU2NzIzODJlZGEyMWU4YTU3MTFmMzA0NThmZjBmYzhjMGYwYWUwIn0%3D&amp;signature=6730e440bc906c368134597605275a4d082356c0d6e08525073e0709d74eb6f8</image>
+    <start>06:58PM</start>
+    <finish>08:59PM</finish>
+    <date>23 September 2026</date>
+  </channel>
+  <channel>
+    <name>RDI News CA</name>
+    <id>RDINews.ca</id>
+    <title>Live: Sur le terrain</title>
+    <desc>En direct sur ce qui se passe en ce moment ? Washington et ailleurs dans le monde.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IkthUDRrdHlLQ2ZzR2lWdXNOZHJxYnc9PSIsInZhbHVlIjoiNGNIYjlpclRCY3lpR2RaOFlqWG5BVnJMYUJuRlp5bDQ3QldSK244ZUdRTFZVR2IzTVNKeUYra1JORGdXbXVxcVIzWHRXcnVCdEhJVmxPMGxqakgxTENLXC9DZkxVQlduMmtSNWdzSEtYSE1nPSIsIm1hYyI6IjBhYjljNzhjMTcxMmVkY2VmYWY0NjBiYjFhNDljOWE1ODM3OTE4Y2I2ZGI2ZGEzNTY3MmYzMTkxOWYxNDA2ZTcifQ%3D%3D&amp;signature=07e70576e8fd67eb9af2f23609653bcf18469eb60953a8623c5f04fbb35a32d6</image>
+    <start>08:59PM</start>
+    <finish>09:57PM</finish>
+    <date>23 September 2026</date>
+  </channel>
+  <channel>
+    <name>RDI News CA</name>
+    <id>RDINews.ca</id>
+    <title>Live: En direct avec Patrice Roy</title>
+    <desc>Le point sur les grandes nouvelles de la journ?e et les enjeux qui touchent les citoyens avec reportages et entrevues.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IlhNY2VUSkRGUGFudEtWK1R4RUR1Ync9PSIsInZhbHVlIjoiU056UFU4dGZHZElFQjAyM0JmN1NsZTJweW9VUU5NWWY4a3FHa3Y4S1JwdEtQek15TXJkUUVham5pUXdKb2YxRzZTZDFrYnFOamhMNEV0XC9BOHZiOGg3THVhR2NZUEhPVVwvRFNtV1ZkUUEwdENwOWRBVUpBOFZScXVGVytjNG0waiIsIm1hYyI6IjI3ZDE2OTA4NWY4ZDVjNzZlOWMwMGRkMzgyN2M3ZWQ4MjFmZjE0OWZhOWRlOTZiZjYwNzNlMDExNjU5NDI1YzUifQ%3D%3D&amp;signature=fb72e873ade9d8980228c5ed0545f303612ee7c7afaa3188021e609fc555adfb</image>
+    <start>09:57PM</start>
+    <finish>10:55PM</finish>
+    <date>23 September 2026</date>
+  </channel>
+  <channel>
+    <name>RDI News CA</name>
+    <id>RDINews.ca</id>
+    <title>Live: Zone ?conomie</title>
+    <desc>Comprendre les petits et grands enjeux ?conomiques : des finances publiques, au march? de l'emploi et ? l'?volution de la bourse.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IlNEc0d4VG84MFF0VUdyUmpKWlZFYVE9PSIsInZhbHVlIjoidTVwaWRuNm44UTZPcDU5UDFxYlllaFpkcTNzQUdLaW9ORUN0blJXSitwWUJLZkczVzJEQVYxQVFSaXVMRUdJNlJqNjU4SDhWUml5U0NGa3VCcHJFaWpcL051aHVqQlk4Y3RSUHE5S1wvTnVcL0FXaVwvblFNbXFsMnlKc1UrXC9ma2EyVyIsIm1hYyI6IjE3MGRhODVkZTU3M2ZjZDA2YWU5ZGRjOWQ0NmI3NmQzN2YzZDcwN2Y1MjE2MzU2MTU3MzlkMzRjOWIxMDg0YWEifQ%3D%3D&amp;signature=319dc77aaf044d303c0ffeed98dd0272446e1f005c86868ad7694cb068307410</image>
+    <start>10:55PM</start>
+    <finish>12:00AM</finish>
+    <date>23 September 2026</date>
+  </channel>
+  <channel>
+    <name>RDI News CA</name>
+    <id>RDINews.ca</id>
+    <title>Live: 24/60</title>
+    <desc>Retour sur les enjeux de la campagne et les dossiers qui marqueront le d?bat des chefs, avec les derni?res r?actions, les analyses et les pr?paratifs ? quelques minutes de la confrontation.[(96057)] </desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IlFXV3pnT0JtMG5CaThza1dXZ01yR2c9PSIsInZhbHVlIjoiTThwXC80dkIyeVwvWnlOU3FtNDhrUENTZnJQbnFKUTgwaCtcL3B4UGhNeXJRTDQrNFU2NnE2NjBIXC9qckp3Mm95SmI4NlwvcTN4dUc2RWNcLzVzY1FXRU40OSt1Rmc3bVdLcWIrOHVsUndVbitxREt0dWtPMm1ITFpVZndQdWZ2aklyaWUiLCJtYWMiOiJlMzU1OWFkZDlmYzdiODI5ZTE0ODE2YzVmZWI4ZjgzNjNkZDA4MjAwODA1ZjFmYWRiNzk5ZDE0NDlkNzE3OTE3In0%3D&amp;signature=93781a71fd05c62d3b3b74c52acd6df5afcf0caa9713b6b595603b0e7e062d26</image>
+    <start>12:00AM</start>
+    <finish>01:00AM</finish>
+    <date>24 September 2026</date>
+  </channel>
+</tv>

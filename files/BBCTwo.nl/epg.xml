@@ -1,2 +1,1493 @@
 <?xml version="1.0" ?>
-<tv/>
+<tv>
+  <channel>
+    <name>BBC Two NL</name>
+    <id>BBCTwo.nl</id>
+    <title>BBC News</title>
+    <desc>A comprehensive compilation of the latest and the most important news stories, updates and developments from the UK and different parts of the world.</desc>
+    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
+    <start>09:00AM</start>
+    <finish>12:30PM</finish>
+    <date>18 September 2026</date>
+  </channel>
+  <channel>
+    <name>BBC Two NL</name>
+    <id>BBCTwo.nl</id>
+    <title>Political Thinking with Nick Robinson</title>
+    <desc>Nick Robinson has a conversation with, not an interrogation of, the people who shape our political thinking about what shaped theirs.</desc>
+    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
+    <start>12:30PM</start>
+    <finish>01:00PM</finish>
+    <date>18 September 2026</date>
+  </channel>
+  <channel>
+    <name>BBC Two NL</name>
+    <id>BBCTwo.nl</id>
+    <title>Impossible</title>
+    <desc>Contestants compete across the series, scoring points by answering questions correctly. However, they must avoid the impossible answers, otherwise they will be eliminated from the show until the next day.</desc>
+    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
+    <start>01:00PM</start>
+    <finish>01:45PM</finish>
+    <date>18 September 2026</date>
+  </channel>
+  <channel>
+    <name>BBC Two NL</name>
+    <id>BBCTwo.nl</id>
+    <title>The Edge</title>
+    <desc>The game show that mixes general knowledge quizzing and bowling.</desc>
+    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
+    <start>01:45PM</start>
+    <finish>02:30PM</finish>
+    <date>18 September 2026</date>
+  </channel>
+  <channel>
+    <name>BBC Two NL</name>
+    <id>BBCTwo.nl</id>
+    <title>Unbeatable</title>
+    <desc>Jason Manford hosts the quiz show where players face a question and pick from a board of six rankable answers. Some answers are good, but only one is unbeatable.</desc>
+    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
+    <start>02:30PM</start>
+    <finish>03:00PM</finish>
+    <date>18 September 2026</date>
+  </channel>
+  <channel>
+    <name>BBC Two NL</name>
+    <id>BBCTwo.nl</id>
+    <title>Wild China</title>
+    <desc>China's heartland is the centre of a 5,000-year-old civilisation and is home to the giant panda, the golden snub-nosed monkey and the golden takin. China faces environmental problems, but the relationship the Chinese have with their environment is deep and extraordinary. We will understand what this means for the future of China.</desc>
+    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
+    <start>04:15PM</start>
+    <finish>05:15PM</finish>
+    <date>18 September 2026</date>
+  </channel>
+  <channel>
+    <name>BBC Two NL</name>
+    <id>BBCTwo.nl</id>
+    <title>Flog It!</title>
+    <desc>Paul Martin presents from Muncaster Castle in Cumbria, where hundreds of people turn up with collectibles and treasures they want to take to auction. Antiques experts Adam Partridge and Caroline Hawley uncover a few gems including a silver candlestick and some Coalbrookedale plates, and Paul delves into the Lake District's bobbin industry.</desc>
+    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
+    <start>05:15PM</start>
+    <finish>06:00PM</finish>
+    <date>18 September 2026</date>
+  </channel>
+  <channel>
+    <name>BBC Two NL</name>
+    <id>BBCTwo.nl</id>
+    <title>Richard Osman's House of Games</title>
+    <desc>Larry Dean, Kirsty Gallagher, Sam Quek and Lemn Sissay take on a series of quiz rounds selected by Richard Osman. A daily winner is declared following a quick-fire round at the end of each show, and the scores are tallied across the week.</desc>
+    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
+    <start>06:00PM</start>
+    <finish>06:30PM</finish>
+    <date>18 September 2026</date>
+  </channel>
+  <channel>
+    <name>BBC Two NL</name>
+    <id>BBCTwo.nl</id>
+    <title>Clive Myrie's Caribbean Adventure</title>
+    <desc>Clive heads for the east coast of Barbados to check out the world's oldest rum distillery. He explores the sugar cane fields and the factory floor before he gets the chance to have a sip of the golden produce.</desc>
+    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
+    <start>06:30PM</start>
+    <finish>07:00PM</finish>
+    <date>18 September 2026</date>
+  </channel>
+  <channel>
+    <name>BBC Two NL</name>
+    <id>BBCTwo.nl</id>
+    <title>Newsnight</title>
+    <desc>Insights and global interviews on the crucial news stories of the day. With Matt Chorley.</desc>
+    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
+    <start>07:00PM</start>
+    <finish>07:28PM</finish>
+    <date>18 September 2026</date>
+  </channel>
+  <channel>
+    <name>BBC Two NL</name>
+    <id>BBCTwo.nl</id>
+    <title>BBC Weather</title>
+    <desc>The latest weather forecast.</desc>
+    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
+    <start>07:28PM</start>
+    <finish>07:30PM</finish>
+    <date>18 September 2026</date>
+  </channel>
+  <channel>
+    <name>BBC Two NL</name>
+    <id>BBCTwo.nl</id>
+    <title>Beechgrove Garden</title>
+    <desc>Brian Cunningham looks at which trees can be planted that will cope with wet conditions, and Carole Baxter is back with another one of her visits to a great Scottish garden.</desc>
+    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
+    <start>07:30PM</start>
+    <finish>08:00PM</finish>
+    <date>18 September 2026</date>
+  </channel>
+  <channel>
+    <name>BBC Two NL</name>
+    <id>BBCTwo.nl</id>
+    <title>Gardeners' World</title>
+    <desc>In a special programme exploring the enduring value of allotment life, Frances Tophill heads to Exmouth in Devon, where thriving plots and passionate growers are at the heart of a vibrant community.</desc>
+    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
+    <start>08:00PM</start>
+    <finish>09:00PM</finish>
+    <date>18 September 2026</date>
+  </channel>
+  <channel>
+    <name>BBC Two NL</name>
+    <id>BBCTwo.nl</id>
+    <title>Michael Portillo's 200 Years of the Rail</title>
+    <desc>Railway enthusiast Michael Portillo follows the route of the pioneering Stockton and Darlington Railway in north-east England - the world's first public railway to carry fee-paying passengers using steam locomotives.</desc>
+    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
+    <start>09:00PM</start>
+    <finish>10:00PM</finish>
+    <date>18 September 2026</date>
+  </channel>
+  <channel>
+    <name>BBC Two NL</name>
+    <id>BBCTwo.nl</id>
+    <title>The Devil's Confession: The Lost Eichmann Tapes</title>
+    <desc>Escaping from postwar Europe, Nazi criminal Adolf Eichmann establishes a new life in Argentina, where he meets fellow Nazi Willem Sassen. Together, they record a comprehensive account of his career.</desc>
+    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
+    <start>10:00PM</start>
+    <finish>11:00PM</finish>
+    <date>18 September 2026</date>
+  </channel>
+  <channel>
+    <name>BBC Two NL</name>
+    <id>BBCTwo.nl</id>
+    <title>Starve Acre</title>
+    <desc>Dark and sinister forces invade an archaeologist's home as he investigates a mythic folklore about an ancient oak tree on his land.</desc>
+    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
+    <start>11:00PM</start>
+    <finish>12:35AM</finish>
+    <date>18 September 2026</date>
+  </channel>
+  <channel>
+    <name>BBC Two NL</name>
+    <id>BBCTwo.nl</id>
+    <title>Panorama</title>
+    <desc>It's a sex abuse scandal that has gripped the world. But despite all the headlines and stories, important questions remain unanswered about Jeffrey Epstein. How did he become so powerful?</desc>
+    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
+    <start>12:35AM</start>
+    <finish>01:35AM</finish>
+    <date>19 September 2026</date>
+  </channel>
+  <channel>
+    <name>BBC Two NL</name>
+    <id>BBCTwo.nl</id>
+    <title>The Big Deal</title>
+    <desc>Two teams of aspiring art dealers are tasked with curating artwork for a luxury cruise ship in the semi-final. One team secures a lucrative deal, one pair faces elimination.</desc>
+    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
+    <start>01:35AM</start>
+    <finish>02:35AM</finish>
+    <date>19 September 2026</date>
+  </channel>
+  <channel>
+    <name>BBC Two NL</name>
+    <id>BBCTwo.nl</id>
+    <title>This Is BBC TWO</title>
+    <desc>A preview of upcoming programmes from BBC Two.</desc>
+    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
+    <start>02:35AM</start>
+    <finish>06:35AM</finish>
+    <date>19 September 2026</date>
+  </channel>
+  <channel>
+    <name>BBC Two NL</name>
+    <id>BBCTwo.nl</id>
+    <title>Weasy Family</title>
+    <desc>Weasy finds a new robot to play with, but the Ducklings aren't so thrilled.</desc>
+    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
+    <start>06:55AM</start>
+    <finish>07:00AM</finish>
+    <date>19 September 2026</date>
+  </channel>
+  <channel>
+    <name>BBC Two NL</name>
+    <id>BBCTwo.nl</id>
+    <title>Super Happy Magic Forest</title>
+    <desc>Priding herself on being the only flying hero, Twinkle is upset by Herbert's flying invention, and the pair risk a quest by being too competitive.</desc>
+    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
+    <start>07:00AM</start>
+    <finish>07:15AM</finish>
+    <date>19 September 2026</date>
+  </channel>
+  <channel>
+    <name>BBC Two NL</name>
+    <id>BBCTwo.nl</id>
+    <title>Grizzy and the Lemmings</title>
+    <desc>Grizzy and the Lemmings discover a hidden mechanism on the Great Wall of China.</desc>
+    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
+    <start>07:15AM</start>
+    <finish>07:20AM</finish>
+    <date>19 September 2026</date>
+  </channel>
+  <channel>
+    <name>BBC Two NL</name>
+    <id>BBCTwo.nl</id>
+    <title>Duck and Frog</title>
+    <desc>Duck is a tour guide at a stately home, but Frog decides to move in.</desc>
+    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
+    <start>07:20AM</start>
+    <finish>07:30AM</finish>
+    <date>19 September 2026</date>
+  </channel>
+  <channel>
+    <name>BBC Two NL</name>
+    <id>BBCTwo.nl</id>
+    <title>Pok?mon Horizons: The Series</title>
+    <desc>The Rising Volt Tacklers struggle to keep up against the rampaging Six Heroes.</desc>
+    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
+    <start>07:30AM</start>
+    <finish>07:50AM</finish>
+    <date>19 September 2026</date>
+  </channel>
+  <channel>
+    <name>BBC Two NL</name>
+    <id>BBCTwo.nl</id>
+    <title>Winx Club: The Magic Is Back</title>
+    <desc>Bloom and the Winx uncover shocking truths about the Dragon Flame's origins and its connection to Damien and Vexius. Meanwhile, Bloom faces a personal revelation that will change everything.</desc>
+    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
+    <start>07:50AM</start>
+    <finish>08:15AM</finish>
+    <date>19 September 2026</date>
+  </channel>
+  <channel>
+    <name>BBC Two NL</name>
+    <id>BBCTwo.nl</id>
+    <title>The Next Step</title>
+    <desc>An influencer stirs things up at The Next Step when she tries to unearth all the drama for her social media.</desc>
+    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
+    <start>08:15AM</start>
+    <finish>08:40AM</finish>
+    <date>19 September 2026</date>
+  </channel>
+  <channel>
+    <name>BBC Two NL</name>
+    <id>BBCTwo.nl</id>
+    <title>Newsround</title>
+    <desc>News magazine keeping young viewers up to date with the latest stories and events happening at home and abroad.</desc>
+    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
+    <start>08:40AM</start>
+    <finish>08:50AM</finish>
+    <date>19 September 2026</date>
+  </channel>
+  <channel>
+    <name>BBC Two NL</name>
+    <id>BBCTwo.nl</id>
+    <title>Blue Peter</title>
+    <desc>The cast of the new UK tour of High School Musical perform a show-stopping song.</desc>
+    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
+    <start>08:50AM</start>
+    <finish>09:15AM</finish>
+    <date>19 September 2026</date>
+  </channel>
+  <channel>
+    <name>BBC Two NL</name>
+    <id>BBCTwo.nl</id>
+    <title>Gardeners' World</title>
+    <desc>In a special programme exploring the enduring value of allotment life, Frances Tophill heads to Exmouth in Devon, where thriving plots and passionate growers are at the heart of a vibrant community.</desc>
+    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
+    <start>09:15AM</start>
+    <finish>10:15AM</finish>
+    <date>19 September 2026</date>
+  </channel>
+  <channel>
+    <name>BBC Two NL</name>
+    <id>BBCTwo.nl</id>
+    <title>Beechgrove Garden</title>
+    <desc>Brian Cunningham looks at which trees can be planted that will cope with wet conditions, and Carole Baxter is back with another one of her visits to a great Scottish garden.</desc>
+    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
+    <start>10:15AM</start>
+    <finish>10:45AM</finish>
+    <date>19 September 2026</date>
+  </channel>
+  <channel>
+    <name>BBC Two NL</name>
+    <id>BBCTwo.nl</id>
+    <title>The Great British Sewing Bee</title>
+    <desc>It's the final, and the finalists tackle a cummerbund and bow tie, make beach outfits from tableware and create outfits on the theme of metamorphosis.</desc>
+    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
+    <start>10:45AM</start>
+    <finish>11:45AM</finish>
+    <date>19 September 2026</date>
+  </channel>
+  <channel>
+    <name>BBC Two NL</name>
+    <id>BBCTwo.nl</id>
+    <title>Race Against the Tide</title>
+    <desc>The tide is rising, and the pressure's mounting. Four teams face their tallest sand challenge yet. Who will soar and who will sink in the semi-final?</desc>
+    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
+    <start>11:45AM</start>
+    <finish>12:15PM</finish>
+    <date>19 September 2026</date>
+  </channel>
+  <channel>
+    <name>BBC Two NL</name>
+    <id>BBCTwo.nl</id>
+    <title>Live: WSL</title>
+    <desc>London City Lionesses meet local rivals Charlton Athletic in the Women's Super League.</desc>
+    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
+    <start>12:15PM</start>
+    <finish>02:50PM</finish>
+    <date>19 September 2026</date>
+  </channel>
+  <channel>
+    <name>BBC Two NL</name>
+    <id>BBCTwo.nl</id>
+    <title>West Side Story</title>
+    <desc>Against a backdrop of vicious gang warfare between the New Yorker Jets and the Puerto Rican Sharks, a romance develops across rival lines. 1960s update of 'Romeo and Juliet', with amazing song and dance sequences.</desc>
+    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
+    <start>02:50PM</start>
+    <finish>05:15PM</finish>
+    <date>19 September 2026</date>
+  </channel>
+  <channel>
+    <name>BBC Two NL</name>
+    <id>BBCTwo.nl</id>
+    <title>Live: Super League Rugby</title>
+    <desc>Action from the elimination play-offs as the race to the Super League grand final begins.</desc>
+    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
+    <start>05:15PM</start>
+    <finish>07:30PM</finish>
+    <date>19 September 2026</date>
+  </channel>
+  <channel>
+    <name>BBC Two NL</name>
+    <id>BBCTwo.nl</id>
+    <title>BMW PGA Championship, DP World Tour Golf</title>
+    <desc>Action from day 3 at Wentworth as a world-class field contests the flagship event on the DP World Tour. Two-time winner Alex Noren starts as defending champion following a dramatic play-off victory in the 2025 event. Other previous winners include Rory McIlroy, Luke Donald, Seve Ballesteros and Nick Faldo.</desc>
+    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
+    <start>07:30PM</start>
+    <finish>08:30PM</finish>
+    <date>19 September 2026</date>
+  </channel>
+  <channel>
+    <name>BBC Two NL</name>
+    <id>BBCTwo.nl</id>
+    <title>Natural World</title>
+    <desc>Following the adventures of first-time stoat mum Bandita as she raises her kits in a unique weasel wonderland, with over 50 hidden cameras. Cameras capture a tiny half-ounce orphaned least weasel called Twiz embark on her journey back to the wild.</desc>
+    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
+    <start>08:30PM</start>
+    <finish>09:15PM</finish>
+    <date>19 September 2026</date>
+  </channel>
+  <channel>
+    <name>BBC Two NL</name>
+    <id>BBCTwo.nl</id>
+    <title>Glastonbury</title>
+    <desc>The complete set by the undisputed Queen of Country from the Pyramid Stage in the now-traditional legends spot on Sunday afternoon. Dolly performs a rousing set including self-penned classics such as: 'Jolene' and 'I Will Always Love You'.</desc>
+    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
+    <start>09:15PM</start>
+    <finish>10:25PM</finish>
+    <date>19 September 2026</date>
+  </channel>
+  <channel>
+    <name>BBC Two NL</name>
+    <id>BBCTwo.nl</id>
+    <title>Sisters in Country: Dolly, Linda and Emmylou</title>
+    <desc>An exploration of how Dolly Parton, Linda Ronstadt and Emmylou Harris's careers took off in the 1970s. Each had a very distinct take on country, but they ended up uniting as close harmony singers and eventually collaborated on 1987's four-million-selling debut album, 'Trio'.</desc>
+    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
+    <start>10:25PM</start>
+    <finish>11:25PM</finish>
+    <date>19 September 2026</date>
+  </channel>
+  <channel>
+    <name>BBC Two NL</name>
+    <id>BBCTwo.nl</id>
+    <title>Dolly Parton at the BBC</title>
+    <desc>A look back at some of Dolly Parton's finest performances at the BBC, incorporating her greatest moments and hits such as 'Jolene', '9 to 5', 'Islands in the Stream' and 'Here You Come Again'.</desc>
+    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
+    <start>11:25PM</start>
+    <finish>12:25AM</finish>
+    <date>19 September 2026</date>
+  </channel>
+  <channel>
+    <name>BBC Two NL</name>
+    <id>BBCTwo.nl</id>
+    <title>Green Man Festival Highlights 2026</title>
+    <desc>Aleighcia Scott and Katie Owen present highlights from Green Man 2026, featuring Wolf Alice, The Beta Band, The Tubs, Panic Shack, Mwsog and Pigeon, all filmed in the magical Welsh mountain festival.</desc>
+    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
+    <start>12:25AM</start>
+    <finish>01:10AM</finish>
+    <date>20 September 2026</date>
+  </channel>
+  <channel>
+    <name>BBC Two NL</name>
+    <id>BBCTwo.nl</id>
+    <title>International T20 Cricket</title>
+    <desc>Action and highlights from an international Twenty20 cricket match.</desc>
+    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
+    <start>01:10AM</start>
+    <finish>01:40AM</finish>
+    <date>20 September 2026</date>
+  </channel>
+  <channel>
+    <name>BBC Two NL</name>
+    <id>BBCTwo.nl</id>
+    <title>Kidnapped</title>
+    <desc>After being secretly baptized in 1858, young Jewish boy Edgardo Mortara is taken from his family to be raised as a Christian in Bologna after he is abducted by the Papal Police.</desc>
+    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
+    <start>01:40AM</start>
+    <finish>03:45AM</finish>
+    <date>20 September 2026</date>
+  </channel>
+  <channel>
+    <name>BBC Two NL</name>
+    <id>BBCTwo.nl</id>
+    <title>Breakfast</title>
+    <desc>The BBC's Breakfast programme features the latest news, sport, business, weather and other items on a daily basis.</desc>
+    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
+    <start>07:35AM</start>
+    <finish>09:00AM</finish>
+    <date>20 September 2026</date>
+  </channel>
+  <channel>
+    <name>BBC Two NL</name>
+    <id>BBCTwo.nl</id>
+    <title>Weatherman Walking</title>
+    <desc>Derek explores what lies beneath his feet when he revisits The Great Orme, the Offa's Dyke Path and the last surviving cast iron footbridge in Merthyr Tydfil.</desc>
+    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
+    <start>09:00AM</start>
+    <finish>09:30AM</finish>
+    <date>20 September 2026</date>
+  </channel>
+  <channel>
+    <name>BBC Two NL</name>
+    <id>BBCTwo.nl</id>
+    <title>Landward</title>
+    <desc>The Landward team return for the autumn. Dougie is in the Cairngorms finding out how wildlife and precious habitats have been impacted by the summer's devastating wildfire. Anne reports from the ongoing scene of the fire to see the collective effort to put it out. Shahbaz is in Tayside meeting the scientists using technology to select the crops of the future. And Cammy learns the ropes as he takes part in a clifftop rescue with the coastguard.</desc>
+    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
+    <start>09:30AM</start>
+    <finish>10:00AM</finish>
+    <date>20 September 2026</date>
+  </channel>
+  <channel>
+    <name>BBC Two NL</name>
+    <id>BBCTwo.nl</id>
+    <title>Nigel and Adam's Farm Kitchen</title>
+    <desc>Nigel cooks up our favourite ready meal, lasagne and tries to match the price of the off-the-shelf version of this popular dish. Adam meanwhile, sets his own challenge to grow durum wheat, used to make pasta, on the Cotswolds farm.</desc>
+    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
+    <start>12:00PM</start>
+    <finish>01:00PM</finish>
+    <date>20 September 2026</date>
+  </channel>
+  <channel>
+    <name>BBC Two NL</name>
+    <id>BBCTwo.nl</id>
+    <title>Natural World</title>
+    <desc>Real-life drama about a family chimps, who are trapped in the lost world of the Kyambura. This deep and ancient forested gorge runs through the African savannah and for years, it has been cut off from the rest of the jungle, leaving the chimps imprisoned. Here, they face a daily life-or-death dilemma; whether to leave the safety of the gorge and venture into the predator-ridden savannah to find food, or face hunger.</desc>
+    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
+    <start>01:00PM</start>
+    <finish>01:45PM</finish>
+    <date>20 September 2026</date>
+  </channel>
+  <channel>
+    <name>BBC Two NL</name>
+    <id>BBCTwo.nl</id>
+    <title>The Big Deal</title>
+    <desc>It's the grand final for the last three aspiring art dealer pairs. Competing at Frieze Week, only one can win the top prize of ?50,000 worth of brilliant British art.</desc>
+    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
+    <start>01:45PM</start>
+    <finish>02:45PM</finish>
+    <date>20 September 2026</date>
+  </channel>
+  <channel>
+    <name>BBC Two NL</name>
+    <id>BBCTwo.nl</id>
+    <title>Live: UCI Road World Championships</title>
+    <desc>Coverage of the 2026 World Road Cycling Championships.</desc>
+    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
+    <start>02:45PM</start>
+    <finish>04:45PM</finish>
+    <date>20 September 2026</date>
+  </channel>
+  <channel>
+    <name>BBC Two NL</name>
+    <id>BBCTwo.nl</id>
+    <title>Flog It!</title>
+    <desc>Paul Martin and the team are in the picturesque village of Saltaire, West Yorkshire. David Barby finds six tasty sandwich makers and Michael Baggott digs out a 400-year-old Laurel gold coin circa 1603-1625. Presenter Paul also visits Temple Newsam, a 17th century house being restored to its former glory by a dedicated and skilled restoration team.</desc>
+    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
+    <start>04:45PM</start>
+    <finish>05:15PM</finish>
+    <date>20 September 2026</date>
+  </channel>
+  <channel>
+    <name>BBC Two NL</name>
+    <id>BBCTwo.nl</id>
+    <title>Celebrity Antiques Road Trip</title>
+    <desc>Three soap stars from past road trips, Emmerdale's Hayley Tamaddon, Corrie's Will Mellor and EastEnders star Danny Dyer, go antique-shopping. Who will be the biggest wheeler-dealer?</desc>
+    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
+    <start>05:15PM</start>
+    <finish>06:00PM</finish>
+    <date>20 September 2026</date>
+  </channel>
+  <channel>
+    <name>BBC Two NL</name>
+    <id>BBCTwo.nl</id>
+    <title>BMW PGA Championship, DP World Tour Golf</title>
+    <desc>Action from the final day at Wentworth as a world-class field contests the flagship event on the DP World Tour. The winner at the iconic Surrey venue adds their name to an illustrious list of previous champions, including Rory McIlroy, Luke Donald, Seve Ballesteros and Nick Faldo. Two-time winner Alex Noren defends the title he won in 2025 after a dramatic play-off victory last year.</desc>
+    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
+    <start>06:00PM</start>
+    <finish>07:00PM</finish>
+    <date>20 September 2026</date>
+  </channel>
+  <channel>
+    <name>BBC Two NL</name>
+    <id>BBCTwo.nl</id>
+    <title>Secrets of the Bayeux Tapestry: Inside the Museum</title>
+    <desc>As the Bayeux Tapestry, one of the treasures of the medieval world, travels to the UK for the first time in 950 years, a stellar cast of historians and experts unravel its secrets.</desc>
+    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
+    <start>07:00PM</start>
+    <finish>08:00PM</finish>
+    <date>20 September 2026</date>
+  </channel>
+  <channel>
+    <name>BBC Two NL</name>
+    <id>BBCTwo.nl</id>
+    <title>Pilgrimage</title>
+    <desc>Seven celebrities of differing faiths and beliefs experience an emotional journey on a pilgrimage in North Wales, a route linked by churches dedicated to early Celtic Christian saints.</desc>
+    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
+    <start>08:00PM</start>
+    <finish>09:00PM</finish>
+    <date>20 September 2026</date>
+  </channel>
+  <channel>
+    <name>BBC Two NL</name>
+    <id>BBCTwo.nl</id>
+    <title>Wilderness with Simon Reeve</title>
+    <desc>Simon Reeve journeys through the lost world of Papua New Guinea's tropical rainforest, in search of the tenkile tree kangaroo, one of the rarest animals on Earth.</desc>
+    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
+    <start>09:00PM</start>
+    <finish>10:00PM</finish>
+    <date>20 September 2026</date>
+  </channel>
+  <channel>
+    <name>BBC Two NL</name>
+    <id>BBCTwo.nl</id>
+    <title>Slumdog Millionaire</title>
+    <desc>A child from the Mumbai slums is accused of fraud after victory in India's 'Who Wants to be a Millionaire?'.</desc>
+    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
+    <start>10:00PM</start>
+    <finish>11:55PM</finish>
+    <date>20 September 2026</date>
+  </channel>
+  <channel>
+    <name>BBC Two NL</name>
+    <id>BBCTwo.nl</id>
+    <title>Saving Lives at Sea</title>
+    <desc>When a kayaker calls a friend to say she's in trouble out at sea, the line suddenly goes dead; the Happisburgh crew find her over a mile offshore, face down and unresponsive.</desc>
+    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
+    <start>11:55PM</start>
+    <finish>12:55AM</finish>
+    <date>20 September 2026</date>
+  </channel>
+  <channel>
+    <name>BBC Two NL</name>
+    <id>BBCTwo.nl</id>
+    <title>Crossing</title>
+    <desc>Lia, a retired teacher, has vowed to find her long-lost niece, Tekla. Her search takes her to Istanbul where she meets the lawyer Evrim.</desc>
+    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
+    <start>12:55AM</start>
+    <finish>02:35AM</finish>
+    <date>21 September 2026</date>
+  </channel>
+  <channel>
+    <name>BBC Two NL</name>
+    <id>BBCTwo.nl</id>
+    <title>Question Time</title>
+    <desc>Features a studio audience quizzing top politicians on the events of the day. The panel surrounding presenter Fiona Bruce is composed of at least one member of the three major parties.</desc>
+    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
+    <start>02:35AM</start>
+    <finish>03:35AM</finish>
+    <date>21 September 2026</date>
+  </channel>
+  <channel>
+    <name>BBC Two NL</name>
+    <id>BBCTwo.nl</id>
+    <title>Colin from Accounts</title>
+    <desc>Ash and Gordon attempt to put their past behind them at dinner in a 'romantic but not too romantic' restaurant, while David and Chelsea are both laser-focused on the future.</desc>
+    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
+    <start>03:35AM</start>
+    <finish>04:05AM</finish>
+    <date>21 September 2026</date>
+  </channel>
+  <channel>
+    <name>BBC Two NL</name>
+    <id>BBCTwo.nl</id>
+    <title>This Is BBC TWO</title>
+    <desc>A preview of upcoming programmes from BBC Two.</desc>
+    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
+    <start>04:05AM</start>
+    <finish>06:05AM</finish>
+    <date>21 September 2026</date>
+  </channel>
+  <channel>
+    <name>BBC Two NL</name>
+    <id>BBCTwo.nl</id>
+    <title>Bargain Hunt</title>
+    <desc>Going potty for profits are two brothers-in-law and an engaged couple at a sprawling antiques centre in West Yorkshire.</desc>
+    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
+    <start>06:05AM</start>
+    <finish>06:50AM</finish>
+    <date>21 September 2026</date>
+  </channel>
+  <channel>
+    <name>BBC Two NL</name>
+    <id>BBCTwo.nl</id>
+    <title>Celebrity MasterChef</title>
+    <desc>The remaining five cooks are challenged to create a two-course, canine-themed menu in celebration of the 135th anniversary of Crufts by Tom Shepherd, owner of Michelin-starred restaurant Upstairs.</desc>
+    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
+    <start>06:50AM</start>
+    <finish>07:50AM</finish>
+    <date>21 September 2026</date>
+  </channel>
+  <channel>
+    <name>BBC Two NL</name>
+    <id>BBCTwo.nl</id>
+    <title>Match of the Day</title>
+    <desc>Highlights and key analysis from all the day's games in the Premier League.</desc>
+    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
+    <start>07:50AM</start>
+    <finish>09:00AM</finish>
+    <date>21 September 2026</date>
+  </channel>
+  <channel>
+    <name>BBC Two NL</name>
+    <id>BBCTwo.nl</id>
+    <title>BBC News</title>
+    <desc>A comprehensive compilation of the latest and the most important news stories, updates and developments from the UK and different parts of the world.</desc>
+    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
+    <start>09:00AM</start>
+    <finish>12:15PM</finish>
+    <date>21 September 2026</date>
+  </channel>
+  <channel>
+    <name>BBC Two NL</name>
+    <id>BBCTwo.nl</id>
+    <title>Politics Live</title>
+    <desc>Engaging conversation about the political issues that matter to you.</desc>
+    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
+    <start>12:15PM</start>
+    <finish>01:00PM</finish>
+    <date>21 September 2026</date>
+  </channel>
+  <channel>
+    <name>BBC Two NL</name>
+    <id>BBCTwo.nl</id>
+    <title>Impossible</title>
+    <desc>Contestants compete across the series, scoring points by answering questions correctly. However, they must avoid the impossible answers, otherwise they will be eliminated from the show until the next day.</desc>
+    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
+    <start>01:00PM</start>
+    <finish>01:45PM</finish>
+    <date>21 September 2026</date>
+  </channel>
+  <channel>
+    <name>BBC Two NL</name>
+    <id>BBCTwo.nl</id>
+    <title>Dogs in the Wild: Meet the Family</title>
+    <desc>The people going to extraordinary lengths to understand and protect canids, from preventing wild dogs dying of grief in South Africa to protecting the tiny Darwin's fox.</desc>
+    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
+    <start>03:15PM</start>
+    <finish>04:15PM</finish>
+    <date>21 September 2026</date>
+  </channel>
+  <channel>
+    <name>BBC Two NL</name>
+    <id>BBCTwo.nl</id>
+    <title>Wild China</title>
+    <desc>Ancient tea-growing cultures, traditional seaweed-thatched villages, bird-filled wetlands, rare white dolphins, snake-infested islands and futuristic cities jostle along China's fertile eastern seaboard. The seaboard marks the front-line in the scramble for resources and space between 700 million people and a surprising wealth of wildlife.</desc>
+    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
+    <start>04:15PM</start>
+    <finish>05:15PM</finish>
+    <date>21 September 2026</date>
+  </channel>
+  <channel>
+    <name>BBC Two NL</name>
+    <id>BBCTwo.nl</id>
+    <title>Flog It!</title>
+    <desc>Paul Martin presents from Norwich cathedral in Norfolk, once home to Benedictine monks, and he also visits the circus. Experts Thomas Plant and Kate Bateman pick out some gems to take to auction, among them a religious relic from France and a Martin brothers vase.</desc>
+    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
+    <start>05:15PM</start>
+    <finish>06:00PM</finish>
+    <date>21 September 2026</date>
+  </channel>
+  <channel>
+    <name>BBC Two NL</name>
+    <id>BBCTwo.nl</id>
+    <title>Richard Osman's House of Games</title>
+    <desc>Jennie Bond, James Bye, Kadeena Cox and Aurie Styla take on a series of quiz rounds selected by quiz legend Richard Osman. A daily winner is declared following a quick-fire round at the end of each show, and the scores are tallied across the week.</desc>
+    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
+    <start>06:00PM</start>
+    <finish>06:30PM</finish>
+    <date>21 September 2026</date>
+  </channel>
+  <channel>
+    <name>BBC Two NL</name>
+    <id>BBCTwo.nl</id>
+    <title>Clive Myrie's Caribbean Adventure</title>
+    <desc>Clive travels to the Dominican Republic's capital city, Santo Domingo, where baseball is a way of life. He meets one of the country's top scouts, who gives him much-needed advice on his swing.</desc>
+    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
+    <start>06:30PM</start>
+    <finish>07:00PM</finish>
+    <date>21 September 2026</date>
+  </channel>
+  <channel>
+    <name>BBC Two NL</name>
+    <id>BBCTwo.nl</id>
+    <title>Global Eye</title>
+    <desc>Bringing forensic journalism from all corners of the world by BBC Eye, the World Service's critically acclaimed investigative unit, and featuring expert global correspondents getting to the heart of the biggest international stories.</desc>
+    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
+    <start>07:00PM</start>
+    <finish>07:30PM</finish>
+    <date>21 September 2026</date>
+  </channel>
+  <channel>
+    <name>BBC Two NL</name>
+    <id>BBCTwo.nl</id>
+    <title>Mastermind</title>
+    <desc>Clive Myrie hosts the classic quiz where contenders take on the famous black chair. Subjects include the films of Nicole Kidman and the novels of Jeanette Winterson.</desc>
+    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
+    <start>07:30PM</start>
+    <finish>08:00PM</finish>
+    <date>21 September 2026</date>
+  </channel>
+  <channel>
+    <name>BBC Two NL</name>
+    <id>BBCTwo.nl</id>
+    <title>Only Connect</title>
+    <desc>Victoria Coren Mitchell hosts the quiz where knowledge only gets you so far. Six people return to battle it out for a place in the next round - and three of them are going home.</desc>
+    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
+    <start>08:00PM</start>
+    <finish>08:30PM</finish>
+    <date>21 September 2026</date>
+  </channel>
+  <channel>
+    <name>BBC Two NL</name>
+    <id>BBCTwo.nl</id>
+    <title>University Challenge</title>
+    <desc>Southampton and Queen's University Belfast go head-to-head for a place in round 2. Amol Rajan asks the questions.</desc>
+    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
+    <start>08:30PM</start>
+    <finish>09:00PM</finish>
+    <date>21 September 2026</date>
+  </channel>
+  <channel>
+    <name>BBC Two NL</name>
+    <id>BBCTwo.nl</id>
+    <title>Finding Britain's Slave Traders with David Olusoga</title>
+    <desc>David Olusoga reveals the new research that uncovers how the slave trade was driven by the monarchy, beginning with Elizabeth I, and how a royal monopoly was established.</desc>
+    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
+    <start>09:00PM</start>
+    <finish>10:00PM</finish>
+    <date>21 September 2026</date>
+  </channel>
+  <channel>
+    <name>BBC Two NL</name>
+    <id>BBCTwo.nl</id>
+    <title>Colin from Accounts</title>
+    <desc>Ash meets Gordon to drop Colin off, and they're unsure where they stand. Ash joins a sexy game night at the share house just as Gordon shows up to check on Colin.</desc>
+    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
+    <start>10:00PM</start>
+    <finish>10:30PM</finish>
+    <date>21 September 2026</date>
+  </channel>
+  <channel>
+    <name>BBC Two NL</name>
+    <id>BBCTwo.nl</id>
+    <title>Newsnight</title>
+    <desc>Featuring extensive coverage of the day's top national and international news stories, along with explanations about the context and potential aftereffects.</desc>
+    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
+    <start>10:30PM</start>
+    <finish>11:03PM</finish>
+    <date>21 September 2026</date>
+  </channel>
+  <channel>
+    <name>BBC Two NL</name>
+    <id>BBCTwo.nl</id>
+    <title>BBC Weather</title>
+    <desc>The latest weather forecast.</desc>
+    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
+    <start>11:03PM</start>
+    <finish>11:05PM</finish>
+    <date>21 September 2026</date>
+  </channel>
+  <channel>
+    <name>BBC Two NL</name>
+    <id>BBCTwo.nl</id>
+    <title>Emergency 24/7</title>
+    <desc>A catastrophic dual carriageway collision brings two patients to Southmead Emergency Department: Tom, the driver who caused the crash, and Olli, the man whose van he hit. Tom, who is believed to have been driving under the influence of drugs and on the wrong side of the carriageway, arrives with devastating injuries to his leg. Meanwhile, a young girl is brought to Resus after falling from her horse, unable to move or feel her legs.</desc>
+    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
+    <start>02:10AM</start>
+    <finish>03:10AM</finish>
+    <date>22 September 2026</date>
+  </channel>
+  <channel>
+    <name>BBC Two NL</name>
+    <id>BBCTwo.nl</id>
+    <title>Colin from Accounts</title>
+    <desc>Gordon and Ash exchange flirty texts. Chelsea reminds Gordon to bug bomb before she moves in. Ash seeks advice from Meggles about Gordon and David. Brett confronts Gordon about their friendship.</desc>
+    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
+    <start>03:10AM</start>
+    <finish>03:40AM</finish>
+    <date>22 September 2026</date>
+  </channel>
+  <channel>
+    <name>BBC Two NL</name>
+    <id>BBCTwo.nl</id>
+    <title>This Is BBC TWO</title>
+    <desc>A preview of upcoming programmes from BBC Two.</desc>
+    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
+    <start>03:40AM</start>
+    <finish>06:30AM</finish>
+    <date>22 September 2026</date>
+  </channel>
+  <channel>
+    <name>BBC Two NL</name>
+    <id>BBCTwo.nl</id>
+    <title>Escape to the Country</title>
+    <desc>Denise Nurse is helping a couple cast off from urban life by the River Thames and seek out peace and relaxation in the country. For ?550,000 they're looking for a converted building that offers a generous kitchen for entertaining, four bedrooms, a large garden to grow vegetables in and a big garage in which to mess about with a treasured car collection.</desc>
+    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
+    <start>06:30AM</start>
+    <finish>07:15AM</finish>
+    <date>22 September 2026</date>
+  </channel>
+  <channel>
+    <name>BBC Two NL</name>
+    <id>BBCTwo.nl</id>
+    <title>Antiques Road Trip</title>
+    <desc>Roo Irvine and Danny Sebastian cruise across the Isle of Man in a wee Morris Traveller, with a detour to see the world's smallest motor. Then it's off to a Glasgow auction showdown.</desc>
+    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
+    <start>07:15AM</start>
+    <finish>08:00AM</finish>
+    <date>22 September 2026</date>
+  </channel>
+  <channel>
+    <name>BBC Two NL</name>
+    <id>BBCTwo.nl</id>
+    <title>The Great British Sewing Bee</title>
+    <desc>It's the final, and the finalists tackle a cummerbund and bow tie, make beach outfits from tableware and create outfits on the theme of metamorphosis.</desc>
+    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
+    <start>08:00AM</start>
+    <finish>09:00AM</finish>
+    <date>22 September 2026</date>
+  </channel>
+  <channel>
+    <name>BBC Two NL</name>
+    <id>BBCTwo.nl</id>
+    <title>BBC News</title>
+    <desc>A comprehensive compilation of the latest and the most important news stories, updates and developments from the UK and different parts of the world.</desc>
+    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
+    <start>09:00AM</start>
+    <finish>12:15PM</finish>
+    <date>22 September 2026</date>
+  </channel>
+  <channel>
+    <name>BBC Two NL</name>
+    <id>BBCTwo.nl</id>
+    <title>Politics Live</title>
+    <desc>Engaging conversation about the political issues that matter to you.</desc>
+    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
+    <start>12:15PM</start>
+    <finish>01:00PM</finish>
+    <date>22 September 2026</date>
+  </channel>
+  <channel>
+    <name>BBC Two NL</name>
+    <id>BBCTwo.nl</id>
+    <title>Impossible</title>
+    <desc>Contestants compete across the series, scoring points by answering questions correctly. However, they must avoid the impossible answers, otherwise they will be eliminated from the show until the next day.</desc>
+    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
+    <start>01:00PM</start>
+    <finish>01:45PM</finish>
+    <date>22 September 2026</date>
+  </channel>
+  <channel>
+    <name>BBC Two NL</name>
+    <id>BBCTwo.nl</id>
+    <title>The Edge</title>
+    <desc>The game show that mixes general knowledge quizzing and bowling.</desc>
+    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
+    <start>01:45PM</start>
+    <finish>02:30PM</finish>
+    <date>22 September 2026</date>
+  </channel>
+  <channel>
+    <name>BBC Two NL</name>
+    <id>BBCTwo.nl</id>
+    <title>Politics Live</title>
+    <desc>Engaging conversation about the political issues that matter to you.</desc>
+    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
+    <start>02:30PM</start>
+    <finish>03:45PM</finish>
+    <date>22 September 2026</date>
+  </channel>
+  <channel>
+    <name>BBC Two NL</name>
+    <id>BBCTwo.nl</id>
+    <title>The Wonder of Animals</title>
+    <desc>Bats have colonised remote corners of the planet to become one of the most widespread mammals on earth. Chris Packham explores their incredible anatomy, physiology and senses to understand what enables them to thrive in some surprising places.</desc>
+    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
+    <start>03:45PM</start>
+    <finish>04:15PM</finish>
+    <date>22 September 2026</date>
+  </channel>
+  <channel>
+    <name>BBC Two NL</name>
+    <id>BBCTwo.nl</id>
+    <title>South Pacific</title>
+    <desc>Looking at the remote South Pacific islands. Their extraordinary isolation has created some of the most curious, surprising and precarious examples of life found anywhere on Earth, from giant crabs that tear open coconuts to flesh-eating caterpillars that impale their prey on dagger-like claws. Human culture is different, too.</desc>
+    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
+    <start>04:15PM</start>
+    <finish>05:15PM</finish>
+    <date>22 September 2026</date>
+  </channel>
+  <channel>
+    <name>BBC Two NL</name>
+    <id>BBCTwo.nl</id>
+    <title>Flog It!</title>
+    <desc>Paul Martin presents from the Grand Pier at Weston-super-Mare in Somerset, where experts Catherine Southon and Jonathan Pratt pick out some gems to value. Among them are rare medals that once belonged to an early aviator and puppets that look like the Swedish band ABBA. Plus, Paul delves into the history of seaside entertainment.</desc>
+    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
+    <start>05:15PM</start>
+    <finish>06:00PM</finish>
+    <date>22 September 2026</date>
+  </channel>
+  <channel>
+    <name>BBC Two NL</name>
+    <id>BBCTwo.nl</id>
+    <title>Richard Osman's House of Games</title>
+    <desc>Jennie Bond, James Bye, Kadeena Cox and Aurie Styla take on a series of quiz rounds selected by quiz legend Richard Osman. A daily winner is declared following a quick-fire round at the end of each show, and the scores are tallied across the week.</desc>
+    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
+    <start>06:00PM</start>
+    <finish>06:30PM</finish>
+    <date>22 September 2026</date>
+  </channel>
+  <channel>
+    <name>BBC Two NL</name>
+    <id>BBCTwo.nl</id>
+    <title>Clive Myrie's Caribbean Adventure</title>
+    <desc>For 11 months of the year, the city of La Vega is well off the tourist track. But each February, it bursts into life. Over the course of four weekends, it's loud, hot and colourful as visitors from all over the world arrive to join in the famous street carnivals.</desc>
+    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
+    <start>06:30PM</start>
+    <finish>07:00PM</finish>
+    <date>22 September 2026</date>
+  </channel>
+  <channel>
+    <name>BBC Two NL</name>
+    <id>BBCTwo.nl</id>
+    <title>Grand Tours of Scotland's Lochs</title>
+    <desc>Paul visits Wester Ross and discovers the heritage of Little Loch Broom. He then travels to the off-grid community of Scoraig where he learns about violin making and wind power, before taking the plunge to explore the hidden depths of the Corrieshalloch Gorge.</desc>
+    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
+    <start>07:00PM</start>
+    <finish>07:30PM</finish>
+    <date>22 September 2026</date>
+  </channel>
+  <channel>
+    <name>BBC Two NL</name>
+    <id>BBCTwo.nl</id>
+    <title>Race Against the Tide</title>
+    <desc>Three teams, one beach, six hours to build the ultimate sandcastle. Who will sculpt to glory before the tide washes it all away in the grand final?</desc>
+    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
+    <start>07:30PM</start>
+    <finish>08:00PM</finish>
+    <date>22 September 2026</date>
+  </channel>
+  <channel>
+    <name>BBC Two NL</name>
+    <id>BBCTwo.nl</id>
+    <title>Saving Lives at Sea</title>
+    <desc>In Watergate Bay, one of Cornwall's surfing hotspots, two teenage boys are caught in one of the beach's notorious rip currents.</desc>
+    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
+    <start>08:00PM</start>
+    <finish>09:00PM</finish>
+    <date>22 September 2026</date>
+  </channel>
+  <channel>
+    <name>BBC Two NL</name>
+    <id>BBCTwo.nl</id>
+    <title>Emergency 24/7</title>
+    <desc>Kye's abscess hasn't responded to treatment, and it's possible the 26-year-old's drug use has caused complications. 88-year-old Lady Carole needs surgery to retain her mobility.</desc>
+    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
+    <start>09:00PM</start>
+    <finish>10:00PM</finish>
+    <date>22 September 2026</date>
+  </channel>
+  <channel>
+    <name>BBC Two NL</name>
+    <id>BBCTwo.nl</id>
+    <title>Colin from Accounts</title>
+    <desc>Ash is hopeful that romance will rekindle when Gordon invites her on a weekend road trip, until she discovers that Brett and Chiara are joining them. When Chiara suggests they do a '90s thing and lock away their phones, things go downhill fast.</desc>
+    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
+    <start>10:00PM</start>
+    <finish>10:30PM</finish>
+    <date>22 September 2026</date>
+  </channel>
+  <channel>
+    <name>BBC Two NL</name>
+    <id>BBCTwo.nl</id>
+    <title>Newsnight</title>
+    <desc>Featuring extensive coverage of the day's top national and international news stories, along with explanations about the context and potential aftereffects.</desc>
+    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
+    <start>10:30PM</start>
+    <finish>10:58PM</finish>
+    <date>22 September 2026</date>
+  </channel>
+  <channel>
+    <name>BBC Two NL</name>
+    <id>BBCTwo.nl</id>
+    <title>BBC Weather</title>
+    <desc>The latest weather forecast.</desc>
+    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
+    <start>10:58PM</start>
+    <finish>11:00PM</finish>
+    <date>22 September 2026</date>
+  </channel>
+  <channel>
+    <name>BBC Two NL</name>
+    <id>BBCTwo.nl</id>
+    <title>One-Day International Cricket</title>
+    <desc>Coverage of one-day cricket matches contested by international teams.</desc>
+    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
+    <start>11:00PM</start>
+    <finish>11:50PM</finish>
+    <date>22 September 2026</date>
+  </channel>
+  <channel>
+    <name>BBC Two NL</name>
+    <id>BBCTwo.nl</id>
+    <title>Finding Britain's Slave Traders with David Olusoga</title>
+    <desc>David Olusoga reveals the new research that uncovers how the slave trade was driven by the monarchy, beginning with Elizabeth I, and how a royal monopoly was established.</desc>
+    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
+    <start>11:50PM</start>
+    <finish>12:50AM</finish>
+    <date>22 September 2026</date>
+  </channel>
+  <channel>
+    <name>BBC Two NL</name>
+    <id>BBCTwo.nl</id>
+    <title>Celebrity MasterChef</title>
+    <desc>Judges Grace Dent and Giorgio Locatelli are back as the final four take it right back to where it all began - their signature dish from day 1 - but reimagined to show how far they have come.</desc>
+    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
+    <start>12:50AM</start>
+    <finish>01:50AM</finish>
+    <date>23 September 2026</date>
+  </channel>
+  <channel>
+    <name>BBC Two NL</name>
+    <id>BBCTwo.nl</id>
+    <title>The Split Up</title>
+    <desc>Aria, a leading divorce lawyer, is thrown when an old flame turns up at her family firm.</desc>
+    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
+    <start>01:50AM</start>
+    <finish>02:50AM</finish>
+    <date>23 September 2026</date>
+  </channel>
+  <channel>
+    <name>BBC Two NL</name>
+    <id>BBCTwo.nl</id>
+    <title>This Is BBC TWO</title>
+    <desc>A preview of upcoming programmes from BBC Two.</desc>
+    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
+    <start>02:50AM</start>
+    <finish>06:30AM</finish>
+    <date>23 September 2026</date>
+  </channel>
+  <channel>
+    <name>BBC Two NL</name>
+    <id>BBCTwo.nl</id>
+    <title>Escape to the Country</title>
+    <desc>North Yorkshire is calling, and Briony May Williams is on the case as she helps a London buyer and her dog swap city bustle for a country cottage. With a ?350,000 budget and her best buddy, the trio discover charming homes for this rural getaway.</desc>
+    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
+    <start>06:30AM</start>
+    <finish>07:15AM</finish>
+    <date>23 September 2026</date>
+  </channel>
+  <channel>
+    <name>BBC Two NL</name>
+    <id>BBCTwo.nl</id>
+    <title>Antiques Road Trip</title>
+    <desc>Roo Irvine and Danny Sebastian are loving Lancashire in their mighty Morris Traveller. Sparkling diamonds go up against magic boxes in an enchanting auction experience.</desc>
+    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
+    <start>07:15AM</start>
+    <finish>08:00AM</finish>
+    <date>23 September 2026</date>
+  </channel>
+  <channel>
+    <name>BBC Two NL</name>
+    <id>BBCTwo.nl</id>
+    <title>Great Continental Railway Journeys</title>
+    <desc>At Budapest's historic Nyugati station, Michael Portillo explores its sumptuous royal waiting room, built specially for the Austro-Hungarian emperor Franz Joseph I and his empress, Elizabeth.</desc>
+    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
+    <start>08:00AM</start>
+    <finish>08:30AM</finish>
+    <date>23 September 2026</date>
+  </channel>
+  <channel>
+    <name>BBC Two NL</name>
+    <id>BBCTwo.nl</id>
+    <title>Great Continental Railway Journeys</title>
+    <desc>On the last leg of his journey, Michael Portillo arrives in the historic city of Eger. At its famous castle, he discovers how Ottoman invaders were defeated by an outnumbered Hungarian force.</desc>
+    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
+    <start>08:30AM</start>
+    <finish>09:00AM</finish>
+    <date>23 September 2026</date>
+  </channel>
+  <channel>
+    <name>BBC Two NL</name>
+    <id>BBCTwo.nl</id>
+    <title>BBC News</title>
+    <desc>A comprehensive compilation of the latest and the most important news stories, updates and developments from the UK and different parts of the world.</desc>
+    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
+    <start>09:00AM</start>
+    <finish>12:15PM</finish>
+    <date>23 September 2026</date>
+  </channel>
+  <channel>
+    <name>BBC Two NL</name>
+    <id>BBCTwo.nl</id>
+    <title>Politics Live</title>
+    <desc>Engaging conversation about the political issues that matter to you.</desc>
+    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
+    <start>12:15PM</start>
+    <finish>01:00PM</finish>
+    <date>23 September 2026</date>
+  </channel>
+  <channel>
+    <name>BBC Two NL</name>
+    <id>BBCTwo.nl</id>
+    <title>Impossible</title>
+    <desc>Contestants compete across the series, scoring points by answering questions correctly. However, they must avoid the impossible answers, otherwise they will be eliminated from the show until the next day.</desc>
+    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
+    <start>01:00PM</start>
+    <finish>01:45PM</finish>
+    <date>23 September 2026</date>
+  </channel>
+  <channel>
+    <name>BBC Two NL</name>
+    <id>BBCTwo.nl</id>
+    <title>The Edge</title>
+    <desc>The game show that mixes general knowledge quizzing and bowling.</desc>
+    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
+    <start>01:45PM</start>
+    <finish>02:30PM</finish>
+    <date>23 September 2026</date>
+  </channel>
+  <channel>
+    <name>BBC Two NL</name>
+    <id>BBCTwo.nl</id>
+    <title>South Pacific</title>
+    <desc>They may be the most isolated in the world, but every one of the region's 20,000 islands has been colonised. This is the story of the ultimate castaways - from saltwater crocodiles and giant eels to crested iguanas - who have reached islands thousands of miles apart. The voyages of the South Pacific's first people, the Polynesians, were no less remarkable. Their journeys were some of the greatest ever undertaken.</desc>
+    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
+    <start>04:15PM</start>
+    <finish>05:15PM</finish>
+    <date>23 September 2026</date>
+  </channel>
+  <channel>
+    <name>BBC Two NL</name>
+    <id>BBCTwo.nl</id>
+    <title>Flog It!</title>
+    <desc>Paul Martin presents from Muncaster Castle in Cumbria. Experts Caroline Hawley and James Lewis choose items to take to auction. James is drawn to a collection of WWI memorabilia and Caroline finds an exciting collection of postcards. Plus, Paul meets an artist whose work has led him back in time to the ancient art of relief printing.</desc>
+    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
+    <start>05:15PM</start>
+    <finish>06:00PM</finish>
+    <date>23 September 2026</date>
+  </channel>
+  <channel>
+    <name>BBC Two NL</name>
+    <id>BBCTwo.nl</id>
+    <title>Richard Osman's House of Games</title>
+    <desc>Jennie Bond, James Bye, Kadeena Cox and Aurie Styla take on a series of quiz rounds selected by quiz legend Richard Osman. A daily winner is declared following a quick-fire round at the end of each show, and the scores are tallied across the week.</desc>
+    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
+    <start>06:00PM</start>
+    <finish>06:30PM</finish>
+    <date>23 September 2026</date>
+  </channel>
+  <channel>
+    <name>BBC Two NL</name>
+    <id>BBCTwo.nl</id>
+    <title>Clive Myrie's Caribbean Adventure</title>
+    <desc>Clive heads to one of the Dominican Republic's most northerly provinces to the beautiful city of Puerto Plata. He learns about the incredible story of the Jewish refugees that found shelter in this country during World War II.</desc>
+    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
+    <start>06:30PM</start>
+    <finish>07:00PM</finish>
+    <date>23 September 2026</date>
+  </channel>
+  <channel>
+    <name>BBC Two NL</name>
+    <id>BBCTwo.nl</id>
+    <title>Celebrity Antiques Road Trip</title>
+    <desc>Presenter Charlotte Crosby and dancer Louie Spence are on a flamboyant trip in the West Midlands in a Pontiac Trans Am, guided by experts Irita Marriott and Serhat Ahmet.</desc>
+    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
+    <start>07:00PM</start>
+    <finish>08:00PM</finish>
+    <date>23 September 2026</date>
+  </channel>
+  <channel>
+    <name>BBC Two NL</name>
+    <id>BBCTwo.nl</id>
+    <title>Inside the Factory</title>
+    <desc>Paddy McGuinness explores the secrets of the McColgan's bakery in Strabane, Northern Ireland, to reveal how it makes more than half a million sausage rolls a day.</desc>
+    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
+    <start>08:00PM</start>
+    <finish>09:00PM</finish>
+    <date>23 September 2026</date>
+  </channel>
+  <channel>
+    <name>BBC Two NL</name>
+    <id>BBCTwo.nl</id>
+    <title>Who Do You Think You Are?</title>
+    <desc>Will Young learns about his grandfather's time as a prisoner of war in World War II. Delving further back, Will finds a connection to one of medieval history's biggest villains, and a king.</desc>
+    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
+    <start>09:00PM</start>
+    <finish>10:00PM</finish>
+    <date>23 September 2026</date>
+  </channel>
+  <channel>
+    <name>BBC Two NL</name>
+    <id>BBCTwo.nl</id>
+    <title>Mortimer and Whitehouse: Gone Fishing</title>
+    <desc>In Hay-on-Wye, Paul and Bob fish for the mighty barbel. Passing a graveyard, they muse about the future and chat to a local vicar about death and their own funerals. Back in their wooden fishing cabin, Bob promises Paul a very special treat.</desc>
+    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
+    <start>10:00PM</start>
+    <finish>10:30PM</finish>
+    <date>23 September 2026</date>
+  </channel>
+  <channel>
+    <name>BBC Two NL</name>
+    <id>BBCTwo.nl</id>
+    <title>Newsnight</title>
+    <desc>Featuring extensive coverage of the day's top national and international news stories, along with explanations about the context and potential aftereffects.</desc>
+    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
+    <start>10:30PM</start>
+    <finish>10:58PM</finish>
+    <date>23 September 2026</date>
+  </channel>
+  <channel>
+    <name>BBC Two NL</name>
+    <id>BBCTwo.nl</id>
+    <title>BBC Weather</title>
+    <desc>The latest weather forecast.</desc>
+    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
+    <start>10:58PM</start>
+    <finish>11:00PM</finish>
+    <date>23 September 2026</date>
+  </channel>
+  <channel>
+    <name>BBC Two NL</name>
+    <id>BBCTwo.nl</id>
+    <title>Unspun World with John Simpson</title>
+    <desc>John Simpson brings his expertise to bear on the most important stories. In discussion with the BBC's range of experts across the world, he uses their unique local knowledge to go beyond the headlines to get to the unspun truth about the world.</desc>
+    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
+    <start>11:00PM</start>
+    <finish>11:30PM</finish>
+    <date>23 September 2026</date>
+  </channel>
+  <channel>
+    <name>BBC Two NL</name>
+    <id>BBCTwo.nl</id>
+    <title>The Devil's Confession: The Lost Eichmann Tapes</title>
+    <desc>Pressing forward with the prosecution, Hausner manages to secure a transcript of the Sassen Tapes, while the actual audio recordings continue to evade him.</desc>
+    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
+    <start>11:30PM</start>
+    <finish>12:30AM</finish>
+    <date>23 September 2026</date>
+  </channel>
+  <channel>
+    <name>BBC Two NL</name>
+    <id>BBCTwo.nl</id>
+    <title>Celebrity MasterChef</title>
+    <desc>The finalists must cook and present a faultless three-course meal for a final judgement from Grace Dent and Giorgio Locatelli. It's their last chance to prove they have what it takes.</desc>
+    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
+    <start>12:30AM</start>
+    <finish>01:30AM</finish>
+    <date>24 September 2026</date>
+  </channel>
+  <channel>
+    <name>BBC Two NL</name>
+    <id>BBCTwo.nl</id>
+    <title>This Is BBC TWO</title>
+    <desc>A preview of upcoming programmes from BBC Two.</desc>
+    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
+    <start>03:30AM</start>
+    <finish>06:30AM</finish>
+    <date>24 September 2026</date>
+  </channel>
+  <channel>
+    <name>BBC Two NL</name>
+    <id>BBCTwo.nl</id>
+    <title>Garden Rescue</title>
+    <desc>Lee and Joe are in Alresford to help Sara and Jonny transform their overgrown, unloved plot into a Persian magic-meets-English countryside garden.</desc>
+    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
+    <start>06:30AM</start>
+    <finish>07:15AM</finish>
+    <date>24 September 2026</date>
+  </channel>
+  <channel>
+    <name>BBC Two NL</name>
+    <id>BBCTwo.nl</id>
+    <title>Antiques Road Trip</title>
+    <desc>The Antiques Express to Vintage Junction is now leaving the station! With Danny Sebastian and Roo Irvine on board. Don't forget to change at Crewe!</desc>
+    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
+    <start>07:15AM</start>
+    <finish>08:00AM</finish>
+    <date>24 September 2026</date>
+  </channel>
+  <channel>
+    <name>BBC Two NL</name>
+    <id>BBCTwo.nl</id>
+    <title>Gardeners' World</title>
+    <desc>In a special programme exploring the enduring value of allotment life, Frances Tophill heads to Exmouth in Devon, where thriving plots and passionate growers are at the heart of a vibrant community.</desc>
+    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
+    <start>08:00AM</start>
+    <finish>09:00AM</finish>
+    <date>24 September 2026</date>
+  </channel>
+  <channel>
+    <name>BBC Two NL</name>
+    <id>BBCTwo.nl</id>
+    <title>BBC News</title>
+    <desc>A comprehensive compilation of the latest and the most important news stories, updates and developments from the UK and different parts of the world.</desc>
+    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
+    <start>09:00AM</start>
+    <finish>12:15PM</finish>
+    <date>24 September 2026</date>
+  </channel>
+  <channel>
+    <name>BBC Two NL</name>
+    <id>BBCTwo.nl</id>
+    <title>Politics Live</title>
+    <desc>Engaging conversation about the political issues that matter to you.</desc>
+    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
+    <start>12:15PM</start>
+    <finish>01:00PM</finish>
+    <date>24 September 2026</date>
+  </channel>
+  <channel>
+    <name>BBC Two NL</name>
+    <id>BBCTwo.nl</id>
+    <title>Impossible</title>
+    <desc>Contestants compete across the series, scoring points by answering questions correctly. However, they must avoid the impossible answers, otherwise they will be eliminated from the show until the next day.</desc>
+    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
+    <start>01:00PM</start>
+    <finish>01:45PM</finish>
+    <date>24 September 2026</date>
+  </channel>
+  <channel>
+    <name>BBC Two NL</name>
+    <id>BBCTwo.nl</id>
+    <title>The Edge</title>
+    <desc>The game show that mixes general knowledge quizzing and bowling.</desc>
+    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
+    <start>01:45PM</start>
+    <finish>02:30PM</finish>
+    <date>24 September 2026</date>
+  </channel>
+  <channel>
+    <name>BBC Two NL</name>
+    <id>BBCTwo.nl</id>
+    <title>South Pacific</title>
+    <desc>A large part of the remote, blue wilderness of the South Pacific is a marine desert. Many animals that live in the ocean, among them sharks, whales and turtles, must go to extraordinary lengths to survive. Tiger sharks travel hundreds of miles to feast on fledgling albatross chicks and, every year, sperm whales journey from one side of the South Pacific to the other in their search for food and mates.</desc>
+    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
+    <start>04:15PM</start>
+    <finish>05:15PM</finish>
+    <date>24 September 2026</date>
+  </channel>
+  <channel>
+    <name>BBC Two NL</name>
+    <id>BBCTwo.nl</id>
+    <title>Flog It!</title>
+    <desc>`Flog It!' comes from Sandon Hall in Staffordshire. Experts Christina Trevanion and David Fletcher choose items to take to auction, including a large collection of boxed Corgi toys and some rare watches. Presenter Paul Martin discovers the dramatic political life of one of Sandon's earlier owners, the 1st Earl of Harrowby, a member of William Pitt's cabinet, including a period as foreign secretary during the Napoleonic Wars.</desc>
+    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
+    <start>05:15PM</start>
+    <finish>06:00PM</finish>
+    <date>24 September 2026</date>
+  </channel>
+  <channel>
+    <name>BBC Two NL</name>
+    <id>BBCTwo.nl</id>
+    <title>Richard Osman's House of Games</title>
+    <desc>Jennie Bond, James Bye, Kadeena Cox and Aurie Styla take on a series of quiz rounds selected by quiz legend Richard Osman. A daily winner is declared following a quick-fire round at the end of each show, and the scores are tallied across the week.</desc>
+    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
+    <start>06:00PM</start>
+    <finish>06:30PM</finish>
+    <date>24 September 2026</date>
+  </channel>
+  <channel>
+    <name>BBC Two NL</name>
+    <id>BBCTwo.nl</id>
+    <title>Richard Osman's House of Games</title>
+    <desc>Jennie Bond, James Bye, Kadeena Cox and Aurie Styla take on a series of quiz rounds selected by quiz legend Richard Osman. A daily winner is declared following a quick-fire round at the end of each show, and the scores are tallied across the week.</desc>
+    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
+    <start>06:30PM</start>
+    <finish>07:00PM</finish>
+    <date>24 September 2026</date>
+  </channel>
+  <channel>
+    <name>BBC Two NL</name>
+    <id>BBCTwo.nl</id>
+    <title>Villages by the Sea</title>
+    <desc>Archaeologist Ben Robinson visits the picturesque Georgian village of Charlestown on the south-west coast of Cornwall and learns how it was shaped by the vision of one man.</desc>
+    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
+    <start>07:00PM</start>
+    <finish>07:30PM</finish>
+    <date>24 September 2026</date>
+  </channel>
+  <channel>
+    <name>BBC Two NL</name>
+    <id>BBCTwo.nl</id>
+    <title>Live: Match of the Day Wales</title>
+    <desc>Catrin Heledd and the team bring you live coverage of Wales's opening Nations League match against Portugal in Lisbon.</desc>
+    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
+    <start>07:30PM</start>
+    <finish>10:00PM</finish>
+    <date>24 September 2026</date>
+  </channel>
+  <channel>
+    <name>BBC Two NL</name>
+    <id>BBCTwo.nl</id>
+    <title>That Mitchell and Webb Look</title>
+    <desc>Featuring a new government initiative to simplify asking for a chair in a pub, a clip from the first TV broadcast in history, and a green clarinet that makes you reveal embarrassing truths.</desc>
+    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
+    <start>10:00PM</start>
+    <finish>10:30PM</finish>
+    <date>24 September 2026</date>
+  </channel>
+  <channel>
+    <name>BBC Two NL</name>
+    <id>BBCTwo.nl</id>
+    <title>Newsnight</title>
+    <desc>Featuring extensive coverage of the day's top national and international news stories, along with explanations about the context and potential aftereffects.</desc>
+    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
+    <start>10:30PM</start>
+    <finish>10:58PM</finish>
+    <date>24 September 2026</date>
+  </channel>
+  <channel>
+    <name>BBC Two NL</name>
+    <id>BBCTwo.nl</id>
+    <title>BBC Weather</title>
+    <desc>The latest weather forecast.</desc>
+    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
+    <start>10:58PM</start>
+    <finish>11:00PM</finish>
+    <date>24 September 2026</date>
+  </channel>
+  <channel>
+    <name>BBC Two NL</name>
+    <id>BBCTwo.nl</id>
+    <title>One-Day International Cricket</title>
+    <desc>Coverage of one-day cricket matches contested by international teams.</desc>
+    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
+    <start>11:00PM</start>
+    <finish>11:50PM</finish>
+    <date>24 September 2026</date>
+  </channel>
+  <channel>
+    <name>BBC Two NL</name>
+    <id>BBCTwo.nl</id>
+    <title>Emergency 24/7</title>
+    <desc>Kye's abscess hasn't responded to treatment, and it's possible the 26-year-old's drug use has caused complications. 88-year-old Lady Carole needs surgery to retain her mobility.[(96057)] </desc>
+    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
+    <start>11:50PM</start>
+    <finish>12:50AM</finish>
+    <date>24 September 2026</date>
+  </channel>
+</tv>
