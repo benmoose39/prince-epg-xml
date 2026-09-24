@@ -1,63 +1,24 @@
 <?xml version="1.0" ?>
 <tv>
   <channel>
-    <name>Artv PT</name>
-    <id>Artv.pt</id>
-    <title>Informa??o N?o Disponibilizada Pelo Canal</title>
-    <desc></desc>
-    <image>https://epg.best/assets/program-icons?program=eyJpdiI6ImRwbVJRXC9xOTF2MlhRaldRckh0V2lBPT0iLCJ2YWx1ZSI6IjNqQmo0bzM1WDB1U2pwcitCeG95WTdGc2N5UG1YS1JwMVhqRXlucEJ1am02dlwvYVprZENLekNxd1lpdDRGMEI2VjJ0XC9Oc3BIaThHRFwvdW5tMzJ3T0F6N3QydnFLMWU3UUU4Vzh6M0IwSW9heThha096Mm9TM3lwYUxlRCtHK3FlSUdZelI4NGQ5NUhzK0hBNTlRT1l6Mnh0eFl2dTlWNTVkdk4rNzZ0NlBwQ3BwM1pvV0NoRklMbmpHUm9XZmIwNDI4MWhOYms2VHFUYXFrRTd3M3QyM0NOSm9TNlVQUE5heG51TTdUTFwvZndndXJkXC9JQ1wvT3M5c0ZNYmdkbHh1SUQiLCJtYWMiOiJiOGIwY2ZlZGQ1MjdlYWRmYzM1YTU2NTg1N2U1OTYyZmUwMzNiZjU1MzhmZTI1OGJmYTNlZjNjNzBkOTcwYTcwIn0%3D&amp;signature=8863a0714ca74024da769a41cab906fb57136985aed2b0f0a3c640a02ec65400</image>
-    <start>04:00PM</start>
-    <finish>12:00AM</finish>
-    <date>24 September 2026</date>
-  </channel>
-  <channel>
-    <name>BBC4 UK</name>
-    <id>BBC4.uk</id>
-    <title>Slumdog Millionaire</title>
-    <desc>An orphan from the slums makes it to the final question of Who Wants to Be a Millionaire. Contains some strong language.</desc>
-    <image>https://epg.best/assets/program-icons?program=eyJpdiI6Ik5OOEM3K1dPYVBTcXB1T085eHI1cmc9PSIsInZhbHVlIjoiUGVZM1I5bGZadGFGbVdDTWNpdWl6WklsNGJcL2gwNWx4dVJubnBvUmFNaHl1M0Z5bnN4YzNkUlNwYmpUck02ZmkyWVNkcXBaMG9CNVwvZ1FzUWkyeWVkWWIxMVhRcXRHT2c2Z2lXT1h0QndXNjUrVldQRkVTVkgrVmh4UHFvb0FMUkNNTDFxSk9TYisrUDA5cFpcL3h1OXJRPT0iLCJtYWMiOiIwYjMyOWM5MDVmNzZjYjA1YjU5OGZhMjE1MjgwZjVhZTQzYmI5NDI1MTExY2ZjYzkwYzZiNmZkOGZkZjk4YzZhIn0%3D&amp;signature=577155a53d1e97f5f45dbac04b8e52d7ed0e2572adf3a47f14cb740b9032bf99</image>
-    <start>09:00PM</start>
-    <finish>10:55PM</finish>
-    <date>24 September 2026</date>
-  </channel>
-  <channel>
-    <name>BBC News UK</name>
-    <id>BBCNews.uk</id>
-    <title>Question Time</title>
-    <desc>Fiona Bruce presents an hour of topical debate.</desc>
-    <image>https://epg.best/assets/program-icons?program=eyJpdiI6Ikw4Vk9TQjJyZzlaSSt4SWFJanplM3c9PSIsInZhbHVlIjoicUFyQUs0b0dQVEYwaFVUTmJoTmIyMW40bHVpSmJWSjV2c0NESUtBcFwvWEdmTm9EamZqQUNtRG9nTGRackRyYzFYenlqdm82NWRiSGduTEMwU1Y1S1dsXC9qUWFCaGtUSENpaEJxTldsU2xCSXRJdkEwWjJycTdsa01sdDh1VmJXODBocjlKUWlGdmE1Q1lGZGdEbFVzUXc9PSIsIm1hYyI6IjU3NTRkODEyOTQxNTgzNDQwZWMzOGIzM2EwMWM1NjJhZjVlYTVjMDc4YjcyYmFjZWQ5Njk3MmNmNTEwZmYzZjcifQ%3D%3D&amp;signature=496665c836a8df3d17384c39b995562fff30b2ca119077f58ed3a388bd7aeec9</image>
-    <start>09:00PM</start>
-    <finish>10:00PM</finish>
-    <date>24 September 2026</date>
-  </channel>
-  <channel>
-    <name>BBC One NL</name>
-    <id>BBCOne.nl</id>
-    <title>Ludwig</title>
-    <desc>With a death that strikes close to home, all avenues point to one suspect. Has Kemper made a wrong move, and will Ludwig ensure that justice is served?</desc>
-    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
-    <start>09:00PM</start>
-    <finish>10:00PM</finish>
-    <date>24 September 2026</date>
-  </channel>
-  <channel>
     <name>BBC Parliament UK</name>
     <id>BBCParliament.uk</id>
-    <title>Select Committees</title>
-    <desc>Recorded coverage of select committee proceedings.</desc>
+    <title>Scottish Parliament</title>
+    <desc>Coverage of the day's proceedings in the Scottish Parliament on Thursday 24 September.
+ (R).[(96057)] </desc>
     <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
-    <start>05:30PM</start>
-    <finish>10:10PM</finish>
+    <start>11:45PM</start>
+    <finish>02:45AM</finish>
     <date>24 September 2026</date>
   </channel>
   <channel>
     <name>BBC Two NL</name>
     <id>BBCTwo.nl</id>
-    <title>Live: Match of the Day Wales</title>
-    <desc>Catrin Heledd and the team bring you live coverage of Wales's opening Nations League match against Portugal in Lisbon.</desc>
+    <title>Emergency 24/7</title>
+    <desc>Kye's abscess hasn't responded to treatment, and it's possible the 26-year-old's drug use has caused complications. 88-year-old Lady Carole needs surgery to retain her mobility.[(96057)] </desc>
     <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
-    <start>07:30PM</start>
-    <finish>10:00PM</finish>
+    <start>11:50PM</start>
+    <finish>12:50AM</finish>
     <date>24 September 2026</date>
   </channel>
   <channel>
@@ -83,273 +44,81 @@
   <channel>
     <name>Classica IT</name>
     <id>Classica.it</id>
-    <title>Chopin - Concerto per pianoforte n.2</title>
-    <desc>L'Orchestra Sinfonica 'Antonino Votto' del Conservatorio Nicolini di Piacenza esegue il Concerto n.2 in fa min. op.21 di Chopin \(1830\) - Vanessa Benelli Mosell, pf. e dir. \(Piacenza, Teatro Municipale - 2026\).</desc>
-    <image>https://epg.best/assets/program-icons?program=eyJpdiI6ImVYc0lFaWlwTEZ3VVAwWkpQVFh6b1E9PSIsInZhbHVlIjoiOXhPSHdsYmNGU3J3ZG5NWnltODhCMzJrSGM1NVNhWTlRT3ZhMTVLQ3krbXlmSEQwSnk0cU1ObUVNOVZJekMwcXQ0d0RNa0VYeHY4RjBZdmxHQlFmRGJod0lYUzQxOFhhakwzSHVsWHJMbE8ycnRaXC9Vd205YnBZM2pcL0trbHpoaCIsIm1hYyI6IjdjYzdhNDIxNGRjMjkxMWI1YWU4NmEyYWYwZTBjNGVkMTIzYjk2NjU1OWRlY2M0OTk5Mjc0MGU2YWM1YWEyMDUifQ%3D%3D&amp;signature=1675f02c14cee9bdef8a3d1ad3f253fdb1a03f5ff1c2c7cc2488fc557772a706</image>
-    <start>09:30PM</start>
-    <finish>10:00PM</finish>
-    <date>24 September 2026</date>
-  </channel>
-  <channel>
-    <name>EWTN UK</name>
-    <id>EWTN.uk</id>
-    <title>Archbishop Fulton Sheen Beatifi...</title>
-    <desc>Cardinal Luis Antonio Tagle presides over the Beatification Mass for Venerable Archbishop Fulton J. Sheen at The Dome at America's Center in St. Louis, Missouri.</desc>
-    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
-    <start>07:30PM</start>
-    <finish>10:30PM</finish>
-    <date>24 September 2026</date>
-  </channel>
-  <channel>
-    <name>EuroNews UK</name>
-    <id>EuroNews.uk</id>
-    <title>Europe Conversation</title>
-    <desc>Programa semanal de entrevistas aprofundadas com as personalidades mais importantes da Europa, discutindo a situa??o da Europa e os desafios cruciais.</desc>
-    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IlpweG5XeGd4NURDQnkxSm9mSGhiY0E9PSIsInZhbHVlIjoiXC9qRkgxVzBjakExODg0ays2UDc4QU5CZFc1WmpxcUQ0SzZUTHdldXZ2MGdcL3pjVkJsXC9RWmZMdkRQcXhVRk9sVEdFeU5JWDY0MDZKRzNvNEdybUtGTmd4eHhzQlZieDZ2TExyTk5pT2QxSVA4UTZ1NTJoVzBnemNLbVAzbkxMbThzZDZcL3YwSjdqWXBTUWZuelZtSUduZz09IiwibWFjIjoiYTExYjM0NzBiZGZlZTRlNjUyM2IxMWI4NDVhZWZkZjkwZGJkY2I1ODM4M2ViZTA5YjViYTc0OGRhYjg0MzAzNCJ9&amp;signature=2ae823b3ea232c541526957f5fbc4f2716b54066f6423ed5e7eaa5464e55c074</image>
-    <start>09:31PM</start>
-    <finish>09:46PM</finish>
+    <title>Rossini - Stabat Mater</title>
+    <desc>Sequenza liturgica in musica \(1841\) - con Anna Netrebko, Marianna Pizzolato, Matthew Polenzani, Iledebrando D'Arcangelo - Orchestra e Coro Nazionale Santa Cecilia - Antonio Pappano, dir. \(Festival di Salisburgo, 2011\).[(96057)] </desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IkVOdkpiSEFjY2ozV0ZTQmNwOVVVTmc9PSIsInZhbHVlIjoiQjFKRHdFczhDN0txZ2tUelpUNVJGOG9vcTR4ZGpkMkEyVU1BbGg0VzZ4TXJ6dXFEM08rdEU3Slc5T1NPcHpLVkc0T2J4Qm02YW1XdFNueHlTQ3FQd2NoRDZUUE1HOEtEaktuSWRxWncwNitKUHM1MWw5Z0NNdjVVd0hETjViemsiLCJtYWMiOiJkZmFiNzQ1MjJkYjU1ZWUwNDA2OTM2NDBiOTg5MWZhZGYzMGI3OTFkOGE2OWVhZWM3ZmFkN2FkZjY5ZWIwMmIxIn0%3D&amp;signature=98f222a759aa22f57fcf73727612af9001d7c866b3741b5570e722f618e26140</image>
+    <start>11:00PM</start>
+    <finish>12:45AM</finish>
     <date>24 September 2026</date>
   </channel>
   <channel>
     <name>France 24 Fr</name>
     <id>France24.fr</id>
-    <title>L'actu 360?</title>
-    <desc>Plong?e dans un tour complet de l'actualit? du jour. Tous les faits et toutes les cl?s pour bien comprendre les ?v?nements du moment dans le monde.</desc>
-    <image>https://epg.best/assets/program-icons?program=eyJpdiI6ImhwSEYydyt2eE9JWW93RnF4XC9JZGFBPT0iLCJ2YWx1ZSI6ImJvQ05wcytEXC9RQ2YxOG1RZG1nbXA1VzgxUjBpeVNVSHZoZ1lBTk8xcjdybTlcL0FrcUR1YnNIeitQSHgyT1FXUWh1YlhcL3Nyd0NVQ1FKN3lQeXUzZ2tmdjg0UmFERkhJdHgwbzBFMnBHVTFsbDJJMytyaHlMME9yY1JsZ2tMaG4xNE9jcmtZY29yT0RDOUM1QkZGMVcrMUFDd3lkZU1oU0czNXZpeDRDQ0psNytmTndKZkFSUW9XamplYXZjVDRWRSIsIm1hYyI6ImE2MzMzMmRmMjgyNTZiZTUxMDkyMGU2MTdhYzQxZGNjNTA1ZjUzNjZiZWM2ZmFlYWYxMWY2NThkODlmYmI5ZGUifQ%3D%3D&amp;signature=fd9fa8ac4ea9aabd8450cf365fd86bd2881167071e28eb15282ba8c9b3239585</image>
-    <start>09:30PM</start>
-    <finish>09:44PM</finish>
-    <date>24 September 2026</date>
+    <title>Le journal de l'Afrique</title>
+    <desc>Un journal d?di? au continent africain pour rendre compte de l'actualit? du jour avec l'appui des correspondants et des invit?s en plateau.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6ImQwaWNlTzFiWGJ1T2dTQk81VjRnRmc9PSIsInZhbHVlIjoiTFpXdWhLZzNHZmhwV0dVUldyTjVKQVZVZE9zNGtGRGN2czJjUlNxNUVGOGNjQ3FEYTZyZWJObUtyOUdPTldzRWE4TTR1K1ZPODFPbWJ5TFNYeCt3ZTUxMzMrN1dPMGZsVEE1RGRUWU43bndoeTVOU1JTQXZJMXpjdCtaU2NrbURDRVlSMjR5OFpHT2JiekRkUVFabWtpZGs3Uk5zQmhhV1l5R2tCY1pqcXBSTXNqYitqdEcwTEpRWVhOcEl2d3BhIiwibWFjIjoiNzBlNzY2ZjQxYWYwMjUwMWUwZjZkNzA4NTIxM2U4ZjVhYWQ2ODI2YWQ2ZTM2NjUwMTA5NmRjOWVhZjA5NGQ1MCJ9&amp;signature=fc47a2e2eb96e58eeeba2824f0dec4af18769d396c566d6fa22eb3f8fafd3203</image>
+    <start>12:14AM</start>
+    <finish>12:30AM</finish>
+    <date>25 September 2026</date>
   </channel>
   <channel>
     <name>ITV 1 UK</name>
     <id>ITV1.uk</id>
-    <title>Professor T</title>
-    <desc>Crime drama. Love is in the air as wedding bells ring out, but the team have one final case to solve when death strikes at a university rowing club.</desc>
-    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IlRYWnBhM1wvbjRJcFk5U3VvZ0ZMVitRPT0iLCJ2YWx1ZSI6IjhCbHhMNlFDZzhtcHJIemVyOG1lTlJmaHpUbk9SRjVlZmdxdjB0QlwvQ2JVeGVVd2NzbUMwNmJBaWNhZGVZQ2JpMVQ1ZmJtYkttdmkwOGthXC8yVmtYSGh5XC9ybVhwdGQxMjcyZkhPN0tidjZNNUlseG43WFFpZ0poSHBJQmp3NlQzY2hwc0Y2THdSZmc1YkMwYzV0Z3l2Zz09IiwibWFjIjoiMDg0NWYwNGEzMDE1YmMyYzM0MDZmMjA2OTA5ZjFjMTVkZmUxYmUxYTU2Njk0ZThkYWRhMmJhNmM0MzI2MzFhNyJ9&amp;signature=cb984c7f3ecaf48c1c951b4d34c8ea239f63b5078f80d21d2affafcdb97e27be</image>
-    <start>09:00PM</start>
-    <finish>10:00PM</finish>
+    <title>The Magnificent Seven</title>
+    <desc>Western film remake starring Denzel Washington and Chris Pratt, 2016. Seven gunmen in the Old West come together to help a poor village defend itself against savage thieves.[(96057)] </desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6Imh2d3BWd1JDK1BmaHNPUXRDOEFINHc9PSIsInZhbHVlIjoiRHhDaWdBd2hqWnpyTVNEU2pkZ1BydCtiejdOUzRoNERWVXppK0dyTGY1QVpTNndyZEZTRGdCcnRxTVRMTWJEVFF2WFdSVnRLaUZNVFMreVZhQk54SjlhMEpuQ3NPTm5kYlJyUFZIYUE2b1g1eUtCR2lOVjJGV2pnTE9uT1ZaNWU0ODJlVXNKNmZZcjVyUTRwRGJNNHJBPT0iLCJtYWMiOiJiMGNhMzI1YjdlNzQwZjNhZDdhYWU0YmY0ZTA2MTAzOTE2NGZlNzcyZTMyODA1Y2QwNzI1NWJkMTAwMDhiNGVjIn0%3D&amp;signature=e135100cc3faa980c5b9790c37203351665012560af1a185d5f3ded905ac9c1c</image>
+    <start>10:45PM</start>
+    <finish>12:55AM</finish>
     <date>24 September 2026</date>
   </channel>
   <channel>
     <name>Kuriakos Tv PT</name>
     <id>KuriakosTv.pt</id>
-    <title>Basta Crer</title>
-    <desc>Programa familiar, direcionado a todas as camadas sociais com o intuito de incutir, de modo geral, um esp?rito de f? para a ?rea financeira, familiar e da sa?de. Neste programa s?o transmitidas mensagens e prega??es do Ap?stolo Jorge Tadeu e da Bispa Christel Tadeu.</desc>
-    <image>https://epg.best/assets/program-icons?program=eyJpdiI6Im9TUk5iQ2NYZWxLQzNDOUxta0pEMUE9PSIsInZhbHVlIjoia1FyMXZmZWt1TDJQTW5KbTRCTnN5dE9xTlB4K2lycFpzYXRCSFFOcEMxRFJqcWY0NytUd2xieEZyVnNvenFMbUdrRmtudG9tMmRlWEhsY2ozcFVlNlFtcllOQVJrcW12Yis5N3BkVHBLZ1wvbnNKNVFZOFlhQWc0cG9NT2RaMzNPSkNGNU9GUFhWOG9ZdU5BVGpSSksyQ3BWVThJMWxNSWF3SnBhSXBLaGwwZ0lNeXV6UVIzbUFHeXBQbWpyNHBZbGE0WFc3allyMFpVYk1VeGFJcFI2NDdnSEhBc2YzbERnMXlJTUc2SXN4UitXXC9BUWZMdzd2SjFlSUxRSmtNa0lZIiwibWFjIjoiOTE3YjFkZDFkMGZlMTc5NGM3MDFjOGE2OGMxZTMwYzAwNjNmY2VhZjdjNTU0NTMxZTQzMGY1ZTk5MmQ3Njg4ZSJ9&amp;signature=09fc726b3c293bbe476cfdca56ceabe3e1f280219f7a7c389aa52a791bf806d3</image>
-    <start>09:00PM</start>
-    <finish>10:00PM</finish>
-    <date>24 September 2026</date>
+    <title>ABC da Fam?lia</title>
+    <desc>Programa destinado a todas as pessoas que desejem conhecer a vontade de Deus para a sua vida e fam?lia, incluindo temas diversificados que permitem a constru??o da familia baseada na palavra de Deus e tamb?m temas dedicados especialmente ?s mulheres.[(96057)] </desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IjFVcEJmOFpRSGNGSjNweWZRVXFuaXc9PSIsInZhbHVlIjoiV0ZrOVB2NWVlSUE1dkVjQUkxZUQ1bHp2b1wvVVkwWG5SU29wejhQbExUOGRWb3JIa1JuaE9Fdk9wZlcyN1wvaExnd3JtdndlMnhONURGQVlGRmIyOVdSeTdGNlJZNVFkbnk1Q2tteldEK052dUJybFNkSXNMNERqbW80VXNuRVYzaVF6UXhvMEVyWTQrTzNGM2ZWR25WU3dvS0s4MU1hUHRXZmxvRXRHZnM4eXJqaXY3MkM3a3c2cGdzZURWMWtiZHloNzBYUlhaaXNoVDZxa21WM1BSOXVUQWJ5XC9Ua25jaVA1blg4aGE1QzRZWHZjYnBVemJXR0FubWx5M1RvcERHMSIsIm1hYyI6ImRkMjA1YzU1NmMwZDY4OTdjMTljNGQxMDdkYTlkY2FkZDA3ZDlmZjEzZDg2MGE0MjMzMmU2OWM4ZmY4MTIxODkifQ%3D%3D&amp;signature=bed16c2be49916a64461895db1eba7387139ca6574f6b4d8d04713a83f8c17b1</image>
+    <start>12:00AM</start>
+    <finish>12:30AM</finish>
+    <date>25 September 2026</date>
   </channel>
   <channel>
     <name>La Otra ES</name>
     <id>LaOtra.es</id>
-    <title>Mujeres esp?as en la Segunda Guerra Mundial</title>
-    <desc>Una serie de seis episodios sobre las haza?as y villan?as del espionaje en la Segunda Guerra Mundial, con mujeres en el centro de las operaciones de alto riesgo.</desc>
-    <image>https://epg.best/assets/program-icons?program=eyJpdiI6InlqQ21aZHhxZDVMSnZ1d3RMdGxSU3c9PSIsInZhbHVlIjoiOVdhK3NuK0Y1eStFTDU2RTE4bWFLUTcrekpJOVwvY1pvUFFUcWhwT3JBTXJTMFNVdEtRcWF2QjZoWHlYR2JwVklORTNNZ203YnExTFM2VmpVNGVOOURhRit0bDlIWlNTTzk4SzVGYXU0R0hRQklqR0FqOGFQajhLNjQ2RGM1Q2RDIiwibWFjIjoiZTQ1Y2NiN2IyYTI1ZGVhODk2OWU4ZDI0MDhlYzMxMTI3MzQxOWJmY2Q2ODczODZmOWFkYTRjMDM3YTE5NmJlZCJ9&amp;signature=79765ab954bdb149b4be131fe048023e4069e5b17cedb98110688bcac5e91aab</image>
-    <start>08:50PM</start>
-    <finish>09:38PM</finish>
-    <date>24 September 2026</date>
-  </channel>
-  <channel>
-    <name>Mama RU</name>
-    <id>Mama.ru</id>
-    <title>????? ???????</title>
-    <desc>?????????? ??? ????? ????????? ???????????? ????????? ?????????? ???? ????????????? ????????, ?????? ???????????????? ?????????????? ?????? ????????.
-?????? ???? ????????? ?????? ???????? ??????? ????? ???????? ?????? ?????????? ????? ????????? ??? ???? ???. ????? ?????? ?????????????? ??????? ??? ???????????????? ???????????? ??? ???????? ?????????? ????????????? ??????? ????? ??????????????? ??????? ??????????????? ??????? ????? ??????. ???????? ?????????? ?????? ???????? ?????????, ?????? ??? ????? ????????? ??????? ????????? ??????????. ??????????? ????????? ????????? ???? ??? ?????????? ??? ?????????. ????? ????????? ????? ??????? ????? ???????? ????? ?????, ?????, ?????, ?????, ?????, ???? ??????? ????????????! 
-??? ????????? ????????????? ????? ?????? ???????? ?????????? ??????????? ?????????????? ??? ????? ???3-? ???, ????????? ??????? ?????????? ??????????? ????.[(96057)] </desc>
-    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IkdOVEdWMHljT1hlT2NOcTlXR2YxMUE9PSIsInZhbHVlIjoia1FqekVFdHMydXVFZUZRNWd3b3FVcFV2TUY2V1kyaVVKUG5aUjFWVTh6RldCcmxER1Q5dU9MMjBGaXczSWZQaWtleUZZeXRKTlRBMWc1SFc5ZWlDU28xcVlzSzBtemV2cDROV2lXajV3cW02YncyRFBwdjkwaE9DS1ByXC9EUzBac0V3THZ2NkE3Q3E5dUtaRUtIb0dVR05MY3lvY0tpYjBxVVdLSlc0TWdTST0iLCJtYWMiOiI2YmE1MTcxZjMxOWRhZDcwZjhiY2JmMDViMmU4YzQyYmYxYmEzZDJkZmFmZmQxNGI4YzYzMDIzNDMzNmExZjUwIn0%3D&amp;signature=004909e9a3e9b48a2d9ceb3a5ef7be25dbc941f849d2cf939217a3e6e017bfac</image>
-    <start>09:30PM</start>
-    <finish>11:00PM</finish>
+    <title>Cine</title>
+    <desc></desc>
+    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
+    <start>10:36PM</start>
+    <finish>12:28AM</finish>
     <date>24 September 2026</date>
   </channel>
   <channel>
     <name>Movies 24 UK</name>
     <id>Movies24.uk</id>
-    <title>Following Yonder Star</title>
-    <desc>Abby Marshall, once celebrated for her role as an inspirational mother on TV, spends a chaotic Christmas at a remote Vermont retreat. Can her own holiday wishes come true.</desc>
-    <image>https://epg.best/assets/program-icons?program=eyJpdiI6InJIWjFvRDdTM2JzSjM3Q0wzdzlhUHc9PSIsInZhbHVlIjoieWFNbFQ4SzI3WTRlTUc4dHlYc21vNFJ2Y0FHT1RYYnFoM1wvR3BSQzdaZnAxN3cwZUdUUXFabzlSV3VKVDZ0RGZXNlNCbDJkYzBsajhoUWR4bVRrUkxTS0JmdXJRd0FWRHdlSGlacmR2Z3MrOUdqOVgzUEcyYnhMM2tZK0JDc2V6bWs1cWJEZ1NJTlF4bllsMXBpMXB5Zz09IiwibWFjIjoiZTNlZTE3NjdlYWUzZmY3MThmYmM1MjQ1ZjNhNGQxOWM2NTE3M2ViN2ZmYTcxNzlmMDI1ZjAxNmYwNTE5NWMwYyJ9&amp;signature=1f32a9a0fca460d50b6ee9ab408172b7f0701a23893d193787a468b4106ba884</image>
-    <start>09:00PM</start>
-    <finish>11:00PM</finish>
-    <date>24 September 2026</date>
-  </channel>
-  <channel>
-    <name>Nick Jr UK</name>
-    <id>NickJunior.uk</id>
-    <title>The Adventures of Paddington</title>
-    <desc>The Browns go to the beach in 'Paddington's Summer Holiday Begins', then in 'Paddington's Life Guard Training', Paddington, Jonathan and Judy rescue Mr Brown with lifeguard Taylor's help.</desc>
-    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IjU4dSs1NU9vK3ZpV0l0YUkrQmRWT3c9PSIsInZhbHVlIjoiNENBeUpWTERJV01cL3JYRnZXMWdcL3lSRmE2SEFLK0hhNEt2eFJXcFRxbHExY2Z0ZW4yMjFZeWhYNE9ieWVsVjJvWVhnaURUR1JFV2RiMHRobzA4MTBkM1pJRVZwM3hLRWVSckhOWXMxOGp0RnFwK3VzalNmWUM2c3JaTGttTE1RSVB4M1NrbkVNZ3ZDM2w5MmFOQVUxTWc9PSIsIm1hYyI6IjU5YWJlMmQ3OTdmMzlmZjIwZDdjNWE3OTBhYjBlNWQyYzcwYzRmNDk5ZmY0N2YyNDNhYWRkZjk0NjZiYWRhNjUifQ%3D%3D&amp;signature=d5314fca863f7e62e6982c013df541474a4b486a075db52765b4bb02629b990a</image>
-    <start>09:29PM</start>
-    <finish>10:00PM</finish>
-    <date>24 September 2026</date>
-  </channel>
-  <channel>
-    <name>Porto Canal PT</name>
-    <id>Porto.pt</id>
-    <title>Pausa na programa??o</title>
-    <desc></desc>
-    <image>https://epg.best/assets/program-icons?program=eyJpdiI6Imc3QWxMMGFuNkZ0aTJ6VWR2bVNBNWc9PSIsInZhbHVlIjoibGhoK2tcL2VJcEtzWE9aNmNFY094XC85RWVsSmdrdkR3eTdOQUJUdk1QcVwvaWRuT3ZUcDZqRzh6WWM2cW9rbDFWeHliZ1wvNjN2SzFXbWNkbzVHT1FjOHJzNExMQmtGaytlWXVZNVZcL0R4cHJlbTYyNTNPMlhOWEs2ek9Rd0xTem5EcnFYcW1MdW9jM2FibGVLZ2UzNEFWSnkxUVMyRHZNd3M3WmZMVHNRd2lnY3VQMFlwKytsVjhSXC9jM0REOE9Ca05Rcm83REZUdmRDb09OWnRHRjZcL3ArVHZlbUVXWm1tTVJGd2hLT0RZRnlONnFLMHgwUGpGV3ViUFhIdGFhcExvdXgiLCJtYWMiOiJiZmExMDhkM2VkNzg0NjhiZGUxMGUxZGIwZGE0M2Y1YmQ2NjIxODU0ZDRmYmEwODUwOTNjNTY2YTAwOGEzYzA3In0%3D&amp;signature=6dbe3835b6e03c90c6514b11f4062baf1feca320d088a9985dc583cc86023964</image>
-    <start>06:00PM</start>
-    <finish>10:00PM</finish>
-    <date>24 September 2026</date>
-  </channel>
-  <channel>
-    <name>QVC UK</name>
-    <id>QVC.uk</id>
-    <title>Cozee Home</title>
-    <desc>Pick out the perfect gifts from the Cozee Home range featuring warm and snuggly bedding, throws and accessories offering comfort and cosiness they'll love.</desc>
-    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
-    <start>09:00PM</start>
-    <finish>11:00PM</finish>
-    <date>24 September 2026</date>
-  </channel>
-  <channel>
-    <name>QVC Beauty UK</name>
-    <id>QVCBeauty.uk</id>
-    <title>Best Of QVC Beauty</title>
-    <desc>All the highlights and star products.</desc>
-    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
-    <start>09:00PM</start>
-    <finish>10:00PM</finish>
-    <date>24 September 2026</date>
-  </channel>
-  <channel>
-    <name>QVC Style UK</name>
-    <id>QVCStyle.uk</id>
-    <title>Best of QVC Style</title>
-    <desc>Catch all the recent highlights from our sister channel with the Best of QVC Style.</desc>
-    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
-    <start>09:00PM</start>
-    <finish>10:00PM</finish>
-    <date>24 September 2026</date>
-  </channel>
-  <channel>
-    <name>RTE News Now IE</name>
-    <id>RTENewsNow.ie</id>
-    <title>RT? News</title>
-    <desc></desc>
-    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IlwvWUgra1ZOM09tV2lkV1J4WW9TT1B3PT0iLCJ2YWx1ZSI6Ink3ZVRoejRlSkR0ZG1uUGNXMmx1eFlWQ29PMWR0WlNcLytvYmNhVCtFVStzYjViemdwM1FvdDEyV1I1Yld2aEZ2czlHU2ZRNElxenpYQnlWU1NSRSs1SDNLQ1Y4SlF6c3NHZnRDMFd1UzhrakxPQ0lLcVA1aEdJNDI4RzBmb2RyRDFhaTdrOFFUVVhOWnBDR29CTVlNVGc9PSIsIm1hYyI6IjU0ZDkxOWM5MjY0MDhlYzgzZjE0OTNiYWM2MTY5YWYxZDE3MjRmMmVkMjdmNmY1Y2ExNTk3N2VjOTM1OTVhZWEifQ%3D%3D&amp;signature=fe60e451d3d61d88d6fda7451273077cc4c2796e418abc40c6889cd8adc2a7c6</image>
-    <start>09:00PM</start>
-    <finish>09:35PM</finish>
-    <date>24 September 2026</date>
-  </channel>
-  <channel>
-    <name>RTP Internacional PT</name>
-    <id>RTPInternacional.pt</id>
-    <title>Joker</title>
-    <desc>Um u00fanico concorrente, sem adversu00e1rios, usa todos os trunfos para ganhar o pru00e9mio mu00e1ximo de 50.000 euros.</desc>
-    <image>https://epg.best/assets/program-icons?program=eyJpdiI6InR3d1Izbnh4NExIWGR6dnE5djg1bmc9PSIsInZhbHVlIjoicjY1ODBRcjBTWmYralFNbElkMlJwVzdmQ0k4YTVrMlZGUEVXTHNyN2xIOUV2ejhLUzA0TWFmc0NlelU3SlpEMmlGekZWek9mVzBVREdJZU1uWGQ0d2JSNHlZOUNvU3pMNnRoS25ET205N04rYktCVGwyaWJhenBqdEY4SE1abUQiLCJtYWMiOiIyNjMwZDQ4ODg1MWY2OGU0YWZlYWViNTcyNjBhNzUwZGYzZTBjZGRmNjY1NGI0ZTUwNzhhYTAwNWE5NzU2Zjc2In0%3D&amp;signature=b34cd2033529632a6ea6a5c3fbbafcbffa43bedc8480f38cecd1ef88191ea763</image>
-    <start>09:30PM</start>
-    <finish>10:30PM</finish>
-    <date>24 September 2026</date>
-  </channel>
-  <channel>
-    <name>Rtp 1 PT</name>
-    <id>Rtp1.pt</id>
-    <title>UEFA Nations League - Portugal x Pais De Gales (Direto)</title>
-    <desc>A selec??o portuguesa defronta o Pa?s de Gales, no Est?dio Jos? Alvalade, num jogo a contar para a primeira jornada do Grupo 4, da Liga A ,da Liga das Na??es.</desc>
-    <image>https://epg.best/assets/program-icons?program=eyJpdiI6InhhTGM1ZzVER0U1QlwvQ3M2M1pTeUx3PT0iLCJ2YWx1ZSI6IjczOWJkTzlqTkpOTXhydTRVaXVHWVJGakszaGM0TXBOd20rSHpaeWFZVjA1UGVcL3RTNDZqTEZLcVVoMTFUMVZjN1RVZjJScUhwdk1mNkFvYVZwcW4xQUduY2xDVENzRGhxZUx6eFBEelpYXC9hbm9HZ2tXeWwyQTBLRWJOQnlQUTdlTE5PV2pnSW40NWEwZ2ZaWm9rRUZLMm12dGdmMElJZ1Q0aVIza3VvQmdmNHVkcEF0MG1OQVRPNGZjWWdZaVRMUm9aUFdmdHBHYWtOVTg3V3JvVWdwRVo3SkpkMnBtaU1rMGJvQjdBTCtJbHJYZzBmODBQSHY5RzVhRDJtQ3g2eSIsIm1hYyI6IjgzZDBiYTIzMTA1MDVjZDFmMzU3OWE0ZmMxOWE5NzcyZjQxYWFlNGZhYjNlZGU3ZDk0M2U0NGM1YThjZTM0ODMifQ%3D%3D&amp;signature=c0e44c83c660a705724c6414b7ee6a7a4d202a02842a9b8a7304f1534c8360bd</image>
-    <start>07:45PM</start>
-    <finish>09:45PM</finish>
-    <date>24 September 2026</date>
-  </channel>
-  <channel>
-    <name>Rtp 3 PT</name>
-    <id>Rtp3.pt</id>
-    <title>Pausa na programa??o</title>
-    <desc></desc>
-    <image>https://epg.best/assets/program-icons?program=eyJpdiI6InVTSlRaR0lseExOWUk1V1ExVDQrNmc9PSIsInZhbHVlIjoicHdESE5haDliVGlJSjZZcFFuZ3RYM1hlWlwvZzlYd3UwUER3MDI4Y0owMEE1RVhtU2pmVGo1UzFXdEwwbTh6YmsxVUZwT0xEUitIamF4ZUVFbFdjekwwa2tWeGhaWE9WWUFzd0JRcWZZalg4MTBMclpmb0g4QUo4MlJFZkVNUmx1M3lwXC8xNTNyTnhUc2lNdnBiRWtZNkxDTFUwck5RNVZkM1c5NVwvK3NObFBTdTRNUDBxa2lcLzZiUVJHbGxielJMa0VKMGdUOWtkRk9XT2VVYm5vQWFjNG1BNFJGblg5bExwcit0MktBOGNWS0grTVwvanBIT2h0NDVYTWZRVEE4K1pGIiwibWFjIjoiZDIyNWUyMTA3MDgxMzQxM2ZkYThjM2ZhNjNhODhlNGZhNDAzZDE5NmYzNjI1Y2NiYWU2ZDc1MDFhNDA4ODY0YiJ9&amp;signature=84947a7efc6b348fdeadb8cef0209fc350da390ad0b4d9b66eb4dedbacfdd594</image>
-    <start>06:00PM</start>
-    <finish>10:00PM</finish>
-    <date>24 September 2026</date>
-  </channel>
-  <channel>
-    <name>Rtp África PT</name>
-    <id>RtpAfrica.pt</id>
-    <title>Miradouro da Lua</title>
-    <desc>Um jovem estudante de teatro recebe um convite de seu pai, que n?o conhece, para ir ter com ele a Angola. Na viagem, conhece uma estudante angolana que regressa ao seu pa?s. Quando se dirige ? morada do pai, depara-se com uma grande surpresa e a sua vida n?o ser? a mesma.</desc>
-    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IkVtR2N0aDB2U3N1WVpTakdRUlwvV2x3PT0iLCJ2YWx1ZSI6IlhvNVN1Y2Q0MVZ5OE9pRkhOREF2VE96NVlnbU1zbExSYUszXC9WTU80SmhuS2dNbk5WTEpMejd5ZUhOdXhiRDNrTHZUZDdtSDJwY2RLbDRcL1F1UVNnQ1VVR3krZ1VITUdBZjZFYWRFVVdQdWU3UTduSjJ2b1RxNklkMjd0YWRhMW43TEJTK3JvZkc1Z0k1dExnU2dyVTBhXC9FQUxGNEpxMUswSEhIcFVoUUhqTnhFNFM0Z3ZGMm9ESTVwRUtpY1RLajF2UG8yU3Q0bFpWT0E2NGJTK3U4eHh4bWUrc3gwN0ZQSDFZZFlFZ01uSUIwbHBOZlRpMnRXemVoNEJCNFlLdFYiLCJtYWMiOiI3NjkyMWY0MTY0MDljNWY3OTk5M2FlZWM5ZGRhNjZhM2ZmZTBmODVkNWE4MzIyY2E0ZGIxZTVmY2MwZjJiMmRhIn0%3D&amp;signature=6c58e6ef61ff6d0975b807d613cd0cbb6986bbe2b064d3a2b4f105ed53d77e87</image>
-    <start>09:01PM</start>
-    <finish>10:30PM</finish>
-    <date>24 September 2026</date>
-  </channel>
-  <channel>
-    <name>Rtp Madeira PT</name>
-    <id>RtpMadeira.pt</id>
-    <title>Telejornal Madeira</title>
-    <desc>Para os espectadores da Regi?o e da di?spora madeirense espalhada pelo mundo. O Telejornal da televis?o mais pr?xima de si est? no ar desde 1972 com uma informa??o de proximidade e a garantia de qualidade do servi?o p?blico.</desc>
-    <image>https://epg.best/assets/program-icons?program=eyJpdiI6ImhjbWZnRU85ZThPdGEweWwxNk56NXc9PSIsInZhbHVlIjoiMnh5WXd3OU95b2NSYnhwcUI1OU1KS09ZODVsaHRkV2xJUGJWM09WQmFGdHlpeGxreCtrR2NjYVRDellcL1RvS3dncWQwcWtLY0ZSb3FyYmxMQkJyeU52Q05pSllZNit0TXFKTVpJSllVWDVsZGNoZ3RZMXJramgwV0hHR0l5aW5yeVEzcTFcL2cxR05MeWtEUytZTnRGNGtMb08wZHpyc093RCtuZWp2V2F6eFY4Smh4M0VWRDVPMEJHMDZCblFNWDBCelwvbVBmWXkrZCt0VXZpbFhuemMxNVptdE5xVHZCSElcL1lTZWx2UDB6Y0pHd1ZtNFhZSk15S0trTXVRUmYwMzciLCJtYWMiOiJhZmE4YjU0YTE3YTlmNjgyN2ZiNjIyYjk3OGUyYThhZTFlNzMyMTI0Yzc1Nzg3YzVmMmQyNjdiMmY2YTc3YmM1In0%3D&amp;signature=9a2357a8b3cdc9e7f9d84330fbb7ba6b1ce31fc5860aa0bfd46fd2d635ebab85</image>
-    <start>09:00PM</start>
-    <finish>09:50PM</finish>
-    <date>24 September 2026</date>
-  </channel>
-  <channel>
-    <name>Sky News UK</name>
-    <id>SkyNews.uk</id>
-    <title>The World with Yalda Hakim</title>
-    <desc>Eyewitness reports, interviews and analysis on the big stories around the world with Yalda Hakim.</desc>
-    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IjVUYkVPYU5RRFdydTdzNzhPSjY5WEE9PSIsInZhbHVlIjoiS0lOcVgwbkE3U0MycHUzVkt6S1pBTGtOMEJHTXlHYWhWdVJTQVA1dU50dWp6d1ltQ0plU1Q2ZW9hTFRvMW1iSlVXaDM5Wkl1cVF0ZGprZndpTjFkcDFOdTh1NzdjN05qVDVQZFB3UXFaNXRLZUdVbDg0Q2dsNWJiMHgrdktGcDV1cFFwZ2hIWkZ2ZnVNM1FaeVo0T1wvQT09IiwibWFjIjoiM2VhNzcwN2I0ZTYzYWVlMzQzYzBmNmJlZTc0MTE2MjYzZDhkMTMwZDI0ZmYzNWJjNDhjMjI2MDRjZWU5MzZmYSJ9&amp;signature=c32ce645d137829cdd937d985b731f96e8bae967dfcec9338292b58827e365d8</image>
-    <start>09:00PM</start>
-    <finish>10:00PM</finish>
+    <title>Sugarplummed</title>
+    <desc>When Emily wishes for a perfect Christmas like the ones found in the popular Sugarplum movies, she's shocked when Sugarplum herself appears to help her fulfil it.[(96057)] </desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6ImlkRVlvdjRNb0xmS0cwMGxjMkpyb0E9PSIsInZhbHVlIjoiOWtuME9vQ2EyU2ZuQU5jd3c0STVrV3ZrTXlhQ0FqXC82eEwwUFBvUXJKU3dnT1FzZGVzVUpVRWRwbVFcL2hBVkZuTG1Db0JySVBJQUVYT3dGUGVhSkJLdE4zam0yZW5tRUNFRW9WMEl5K09rOWlkSVArS1NHN1wvdGtQVE5cL25adTRWbGl4Und3ZWtYdkwyK1wvcTlLcUNzeEE9PSIsIm1hYyI6ImJmNDEzNDk2YmMzM2EzNTQxMGQ4ZTczMTY1ZGYzOGQxOWZlNTk3MGNhZWIyYWQwNzc2ZjRjZDQ0NDA5MDFkYmEifQ%3D%3D&amp;signature=8248e8ac1b9b68b22071743743f1793114410ff59755f1e541c3f5e4c4453edb</image>
+    <start>11:00PM</start>
+    <finish>01:00AM</finish>
     <date>24 September 2026</date>
   </channel>
   <channel>
     <name>TF 1 FR</name>
     <id>TF1.fr</id>
-    <title>Oradour</title>
-    <desc>Le 5 juin 1944, cinq jours avant le plus important massacre de civils fran?ais pendant la Seconde Guerre mondiale, Philippe Gerbier, officier des Forces Fran?aises Libres, est parachut? pr?s d'Oradour-sur-Glane.</desc>
-    <image>https://epg.best/assets/program-icons?program=eyJpdiI6ImRmelNTMWs3enJPZFgrVnhPOXBjUUE9PSIsInZhbHVlIjoiZVEyYlpyeWsxKzQyeHVuNWlJVVRsMjhYaW94NjdWaktlQ3JXXC9OMXpjRlo0K0tCalVQdWJaZStUcXJUZmN5ZElmN2FaWDVCZmNlWThBN21TRjNLZVp0WVA4a2FRbGtUNVU5Sktha0k3dndiNjJCWWsxaTJBek9DRUZsZzdmVzVtIiwibWFjIjoiNWI1ZTA4N2I0ZWYxMzA3NzI4MTFjNTYxYWU4MjZhZmYzNWJhNWJiZWMxM2Q2M2U5YjU5ODFlYTg5MTM2Nzk3NCJ9&amp;signature=d8ec84bac55154ad77871ca24dffeeff1c91e10cbe3d597173b86abc7cebb974</image>
-    <start>09:05PM</start>
-    <finish>10:15PM</finish>
+    <title>Programmes de nuit - TF1</title>
+    <desc>Programmes de nuit.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IlRkRlZzUDhkUGZhRlR3aFJDeHhxdVE9PSIsInZhbHVlIjoiUE5xdHRaYXZSMG1QajhFZ0NBWUVDdGFxUXFxNlhvWjJ5cU0zRGY0dEZ5NVUzRkdtVk9VSlwvNzVBZjJ0YTBmdTlJOG1Jb0VTblhwTTJsYkhkTEtzRnZQcW5aOEpmVzFDazRNWmJJVWFFZnZnM205U3czVFVrS0FrV3hzZEo5S2RWIiwibWFjIjoiODBhOWM3NDYwNDQ2YmQ1ZjM2NmNkYTcyMjI4ZWIzMWM3NDQzMWZhZmNjNmRlZTYxZTE4MDU1MjdmMDM4NTBlYyJ9&amp;signature=5b3cda558233ebcda48e6a000d52e3247fc0ae168cd6f1a60aee00a6bf99b310</image>
+    <start>11:40PM</start>
+    <finish>04:50AM</finish>
     <date>24 September 2026</date>
-  </channel>
-  <channel>
-    <name>TG4 IE</name>
-    <id>TG4.ie</id>
-    <title>Contractors</title>
-    <desc>T? s? ina earrach i Cill Mhant?in agus t? Edward agus James Walshe gafa ag cur amach aoileach.</desc>
-    <image>https://epg.best/assets/program-icons?program=eyJpdiI6ImMya0ttZzkyOWk4VERZNmpFTTZYN0E9PSIsInZhbHVlIjoiY0UxNlVcL2taYmhxbjJUbjFHMU5STmtHck9rd3l4RWF4bDIwTmNPMXRDR1NFUzlpVWZTdVJOWjRiblhwSDNjblRic1NwNVl2QmdVaWhBVVNMR2VUQjJyOFwvOGpEckRITFZKcDNHTnpiQlZmMlFoYzZIMmcrNndXUkFMeVRSdzcwelFcLzhaYzN5NklzcUpVeW9CYzFcL3Bjdz09IiwibWFjIjoiOGM2OTFmYzkyZThmYmZjOTg0NGI3NWI5MzQyNDc1ODY5Y2ExNjhlNTZmMjlhOTY5NDE5YTAyNmM3NzE3OWUyOSJ9&amp;signature=e10d527b7435de1c658bc29daa5781cf6e27e5076878fde87ff8b47b920cbcf9</image>
-    <start>09:30PM</start>
-    <finish>10:30PM</finish>
-    <date>24 September 2026</date>
-  </channel>
-  <channel>
-    <name>TRT Cocuk TR</name>
-    <id>TRTCocuk.tr</id>
-    <title>Program</title>
-    <desc></desc>
-    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
-    <start>05:00AM</start>
-    <finish>11:59PM</finish>
-    <date>22 September 2026</date>
   </channel>
   <channel>
     <name>TV 5 Monde F-Be-Ch Fr</name>
     <id>TV5Monde.fr</id>
-    <title>Des racines &amp; des ailes</title>
-    <desc>Les ?missions, r?alis?es en France et ? l'?tranger, racontent l'histoire d'un pays, d'une civilisation, d'une p?riode ou de personnages embl?matiques.</desc>
-    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IjNvNk5aY1V4Sm0yUHJlaVdIR0hZQmc9PSIsInZhbHVlIjoiYjc3c25XeWFCNFhCZEpNUk0zUmZHY0xMbDRnd1g2WDlxZ2hzZWZRak9JUmx6ZllsckRLeHAyeTUzVFVGNlkweVRPMXRoQkZvNW0ybEdKNjFWanBVK3JzS1hKQk9RV09qYTJqV1pSam1qS2FBcWNQXC9hTXpzMDRjU011QktCTkMzIiwibWFjIjoiMTY3MzQ2ODM0NWY3ZjQwYjY3ODMyMzIwZWZmMDc0MTI0NWRkM2U5OTc1MTJlMDhiNWE1ZTFmZmIyZjUzODhhMiJ9&amp;signature=aeb955428e9aeb3e918893118150238c18d699226a699b4e1cf6c7c0a1e4fcbc</image>
-    <start>08:05PM</start>
-    <finish>10:02PM</finish>
-    <date>24 September 2026</date>
-  </channel>
-  <channel>
-    <name>Together TV UK</name>
-    <id>TogetherTV.uk</id>
-    <title>Got It Made</title>
-    <desc>Norfolk-set coming-of-age drama. Mere days before her wedding, an aristocratic girl discovers some hideous truths about the people closest to her. Contains sexual scenes.</desc>
-    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IjFEUVJtT0FNUjBcL3E1OWdlRFJKODh3PT0iLCJ2YWx1ZSI6IjlGUHRoUlhkSVRpVWs0WnFoc0FST0ZqeVVwbnNxS3F5dUcxbm9tRzdmcG41UVFoY1l0OVFQZU84T3VoVmxDUXZ1dEpwV3hlbGE5TjN3QXgxenVPZUt3UnQxSHdxb2pmMGJTUDZXQUlSUzVmNUhZd2gyb2hFUXhqTk04QUNcL2ZKT3dpQW8xSVdDc1c0OUZZZzh0VkM0RXc9PSIsIm1hYyI6IjAxMmNkZjIwNDRhOGYzOGZjZTlkNzZmNGM3ZDAwNDM3NjJmMTZlNWEwODZmMWE2ZTk0NTAxZDNmNTE3NTc5NzAifQ%3D%3D&amp;signature=e5b4f244521f7fc7397615787053541a0878aae2087e6b4617269db4bf0a3eed</image>
-    <start>09:15PM</start>
-    <finish>11:00PM</finish>
-    <date>24 September 2026</date>
-  </channel>
-  <channel>
-    <name>Vosges TV Fr</name>
-    <id>ViaVosges.fr</id>
-    <title>JOURNAL ? M?T?O ? SUR LE VIF ? AU COEUR DU VILLAGE ? BUSIN?EST</title>
-    <desc>Retrouvez votre journal du lundi au vendredi ? partir de 18h, en continu jusqu'? 19h, puis ? 20h30, 22h30, et le lendemain de 5h ? 10h.</desc>
-    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
-    <start>09:30PM</start>
-    <finish>10:00PM</finish>
+    <title>TV5Monde, le journal Afrique</title>
+    <desc>Reportages, chroniques, invit?s : l'actualit? africaine ? destination de l'Afrique francophone au quotidien pr?sent?e par Nidhya Paliakara et Dominique Tchimbakala.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6InF4VGdXbUQ1OUd1Qm4ySDZrcU5XRkE9PSIsInZhbHVlIjoiZUorME5IWnJ0NTZXdktKUHJSbnZuVGtpeHF0ejFsblo0R2ZmZ3lFWW9mTFVSZTlhdnJkbElvUDNKTnBhQlBtRzE4akdXNmVibGw0TXJoUWM1d1ZzWEUxY2ZzVzJMNE1ScE5LRGw4ZHN6VzFUQU00dVFnZjdZZWI3bW5vNkZER3UiLCJtYWMiOiJlZjE4YWMzYjVlYTY0NmNhZjAxYWU3NzhiMjU0MDQ2ZGUyNzY5YjBhMDJmYmE0OTYzYzhkNjYyYmM2YTk1OTE0In0%3D&amp;signature=7437c354d57f1a3c2d671ac179794b7acd3cc882b4bdf59b683a2ee18471a069</image>
+    <start>11:57PM</start>
+    <finish>12:28AM</finish>
     <date>24 September 2026</date>
   </channel>
 </tv>
