@@ -1,55 +1,24 @@
 <?xml version="1.0" ?>
 <tv>
   <channel>
-    <name>Artv PT</name>
-    <id>Artv.pt</id>
-    <title>Informa??o N?o Disponibilizada Pelo Canal</title>
-    <desc></desc>
-    <image>https://epg.best/assets/program-icons?program=eyJpdiI6ImpxaXp5M1dWZWhZbm9PSE5ZMkc3a0E9PSIsInZhbHVlIjoiakdVSzRtM1wveHFodlFtdGtaNzVrK0VzMlBCbHM5WkV0SVpZbVdRMXFESW5GN2lUSjgwTTlVUFM5WUlkNDRIOWwyc09LalwvdXQxOWRsWUlYRzBZZXBIOEZwbWo1OTFVbDZYTmJGcmF6YVB5YkwxSVFUb1U3R0dEVThKZjBQWFdSb1psbEIxZVZ5K1pldFJTVXQzcFJTdzR6WEdKNkJ1V0JQdkxTeWhvRjk5QTJRZjR2b1wvVDkwSlhjMjVXQ1dLV25hS0U3blhCbnRqTXlDcFgwKzFidHIwOXBRZ2VNb1ZRbTk0VEt0SWhpcVhzSm1BM3hwdHdrbnpwbnBRREt1RXltYyIsIm1hYyI6IjZiYmI5NTNhNDEzODZiMzc5ZGU4OWIwMmM0M2IwMTliNmZjMDAxNzgwYTFjZTdiN2Y4OTFkNWQ2NWQ3ZjhkZDQifQ%3D%3D&amp;signature=ca5542d3027fc8619b8bf5c54ca38c222eed5aac89f80f989b4754ee1944e450</image>
-    <start>04:00PM</start>
-    <finish>12:00AM</finish>
-    <date>11 October 2026</date>
-  </channel>
-  <channel>
-    <name>BBC4 UK</name>
-    <id>BBC4.uk</id>
-    <title>Top Girls</title>
-    <desc>Marlene gives a dinner party for five oddly assorted women from centuries past. Contains strong language.[(96057)] </desc>
-    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IkFESWxkbms5SlMrUzdrUmUrNW12bUE9PSIsInZhbHVlIjoiQ1k3T1dNelVBODJpa0xlSFRlUDROWGFkazM4ajM3WVFVNFBoVDFTcHlBRTEzeTRqWnNJWHBNeXFhUmkzWEZGNFVCejd6bnJQODk2SXQyd015U1A5em96YTIwYzBXeVdHeXNzVkd5UmJSSDVuTnNmdEgySld5VkhHTVwvWnFESVBkU1ozMkJmU1NnZnAxRGp5bnVPM0VTdz09IiwibWFjIjoiOGNhZTI2YWI1MGQ3NWJjMDVlNGI1YzBhZTUwM2U0ZTBmZWY4N2RlYjExMGFhYmY4YjNkMzZjYjI5Mzg2YzIzMSJ9&amp;signature=b940bd122d1da64d86b749fec9ce22605868af34dedadbd16a14ec16947f672b</image>
-    <start>10:15PM</start>
-    <finish>12:05AM</finish>
-    <date>11 October 2026</date>
-  </channel>
-  <channel>
-    <name>BBC News UK</name>
-    <id>BBCNews.uk</id>
-    <title>AI Decoded</title>
-    <desc>Join our AI Decoded team as we unpack and take a deep dive into the world of artificial intelligence.[(96057)] </desc>
-    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IlkyY0hSalorWmV3UTNhMGtSalwvd3d3PT0iLCJ2YWx1ZSI6IllHOUNLOHk0NVo4XC80Uk5cL1E2RFMxTlhaUlBrQXlqXC81dnowUGdlVTE5dWljQ01KbWZRUnhoaXRORjRwWURoeVFZbWpFRW9vZWpRelcyUDVWbEdSTXd5TUlVcjNXTlwvcURxMG9DUklHR0tYV21oQTBQSWdsODllYzJZaEZpRGlRd2JEeFFCXC81bkwyeis5emxudmFadTVRPT0iLCJtYWMiOiIwZDFkZTUyMWFlOTczYzkxNzQ4NDg2NzZhNmI5NWI1YzQzMzk0OWNiYmU0ZTdkMWE2YjU3ODBjZjFhMzRmZTNjIn0%3D&amp;signature=1935b01f656f01342755ed6bd33054a818bc1c9e961f8a93b19f41da722fb446</image>
-    <start>11:30PM</start>
-    <finish>12:00AM</finish>
-    <date>11 October 2026</date>
-  </channel>
-  <channel>
     <name>BBC One NL</name>
     <id>BBCOne.nl</id>
-    <title>The Nice Guys</title>
-    <desc>A down-on-his-luck private eye works with a hired enforcer to investigate the disappearance of a young woman in 1977 Los Angeles.</desc>
-    <image>https://epg.best/assets/program-icons?program=eyJpdiI6ImV5RFA1SWZlSkJHMnlqeENsWWNPV2c9PSIsInZhbHVlIjoiTzA4bWcxeHNod0o4cGhrMjZhVEs5WFRGQjVxelJkN29Da0wwSERwcEZ6RWlZRXVYN2k0V1JSTUY3eUI2a0lwQ25BVjFyZ3FBVUdCMmlkdm43djFTMEVESkRQOFZwN0JUZUpUZzFKY2h4djJYeWRiNlJtNjlJT3V6cmFmTkxKZmdpWU50VnJMQkZET3RvYWVDaldjbEVIWnpcL01vSllnOG0wYWpvWVBaeDh4U2hkRXpad1hxSCtacW1kSlpKM1U4MSIsIm1hYyI6IjNmNmNkNzgyNWU4MDA1ZjJlZDg5MDA1MmQ5YWZiNzBkMzczNzZhZmM5ODQ5YWM0N2I2ODg1NGY1NzA2NjMzODIifQ%3D%3D&amp;signature=ecfa6efdee5abbfdcfb3142d116cef4ffe35c31e27a5702101e8dea3697f65b9</image>
-    <start>11:35PM</start>
-    <finish>01:25AM</finish>
-    <date>11 October 2026</date>
+    <title>Newsday</title>
+    <desc>The latest international news from London and Singapore.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6ImdUT3luVUFma3E1QkcreVA2UmVDM2c9PSIsInZhbHVlIjoiN3o1NERia0ZZbThYd3NORFpRXC9qalZVYjlWbmdmbytVVzJNdXVSV244UmErOGJIdHVLZnJaYWExSGZLeXlFVmZabENZRUJPSGF1bTRqTE1sWlU0bkpkWVpYcXFQMUVZZWU5bmRUNTNEQjRaWkdOaDFWZGlUa3VvWWJYb1VCS1o2SGprXC9QdUdcLzdvT0x1YjExUFdxSStyRG93M2szXC9pd1l0UHprNW1JcU81bitacnhDemZWWStaRlFQUVBUTkU2cSIsIm1hYyI6ImExYTE1MjQxNGM2NTdlNmRjOWQxMTcyNTk0MTM4MjAwZGU5MmZmN2Y1MDIwZDBjMGI3Y2M1M2I0YzdiNGUzMDgifQ%3D%3D&amp;signature=49d881b156d1ad5e28028c2a2e0e65175e85518100d5f4625403d1445ca7a47e</image>
+    <start>03:00AM</start>
+    <finish>03:30AM</finish>
+    <date>12 October 2026</date>
   </channel>
   <channel>
-    <name>BBC Parliament UK</name>
-    <id>BBCParliament.uk</id>
-    <title>Scottish First Minister's Questions</title>
-    <desc>Questions from party leaders to the first minister, John Swinney, on Thursday 8 October.
- (R).</desc>
-    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
-    <start>11:30PM</start>
-    <finish>12:00AM</finish>
-    <date>11 October 2026</date>
+    <name>BBC Two NL</name>
+    <id>BBCTwo.nl</id>
+    <title>This Is BBC TWO</title>
+    <desc>A preview of upcoming programmes from BBC Two.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6InVaMnFyeGV0XC9xVm9YVDFyMjZZY0lnPT0iLCJ2YWx1ZSI6Ikh6SCt2U3A2ZTNlazZtbFREcGFCelEydUY0dFd5bnR0T01Gb1lDU25scEFLXC9kXC90OTd2UVJaM2gxVGpPdjVDUlRMYmhrbFdlOVpsc0dXNFJ1cXh6d0s4M3AzUXppandmUlB0VmxUUjd2MndQT3dyd2xlTVUzMGhac0ZxUFk0aDRxMFpaZTduXC8rY1wvUHd5YzR1V2JvT2JxUGx3MmdYa1JiQmorZWVlTWFFQkFyMGd4dG14VjdcL29tcTlMazhLKzBVIiwibWFjIjoiMDViODNkYWM1ZGFjZjRiNGRhMjg5NGQwMDYyN2ExMGQ3NmQ0MDhlMDVhNmNjZmEzZWIzMzNhNjkyNzIyOTRlMCJ9&amp;signature=7a1aa743a77db729a04a03806e32f3d98a6fd28d9cbfff60d8dd207e24be9eeb</image>
+    <start>03:05AM</start>
+    <finish>06:20AM</finish>
+    <date>12 October 2026</date>
   </channel>
   <channel>
     <name>CBBC UK</name>
@@ -59,146 +28,6 @@
     <image>https://epg.best/assets/program-icons?program=eyJpdiI6IjdGcmFReE4zeVpYNk1SbzJIOHFRN2c9PSIsInZhbHVlIjoicDBvWm5oUng4dFNvT2wxRFJnSjNVdlJMaWJxWVF1UnZoTFAwcGJmQ29qZGhyd1J2b005eGVWSmVlSys3MnFuU09LYUtKREE2Sm1ZdjJnb1dPVjZ3ZmxLajIweXFHU0V2cFl2MVJQOHlzdGRrZWwxdHBJUzNkM0dnalo0bStpbXQiLCJtYWMiOiIwMWI1MjVkOTA4OWI3YjQ2MWZjZDliZmU0YjI4MjRhNjI3ODgyMzMyYTBhNTk5Zjk3OWNmZjI4YTFhOThhYjg0In0%3D&amp;signature=4637c752a9e736277a185174ddb87f6ae9624b5cdebe70d1bb19068b70a020c8</image>
     <start>06:10PM</start>
     <finish>05:30AM</finish>
-    <date>11 October 2026</date>
-  </channel>
-  <channel>
-    <name>CBeebies UK</name>
-    <id>CBeebies.uk</id>
-    <title>..programmes start at 6.00am</title>
-    <desc></desc>
-    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
-    <start>06:58PM</start>
-    <finish>12:58AM</finish>
-    <date>11 October 2026</date>
-  </channel>
-  <channel>
-    <name>Classica IT</name>
-    <id>Classica.it</id>
-    <title>Almanacco di Bellezza</title>
-    <desc>Piero Maranghi, direttore di Sky Classica, passa in rassegna, anniversari e ricorrenze legati la mondo dell'arte, della cultura, della storia e dello sport. In studio con lui, il collezionista ed esperto d'arte Leonardo Piccinini.[(96057)] </desc>
-    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IkxTcWlEMkZhbWxjbHZMOWMxY04wMGc9PSIsInZhbHVlIjoiZTV2WVE4NWVlclwvTVVCeFRSOCtzakFwdFN3Y2VMNG9waW1JbjN5bzkzNkdDeFcweWNTNVhyd1gzQVR1STY3UE10a0hOY1JqdGcyWDVnVUxTUUpyUnloeDA0dTFJZGIxK1dlVUR2eGpXVUVNb3NGcXoyM0Y3QVBPTGZ3WHZMeFQ0IiwibWFjIjoiM2VkZTQ4YzIwYjQ5MDU3ZmE5ODhjMzA3YzdhYjRhNjUwZGZmOThlZWRmNjgzNmQ1Nzk4MDM3NzRhMmYwODgxZCJ9&amp;signature=c3a1005f5cd761ed025e696fde838ed9bcbdfb0364c6ebb0d0a91ebd6dd1d337</image>
-    <start>11:30PM</start>
-    <finish>12:15AM</finish>
-    <date>11 October 2026</date>
-  </channel>
-  <channel>
-    <name>EWTN UK</name>
-    <id>EWTN.uk</id>
-    <title>Sunday Mass</title>
-    <desc>The Franciscan Missionaries of the Eternal Word celebrate the Holy Sacrifice of the Mass each Sunday from Our Lady of the Angels Chapel.[(96057)] </desc>
-    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
-    <start>11:00PM</start>
-    <finish>12:20AM</finish>
-    <date>11 October 2026</date>
-  </channel>
-  <channel>
-    <name>EuroNews UK</name>
-    <id>EuroNews.uk</id>
-    <title>The Ring</title>
-    <desc>Euronews' weekly show where Europe's most outspoken voices clash on the continent's biggest political debates.[(96057)] </desc>
-    <image>https://epg.best/assets/program-icons?program=eyJpdiI6Imx5cWtzUFh0R25YNmJJQ2lpcGNmaFE9PSIsInZhbHVlIjoidFlHdkY4VEFFUG5CVWYyblg0VjNGcUdNV3R3VXlJT1dYQ1pZQmZVNHgzalNWK0xvN1JiR0FiV2FxTkp0bnltcjNQOXB0STkzNHdWTDhFdFh3OEJpTG1aWUVMazB3VkVkWmhqVktleDJuYVhnU0dqSW1STlNYUDUxN1hPbVJ5TG1rZ3NFR2FqbGdTY1lnS3dmUkhoK3BRPT0iLCJtYWMiOiJlNDY1MTQyYzM4MDcxOWNjOWExYzE4N2U2OTIyNGNhMmU1YjBmNzQxMjdjYjkwYWNmMTYzYjkzZjNiOTM2YTRjIn0%3D&amp;signature=a73b27258bd5d36e8b48ecf61ca659921334dab5293ee86b8111b84813f407c0</image>
-    <start>11:34PM</start>
-    <finish>12:00AM</finish>
-    <date>11 October 2026</date>
-  </channel>
-  <channel>
-    <name>France 24 Fr</name>
-    <id>France24.fr</id>
-    <title>Actuelles</title>
-    <desc>Le journal de celles qui font l'actualit? internationale et de ceux qui font bouger le monde, encore largement domin? par les hommes.</desc>
-    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IkFhZU9YUjd4aVwvbEVNRHNvVGtFc3BnPT0iLCJ2YWx1ZSI6InZWcDN5djg5akhwZitYUERwalVIOWxxaWpGNG5hUlhpSjlydHJYdE9Oanh0aGFqcGJ6c1lCSEZyUXpjb0RBamw0QjVaWUxlT3JXVDRvQUkwUUxmcVdQOXN4SU10SnZOK2hqWFJKSnhiRm5KWkY5RzgzVjZMWHJmOCt0RTVDdVFLWWtKXC8xMXFcL0tRT0RFM0l4cDc5QXJlbWNjT2NEYnlDc2x6M0dLdG9WZTdrakszK1J5WGNBdStpRTFwbFpkTEphIiwibWFjIjoiYjNmMTI4MjNhOTFhYjhiYmNhMjhhOGIyZmJjMDQxOTVjMmU5MjRmNjI3NTdjMjEwNzVhZjI4NDQxZmY5MzM4MSJ9&amp;signature=5734392980aa3f4c25f8b77565e64dac52f81d0ec2e7c772e026dda7538db115</image>
-    <start>11:45PM</start>
-    <finish>12:00AM</finish>
-    <date>11 October 2026</date>
-  </channel>
-  <channel>
-    <name>ITV 1 UK</name>
-    <id>ITV1.uk</id>
-    <title>The Party</title>
-    <desc>Ben's lavish birthday party is derailed by a shock announcement. Lifelong friend Martin warns Ben to avoid a rash response - or risk the exposure of secrets from their past.[(96057)] </desc>
-    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IjNGY0RlamVwdlMyT25iY1RRbVpsdXc9PSIsInZhbHVlIjoicnlhQnNIdzZNbmRXd241WjFzVTh5cDhpR0c3NGtPTEczV3hPWnFtSXNoVm9saURVVlJiaUc2cGdReGd6dkRzanZmakxEaHlCNXh1WTZhdEFLM1RDbjMzUytSajNEV25aOXJnYUQ5Y2hYNmkzTjNHb1Nib2lyRTJxRkFFVlwvZjNoaDBDdGlSYU1wem1SSjRlZGVFOVZLUT09IiwibWFjIjoiYTM1ZjE3ZTA4ZWY0ZjcwYjVmZDE5NmU5ZWJkN2I4NTk5OGY0YzIyOWFkMzQ2NGJjYmNiYzUyY2U5ZGI0NjY5OSJ9&amp;signature=6bf2f65fa07dc71c858ea2b988b793d529f3427e34d665d1cc9fb53687bca49b</image>
-    <start>11:40PM</start>
-    <finish>12:45AM</finish>
-    <date>11 October 2026</date>
-  </channel>
-  <channel>
-    <name>Kuriakos Tv PT</name>
-    <id>KuriakosTv.pt</id>
-    <title>A Hist?ria e o Conhecimento</title>
-    <desc>Document?rios. O Poder da Semente.</desc>
-    <image>https://epg.best/assets/program-icons?program=eyJpdiI6ImhlVlNuOGwyM2xoUXBTZXpuVlU2eEE9PSIsInZhbHVlIjoiQm5GS2YreXVtOXVsTkNQWVRtTEhJWFJ1YXhkQjFBbEtiNnYySnpWTDU2eFFoNEllRXhmNW53MVh6ZWwwNjBHUkY5cTQzTUI3V09nV0U3Wjl4S2V6b0R2Z1NhRjRaVm1iSEE0aWx6QTZxaitLbVpyeHFPMjNcL3ZITmtpMUtYbkFodFpUdytkZkhUMEtDTFo1Qzk1SHBIYTlOSlN4UVc3S1pWTEJtdmx4Y1ZtbzBta2E3bUhTVXNcL0Q4T2Q3TzkrQmsrY1FwUmVVOUp2b01MWXJVVDlwUDNBbURpcnpyYUsxcUNNXC85dGgxSVwvdjFDSm14SGhsOWlOV2NLaGV1enU5VEkiLCJtYWMiOiJmNGI3YjkyMWE3OTM0YmQyYmUxNzg0Yzk1Njc2MTQ5YTRjMTlkZjQ2MGI0ZDMwOTk3MDUwMWY3ZWFkYzRiODc5In0%3D&amp;signature=b272f94daf59524642650ad3716696fd98329c015c74d90ee4db33231059a6d8</image>
-    <start>11:30PM</start>
-    <finish>12:00AM</finish>
-    <date>11 October 2026</date>
-  </channel>
-  <channel>
-    <name>La Otra ES</name>
-    <id>LaOtra.es</id>
-    <title>Cine</title>
-    <desc></desc>
-    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
-    <start>10:36PM</start>
-    <finish>12:28AM</finish>
-    <date>11 October 2026</date>
-  </channel>
-  <channel>
-    <name>Movies 24 UK</name>
-    <id>Movies24.uk</id>
-    <title>My Christmas Hero</title>
-    <desc>When a young disillusioned war vet sees nothing good in his life during Christmas, a visit by his guardian angel shows him that his life really did make a difference.[(96057)] </desc>
-    <image>https://epg.best/assets/program-icons?program=eyJpdiI6ImNiRTN0cVBUMElcL1o2WGJCWnRuczFnPT0iLCJ2YWx1ZSI6InZBK01ic2ZSb2RXcElIeVZYTGF1YUZOampqbFdCOUtmZ1BnMXR1aG4yZDFNUG1CZFNqdEdmbE5TN3VFRUJWUndDalBjTXZ1WFk3TFloS3FXaG12Tk5NdU1BQldFSnpNWUFueE9kSUZVcXFpRUVCNFkrTXVqRERVenZ0Z01OdVQ2WnZoeVdBd3l0MzllNFdNdlVka3hRUT09IiwibWFjIjoiNTVlMmVlNjYwOGI3YWU5MWUxY2E5NGRkOThmOTViNDcwMGU4ZGU5YzMzYjljMzA1MTk2OWQwZGIzMmQxYzg4MSJ9&amp;signature=0d8bb69952c993020ee62a17bd4fb7c930092f4cb815331f52d0c15d307d06d9</image>
-    <start>11:00PM</start>
-    <finish>01:00AM</finish>
-    <date>11 October 2026</date>
-  </channel>
-  <channel>
-    <name>Nick Jr UK</name>
-    <id>NickJunior.uk</id>
-    <title>Ben &amp; Holly's Little Kingdom</title>
-    <desc>A young witch is planning on moving into Mrs Witch's house so Mrs Witch comes out of retirement to save it.[(96057)] </desc>
-    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IlJWZWhqckNiV3ZDVHEzc3NkSkRpemc9PSIsInZhbHVlIjoicGJCcHZEOE5zenBLSGxIUXBKckF1eDNcL1MxNGVMVm0ya2FyWUh6SG5OM1NYVTFiNFQ4SzBHNVV2M1dzZEZuXC9LQzZVXC9CeVlTQU5cL0ZzWHNcL0JmRDR3S2g4YUNYblpZTVduUnBCUXFtSnQzMmRCZVdDdnpjdHVQcHBvT2dzR3dwZUh5VUlGSWVDY1ZiNnkzM3BrQ20yRVE9PSIsIm1hYyI6ImY5OGQzNmQzZDMxODk0OWZmYzZmZWJmNjZiOWFkN2IyMWZmZmIxNDVhZjcxNTQ4MjU5NDQ5ODRjMDQxMzE5YmMifQ%3D%3D&amp;signature=0292f897486b439de3f7c4928f439b8e1c92109481125b75e1810621106ef4d2</image>
-    <start>11:45PM</start>
-    <finish>12:00AM</finish>
-    <date>11 October 2026</date>
-  </channel>
-  <channel>
-    <name>Porto Canal PT</name>
-    <id>Porto.pt</id>
-    <title>Especial FC Porto</title>
-    <desc>Toda atualidade sobre o FC Porto.</desc>
-    <image>https://epg.best/assets/program-icons?program=eyJpdiI6Ik1Qb3JMR3R6YU45MHY3dk1Wb01VTWc9PSIsInZhbHVlIjoiY3IzbnhlNGNtdjJodXdLTGt1UHdpeUUzOUtBMFErdDZRRGM5ZlwvVWJuTmRUNEZVXC9nWStPOXg2M09hNWhqZlwvOUh3T05QN1wvb2sxcHFQY251Nllld3l3R2NHTVNLOWFpMGtVdUs2aGlwa05ncnNySEVOSnFWaUt2RGlCb3R5RzJWU2JCZ1dxOVdBOHBtamxkNExpMUtRUXdHb1NMYUFoWVlOelJiVlg0NmNzUldnQ1wvXC82T1hGekhcL0JlTm5LY2ZBUlZqc0taVVZDdG1HUHY4QUMrMmxnUlBpSFY0WFRHcDJOczlPN2tGUUJrd1prY052RG8rZzJwbkprQnRkOXh4cVMiLCJtYWMiOiI2M2Q1MmZmMTBjZGI1NWIwZDY3ZGIxMTViZjYwOTJiOTJiNTE5MWM1ZDQzZDRjYTJhNjFjMmZjMzlmZTYwNjFiIn0%3D&amp;signature=d88319499e70ed678364a03c931794c4b251962e1dbc839ed0d57eb7204fb1bb</image>
-    <start>09:10PM</start>
-    <finish>12:00AM</finish>
-    <date>11 October 2026</date>
-  </channel>
-  <channel>
-    <name>QVC UK</name>
-    <id>QVC.uk</id>
-    <title>Christmas Spectacular on 6 Easy Pay</title>
-    <desc>Christmas Spectacular on 6 Easy Pay.</desc>
-    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
-    <start>11:00PM</start>
-    <finish>12:00AM</finish>
-    <date>11 October 2026</date>
-  </channel>
-  <channel>
-    <name>QVC Beauty UK</name>
-    <id>QVCBeauty.uk</id>
-    <title>Best Of QVC Beauty</title>
-    <desc>All the highlights and star products.</desc>
-    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
-    <start>11:00PM</start>
-    <finish>12:00AM</finish>
-    <date>11 October 2026</date>
-  </channel>
-  <channel>
-    <name>QVC Style UK</name>
-    <id>QVCStyle.uk</id>
-    <title>Best of QVC Style</title>
-    <desc>Catch all the recent highlights from our sister channel with the Best of QVC Style.[(96057)] </desc>
-    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
-    <start>11:00PM</start>
-    <finish>12:00AM</finish>
     <date>11 October 2026</date>
   </channel>
   <channel>
@@ -212,103 +41,13 @@
     <date>11 October 2026</date>
   </channel>
   <channel>
-    <name>RTP Internacional PT</name>
-    <id>RTPInternacional.pt</id>
-    <title>Hora de Agir</title>
-    <desc>A Biodiversidade das Cavernas.</desc>
-    <image>https://epg.best/assets/program-icons?program=eyJpdiI6InJHMStObitTUTY0aXZ5cFFmYzNNTVE9PSIsInZhbHVlIjoiTkdZcm51TlBKTHd6TnFORHZOWFlQQUt0Rnl1XC9HZVJVejhTU0xFek9ReWhZK25MbXlLYVBqUXJiWTl2R1U0SXdjMVFcL2FOOENQYWYwU2ZlNGZIeForTUVNQWRlN09JOXRnc0tIU05cL1FWY0Z2dm5QTDZvcWhnSFY4YzNpd0xCTHAiLCJtYWMiOiI4YjBmMjJkNjY4Y2Q2ODA0OTk0NjRjOWQ2N2RmZDMxNzE0YjUxMjQxZGRlNDdkZWM2YjBkZmM1YzVlMmZkZDRmIn0%3D&amp;signature=646bfc29e466648f5e37e7997053ecfe627f4e3064f254a7e236180ed8463a33</image>
-    <start>11:45PM</start>
-    <finish>12:00AM</finish>
-    <date>11 October 2026</date>
-  </channel>
-  <channel>
-    <name>Rtp 3 PT</name>
-    <id>Rtp3.pt</id>
-    <title>Not?cias Noite 2? Edi??o</title>
-    <desc>?ltimo olhar ?s not?cias que marcam o dia e a noite informativa. Com Clara Os?rio e Pedro Esteves.[(96057)] </desc>
-    <image>https://epg.best/assets/program-icons?program=eyJpdiI6Ilwva0pyU1Q3NmdDS1VSckU2elNVVVZ3PT0iLCJ2YWx1ZSI6IkZ1TkxaNkJuVVE0R2JGVW1EN012Z0ROM1dNdXZrcmpPUXJcL1lweDFPWTJON2l2cHBuZ1BBd3d2ZG16TWFnSXNOTGNxK0FmbVE1OUx0Q29NNkNlQ3p6b25ndis0XC8zNjVRWWhWUUZDcHh1azlQWHFLZFRPdmp3SXJYMjhXaDhFTnplZm9YRzZBSWNnenVnV3dCdlh3UExldVwvVnJZKzFMNGd5WnZ5UVwvSzMrY1haOUF2R3VaVnR3NElKZUJOWFpNWTN4Ykg1S3NyNmI4OVZqUUdsVmxSSnZlblwvV1h4U3JtRTM5a1VTWjllNUJCWnJwZGhTWUV5VVwvWlp5SDhWb3Z4TjYiLCJtYWMiOiI0OGZkMmY0MmZjYmNiZDdmMDk1ZjAwOGJhOGJlYzRmNDhjZTQwNzRjMjJhM2IyY2U5YmVhYzZmNmVkYzhkMTBkIn0%3D&amp;signature=62e4c4388c28f50e14fc8a477a9d947f81a7ec947a36b18c905b33fb6a159038</image>
-    <start>11:00PM</start>
-    <finish>11:55PM</finish>
-    <date>11 October 2026</date>
-  </channel>
-  <channel>
-    <name>Rtp África PT</name>
-    <id>RtpAfrica.pt</id>
-    <title>Duplas ? Portuguesa</title>
-    <desc>H? cerca de 600 anos, Portugal enfrentou uma das suas maiores crises pol?ticas que foi, tamb?m, um ponto de viragem na sua Hist?ria, uma Refunda??o, e o momento da cria??o da dupla Mestre de Avis e Nuno ?lvares Pereira.[(96057)] </desc>
-    <image>https://epg.best/assets/program-icons?program=eyJpdiI6Imc1czZvMXlTeXdIQWdRMHpNRlwvdVhRPT0iLCJ2YWx1ZSI6IjUwOHl5Z1FGNVpibDdqa3pwOUF6aGR2OFBNU05QZzNaSkg3WllxM2tGVVwvY1hFeFFpRnV5UnVZeGEzWkdHWlhUSDVcL0FSRmRmclZGUXJyWUkyNWwyOEJXUVB5ZnRGN0cxejY5dUNpTEJYTUZJZXdPV1F6WWhIa0Y5aE1BQ0dVVVpcL2FrQm1zUzZodnNUdG9CZHBXNFF2SVwvMVlxVDI4a1RsS1FOeFFKb2JOblhQVGp3UWhwYVdlWTRXZ29nejFjMkpKOHFiU09BV3RWMkxJcVJuSEc1VEJvTlNtWGdPRk1HVEt2VnpNS0dqelltb1JcL2Jnek9Icmxlb0JkcnBqWHU2ZyIsIm1hYyI6IjFhNzZhMzg5NzllYTA3OWYwNmI1NDhlMTY1YTA0YzM1NjU4NmQ2MDUwZWQ5MWJlZDYwYTRmZmVlNWU5ZjNjZDcifQ%3D%3D&amp;signature=6d28b1c0eb91cd6d728cac49fd22916583dc3d734b776a41a71d243956501fdf</image>
-    <start>11:30PM</start>
-    <finish>12:00AM</finish>
-    <date>11 October 2026</date>
-  </channel>
-  <channel>
-    <name>Rtp Madeira PT</name>
-    <id>RtpMadeira.pt</id>
-    <title>Telejornal Madeira</title>
-    <desc>Para os espectadores da Regi?o e da di?spora madeirense espalhada pelo mundo. O Telejornal da televis?o mais pr?xima de si est? no ar desde 1972 com uma informa??o de proximidade e a garantia de qualidade do servi?o p?blico.[(96057)] </desc>
-    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IkFLZGFROXh3TkUzMFB1RVpDN0RSVEE9PSIsInZhbHVlIjoiTlhKTmVhYmVTRk5YZjZuZ08yUm1JWU5XbTIwcmxXeTFaUnRtSFNkdlFnN3Y4cDVNVjM2SnVjc3M5MlBLZjRDcUlWYkVOaGt0ZjJwbjhMS2FcL2RBeHNwWEhGZjlJOTc1a2UrUEJwK0h0TVNUY3BacHJGakUyXC8yYkEyVXRpRXZNRE5CbitDWTRIWWV2cFNxUUJucHhybzZiUjkzaW8yQjg4XC8yVk0zS3dXZUZ5d1FJcTlJU0hKamNKYUpwaWJ6THpJUlpvT3hvZlwvT2VnekFwRmpPVXlYVEVkRnk0QmlVNTFaekY3R242NzNkeFRvRHU1OWlvXC9tdWxQdFhVZGJVRXdqIiwibWFjIjoiNTc2MjYzYTlhNDY2NzMyOGEwMTI0Y2MzOGU4ZmFkMTE1MTVkMzlkOTUzMThmZDAzYmQ2NDUxY2MxNjk5M2EwMSJ9&amp;signature=190e9c873f183eb02f9a0321b73a6f21304937baabd16d4ca7395ffc21552401</image>
-    <start>11:10PM</start>
-    <finish>12:00AM</finish>
-    <date>11 October 2026</date>
-  </channel>
-  <channel>
-    <name>Sky News UK</name>
-    <id>SkyNews.uk</id>
-    <title>The Wrap With Gillian Joseph</title>
-    <desc>Debate, analysis and insight on the biggest news stories of the day from the UK and around the world.[(96057)] </desc>
-    <image>https://epg.best/assets/program-icons?program=eyJpdiI6InFVM2h6OXI2QUNOZVBJbXdDdkN5K2c9PSIsInZhbHVlIjoiOWNNMVNiXC9mQWFOQU9TTXFxc3VQQUVxUlBLa09VeDIzZHI4bWdYYVBMTFpoeGJ3V2cwWlAwb0RsSVhwenFEaExkbCt4cHRaRHVGQVcwb2RMS2xYakxPSGE4cWNIUHBGRzlkcjBpeHJESzhnXC9TV1dwUjBSMk9xWjg3QnJtaG05RUdhZldVK09jdGhZYzhuQjQ4TDlqSnc9PSIsIm1hYyI6IjNmNmE2ZmYzOWJlMmQzMzQ4MjEwNDQ0ZmYyY2E3NWQ0ZTg3YWFjZWU2OTdiNmIwMWM2ZDQ0ZjQ2NjE0YzUzOWEifQ%3D%3D&amp;signature=225e59ab0eb7001b571d5a088db5954e7e263f17c40aa688876f8adf639e2dc5</image>
-    <start>11:30PM</start>
-    <finish>12:00AM</finish>
-    <date>11 October 2026</date>
-  </channel>
-  <channel>
     <name>TF 1 FR</name>
     <id>TF1.fr</id>
-    <title>Fast &amp; Furious X</title>
-    <desc>Au cours de nombreuses missions et contre toute attente, Dom Toretto et sa famille ont d?jou? et d?pass? tous les ennemis sur leur chemin. Maintenant, ils doivent affronter l'adversaire le plus mortel qu'ils aient jamais affront?. Aliment?e par la vengeance, une menace terrifiante ?merge des ombres du pass? pour briser le monde de Dom et d?truire tout et tout le monde qu'il aime.</desc>
-    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IndYcnNLQ09VNE5jNW1DXC9GVUpYVnR3PT0iLCJ2YWx1ZSI6Ikk5UXJad3pQdzFzTlZ0eEg1VkZ1RTA2aUFua1p0Q2FDdVM2WVVFS1ZxclpxdDRUU0pTbHpRSjlZdTlDTVBKZTdpNFliODFcL3JaV1FUQmpcL1FDQmN2SXJBNjc4eEdnbXJIK2NxS1ZcLzNjSkZWOHc1d2pLT2lMRHZ1bk5GaUhpM1VBIiwibWFjIjoiY2Q2OWVlMmIwOTgyMTkwZWMwNTNiOGVkNzhkNjk4MzliYTY4MDIyNTdlOTRkNWViZjNlYmFhMzBmOTFkNzA2ZiJ9&amp;signature=808d6b83df158d52cf8c6cfad4bbce1b18c55fbacd0af84a78c96b2a54fd526b</image>
-    <start>10:20PM</start>
-    <finish>12:50AM</finish>
-    <date>11 October 2026</date>
-  </channel>
-  <channel>
-    <name>TG4 IE</name>
-    <id>TG4.ie</id>
-    <title>Gl?in an tSosa Cogaidh</title>
-    <desc>Tugtar &quot;p?ist? an tSosa Cogaidh&quot; orthu si?d a rugadh i dTuaisceart na h?ireann idir1994 &amp; 1998.[(96057)] </desc>
-    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IkswVzZLVGRDK3FrXC84YXdnb3pqWGJ3PT0iLCJ2YWx1ZSI6IlFsZE96MWxnQTlXUFZJN0EzUERTZHNDd2FjOG5relpGK3M2YkFHdFN1QVhpVTNodnNaU0xcL1V3MWc3SlFHaWcwVkorU3c2UStDWEhrNUVjenNTNzU5RkdGNCtvdDFCa014dDdxRHpaV3hLZitWeEx5M2tcL3U0dWlVVVArOG5TWFFGRmtCVE4wajZ1dGMxdGY5aHV0anVBPT0iLCJtYWMiOiIxMTFhZDBmM2VjOTY2ZDQwNjk3NTY0YWRhYTQzNzM4YTk1ZDg4NzlkZDBhYTY3OTQ2ZmI1ZDEwN2ZiY2IyYzkxIn0%3D&amp;signature=e0819c28f98041f59c54a9b1efff35de3d3e69eb7c0906f840a79832ceb27e12</image>
-    <start>11:00PM</start>
-    <finish>12:00AM</finish>
-    <date>11 October 2026</date>
-  </channel>
-  <channel>
-    <name>TRT Cocuk TR</name>
-    <id>TRTCocuk.tr</id>
-    <title>Program</title>
-    <desc></desc>
-    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
-    <start>05:00AM</start>
-    <finish>11:59PM</finish>
-    <date>09 October 2026</date>
-  </channel>
-  <channel>
-    <name>TV 5 Monde F-Be-Ch Fr</name>
-    <id>TV5Monde.fr</id>
-    <title>36.9</title>
-    <desc>Le magazine m?dical 36.9? aborde la sant? du point de vue du patient et non du m?decin, en s'ouvrant ?galement aux aspects politiques, ?conomiques, ?thiques et m?dicaux.</desc>
-    <image>https://epg.best/assets/program-icons?program=eyJpdiI6InhXS2R3SkZLVUVyZnJWeGtHNDNSREE9PSIsInZhbHVlIjoic2p5V2ZHVUN0RlltZVwvQVAyTndqWUhKdmdQQjVTUlNVbFpOa2FUNUlUaWhMbVwvZGNodmh2RUd2RzNzbTZWXC9UcnJDb0JPTHJyRWVvWmVzdEJPdWRnMlkxWk4yeTFSSUxQNG9YOWFzMzlDaEhuYzFsdGpzaEhFeXNucEdLR3JxZEEiLCJtYWMiOiJmNDMwMzU2NzE3ZWYzNjVhODJmMjg5NjRiMzMxMTJkYzA4YzQ1NWUxODlmOGMyNjlmM2YzMjZmNzBmMTI4NjJmIn0%3D&amp;signature=33f83a78ffe03138a975048aea5ad138951624b415909536663a1e982646221c</image>
-    <start>10:28PM</start>
-    <finish>11:50PM</finish>
-    <date>11 October 2026</date>
-  </channel>
-  <channel>
-    <name>Together TV UK</name>
-    <id>TogetherTV.uk</id>
-    <title>The Deadly Females</title>
-    <desc>An apparently respectable middle-class housewife controls a select group of attractive women who moonlight as hired assassins. Rula Lenska stars. Contains nudity.[(96057)] </desc>
-    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IlBpWmJQTlVpNkhQbVBNYlM5Qmt3SkE9PSIsInZhbHVlIjoiM3JjQ1JpZXRtcEFtVW5DK3N2NW9CTVgrUUJyNUZnbXhWbVlOK2tCUjUrTm01bjBKWW53aUJNUmVlcit1NFRGSElwUVo5SG1XQVwvK2J6UHdrR1BXTEw0dW4rbWhtYXpvZ2Y2V1dhTFFvcmVwaGdZT1wva1VFVzF2WEtKNVN6dFc3MnQ1ZzNOT1wvdkl0RkVFQXMzUFlLVW9BPT0iLCJtYWMiOiI3Nzg5MmJiYTg1NzljMDM1MjliYzcwODE0MTkxOGU0OTVkMzFjNzU4NDcyMGE5MjM4NzAxOWUyNGVjNzU4M2IzIn0%3D&amp;signature=d366e881ba189e06817bd79a5e7b5e8f4b3e9b177f4bc2dd7adb466355e85cc5</image>
-    <start>10:00PM</start>
-    <finish>12:00AM</finish>
-    <date>11 October 2026</date>
+    <title>Programmes de nuit - TF1</title>
+    <desc>Programmes de nuit.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IlFldDM2YWJTM3o4NER6Vk9pcDFKVFE9PSIsInZhbHVlIjoiTTFwQ1ZNVkxXazgxUnpcL3FscWM0WXpMZEpHdm1cL2YwY2ZWOGM2SGVxZlZ2cUhkbFFNYXhQYjVoMzMzWHZpeXZRVjdwaWRsV0RweWxBdWZoTVVrTTdjQkZJZXBJaEpOR2RSeTVMTjZpNkJXRW95NGtKMjNwaUR4aUFEbFVTdVhtRyIsIm1hYyI6Ijk0M2FmYmEzMTQ1ZDc3OTEzNzBhNmM5NjY0MmZlNTgzNTBjODdiMDQxZTQyNzhhNWEzOTM0NDE1MWZiMDYxMTYifQ%3D%3D&amp;signature=ef47bb51353468c29e11d9aa733e1306f7ccaa35685f3ae89e91a0190224087e</image>
+    <start>12:50AM</start>
+    <finish>04:50AM</finish>
+    <date>12 October 2026</date>
   </channel>
 </tv>
