@@ -1,2 +1,1503 @@
 <?xml version="1.0" ?>
-<tv/>
+<tv>
+  <channel>
+    <name>Hír TV</name>
+    <id>HirTV.hu</id>
+    <title>Komment</title>
+    <desc>Kem?ny v?g?sok, ?gyes sz?r?sok jobbr?l ?s balr?l. A m?sorvezet? vend?geivel veszi sorra a legfontosabb, ?rdekl?d?sre legink?bb sz?mot tart? k?z?leti t?rt?n?seket, esem?nyeket. Mindenki elmondhatja ?s el is mondja ?ll?spontj?t, a m?sorvezet? moder?l?sa mellett a n?z?k kem?ny vit?kra sz?m?thatnak. ?sszecsaphat a st?di?ban jobb ?s bal, konzervat?v ?s liber?lis, itt nem a lovagiass?g, hanem a sz?kimond?s sz?m?t.</desc>
+    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
+    <start>10:00AM</start>
+    <finish>11:00AM</finish>
+    <date>20 October 2026</date>
+  </channel>
+  <channel>
+    <name>Hír TV</name>
+    <id>HirTV.hu</id>
+    <title>H?rad?</title>
+    <desc>A m?sor naponta t?bbsz?r jelentkezik a K?rp?t-medence ?s a nagyvil?g legfrissebb h?reivel. Politikai ?s k?z?leti t?m?k, szoci?lis, p?nz?gyi, gazdas?gi k?rd?sek ker?lnek ter?t?kre, helysz?ni tud?s?t?sokkal ?s ?l? bejelentkez?sekkel kieg?sz?tve.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IjZiU0ozS2xLSE9cL3RFdUYyRDdVOHhRPT0iLCJ2YWx1ZSI6IjJXZkw3WXpQMUZFTTJ1a1BHTUZqS29IdEkyMzZxXC9nelRTV3hEY1wvSjhcL212bXlcL0lXVDVGMjh2YnJjQnM0N3I0d1pSY2duMEYrVTdqZ1FhV1M1c1RMVmo0VEZjZnQ0NHd5OUc0OXdUdGVVbjd6WEErVnBDNHlsV1lpR3l2ZWJLZ2NqK08xbXI0ekxKSGN0OUtheHhsY1E9PSIsIm1hYyI6IjdmM2I5NTRkZTVmZTkwM2VlYzE4NDBiZmZkZWMxODgxNmIzMzVlMTQ4ZWE1Mzc3MTQwY2U4OGMzZDA0OTEyNzEifQ%3D%3D&amp;signature=727ba96da0140f7ec482ace3bd0d4a36a47d81e5f3628cad66bcdc4cdd1adff4</image>
+    <start>11:00AM</start>
+    <finish>11:30AM</finish>
+    <date>20 October 2026</date>
+  </channel>
+  <channel>
+    <name>Hír TV</name>
+    <id>HirTV.hu</id>
+    <title>L?ncreakci?</title>
+    <desc>Legfrissebb h?rek az orosz-ukr?n h?bor?r?l.</desc>
+    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
+    <start>11:30AM</start>
+    <finish>01:00PM</finish>
+    <date>20 October 2026</date>
+  </channel>
+  <channel>
+    <name>Hír TV</name>
+    <id>HirTV.hu</id>
+    <title>H?rad?</title>
+    <desc>A m?sor naponta t?bbsz?r jelentkezik a K?rp?t-medence ?s a nagyvil?g legfrissebb h?reivel. Politikai ?s k?z?leti t?m?k, szoci?lis, p?nz?gyi, gazdas?gi k?rd?sek ker?lnek ter?t?kre, helysz?ni tud?s?t?sokkal ?s ?l? bejelentkez?sekkel kieg?sz?tve.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IkloZG9uWXlTWDR3YUt5TjU3MEZhbmc9PSIsInZhbHVlIjoibUZUalRuc1lRY3RMVTBBdmdMUlZoaG1neDhnV2RSUUJzXC9vRDlOdG5PN3RLdGhsd3FvaGV2VGJLcG5YbU1yRkZxTDE2UmE1VjBINHhGMEYrYXl2RXlcLzF6b0dreXpCSlNCUE50MjEyTWhuMUlKWWF1T21IS21SQjRuUVwvYTFcL2hyZHR4QjEySG1VOFFTbklkeDBcLzFtNWc9PSIsIm1hYyI6ImMzMGEwNTYwOTk0ZGUzMzkyMGU5NTk5NTA4MGY2ZGQyMzUzMzcxNzA2NDhiZWU3ZjMxZWZmNmUyYzc5YjIzYjMifQ%3D%3D&amp;signature=90e5fbb33ba47898dce1a9bb1680ba2376816dc57a669dcaad1f76f46cecd81c</image>
+    <start>01:00PM</start>
+    <finish>01:30PM</finish>
+    <date>20 October 2026</date>
+  </channel>
+  <channel>
+    <name>Hír TV</name>
+    <id>HirTV.hu</id>
+    <title>Pal?ver hangol?</title>
+    <desc>Nincs le?r?s</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6ImpjY1JcL0d2a2hpK2E5b2NOUklaZTVBPT0iLCJ2YWx1ZSI6IkJtOEtacHRsSnZJZmg4Z1wvR3ZvYVdvVmcxUEZtempBOStFVEk2Z0wzUVNxOVhHSjZFVmgzb2xwenN6WjZ6Y2NVTHd2N0w1akxUQkZOelwvWW1BOTFiT2JUNW12bk8wWVwvZTFwUEJMZzEzUVJ4MThkUmg2VjBvaVlxUDVKRVBqUUxoIiwibWFjIjoiNjg2YTliNWQ2OGIxNjRkZWU5MzllNDQ2ZmU2Y2QwYTNmODJlZjNlNDQ4NjRmYzY2YWE3ZTM1MDBmMGM2YzFmNSJ9&amp;signature=7283dc8746fa4f11d90fc5d687e1a9eaaef4cfac643ee3b0d04ea49acf94872f</image>
+    <start>01:30PM</start>
+    <finish>02:00PM</finish>
+    <date>20 October 2026</date>
+  </channel>
+  <channel>
+    <name>Hír TV</name>
+    <id>HirTV.hu</id>
+    <title>H?rad?</title>
+    <desc>A m?sor naponta t?bbsz?r jelentkezik a K?rp?t-medence ?s a nagyvil?g legfrissebb h?reivel. Politikai ?s k?z?leti t?m?k, szoci?lis, p?nz?gyi, gazdas?gi k?rd?sek ker?lnek ter?t?kre, helysz?ni tud?s?t?sokkal ?s ?l? bejelentkez?sekkel kieg?sz?tve.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IkJZdWdqOHo0YnkzMTNGczhLWHAxYlE9PSIsInZhbHVlIjoiZUVLUGYyNHZQMUdsXC9EMWRiYmdVeUo5TUVic0RyUU1PVnVib0EyS3lUelVobTc5d0VKalVXWGhtTllCNnR1WVwvRW9TWStjSUtQMnJvakQ4dWFwN0pNWU5majN3V0NcL08yMUpBb3NocmtJUk0yb1NLK0lKTFBERFJETTQ3dEh3dzhWVDgyQjhMczViMnBKR2hFcGVWanJRPT0iLCJtYWMiOiI4Zjg2YjU1OWM5NGYzY2ZjNzNkNzMzZDQ5ZWVlYWI3NDVhN2VmZWE1NzgzODQwY2IxOGRjMjI0ZjUxOWNjMmNlIn0%3D&amp;signature=22403fd55ba8d815f49852ccd41a5ab748ebdf8f42a30968937bd0b9b1f8984c</image>
+    <start>02:00PM</start>
+    <finish>02:30PM</finish>
+    <date>20 October 2026</date>
+  </channel>
+  <channel>
+    <name>Hír TV</name>
+    <id>HirTV.hu</id>
+    <title>Pal?ver</title>
+    <desc>A Pal?ver a H?r TV ?s a H?r FM interakt?v, a k?z?gyeket, aktu?lpolitikai esem?nyeket t?rgyal?, a polg?rok v?lem?ny?t hallhat?v? t?v? m?sora. Nincs tabu t?ma, nincs tabu k?rd?s. Mindazokat v?rj?k a m?sorvezet?k, akik alak?tani akarj?k a k?zbesz?det, akik v?lem?ny?kkel hozz?j?ruln?nak a k?z?s gondolkod?shoz, akik vitatkozni akarnak k?z?s ?gyekr?l.</desc>
+    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
+    <start>02:30PM</start>
+    <finish>04:00PM</finish>
+    <date>20 October 2026</date>
+  </channel>
+  <channel>
+    <name>Hír TV</name>
+    <id>HirTV.hu</id>
+    <title>H?rad?</title>
+    <desc>A m?sor naponta t?bbsz?r jelentkezik a K?rp?t-medence ?s a nagyvil?g legfrissebb h?reivel. Politikai ?s k?z?leti t?m?k, szoci?lis, p?nz?gyi, gazdas?gi k?rd?sek ker?lnek ter?t?kre, helysz?ni tud?s?t?sokkal ?s ?l? bejelentkez?sekkel kieg?sz?tve.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6ImpFcmFzV1pwNlZVbm1WbFU0WVZSS2c9PSIsInZhbHVlIjoiMmJLVlRJMGtIelVGZFNjK3J1dXRnOXZ1Nk81ZXlERUZNQzEwTWpiVWFXVmNld2Q2NDlLd2k5THVoXC9IdnJjWWsySnV1cjRieFdBSG1wRTQ4bTBYeTRhK3pUSFJqK0VhcktwKzQ1UEhOd3dYWURaWTFaTTkyd1Zpb2l4T1MxaWZ3Mm81VHVJY2V5a0lwN1FXNldNYTJpdz09IiwibWFjIjoiMGU4ZWU3M2U3MGQ5ODU0ODM2OWRjNGVkOTI0NjBmY2FiNDc0NTQ1MGY5N2Y5YTM2ODFhZDIzOGRmNDZhYzU0MCJ9&amp;signature=12481b3e28755f8647b4872a1fa4599f18b7cd38c13387eda062c9ffd530d5ce</image>
+    <start>04:00PM</start>
+    <finish>05:00PM</finish>
+    <date>20 October 2026</date>
+  </channel>
+  <channel>
+    <name>Hír TV</name>
+    <id>HirTV.hu</id>
+    <title>Monitor</title>
+    <desc>A Monitorban politikusok, szak?rt?k elemzik a nap legfontosabb esem?nyeit. A m?sor kit?ntetett figyelmet ford?t a vid?k Magyarorsz?g?ra ?s a K?rp?t-medence magyar kisebbs?geket ?rint? f?bb esem?nyeire, a f?v?roson k?v?l t?rt?nt, orsz?gos ?rdekl?d?sre sz?mot tarthat? politikai esem?nyekre. A m?sor c?lcsoportja azok a rendszeres h?rfogyaszt?k, akik ?tlagos m?velts?ggel rendelkeznek a k?z?letr?l, ?s ?rdekl?dnek a m?lyebb ?sszef?gg?sek ir?nt.</desc>
+    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
+    <start>05:00PM</start>
+    <finish>06:00PM</finish>
+    <date>20 October 2026</date>
+  </channel>
+  <channel>
+    <name>Hír TV</name>
+    <id>HirTV.hu</id>
+    <title>Komment</title>
+    <desc>Kem?ny v?g?sok, ?gyes sz?r?sok jobbr?l ?s balr?l. A m?sorvezet? vend?geivel veszi sorra a legfontosabb, ?rdekl?d?sre legink?bb sz?mot tart? k?z?leti t?rt?n?seket, esem?nyeket. Mindenki elmondhatja ?s el is mondja ?ll?spontj?t, a m?sorvezet? moder?l?sa mellett a n?z?k kem?ny vit?kra sz?m?thatnak. ?sszecsaphat a st?di?ban jobb ?s bal, konzervat?v ?s liber?lis, itt nem a lovagiass?g, hanem a sz?kimond?s sz?m?t.</desc>
+    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
+    <start>06:00PM</start>
+    <finish>07:00PM</finish>
+    <date>20 October 2026</date>
+  </channel>
+  <channel>
+    <name>Hír TV</name>
+    <id>HirTV.hu</id>
+    <title>H?rad?</title>
+    <desc>A m?sor naponta t?bbsz?r jelentkezik a K?rp?t-medence ?s a nagyvil?g legfrissebb h?reivel. Politikai ?s k?z?leti t?m?k, szoci?lis, p?nz?gyi, gazdas?gi k?rd?sek ker?lnek ter?t?kre, helysz?ni tud?s?t?sokkal ?s ?l? bejelentkez?sekkel kieg?sz?tve.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6ImZiWTVtVlI0V1pGdWt1K3drbUlyaGc9PSIsInZhbHVlIjoiRzF1ZzNseUlMdkc5QkhQNGNWUnl6RHVWMU5FdkFyMmdtNlJCV3djc0llSTI2VUFqS2ZYNnlaeFo1cVM4aXJsVjZuV29qTnBET2RZbHFSR2ZcL2tpNFRXSHhSb2luN3dwOW1FV0VnQm83ckRVdHFlTlgwRCtkR2VwSER1T1NEbnArRnliXC96Z0tBUldiY1wvSEI2VlRBTnV3PT0iLCJtYWMiOiJjOWYwZWEyNTIwZjQ1MDdiYWE5YzEyOWFjYzQyZGFmZGQ1YjJjMGM2OTJmNGNlNDM4YWFjNWFlYzYyYjE0MjZmIn0%3D&amp;signature=be94af08828bf18fc9b994b5ff0e58688417f0128445866000bfdfd201af94d3</image>
+    <start>07:00PM</start>
+    <finish>08:00PM</finish>
+    <date>20 October 2026</date>
+  </channel>
+  <channel>
+    <name>Hír TV</name>
+    <id>HirTV.hu</id>
+    <title>Vez?rcikk - Olvasunk a sorok k?z?tt</title>
+    <desc>A m?sorban ?js?g?r?k elemzik az adott napon a sajt?ban megjelent cikkeket, de ezen fel?l Magyarorsz?gon egyed?l?ll?an bemutatj?k, hogy a m?snapi ?js?gok, weboldalak mir?l fognak ?rni.</desc>
+    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
+    <start>08:00PM</start>
+    <finish>09:00PM</finish>
+    <date>20 October 2026</date>
+  </channel>
+  <channel>
+    <name>Hír TV</name>
+    <id>HirTV.hu</id>
+    <title>H?rad?</title>
+    <desc>A m?sor naponta t?bbsz?r jelentkezik a K?rp?t-medence ?s a nagyvil?g legfrissebb h?reivel. Politikai ?s k?z?leti t?m?k, szoci?lis, p?nz?gyi, gazdas?gi k?rd?sek ker?lnek ter?t?kre, helysz?ni tud?s?t?sokkal ?s ?l? bejelentkez?sekkel kieg?sz?tve.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6InBoN3FQMlhkUFZpTGRGK1RrNzRVaGc9PSIsInZhbHVlIjoiXC9RZ2VmRnlEdHh0MVJkR3BKcVZiRmVBOGZFbHQ0ajczaDg5SUhRclJnM2ZWa0NWdjZRYm9iTGwra1g5NlF5K2NmVUhFcDRlSzIwUitVaVdRcElxdHhWdGh0VFVxdWNsYzUrTWU0aVNKdGQrK0YwN3pPQUd0Yjh5UzBIMVwvckUzTTNXOVlKdGVWTTN3SU41NTFDZytMdlE9PSIsIm1hYyI6ImIzYTRlNzkzOTIwNDMzNzJjZmZjY2U3YzEwZDE3MmI4ZjIwNDM1MmUxMDQxZTM5Zjc4NmJkMDZmMDM4MzcwNjcifQ%3D%3D&amp;signature=4ec6888544b3a366566b24005e5c4dca4a704521495c09091373d732a1739684</image>
+    <start>09:00PM</start>
+    <finish>09:30PM</finish>
+    <date>20 October 2026</date>
+  </channel>
+  <channel>
+    <name>Hír TV</name>
+    <id>HirTV.hu</id>
+    <title>L?ncreakci?</title>
+    <desc>Legfrissebb h?rek az orosz-ukr?n h?bor?r?l.</desc>
+    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
+    <start>09:30PM</start>
+    <finish>11:00PM</finish>
+    <date>20 October 2026</date>
+  </channel>
+  <channel>
+    <name>Hír TV</name>
+    <id>HirTV.hu</id>
+    <title>Monitor</title>
+    <desc>A Monitorban politikusok, szak?rt?k elemzik a nap legfontosabb esem?nyeit. A m?sor kit?ntetett figyelmet ford?t a vid?k Magyarorsz?g?ra ?s a K?rp?t-medence magyar kisebbs?geket ?rint? f?bb esem?nyeire, a f?v?roson k?v?l t?rt?nt, orsz?gos ?rdekl?d?sre sz?mot tarthat? politikai esem?nyekre. A m?sor c?lcsoportja azok a rendszeres h?rfogyaszt?k, akik ?tlagos m?velts?ggel rendelkeznek a k?z?letr?l, ?s ?rdekl?dnek a m?lyebb ?sszef?gg?sek ir?nt.</desc>
+    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
+    <start>11:00PM</start>
+    <finish>12:00AM</finish>
+    <date>20 October 2026</date>
+  </channel>
+  <channel>
+    <name>Hír TV</name>
+    <id>HirTV.hu</id>
+    <title>Telev?zi?s v?s?rl?si m?sorablak</title>
+    <desc>A hirdet?s ?runak, szolg?ltat?snak a forgalmaz?val vagy szolg?ltat?val val? kapcsolatteremt?s ?tj?n t?rt?n? ?rt?kes?t?s?re vagy m?s m?don t?rt?n? ig?nybev?tel?re tartalmaz k?zvetlen aj?nlatot.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IkwrbkhKSXA1TTZ2YkdWWSt1U091Snc9PSIsInZhbHVlIjoiWjhNMnZiQ09nYk11MXc4V2JidWpLenhVVktoak5EaGV5WmVZRU43bGQ2YmlUSU5maGRuWmgwQXlkb2ZLTmpEMktwdE41XC84UVQ0clhxd2NDclc4T0xTV2Q4d2tkNlNXZENnNzdmTU1wOElUSjA4Mko3TE5USEhhVmxXZjBJalwvQmxNaHhoWitEY1owQThPS0VyTWJ4Umc9PSIsIm1hYyI6IjEzYmIxYWZkODU1ZTZkMmQ0OWM3Y2IyMjI4OTFiMTY3ZTk4YzhjYjRhNGZlYmQyNGIzNDc0NzRlOWYxZWVjYTIifQ%3D%3D&amp;signature=fed267de7a26201440a8bb977000082f7abd00f97c38b0da379c05620d1e0d8c</image>
+    <start>12:00AM</start>
+    <finish>01:00AM</finish>
+    <date>21 October 2026</date>
+  </channel>
+  <channel>
+    <name>Hír TV</name>
+    <id>HirTV.hu</id>
+    <title>Vez?rcikk - Olvasunk a sorok k?z?tt</title>
+    <desc>A m?sorban ?js?g?r?k elemzik az adott napon a sajt?ban megjelent cikkeket, de ezen fel?l Magyarorsz?gon egyed?l?ll?an bemutatj?k, hogy a m?snapi ?js?gok, weboldalak mir?l fognak ?rni.</desc>
+    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
+    <start>01:00AM</start>
+    <finish>01:30AM</finish>
+    <date>21 October 2026</date>
+  </channel>
+  <channel>
+    <name>Hír TV</name>
+    <id>HirTV.hu</id>
+    <title>Radar</title>
+    <desc>Riportm?sorunk izgalmas t?m?kkal ?s megk?zel?t?ssel pr?b?l a h?tk?znapi embereknek seg?teni olyan probl?m?k felt?r?s?val ?s megold?s?val, amely a nagyk?z?ns?get ?rinti. A m?sor h?zigazd?i Budai Ivett ?s Eper M?rton.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6Ikw3TzV1SnFMNDdIRnZsY2N2VGhpeFE9PSIsInZhbHVlIjoiTVFGWmlsUk5sN2xSZk1OK2tJVXFcL3E1TjZ6c2NYV05aNGdibW52TU5pZjVSYXNmeHZZb0piWVV2WG9kU2ZsZkpQbFVqTlNuZHBJT1lHczc2WlgzRHAyb0lSUlVsOTJXNzNDeDhLVFVvd2N2VjZCdmRDaGZLNjF1ZEhJOFlTTEs5IiwibWFjIjoiMjVlYTA1NDQ4NjFiNjA3MzExMjM0ODJhZTVlYmY4N2U2NWU4ZWExNzljMjk5ZmQyMjI2NzdkNzVhZDk1YTM4YSJ9&amp;signature=404311afff90feb111377f63430e087e23a1977514fc2889e2be7aa62896eaeb</image>
+    <start>01:30AM</start>
+    <finish>01:45AM</finish>
+    <date>21 October 2026</date>
+  </channel>
+  <channel>
+    <name>Hír TV</name>
+    <id>HirTV.hu</id>
+    <title>Pal?ver hangol?</title>
+    <desc>Nincs le?r?s</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IkMyRHIxZU9YQ3owYUhKdGI3VDIrUUE9PSIsInZhbHVlIjoiUkRBRWo4bzJWS01Fc09zcWNPQUZvUE5ma05NSmNIdnMyNlZLQW5DdVp0OXNoNEMrRlo3ZW5YejhBMmFJcE5pRDFpRUY0Q1JwdVhod1ptbTlBejhJc0JWTHVYbzdaZGdVeXRlOVwvOGdubVwveUEyQXJCRitPU0RTZ21zTHI2XC82Q3oiLCJtYWMiOiJkYzc0MjdlMDFiMzkzZDY0M2JhNTk2NGUwYWFkMjQxNGVmMDZiOWUwNzBkNzgxYWMzYjg0NGRhM2E5MjU3Y2VkIn0%3D&amp;signature=be508940961d67c5f2ec997ed44e2d9e6f13d0c35f86fdb12b53c5e123d5b825</image>
+    <start>01:45AM</start>
+    <finish>02:00AM</finish>
+    <date>21 October 2026</date>
+  </channel>
+  <channel>
+    <name>Hír TV</name>
+    <id>HirTV.hu</id>
+    <title>Vet?t?</title>
+    <desc>Rendez?: Zsigmond Attila Az 1950-es ?vek elej?n h?rom n?v tartotta izgalomban Erd?lyt: Pusztai, Jeges ?s D?zsi. Ezek a fiatalemberek fegyverrel a k?zben, vakmer?en sz?lltak szembe a kommunista hatalom helyi kiszolg?l?ival.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IjV6QzZBMDc2MVhQdDBIRzJ0dnV2M1E9PSIsInZhbHVlIjoiMDYzSGVPamxRMHNOeGd2TWhpMjdvcjNCVVEzUFhvWHIxd1lZZEx3WlZrdHcwQ1wvckV0a3BMaVVCUDcweWlaczZYemkzN0JSN250d1lZdWZzYTl1d3JOVUtJeldmRUF4d0x5VnFaRGV2Y1owPSIsIm1hYyI6IjRmYzU5YTQ2MDhlZGQ5YzZhNjQzODE5OGQ0MDVjZWExYWViZDEyZWE1YzlhNjI4NjE1MDM5ZTIzYzcyNTk5OGYifQ%3D%3D&amp;signature=aacc80b86a2c9bfe46d6af0ee1aef813587f5c5172f56710f3163630db6a303a</image>
+    <start>02:00AM</start>
+    <finish>03:00AM</finish>
+    <date>21 October 2026</date>
+  </channel>
+  <channel>
+    <name>Hír TV</name>
+    <id>HirTV.hu</id>
+    <title>Vet?t?</title>
+    <desc>Rendez?: Varga ?gota Magyarorsz?gon k?r?lbel?l 33 ezer vak ember ?l. Nagyr?sz?k otthon, csal?dokban. A film f?szerepl?je egy vil?gtalan h?zasp?r, akik m?gis gyermeket v?llaltak. Fi?k sz? szerint a szem?k f?nye lett.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6Im1hcU1yaTVxdHJNTlZXdWNSQXZTNmc9PSIsInZhbHVlIjoiNFZkVEpcL0hBamdpa2pJS1pSNEZFeVdsazVtWW9TU3RYdkNzTzA3eGxPNitxWWpHblhYcUdWbFdcL3pvMUpzbngyZXlmQm91bVRhcDdHT0FxUnJEamkzRnlMcDk2TlJpcTNjZUZERmo5OGxjbz0iLCJtYWMiOiJjNDc4YjA2ZjFlYmIxYWYyNGYzYTRiY2ZlNmY1OWI4Njk0YjhlYzkyNTNlYmIyN2E4NTI3OTcyNmIyYTg5N2U4In0%3D&amp;signature=bbb5c3870ef1b040e482a98ef53229474a8d47ab192ca8d15c6f9241eaa277b9</image>
+    <start>03:00AM</start>
+    <finish>04:00AM</finish>
+    <date>21 October 2026</date>
+  </channel>
+  <channel>
+    <name>Hír TV</name>
+    <id>HirTV.hu</id>
+    <title>Telev?zi?s v?s?rl?si m?sorablak</title>
+    <desc>A hirdet?s ?runak, szolg?ltat?snak a forgalmaz?val vagy szolg?ltat?val val? kapcsolatteremt?s ?tj?n t?rt?n? ?rt?kes?t?s?re vagy m?s m?don t?rt?n? ig?nybev?tel?re tartalmaz k?zvetlen aj?nlatot.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6ImUxQ3lRYjFNZzRRWUptWFY4NnN5ckE9PSIsInZhbHVlIjoiaE40bzRXWnVmWFNUQjloczB1d2t5dUloNHhrK29WQjloSlAwTk9abklINnhyTXB6N1hnT3ozUEhqXC9nMHJ5V1Blak5DV3NqNUlaRFhkWm5pN2hXWXBBSmpuRjVNbkFFN3Z6ZzRlUkxkUUk5bld6d1h0c1VnSGxDcE5xWVJiRlR0XC9EY2tMOTdCeVhvRjJMczRRQTRFNlE9PSIsIm1hYyI6ImJiYjc3ZWNlZTQ0Mzk2NjI3ZWQ5MjkwN2M3N2ZhNmRjNmM0NDk1YTJkMzQwMTA0MDZjNmM3YmEwM2I0ZTYwOTMifQ%3D%3D&amp;signature=4b0110415afab589cbc27c69a21e5cc5c690974c18e24d168642e2dec1f1a488</image>
+    <start>04:00AM</start>
+    <finish>05:00AM</finish>
+    <date>21 October 2026</date>
+  </channel>
+  <channel>
+    <name>Hír TV</name>
+    <id>HirTV.hu</id>
+    <title>Vez?rcikk - Olvasunk a sorok k?z?tt</title>
+    <desc>A m?sorban ?js?g?r?k elemzik az adott napon a sajt?ban megjelent cikkeket, de ezen fel?l Magyarorsz?gon egyed?l?ll?an bemutatj?k, hogy a m?snapi ?js?gok, weboldalak mir?l fognak ?rni.</desc>
+    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
+    <start>05:00AM</start>
+    <finish>06:00AM</finish>
+    <date>21 October 2026</date>
+  </channel>
+  <channel>
+    <name>Hír TV</name>
+    <id>HirTV.hu</id>
+    <title>H?rad?</title>
+    <desc>A m?sor naponta t?bbsz?r jelentkezik a K?rp?t-medence ?s a nagyvil?g legfrissebb h?reivel. Politikai ?s k?z?leti t?m?k, szoci?lis, p?nz?gyi, gazdas?gi k?rd?sek ker?lnek ter?t?kre, helysz?ni tud?s?t?sokkal ?s ?l? bejelentkez?sekkel kieg?sz?tve.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IjN6U0VKWDl6N0JFcWplR3BZdmIzZWc9PSIsInZhbHVlIjoiYW9BUkswTjcyaHNLcEtUOUY3T3EzWUhYckVlbVJSVytvM3B4R1NxcEZRQzJrbUJNVzJMZ0FZMVhVN1RPZDIwZEE4emU2Y3JYSG5EK09KQTcxYmJnSU5JOFY5c3h2b2Nwd3c2K3dPNkZkeFFuazVNcGcxeURiZGZwSFhGajhnMDcwcUpqMkxWNXFZODVQTTRHaERoZE9nPT0iLCJtYWMiOiI2MTMyYjhjN2M3NTcwOWMwMGExZTg1ZjhhMjdmOGMyZjM4ODM3OGU0YjkzZDQ1ZGM0ZWQzMGY5NWFhMDYyZTBhIn0%3D&amp;signature=488793314dcc4a47b94b53636728c4ef7f66a253717b6894359e6ca38a62511f</image>
+    <start>06:00AM</start>
+    <finish>06:30AM</finish>
+    <date>21 October 2026</date>
+  </channel>
+  <channel>
+    <name>Hír TV</name>
+    <id>HirTV.hu</id>
+    <title>Napind?t?</title>
+    <desc>Szak?rt?k elemzik az orosz-ukr?n h?bor? legfontosabb esem?nyeit. A m?sorban a kultur?lis ?let szerepl?i mellett a k?zszolg?lati t?m?k szerepelnek.</desc>
+    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
+    <start>06:30AM</start>
+    <finish>08:00AM</finish>
+    <date>21 October 2026</date>
+  </channel>
+  <channel>
+    <name>Hír TV</name>
+    <id>HirTV.hu</id>
+    <title>Napind?t? +</title>
+    <desc>A m?sorban ?letviteli tan?csok ?s a nagyk?z?ns?g sz?m?ra ?rdekes inform?ci?val rendelkez? megh?vott vend?gek szerepelnek.</desc>
+    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
+    <start>08:00AM</start>
+    <finish>08:30AM</finish>
+    <date>21 October 2026</date>
+  </channel>
+  <channel>
+    <name>Hír TV</name>
+    <id>HirTV.hu</id>
+    <title>Radar</title>
+    <desc>Riportm?sorunk izgalmas t?m?kkal ?s megk?zel?t?ssel pr?b?l a h?tk?znapi embereknek seg?teni olyan probl?m?k felt?r?s?val ?s megold?s?val, amely a nagyk?z?ns?get ?rinti. A m?sor h?zigazd?i Budai Ivett ?s Eper M?rton.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IlhCK1hacTVlTmVvU0tcL2RORmNHaGdRPT0iLCJ2YWx1ZSI6IkdcL25pZHhyUktwRCtwNEJqcXFLSFJwMndTbk9xNWNjSEszYzNsNHlqcVlUOWRPS09GaW01NEgrWE5mMHZJc2FjbXRyalVpZTA0dG12eTlnXC9SNjA1VFhoMDJJOG1oMkM3Q2I4bXFPZHZcL1ZxbUR6NnRVeGQxRE01RVdFSkNiVTVKIiwibWFjIjoiNGQ3OTIxNjY4YTAyY2M0ZWUwZTUxMGVhMDc3NDg5NzhlYWZmOTRjZDc3YzRlMmRmMmJkZTk4ZDU2NDg1NWY2OSJ9&amp;signature=4e6ca36243ad04376457fbdb58933a47dc8ff1762fb86bd7f06d9b5d7aeb2c63</image>
+    <start>08:30AM</start>
+    <finish>09:00AM</finish>
+    <date>21 October 2026</date>
+  </channel>
+  <channel>
+    <name>Hír TV</name>
+    <id>HirTV.hu</id>
+    <title>Telev?zi?s v?s?rl?si m?sorablak</title>
+    <desc>A hirdet?s ?runak, szolg?ltat?snak a forgalmaz?val vagy szolg?ltat?val val? kapcsolatteremt?s ?tj?n t?rt?n? ?rt?kes?t?s?re vagy m?s m?don t?rt?n? ig?nybev?tel?re tartalmaz k?zvetlen aj?nlatot.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6InBoODNhb3RZbWJzUjRubSsza3Vremc9PSIsInZhbHVlIjoiYkdHdVJxYmxvdjFxdnN1V2RUOSs2Ymx6cTg4TnkyUjQ3V2xJNCtvUW9SeFNVZU9VUFpWZ3RmV09DT041d0owNUVBZjhBQjJic3p2Rm1BTUZWYnFQU3NLTEVVTGNPQ1VpS1JlaTJQZXNFclZ3UjdEZmdvZnZPVzkxUUYxNnJvQWxrSER2NG5VaGlNaWZVU2hhNHQyWnV3PT0iLCJtYWMiOiI5YmU5YWY5MjYxNzRiYmQ4NWE0NmRlYzcwNjE3MWQyMjFjNjg1ZDFlZDQ1Zjk5NTBhYWY5ZWIwZTAzNWUyYmE0In0%3D&amp;signature=f8c867c908c98b1797af09f876be6490ac3b76ac8ae311f81bcf34a8d835ae45</image>
+    <start>09:00AM</start>
+    <finish>10:00AM</finish>
+    <date>21 October 2026</date>
+  </channel>
+  <channel>
+    <name>Hír TV</name>
+    <id>HirTV.hu</id>
+    <title>Komment</title>
+    <desc>Kem?ny v?g?sok, ?gyes sz?r?sok jobbr?l ?s balr?l. A m?sorvezet? vend?geivel veszi sorra a legfontosabb, ?rdekl?d?sre legink?bb sz?mot tart? k?z?leti t?rt?n?seket, esem?nyeket. Mindenki elmondhatja ?s el is mondja ?ll?spontj?t, a m?sorvezet? moder?l?sa mellett a n?z?k kem?ny vit?kra sz?m?thatnak. ?sszecsaphat a st?di?ban jobb ?s bal, konzervat?v ?s liber?lis, itt nem a lovagiass?g, hanem a sz?kimond?s sz?m?t.</desc>
+    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
+    <start>10:00AM</start>
+    <finish>11:00AM</finish>
+    <date>21 October 2026</date>
+  </channel>
+  <channel>
+    <name>Hír TV</name>
+    <id>HirTV.hu</id>
+    <title>H?rad?</title>
+    <desc>A m?sor naponta t?bbsz?r jelentkezik a K?rp?t-medence ?s a nagyvil?g legfrissebb h?reivel. Politikai ?s k?z?leti t?m?k, szoci?lis, p?nz?gyi, gazdas?gi k?rd?sek ker?lnek ter?t?kre, helysz?ni tud?s?t?sokkal ?s ?l? bejelentkez?sekkel kieg?sz?tve.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IlwvMHRxelUrNXlcL0l6RFhYZDhXMUxuZz09IiwidmFsdWUiOiJmcHlZKzgzUklaQ3FPYTBHeXZJZVVFNFVFckxzSHNIK29pVUN2S0lpaUE2R0VRUGttZVFENndTK2VzXC84OEJvcnkzOGV6SjFTK1ljUHB3bzFEUzVXR2lFUm5jeDRHc1VNSWlVOW9sZHhiZ3BWSVlUREJLQ2VLekZEblllcEd3dWthNk9OclZKQmtaVThPMkwyNlRjTDdnPT0iLCJtYWMiOiI3MzZlNzVhNzdkY2ZhMDUyMjIzMzBmMzVjMzdjZjZiN2E3MTQ0MGVmM2EyZTdlY2Y0ZTQ1ZTYyODE4MTlhZTFlIn0%3D&amp;signature=c7bb833767b0c758586fb93b059a9e15143304e9ba98847cb3d0f6c0557075b3</image>
+    <start>11:00AM</start>
+    <finish>11:30AM</finish>
+    <date>21 October 2026</date>
+  </channel>
+  <channel>
+    <name>Hír TV</name>
+    <id>HirTV.hu</id>
+    <title>L?ncreakci?</title>
+    <desc>Legfrissebb h?rek az orosz-ukr?n h?bor?r?l.</desc>
+    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
+    <start>11:30AM</start>
+    <finish>01:00PM</finish>
+    <date>21 October 2026</date>
+  </channel>
+  <channel>
+    <name>Hír TV</name>
+    <id>HirTV.hu</id>
+    <title>H?rad?</title>
+    <desc>A m?sor naponta t?bbsz?r jelentkezik a K?rp?t-medence ?s a nagyvil?g legfrissebb h?reivel. Politikai ?s k?z?leti t?m?k, szoci?lis, p?nz?gyi, gazdas?gi k?rd?sek ker?lnek ter?t?kre, helysz?ni tud?s?t?sokkal ?s ?l? bejelentkez?sekkel kieg?sz?tve.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IkNPeDVDWElRY0w3ZHFnNnJaU053eWc9PSIsInZhbHVlIjoibHQ4c1BFOXFaQXFjSGVpcngwcTA2MkVMTm8yTHpka1wvYkQxZkxoRHQ1cTNFOUNqcW9FbFVTQ3RKcURaTTZaS2gyb2d0XC9TamVhbnNyZVwvbkM5Y29nTDBHNnpnUis0SXFOOTdhXC9KYjBYMjhWSzV0cnNXVGdzcUEwa0dkbjRQK09VNTl6cHN6QXNvekY3b3lTOGUwbkFcL1E9PSIsIm1hYyI6IjJkNmE5YmI1YjcwN2MzNWVkZDVkMDlmMWI0NjMwNjhmYTFkM2E0ZmI0NjY0ZGM4NzYzNmViMTFkZWE0NTRjOWIifQ%3D%3D&amp;signature=3abb7dfde069f3f8fe639487fd610d097010d9defb4fa5f305e85cd4ad86adc3</image>
+    <start>01:00PM</start>
+    <finish>01:30PM</finish>
+    <date>21 October 2026</date>
+  </channel>
+  <channel>
+    <name>Hír TV</name>
+    <id>HirTV.hu</id>
+    <title>Pal?ver hangol?</title>
+    <desc>Nincs le?r?s</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IlpaVFM1ZWo1aWxCYUF1a0U2aHNWMVE9PSIsInZhbHVlIjoiTnZiUXRsSnNoanBHb1czb2RPQVwvZVhGeHFwaFY3NUZzNHhTc3FrRmVCbFI4WUs0TldaRVBFVTJHaDJJR1FGYzM1ZHBLWUNBSGtIYVJHNmFQQjBiaGU0ZEZpTVwvbHdLRWROXC9sQ25QdjduVlV6aEIrVzlIdmZWTUxGK3ZRMEEyV0kiLCJtYWMiOiJjMWE0MWJhMzQxODFjOGZhYmJiMjhiNTZjZjZlZDYyYjdjODQzNjhhYmI3YjZkNDFjODNiYzk0ODg1N2YyNDU0In0%3D&amp;signature=857acb693735b2c2548cdb44444867f1f384100594a3d3101223a6f33a607986</image>
+    <start>01:30PM</start>
+    <finish>02:00PM</finish>
+    <date>21 October 2026</date>
+  </channel>
+  <channel>
+    <name>Hír TV</name>
+    <id>HirTV.hu</id>
+    <title>H?rad?</title>
+    <desc>A m?sor naponta t?bbsz?r jelentkezik a K?rp?t-medence ?s a nagyvil?g legfrissebb h?reivel. Politikai ?s k?z?leti t?m?k, szoci?lis, p?nz?gyi, gazdas?gi k?rd?sek ker?lnek ter?t?kre, helysz?ni tud?s?t?sokkal ?s ?l? bejelentkez?sekkel kieg?sz?tve.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IkNcL2NIZGl3QVl1QjBHajNncjVxb0N3PT0iLCJ2YWx1ZSI6IjdOdTd0R0lNMHBwWUFIZ0piY3NKRzk3dFwvZExBc21zVmlRcTBaTTFjaCtucXZPdEFYRHVJVWpOTFgySHJEYXFRQ0pjeEJMTkpjZW5kRUNkNmZkak53NDF1cHFwWHZwODUxS0U4amFNUHhaQUUrZmdUOUZFZUFFY1dhWEtycjh2NWhiRnM2NTFyUFJHd3lFUCtDOGxnT2c9PSIsIm1hYyI6ImJkZDgyMTVhYTY5NDlhNWJhZGU4ZDEwYjhlZThjZjU5ODcyNGU4N2E1MWI2MzE3MTJhOTY5ZWE3NjM0YWU0YWQifQ%3D%3D&amp;signature=274136c2b6854f03935e7b364fcf57e4dea8dc8f341e1ee3a05b3d529018a3e5</image>
+    <start>02:00PM</start>
+    <finish>02:30PM</finish>
+    <date>21 October 2026</date>
+  </channel>
+  <channel>
+    <name>Hír TV</name>
+    <id>HirTV.hu</id>
+    <title>Pal?ver</title>
+    <desc>A Pal?ver a H?r TV ?s a H?r FM interakt?v, a k?z?gyeket, aktu?lpolitikai esem?nyeket t?rgyal?, a polg?rok v?lem?ny?t hallhat?v? t?v? m?sora. Nincs tabu t?ma, nincs tabu k?rd?s. Mindazokat v?rj?k a m?sorvezet?k, akik alak?tani akarj?k a k?zbesz?det, akik v?lem?ny?kkel hozz?j?ruln?nak a k?z?s gondolkod?shoz, akik vitatkozni akarnak k?z?s ?gyekr?l.</desc>
+    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
+    <start>02:30PM</start>
+    <finish>04:00PM</finish>
+    <date>21 October 2026</date>
+  </channel>
+  <channel>
+    <name>Hír TV</name>
+    <id>HirTV.hu</id>
+    <title>H?rad?</title>
+    <desc>A m?sor naponta t?bbsz?r jelentkezik a K?rp?t-medence ?s a nagyvil?g legfrissebb h?reivel. Politikai ?s k?z?leti t?m?k, szoci?lis, p?nz?gyi, gazdas?gi k?rd?sek ker?lnek ter?t?kre, helysz?ni tud?s?t?sokkal ?s ?l? bejelentkez?sekkel kieg?sz?tve.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IjZRNE1ldTBkM2kzR2psanRDMGI3dnc9PSIsInZhbHVlIjoiTGdZUFNxeXlSNkNHVEduK1BSMmh3aTM5c0c4aUszd3RPUlZWaTJHOXRhYlU2anZaUDFEdVczN2c5VGZrOXVpTmd6YjNKN3hrNm1wYUJ4Q1UyTGNcL2ZVZWZsajkyYkxhOURDSzhEbUZUS1J4XC8yRzlMXC9uNEpQTGFkTkhWNWFtWkVnTWR4UEFnS09SY3l2Sm93UHozdVVRPT0iLCJtYWMiOiIzZjk5NTNlNTYxODNkNTM3MDhhNGQxNjQ3YTIyNzQ3ZmRkMGRkMDg3NmEzZDgyNGMwOTJmNjkwMTg1OWZmMDExIn0%3D&amp;signature=7db646e4dedf2f02541149bdf671189e02f3192af3837a4a05afa84aadc2f8dc</image>
+    <start>04:00PM</start>
+    <finish>05:00PM</finish>
+    <date>21 October 2026</date>
+  </channel>
+  <channel>
+    <name>Hír TV</name>
+    <id>HirTV.hu</id>
+    <title>Monitor</title>
+    <desc>A Monitorban politikusok, szak?rt?k elemzik a nap legfontosabb esem?nyeit. A m?sor kit?ntetett figyelmet ford?t a vid?k Magyarorsz?g?ra ?s a K?rp?t-medence magyar kisebbs?geket ?rint? f?bb esem?nyeire, a f?v?roson k?v?l t?rt?nt, orsz?gos ?rdekl?d?sre sz?mot tarthat? politikai esem?nyekre. A m?sor c?lcsoportja azok a rendszeres h?rfogyaszt?k, akik ?tlagos m?velts?ggel rendelkeznek a k?z?letr?l, ?s ?rdekl?dnek a m?lyebb ?sszef?gg?sek ir?nt.</desc>
+    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
+    <start>05:00PM</start>
+    <finish>06:00PM</finish>
+    <date>21 October 2026</date>
+  </channel>
+  <channel>
+    <name>Hír TV</name>
+    <id>HirTV.hu</id>
+    <title>Komment</title>
+    <desc>Kem?ny v?g?sok, ?gyes sz?r?sok jobbr?l ?s balr?l. A m?sorvezet? vend?geivel veszi sorra a legfontosabb, ?rdekl?d?sre legink?bb sz?mot tart? k?z?leti t?rt?n?seket, esem?nyeket. Mindenki elmondhatja ?s el is mondja ?ll?spontj?t, a m?sorvezet? moder?l?sa mellett a n?z?k kem?ny vit?kra sz?m?thatnak. ?sszecsaphat a st?di?ban jobb ?s bal, konzervat?v ?s liber?lis, itt nem a lovagiass?g, hanem a sz?kimond?s sz?m?t.</desc>
+    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
+    <start>06:00PM</start>
+    <finish>07:00PM</finish>
+    <date>21 October 2026</date>
+  </channel>
+  <channel>
+    <name>Hír TV</name>
+    <id>HirTV.hu</id>
+    <title>H?rad?</title>
+    <desc>A m?sor naponta t?bbsz?r jelentkezik a K?rp?t-medence ?s a nagyvil?g legfrissebb h?reivel. Politikai ?s k?z?leti t?m?k, szoci?lis, p?nz?gyi, gazdas?gi k?rd?sek ker?lnek ter?t?kre, helysz?ni tud?s?t?sokkal ?s ?l? bejelentkez?sekkel kieg?sz?tve.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IktFdVVPdVBRWGMrWXR2SEpPSis3T1E9PSIsInZhbHVlIjoiQ1wva3Jnb0lsZUMzMXBwdE84QnNyYlJ5V1VWV2JnMkVnXC9wQ1lkQnZ5cDNZcTBsTnc5VmExV1BaUENzMjhKSG03VGVhYVpYWWE0Vk1YZStMNW9EaHNXVG1mZE4wRjlsRFhkRkExdnpuVzJWc1NNZ3RkRkpCYkV1RUMxQUhLcE9RNGhhdGVjVFJETTdOZFJvTWdoZ1ZpdGc9PSIsIm1hYyI6IjAzNGE2OTgyMjMzNDRjZTMxYmJjZjBmMDNjY2E2NDNmNzAxZjdmMjQ2ZjY1YTk5ZTE5NDk5NDI2OGZkNDY4ZDQifQ%3D%3D&amp;signature=9cc473f66e256e034fe8626cdf08da9becb3574a35c3247a8ebe26712e138c1b</image>
+    <start>07:00PM</start>
+    <finish>08:00PM</finish>
+    <date>21 October 2026</date>
+  </channel>
+  <channel>
+    <name>Hír TV</name>
+    <id>HirTV.hu</id>
+    <title>Vez?rcikk - Olvasunk a sorok k?z?tt</title>
+    <desc>A m?sorban ?js?g?r?k elemzik az adott napon a sajt?ban megjelent cikkeket, de ezen fel?l Magyarorsz?gon egyed?l?ll?an bemutatj?k, hogy a m?snapi ?js?gok, weboldalak mir?l fognak ?rni.</desc>
+    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
+    <start>08:00PM</start>
+    <finish>09:00PM</finish>
+    <date>21 October 2026</date>
+  </channel>
+  <channel>
+    <name>Hír TV</name>
+    <id>HirTV.hu</id>
+    <title>H?rad?</title>
+    <desc>A m?sor naponta t?bbsz?r jelentkezik a K?rp?t-medence ?s a nagyvil?g legfrissebb h?reivel. Politikai ?s k?z?leti t?m?k, szoci?lis, p?nz?gyi, gazdas?gi k?rd?sek ker?lnek ter?t?kre, helysz?ni tud?s?t?sokkal ?s ?l? bejelentkez?sekkel kieg?sz?tve.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IlI3V3liajBOaHMxMmNZSTFTYW9NaGc9PSIsInZhbHVlIjoiMmRrY1wvN0lLa2tma3p4TGU1TGRXbUpNSHUrN25rK2s4XC9iXC90QnAzSHVIa3JXR3pmSFFDdHBUelo2emtQanl1bXpoOU5wNG1JMnI2V3ZtYXF6TmNTN0lLMHNlRWQrTzBFbGVJd0k1R05xT2czaWRxQW1hWWR2R2pxSFUxXC9cL0Jjb0loa1N1dUlPZmZFU2lOcVdNWWt4UEE9PSIsIm1hYyI6IjZiNGJjZTM4ODkwMWVkNzBjZmI3N2M4Y2M2ZTAxNjE3MGZkNzM2ZGQ5YTFjMzRlZDdhMTllODRkZmYxODk3NjIifQ%3D%3D&amp;signature=2b6b03c35e98c363899a23d3b247859ccf52d0eedf7f6b2074b7ba1c2f104ae9</image>
+    <start>09:00PM</start>
+    <finish>09:30PM</finish>
+    <date>21 October 2026</date>
+  </channel>
+  <channel>
+    <name>Hír TV</name>
+    <id>HirTV.hu</id>
+    <title>L?ncreakci?</title>
+    <desc>Legfrissebb h?rek az orosz-ukr?n h?bor?r?l.</desc>
+    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
+    <start>09:30PM</start>
+    <finish>11:00PM</finish>
+    <date>21 October 2026</date>
+  </channel>
+  <channel>
+    <name>Hír TV</name>
+    <id>HirTV.hu</id>
+    <title>Monitor</title>
+    <desc>A Monitorban politikusok, szak?rt?k elemzik a nap legfontosabb esem?nyeit. A m?sor kit?ntetett figyelmet ford?t a vid?k Magyarorsz?g?ra ?s a K?rp?t-medence magyar kisebbs?geket ?rint? f?bb esem?nyeire, a f?v?roson k?v?l t?rt?nt, orsz?gos ?rdekl?d?sre sz?mot tarthat? politikai esem?nyekre. A m?sor c?lcsoportja azok a rendszeres h?rfogyaszt?k, akik ?tlagos m?velts?ggel rendelkeznek a k?z?letr?l, ?s ?rdekl?dnek a m?lyebb ?sszef?gg?sek ir?nt.</desc>
+    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
+    <start>11:00PM</start>
+    <finish>12:00AM</finish>
+    <date>21 October 2026</date>
+  </channel>
+  <channel>
+    <name>Hír TV</name>
+    <id>HirTV.hu</id>
+    <title>Telev?zi?s v?s?rl?si m?sorablak</title>
+    <desc>A hirdet?s ?runak, szolg?ltat?snak a forgalmaz?val vagy szolg?ltat?val val? kapcsolatteremt?s ?tj?n t?rt?n? ?rt?kes?t?s?re vagy m?s m?don t?rt?n? ig?nybev?tel?re tartalmaz k?zvetlen aj?nlatot.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6ImM4Q2ZvcGxRNFgxUjU2THRSdFR1dVE9PSIsInZhbHVlIjoib1ZFaFdcL052bXlTaTQ1RjdTWWNNM0MrVFBVdW8wYm5DWmxoc0haa0hYRCs1b3JENndOcWRkTEI1N3RkRjR1ZXJLQzZWZzNaQWVMYzRpeERIUDRNbjcwN0dVVmJLSXMxKzRBeGVkSzFESkZSTVZzNmJuSzd5OWJpVVVBUGJXeUkwd3BYMEY1bys3V05pcUlJZ05zM2F2UT09IiwibWFjIjoiMTRjZTgwNTAyOWU0NDExMWM3NTIwNTE4OTk1NzY2MzE2MDhlNjRjNTVmNzY1YzQwOTg3MDAyNWQ0MGI1YmJlYSJ9&amp;signature=c49feb4241a51b6511254347dc93acfc754b176d912b7c8278986fd409915560</image>
+    <start>12:00AM</start>
+    <finish>01:00AM</finish>
+    <date>22 October 2026</date>
+  </channel>
+  <channel>
+    <name>Hír TV</name>
+    <id>HirTV.hu</id>
+    <title>Vez?rcikk - Olvasunk a sorok k?z?tt</title>
+    <desc>A m?sorban ?js?g?r?k elemzik az adott napon a sajt?ban megjelent cikkeket, de ezen fel?l Magyarorsz?gon egyed?l?ll?an bemutatj?k, hogy a m?snapi ?js?gok, weboldalak mir?l fognak ?rni.</desc>
+    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
+    <start>01:00AM</start>
+    <finish>01:30AM</finish>
+    <date>22 October 2026</date>
+  </channel>
+  <channel>
+    <name>Hír TV</name>
+    <id>HirTV.hu</id>
+    <title>Radar</title>
+    <desc>Riportm?sorunk izgalmas t?m?kkal ?s megk?zel?t?ssel pr?b?l a h?tk?znapi embereknek seg?teni olyan probl?m?k felt?r?s?val ?s megold?s?val, amely a nagyk?z?ns?get ?rinti. A m?sor h?zigazd?i Budai Ivett ?s Eper M?rton.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6ImJHd1NWWDhIN2dqUVJDUXU2Mlgrc0E9PSIsInZhbHVlIjoiRjM2Ujh3NENHZlpYZHJCNkVocTVtN2s0QW5tcXJKVnFGUFdQTkMyQXQ2cFwvRnl0SVk2bFo4Y3lJWlZFMWhoXC9ZUkkzTEpnc0FHNXVodG1LSHBRWEp3TWdLSlB5dHNRTVRiM3lCTHcwN3F1SXpOXC9OcUszbWFhT1wvcnArR3QrMENBIiwibWFjIjoiYTA4NGY0ODM0YWNlNzU4MTliNTBjZDQ1ZTY4YzUyYzFjNWE0M2QxZDI3ZGNmODdhYWU3NjM2MmQyYzJhNGI3MiJ9&amp;signature=f669e81c7ad392fe230aa8af7e8b6f715991b39ac7da2ac4923abdadc017539d</image>
+    <start>01:30AM</start>
+    <finish>01:45AM</finish>
+    <date>22 October 2026</date>
+  </channel>
+  <channel>
+    <name>Hír TV</name>
+    <id>HirTV.hu</id>
+    <title>Pal?ver hangol?</title>
+    <desc>Nincs le?r?s</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IkViQTZYUmxuWXlcL1g2QVRZNGVDaGxBPT0iLCJ2YWx1ZSI6IjkwZG03THBrSFZGS215ME9PRW40VzdTOStMRDBJMkk0cWNwNnNMXC9cL1dQYVwvYk5BOThGUFhzRXB1SEY0YW90bG84RkcydFVsMDJxbnRVN3FwZmJSekZaOW85SjJ2T0pyeGkzb0RZOGxnVGF0Rm41ZUo2a2M4ZGF5U2lsOFlVMHZ0IiwibWFjIjoiZjkwYTQzZWJhMjZkNzI4Zjg2ZmEyOWI2ZjFlZTE5NDJmZTI4YTU4ZTMyMjJmMzY0YjI0ZjNmM2VhMDRiNjJlMiJ9&amp;signature=fe1406161100344624cf1d0b4a52100ba9134687fb9e2eb02af1c8cfe597407d</image>
+    <start>01:45AM</start>
+    <finish>02:00AM</finish>
+    <date>22 October 2026</date>
+  </channel>
+  <channel>
+    <name>Hír TV</name>
+    <id>HirTV.hu</id>
+    <title>Vet?t?</title>
+    <desc>Rendez?: Varga ?gota Magyarorsz?gon k?r?lbel?l 33 ezer vak ember ?l. Nagyr?sz?k otthon, csal?dokban. A film f?szerepl?je egy vil?gtalan h?zasp?r, akik m?gis gyermeket v?llaltak. Fi?k sz? szerint a szem?k f?nye lett.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6Ill5UEE4d0JQMmZtMndDQ2FUaU5nM1E9PSIsInZhbHVlIjoiQnA4TWdTWTZ1eStxdEp3ZWtobTZUbWgyd2puTVZaUm1sUmt5bThkS29UZHNIUXoyVzd6Y3lJY2FOcFNoUHFUZStzYU9UdVNlUFRGOG5Jb29laCtJWmVsRnZwU0Q3TTRCNFJzK1VqZkRJOW89IiwibWFjIjoiZWY0NjA2YTBiZTVjMjg0YTJlZWZiNTllOGQ0YTIyYWFmMzI5YzM5ODAxMzdmYmFhNzc2MTViM2JiMjRjYmRlZCJ9&amp;signature=f4ebda5a3c64afdaca2af32d6c62bfe310727f4fc8475136fb4ed357e80c185a</image>
+    <start>02:00AM</start>
+    <finish>03:00AM</finish>
+    <date>22 October 2026</date>
+  </channel>
+  <channel>
+    <name>Hír TV</name>
+    <id>HirTV.hu</id>
+    <title>Vet?t?</title>
+    <desc>Rendez?: Major Anita A gernyeszegi Teleki-kast?ly nem &quot;csup?n&quot; a magyar m?vel?d?st?rt?net kiemelt helysz?ne, de a XXI. sz?zadi erd?lyi f?nemesi restit?ci?s k?lv?ria fontos ?llom?sa is. A Belgiumb?l r?szben hazatelep?l? Teleki K?lm?n ?s csal?dja ig?nyelte vissza az ?p?letet, hogy napjainkban nagy er?fesz?t?seket t?ve igyekezzenek visszaadni annak r?gi pomp?j?t ?s funkci?j?t.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6Ilhkc1NcL2dXMjgzSk5STFF5U3R5SWR3PT0iLCJ2YWx1ZSI6ImlmenJUK3MwcWhhTnJ4K2lJelZDZ0czZHVzWXBMXC9TTGhrcFMrSnJmQ2JyT0JHd2lKaDRxYUJoT044U202OFRzejBlMU5LMml2bmJTY3F1eVBoXC95MkhuR0FnamlsSkhUYk1iWlZTV09sdU09IiwibWFjIjoiNmIzMDljZDE1ZjNmN2RiZGIwNWM5YmIyYzA4NzJjM2ExOWZhYWJhNTkyM2I5YjNkMGZlNzcxZmZiYjkyNDNiZSJ9&amp;signature=acae01e1f8ee13ee52b33eb6835a307f9dab88b46df40f0d0174c1b7362a80b6</image>
+    <start>03:00AM</start>
+    <finish>04:00AM</finish>
+    <date>22 October 2026</date>
+  </channel>
+  <channel>
+    <name>Hír TV</name>
+    <id>HirTV.hu</id>
+    <title>Telev?zi?s v?s?rl?si m?sorablak</title>
+    <desc>A hirdet?s ?runak, szolg?ltat?snak a forgalmaz?val vagy szolg?ltat?val val? kapcsolatteremt?s ?tj?n t?rt?n? ?rt?kes?t?s?re vagy m?s m?don t?rt?n? ig?nybev?tel?re tartalmaz k?zvetlen aj?nlatot.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6Im56akxUXC9vYjRpbm9cL0JNdFU5RW9Fdz09IiwidmFsdWUiOiJsQml3NHFGZTlFMWRFT0taZ1QxSHZDUTFhZ21YWWhXOVZOQ25MWVByWUtxRWxGbGI2OWRlb3E2dmlPY1NoTmtERGE3VnZ3VGRwbjBtT1F6Y0VWYzh5d2F0eW5qZkRKV2o3T1Y5ODhENDhZZUlUNTFGM3RzQXdlVCs5QnZoOTJqYWloZFR0c0ZOMHJ6QVF1bVwvc011Y2FBPT0iLCJtYWMiOiJlNTE3NzMzZGFiZjMzNTZhNGIxNjU4MGM4MTJlODFiZTlkZWM2NjM1ODFhNTkwMzkxYWQ4OGQwNTIzYTMwMmJjIn0%3D&amp;signature=5fd356714dd01874f0751c3907b9f2206404d81f26c147d6a09a1d34182b1fee</image>
+    <start>04:00AM</start>
+    <finish>05:00AM</finish>
+    <date>22 October 2026</date>
+  </channel>
+  <channel>
+    <name>Hír TV</name>
+    <id>HirTV.hu</id>
+    <title>Vez?rcikk - Olvasunk a sorok k?z?tt</title>
+    <desc>A m?sorban ?js?g?r?k elemzik az adott napon a sajt?ban megjelent cikkeket, de ezen fel?l Magyarorsz?gon egyed?l?ll?an bemutatj?k, hogy a m?snapi ?js?gok, weboldalak mir?l fognak ?rni.</desc>
+    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
+    <start>05:00AM</start>
+    <finish>06:00AM</finish>
+    <date>22 October 2026</date>
+  </channel>
+  <channel>
+    <name>Hír TV</name>
+    <id>HirTV.hu</id>
+    <title>H?rad?</title>
+    <desc>A m?sor naponta t?bbsz?r jelentkezik a K?rp?t-medence ?s a nagyvil?g legfrissebb h?reivel. Politikai ?s k?z?leti t?m?k, szoci?lis, p?nz?gyi, gazdas?gi k?rd?sek ker?lnek ter?t?kre, helysz?ni tud?s?t?sokkal ?s ?l? bejelentkez?sekkel kieg?sz?tve.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6Ikh2eThcL1U2RG5pSWViWHJ0MGQxc3ZRPT0iLCJ2YWx1ZSI6IlRzYng5bFRqc3RZY2didExaQ0RnOHJrMXU0UWhXcUNZOU9WTmdoWUo1U0dqOG83RlhDRVV1ZkU0TTZzRUo5dlwvaDZ6TVNuNGJ6emVuUjZlZ1dxSnR6VHBwVUY2alVrS24xUHBnZFhqMjNiQm4yeHhBUHgzQkFlZ0ZmN1hER0ZTOHlLaTR1VWVSNHl3WHpacVwvdUxlN0ZRPT0iLCJtYWMiOiIyYjBhZjNjMzc3ZDJmYWY4N2NjYmZhNWZlMjE4MWQ5ODViMmM2NGFhNGRlN2ZkOGRiMmM1ZWRmODY5MDM4NmE4In0%3D&amp;signature=13e0069d61fa8ed54079272c4244540ee144a9448f2fc934503e21ccd928563f</image>
+    <start>06:00AM</start>
+    <finish>06:30AM</finish>
+    <date>22 October 2026</date>
+  </channel>
+  <channel>
+    <name>Hír TV</name>
+    <id>HirTV.hu</id>
+    <title>Napind?t?</title>
+    <desc>Szak?rt?k elemzik az orosz-ukr?n h?bor? legfontosabb esem?nyeit. A m?sorban a kultur?lis ?let szerepl?i mellett a k?zszolg?lati t?m?k szerepelnek.</desc>
+    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
+    <start>06:30AM</start>
+    <finish>08:00AM</finish>
+    <date>22 October 2026</date>
+  </channel>
+  <channel>
+    <name>Hír TV</name>
+    <id>HirTV.hu</id>
+    <title>Napind?t? +</title>
+    <desc>A m?sorban ?letviteli tan?csok ?s a nagyk?z?ns?g sz?m?ra ?rdekes inform?ci?val rendelkez? megh?vott vend?gek szerepelnek.</desc>
+    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
+    <start>08:00AM</start>
+    <finish>08:30AM</finish>
+    <date>22 October 2026</date>
+  </channel>
+  <channel>
+    <name>Hír TV</name>
+    <id>HirTV.hu</id>
+    <title>Radar</title>
+    <desc>Riportm?sorunk izgalmas t?m?kkal ?s megk?zel?t?ssel pr?b?l a h?tk?znapi embereknek seg?teni olyan probl?m?k felt?r?s?val ?s megold?s?val, amely a nagyk?z?ns?get ?rinti. A m?sor h?zigazd?i Budai Ivett ?s Eper M?rton.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6Ims4UmZGOGkzYkhQNEc5TTR6dHdoblE9PSIsInZhbHVlIjoiZ1NlRk9GQ2ZLc3hhTEtuRVpQTFdiUWZQelZPNFlUak80NWZoSkJNNWRyTjJ6RStcL3NPcjBUOGVuMFJERWRGcHpueXR5NUhKTncrMlhDVVJ2alozMDdQcVBcL3F6RDRsSE5GR1pwZWtpOVwvRWNEMk5WSHc5RWpCajY0eG53bVl2aHciLCJtYWMiOiIxMGIzMTIyYmI3ZGVhNTM3MzRhYTc4ZjY4ZGExNjllN2IzYjJhNWE2OTQ0ZDFlZWE2MzJmY2Q0MTM0YzEzNTE4In0%3D&amp;signature=faf1980cb7af5c3e465cfdc6e2fefcd5bd27c21d5545fc036e84487c7e470cf9</image>
+    <start>08:30AM</start>
+    <finish>09:00AM</finish>
+    <date>22 October 2026</date>
+  </channel>
+  <channel>
+    <name>Hír TV</name>
+    <id>HirTV.hu</id>
+    <title>Telev?zi?s v?s?rl?si m?sorablak</title>
+    <desc>A hirdet?s ?runak, szolg?ltat?snak a forgalmaz?val vagy szolg?ltat?val val? kapcsolatteremt?s ?tj?n t?rt?n? ?rt?kes?t?s?re vagy m?s m?don t?rt?n? ig?nybev?tel?re tartalmaz k?zvetlen aj?nlatot.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IlZSaERpMzJlYTV1OGRqWUtnNWd4UXc9PSIsInZhbHVlIjoicHkydlRoZGZ1UFlIT2lzNVRiQmJmQXpKRGx3TzU3Y1dhNEVmdkZFdDdONFVpTnRPeVFEdVFcL3IxNm5wbUR2SEpUSFwvK2F0NUZMZFgwN3RjQXJMVWxaRVdVWU96d2dqeWIwQWc2RU9yUGhaQnk2bTBoeGphKzlaTlJiN1wvNEtvMzIyeUJOaFdyYTRWbkE0cTdkKzNwWHhnPT0iLCJtYWMiOiJiYTEyYjIxMzQ0MTFiY2U2ZWJiODc5MTUxOThjOTM0NjA2M2UzZTFiODU4MzdkYzcwYzM2NDQxNmVkOGQzYTRlIn0%3D&amp;signature=ad05fe355b2f045443a5c08c6dfc049e4215e17559d5db77c8d64eb65da924cd</image>
+    <start>09:00AM</start>
+    <finish>10:00AM</finish>
+    <date>22 October 2026</date>
+  </channel>
+  <channel>
+    <name>Hír TV</name>
+    <id>HirTV.hu</id>
+    <title>Komment</title>
+    <desc>Kem?ny v?g?sok, ?gyes sz?r?sok jobbr?l ?s balr?l. A m?sorvezet? vend?geivel veszi sorra a legfontosabb, ?rdekl?d?sre legink?bb sz?mot tart? k?z?leti t?rt?n?seket, esem?nyeket. Mindenki elmondhatja ?s el is mondja ?ll?spontj?t, a m?sorvezet? moder?l?sa mellett a n?z?k kem?ny vit?kra sz?m?thatnak. ?sszecsaphat a st?di?ban jobb ?s bal, konzervat?v ?s liber?lis, itt nem a lovagiass?g, hanem a sz?kimond?s sz?m?t.</desc>
+    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
+    <start>10:00AM</start>
+    <finish>11:00AM</finish>
+    <date>22 October 2026</date>
+  </channel>
+  <channel>
+    <name>Hír TV</name>
+    <id>HirTV.hu</id>
+    <title>H?rad?</title>
+    <desc>A m?sor naponta t?bbsz?r jelentkezik a K?rp?t-medence ?s a nagyvil?g legfrissebb h?reivel. Politikai ?s k?z?leti t?m?k, szoci?lis, p?nz?gyi, gazdas?gi k?rd?sek ker?lnek ter?t?kre, helysz?ni tud?s?t?sokkal ?s ?l? bejelentkez?sekkel kieg?sz?tve.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IlZHODFyVTVRdDRMXC83dDc2UmM3SE1RPT0iLCJ2YWx1ZSI6InJVU0M1V1A3NmY5OFBadzZiTCtyMmRpbVJlbjNJM3p1N1ZDaTJ4WmN5ZjhhcE45bGt4K1lGSVBmU2dpTG4wb2JrVmpyUVhuZ0x3T1dheWJxQjRBcmpESlwvWWJuQUZzZFpEbnFQRjY5OXpiUVQ5MDJkZDBUNHJRbVdrV2k0Z2dUR2VjNUxDeEtxbW9laDB5RjBHNUtobnc9PSIsIm1hYyI6ImMxMzYwNTY2MDYwNmE5ZmZjY2Q1ZWExOTJkZGYyMDgyMzkzYjY1ODIwZDdlZTdkNTRhNGEwM2E2MDdmZTI4ZWMifQ%3D%3D&amp;signature=ac1a160dc621ecfb0342ddeb3974c6617d15cd9c6f716188d5f449b871b90b39</image>
+    <start>11:00AM</start>
+    <finish>11:30AM</finish>
+    <date>22 October 2026</date>
+  </channel>
+  <channel>
+    <name>Hír TV</name>
+    <id>HirTV.hu</id>
+    <title>L?ncreakci?</title>
+    <desc>Legfrissebb h?rek az orosz-ukr?n h?bor?r?l.</desc>
+    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
+    <start>11:30AM</start>
+    <finish>01:00PM</finish>
+    <date>22 October 2026</date>
+  </channel>
+  <channel>
+    <name>Hír TV</name>
+    <id>HirTV.hu</id>
+    <title>H?rad?</title>
+    <desc>A m?sor naponta t?bbsz?r jelentkezik a K?rp?t-medence ?s a nagyvil?g legfrissebb h?reivel. Politikai ?s k?z?leti t?m?k, szoci?lis, p?nz?gyi, gazdas?gi k?rd?sek ker?lnek ter?t?kre, helysz?ni tud?s?t?sokkal ?s ?l? bejelentkez?sekkel kieg?sz?tve.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6Ijl3ZzdWcGVGZGVHQ2IwQ2h6ZUt3cXc9PSIsInZhbHVlIjoiTU9ia1FpclpkWFRBVTZ5ZTRTV1Y2bHgrZHU3QXlsb2pCUWduM3NCejQzOW1odzBhOGhVRFlpSGZsODNEa1dpTWNyMTBNbENKSFdrbk1ZWUZTMFVKY3BwKzJKcTJCSUFLSmRlc0tMV2pJTzM4dHF2alZva1ZWeUpEZTBBNUlVZlwvaFlWSEpJQmxPT3ROZUhlVE8wN1FzQT09IiwibWFjIjoiYTJjNmQwNDBlNTVhNzg2MjI5YjJmMGNlNWVkZTk2MWVkMjBlNWM0YTVjODExMzJiMDAxZDI4ZTg0OTkzZDYzYyJ9&amp;signature=7d5ccc627b743f6ac6ef217750b0adad1256e6a0648f8cfe0a1ee33a967b8227</image>
+    <start>01:00PM</start>
+    <finish>01:30PM</finish>
+    <date>22 October 2026</date>
+  </channel>
+  <channel>
+    <name>Hír TV</name>
+    <id>HirTV.hu</id>
+    <title>Pal?ver hangol?</title>
+    <desc>Nincs le?r?s</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6Ijd5MHpaVWc3dHRWVlB1OTJ5cnVYbGc9PSIsInZhbHVlIjoiZWJoWVBTdXlnU3hYYVZEYXprVGNtcEZ4emZGSTdNOWw5UWxvMHM5TTM2WnhjQkp6Q1dWTEhkNHFKQzg2aXY0Ymo1b1BIdzdJU05mYjRcL0hTRGpTTklrK21pSnUrOXVOc0l1bTl6cXQ5em1IOW1xOVArWXlwRllSZWF5RG9vVG9rIiwibWFjIjoiNTY1NmFhZTljZDE5OTJlY2QzMmExYWZlOTQzMDQyOTUxYmIyMmY4ZDkwMjExZDliM2ZiYmJjM2VmZDdkNjBiMyJ9&amp;signature=37c95422c350d47e79c0bb569029ed1218a31252d625d06762b5889327eaf4ac</image>
+    <start>01:30PM</start>
+    <finish>02:00PM</finish>
+    <date>22 October 2026</date>
+  </channel>
+  <channel>
+    <name>Hír TV</name>
+    <id>HirTV.hu</id>
+    <title>H?rad?</title>
+    <desc>A m?sor naponta t?bbsz?r jelentkezik a K?rp?t-medence ?s a nagyvil?g legfrissebb h?reivel. Politikai ?s k?z?leti t?m?k, szoci?lis, p?nz?gyi, gazdas?gi k?rd?sek ker?lnek ter?t?kre, helysz?ni tud?s?t?sokkal ?s ?l? bejelentkez?sekkel kieg?sz?tve.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6ImNPejlTWWlxYUxaSFowUUtyWUNERlE9PSIsInZhbHVlIjoiN01KcnEweUlwUVpUS2hPd2lRWTA0enlZOE4yU1JNeTRweXpCSDlnV1hKQThqSkhsaktaNGpiSG56SVZIZiszRFd6QVp3elIyQWZDWUlnVHBWY0VtbTM5dExXdys0dnRFUFwvcE9pYWVDcVE5Q1NPWlNoQ0poSWQyV0hQS0xOWnpsd1lMTG9tQm5vZmpsOFwvNGJRVkVucVE9PSIsIm1hYyI6ImRiNGU5Nzg4NTdiNmU5YjAwZmQwYzAxYmY4OWQ5YzNkM2JjMGU5YzZkN2NjZDNjMTA5YWE4MTg0ZDUzYjZhYmQifQ%3D%3D&amp;signature=f628137f95e929c3d8aeac741ae7a37d828ace0cf520b28d1451a9783309dbf9</image>
+    <start>02:00PM</start>
+    <finish>02:30PM</finish>
+    <date>22 October 2026</date>
+  </channel>
+  <channel>
+    <name>Hír TV</name>
+    <id>HirTV.hu</id>
+    <title>Pal?ver</title>
+    <desc>A Pal?ver a H?r TV ?s a H?r FM interakt?v, a k?z?gyeket, aktu?lpolitikai esem?nyeket t?rgyal?, a polg?rok v?lem?ny?t hallhat?v? t?v? m?sora. Nincs tabu t?ma, nincs tabu k?rd?s. Mindazokat v?rj?k a m?sorvezet?k, akik alak?tani akarj?k a k?zbesz?det, akik v?lem?ny?kkel hozz?j?ruln?nak a k?z?s gondolkod?shoz, akik vitatkozni akarnak k?z?s ?gyekr?l.</desc>
+    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
+    <start>02:30PM</start>
+    <finish>04:00PM</finish>
+    <date>22 October 2026</date>
+  </channel>
+  <channel>
+    <name>Hír TV</name>
+    <id>HirTV.hu</id>
+    <title>H?rad?</title>
+    <desc>A m?sor naponta t?bbsz?r jelentkezik a K?rp?t-medence ?s a nagyvil?g legfrissebb h?reivel. Politikai ?s k?z?leti t?m?k, szoci?lis, p?nz?gyi, gazdas?gi k?rd?sek ker?lnek ter?t?kre, helysz?ni tud?s?t?sokkal ?s ?l? bejelentkez?sekkel kieg?sz?tve.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6ImdcL2JxaDlVU04yYnA4SVwvcTQ4NTB6Zz09IiwidmFsdWUiOiJtMHdnS1RhMFZwM2ZRT3FIUDU3UmFZcU10M2E3OHA3VGwwRGZpZTFOMTA3c21hTUJIK3ZiOElDMXdQMmNlNjlxRlwvVFMxb2lDYU5TTG14a2pTNHIxaDJNV29kWlNkM3E1YkhjYTRnWHZtV0tUNkh4M1BmTTMrems2S3pmb0ZKRGxaeVNcL1AxVnFSbmxkbHRKRVgyWDVPQT09IiwibWFjIjoiOWIzZjJiYTYxNThiMTAyYTVjMzkxOTg5ZWUxYmMyZDIyYTBjOTlmMDhkNTMxOWJlM2U0MzZlN2VhYWI2ZjM5OCJ9&amp;signature=fe837db1982ef39261f78dcf5cd653f4efa31c0f60f0d1129c41408cd94301c9</image>
+    <start>04:00PM</start>
+    <finish>05:00PM</finish>
+    <date>22 October 2026</date>
+  </channel>
+  <channel>
+    <name>Hír TV</name>
+    <id>HirTV.hu</id>
+    <title>Monitor</title>
+    <desc>A Monitorban politikusok, szak?rt?k elemzik a nap legfontosabb esem?nyeit. A m?sor kit?ntetett figyelmet ford?t a vid?k Magyarorsz?g?ra ?s a K?rp?t-medence magyar kisebbs?geket ?rint? f?bb esem?nyeire, a f?v?roson k?v?l t?rt?nt, orsz?gos ?rdekl?d?sre sz?mot tarthat? politikai esem?nyekre. A m?sor c?lcsoportja azok a rendszeres h?rfogyaszt?k, akik ?tlagos m?velts?ggel rendelkeznek a k?z?letr?l, ?s ?rdekl?dnek a m?lyebb ?sszef?gg?sek ir?nt.</desc>
+    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
+    <start>05:00PM</start>
+    <finish>06:00PM</finish>
+    <date>22 October 2026</date>
+  </channel>
+  <channel>
+    <name>Hír TV</name>
+    <id>HirTV.hu</id>
+    <title>Komment</title>
+    <desc>Kem?ny v?g?sok, ?gyes sz?r?sok jobbr?l ?s balr?l. A m?sorvezet? vend?geivel veszi sorra a legfontosabb, ?rdekl?d?sre legink?bb sz?mot tart? k?z?leti t?rt?n?seket, esem?nyeket. Mindenki elmondhatja ?s el is mondja ?ll?spontj?t, a m?sorvezet? moder?l?sa mellett a n?z?k kem?ny vit?kra sz?m?thatnak. ?sszecsaphat a st?di?ban jobb ?s bal, konzervat?v ?s liber?lis, itt nem a lovagiass?g, hanem a sz?kimond?s sz?m?t.</desc>
+    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
+    <start>06:00PM</start>
+    <finish>07:00PM</finish>
+    <date>22 October 2026</date>
+  </channel>
+  <channel>
+    <name>Hír TV</name>
+    <id>HirTV.hu</id>
+    <title>H?rad?</title>
+    <desc>A m?sor naponta t?bbsz?r jelentkezik a K?rp?t-medence ?s a nagyvil?g legfrissebb h?reivel. Politikai ?s k?z?leti t?m?k, szoci?lis, p?nz?gyi, gazdas?gi k?rd?sek ker?lnek ter?t?kre, helysz?ni tud?s?t?sokkal ?s ?l? bejelentkez?sekkel kieg?sz?tve.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IlwvTzhcL2ZQV1NDZ3FmamJXMGNMT2Nsdz09IiwidmFsdWUiOiJcL3hzU3Z5RXcyK014aGl1bHZ6MkxNUmFiWkhBNnRWSWREMEp2WGc5TUcyZkdZckdka1BKZ1J5SGFXalBnQUVLM2ZcL25lcFNldDF4N1Y0bTRMUG4zSjRZOGhLWmI1SUhlMEcyZFIzVGxkU0srbkhCNkdtMEU0WThoWjVZUG9GSkxpYmhNRkJLZVprOGVFb1Q1bkg3OHduUT09IiwibWFjIjoiY2UyOTVjYjhlZGMwZTgxNWNkMzgxMjIyZGY2NjFmMTBjZWZiYjUwOTZiYTgxNzhjN2I3MTI1ZDRhNTY4ZGQ3NSJ9&amp;signature=0970102fc7ed9be88cb82c2f686fe0851668156702aa80e1c13c09f432884d57</image>
+    <start>07:00PM</start>
+    <finish>08:00PM</finish>
+    <date>22 October 2026</date>
+  </channel>
+  <channel>
+    <name>Hír TV</name>
+    <id>HirTV.hu</id>
+    <title>Vez?rcikk - Olvasunk a sorok k?z?tt</title>
+    <desc>A m?sorban ?js?g?r?k elemzik az adott napon a sajt?ban megjelent cikkeket, de ezen fel?l Magyarorsz?gon egyed?l?ll?an bemutatj?k, hogy a m?snapi ?js?gok, weboldalak mir?l fognak ?rni.</desc>
+    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
+    <start>08:00PM</start>
+    <finish>09:00PM</finish>
+    <date>22 October 2026</date>
+  </channel>
+  <channel>
+    <name>Hír TV</name>
+    <id>HirTV.hu</id>
+    <title>H?rad?</title>
+    <desc>A m?sor naponta t?bbsz?r jelentkezik a K?rp?t-medence ?s a nagyvil?g legfrissebb h?reivel. Politikai ?s k?z?leti t?m?k, szoci?lis, p?nz?gyi, gazdas?gi k?rd?sek ker?lnek ter?t?kre, helysz?ni tud?s?t?sokkal ?s ?l? bejelentkez?sekkel kieg?sz?tve.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IndjTTBpUHRkV1pubU1vTklTVWdFK3c9PSIsInZhbHVlIjoiM2VTS1g3QktMYVRNWFJNNDBaT3JmMjF1dFJUclUxWW9sQ3puaCtNc3Z4dlVIODRKUlp3ZEc2dmNMMHY5UVRJemRxZEh5UHdHNlFMR0dMQ1REN2RFcTJCSCtpNXA3RDZsNEZyckw1V3pYbWNRZG5wOEFBaXNMM1REb1l5WXNnT2paOGUrc0taVGZZcyt1SllseGtNbFp3PT0iLCJtYWMiOiI3ZmFmNzE5NDNkOGMxODExYWIxODdiYTQ1YWY1NGUzNWRhNTQ2NDM2Nzc0NjEzOWUzMTlhZGVlNmI5ZTI1NTUxIn0%3D&amp;signature=627c159b154e659ee5bc33aa6600e26f0dd50cfe1bc33e97dc997a71a66480c7</image>
+    <start>09:00PM</start>
+    <finish>09:30PM</finish>
+    <date>22 October 2026</date>
+  </channel>
+  <channel>
+    <name>Hír TV</name>
+    <id>HirTV.hu</id>
+    <title>L?ncreakci?</title>
+    <desc>Legfrissebb h?rek az orosz-ukr?n h?bor?r?l.</desc>
+    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
+    <start>09:30PM</start>
+    <finish>11:00PM</finish>
+    <date>22 October 2026</date>
+  </channel>
+  <channel>
+    <name>Hír TV</name>
+    <id>HirTV.hu</id>
+    <title>Monitor</title>
+    <desc>A Monitorban politikusok, szak?rt?k elemzik a nap legfontosabb esem?nyeit. A m?sor kit?ntetett figyelmet ford?t a vid?k Magyarorsz?g?ra ?s a K?rp?t-medence magyar kisebbs?geket ?rint? f?bb esem?nyeire, a f?v?roson k?v?l t?rt?nt, orsz?gos ?rdekl?d?sre sz?mot tarthat? politikai esem?nyekre. A m?sor c?lcsoportja azok a rendszeres h?rfogyaszt?k, akik ?tlagos m?velts?ggel rendelkeznek a k?z?letr?l, ?s ?rdekl?dnek a m?lyebb ?sszef?gg?sek ir?nt.</desc>
+    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
+    <start>11:00PM</start>
+    <finish>12:00AM</finish>
+    <date>22 October 2026</date>
+  </channel>
+  <channel>
+    <name>Hír TV</name>
+    <id>HirTV.hu</id>
+    <title>Telev?zi?s v?s?rl?si m?sorablak</title>
+    <desc>A hirdet?s ?runak, szolg?ltat?snak a forgalmaz?val vagy szolg?ltat?val val? kapcsolatteremt?s ?tj?n t?rt?n? ?rt?kes?t?s?re vagy m?s m?don t?rt?n? ig?nybev?tel?re tartalmaz k?zvetlen aj?nlatot.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6ImdFVXhwb0dcL3R3dXlJR1EySEFUaXJRPT0iLCJ2YWx1ZSI6IkxiaWhOZXR1Z3VcL0FLTWErYjhqN3k0cFBJN2h0dTVcLytPTUJCMWlUcnNOb1pXYU4ycUhXTU9TblBtamxwSnl1Z3pVWGFvVUZ0NnJNXC9wd1NHU0p3V0xhdCtDd3h3S0k5bjBGVW9OSk1sQXE5ZVRaSVlPRXNlM3NxQllmN0RDWjN5eUlHTWhXalVMczZlSnlBZm1oSDFEUT09IiwibWFjIjoiZTA2MzU2YzI4NWRkNmQ4MjFhNDViMTIxZTEwMTkxMzk5OWU4MTFhNTdmZDkzZGVmMWIwMmI2YjAxMjcxOGVhNiJ9&amp;signature=4b63751e88a50b609dd4b6ec63b6149507e834d019053550b8854dae0bbbf0f8</image>
+    <start>12:00AM</start>
+    <finish>01:00AM</finish>
+    <date>23 October 2026</date>
+  </channel>
+  <channel>
+    <name>Hír TV</name>
+    <id>HirTV.hu</id>
+    <title>Vez?rcikk - Olvasunk a sorok k?z?tt</title>
+    <desc>A m?sorban ?js?g?r?k elemzik az adott napon a sajt?ban megjelent cikkeket, de ezen fel?l Magyarorsz?gon egyed?l?ll?an bemutatj?k, hogy a m?snapi ?js?gok, weboldalak mir?l fognak ?rni.</desc>
+    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
+    <start>01:00AM</start>
+    <finish>01:30AM</finish>
+    <date>23 October 2026</date>
+  </channel>
+  <channel>
+    <name>Hír TV</name>
+    <id>HirTV.hu</id>
+    <title>Radar</title>
+    <desc>Riportm?sorunk izgalmas t?m?kkal ?s megk?zel?t?ssel pr?b?l a h?tk?znapi embereknek seg?teni olyan probl?m?k felt?r?s?val ?s megold?s?val, amely a nagyk?z?ns?get ?rinti. A m?sor h?zigazd?i Budai Ivett ?s Eper M?rton.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6InUrd1RkN1R6bjExQTZJcENsSmc0anc9PSIsInZhbHVlIjoiXC9SWU5HMFpoUWlaS0IySVIwamVBcnhZcnBVUTZOc1hsaTJldCtubmRzS1JDa3J1NjRwK2hBVW1TYm9LK3ZlR1FxMHhWMlhLSGxcL0VoT1Vod1Bobks0RVlMVml2b05WVEU3bzg2OGIrRG5lTFk5bGxyb1g2QWMxZ1dVRU9HblwvWE8iLCJtYWMiOiJmNTlhMjE0YTVhMjk0NzliYjE3NzllNjAzNDQxNWZmNzQ2ZWFkMDVkOWQ3OTYzNTc3NjViY2NjYzYxOTMyOTgzIn0%3D&amp;signature=b7ff44eba7119656ca5da094bacdaabac9a3358a079ef45bf1b89a634723ecc1</image>
+    <start>01:30AM</start>
+    <finish>01:45AM</finish>
+    <date>23 October 2026</date>
+  </channel>
+  <channel>
+    <name>Hír TV</name>
+    <id>HirTV.hu</id>
+    <title>Pal?ver hangol?</title>
+    <desc>Nincs le?r?s</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IkJ2b09RNzI0RStkUFpMcWNRc1IxNUE9PSIsInZhbHVlIjoiTDVkaXgwUVdoWVRBVUhvb0VicXhWUm5nTUppM1FGTTA2ZG5vVjIrSW92RFVMSFlEU1BIR0Y5VWtRNE82ckxuRHBOSU5Obmc0Vmg0N3ZwQXIzbWxrZllwODY5RFJ1c1wvM3FpYnJvNUpCSk8rdG9xVUVkemtzeENWUnFRM29TcXJDIiwibWFjIjoiOGU4NGZkYWE4OWRlOGNhMDRmMzg1YzY3ZGZjNDY2YjJkYzBhY2IzM2FkYzE0ZWI0OWQ4MTNhZTg4ZjhmNTc4OSJ9&amp;signature=6761e7c56ffe7f80524a2d8f342690836d9df315873c925d2fb99d70c055439e</image>
+    <start>01:45AM</start>
+    <finish>02:00AM</finish>
+    <date>23 October 2026</date>
+  </channel>
+  <channel>
+    <name>Hír TV</name>
+    <id>HirTV.hu</id>
+    <title>Vet?t?</title>
+    <desc>Rendez?: Major Anita A gernyeszegi Teleki-kast?ly nem &quot;csup?n&quot; a magyar m?vel?d?st?rt?net kiemelt helysz?ne, de a XXI. sz?zadi erd?lyi f?nemesi restit?ci?s k?lv?ria fontos ?llom?sa is. A Belgiumb?l r?szben hazatelep?l? Teleki K?lm?n ?s csal?dja ig?nyelte vissza az ?p?letet, hogy napjainkban nagy er?fesz?t?seket t?ve igyekezzenek visszaadni annak r?gi pomp?j?t ?s funkci?j?t.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IlR5UFFtZHNLQVJUZ01zMHp0TUgydmc9PSIsInZhbHVlIjoiMkxKem9yRGo5a25tY2U1WVd0R3hoZGRVQXh5VmlzYUxQa3VaT3k3enJqNFpNUWptRzQrQUNwRncxT0JnRDZZaGhNSHY2UEtZME5BQW9aUHZCUjQxOVNHNEx1RURRaEtEU3dpaDd2QWlXOXc9IiwibWFjIjoiZjY5YjFlZjBhZDQ4YjU5Y2Y5OGI3Mjg5MGIxMjZlYTUxNWQ4YmM2YjkwMTAzYzE1Nzk3YWE5ZmM1NmUxZmQwYiJ9&amp;signature=83d7e88940f426f30cfa931f2e10e437485dfa64b7c33540646f346208c632eb</image>
+    <start>02:00AM</start>
+    <finish>03:00AM</finish>
+    <date>23 October 2026</date>
+  </channel>
+  <channel>
+    <name>Hír TV</name>
+    <id>HirTV.hu</id>
+    <title>Vet?t?</title>
+    <desc>Rendez?: Babos Tam?s 1956. november 1-j?n K?d?r J?nos elmondta az addigi legmark?nsabb r?di?besz?d?t a forradalom kezdete ?ta, amelyben R?kosi?k b?n?nek nevezte a szt?linizmust, dics?s?ges felkel?sk?nt jellemezte a forradalmat, amely ler?zta a n?p ?s az orsz?g nyak?r?l a R?kosi uralmat, kiv?vta a n?p szabads?g?t ?s az orsz?g f?ggetlens?g?t, amely n?lk?l nincs, nem lehet szocializmus. Ugyanez a K?d?r J?nos 1956. november 5-?n r?di?besz?dben k?z?lte az orsz?g n?p?vel a Magyar Forradalmi Munk?s-Paraszt Korm?ny megalakul?s?t ?s felsz?l?totta a magyarokat a szocialista rend megv?d?s?re, mik?zben Budapesten elkeseredett, v?res ut?v?dharcokat folytattak a felkel?k a f?v?rosba ?z?nl?tt szovjet p?nc?los ?s g?pes?tett egys?gekkel. Mi t?rt?nt ebben a n?gy napban?</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IlZsK3ZHK1E0Mk16QVwvUjI3WVg0b2N3PT0iLCJ2YWx1ZSI6Ik84NVlkUjFrVkJFR2ZVcUp2TWR4TTgwbUMzZEhZZG0xTXB2ZDFEVWord2dOYlBIK0RZYnpWNldTYmdnaCtEb1hCXC8yTHN1dENTMkd2dVlxZzZ1UHJ2eXdyWWF4Wm8wdW5KenNFRDZzN2hkMD0iLCJtYWMiOiIxMjkyZDU4ZDI1ZmU0NTdhZDk1OTg5ZjEwMWM4OGQ1MDM2MmQ5NDNlYTczNzA3OTAwZGUzMjE4ZWExY2U1OWU0In0%3D&amp;signature=61ce10b476b31d88baf9650211dec4c24dfaa12ba64cbc6083e234a9f29c5610</image>
+    <start>03:00AM</start>
+    <finish>04:00AM</finish>
+    <date>23 October 2026</date>
+  </channel>
+  <channel>
+    <name>Hír TV</name>
+    <id>HirTV.hu</id>
+    <title>Telev?zi?s v?s?rl?si m?sorablak</title>
+    <desc>A hirdet?s ?runak, szolg?ltat?snak a forgalmaz?val vagy szolg?ltat?val val? kapcsolatteremt?s ?tj?n t?rt?n? ?rt?kes?t?s?re vagy m?s m?don t?rt?n? ig?nybev?tel?re tartalmaz k?zvetlen aj?nlatot.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IitmMG9wakJ1RUU4M2FlaDlvN3hnWVE9PSIsInZhbHVlIjoiM0d1Q1N2WUE3MzZMSFc2QTBjNHFDazY0T2gxXC9GSFJDOUd3K0J0b2tuMzhobk4zbHBNU2p2bURhSmpSejBFaDFBd0FZaWhwV0ZmMStGcEtNVElMaWV4REVqcnJaMHd5eWZ5OXFKOFYxTURLQjhrcHB5UHhEaXNTQ1gwWjFYTE00NTJsb1llRjNkVHpYWGU2WUxjQVEwQT09IiwibWFjIjoiMjllOTQ5NWRlNDlmYmQ2YjgzYjZmNWUzZjU1NjBmNmJiODQ5M2JmN2EyZGFhMWU1MmYwYzc2MjBhMWIxNWVjMiJ9&amp;signature=25cffb117ebdbadfc26a94a41a25dd87ea4f14dfa122e38ea5ac0f12ca21a826</image>
+    <start>04:00AM</start>
+    <finish>05:00AM</finish>
+    <date>23 October 2026</date>
+  </channel>
+  <channel>
+    <name>Hír TV</name>
+    <id>HirTV.hu</id>
+    <title>Vez?rcikk - Olvasunk a sorok k?z?tt</title>
+    <desc>A m?sorban ?js?g?r?k elemzik az adott napon a sajt?ban megjelent cikkeket, de ezen fel?l Magyarorsz?gon egyed?l?ll?an bemutatj?k, hogy a m?snapi ?js?gok, weboldalak mir?l fognak ?rni.</desc>
+    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
+    <start>05:00AM</start>
+    <finish>06:00AM</finish>
+    <date>23 October 2026</date>
+  </channel>
+  <channel>
+    <name>Hír TV</name>
+    <id>HirTV.hu</id>
+    <title>H?rad?</title>
+    <desc>A m?sor naponta t?bbsz?r jelentkezik a K?rp?t-medence ?s a nagyvil?g legfrissebb h?reivel. Politikai ?s k?z?leti t?m?k, szoci?lis, p?nz?gyi, gazdas?gi k?rd?sek ker?lnek ter?t?kre, helysz?ni tud?s?t?sokkal ?s ?l? bejelentkez?sekkel kieg?sz?tve.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IkxtZVwvTTVoeHBJa1Y4YjFwTzZOMld3PT0iLCJ2YWx1ZSI6IkJUZDI3N3p0bTZGbGUyVzlPVTZmRHY1RXFtekRBYlVqQVBrWjIya1hjMGdRNUxVSTRienJES3liTGI4TitsTTFRVFFEODZcL01kRlViVysxYTAxbFo0NWt1QXJlclwvOXhvXC96b0IrWlwvdm9rVU5kb2h2KzNHMVlxSERMU2RoQjZmOWZwdWtvVXVPakJ0ekpRRitJWUYwUVE9PSIsIm1hYyI6IjA4M2VlN2FiNWU3MjJjMTgxZjJiMTVhOTBkM2M2N2M3NTA5OTAyNTFiZmY1NmMwNjE3M2U5MjhlOTBlYjdkZDAifQ%3D%3D&amp;signature=25c50d2370bce6a9ced2137d1af71bb6a5f689dc03bd6b7c799dc38568d8b423</image>
+    <start>06:00AM</start>
+    <finish>07:00AM</finish>
+    <date>23 October 2026</date>
+  </channel>
+  <channel>
+    <name>Hír TV</name>
+    <id>HirTV.hu</id>
+    <title>1956, 2006 k?t okt?ber</title>
+    <desc>Nincs le?r?s</desc>
+    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
+    <start>07:00AM</start>
+    <finish>11:00AM</finish>
+    <date>23 October 2026</date>
+  </channel>
+  <channel>
+    <name>Hír TV</name>
+    <id>HirTV.hu</id>
+    <title>H?rad?</title>
+    <desc>A m?sor naponta t?bbsz?r jelentkezik a K?rp?t-medence ?s a nagyvil?g legfrissebb h?reivel. Politikai ?s k?z?leti t?m?k, szoci?lis, p?nz?gyi, gazdas?gi k?rd?sek ker?lnek ter?t?kre, helysz?ni tud?s?t?sokkal ?s ?l? bejelentkez?sekkel kieg?sz?tve.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6Im5IUElwTHUrcXdvcjJpeE9ZK3BlREE9PSIsInZhbHVlIjoid2hlNm1lMnoraEFCTWhQcE04NFE1dFdrUm9YQ0FwWVhraWY1WkFlUlZESTBWYTRrZmZ0NkQ3SGxRbDJZeW5Rdno4dnNnMDJDRzJmN3prVDErWDJjbTVXaXh3VjFkYldSWjJhYjZ6RWZZM0thS0FuT1BwTGxWMG5xMXZZWnRkXC9oSjhFZnZJR2JWeW80Y0d6cjhLUURDUT09IiwibWFjIjoiM2ZiNTUzMWIxZjQ5ZWM3ODY0YzRkNjM0MGY2M2E3ZjkxMDcyMTM5ZWYxODVhNjRlNWQ1NTM2NDVhZWQzZmZiZSJ9&amp;signature=33cf9888ed6d0ce4e7d2b7d93368e0ce87b72a0edfd606f9afb94db0a13adf6e</image>
+    <start>11:00AM</start>
+    <finish>11:30AM</finish>
+    <date>23 October 2026</date>
+  </channel>
+  <channel>
+    <name>Hír TV</name>
+    <id>HirTV.hu</id>
+    <title>L?ncreakci?</title>
+    <desc>Legfrissebb h?rek az orosz-ukr?n h?bor?r?l.</desc>
+    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
+    <start>11:30AM</start>
+    <finish>01:00PM</finish>
+    <date>23 October 2026</date>
+  </channel>
+  <channel>
+    <name>Hír TV</name>
+    <id>HirTV.hu</id>
+    <title>1956, 2006 k?t okt?ber</title>
+    <desc>Nincs le?r?s</desc>
+    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
+    <start>01:00PM</start>
+    <finish>04:00PM</finish>
+    <date>23 October 2026</date>
+  </channel>
+  <channel>
+    <name>Hír TV</name>
+    <id>HirTV.hu</id>
+    <title>H?rad?</title>
+    <desc>A m?sor naponta t?bbsz?r jelentkezik a K?rp?t-medence ?s a nagyvil?g legfrissebb h?reivel. Politikai ?s k?z?leti t?m?k, szoci?lis, p?nz?gyi, gazdas?gi k?rd?sek ker?lnek ter?t?kre, helysz?ni tud?s?t?sokkal ?s ?l? bejelentkez?sekkel kieg?sz?tve.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IkZuakdaVXRTSEdyMVwvNEx4NU5zZG1RPT0iLCJ2YWx1ZSI6Ikw5VnBjTldxRWxtWnZBYUxORGw0TmRvMlVycWpUbWJ6aWxjUmdGTmlHMndKZE50eDdXODV1aTB6UmZOd3lqTWtZaUh1RUdxallcLzVBV01VU0ZXWXRFdHZpOVJUMU5rdWhpUWE3QjE3bDZSWTZFVUEwcXNmYnRiTVFGeGY1VHdZUUxFQzFhT3ZcL3d2cmQ1dGVFWFp0S1R3PT0iLCJtYWMiOiIwZGNjMzg2YTUzNWI0NGYwNWY3YmM3MGU5MmZlZjhkYTRlODk5NzA5ZWI0YTQ3Yzk5MzdmZTAwOGRkZGNkNjVhIn0%3D&amp;signature=2ee01ad30446434854efa5fc425cccb21d4b80a51f8fdf204436d63b6b2388ce</image>
+    <start>04:00PM</start>
+    <finish>05:00PM</finish>
+    <date>23 October 2026</date>
+  </channel>
+  <channel>
+    <name>Hír TV</name>
+    <id>HirTV.hu</id>
+    <title>P?ntek 18</title>
+    <desc>Nincs le?r?s</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6ImJKWEU4SEh3K0JQb0tiazJWQXRRNmc9PSIsInZhbHVlIjoia3hsSkV3R1NIZXFnQ2Y0RjJ1b0taN0R0TDBJb2ZSVDVmaFZxbE4xS2FNTXNMM0toYWhIRTVkMm9QdG11VGpvZERMYlwvOWJZcU9wVlwvRVNLOHdSdTMrR2w5QVAyTzNSY1wvN0dLNFJUaExIMDFseU1Gelo5TjJJXC8rQXhySUU2Vm5LUkJsY2dEbHhWa3JOc1wvZnBjU0FwKzg5MWtzWFo4d2tidWxyU1wvUVp3TGFuZXRMYXozNW80dW16SWFuckFhdUpLIiwibWFjIjoiNWJlNTczMjUxMzIyZTI2ZmY0Y2ExNTRhMjU2NzFiZDZiOWQ0NmMyZGFkMmY4MTBkZDgzMzU2OGQ0MTYzZjk0MyJ9&amp;signature=af0a44918d6cb9a0406c34c6b68f02be5c688ab8992392a77ca34e557bd5056a</image>
+    <start>05:00PM</start>
+    <finish>06:00PM</finish>
+    <date>23 October 2026</date>
+  </channel>
+  <channel>
+    <name>Hír TV</name>
+    <id>HirTV.hu</id>
+    <title>Komment</title>
+    <desc>Kem?ny v?g?sok, ?gyes sz?r?sok jobbr?l ?s balr?l. A m?sorvezet? vend?geivel veszi sorra a legfontosabb, ?rdekl?d?sre legink?bb sz?mot tart? k?z?leti t?rt?n?seket, esem?nyeket. Mindenki elmondhatja ?s el is mondja ?ll?spontj?t, a m?sorvezet? moder?l?sa mellett a n?z?k kem?ny vit?kra sz?m?thatnak. ?sszecsaphat a st?di?ban jobb ?s bal, konzervat?v ?s liber?lis, itt nem a lovagiass?g, hanem a sz?kimond?s sz?m?t.</desc>
+    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
+    <start>06:00PM</start>
+    <finish>07:00PM</finish>
+    <date>23 October 2026</date>
+  </channel>
+  <channel>
+    <name>Hír TV</name>
+    <id>HirTV.hu</id>
+    <title>H?rad?</title>
+    <desc>A m?sor naponta t?bbsz?r jelentkezik a K?rp?t-medence ?s a nagyvil?g legfrissebb h?reivel. Politikai ?s k?z?leti t?m?k, szoci?lis, p?nz?gyi, gazdas?gi k?rd?sek ker?lnek ter?t?kre, helysz?ni tud?s?t?sokkal ?s ?l? bejelentkez?sekkel kieg?sz?tve.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6InZNYTg0aEdsbll3cHJsUm5TWTRTa3c9PSIsInZhbHVlIjoiUHcxQitpVG9RSCtBUk5ZMlB3RzRBSklQblVyR0JPcHU1WUNQWDlaQ3ZGNGlxcmJFVDdVekZrR1E3SlwvYnlnQkN4U3pvSWQ5R3pPMUF2b2hXUTRsMCtIM0dTUjNVWWR5TTNyUldoNGNmK1p4T2xZWndXWW5DZ3BcL2E1cWlUR0lrV1wvdThRaUhkVUxUYlNlNTVUMFhTcHFnPT0iLCJtYWMiOiI3NjMwOGJkZjY0MDhlNzNmY2JlZTJmMWFiM2IwZDM4MjdkYTBjMmE1Zjk3ZWE3MDY5YzMxMGI2MTNmMzdkMmE3In0%3D&amp;signature=5d4b66f4928cdce39f3e38781b54823ec22d93c72045a4409ca9e3002c6630e8</image>
+    <start>07:00PM</start>
+    <finish>08:00PM</finish>
+    <date>23 October 2026</date>
+  </channel>
+  <channel>
+    <name>Hír TV</name>
+    <id>HirTV.hu</id>
+    <title>Vez?rcikk - Olvasunk a sorok k?z?tt</title>
+    <desc>A m?sorban ?js?g?r?k elemzik az adott napon a sajt?ban megjelent cikkeket, de ezen fel?l Magyarorsz?gon egyed?l?ll?an bemutatj?k, hogy a m?snapi ?js?gok, weboldalak mir?l fognak ?rni.</desc>
+    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
+    <start>08:00PM</start>
+    <finish>09:00PM</finish>
+    <date>23 October 2026</date>
+  </channel>
+  <channel>
+    <name>Hír TV</name>
+    <id>HirTV.hu</id>
+    <title>H?rad?</title>
+    <desc>A m?sor naponta t?bbsz?r jelentkezik a K?rp?t-medence ?s a nagyvil?g legfrissebb h?reivel. Politikai ?s k?z?leti t?m?k, szoci?lis, p?nz?gyi, gazdas?gi k?rd?sek ker?lnek ter?t?kre, helysz?ni tud?s?t?sokkal ?s ?l? bejelentkez?sekkel kieg?sz?tve.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6InpKUWVWdWNwdmlCcTlNaUhuRjBMREE9PSIsInZhbHVlIjoibDZxdFpKdzQxQ29GTmlUWXJnZndYa1NGMWpNaWlMZlR1dnJSKzZYeFYzbFprMjR3THIxNW01TGtcL1phRDFvYTdOYXIyXC9GcTJ4dk1SRXRTSUVVQlVhZkU1dWp0RlBtbzBNN1doNGo4cER4OXpQdWMzWU12QjRROUdhM2g4WWRucmlVSDl5WjBsS2N5VUJEY3BLXC9WSFV3PT0iLCJtYWMiOiI1YjdhNDExMjIwNGZmMjIwOGFmZDk5ZGNhOGU0MDE0MzVkZDAxZWVmMWE2NTU5YzQ1NTFmNDAyYzI4ZDEwMGYwIn0%3D&amp;signature=627488385e5488b095294940fd1f3770cef01c3adb314b6eb75915746ae03c9e</image>
+    <start>09:00PM</start>
+    <finish>09:30PM</finish>
+    <date>23 October 2026</date>
+  </channel>
+  <channel>
+    <name>Hír TV</name>
+    <id>HirTV.hu</id>
+    <title>L?ncreakci?</title>
+    <desc>Legfrissebb h?rek az orosz-ukr?n h?bor?r?l.</desc>
+    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
+    <start>09:30PM</start>
+    <finish>11:00PM</finish>
+    <date>23 October 2026</date>
+  </channel>
+  <channel>
+    <name>Hír TV</name>
+    <id>HirTV.hu</id>
+    <title>P?ntek 18</title>
+    <desc>Nincs le?r?s</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IllwVm84cktIeU02OW1tdW1nd2hUXC9RPT0iLCJ2YWx1ZSI6IlRSMnRTR1UyWlRsbDlxd2VVejd1SkM5Z3p6WFJieTBFUE5KdDhwV1hhZ1N5U2hLRHZwaXR2OWlHM1FmTVNcL3pORERIWE9yYkNzZEEyRWIxaHM4ZEgrbjVzTkhxSDBCNzcyV0J6Zlp1YTc1dTNzbkhma09IZW9Ra2lHajBCbWxZak1DWkM0cWl5WUx5a25qOUJ5N3paTDE4MHFHSFdGWlBoTFRxRVRKWEZJbG1SeXA1YXFpaG00RzR1WTlXN1poS0oiLCJtYWMiOiI3Mzg1Y2YzZGQzYWQ2MGQxODJmMjI0MGMwY2U2MDc5YmI5OWJmOTkyYWFlYjE2NDhjYTEwZTYwOWJhNDNkMTU0In0%3D&amp;signature=9b083e8018fd45884b8985cf5125f32ad24948f9a3475de13abe21505c8cfe2c</image>
+    <start>11:00PM</start>
+    <finish>12:00AM</finish>
+    <date>23 October 2026</date>
+  </channel>
+  <channel>
+    <name>Hír TV</name>
+    <id>HirTV.hu</id>
+    <title>Telev?zi?s v?s?rl?si m?sorablak</title>
+    <desc>A hirdet?s ?runak, szolg?ltat?snak a forgalmaz?val vagy szolg?ltat?val val? kapcsolatteremt?s ?tj?n t?rt?n? ?rt?kes?t?s?re vagy m?s m?don t?rt?n? ig?nybev?tel?re tartalmaz k?zvetlen aj?nlatot.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6Im11M25uWnNuNVhKQ1wvUUlPOWc2RkRRPT0iLCJ2YWx1ZSI6Im1YUGd4ZnVlb2RHV0I4S3lQd2x1SlZQUWw3YlhQOW9lMk4yYVY5NXM0cnRPbjRjUVM2SVhxYkFaT3hqWEx5XC9QNXhvZFkyRHdxUk1vcllcLzdjakRocEVyVjdrVjI1dHhGR3dRZkNoU0VOcGdMS1RzTnpodHFuZ2NHT0VsYmgxRkZxbXRoV3JpNldcL085MDBtZitNVnpxdz09IiwibWFjIjoiNjRkOTRjYmU3YWVmZDdkNzAxNWYxYWE3MDY2Y2QzZGY3MWYxZjZlMzBiOGU0MzU4NjA3MjgwMmRmZGY0ODc0OSJ9&amp;signature=10dd53ee8d5a9a1b9a050fe51c5785901d33f85edc4343751f1ab3f0ea7797ce</image>
+    <start>12:00AM</start>
+    <finish>01:00AM</finish>
+    <date>24 October 2026</date>
+  </channel>
+  <channel>
+    <name>Hír TV</name>
+    <id>HirTV.hu</id>
+    <title>Vez?rcikk - Olvasunk a sorok k?z?tt</title>
+    <desc>A m?sorban ?js?g?r?k elemzik az adott napon a sajt?ban megjelent cikkeket, de ezen fel?l Magyarorsz?gon egyed?l?ll?an bemutatj?k, hogy a m?snapi ?js?gok, weboldalak mir?l fognak ?rni.</desc>
+    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
+    <start>01:00AM</start>
+    <finish>01:30AM</finish>
+    <date>24 October 2026</date>
+  </channel>
+  <channel>
+    <name>Hír TV</name>
+    <id>HirTV.hu</id>
+    <title>Radar</title>
+    <desc>Riportm?sorunk izgalmas t?m?kkal ?s megk?zel?t?ssel pr?b?l a h?tk?znapi embereknek seg?teni olyan probl?m?k felt?r?s?val ?s megold?s?val, amely a nagyk?z?ns?get ?rinti. A m?sor h?zigazd?i Budai Ivett ?s Eper M?rton.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IlYxN1BSZ0ttczE4cnJpTDFPeG96UkE9PSIsInZhbHVlIjoiVnFsT3JjYmZORWJyM3NnZWM1bFZqVmlrN2MzQ0lhejY4MVU0Zmp5d0EzNFoxV3FTOGtwbWhwWHdkbVZSRkJVa3YyV2VZaXpySXB6TlROdzhsejlJdTd1Z0ZrU0l5SnRNbk1Sb2h0Y250NTc0VHR3aFVHUk1JeXVwOUVISmltTnUiLCJtYWMiOiI4NGZlMWY2Yzk2YzI2MGVhMjJkNTE2ZTBhYmE2NmEzZTBmOTBlMTViYWM5YTJhY2ViNGZlOGE0YjZhYzhiNzhmIn0%3D&amp;signature=19d07b3c53f68d1e1d5be579b3aed99f82125e7f26fcc11b7867afb1fe4d54d6</image>
+    <start>01:30AM</start>
+    <finish>01:45AM</finish>
+    <date>24 October 2026</date>
+  </channel>
+  <channel>
+    <name>Hír TV</name>
+    <id>HirTV.hu</id>
+    <title>Monitor</title>
+    <desc>A Monitorban politikusok, szak?rt?k elemzik a nap legfontosabb esem?nyeit. A m?sor kit?ntetett figyelmet ford?t a vid?k Magyarorsz?g?ra ?s a K?rp?t-medence magyar kisebbs?geket ?rint? f?bb esem?nyeire, a f?v?roson k?v?l t?rt?nt, orsz?gos ?rdekl?d?sre sz?mot tarthat? politikai esem?nyekre. A m?sor c?lcsoportja azok a rendszeres h?rfogyaszt?k, akik ?tlagos m?velts?ggel rendelkeznek a k?z?letr?l, ?s ?rdekl?dnek a m?lyebb ?sszef?gg?sek ir?nt.</desc>
+    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
+    <start>01:45AM</start>
+    <finish>02:00AM</finish>
+    <date>24 October 2026</date>
+  </channel>
+  <channel>
+    <name>Hír TV</name>
+    <id>HirTV.hu</id>
+    <title>Vet?t?</title>
+    <desc>Rendez?: Babos Tam?s 1956. november 1-j?n K?d?r J?nos elmondta az addigi legmark?nsabb r?di?besz?d?t a forradalom kezdete ?ta, amelyben R?kosi?k b?n?nek nevezte a szt?linizmust, dics?s?ges felkel?sk?nt jellemezte a forradalmat, amely ler?zta a n?p ?s az orsz?g nyak?r?l a R?kosi uralmat, kiv?vta a n?p szabads?g?t ?s az orsz?g f?ggetlens?g?t, amely n?lk?l nincs, nem lehet szocializmus. Ugyanez a K?d?r J?nos 1956. november 5-?n r?di?besz?dben k?z?lte az orsz?g n?p?vel a Magyar Forradalmi Munk?s-Paraszt Korm?ny megalakul?s?t ?s felsz?l?totta a magyarokat a szocialista rend megv?d?s?re, mik?zben Budapesten elkeseredett, v?res ut?v?dharcokat folytattak a felkel?k a f?v?rosba ?z?nl?tt szovjet p?nc?los ?s g?pes?tett egys?gekkel. Mi t?rt?nt ebben a n?gy napban?</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6InJCVDZQM2FjUHhwaVBOUHJxUlBZVlE9PSIsInZhbHVlIjoiMW9lNmtRRER2SlVGVzRoRlhNWUVsZXFFVFlRS1JSYUNHd0Y4QlZuM3I4NnlRWWhLWkhkOFlLV0FIYnJ4ME12cFh1RWVtVkNtQmRHaHVQWUxGRzEweFBJQ1IzNlhsQzkxZzNVMFwveWhFS1ZJPSIsIm1hYyI6IjY3MDQ4NDkzNzEyNzI3YmQwNzE5NTVkNTJkNjA2MWY5MjhmNjE0ZGQxOTQ5YmZlYjMwYzEzMWRlNjJiNWNiNDEifQ%3D%3D&amp;signature=57ff55d7dae4347415ce70c8cc76c5bb60f29bceb2bb401221316cb83b876eb3</image>
+    <start>02:00AM</start>
+    <finish>03:00AM</finish>
+    <date>24 October 2026</date>
+  </channel>
+  <channel>
+    <name>Hír TV</name>
+    <id>HirTV.hu</id>
+    <title>Vez?rcikk - Olvasunk a sorok k?z?tt</title>
+    <desc>A m?sorban ?js?g?r?k elemzik az adott napon a sajt?ban megjelent cikkeket, de ezen fel?l Magyarorsz?gon egyed?l?ll?an bemutatj?k, hogy a m?snapi ?js?gok, weboldalak mir?l fognak ?rni.</desc>
+    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
+    <start>03:00AM</start>
+    <finish>04:00AM</finish>
+    <date>24 October 2026</date>
+  </channel>
+  <channel>
+    <name>Hír TV</name>
+    <id>HirTV.hu</id>
+    <title>Telev?zi?s v?s?rl?si m?sorablak</title>
+    <desc>A hirdet?s ?runak, szolg?ltat?snak a forgalmaz?val vagy szolg?ltat?val val? kapcsolatteremt?s ?tj?n t?rt?n? ?rt?kes?t?s?re vagy m?s m?don t?rt?n? ig?nybev?tel?re tartalmaz k?zvetlen aj?nlatot.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IkI3VEZXYjN2Z0xWNkJLNFwvQ2tpZzh3PT0iLCJ2YWx1ZSI6Ik80UjVwS3FqcWxZYWJDaWZYNnQ0c2F6YUIzV0dkK1laaU10VGw2SEl0Vno0dG9ETkpRNHBkN1wvNWIzN2dKMXZFSlpnQXhiTGlZbnVHalJCdVRUSVoxeWh6VFZzZnJcL3g4S095M2RpRjQ2WWVaRkNIODhNM1dTejFqaTVZcnFjdEJYT1lVU2ZTc1RUUGxTZFZHWk54TG9BPT0iLCJtYWMiOiJjNjUyZjE1ODMwYzVlZTA0YzUxZjQ3N2MzZTQ3NDlmYTllNDM5OGI5N2U1YWZjNjk0YjY5MTk0ZWRiNGE2MDY3In0%3D&amp;signature=69d00ce158818c23a6316a978ee66d625dc6f6e9848fa03f92c3001be782fca7</image>
+    <start>04:00AM</start>
+    <finish>05:00AM</finish>
+    <date>24 October 2026</date>
+  </channel>
+  <channel>
+    <name>Hír TV</name>
+    <id>HirTV.hu</id>
+    <title>Vez?rcikk - Olvasunk a sorok k?z?tt</title>
+    <desc>A m?sorban ?js?g?r?k elemzik az adott napon a sajt?ban megjelent cikkeket, de ezen fel?l Magyarorsz?gon egyed?l?ll?an bemutatj?k, hogy a m?snapi ?js?gok, weboldalak mir?l fognak ?rni.</desc>
+    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
+    <start>05:00AM</start>
+    <finish>06:00AM</finish>
+    <date>24 October 2026</date>
+  </channel>
+  <channel>
+    <name>Hír TV</name>
+    <id>HirTV.hu</id>
+    <title>H?rad?</title>
+    <desc>A m?sor naponta t?bbsz?r jelentkezik a K?rp?t-medence ?s a nagyvil?g legfrissebb h?reivel. Politikai ?s k?z?leti t?m?k, szoci?lis, p?nz?gyi, gazdas?gi k?rd?sek ker?lnek ter?t?kre, helysz?ni tud?s?t?sokkal ?s ?l? bejelentkez?sekkel kieg?sz?tve.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IjQzcnNTM3dWMjNBUkFNQ3NUY2JTOXc9PSIsInZhbHVlIjoiM2dDNlBCVXdWMngxSzArRUxNRTYwcjNuWXdOUW0yYXp3UVFMMVRQYUJaY3NoWjhSR1pMdG5pMmVuV25XYzBBdkVcL0U0OUFHbkRBMk9kU3lrallQYVltZG1SMDl3dUl1WGtwSjlZRXdrSEMwdVRaOUE1cU9QUDh5SWUzRTBIdGxaeTdjU1duQmpQOUxBQ043VGtuSkRlUT09IiwibWFjIjoiZDRhODFmNDNjOGQ4ZTNmMDI5MjYyOGM4ZDJlNzFkMDZjN2NhOTJmY2E5ZDEyZTRmYWZhN2NkYmU2NzFmOWRiMSJ9&amp;signature=7a2d2a557251efa56ccfd2c4747d15248b38176fba6ed56cb4aaae43d821ea2a</image>
+    <start>06:00AM</start>
+    <finish>07:00AM</finish>
+    <date>24 October 2026</date>
+  </channel>
+  <channel>
+    <name>Hír TV</name>
+    <id>HirTV.hu</id>
+    <title>Ikon Budai Ivettel</title>
+    <desc>Frissess?g, dinamikuss?g, ?rdekess?g sok ?szinte gondolattal ?tv?zve. Egy rendk?v?li ?s egyed?l?ll? riportsorozat, ami ?gy mutat be politikusokat ?s k?z?leti szerepl?ket, ahogyan nem l?tt?k kor?bban a n?z?k.</desc>
+    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
+    <start>07:00AM</start>
+    <finish>08:00AM</finish>
+    <date>24 October 2026</date>
+  </channel>
+  <channel>
+    <name>Hír TV</name>
+    <id>HirTV.hu</id>
+    <title>P?ntek 18</title>
+    <desc>Nincs le?r?s</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IktCZXdoMklrVnlObXFiRzU4NWFlZVE9PSIsInZhbHVlIjoiV0RZU0tyRFN3K2V5WnV5WVBBVGNJWFBCU21TNGp5WWxZM3A3WTJPOFhOTUJoXC9BVWQ0eFNURDFKSDRVajRpYVNTdklWalRkMGcwV2prNTlPRzEzQytVVzZmSndHQ2dUdzVvWGdteGR6cjJHR1ZGdkd6cnByaExsWVwvYnNabUtRT3ZYZEk3dnN4b2lvUmFURlp1ck9uT2RuTGwxd1NhTkdNUlpnT1hHaWZnZzVBaGJPbjFSeEUwSmN2eU01RVJ3SHEiLCJtYWMiOiJmODkwNDM1ZDQ2MjIxNWI5MjMyMTg0MjdhOWYwMmI4ZWI4MmE5ZmMxZTkzNmNhYjk5N2Y2YTU0ZTBmYjEzMWVmIn0%3D&amp;signature=17db067aac27221714b0a55943b5f412f06e86aff792bbd226adb708bffee620</image>
+    <start>08:00AM</start>
+    <finish>09:00AM</finish>
+    <date>24 October 2026</date>
+  </channel>
+  <channel>
+    <name>Hír TV</name>
+    <id>HirTV.hu</id>
+    <title>Telev?zi?s v?s?rl?si m?sorablak</title>
+    <desc>A hirdet?s ?runak, szolg?ltat?snak a forgalmaz?val vagy szolg?ltat?val val? kapcsolatteremt?s ?tj?n t?rt?n? ?rt?kes?t?s?re vagy m?s m?don t?rt?n? ig?nybev?tel?re tartalmaz k?zvetlen aj?nlatot.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IlBGV0MwcFBaMWRqc2syR1k4dElHZEE9PSIsInZhbHVlIjoidk9GSkhXN2JYSmQ5Y3lMUkJnYWhzQ2ZBaWk5R0JjYnRvMFd0b0kySmdCVThRdnF0M29oblloMjlXYklIM2xYeDk1MU5UVFcxSm9NM3k0YVV3UVRnSkxLQlZyRStXdHRKRlRjK25mYzVLYjZpYWxJSHQ3S3JGekprODdIVXlOKzU5czBvSEhaVUpWT3hPSzNTK1ZBYlNBPT0iLCJtYWMiOiI1NGRjZmYzZTVkMWZiODg1OWI5ZjNmZjhjMzFmNGJiNGFkNTc4OGYwMjM4M2NiOTlhN2YzN2FjN2JkYTVkZGNiIn0%3D&amp;signature=b7482296891d38d63979f278e1aa47f947bba4558e2178b2a0dced877a64d0b9</image>
+    <start>09:00AM</start>
+    <finish>10:00AM</finish>
+    <date>24 October 2026</date>
+  </channel>
+  <channel>
+    <name>Hír TV</name>
+    <id>HirTV.hu</id>
+    <title>Komment</title>
+    <desc>Kem?ny v?g?sok, ?gyes sz?r?sok jobbr?l ?s balr?l. A m?sorvezet? vend?geivel veszi sorra a legfontosabb, ?rdekl?d?sre legink?bb sz?mot tart? k?z?leti t?rt?n?seket, esem?nyeket. Mindenki elmondhatja ?s el is mondja ?ll?spontj?t, a m?sorvezet? moder?l?sa mellett a n?z?k kem?ny vit?kra sz?m?thatnak. ?sszecsaphat a st?di?ban jobb ?s bal, konzervat?v ?s liber?lis, itt nem a lovagiass?g, hanem a sz?kimond?s sz?m?t.</desc>
+    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
+    <start>10:00AM</start>
+    <finish>11:00AM</finish>
+    <date>24 October 2026</date>
+  </channel>
+  <channel>
+    <name>Hír TV</name>
+    <id>HirTV.hu</id>
+    <title>H?rad?</title>
+    <desc>A m?sor naponta t?bbsz?r jelentkezik a K?rp?t-medence ?s a nagyvil?g legfrissebb h?reivel. Politikai ?s k?z?leti t?m?k, szoci?lis, p?nz?gyi, gazdas?gi k?rd?sek ker?lnek ter?t?kre, helysz?ni tud?s?t?sokkal ?s ?l? bejelentkez?sekkel kieg?sz?tve.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IlRWcm40ZVo4dU5aQ0hiUUpuTFNuRlE9PSIsInZhbHVlIjoiWXoxUGU1ZzBiNHlQZVBkUVwvMjU5Tk1vN3ljRW0zS0szN20zNmpITWw0bWRFVHJPTm5ZN0s1R05vbCtLWjkzVG5BRDVBUkFyNGVFS3djYTNjNEpTSitFd2crVWNwaTJMM2hyakxEVGwrekRZTGdDandzZm1EeE40SEtmZnJzMzFqbkRhXC8xQ3JXMEtvSXJjc21KQXF4RHc9PSIsIm1hYyI6ImU0NWY1YTczNDA5MDcxNmNlMTYxMTg4ZDE4Njg4ZWZhOTNmN2QxOTI2N2M5ZmYxY2I2NzkxZGUxYjJhMDdiYjEifQ%3D%3D&amp;signature=f711b3131eb7ddef026e44b90a223309798e59e013803a719eadb487c78a585a</image>
+    <start>11:00AM</start>
+    <finish>12:00PM</finish>
+    <date>24 October 2026</date>
+  </channel>
+  <channel>
+    <name>Hír TV</name>
+    <id>HirTV.hu</id>
+    <title>Riaszt?s</title>
+    <desc>Nincs le?r?s</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IkRQMFFOUTZPcDkxSUpOMXVJakFzNlE9PSIsInZhbHVlIjoiTGZxRXMwS2MyYWVJSlZTeVgzRllXd0RXYUY5XC92YnBIRmVNMlVxRERXUHNrK3p6em1DNk5UOVJFeStKbEpBTU9VMVF1SEhBdEtrek9KNFRYOU4wY1UxdWpsbjVkN0dONFVFcm9vXC9mcTMwTTRJQ0dPZldRM1ZPYTVCd2RqVHlKMyIsIm1hYyI6IjVlMDI4MTBmNDY0ODlkM2M5MDcxZDhkNDI2Y2EwNmRiOTljM2RhOWY1YTllYjdhMDBiZWNhMjk4ZDk5NTk4OGQifQ%3D%3D&amp;signature=9d1f507ac56f0ce1a4d3f0925821ce3c51b07f5812fc1a3ba4c3ed93cfe0fe64</image>
+    <start>12:00PM</start>
+    <finish>01:00PM</finish>
+    <date>24 October 2026</date>
+  </channel>
+  <channel>
+    <name>Hír TV</name>
+    <id>HirTV.hu</id>
+    <title>Vez?rcikk - Olvasunk a sorok k?z?tt</title>
+    <desc>A m?sorban ?js?g?r?k elemzik az adott napon a sajt?ban megjelent cikkeket, de ezen fel?l Magyarorsz?gon egyed?l?ll?an bemutatj?k, hogy a m?snapi ?js?gok, weboldalak mir?l fognak ?rni.</desc>
+    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
+    <start>01:00PM</start>
+    <finish>02:00PM</finish>
+    <date>24 October 2026</date>
+  </channel>
+  <channel>
+    <name>Hír TV</name>
+    <id>HirTV.hu</id>
+    <title>H?rad?</title>
+    <desc>A m?sor naponta t?bbsz?r jelentkezik a K?rp?t-medence ?s a nagyvil?g legfrissebb h?reivel. Politikai ?s k?z?leti t?m?k, szoci?lis, p?nz?gyi, gazdas?gi k?rd?sek ker?lnek ter?t?kre, helysz?ni tud?s?t?sokkal ?s ?l? bejelentkez?sekkel kieg?sz?tve.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IktYdUFCTTEzTXk1VFJxRDBhNFVYclE9PSIsInZhbHVlIjoiU2gwTVVIRzFJamJYK2J0WkZIZGcwOHZaWEN3WDgwUElzb2k2WFhpSmx2MUg1TzEyWHNTZERYaWNtcUFYOE1CbTY0eDVEMktnOWY1b0t2MjJiWHRvQk0yVlk0NmVTQ1ppQzNtTXY5VlRBZ3piaUhieVErK05INmwxd2JDd0VYUHVYcFdQVENUc056RmdGYmhmbFFLdk13PT0iLCJtYWMiOiI1ZGJlNGU3OGIzN2U2MzMyNjliZjEwZWMzYzdhNmY5ZGMyYmJkY2QxNzkwOGJhODAzY2MyODllYzUwMDkwOWFhIn0%3D&amp;signature=2371489173996f46ef7d4fee376e1d1962cefc1042b32fac76752c13f2bbb2fe</image>
+    <start>02:00PM</start>
+    <finish>02:30PM</finish>
+    <date>24 October 2026</date>
+  </channel>
+  <channel>
+    <name>Hír TV</name>
+    <id>HirTV.hu</id>
+    <title>Pal?ver</title>
+    <desc>A Pal?ver a H?r TV ?s a H?r FM interakt?v, a k?z?gyeket, aktu?lpolitikai esem?nyeket t?rgyal?, a polg?rok v?lem?ny?t hallhat?v? t?v? m?sora. Nincs tabu t?ma, nincs tabu k?rd?s. Mindazokat v?rj?k a m?sorvezet?k, akik alak?tani akarj?k a k?zbesz?det, akik v?lem?ny?kkel hozz?j?ruln?nak a k?z?s gondolkod?shoz, akik vitatkozni akarnak k?z?s ?gyekr?l.</desc>
+    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
+    <start>02:30PM</start>
+    <finish>04:00PM</finish>
+    <date>24 October 2026</date>
+  </channel>
+  <channel>
+    <name>Hír TV</name>
+    <id>HirTV.hu</id>
+    <title>H?rad?</title>
+    <desc>A m?sor naponta t?bbsz?r jelentkezik a K?rp?t-medence ?s a nagyvil?g legfrissebb h?reivel. Politikai ?s k?z?leti t?m?k, szoci?lis, p?nz?gyi, gazdas?gi k?rd?sek ker?lnek ter?t?kre, helysz?ni tud?s?t?sokkal ?s ?l? bejelentkez?sekkel kieg?sz?tve.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IlVjWElPS2pBZEhHSWU3ZWR2U3BYVEE9PSIsInZhbHVlIjoiVWttTTcySUs0XC9oSDZmeUdHSzBPSU9GSlA4NDhwSUZhSlBSUGQxaFRnYXpYc0tvVURcL1pQemtMVlp6dlZMbk1yN2ZXN3JUMDJRTXhUVlhjY0tjWjBzTlhhSlNlSkM3bXczUVdPSHIwVnlqUHZMVG9xREFzMklJenh6SEF5MU1kODZJdG1IUnY0YTFTeHFsSzhrVktCXC9BPT0iLCJtYWMiOiI3M2M4NDVkNjUyMjc4N2MzMWZiMWFiNmEzN2MzY2U0ZWQ1YWJlZDJlOGJkM2M2ZDMxMjljMTk4OTc3M2Y2ODA0In0%3D&amp;signature=78e51c3cf05070e7a1aa647fa51703f6671df84e0b02cf53b54d4937abdbee4c</image>
+    <start>04:00PM</start>
+    <finish>04:30PM</finish>
+    <date>24 October 2026</date>
+  </channel>
+  <channel>
+    <name>Hír TV</name>
+    <id>HirTV.hu</id>
+    <title>Radar r?ad?s</title>
+    <desc>A m?sor izgalmas t?m?kkal ?s megk?zel?t?ssel pr?b?l a h?tk?znapi embereknek seg?teni olyan probl?m?k felt?r?s?val ?s megold?s?val amely a nagyk?z?ns?get ?rinti.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6ImRXTVwvbkF6Qk9oKzZLWEk2MVdZQmhnPT0iLCJ2YWx1ZSI6Im1Gajh6aEZnNXZVc0ZRZ2lOcHZWeG9PNjFRbyt4OWUxeGVlS0ZYRjRGbERlRTZoMTkyVzJoWDk0eDhkK1E4bmFJc29MaEtoaWczWU9KZTZqa3pES1RGQ1lNWnV6c3Vjcnd4aFlIWGtBM294M3FcL1NVeHlVdG55c2hUWmFjZ2JaUjdTWEZ6eHJjbko3eGR5Z1ZwYWwzQ3JLcGNrbER6RTZLdmo5TFFCNUFRQTRPYlwvUXhhd0VYdlF6TGFZaDR3RUVmIiwibWFjIjoiYWMxMmVhNDVjOTJiODdmNDE4NDA2MzM4OWRjNmQ2MzY4Y2ZhYzQ0ZjVmOTU4ZTlkNDM5Zjc0YjZjZjBkNjA3NiJ9&amp;signature=a57a9db82c75889a21673cc3645ea1a9f6cc66bd44d9c9db58c970a8f18219ae</image>
+    <start>04:30PM</start>
+    <finish>06:00PM</finish>
+    <date>24 October 2026</date>
+  </channel>
+  <channel>
+    <name>Hír TV</name>
+    <id>HirTV.hu</id>
+    <title>Komment extra</title>
+    <desc>Kem?ny v?g?sok, ?gyes sz?r?sok jobbr?l ?s balr?l. A m?sorvezet? vend?geivel veszi sorra a legfontosabb, ?rdekl?d?sre legink?bb sz?mot tart? k?z?leti t?rt?n?seket, esem?nyeket. Mindenki elmondhatja ?s el is mondja ?ll?spontj?t, a m?sorvezet? moder?l?sa mellett a n?z?k kem?ny vit?kra sz?m?thatnak. ?sszecsaphat a st?di?ban jobb ?s bal, konzervat?v ?s liber?lis, itt nem a lovagiass?g, hanem a sz?kimond?s sz?m?t.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6Im51ZEpjQnhcL2duRTFzcERoRmNYZjFRPT0iLCJ2YWx1ZSI6Img1MkZEQnpcL1R5Yndpblh5ZHQ5ZjhmXC9VbXAwSmY2OXVGR0kxOUdHVWxYdEtkYkZkcnFPU2xDWU5CWE0xT0hKem5XNGxWbHdcL3N3RDNuWkpRd0xGa2VCQ0JtNDh1SFRSZ2JKWGNJK0h4b1k0PSIsIm1hYyI6IjM3NjAxYmRkYzRmNDE2MWE3MGNiZmYxYTRmZjMyNDNmN2QzNmE0YjY0YjdhMWZhOGZjZWNjYzQ1YjU0YTdiMTEifQ%3D%3D&amp;signature=efc70aa2ffaff617875cf666aeef6b46dae6b6a31137927d8335758d04c7e568</image>
+    <start>06:00PM</start>
+    <finish>07:00PM</finish>
+    <date>24 October 2026</date>
+  </channel>
+  <channel>
+    <name>Hír TV</name>
+    <id>HirTV.hu</id>
+    <title>Vez?rcikk caf? - Olvasunk a sorok k?z?tt</title>
+    <desc>Nincs le?r?s</desc>
+    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
+    <start>07:00PM</start>
+    <finish>08:00PM</finish>
+    <date>24 October 2026</date>
+  </channel>
+  <channel>
+    <name>Hír TV</name>
+    <id>HirTV.hu</id>
+    <title>Troll</title>
+    <desc>Dobos Marianne ?s vend?gei sz?ttrollkodj?k a balliber?lis m?di?t.</desc>
+    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
+    <start>08:00PM</start>
+    <finish>09:00PM</finish>
+    <date>24 October 2026</date>
+  </channel>
+  <channel>
+    <name>Hír TV</name>
+    <id>HirTV.hu</id>
+    <title>H?rad?</title>
+    <desc>A m?sor naponta t?bbsz?r jelentkezik a K?rp?t-medence ?s a nagyvil?g legfrissebb h?reivel. Politikai ?s k?z?leti t?m?k, szoci?lis, p?nz?gyi, gazdas?gi k?rd?sek ker?lnek ter?t?kre, helysz?ni tud?s?t?sokkal ?s ?l? bejelentkez?sekkel kieg?sz?tve.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IlwvUnNQazduNWpuVnc3NjNCMHZ2ZEhnPT0iLCJ2YWx1ZSI6IlhpRUhVNEN3ZXlET0h1MDlQQzJtNUszalZkY1VZU0hDamVURncxUVF1QWZQWFZpa0RxNWFWdk1PSjBJOENoQkdzU3VWOXM4amcxMEpNZm5PUXExelJNQ1BaXC9WaHZseXlsalplOXFFN1I4dFN4WDRWczU5ZjdNNFhnT3JXdVArMTUyRWNGeUxcL1FTZnA1MnRLdmNmM0lRPT0iLCJtYWMiOiI5ZTllODZlZTI4NDEwMTQ2Y2M5MTk3N2ZiNTVhMTFlY2FhYzM4NjU3NThkYWVjOWJiZmQ5MTU2ZGMzMGY0NTg4In0%3D&amp;signature=edb1597de67dce185e2fdfb4c5bcb872dda3a2d2122a588381dfc5cb8f03bde4</image>
+    <start>09:00PM</start>
+    <finish>09:30PM</finish>
+    <date>24 October 2026</date>
+  </channel>
+  <channel>
+    <name>Hír TV</name>
+    <id>HirTV.hu</id>
+    <title>Ikon Budai Ivettel</title>
+    <desc>Frissess?g, dinamikuss?g, ?rdekess?g sok ?szinte gondolattal ?tv?zve. Egy rendk?v?li ?s egyed?l?ll? riportsorozat, ami ?gy mutat be politikusokat ?s k?z?leti szerepl?ket, ahogyan nem l?tt?k kor?bban a n?z?k.</desc>
+    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
+    <start>09:30PM</start>
+    <finish>10:30PM</finish>
+    <date>24 October 2026</date>
+  </channel>
+  <channel>
+    <name>Hír TV</name>
+    <id>HirTV.hu</id>
+    <title>Komment extra</title>
+    <desc>Kem?ny v?g?sok, ?gyes sz?r?sok jobbr?l ?s balr?l. A m?sorvezet? vend?geivel veszi sorra a legfontosabb, ?rdekl?d?sre legink?bb sz?mot tart? k?z?leti t?rt?n?seket, esem?nyeket. Mindenki elmondhatja ?s el is mondja ?ll?spontj?t, a m?sorvezet? moder?l?sa mellett a n?z?k kem?ny vit?kra sz?m?thatnak. ?sszecsaphat a st?di?ban jobb ?s bal, konzervat?v ?s liber?lis, itt nem a lovagiass?g, hanem a sz?kimond?s sz?m?t.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IjJvVXJ0MVl0UW1DNUFUVXI0eVlzRXc9PSIsInZhbHVlIjoiVGZwQTByZXdNWU9XTU53NjQ2bm9iaFR2a3pvRlBvTEw0bUxYXC9jRVR5aW52ZnBFcloxM2Z1MTFGRlVtNDVPYTNWaGtcLzJJa0pEVzR4U2I2TTFwbnpDMGQ2ZFl6SnRESVlHQTUrNGFtSGt5dz0iLCJtYWMiOiIyMmJlMjFmNTM2Nzg2Njc0OTE5NmFiOWE5ZGRmMTA2YmExYTJhYTAyMjAzNGU5NzU5YTk0ZWExODNjYTRiMTRlIn0%3D&amp;signature=256b6e1e79ae3b7e73fae28a0ccac27d9423de0f41a1aac15db469224c751e5b</image>
+    <start>10:30PM</start>
+    <finish>11:30PM</finish>
+    <date>24 October 2026</date>
+  </channel>
+  <channel>
+    <name>Hír TV</name>
+    <id>HirTV.hu</id>
+    <title>Telev?zi?s v?s?rl?si m?sorablak</title>
+    <desc>A hirdet?s ?runak, szolg?ltat?snak a forgalmaz?val vagy szolg?ltat?val val? kapcsolatteremt?s ?tj?n t?rt?n? ?rt?kes?t?s?re vagy m?s m?don t?rt?n? ig?nybev?tel?re tartalmaz k?zvetlen aj?nlatot.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6Ikt2NTJyUkVGSFBja0FcL0dpempCdkhnPT0iLCJ2YWx1ZSI6ImJIQ3JWWmJZY2l1eFVrc2lqYitsM1hrSkxodVJZc1o0a2tXTnpyeVdZMk56ZDlvcjM3Y0pIczg1Zllpdlg5T2lkcnI2QVBVbkdsK0lBdDNwSXBKc2xCcFZ1aXJKdFVcL3p3ZUZzRFB6UDdOaGpZMFZkMThTeEtJM2hJbDZialcrb01RZEpxQWM3YnlOVmphMzJcL3NrWGdnPT0iLCJtYWMiOiIxOGRiOTgxNGUwZDk0YjBmNGNjMTNlYjM0Y2JiMGJhZmM1MmM4MWY2NGMzMDdhNzk3NDhlYWEwOTU4MzQxYzI4In0%3D&amp;signature=44478d5de60e1ea2fdd0530dc2bc621c50e7befbfbb2ce8d49b413665372223e</image>
+    <start>11:30PM</start>
+    <finish>12:30AM</finish>
+    <date>24 October 2026</date>
+  </channel>
+  <channel>
+    <name>Hír TV</name>
+    <id>HirTV.hu</id>
+    <title>Vez?rcikk caf? - Olvasunk a sorok k?z?tt</title>
+    <desc>Nincs le?r?s</desc>
+    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
+    <start>12:30AM</start>
+    <finish>01:15AM</finish>
+    <date>25 October 2026</date>
+  </channel>
+  <channel>
+    <name>Hír TV</name>
+    <id>HirTV.hu</id>
+    <title>Radar r?ad?s</title>
+    <desc>A m?sor izgalmas t?m?kkal ?s megk?zel?t?ssel pr?b?l a h?tk?znapi embereknek seg?teni olyan probl?m?k felt?r?s?val ?s megold?s?val amely a nagyk?z?ns?get ?rinti.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6InZ1eGlaeXMwZHd2aVlqTDNQUVNqMWc9PSIsInZhbHVlIjoiTEZZWjBMMWprbEd3WlZ4TmhOR0lMMGxZNjNobklBNzZ2cUJvOEpGRFZWWUttOXJDaVJoVEJNR1dtUnNVMWROeVwvTitWbHF1U2NFOUZibzNsTUphZElXWTEyV2wyTUdVQTgrUys2S2hZN3RxcWNxTGR1T2dBdnVVZGRqKzFsYXljcUIxZmI2S3kxcEFucGYxVXZKQ0p0NjVZUVlVdE5KeHp5QUJvdkRSdFM0S0trRDNteXN1WWtHdmNFSkFxUGZLeSIsIm1hYyI6ImJlYzE1YWI3NGUxNzIzNDY2MDIzZGYwYTA5OWEzM2JmYzA5OGIwZTJmYThmZGI4ODBlMWQ3ZmJjYjYyOTBhMWUifQ%3D%3D&amp;signature=8a4bf507880873aa4f5c3fc928c3f7cc988702acddf22e613a2b089421fc90c3</image>
+    <start>01:15AM</start>
+    <finish>01:30AM</finish>
+    <date>25 October 2026</date>
+  </channel>
+  <channel>
+    <name>Hír TV</name>
+    <id>HirTV.hu</id>
+    <title>P?ntek 18</title>
+    <desc>Nincs le?r?s</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IjkwQ1NPNkVKZHlXamlCS1wvSHJcL1hzZz09IiwidmFsdWUiOiJkQk1pYUNMUnpISWhuVVA1NUNJUWVzenhQOGVMY09cL3dJV2V4eWlcL2lFZzh2NStBODE0YXNGaW5pOEVqR2lIYUQ0N2ZwdnNFK3M1RDBZREdFNDZMNzVYNWFyVlRqYnd6YUNSZThTMDJGcVVhY0MzMHJIVzcwbG15XC81V3phbWV5QlpVNWR4Y2piSlBKOWJ6NzhCaDdvNDBWdTd6aVZLYjFaSnN6OVBndHBES0lmQ0RlTTZydG94WDFYN1JlUGlEU2UiLCJtYWMiOiIwZTg3MTZhZjZmOWU3YTVmNmUyMjAxODIyZTBjOWQxZDcxNzI2MTU3ODQ1MGJiNWRlMjQ1N2I1OWIzY2Y0ODQ5In0%3D&amp;signature=5f96b881ce84141377ddfb11152c491bd82e4d5fb5f7496049261a5e8a4356f1</image>
+    <start>01:30AM</start>
+    <finish>02:00AM</finish>
+    <date>25 October 2026</date>
+  </channel>
+  <channel>
+    <name>Hír TV</name>
+    <id>HirTV.hu</id>
+    <title>Vet?t?</title>
+    <desc>Rendez?: Z?mborszki ?kos Kevesen tudnak r?la, de k?nnyen el?fordulhatott volna, hogy a modern kori olimpi?k megrendez?s?nek ?tlet?t nem a francia Coubertin b?r?hoz, hanem a magyar Vermes Lajoshoz k?tik. Az antik g?r?g olimpiai j?t?kokat nem a francia Pierre de Coubertin ?rtelmezte ?jra el?sz?r, hanem egy palicsi f?ldbirtokos (ma: Palic, Szerbia): Vermes Lajos. ? szervezte meg a Magyar Olympi?szk?nt is eml?tett (Hercules Sport ?js?g, 1885) Palicsi J?t?kokat 1880 ?s 1914 k?z?tt. A Palicsi J?t?kok 34 ?ven ?t l?tezett, nemzetk?zi r?sztvev?kkel, saj?tos alternat?v?jak?nt a 14 ?vvel k?s?bb l?trehozott nemzetk?zi olimpiai j?t?koknak. A Magyar Olympi?sz c?m? film valamennyi fellelhet? eml?k ?s fot? bemutat?s?val, az eredeti, ma is l?tez? helysz?neken forog, eml?ket ?ll?tva annak a m?ltatlanul elfeledett embernek, akinek a modernkori olimpi?kat megel?z? Palicsi J?t?kokat k?sz?nhetj?k.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6ImtKMTdCY0NBZmhQV1V4WncyWUk3SWc9PSIsInZhbHVlIjoiMHcrUktzNE9FdEV6REdnRW5SM1Z1MjZTbG5rXC9hWUhDMmRwaDVVdUFkc0NUUkZFYklZY1JMV1dvdUFvVGJIRklTZkNPTW9cL2ZtQUNpXC9HdDdlQ1BZMDZsbXBEc0kyMytGaFViVndFakdSZnc9IiwibWFjIjoiNzU5ZTk3N2Y3MDNlMDllNjVjOTNkMmRjNjBhYTY2Zjk4MjIwYTk0YjM2MjVkMTAzMDJhNmNlZGYwODk1YjFiMCJ9&amp;signature=45c40977aafc1a8bffe2594bd945a32ecb8dcdae29186a65bf66dcbe0da4499a</image>
+    <start>02:00AM</start>
+    <finish>03:00AM</finish>
+    <date>25 October 2026</date>
+  </channel>
+  <channel>
+    <name>Hír TV</name>
+    <id>HirTV.hu</id>
+    <title>Vez?rcikk - Olvasunk a sorok k?z?tt</title>
+    <desc>A m?sorban ?js?g?r?k elemzik az adott napon a sajt?ban megjelent cikkeket, de ezen fel?l Magyarorsz?gon egyed?l?ll?an bemutatj?k, hogy a m?snapi ?js?gok, weboldalak mir?l fognak ?rni.</desc>
+    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
+    <start>03:00AM</start>
+    <finish>04:00AM</finish>
+    <date>25 October 2026</date>
+  </channel>
+  <channel>
+    <name>Hír TV</name>
+    <id>HirTV.hu</id>
+    <title>Telev?zi?s v?s?rl?si m?sorablak</title>
+    <desc>A hirdet?s ?runak, szolg?ltat?snak a forgalmaz?val vagy szolg?ltat?val val? kapcsolatteremt?s ?tj?n t?rt?n? ?rt?kes?t?s?re vagy m?s m?don t?rt?n? ig?nybev?tel?re tartalmaz k?zvetlen aj?nlatot.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IkczR3RcL0ZEeDdwY1RIMHhvK1UzdTF3PT0iLCJ2YWx1ZSI6IlVDb3pcL0Y1NnBVbHQ4TUVZSXRZdTNKT09idzIxWnJ5Uk9rU29WVk1ad1p1ckZWM1RMcmZ2bTR0YTZYenZCZXdvQ3ExU3FqWWRQNnprVGV2MWpYdmdjdnVcLzRLbk92SUptRDVSaHZwaDcraW12R2hNSGdtdkVVNnpRYUFFZXBrbzVNQk5laXBqbUp0V1NVXC82eStaSFJXUT09IiwibWFjIjoiMTBkMDVlNGRhYWY1MjNkMmYwM2QwNTM3NzE5YzdkZDdhODhjNjI2MzkyOWQ0YWUyZDcyZTlhNTQzZWNkMmNmZiJ9&amp;signature=ac59e6576c01018e151817a17a5cee466deb9fe46ae1857e2bf86e3b13ee9890</image>
+    <start>04:00AM</start>
+    <finish>05:00AM</finish>
+    <date>25 October 2026</date>
+  </channel>
+  <channel>
+    <name>Hír TV</name>
+    <id>HirTV.hu</id>
+    <title>Vez?rcikk - Olvasunk a sorok k?z?tt</title>
+    <desc>A m?sorban ?js?g?r?k elemzik az adott napon a sajt?ban megjelent cikkeket, de ezen fel?l Magyarorsz?gon egyed?l?ll?an bemutatj?k, hogy a m?snapi ?js?gok, weboldalak mir?l fognak ?rni.</desc>
+    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
+    <start>05:00AM</start>
+    <finish>06:00AM</finish>
+    <date>25 October 2026</date>
+  </channel>
+  <channel>
+    <name>Hír TV</name>
+    <id>HirTV.hu</id>
+    <title>H?rad?</title>
+    <desc>A m?sor naponta t?bbsz?r jelentkezik a K?rp?t-medence ?s a nagyvil?g legfrissebb h?reivel. Politikai ?s k?z?leti t?m?k, szoci?lis, p?nz?gyi, gazdas?gi k?rd?sek ker?lnek ter?t?kre, helysz?ni tud?s?t?sokkal ?s ?l? bejelentkez?sekkel kieg?sz?tve.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6ImFFcGJPclFQWkMzRE8zVmxEZzBVY2c9PSIsInZhbHVlIjoiVnRMbjNKT2Q5aW01czFVMlJnT2prSGZvRGwwOGVNSDNjRHBTWVkwaTNHXC9rbENxK0pScXZCVDdMZkpwa2FqellUU2xkRHZKUldxZ2R2V3dDdFRLamZUUUZGb3FLdjREVTBuWXlBVGlEZUdRa1JMXC9BcjdVUGF6QkVEekE2UHJ2YjFKNE1CYmhVTFh4eWZScFlhT2ZMS2c9PSIsIm1hYyI6ImQ0NmE4YzMxZWRjMjNhM2JjZjNkZjBiYzA4N2NiNDc5MDQzZjY0OTBmMDkzZjM2NDc5MDUxOTk1ZDBkYzU2ZjYifQ%3D%3D&amp;signature=b01a1ae55f54e52e81a64cccec3f03a034acd2356597c1eead490c21e2a5aa8a</image>
+    <start>06:00AM</start>
+    <finish>07:00AM</finish>
+    <date>25 October 2026</date>
+  </channel>
+  <channel>
+    <name>Hír TV</name>
+    <id>HirTV.hu</id>
+    <title>Ikon Budai Ivettel</title>
+    <desc>Frissess?g, dinamikuss?g, ?rdekess?g sok ?szinte gondolattal ?tv?zve. Egy rendk?v?li ?s egyed?l?ll? riportsorozat, ami ?gy mutat be politikusokat ?s k?z?leti szerepl?ket, ahogyan nem l?tt?k kor?bban a n?z?k.</desc>
+    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
+    <start>07:00AM</start>
+    <finish>08:00AM</finish>
+    <date>25 October 2026</date>
+  </channel>
+  <channel>
+    <name>Hír TV</name>
+    <id>HirTV.hu</id>
+    <title>Vez?rcikk - Olvasunk a sorok k?z?tt</title>
+    <desc>A m?sorban ?js?g?r?k elemzik az adott napon a sajt?ban megjelent cikkeket, de ezen fel?l Magyarorsz?gon egyed?l?ll?an bemutatj?k, hogy a m?snapi ?js?gok, weboldalak mir?l fognak ?rni.</desc>
+    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
+    <start>08:00AM</start>
+    <finish>09:00AM</finish>
+    <date>25 October 2026</date>
+  </channel>
+  <channel>
+    <name>Hír TV</name>
+    <id>HirTV.hu</id>
+    <title>Telev?zi?s v?s?rl?si m?sorablak</title>
+    <desc>A hirdet?s ?runak, szolg?ltat?snak a forgalmaz?val vagy szolg?ltat?val val? kapcsolatteremt?s ?tj?n t?rt?n? ?rt?kes?t?s?re vagy m?s m?don t?rt?n? ig?nybev?tel?re tartalmaz k?zvetlen aj?nlatot.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6Ik9aa0pmaGdGbFlGVlBMUUoxdlBJTUE9PSIsInZhbHVlIjoiR0sydlwvZkpmMEJ0QWFKSFo2UktTQWF5SkR4Wll3bTFweXMwamZHK29rdGZOclowcEJScDhYMmw2WDlBQXZFWVNBVjdCZjM5T3Q3NXpsQlp5TDROSmVrWUI5TG1NRjNEQXJha2NTWUFuVXNMaTU4XC95RFpPZWtIRnlXdlhwR0hGam5HU29TMU5abTRuekNCZzBFdURhYUE9PSIsIm1hYyI6IjZlYzk0ZTI4NjBmN2MwYzA3MjViMjZmMDFjZGJjYzcwYjUyMjFjYzJhMGNhNmVmZGUxYjM3Y2Y3Yzc1NWY4NGYifQ%3D%3D&amp;signature=17582ac3deb4a6550e3fdf2b9d607ef41417ccdb0d94a43e9778cd59143518b6</image>
+    <start>09:00AM</start>
+    <finish>10:00AM</finish>
+    <date>25 October 2026</date>
+  </channel>
+  <channel>
+    <name>Hír TV</name>
+    <id>HirTV.hu</id>
+    <title>Komment extra</title>
+    <desc>Kem?ny v?g?sok, ?gyes sz?r?sok jobbr?l ?s balr?l. A m?sorvezet? vend?geivel veszi sorra a legfontosabb, ?rdekl?d?sre legink?bb sz?mot tart? k?z?leti t?rt?n?seket, esem?nyeket. Mindenki elmondhatja ?s el is mondja ?ll?spontj?t, a m?sorvezet? moder?l?sa mellett a n?z?k kem?ny vit?kra sz?m?thatnak. ?sszecsaphat a st?di?ban jobb ?s bal, konzervat?v ?s liber?lis, itt nem a lovagiass?g, hanem a sz?kimond?s sz?m?t.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IlwvZG5sb0RPRXpSXC9hXC9tXC9rM3F2bGJRPT0iLCJ2YWx1ZSI6IlwveXVEOEVSTmlERTZ1NUp1ODV1M3BRd0R1U2tUdUtDNnVJa1FUajdxcEYwMk9qTUU3eTJ2MERvV1VPcEVhN3d4azJzd2JzVzRiXC9oUGNqVURqMWR4aFRGS1NHaDZVZUxkT3NEZ2NCa2dUNHc9IiwibWFjIjoiZWQ2NTU0NmU1MTc0ZGU0NDM2MWViZTYxYmExNDA2MmNiNDkzYWQ2OWFkMGIwMjFjZTA4MDlmNTdjYjJhYzRiMiJ9&amp;signature=06a493548eb6f30b0f7723a99d12fdfa5eb352f335cb437df0996c68786d5a1d</image>
+    <start>10:00AM</start>
+    <finish>11:00AM</finish>
+    <date>25 October 2026</date>
+  </channel>
+  <channel>
+    <name>Hír TV</name>
+    <id>HirTV.hu</id>
+    <title>H?rad?</title>
+    <desc>A m?sor naponta t?bbsz?r jelentkezik a K?rp?t-medence ?s a nagyvil?g legfrissebb h?reivel. Politikai ?s k?z?leti t?m?k, szoci?lis, p?nz?gyi, gazdas?gi k?rd?sek ker?lnek ter?t?kre, helysz?ni tud?s?t?sokkal ?s ?l? bejelentkez?sekkel kieg?sz?tve.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6InFpXC9Zczc5M1Y1MmFNNzZxakExd1VRPT0iLCJ2YWx1ZSI6IjZNaWlxNkZ0cmJ6YldjcnJZU2grTWxJMnV0VEFJZUZ2T0R4NnRTclB6T0NUUUxUMWJhak1YN0JDcUpBS3g0bEVWVTR4eU15ZFE4MzA5MlZvQXlsQlFjSjh3UGUwbThxRGc1SjlqKytjcVFZKzhEUFhUTzREekc3bm96ZGlFYWZZbFFrWlYrdDJLSGk4VytkV2dFUktvUT09IiwibWFjIjoiMTJjMTczOTIxZDg1NjBmMDc5MDIwYzVjMzJiOWMzOTMwZGFhODhiOWNkM2Y0ZWI2YmNiZjVjODU4ZGE0ZjQzMyJ9&amp;signature=6236c06efbdac4e24a1bec9dce2a3c22c929e23871fbd58b96baa20e4fbf1d03</image>
+    <start>11:00AM</start>
+    <finish>12:00PM</finish>
+    <date>25 October 2026</date>
+  </channel>
+  <channel>
+    <name>Hír TV</name>
+    <id>HirTV.hu</id>
+    <title>Vez?rcikk caf? - Olvasunk a sorok k?z?tt</title>
+    <desc>Nincs le?r?s</desc>
+    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
+    <start>12:00PM</start>
+    <finish>01:00PM</finish>
+    <date>25 October 2026</date>
+  </channel>
+  <channel>
+    <name>Hír TV</name>
+    <id>HirTV.hu</id>
+    <title>Troll</title>
+    <desc>Dobos Marianne ?s vend?gei sz?ttrollkodj?k a balliber?lis m?di?t.</desc>
+    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
+    <start>01:00PM</start>
+    <finish>02:00PM</finish>
+    <date>25 October 2026</date>
+  </channel>
+  <channel>
+    <name>Hír TV</name>
+    <id>HirTV.hu</id>
+    <title>H?rad?</title>
+    <desc>A m?sor naponta t?bbsz?r jelentkezik a K?rp?t-medence ?s a nagyvil?g legfrissebb h?reivel. Politikai ?s k?z?leti t?m?k, szoci?lis, p?nz?gyi, gazdas?gi k?rd?sek ker?lnek ter?t?kre, helysz?ni tud?s?t?sokkal ?s ?l? bejelentkez?sekkel kieg?sz?tve.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IjFPMXlPT251VDRUeWo4UzBhRGIwTmc9PSIsInZhbHVlIjoiMVwvZEh2ZFhkRDN0cEorVkdvSnRpN3BmcjRlSjRYY1RSZ25IRnFEcGREWnV6KytoeDlLNGVpSkhrSmliRDJZam5kTHlTdEZ0OU9HM1czNVFYa2l0UlZPNEh5b2JWa0NcL3NGODZQMWhRUHdWS0Q2eExiQVRUeHh5NVIrRXdtZjhPendFSmZESzh5ZUh1ZTJmelZQdERKOXc9PSIsIm1hYyI6IjBiYjI5NzFlMjQwYmViZTM1Y2M3ZTVjNmRiODk4ZjA0NWYyNDExYWZkMjQ0ZWI2MzExNDZhZTE4NmQ3M2I4M2QifQ%3D%3D&amp;signature=b463172fce74ad64e27389fdd402fef7795a723b978cb1daa504b9c4b5598532</image>
+    <start>02:00PM</start>
+    <finish>02:30PM</finish>
+    <date>25 October 2026</date>
+  </channel>
+  <channel>
+    <name>Hír TV</name>
+    <id>HirTV.hu</id>
+    <title>Pal?ver</title>
+    <desc>A Pal?ver a H?r TV ?s a H?r FM interakt?v, a k?z?gyeket, aktu?lpolitikai esem?nyeket t?rgyal?, a polg?rok v?lem?ny?t hallhat?v? t?v? m?sora. Nincs tabu t?ma, nincs tabu k?rd?s. Mindazokat v?rj?k a m?sorvezet?k, akik alak?tani akarj?k a k?zbesz?det, akik v?lem?ny?kkel hozz?j?ruln?nak a k?z?s gondolkod?shoz, akik vitatkozni akarnak k?z?s ?gyekr?l.</desc>
+    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
+    <start>02:30PM</start>
+    <finish>04:00PM</finish>
+    <date>25 October 2026</date>
+  </channel>
+  <channel>
+    <name>Hír TV</name>
+    <id>HirTV.hu</id>
+    <title>H?rad?</title>
+    <desc>A m?sor naponta t?bbsz?r jelentkezik a K?rp?t-medence ?s a nagyvil?g legfrissebb h?reivel. Politikai ?s k?z?leti t?m?k, szoci?lis, p?nz?gyi, gazdas?gi k?rd?sek ker?lnek ter?t?kre, helysz?ni tud?s?t?sokkal ?s ?l? bejelentkez?sekkel kieg?sz?tve.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IitMZWd5MlkyenNJN1lvNE9mMFU3aFE9PSIsInZhbHVlIjoiS3ZUV0JxQXNZRVhtYlwvaVhKVEtLOGhSWG1LYllCUEdtTWthZFFrTmdIREVoVmNkNVlDdXlVNVpNNUxGWCtUQkNBS3VacjdhZ280WUloeFwvbENLV3ZBeHpGTnlIem5TYU8yZXlXM1d1THNaZXJSTTYrY0tEMGwyWlRUdzN2SUJocmZaNjhzdXRmRFZpdTRBUnh5RWJlaXc9PSIsIm1hYyI6IjU5ZWMyZDEzZjAyYWZjYTUwYmVkMjgyOTM3MjViZDgyZGZmYjIwYmJkMjJmOTVjOTY5ZjE5Y2M2NDZiNTBiNTcifQ%3D%3D&amp;signature=72cdca8e34e2480a26bea888cd369219d69e4da018b5b9bfdf1a3b25a9244b8f</image>
+    <start>04:00PM</start>
+    <finish>04:30PM</finish>
+    <date>25 October 2026</date>
+  </channel>
+  <channel>
+    <name>Hír TV</name>
+    <id>HirTV.hu</id>
+    <title>Radar r?ad?s</title>
+    <desc>A m?sor izgalmas t?m?kkal ?s megk?zel?t?ssel pr?b?l a h?tk?znapi embereknek seg?teni olyan probl?m?k felt?r?s?val ?s megold?s?val amely a nagyk?z?ns?get ?rinti.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IkwzRGFpcDVzK0FNdE5tUmNlNWgwbXc9PSIsInZhbHVlIjoiczdCRlFGNUczTG1JaGVUa3NIM0pcL1pUNFpKZ1hncUVrU2oybklyMTJBbG5yVDB3VjVONndwVWxhWStTYTNpcVRYbWEzSzhGdEFMZ0pNUzFvSDZKQkhpbXZLclRGWTkyZ1E3QVVEQ243TGQ1NjBxWmZvaitIVmN5aldoYXpmVGVKOWt1Z21XWHRyaVBCa2lEUEdTb3VscFJybjZ1ak1ieGVJZ2hVa0l5SnZ3T283Z24xTVNpU2VmTG5PYTRIVmpETCIsIm1hYyI6ImQ3YWVhNWMyNjM2NTQzNWEyOWVmZTE4MjI5ZjAzYWNkM2UxNjE5MGU0NzEyM2ZmOWEyODI2MTU3ZGI3ZDdmMTcifQ%3D%3D&amp;signature=836bedc07367926dab5b567dd208806f3f51ab3872009cb4eabe504788e9c379</image>
+    <start>04:30PM</start>
+    <finish>05:00PM</finish>
+    <date>25 October 2026</date>
+  </channel>
+  <channel>
+    <name>Hír TV</name>
+    <id>HirTV.hu</id>
+    <title>H?rad?</title>
+    <desc>A m?sor naponta t?bbsz?r jelentkezik a K?rp?t-medence ?s a nagyvil?g legfrissebb h?reivel. Politikai ?s k?z?leti t?m?k, szoci?lis, p?nz?gyi, gazdas?gi k?rd?sek ker?lnek ter?t?kre, helysz?ni tud?s?t?sokkal ?s ?l? bejelentkez?sekkel kieg?sz?tve.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6InlPYzVsKzBEaHVEZ1VwVW51RW1mXC9RPT0iLCJ2YWx1ZSI6InJLV2xHbElRWmZJdFpBajg0Z2ZjS1YrTkVEU3p4Z1V5R2NreXpJdURPT1ZOSmorSnJzRHNWdGFDc0ltYnFtV2VoQVBXYklzczlSMytsTnlkcFljMFJhcDNCNHJsYlN1MW5mVWNcL245QVl1SlNVTUV2eVZ4T3NqU1Z2Tm1uK0lFUWUzNWJxbWtnZHpmaDllMHBrYmFlYmc9PSIsIm1hYyI6IjIwYWI0MzgyYzNhNjJiMTA2MjA4YWMxNTg0ZmI1YzhlYTFiZWVmODcyMzc2MmEyZjY5NjdkMjk2MWRkMWM2MDUifQ%3D%3D&amp;signature=8ba9f83201eed347817593e892d807b4cbf2744bb082e4a3f3b7f21d69dabbb3</image>
+    <start>05:00PM</start>
+    <finish>06:00PM</finish>
+    <date>25 October 2026</date>
+  </channel>
+  <channel>
+    <name>Hír TV</name>
+    <id>HirTV.hu</id>
+    <title>Sajt?klub</title>
+    <desc>Aktu?lis k?rd?sek ?js?g?r?k szem?vel. M?sorvezet?: Bayer Zsolt.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6ImtzNmdobWpDQnVyZE9tM3FGY3VxWlE9PSIsInZhbHVlIjoieWE5N0xkd3FqU01malA4REp0U0JINkZyRzUwa3BkdzBoZGVaWVBNSkc4UGZ3NnFhU2NXcUFvcWpQd0RUZGFwTW5hUlBBdnUwcEV0bVFrTXJRdFhKUU81RG1PR1VGVmpBN0tcL1dEemd6WjZlOUpFYmlUTlJpSFBxXC9XQWRiMTR6diIsIm1hYyI6IjZlMWZmNDFlNTY2ODBjZDFmNzkxMjJkMTNiMzU3YmJmYmI2OGQ4MjlhYzJmZWFjNTUxZDc2OTQxZTcyYTM1ZGQifQ%3D%3D&amp;signature=f3ce967ab1ca7325de6e471006175583412800f27f41fbde95029178fddc9213</image>
+    <start>06:00PM</start>
+    <finish>07:00PM</finish>
+    <date>25 October 2026</date>
+  </channel>
+  <channel>
+    <name>Hír TV</name>
+    <id>HirTV.hu</id>
+    <title>Cs?rte - A nap vit?ja</title>
+    <desc>A hetente egyszer jelentkez? h?r-h?tt?r m?sor mott?ja: &quot;Kem?ny v?g?sok, ?gyes sz?r?sok jobbr?l ?s balr?l.&quot; A m?sorvezet? n?gy vend?g?vel, akik p?ros?val elt?r? politikai v?lem?nyeket k?pviselnek, veszi sorra a h?t legfontosabb, ?rdekl?d?sre legink?bb sz?mot tart? k?z?leti t?rt?n?seit, esem?nyeit. Mindenki elmondhatja ?s el is mondja ?ll?spontj?t, a m?sorvezet? moder?l?sa mellett a n?z?k kem?ny vit?kra sz?m?thatnak. ?sszecsaphat a st?di?ban jobb ?s bal, konzervat?v ?s liber?lis, itt nem a lovagiass?g, hanem a sz?kimond?s sz?m?t.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IjRuMXM4SDZUcFdpNHd5M294RDZCdGc9PSIsInZhbHVlIjoiYkV4QWRTSWwwNzczT0dVYWR6REFuXC9BckZzZURLN1RFM1FidUppRkREa1IyUjZPQld2RFFtR0xKVzRFWDhHaTlWWVVlcitVSjZieldIcnZhbEdKempUUzdcL3lWeTZCK0JWNXpiXC9KSGVoV05RWHBJM0trMjN4MDFzTG1wWUdhZ3YiLCJtYWMiOiJlZTYzNTRmNDBhMmMxMTk3MDk2NzY5Mzc0ZDcxOTNmMzlmM2QzYzA0OGM3YWUxMWFiMDI4MTJlN2IwNGM0YjNlIn0%3D&amp;signature=e20731a3658cb76d95746ddc3364746045ae884e3944a123065658af72b8589a</image>
+    <start>07:00PM</start>
+    <finish>08:00PM</finish>
+    <date>25 October 2026</date>
+  </channel>
+  <channel>
+    <name>Hír TV</name>
+    <id>HirTV.hu</id>
+    <title>Bayer show</title>
+    <desc>Bayer Zsolt megmondja! Az oszt?s itt nem matematika! Mindenki megkapja a mag??t!</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6InErRVhvVmxXb3VkVjN2Tk5FUEhMblE9PSIsInZhbHVlIjoiTGZzZlhCcHdyamg2bk9ldWVvSDlzZk42OVM5ZEpCS2dyc0VpK0RDZnBLeVFTNEFLeE94OEoraVFveUgzNGk1M3ZjUTh5R0lseUMzSHFSdlNQMnNYWWVFWURiczkrS2F2a1JxU05QTUNzWmQzTzlIbVlaMzhlU0hmcTREXC9lRENUU0Z5KzRNT01QdDlKd0Z4ZE14TFhQTkROdUhrQkV0SHIyR25acmhEQ1F5cld1ZDBkMmhhV2VMcVRzSWFRSFpsc3JudUVremRrWnJsNjVjRHNodWpNRVVmNDU0YUw1RWpRbnNJR3BLVm9GNlpmQitNbUc0XC9WME5ZWUhiMEVpSWxSUXI0R2NCQTI3bjF6VXRMcXdBOStkOG10anlNTjdOOWxYVzVlQ1l5WldaaGV0NWtQQk5wTUdnTmJ0RzBHMXRScyIsIm1hYyI6IjM3M2E1MDA2ZGRiZmYwOGQ0ZjcxMTNkMmIwMzNkNTc3MzhjNTU0OTdmMTAxODE0ZWZiMTM3ZWE2OWY0NDk0ODgifQ%3D%3D&amp;signature=1307ccf1dc8ef953bf3df3ac0a42d9a1609eed3336bab4dbc0bd384e96739ee5</image>
+    <start>08:00PM</start>
+    <finish>09:00PM</finish>
+    <date>25 October 2026</date>
+  </channel>
+  <channel>
+    <name>Hír TV</name>
+    <id>HirTV.hu</id>
+    <title>H?rad?</title>
+    <desc>A m?sor naponta t?bbsz?r jelentkezik a K?rp?t-medence ?s a nagyvil?g legfrissebb h?reivel. Politikai ?s k?z?leti t?m?k, szoci?lis, p?nz?gyi, gazdas?gi k?rd?sek ker?lnek ter?t?kre, helysz?ni tud?s?t?sokkal ?s ?l? bejelentkez?sekkel kieg?sz?tve.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IkF3YnJVRSs0VWViem56R2NMMGJZcFE9PSIsInZhbHVlIjoiUHNCTFV3NFIyYjA3WjVaY2l1Mk1HcG4xaE45YVJmaEFqVFNCTERvSnlTcEN6N2tHeTdCTGVkWFFUY1R5RUxUdWxzZUJ6OHZJazVKNU5jY3lTeGV2bjZMWUJaRTZtSXZqS1ZJemZsNXd3U21aV0F1aE5XTjFEam1SY0VWVEhPejVFSDd3QWJiZ25INUo2VlRiUmZDbzd3PT0iLCJtYWMiOiJlMDQ4NGY0NTc3MTBkNjJlMGFlNDhlZjNiYjIzMDg5ZTE5MmFkYjcyYjEyZGNhZDM0MjY2ODRhMWQ5ZmU2Yzg0In0%3D&amp;signature=04b93252e77cbf4260bbaed994744cf347386a54110d3d83938b52d816fafede</image>
+    <start>09:00PM</start>
+    <finish>09:30PM</finish>
+    <date>25 October 2026</date>
+  </channel>
+  <channel>
+    <name>Hír TV</name>
+    <id>HirTV.hu</id>
+    <title>Riaszt?s</title>
+    <desc>Nincs le?r?s</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6Ik1rcGxYMmd0c2FQUW5kTDZuZUdyemc9PSIsInZhbHVlIjoiNXFrTkhuRUJ3NUVXdFRLRFk2WVF0bHVIUXprQ3RGOWxpRmtyWGttY2FrRTRwZDVMdldIM0dkOVN2Rll1UVRMSlhUbWk4Mm1EYWRUSnYwVjJGcXdTXC9iVVpHWnk3dW1WcmRnNnFhRzhVRnRFM3hCM3kyK0kwbmtrSGdsa3p5cjJ3IiwibWFjIjoiYzE3NzRjYjliNjllMzdjMDY0ZjY5MzM5ZDhiNzExNmRlNTQxNDQwMmY0MWY1ZGRjMjMxMzlkNzM5NzYxYTllNyJ9&amp;signature=e01b919bc9937a0be38bc1a35b4e61345ecf986e2325172dd2f7137354403ed1</image>
+    <start>09:30PM</start>
+    <finish>10:30PM</finish>
+    <date>25 October 2026</date>
+  </channel>
+  <channel>
+    <name>Hír TV</name>
+    <id>HirTV.hu</id>
+    <title>Sajt?klub</title>
+    <desc>Aktu?lis k?rd?sek ?js?g?r?k szem?vel. M?sorvezet?: Bayer Zsolt.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IjhSVmN1XC9jK3JMb2krWFlTR1hDZldnPT0iLCJ2YWx1ZSI6ImZqRHFlSlZzcjVDNjh0NVA0NTZqSDNncVl3Szh1bk1MdndxQWlcL0NkYlRFejJYSTQwclwvbk5LK2M0SnNmaTc0dTU5dkc0TDY3WU1rTDhDR0dWVFB5YXlJNTFMUWpzWFwvb3RBS1lhRzhKelwvcGh3WDlYQVwvTTc4ampJTmlBc0t4cHUiLCJtYWMiOiIzNTFkMGQ0NGZlZjY0MmZiOGEzNGQ1NDkxOGNiYzc4MmRkNTM1M2M0ZmRmNDFlMTRhNjlkM2Y5ODZiOWQ4MTgzIn0%3D&amp;signature=782cd7c30fad1ab664c8b011855ef0046bd7417e056ed2b19debe19e661d5ab5</image>
+    <start>10:30PM</start>
+    <finish>11:30PM</finish>
+    <date>25 October 2026</date>
+  </channel>
+  <channel>
+    <name>Hír TV</name>
+    <id>HirTV.hu</id>
+    <title>Telev?zi?s v?s?rl?si m?sorablak</title>
+    <desc>A hirdet?s ?runak, szolg?ltat?snak a forgalmaz?val vagy szolg?ltat?val val? kapcsolatteremt?s ?tj?n t?rt?n? ?rt?kes?t?s?re vagy m?s m?don t?rt?n? ig?nybev?tel?re tartalmaz k?zvetlen aj?nlatot.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IlZvMHIxRGJQUThTVkcwRU5rekxLUUE9PSIsInZhbHVlIjoiRGV6QVY0UzlXeFlIV2NBbnBteVVFY3RLZHhqd1F1ODVzWms2cEl6N0Z2c0VzTU9WcmxUN1dZR0JKcVJWQVUrXC9KVWpodVBzbEpnZW9xbndYc3RvVG1zZ2JkTVI5MnJtNnBIUUx5RmN4bVhPYWJIT0lcL3F5STBFMlp6T296NUJrVHIxSnEwdW4zYmc2aHRxSGVseHVBc1E9PSIsIm1hYyI6IjYzZmUzYmM4NzJkZTE5NjBjNjY5NDFiMjMxZjJjMzI4YzliZmZjMzY4MzdmOTRhNDg2NTQzZDBmNWYwMWRjNjIifQ%3D%3D&amp;signature=b54107b41a639c61bcec1d9052f51fa2abf3a4970790eca6e403958df6216d62</image>
+    <start>11:30PM</start>
+    <finish>12:30AM</finish>
+    <date>25 October 2026</date>
+  </channel>
+  <channel>
+    <name>Hír TV</name>
+    <id>HirTV.hu</id>
+    <title>Cs?rte - A nap vit?ja</title>
+    <desc>A hetente egyszer jelentkez? h?r-h?tt?r m?sor mott?ja: &quot;Kem?ny v?g?sok, ?gyes sz?r?sok jobbr?l ?s balr?l.&quot; A m?sorvezet? n?gy vend?g?vel, akik p?ros?val elt?r? politikai v?lem?nyeket k?pviselnek, veszi sorra a h?t legfontosabb, ?rdekl?d?sre legink?bb sz?mot tart? k?z?leti t?rt?n?seit, esem?nyeit. Mindenki elmondhatja ?s el is mondja ?ll?spontj?t, a m?sorvezet? moder?l?sa mellett a n?z?k kem?ny vit?kra sz?m?thatnak. ?sszecsaphat a st?di?ban jobb ?s bal, konzervat?v ?s liber?lis, itt nem a lovagiass?g, hanem a sz?kimond?s sz?m?t.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6InFKZG5wbGEyYlR5eTlwYUdjMUVOUVE9PSIsInZhbHVlIjoiTkhhMWV3aVhBZlJBN3VyWitnbDJCR1JPdmtkMGNCbDJQNmRwWXRjVHQ3VHA5azV2MitLZFZOb1IydVU2Mlp2NlpOMEpkVEJCOGpMRUh0QkMySlI1cStUR2hPdnJFXC9vd2Z6dzExQTlUUUpWdlB4djBYU3Q2SE5ndStmT24rOHpOIiwibWFjIjoiN2M4YmVhY2ZlZTkyYjE5NmQ0MzRkYTdmZjYzMDY5NzJiZmVmZDJmYTQxMDk4NGE0ZDZmZDAyMmE2NmRhNDJmNCJ9&amp;signature=c0c4c98eed8f421593c0bd3b4bd5a465546022a68340fa9f89717326fc215be6</image>
+    <start>12:30AM</start>
+    <finish>01:15AM</finish>
+    <date>26 October 2026</date>
+  </channel>
+  <channel>
+    <name>Hír TV</name>
+    <id>HirTV.hu</id>
+    <title>Radar r?ad?s</title>
+    <desc>A m?sor izgalmas t?m?kkal ?s megk?zel?t?ssel pr?b?l a h?tk?znapi embereknek seg?teni olyan probl?m?k felt?r?s?val ?s megold?s?val amely a nagyk?z?ns?get ?rinti.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6ImxsQUIrVzVlYTJkbnk3MlhHcE9PRGc9PSIsInZhbHVlIjoiczRBdGxrSkdXTWQyYW5idVdrRnBtWlpoOHF5d045YVwvSEZMK0NUNG04SkRLck0rSXlBYlNNTFVWSGZxbWY1bE9tVHNpUUlPd1ZUVHpMdjRqQnhVSUFqbHhncXpcL2ZnRU1EUHRYQzFxUGdHTEl0ZUI0dStWa2NlXC9laDB6TDJYRWhJR1BwM010Qk8yZ2k0Y2w2eHZhOWVHc3ZUODhIOHVaRW1TS215WThacGw3UlkzeXNhcjBoQ1ZJMjgwTmNmM1lLIiwibWFjIjoiMjAzOWYyMGIwYTBiYzczMjU2NzZlZTEzODRiMDAyZmM5ZDM4NDY5MjhkMGFjYzQyMjgzMjI2Nzk1MTMxNDhhZiJ9&amp;signature=661834cd9e90a3bcb9abfd5abc82726bcfae78731170d8f5ef39103812060035</image>
+    <start>01:15AM</start>
+    <finish>01:30AM</finish>
+    <date>26 October 2026</date>
+  </channel>
+  <channel>
+    <name>Hír TV</name>
+    <id>HirTV.hu</id>
+    <title>Komment extra</title>
+    <desc>Kem?ny v?g?sok, ?gyes sz?r?sok jobbr?l ?s balr?l. A m?sorvezet? vend?geivel veszi sorra a legfontosabb, ?rdekl?d?sre legink?bb sz?mot tart? k?z?leti t?rt?n?seket, esem?nyeket. Mindenki elmondhatja ?s el is mondja ?ll?spontj?t, a m?sorvezet? moder?l?sa mellett a n?z?k kem?ny vit?kra sz?m?thatnak. ?sszecsaphat a st?di?ban jobb ?s bal, konzervat?v ?s liber?lis, itt nem a lovagiass?g, hanem a sz?kimond?s sz?m?t.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IldOUHBndUF0NGVWaTJDdkRsNkpKQWc9PSIsInZhbHVlIjoiU1FMMW1MMzUybzhRcTYwbUFSd0hkakdZWjI1Ym83Y3VaY0doQmlCQ0tGVFhxaDVZcFpyd0xQQzJSa29XVE0zdFhIVlJ1RHVjRkRVUThFcFREQ3M4MnRzRVM3bEt3cjYxK3JkVWFBbVZDdnM9IiwibWFjIjoiNzIwOGEwN2ZmMzgwMGFjYTBkMjgzYWE3NmVkNTQ5OWYwMGE4OTBiNTc0ZDRmMjE1ODNjMmNjMmMzMTgyNzg3YSJ9&amp;signature=bf3c5d462f4950ee15eb3b0d2799cfccface5076365171013213e08099afc613</image>
+    <start>01:30AM</start>
+    <finish>02:00AM</finish>
+    <date>26 October 2026</date>
+  </channel>
+  <channel>
+    <name>Hír TV</name>
+    <id>HirTV.hu</id>
+    <title>Vet?t?</title>
+    <desc>Rendez?: Z?mborszki ?kos Kevesen tudnak r?la, de k?nnyen el?fordulhatott volna, hogy a modern kori olimpi?k megrendez?s?nek ?tlet?t nem a francia Coubertin b?r?hoz, hanem a magyar Vermes Lajoshoz k?tik. Az antik g?r?g olimpiai j?t?kokat nem a francia Pierre de Coubertin ?rtelmezte ?jra el?sz?r, hanem egy palicsi f?ldbirtokos (ma: Palic, Szerbia): Vermes Lajos. ? szervezte meg a Magyar Olympi?szk?nt is eml?tett (Hercules Sport ?js?g, 1885) Palicsi J?t?kokat 1880 ?s 1914 k?z?tt. A Palicsi J?t?kok 34 ?ven ?t l?tezett, nemzetk?zi r?sztvev?kkel, saj?tos alternat?v?jak?nt a 14 ?vvel k?s?bb l?trehozott nemzetk?zi olimpiai j?t?koknak. A Magyar Olympi?sz c?m? film valamennyi fellelhet? eml?k ?s fot? bemutat?s?val, az eredeti, ma is l?tez? helysz?neken forog, eml?ket ?ll?tva annak a m?ltatlanul elfeledett embernek, akinek a modernkori olimpi?kat megel?z? Palicsi J?t?kokat k?sz?nhetj?k.[(96057)] </desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IlBsRDBUcUc5RHRwRk1meXpTYWc3aXc9PSIsInZhbHVlIjoiZldXOHArMVpZSGpHdE1ySG9qRENUXC9ldmM1RmZ2dUw1dWZ0ZjIxWmtabTl0YjNmRzREY21UWlJoU1U2K1R2K2E3OWVcL2RBRFkyZTkya2Fjd1wvT1wvVTJNdWFHSnRwc25nMWY5Q2ZWNkZzeTVJPSIsIm1hYyI6IjRkYjVjMTNhMmI2ZDEzODM2ZGQ1NzI3ZTIwMTg3MzI3OWIzZTQ0ZDgwODhjZjgxMjRkYjBmNmVmM2FjOTMxZGMifQ%3D%3D&amp;signature=d1a629c235da11669eca99c85014f8b088606596a744283ecd314ed637931540</image>
+    <start>02:00AM</start>
+    <finish>03:00AM</finish>
+    <date>26 October 2026</date>
+  </channel>
+</tv>
