@@ -1,2 +1,843 @@
 <?xml version="1.0" ?>
-<tv/>
+<tv>
+  <channel>
+    <name>CSPAN US</name>
+    <id>CSPAN.us</id>
+    <title>Public Affairs Events</title>
+    <desc>Public affairs events, congressional hearings, speeches, and interviews.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6Ijh3dFVHc3dzcW1EUlkwZmFWWVA4OXc9PSIsInZhbHVlIjoibFNEcHVTNHltbkl0N0JFU0Nza0lwM21BT3JkVXpIWXdlMmIyWm5mYkJZVVRPWnJoaEliVFRaTVc1N3ZrSzRtMURWYitrcHZvV01GcnF2RFBFYVBTbUlaTW8weWlLbXhBNytLTEo1aks5QWg4ams5aVI1UW9xcW54RmJhSzRxUTYiLCJtYWMiOiI0YmVjNWM1N2Q3NDdkM2VkOTg1NzJjYTYxMGE2MDEzNjExNzg1YzQxMGYzNDg0ZTVkYjUwOGYwODk2YjBkNDgzIn0%3D&amp;signature=75ac335f563edba3eb97949669ee30e800ae76f6e603bc60c9e5c197ff26663a</image>
+    <start>08:40AM</start>
+    <finish>10:20AM</finish>
+    <date>06 November 2026</date>
+  </channel>
+  <channel>
+    <name>CSPAN US</name>
+    <id>CSPAN.us</id>
+    <title>Public Affairs Events</title>
+    <desc>Public affairs events, congressional hearings, speeches, and interviews.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IjBVVHUzQ2pidkRzR0F4czNxUFZzVnc9PSIsInZhbHVlIjoiamR4ejdmMGR0ZmlMT0Z1Q2Fsa1NJUmRPYWFYbWpoMWE2R1l0eVhWWkVDT3BPRHRRRFYxbW9UUHFEZHpXVDJ3WmJOT2UrNmgwZEE5QjFhXC9pd0ZhRjNoNDFFOVRDb2QyZ1JoRWFjOW44MGJUbTUwbGFXbk14c0xhT09oeFJKdGtsIiwibWFjIjoiOTE5MzAzM2E3Y2YzOTFiN2ZlZDQwNDc0YTc3ODY5NThjMTlkNWU1ZTdkYjBlY2E0MTU0MjY3MmJkNjE2MjAwNSJ9&amp;signature=65cd54ef4a5ab54a91aed5a8aa904504a251b56e4193472b980d07b0bc188361</image>
+    <start>10:20AM</start>
+    <finish>12:00PM</finish>
+    <date>06 November 2026</date>
+  </channel>
+  <channel>
+    <name>CSPAN US</name>
+    <id>CSPAN.us</id>
+    <title>Live: Washington Journal</title>
+    <desc>A forum for leading journalists and public policymakers to discuss key events and legislation.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6Ikx3eDRqWjZpOElHYnFuNHY2ZDIzVEE9PSIsInZhbHVlIjoiM3ZpWmE2dlpIK2ZNa2lhQ3IxdHI0TytcLzVKc0Zva0hEcCtVQXZKUFV1RjFFcnowaUdVMUd2cU1YWmNabmlXdnA1VldhXC9iNUt2MTZNRDVvQVUzeTBBVHM5d0oyOWNGbW4yUEZpek4yaVNEWFwvdGRjc29Ta2tLRStSTkpOeXBjWlUiLCJtYWMiOiI3MzVmYzFiN2MyZDUxNzg4MmEzMzEzM2RmMWI4MmY1NWYwM2MxMjdjN2Q0YTgyNmYyOGZhZWJlN2ZmODZjMzUzIn0%3D&amp;signature=12614a7cc1b37ac2608888d348f892a8b56ba73debd29f3405a3d56b6d397177</image>
+    <start>12:00PM</start>
+    <finish>03:00PM</finish>
+    <date>06 November 2026</date>
+  </channel>
+  <channel>
+    <name>CSPAN US</name>
+    <id>CSPAN.us</id>
+    <title>Live From The Nation's Capital</title>
+    <desc>Live coverage of Washington, DC events with hearings, briefings, and policy debates. Viewers see lawmakers, officials, and experts discuss policy and national issues, live with no commentary.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6ImgyZjFCWmFsZmo5N1FKaDV1WVJjNXc9PSIsInZhbHVlIjoiNXRcL3BXKzRjQmRBbEtXYUlSV3Y0YVdtZ3pUWktGeGdpVG4yQ3hQbEQ3Qnhma25LelFcL1ZMVXgzeW5YbEpHbGlrdnFRejBEYnlUR0ZOMStlUnZlU21tUGJVOTA0bjhNT2FZUk5rV2hEWGhlR0tQUXJGTVZ5eWM3ZTkwU283YUdRRCIsIm1hYyI6ImNmMDliYjliZjRhMjA5YWU0NjJkNTRiMWRjMGUxODUzMWNmZjVmMGFlZmViMmZiMzVkYTBhMzE2ZmZiMTE2YjkifQ%3D%3D&amp;signature=95ee18ea08747080812c1adf98637da140842237e9ffa0d738c15baccfea795d</image>
+    <start>03:00PM</start>
+    <finish>03:15PM</finish>
+    <date>06 November 2026</date>
+  </channel>
+  <channel>
+    <name>CSPAN US</name>
+    <id>CSPAN.us</id>
+    <title>Live: America 250</title>
+    <desc>Public officials, historians, journalists and civic leaders explore America's founding principles and how they influence today's civic challenges. They speak at the 2026 George Washington Symposium at Mount Vernon in Virginia.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6Imo5dXNzN0RWUGdzRlwvUVB2V2VqSVN3PT0iLCJ2YWx1ZSI6ImM4QlI0S0pWZjlpY1hicUVPSGNPZ3J0VDJVTU1BNkZ2WHgzd1EwXC9UZDNNTTBSS1ZZQWdHRWFrMnNFQ2tvMHlKQyt6Mjg3cXdDV3RPZzhKdmZoS3lkVldnSnZQV0dNMlMwQTRrSDdJcVUwUVN2emZnSENBbWFyZkNuNlJZamhPYyIsIm1hYyI6IjA2Mzc1NGQ1ODBiNDI5YWZiNmRlZTQyN2RkMjIxY2I1NTQwNGMyYWNkNTc4MWM5NDMxZTUyNjYzMDQ0MTg4M2QifQ%3D%3D&amp;signature=2ac3542672c51343b83d59242d125a8dfc344fbd9f7442839209b60b0a09a3e4</image>
+    <start>03:15PM</start>
+    <finish>05:45PM</finish>
+    <date>06 November 2026</date>
+  </channel>
+  <channel>
+    <name>CSPAN US</name>
+    <id>CSPAN.us</id>
+    <title>Live From The Nation's Capital</title>
+    <desc>Live coverage of Washington, DC events with hearings, briefings, and policy debates. Viewers see lawmakers, officials, and experts discuss policy and national issues, live with no commentary.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IkxpOWtXZTBwV1pPd1lBbEE5R3U1TkE9PSIsInZhbHVlIjoidkJIS0hURkY4ZlUwRnd2ZjhkQVpGbGt4QjZBd1NTNUFKcjNiMmtJM092M2p3TW5zbWFZYzYzUlV6OUVEWGRSOExCNDZWMXJRMDZLTm5lZGVpQ25hWFpvZ1FkU3orNHV3ZWpvOVg2NEROYWdvSEw2TXRRXC9RUlBDVjdsVEVHaVNWIiwibWFjIjoiZmU0M2Y0MDMxNjI4YzczNDFmMzExMWVhMzlmMWU2MzA1MmY0NTMwYTQ5NGY0MGVhMDk3Y2Y3ZTk2ZTRiN2MwNiJ9&amp;signature=a717d74cbfa53ad68923f34975aa410f51cf478a9a8d3a58f9526e0e4babd551</image>
+    <start>05:45PM</start>
+    <finish>07:30PM</finish>
+    <date>06 November 2026</date>
+  </channel>
+  <channel>
+    <name>CSPAN US</name>
+    <id>CSPAN.us</id>
+    <title>Live From The Nation's Capital</title>
+    <desc>Live coverage of Washington, DC events with hearings, briefings, and policy debates. Viewers see lawmakers, officials, and experts discuss policy and national issues, live with no commentary.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IklDMWcyTmdHS1NrWDh0c2RyWlEwVWc9PSIsInZhbHVlIjoiUmVSbVdCNmF4dEVSaVJFdkVYZFNWMks0ZUM3ejRRS0lNeEZwV3ZpOHM4bU9iV3ZZNkgyTSszc0ZFV3hibE41TlUxWGRvSTZaTlRjS3RZOVJ6aEh1dGRweGFlNE5OcmJsNXhtRVVrVE5uV2tOVWZSajhjXC9sT1BMQnZ0cmZGVW1TIiwibWFjIjoiM2ZjZGY5MWZlZjI3MWQ4OGI4NDdiYjhiNzAwNzgzNzJhOGZlODE2MWI2YTBmYjA2ZmIxYTc2MTM2YTdjNmYwNCJ9&amp;signature=3e71adc72c88177218292042453170d562911eb8259e0791d793542140d589eb</image>
+    <start>07:30PM</start>
+    <finish>09:15PM</finish>
+    <date>06 November 2026</date>
+  </channel>
+  <channel>
+    <name>CSPAN US</name>
+    <id>CSPAN.us</id>
+    <title>Live From The Nation's Capital</title>
+    <desc>Live coverage of Washington, DC events with hearings, briefings, and policy debates. Viewers see lawmakers, officials, and experts discuss policy and national issues, live with no commentary.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IjhRSXo0QnVkWlVxb2dkN1Z3SnpQU3c9PSIsInZhbHVlIjoiUER3MTY4Zk1Wd0JoSHBuaEhtODZVS0QzYURCR1pxXC9hR1JkYWYzTWllRk80bk41WmFsdGx6ZGxUcWZSXC9EakxKMUFMWGtzMldUSHBJaFVONWRFeGNVTVFQT1NVdU1lOTlCRGdSRVpyd1VVcVZ2Szc1ZUpBWUVhTUJrN0NpWE90RCIsIm1hYyI6IjY5N2M0ODYyYmMzYzM0NmM4OTgzZjBjYTE5NGQ5YWZmMzRlYTQxZDdiMGRlYzBlZjgwODQxYjExNjdhOWEwYmEifQ%3D%3D&amp;signature=d63c7db4dd6000778c259cedf120628021bfacae11de703ff5cad47117d07741</image>
+    <start>09:15PM</start>
+    <finish>11:00PM</finish>
+    <date>06 November 2026</date>
+  </channel>
+  <channel>
+    <name>CSPAN US</name>
+    <id>CSPAN.us</id>
+    <title>Public Affairs Events</title>
+    <desc>Public affairs events, congressional hearings, speeches, and interviews.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IlZiUXJIQVhIUGNsOERxWWZET0NXRlE9PSIsInZhbHVlIjoiNmhSMXFmak9qTG5qRjNqRTBGTGtjQW1HNUJJMTNwSWd0M1FkNHI5N1ZRTzE1ZGZLS054UUhBVHBMc280MzJXUVl5QjdiNHlzcmxLaVVscWhJTXNYaHNRUWJnSjF3NmlHdHhlaWNLQk1UMXdwSVwvWEQ3ajF4MU5rYjZDVEdaZUZFIiwibWFjIjoiZThlNDkyYWMxN2M4MzdhMDZmOWE3ZDYzZDdhZDI0ZDFmM2VhMTExMTIzMjA0NDg0YTE3MjllMTVmYmRhN2VmNyJ9&amp;signature=36d7cfee56a97145bf6d38203924c0b886fe0bd3795852948e46a9e331be04c1</image>
+    <start>11:00PM</start>
+    <finish>12:00AM</finish>
+    <date>06 November 2026</date>
+  </channel>
+  <channel>
+    <name>CSPAN US</name>
+    <id>CSPAN.us</id>
+    <title>Ceasefire</title>
+    <desc>Host Dasha Burns sits down with Steve Ricchetti and former Rep. Patrick McHenry (R-NC) to discuss the results of the midterm elections.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6InQ1cnRsMFdpaTVUK3JpUHFsNXV1a2c9PSIsInZhbHVlIjoiUWxMNXZoaXgzTFBlQm9OcmtlaCs3NTV1aEJOd25RbklmVFZVbXM3aXR4amFnanRqUGk0emNVdlpRcHNMTzFoYkE5UzJjWFRaZ0dHaHFSaVVMRXltYVNkZDE5b0ZRSnFhNlRTZWlrTUpSQnFOY2s4bFgrcTh3ZmpRUWNsMm83aTQiLCJtYWMiOiIzNzQ0MDMxMWFhZWM2ZTgyMWMwMjg3ZjAzNTFiMTE4OWFmMWJmMGIwOTRmZGZkZjkyYjAwZWI2MzQ1MWI2Nzc2In0%3D&amp;signature=c4b043700e27f6b664000dc86439776139bc78bc7887987a85d9b13184bb1b05</image>
+    <start>12:00AM</start>
+    <finish>01:00AM</finish>
+    <date>07 November 2026</date>
+  </channel>
+  <channel>
+    <name>CSPAN US</name>
+    <id>CSPAN.us</id>
+    <title>C-SPAN Primetime</title>
+    <desc>The key events of the day, including speeches, briefings, policy debates and public forums making news and shaping policy; see events from the White House, Congress, Capitol Hill and around the country.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6Ik1pVnlWSmVDOUVWV3lZWlwvd3hjZ2d3PT0iLCJ2YWx1ZSI6IlJXbTJCa1FzODR4Uk15WTczcTFXVEZuRTBkWEpnemF3T2lQR29jXC9jY1psOHcwQmVHMjBJc2ZVNXM3bWN5eVdUMEI3OG5PZ1BtXC81TnA4ZHdKMldsV0JaaUZKZDUrV0pZZmwrMnJQbDdIc1Uxdm5FWE5IR2h6Q081dnowNFlUdlkiLCJtYWMiOiI5MmJkNDQzOTU1MjIyOTM1ZGQyNGJhMzA5YWY1OTdmNDYyOTc0ZTZjMTRjMGI2ZWFjMWZlODdiOWYwN2YzNDlkIn0%3D&amp;signature=ae6813bbc529ee1adafe2e16d9b0d9b874fe25b0197b98a766d55db5591158b2</image>
+    <start>01:00AM</start>
+    <finish>03:00AM</finish>
+    <date>07 November 2026</date>
+  </channel>
+  <channel>
+    <name>CSPAN US</name>
+    <id>CSPAN.us</id>
+    <title>Ceasefire</title>
+    <desc>Host Dasha Burns sits down with Steve Ricchetti and former Rep. Patrick McHenry (R-NC) to discuss the results of the midterm elections.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IlNZeHVVUTN4NmhsRENjOVVKb1hcL1ZRPT0iLCJ2YWx1ZSI6IlJnMWpHQ2RFYWRFbW5JeWxNWEZuc0hCUDFoSDJYUlNvZzhPUzhDeVwvQzRpZ2hzbzl3bzNwRVN0c2Y2MmVSRE1tUldHeUlKemZwdzdJZ3dCXC90V0pSa3dBXC9HMnM0SDRPbTZxXC91K29LK290Y3BKaDdKUHFNQ09cL2EzWGtzS0RRbmQiLCJtYWMiOiI0N2I5M2UwMTViYTk4Zjc3YTRjYjAxNDQ3YmY4MzlkN2NmNWZjMzVmMjdhNDY3ODBkMDg2YjQ2NGFjMzllOGQ3In0%3D&amp;signature=acce946b465191b79d79844238519b2b0fe4cd8d8fdbca2a53edb63dfa632437</image>
+    <start>03:00AM</start>
+    <finish>04:00AM</finish>
+    <date>07 November 2026</date>
+  </channel>
+  <channel>
+    <name>CSPAN US</name>
+    <id>CSPAN.us</id>
+    <title>C-SPAN Primetime</title>
+    <desc>The key events of the day, including speeches, briefings, policy debates and public forums making news and shaping policy; see events from the White House, Congress, Capitol Hill and around the country.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IkZ2RW5oaDdRMElGVEpsa1RreFwvMFwvUT09IiwidmFsdWUiOiJLTzhSWFRhRFlNTkhwTDNBVlwvWWs4b3VZQmtWUW9QMTFxOTFERmRYdkFOREU5UlhrUkx0YlNFRE95TjIyTExMRlRxNXFlUDNXSVRqTGkyMXE2c2N1TDc4bGhNR1NKTWUzZzF5aVdTak1MQlRlM0FGVXRtMzhWN282WGkwZ1Q3Y2MiLCJtYWMiOiI5NTM3YzA1ZGU1YzY4OTVlYzI2ZDE2ZmVmOTNjODg3YWFkNjA0NTAzYmM3OWYwYjMzOTJkNzdhMTdlYmI3MDRmIn0%3D&amp;signature=afa975ba45aee40f7ee70e0d0cadf5c849ac35c66214579f887da95d2f676e7a</image>
+    <start>04:00AM</start>
+    <finish>05:00AM</finish>
+    <date>07 November 2026</date>
+  </channel>
+  <channel>
+    <name>CSPAN US</name>
+    <id>CSPAN.us</id>
+    <title>C-SPAN Primetime</title>
+    <desc>The key events of the day, including speeches, briefings, policy debates and public forums making news and shaping policy; see events from the White House, Congress, Capitol Hill and around the country.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6ImI0a1R0M3ZzaEg0RmgxOE1aSVY0R2c9PSIsInZhbHVlIjoiYVVqSjVTbUo2bk5XVlE1VmFwUk9SSWg3OGdtZGlvcTNBV0JJcXRpdDBSMm9sR0NFRzFDOWczNGh5YUpxaThQUWNJbmFHU1lVdXh4akhzeXNhR0lTSVlHa0tZRnhneldsRWhPOUtJdmNoTU5SQWRzcGg2SkFiWWhhRWxNNWl4a3UiLCJtYWMiOiI5YzI0NWVlNTkxMTdiYzA3NjQxNWRiNTg0YTNkZDk4NjQzZjYxYTNmZjM4ZmM0MDIyYzY0N2NiZGNlNjk1NzRmIn0%3D&amp;signature=a2b8788975770a05c612cefd2798ffc7f396ed8b3614472e9e9a5c4991cb8232</image>
+    <start>05:00AM</start>
+    <finish>06:00AM</finish>
+    <date>07 November 2026</date>
+  </channel>
+  <channel>
+    <name>CSPAN US</name>
+    <id>CSPAN.us</id>
+    <title>Ceasefire</title>
+    <desc>Host Dasha Burns sits down with Steve Ricchetti and former Rep. Patrick McHenry (R-NC) to discuss the results of the midterm elections.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IjcxMnpJR2JtUHN4SFJvQUhYSlMyYWc9PSIsInZhbHVlIjoiU1F5VzczNWViQ1lVQXArWDJSWkdFZHF4cmFYVTBzZys2ckE5UlZiRHZFRVVPcHlocTVmeWd0ekVmVmR6K2lTS0RhSEx1U3NlMnM5YjRYRWRcL1pjRnRJcDAzbW5GRGlzRllhem1TbzVHNlE3UnZYb2dWa1NBZHJXaUt3SkZoWlA0IiwibWFjIjoiODRkMWE1ZDdlYzkyNTk5YjExYWY0NjQ1ZTRiMzlkZjg5YjZkNmZjMzc2YmY4N2I0ZWM0ZjllNjc5NTJiZjUxMyJ9&amp;signature=da38b2032896ee185be1a20a54981f735cd03332b6d74764981132ec3289002e</image>
+    <start>06:00AM</start>
+    <finish>07:00AM</finish>
+    <date>07 November 2026</date>
+  </channel>
+  <channel>
+    <name>CSPAN US</name>
+    <id>CSPAN.us</id>
+    <title>Public Affairs Events</title>
+    <desc>Public affairs events, congressional hearings, speeches, and interviews.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6InNlTU1teWdZcTllMzJFRGFlUmpJbWc9PSIsInZhbHVlIjoiZ3dXQUZWdkRIeVF0djB2Z0UrXC9JQ3dRNVlkT3RMOUNYampxTytLY2s3ejBZbjJQYW4yMmRSQU5taWZWWkVrMUs1d1hDeUNiUVIxSmdtMG9qUTBTOVplaXN4Y2dacVROT0pTM0VDV2lNWXJQMzNybWh5VmhhSnVxXC8wMzl0ZUpkayIsIm1hYyI6ImNkYzY3MDNhYmMyYzY4YzE2YzIxNWM5N2ZiNzY3M2JmYTg0NzlmODFlY2U3NWFhZGViN2JiM2RkMzM1YTQ5MmIifQ%3D%3D&amp;signature=07bcd7d0939f6b35d79e61ce864fcb7790cb4c8846cb35eff0dbcbc16bf7da29</image>
+    <start>07:00AM</start>
+    <finish>08:40AM</finish>
+    <date>07 November 2026</date>
+  </channel>
+  <channel>
+    <name>CSPAN US</name>
+    <id>CSPAN.us</id>
+    <title>Public Affairs Events</title>
+    <desc>Public affairs events, congressional hearings, speeches, and interviews.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IlZmZDZad3hJUUdFKzZQNExPVmpadHc9PSIsInZhbHVlIjoiTUZkN0ZqRzA2d2tGT3AzQVk2ZHVUV2ZRU2FIenUrZk01NjRaZHBEUWRvd0hkM3JJRlk3UVZOa0NUcXhINGM2QXdJZ05yUEtEK2wxNGRIQmFNNENydnNnck9cLzkwZTlITjhEWUtNNjR2V3JFUHNwSDVjTmlqUkpqVXhpTGhIbjUxIiwibWFjIjoiNGYwZGFjZDdiZDM0MWY1M2VjMjJmMjRjNjBlMDU0OWU2Y2I5YjUyYTFhYWRmYjQwZTRmYWRmMDIwNDk4ODVhZSJ9&amp;signature=95c329cee8393ec7e61740edb9b54ae9da811cbd18ced3652d5a3a84c90e6106</image>
+    <start>08:40AM</start>
+    <finish>10:20AM</finish>
+    <date>07 November 2026</date>
+  </channel>
+  <channel>
+    <name>CSPAN US</name>
+    <id>CSPAN.us</id>
+    <title>Public Affairs Events</title>
+    <desc>Public affairs events, congressional hearings, speeches, and interviews.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6InBhZjVwd25rWlhnR29UeW4xRE9vSkE9PSIsInZhbHVlIjoiREJsUzBLZzhxeGdLSitSaFwvVE1rTERmZityc1g2a2xOaXA0NlJwbUo4QnVcL21UaWYwdmRzb2tUOERBYk50UTVoUHJnODYyUGJWMEljSVpOaUZZS0dYczJkTzA3NDVlYjg2VFwvVlwvWldrYUhHeG53UzhBb2JhVU83RHJiUk1cLzBSZiIsIm1hYyI6ImNhNmQ3NTRmMmY3NGExN2QzYmE0NjZkZTY0ODQ2YTg0M2Q5MDJhMzFjYWUyNGM5Zjk2ODI0NWFhNTIxMzk1ZWYifQ%3D%3D&amp;signature=25879de6e2c297d7df1ea84d404c1c074889c1588f4d07e040a9481f45db5428</image>
+    <start>10:20AM</start>
+    <finish>12:00PM</finish>
+    <date>07 November 2026</date>
+  </channel>
+  <channel>
+    <name>CSPAN US</name>
+    <id>CSPAN.us</id>
+    <title>Live: Washington Journal</title>
+    <desc>A forum for leading journalists and public policymakers to discuss key events and legislation.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6Iko4N2tvXC9LbzFRd080M3FXaktMdURnPT0iLCJ2YWx1ZSI6Ik5jakZwbVRoZVwvekdDaDl0VERQT1dxREtQVHFMam96RkZubWNqOUhTTlJscHZsZ3RzamtzMFAwV2RkNlVqa2tmRmhKQUNqYnNwSjAzc053djNuUVlqakhmbVVxOXZvZkg2NWFRcmU0blwvVU9PVjNPOUh0bE05RkMxM0VINDZLbWMiLCJtYWMiOiIyMTFmODBmY2EyZGRmMzRhZWFmM2JkMjU4NzViYjdlYzQyNGIzMDJmOTkxZTg2MmViZjVmZDAwYjNmYjg5Mjg1In0%3D&amp;signature=e61ab87089e115917fbcbabaca1d68d02e4605879142a2ba8b3a7dba9b8377ea</image>
+    <start>12:00PM</start>
+    <finish>03:00PM</finish>
+    <date>07 November 2026</date>
+  </channel>
+  <channel>
+    <name>CSPAN US</name>
+    <id>CSPAN.us</id>
+    <title>Ceasefire</title>
+    <desc>Host Dasha Burns sits down with Steve Ricchetti and former Rep. Patrick McHenry (R-NC) to discuss the results of the midterm elections.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IjN4MjhSSXJWb2EwaWRmRmRJVGRTMUE9PSIsInZhbHVlIjoiUUVpXC9uWDRObnZIS3FvZWpZTEZlRVwvdDFmb00xNjk2T3VFUzlBNWdEVEM2dTNnMW9cL3JzTzllXC81THVXZWIrc1k3eVpsblwvU1pEdlNPSDQybFhHM2VkTU1lWUFoUkR6S1dobjZXWXh4ckFwdnNHZ3pCMnduUzBWNWlQRnZPSFVaQSIsIm1hYyI6ImVlOGZmNzk3MTI3YmE1YTI4YjU2YzI1OGI3YTk0N2U5NDM4M2MwZmNiNzg4ZjkwZTg1OGFkNTg3N2E5ZDAzZjQifQ%3D%3D&amp;signature=5001861eb4a9e3c46094193c75025c28aca838e1732ad3c76c9cd9631a488303</image>
+    <start>03:00PM</start>
+    <finish>04:00PM</finish>
+    <date>07 November 2026</date>
+  </channel>
+  <channel>
+    <name>CSPAN US</name>
+    <id>CSPAN.us</id>
+    <title>Washington Journal</title>
+    <desc>Viewer calls are a highlight of the morning interview program, which also features journalists and policymakers discussing the news of the day and issues raised by the callers. The intent is to educate viewers about national issues.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6Ik11c1gzNmhEb2dqQ0NNZjAzMk9KNlE9PSIsInZhbHVlIjoiRzladzQreVRLV1h5T1VBenhiTmtUc2RhWmpFTFdOZlZINlFDVlR3RlNnYUkrK0pSaWVWY2ozZUpodU1hSWxWTzU1bGNKdjVHMWcxaXF1WFwvMStiXC9DV1FFZGVucTU1S1JENmJ1VU9Xb2E1N0RmYjFcL29vQ1lyVXluNWdTSTlUUU4iLCJtYWMiOiJmNGIwYTBjYjY3NTA2ODQwZGIwYzJlNDk2ZTEzMzVlM2M0NTUyZjExYWZmZmI4OWQxYzk2MjIzMDBkNGU0YmNmIn0%3D&amp;signature=a2afad7c21a582b186d7ab413360d66d326e35f2434620160458a7dea6e4ac19</image>
+    <start>04:00PM</start>
+    <finish>06:00PM</finish>
+    <date>07 November 2026</date>
+  </channel>
+  <channel>
+    <name>CSPAN US</name>
+    <id>CSPAN.us</id>
+    <title>Live: Veterans Day Parade in Colorado</title>
+    <desc>Colorado Springs holds its annual Veterans Day parade with the Air Force Academy and military bases participating in the event.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6Ill4U1FrRmdLRlBUK3U2RktGRmNiRHc9PSIsInZhbHVlIjoiNjJ2TSthMmR4Q2duQ2VScG04Vk9MSFwvR0lmV25ERnVhUGxaWHFGNmNCT2VFTU1DQ0I0WDB2NHZ0R0MwcTYwQng1RXpuRERhSHBYallKc2VWaTJvZ2VjZkRFM2hXUkhTbkw3OXFmMzA5ZDVUM3VmUG5SdllUMlc1b0U5dlZtUlRvIiwibWFjIjoiYzM3NmRiZmZhN2UxZmQ5MTMxYzkzZTFjMTU1NDkxYmJjNTY2MjJhMzQ2NmQ1YTExNDhkN2NkNDIyYTIxNDAwNiJ9&amp;signature=c1e7c47fd70d7b926631a7cc1ac8bd52fe2a74f0133f340eef7c0b123c7c4393</image>
+    <start>06:00PM</start>
+    <finish>08:00PM</finish>
+    <date>07 November 2026</date>
+  </channel>
+  <channel>
+    <name>CSPAN US</name>
+    <id>CSPAN.us</id>
+    <title>Washington This Week</title>
+    <desc>Capitol Hill hearings, speeches from policymakers and political coverage from around the country.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6ImxnSWtEcGxzMFA2XC9yTVhnZ0h6SUpRPT0iLCJ2YWx1ZSI6IkRSbFd6YW5Ea05NWjd0SmJPY2didXI4R3Nzc3FvQjk3NzhyXC9sRG16XC93Wnp5MW5zM0hKOE5ISnVwSXJoNWRRamt5bHlXMjdhcm5JMG5aOWoxWlhibXd1VUsrVStHSW9sZisxWW5zeXpEM3BORUhDVWtic1BsTm44VTNTSkt2REQiLCJtYWMiOiJlMTNiYjc5Y2E3MGQ0MmM0ZDMwZWM3YTRiMjFiMDI1YWI0OTllZDNjYTU0ZjUxNDc0ZDBhODczYzc0N2Y5YTEwIn0%3D&amp;signature=3b714b62e5843f199ebb181928d25fae4bc0d1a1023749a37f642810aa9ba27c</image>
+    <start>08:00PM</start>
+    <finish>09:15PM</finish>
+    <date>07 November 2026</date>
+  </channel>
+  <channel>
+    <name>CSPAN US</name>
+    <id>CSPAN.us</id>
+    <title>Live: America 250</title>
+    <desc>Public officials, historians, journalists and civic leaders explore America's founding principles and how they influence today's civic challenges. They speak at the 2026 George Washington Symposium at Mount Vernon in Virginia.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IlgyYVd5SDhqSFMxdEZjK2RnK0xHNlE9PSIsInZhbHVlIjoiQVhGOWlBYmMrOG1kZ2E3ZmxMekFIRk1hMStKckgwQmc4M0M0S2F4cHYrRlR0Q3l5RGhwZTdmTEs3RHFKNWhHeVNBdmtPQVo2OXZiOXRQK0dvRlRPZUdxcDJcLzZzdU9MR1JMaXBCSDM5bFdWM3VUUWpJSWk2TDVUalwvb1A0R2U4USIsIm1hYyI6IjNiMDhmNmZmMGFlYTI4ZGE2NGNiYjI2ZWRjMGU1NDEyZWIxZDYxYmE3ODMyZjE0YTYwMjgwNGRiNTBmOTYzMmEifQ%3D%3D&amp;signature=1f9e23eb9fc2d8ca513f22a53e4ddf2933f470fe3f87dc64ce6b1d7ba319f97c</image>
+    <start>09:15PM</start>
+    <finish>10:45PM</finish>
+    <date>07 November 2026</date>
+  </channel>
+  <channel>
+    <name>CSPAN US</name>
+    <id>CSPAN.us</id>
+    <title>Washington This Week</title>
+    <desc>Capitol Hill hearings, speeches from policymakers and political coverage from around the country.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6ImNBSTRmaG44QTVsQ2lWclZqZVwvc2hBPT0iLCJ2YWx1ZSI6IlVwRzJsVVJET2pDVGpNanhaVFZZaWdPa20yK1RENjNUclVBSjZBVkp1bmR2bldtYVRTRktPMCtTWGhiXC9EVSsyS0p1RUxqcFk2ZmhzXC9nVExBd3Qwa0xaczV4eFB0SEV5QURVWDV4U1VQNjBNMjBLek83YkRaenV1UVBUMGVSaWgiLCJtYWMiOiIxNmQ4ZjhkYmJiNjA5M2E3YTVkYTJlMjdjNjBmODQ4OTRiYTM1ZmMxNjA0ZjUxYWQzYWU4NGQ5ZDE1YTJlMWFkIn0%3D&amp;signature=f536b9470ae13570df5d48e46f4d7714e2b308c12bca7a8345e8a410b65149ca</image>
+    <start>10:45PM</start>
+    <finish>12:22AM</finish>
+    <date>07 November 2026</date>
+  </channel>
+  <channel>
+    <name>CSPAN US</name>
+    <id>CSPAN.us</id>
+    <title>Washington This Week</title>
+    <desc>Capitol Hill hearings, speeches from policymakers and political coverage from around the country.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6InlCMGNSbE8yTkYwTEYxZjB1cDkydVE9PSIsInZhbHVlIjoiT1FOYmFsakI4aW9INGt3NTRjQ2xaXC9wSzJadjRUblZaNlwvTFwvaTZZcDBOM2VwbERRMndaSUVTMks3QlFaWElsbHhnZFBheFVMQ1M4RTdQNkJITmMxRmRuSFlMTElxMUxKVzZcL09HNVVnYnJNRkVVUzJSNU1QaW5COFozUDFENTh1IiwibWFjIjoiMmRhYWE3MDA1MGY5OWNmZGI4NWEwOGQyZThhYTQ3Zjk5Nzc3MjA4Zjg2MTI4MzExMTMwMDQ4ZTQ1ZTU1NGM5NSJ9&amp;signature=6d3423c107b7650cd845a6b25ff571062f66ceff1307a77210a23da8352a1254</image>
+    <start>12:22AM</start>
+    <finish>02:00AM</finish>
+    <date>08 November 2026</date>
+  </channel>
+  <channel>
+    <name>CSPAN US</name>
+    <id>CSPAN.us</id>
+    <title>Public Affairs Events</title>
+    <desc>Public affairs events, congressional hearings, speeches, and interviews.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6InFBcHpwVzBJV2RqOGc4Vm1qY1Y5Q2c9PSIsInZhbHVlIjoiakd1bVBYZkU1ZlJ1a3pqb0pqT3FKOG8yYU5JdTYxVWJyNzZIQ0JRR09NWHRycWhGY3VDbm5FZkVxVXp3V3ZvNGFOYUtiZWlqV29kcWJERGhHTUs1NHNRc3lodGl4UTlTRnExdG9cL2RGdm9zRFwvOHR6UmdEODZlYjVGK2FqUmpYZCIsIm1hYyI6Ijk3MDNhOTg0ZmU4NzE3ZDk5OWYzOGJhODgxYmY0NmYxZjgzMDFlMjA4ODFkYmIzMGQwMDNmZjcyZGUwODhmMzQifQ%3D%3D&amp;signature=1e57d611d492248897b8b5346934d4cd6df336b0958875d3df8f397692faaade</image>
+    <start>02:00AM</start>
+    <finish>03:30AM</finish>
+    <date>08 November 2026</date>
+  </channel>
+  <channel>
+    <name>CSPAN US</name>
+    <id>CSPAN.us</id>
+    <title>Public Affairs Events</title>
+    <desc>Public affairs events, congressional hearings, speeches, and interviews.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IjYwXC9MNFFCT2xFVExzTkNweHI5VjZ3PT0iLCJ2YWx1ZSI6IkU1aWdYMnpaa0NWVTU1VzhuNEorcDFKZk0xK282M3hmXC9tZzlYTU03NzE4bnV0bDF6RW5Fajc5V092WHczd21Ickc2VnN4ZGFmdllRM1ZZanRrMHZNdlZWSWpWcmNCb1pGaVdyODIzbGdYZjI4aUlQWXpSbHJmSGx1a0ZPM1M5SCIsIm1hYyI6IjkxYmYzODYwZGMxYzYyYzEyYTU4ZjU4NzE3NmU3NGQwZTdhMGZmMzY3NjY2NDdhZWEyNTJlZDMwNTE3ZGM5YTYifQ%3D%3D&amp;signature=95f9450e735404e191309ea1129899a4a70aafb383a8e36c7274f84c305e5cee</image>
+    <start>03:30AM</start>
+    <finish>05:00AM</finish>
+    <date>08 November 2026</date>
+  </channel>
+  <channel>
+    <name>CSPAN US</name>
+    <id>CSPAN.us</id>
+    <title>Public Affairs Events</title>
+    <desc>Public affairs events, congressional hearings, speeches, and interviews.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IjQ2c096RU10elJ4VDBsS3YwZGt0b0E9PSIsInZhbHVlIjoiVW5WYVpcL1F6ZHk3ZjBvVFF3TUluVThVWk5cLzZ2WnJKK3RKZkI4ZUVkK3lqa3Z3aW9ZTVQxaTJFRzJscFFMNkVaaGFJSVdWakRzTnNPWmdiMmZwRTU3UlBmNVdRajBYenVES09PNjFyWWNibTJ0YVBQcXdhVW9WUU5QM0xSRmQ1VSIsIm1hYyI6Ijg4ZjU1MDliODc4MGU5OGRjZTgyNjU4YzUwODBmZTg2OTVkMGRmNzY1MzRlZWIwMmZiNmNjNWUwODM3ZjcyYmUifQ%3D%3D&amp;signature=4e434c74d512752c2f0bdce09adf43457a479b8b0261986d66c395bdadaf6a2f</image>
+    <start>05:00AM</start>
+    <finish>06:45AM</finish>
+    <date>08 November 2026</date>
+  </channel>
+  <channel>
+    <name>CSPAN US</name>
+    <id>CSPAN.us</id>
+    <title>Public Affairs Events</title>
+    <desc>Public affairs events, congressional hearings, speeches, and interviews.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IjhNemhTRVwvOTMxK3dcL2l4UFhrSGJWdz09IiwidmFsdWUiOiJxNkNPXC9qSHBsSjJ4OEdwWTNWTFFac1FDMmF5MkR4SWJXQVVkZ25iY0NYUlBxSVwveVBPUUdGc2M2UGJISVBOd0Zod3JtM2xtUU9xV3IyZ2ZXakpoUmg5MDV3U0RSenBpRHdrVVJ2QTNjcUtvVEQ3TGkxejEzSmh2ZGlSM052cHRcLyIsIm1hYyI6IjZhNmQ2MGRiNWFmZGU0NGQ0ZWRiOTcyZTI3ZjRmYWI4NWQwYmEyZDM1NWU3NWRhMjRhZTdkODRhNjc0NDg2NTgifQ%3D%3D&amp;signature=82fbf820cd333e7bd5bbb4c85ba85ff70d89e5ac066852d3de2c4208381397a7</image>
+    <start>06:45AM</start>
+    <finish>08:30AM</finish>
+    <date>08 November 2026</date>
+  </channel>
+  <channel>
+    <name>CSPAN US</name>
+    <id>CSPAN.us</id>
+    <title>Public Affairs Events</title>
+    <desc>Public affairs events, congressional hearings, speeches, and interviews.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6ImpFNG1HVXVKRzZVWWtOSnFHZ2NKVGc9PSIsInZhbHVlIjoiR2xOVlNwNUM5M2lhUDY0VnBcL2RSWXh6T003Y3JLTHBTV3RhbUdqODlhNXFGbFVxTjRyUkVIUVVwdEFtd1M2OU1JMkJyNVlZb0RnNzdzY3RMcFJmRmVkWHprQ1NteWxWTmdhMWorUEtteFwvQ3J0K3AwMnJhZ3NGWU1Fb2t4d0RmZCIsIm1hYyI6IjNmNGM4YmU1MDdiNTViNDYzZTgyNTA0MTA5YzliMzQ3ZGU3OGJlM2IzMDMyMGEwMTI4MjRkMWUzMzQzODQyMmYifQ%3D%3D&amp;signature=2f8d740bdc5a057503ed6c07fb87ac48b93d3c93e2e5a4784bf6904b10b0aecd</image>
+    <start>08:30AM</start>
+    <finish>10:15AM</finish>
+    <date>08 November 2026</date>
+  </channel>
+  <channel>
+    <name>CSPAN US</name>
+    <id>CSPAN.us</id>
+    <title>Public Affairs Events</title>
+    <desc>Public affairs events, congressional hearings, speeches, and interviews.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IjZPZkRmbGxuNGl2Q0xuc1Q4TTAzREE9PSIsInZhbHVlIjoiNTRQKzFSOHR0cFJjdGdndWVQYk45YlwvMlVhUG9wM0haUEloQVZ2K1dpQ0gzYmhheUNVcFIwdzBveG1VQ0tvZTVMdkRPbEV4UmtRdWdoOVN6Z3pob2xqbEZUR01mSHNsU3l1WGVEK0tCcHVvcGdlY1pZaTUzZm0yMTRhbzl0V1VIIiwibWFjIjoiNTM2NzEwOTA5ZjJhYzhmOGE5YWZjN2Y4MDYwZWYyOTE0ZDNkZDI1YzRjNWVhMWVlNDVkNWUyNmYzNGYxODNmNCJ9&amp;signature=a9a05e7ae7de8e4ce936b75ecdb7c8931946223d7f602cd002e3226a561f0e18</image>
+    <start>10:15AM</start>
+    <finish>12:00PM</finish>
+    <date>08 November 2026</date>
+  </channel>
+  <channel>
+    <name>CSPAN US</name>
+    <id>CSPAN.us</id>
+    <title>Live: Washington Journal</title>
+    <desc>A forum for leading journalists and public policymakers to discuss key events and legislation.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IlhPNDlYZDBOb3ZkT1N4TDhOREdkNEE9PSIsInZhbHVlIjoiTnJCOHRcL2xrYldnVG5UYVRSWDkrSFhVa3hwYTJLUzQ4eWpHN1kyc2hPNVFcL2NpU3dEcTRFMWpBRVZ4OFUxYlVsOEhpZ2pkMUdpVTRERUtYZytBSEM3dmZybStFbk1pZm00NzVhS3BIcXFHT3Nva1VYZkxsWjlDK0JiYWtuUFZUbiIsIm1hYyI6ImRjZGU0MTFjNDNhYmQ1MWQwNzNmNWRiOTVkNTlhYzc2NTE3ZjhiODFiYTliMWRkMDhjYTU1ODU4ZTAzZTYyMGQifQ%3D%3D&amp;signature=18d787f875c10dfef26b8a2ab6f3f04012d8a1ee68e4b88a79a72947653d2b7c</image>
+    <start>12:00PM</start>
+    <finish>03:00PM</finish>
+    <date>08 November 2026</date>
+  </channel>
+  <channel>
+    <name>CSPAN US</name>
+    <id>CSPAN.us</id>
+    <title>Ceasefire</title>
+    <desc>Host Dasha Burns sits down with Steve Ricchetti and former Rep. Patrick McHenry (R-NC) to discuss the results of the midterm elections.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6InFFOU5qUmszMEZ4eG1rRXJkb2ZKSEE9PSIsInZhbHVlIjoiSWZwb1NjR3JnaTJicnpQYmZTNUhZblJyeGowZUNrbzZIYzRUY0VMUHYySjVpVFFMd3VNOEpCNjFcLzdhSlh3K0ZcL1ZVbUR2NUg3aFNLNmEzOUxmTStiZkV0bFpWeDB0NWlkVFkxXC9nU01TNDM2RjF2R0tJT3NjSm5ySlwvQ3VoSTU4IiwibWFjIjoiZjc2NjVhOGNiZGNhOGYyZDgyNmQ3ZmE3YzI2ZjM3ZjljMmIzMWExOGYxMzE3ODQzMDBhMWYyMmE5OGNmZGY4MCJ9&amp;signature=c0bf7b5a71c5e8fa3df70d6b9b32965c1ec561ca5ce65ee72735e802c0d09eb3</image>
+    <start>03:00PM</start>
+    <finish>04:00PM</finish>
+    <date>08 November 2026</date>
+  </channel>
+  <channel>
+    <name>CSPAN US</name>
+    <id>CSPAN.us</id>
+    <title>Washington Journal</title>
+    <desc>Viewer calls are a highlight of the morning interview program, which also features journalists and policymakers discussing the news of the day and issues raised by the callers. The intent is to educate viewers about national issues.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6ImJUaW53WWZKZXNrRjdcLytBaVdONWpRPT0iLCJ2YWx1ZSI6IjUxd2JFVlY3cUVBZzhkSkNKY1NzMmZaMW95eVZIMzBGR1hFQ0JiczVQZCtSUEVWcEtCaXVcL3kzOUk0WVZVeGhXenhFTDhYT0tKQXBnUFczNFBcLzFBNUpFeUxVQjJXNGoxR0I2c1ZrNWZJOGozT0VmRm5lck9ySjBsbUtWMlB6NlIiLCJtYWMiOiJkN2IwNDQ0NWQ5YTYyMjlhYTZiYWI0ZDlkMzJkMDljNzk0N2I5N2M0YjJlNGI0YWUyMWQ5MzdiNDBhZGExYjJhIn0%3D&amp;signature=c138216d06c6da0dc53516ce1824595ca6e73d2d106570faa913024f61ab2d65</image>
+    <start>04:00PM</start>
+    <finish>04:30PM</finish>
+    <date>08 November 2026</date>
+  </channel>
+  <channel>
+    <name>CSPAN US</name>
+    <id>CSPAN.us</id>
+    <title>Live: Washington, DC Veterans Day Parade</title>
+    <desc>Washington, D.C., holds its annual Veterans Day parade along the National Mall.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IjlYREpzT3NZT0Z2d0xmTDc4XC8wTkd3PT0iLCJ2YWx1ZSI6IjRnRzEyWDhmK2IzK1ArMk1WRUN5cDk3U2FBWWowSG85OW5oSnpQVHJJSnFJd1B5RjJjZkxCMnJla0hlZG40SnpZbUlEQ0NJQTZCNkNMXC9COUw3QkdYSmdlbnBYZzV1R1BGbkppK2hUMGlyam9mSXJTR1pwQllySGtiRVkxbWU3MSIsIm1hYyI6IjkwMGJjNTljMjA4OGU2NDkwMDZkZmExZDY2ZDA3N2NjZjg3MWViYzc0MTMyY2MxYjhiNjM5ODg5Mzk0NDY4YzYifQ%3D%3D&amp;signature=5db00aa912466327efe0628661e61030050d03ad91894ff34ba8e580035ec443</image>
+    <start>04:30PM</start>
+    <finish>07:00PM</finish>
+    <date>08 November 2026</date>
+  </channel>
+  <channel>
+    <name>CSPAN US</name>
+    <id>CSPAN.us</id>
+    <title>Washington This Week</title>
+    <desc>Capitol Hill hearings, speeches from policymakers and political coverage from around the country.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IlwvS29Nd3hIOWk2azBtY2h2SXplaG93PT0iLCJ2YWx1ZSI6IkpnOUZzeWcwMm91bWs3RHJCOHpFMFhCdTVXRGJhdFdIUGIzUlVDRzA0S2NaK1UxaGloTVA1UUtiMEtwWUw4WndZbFFVaHRIeVhKUUhkdW4yUlQrdGlsYXZ5enVjY0owNWR5dEVZUk04V0tqU2JRTnBSalRGSXlXUCtyVHFMZ1ZuIiwibWFjIjoiNDZjM2IzN2EwMjZmODhkYThlYjUyOTU3NWZkYjJiZWU3ZmJmMGY4YTg1ZWNlM2FhMGM2NTJkYjlkODY1OWViOSJ9&amp;signature=4e6466e459ec256d2bdd90508038a589c93a8d4726a6f7dec75d360464eb1153</image>
+    <start>07:00PM</start>
+    <finish>09:00PM</finish>
+    <date>08 November 2026</date>
+  </channel>
+  <channel>
+    <name>CSPAN US</name>
+    <id>CSPAN.us</id>
+    <title>Washington This Week</title>
+    <desc>Capitol Hill hearings, speeches from policymakers and political coverage from around the country.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6Iit6RzFTSzEzc0l4RkVncU5zWmhSYnc9PSIsInZhbHVlIjoianhVTlZncTNLTnVJN0FEM3FDUXpGNDJNUVhSTmxubE5yeWNaUVd5NVBlTVRQZXZsb3NQUXpmTG1vMWJ3OFAxbWpJOFRYSkFHK1ZrZ1N4ODV0UGZRSzZUZlJONDU3akZSQkxGRGtUT01aeE1hSnNzRFlveExuRFpUSkRvRHRkTzAiLCJtYWMiOiJiM2RjMzg3OTEwYWI2MGY3NmYwZjI4ZjM3NmIzZjcwOWNiNjgxYTkwMWZhNDJhODY2MzcwNDNlOGJmY2Q5NjM1In0%3D&amp;signature=d627b2b2d9f6fff9d10970272c0aca7d71265633693b9f456e9de4d6b6c868be</image>
+    <start>09:00PM</start>
+    <finish>11:00PM</finish>
+    <date>08 November 2026</date>
+  </channel>
+  <channel>
+    <name>CSPAN US</name>
+    <id>CSPAN.us</id>
+    <title>America's Book Club</title>
+    <desc>Pulitzer Prize-winning bestselling author Jared Diamond joins David M. Rubenstein to discuss the formation of life on Earth, the science behind animals and his book Why Is Sex Fun?</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IlNVV3VYVkJxbEcxbE84WHVYeTk3T1E9PSIsInZhbHVlIjoiOTJYRjN2QjBmYlRtajZtaTRsaDBiUW1wVUh3VlVGUGF4WkFiYzMzUHcyanJWYURVa1FOTHZNdkpUOG5NT09tcEFmUytsWUJQSERQZzNPU2w0bkFmczZRNWM5b212TlptTGVPeUNKaExqUzl2S0xHN29ITHhnenZYNGp0MXEzMXAiLCJtYWMiOiI1ZWFjODk2ZDdjOWMwZTE3ODVlYzk3NjVhYjJmNjhiNDkyMjdkYTg4ZDM4YTBiNjc3YTE5NzRmNzZiZWQxMmZhIn0%3D&amp;signature=8b94bfe332bebfd2b4c8d6be6332fd0119e092a438c911360994c41c8bc879d1</image>
+    <start>11:00PM</start>
+    <finish>12:00AM</finish>
+    <date>08 November 2026</date>
+  </channel>
+  <channel>
+    <name>CSPAN US</name>
+    <id>CSPAN.us</id>
+    <title>Washington This Week</title>
+    <desc>Capitol Hill hearings, speeches from policymakers and political coverage from around the country.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6Im5ZMHRVTmNTajhpbXVMYk4yclplbGc9PSIsInZhbHVlIjoiSExCSTFmOTl1UDRlQzdwNnl6blh6V1dcLzJYa0wwNHZ4VzVjQ1FCOHJLYndjeGtTSTdySHl3WUJBT2t6emtBbXNCSjBOeThcL1dRZm9majgraDNPS1BtMDN1TUxCNGhuTllWS2Vra0RFZStDXC84U2FOTkwwWHQ4amlcL3VkN2pQWUFkIiwibWFjIjoiNDExOGEzNTI0YWNhZjVmZTQ5ZDUzNmE5ZGEwNGI0OGZiYmU3ZmZjZWM2NDBhNTIwYzIzZmJlOGViYmI4MDY3MyJ9&amp;signature=4e571ec43a0bf1a7ea528c7bb276e52b103d3eb9ded5534b643d0248b82e16fa</image>
+    <start>12:00AM</start>
+    <finish>01:00AM</finish>
+    <date>09 November 2026</date>
+  </channel>
+  <channel>
+    <name>CSPAN US</name>
+    <id>CSPAN.us</id>
+    <title>Q &amp; A</title>
+    <desc>Pulitzer Prize-winning photographer David Hume Kennerly, author of In the Room, discusses his six decades covering U.S. presidents and first ladies, world leaders, the Vietnam War, the 1971 Frazier-Ali fight and much more.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6ImFvalVNV2RsbFZpTDA3MDFZVnBkZnc9PSIsInZhbHVlIjoiQThwXC9BXC9IYTF6XC9GUVZoT1FrSjN2RVlCTnNUdVZMZkkxZ1Y1Qk4wZUZFK1wvTGV4cXE3cmRITXk0c1FlQVhHaVpyKzVOSVlOWEJ1alwvaml4XC9IWmdoWEZXWlJFZ0wxY056Y2xUMTFsVnphVGllNkQyYnZNbkw5ZkJoTmVKaHlwNHQiLCJtYWMiOiIzMjE0OGE4YTY3ODJmYWFiNDE5YWNkNWY0YzIxYWEwNTYyYjIyMWU0Yjg5MzI3NTVlMGY0NmI2MDdiNGI1OGFiIn0%3D&amp;signature=8061698ea0ace135c65220d6ae7e79b8b529a2b3e0642bdd9163c275d5e602c0</image>
+    <start>01:00AM</start>
+    <finish>02:00AM</finish>
+    <date>09 November 2026</date>
+  </channel>
+  <channel>
+    <name>CSPAN US</name>
+    <id>CSPAN.us</id>
+    <title>America's Book Club</title>
+    <desc>Pulitzer Prize-winning bestselling author Jared Diamond joins David M. Rubenstein to discuss the formation of life on Earth, the science behind animals and his book Why Is Sex Fun?</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IlVMWlk2SW8yNTh5RFFBVjdRUlQ4MUE9PSIsInZhbHVlIjoiaGlWTklKaEJCUHBCZHJTcXphWjFPbmdQaWtHQWQ4dUhwYm1lbWxuTWxKSFwvcW9uZnFySHVmK0FieVNKZVNubjIyVk12VHBGamhNNnVFUU1GT3RuSm94QWE5SmRxbU5GbzZkWUZDQWd5MDhZOERlUDczNkk5S2VCMzJ3NWV3czlMIiwibWFjIjoiN2IzOGZhM2YwODAxMTE0ZjI3OGIzNzg1YmUxM2E2ZTQ3NTA2YmU3MzFhNDg1OWIwZWIxMmE0NjRiZWFiZjM5OCJ9&amp;signature=31e4639d700923cc675423f0ccf99d4aff0af2d9a27e362bdeaa765cacbe8a87</image>
+    <start>02:00AM</start>
+    <finish>03:00AM</finish>
+    <date>09 November 2026</date>
+  </channel>
+  <channel>
+    <name>CSPAN US</name>
+    <id>CSPAN.us</id>
+    <title>Prime Minister's Questions</title>
+    <desc>The British Prime Minister answers questions from members of Parliament in the House of Commons.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6Iit4cmhVdGwwM1Z0VGZHd01CXC9OVUxRPT0iLCJ2YWx1ZSI6Ikh1N2V5Q0N1TituNTZTZktYbWtMZ0sxbnFEOUtRQnZNOEErUmkxWEttNVB3U0ZBaWY4U3RnZ0xwYWErc3Nxc25rVzFtZ2NZVU9EK2xzdDlJc0d2Z3BOdkVEVzVPM1wvTXVFOTM2bG9Uc2NiOEkyc294WkZmNlFZSko2NzlFUUFWaiIsIm1hYyI6IjgzMGNjMjk0NjE3Y2NjOTAxNTc2MTczNjVlN2I4NzQ0MDY0ZTVhZWYwMWQ5YzcxZWU0NjIxMDk0MDMyNjg5ZTIifQ%3D%3D&amp;signature=b8a4b322257f472c405e34f9c7d0decc33d06688c26e4d23244e6e34d2df3424</image>
+    <start>03:00AM</start>
+    <finish>03:40AM</finish>
+    <date>09 November 2026</date>
+  </channel>
+  <channel>
+    <name>CSPAN US</name>
+    <id>CSPAN.us</id>
+    <title>Public Affairs Events</title>
+    <desc>Public affairs events, congressional hearings, speeches, and interviews.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IkxqMUI2cEk1bWJVUkdLK05ySzFLbXc9PSIsInZhbHVlIjoiNUxKaHEwUEdPZjkrS2hpWmZobmxWMWhUR0VNSEhMNWtVM0Fycnk0VXlnWGl5SVJoWHFJaW81d0lza0lFa1wvSytVTFBzUDA4cXF4eksweVd5b3Z0cjdCWklKNzNaTXl5ZEFydFY5dzRcL2dmcFhZVzl4MUh3VWxYNW01VXlWSmZWUiIsIm1hYyI6IjJlMjkxNjg2YmMwNzFlMmVhYTBkMGQ1NzUxNGZlM2QxZTgzMmE2Njc4NzdlNDk0N2M2M2Q5ZDQ5MGEzZTVmN2QifQ%3D%3D&amp;signature=0bc535afe33c0a4c2f2e1f6a85150d6e9947eb87ec01c7f9cb55c915126eb5a7</image>
+    <start>03:40AM</start>
+    <finish>04:00AM</finish>
+    <date>09 November 2026</date>
+  </channel>
+  <channel>
+    <name>CSPAN US</name>
+    <id>CSPAN.us</id>
+    <title>Q &amp; A</title>
+    <desc>Pulitzer Prize-winning photographer David Hume Kennerly, author of In the Room, discusses his six decades covering U.S. presidents and first ladies, world leaders, the Vietnam War, the 1971 Frazier-Ali fight and much more.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IjYzNWI5bnlOWkxZbkgwRHQrd3JsZFE9PSIsInZhbHVlIjoiVm56dVN2ZEZMU2diRERMdEdkSVh1dDZaYlVrWmRpNmlsbGRHUFB1UFZOeWxnaVlja0lXTVhlcDZyeXlnc3YzVDZveXp0SndhZ1dodHF4YThUV01kR250YnhyRHd5aVwvVUhMVVBjMkFtaTEwQXU4MGJnSXd0ZGQ3T0djaDdvMmZmIiwibWFjIjoiMTY5OGJhZGFmYmU1YTJkODJmZjQ5OTY1OTc2OGUyZWJjOTA1ODAyNGUzZjRhYzA2MWRjN2Q2Y2IzOWMxMzhhNSJ9&amp;signature=fb03b7f7b15385a5d284f79bfbcec5be11901e7aa3e4aa0b95194f7ac9ed9f74</image>
+    <start>04:00AM</start>
+    <finish>05:00AM</finish>
+    <date>09 November 2026</date>
+  </channel>
+  <channel>
+    <name>CSPAN US</name>
+    <id>CSPAN.us</id>
+    <title>America's Book Club</title>
+    <desc>Pulitzer Prize-winning bestselling author Jared Diamond joins David M. Rubenstein to discuss the formation of life on Earth, the science behind animals and his book Why Is Sex Fun?</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IkdZbXdJZE9PQ0JJYmd0dVhrT2xUdVE9PSIsInZhbHVlIjoiZHJrUjBQcTNoMUlabWhGdHRpVm8wMXdYMkdHTFlueE9XS0xySVFJZE5tZW9ZRXZNQ0wrVE9ZaWJXTVVyV2xvTmxYSldGcEp5eFVXZGZuUFZvTlpnVFBmdXFOYWdod09JeGF1T1FsZDRtT0hVdlZQM3NSZ2cxWHRRVW11aU03V2ciLCJtYWMiOiJkMDI1ODFlY2ZlODFlYWFhZTY2YjcxNWYwZWZjOWY1MGUzMGQyZmM5OTRlY2YwOTIyODAzZDBkZTNkYzJlNDQzIn0%3D&amp;signature=104585b107548fe9a5d426fb582c367447dec192301f3bf0de32d5b2bf47e2b9</image>
+    <start>05:00AM</start>
+    <finish>06:00AM</finish>
+    <date>09 November 2026</date>
+  </channel>
+  <channel>
+    <name>CSPAN US</name>
+    <id>CSPAN.us</id>
+    <title>Prime Minister's Questions</title>
+    <desc>The British Prime Minister answers questions from members of Parliament in the House of Commons.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IkM5S1NiU3FsbnI2dVppZmhyN3hlaXc9PSIsInZhbHVlIjoiU1VnSStkU3ZlbXNlYUVpQkE2bVdzb3dOV1NjWFpIajhlNnBlRWRzMExRS2RhOEFHcEw3TndpQ2l2b04rQjIwZkViZFdZUlBNSlNoMFpUeFp3Q0pQOVgxZVpHV0tDUnNlU0NrVWVzV1lTOVhcL0drR1FrSmc3VnptcFBUTEZRZm1lIiwibWFjIjoiNzZiM2RlZDMyMzAzNDliNDVlNmY4NzgyMTk5ODFkZWU5NTA3N2M2MjRiNmMzNGVjOTc1OTljOGU4YTRmYTNmOSJ9&amp;signature=209a5058e97ffcfb5a3bf3e19bd4e70f8e502d05c9d3742973df861391f09824</image>
+    <start>06:00AM</start>
+    <finish>06:40AM</finish>
+    <date>09 November 2026</date>
+  </channel>
+  <channel>
+    <name>CSPAN US</name>
+    <id>CSPAN.us</id>
+    <title>Public Affairs Events</title>
+    <desc>Public affairs events, congressional hearings, speeches, and interviews.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IjJBXC9mWE9vNlZkMkJRZEY1OGRiZG9BPT0iLCJ2YWx1ZSI6IlZuSWNjc1dHWENlTFY0YzF2SlwvdndqODZtcWhMVjhXZUZHeUFqRkU0UWdzK0RrR3V4dERxa2ZybUptT29TU3hBVm5KU0RXTlVWVlwvVmV1RWNaZVZtMVhHck9QOTlGemJjMVVNeFwvaGthalJaTWZ3bUFQbDA2ZU12WlwvUW5lN2pWRiIsIm1hYyI6IjUwYzEwMzFkYmY0YzY2OTJkNDdlNTZhZDlhMjM1ZWU5Y2YwM2Q3NWNmN2UxMjkxM2JlMjEyNTY5ZmNlNzJlZGMifQ%3D%3D&amp;signature=761431b156bdfde0dcfca691de52d3b15077c259c1b8b6b4d843ac24703e95fb</image>
+    <start>06:40AM</start>
+    <finish>08:06AM</finish>
+    <date>09 November 2026</date>
+  </channel>
+  <channel>
+    <name>CSPAN US</name>
+    <id>CSPAN.us</id>
+    <title>Public Affairs Events</title>
+    <desc>Public affairs events, congressional hearings, speeches, and interviews.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IlJcL3FWOWY4d1kzQXF5R3ZnRkxycUR3PT0iLCJ2YWx1ZSI6Inl2Z3N6amZreVwvcFF3bEtSRE1RVEVMa3d4TVpablZ5WjNPU1ZZNjBtT25DWWkxXC8yeTBzSXJjY0VuU3lQeFl0RHBkMjcrOXl4ckZGMlpcLzhreVdDb256SDNzcXVFdXBcLzdzNTYwTFd5dmtSZ1BxZXNkTmtmenlJNlR2K0NWT2xYbiIsIm1hYyI6IjY3ODU4OTgxYjUzNmFjMjAzMTJiNTg2NWFiZjlkMDBiM2U3N2RhNjBlNjBmM2M1MjU1Y2Y5Mzg3ZGQzMWE0ZTcifQ%3D%3D&amp;signature=f260f04da9d656ee3ad12f69e7935679fb9dc8cc76db5306cefaaa373baa4943</image>
+    <start>08:06AM</start>
+    <finish>09:33AM</finish>
+    <date>09 November 2026</date>
+  </channel>
+  <channel>
+    <name>CSPAN US</name>
+    <id>CSPAN.us</id>
+    <title>Public Affairs Events</title>
+    <desc>Public affairs events, congressional hearings, speeches, and interviews.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IjVqbXBGWitRYmtlTzRRaDdabWFFeEE9PSIsInZhbHVlIjoiVldwVTMzT1BQdW5CTURscURDTTVNVkxRU1A5VW95M21PckNrNW9lTWxJMGRIbnZsT25ldlZ3WHhEMDFQcEt0TlY4a1FUZUpXWEhLek1QRXhqTUw3ZmtHOU1nUTBVZHBSd1ZmSW5PMGZEVjg4eG5UZTJLcEJqOFY1U2JkdTRPXC9JIiwibWFjIjoiMGY5MzkxZTU0YTA0NDkwZTViMzYwNjQxMDg0N2YwMTYzNTIzZGU1M2QxZjBjNWJiMTU0ZTI2NTcyN2JjY2M3NCJ9&amp;signature=cd5a47bab139d7064e78a17b4bdb0924455bf572741f90e93a16cf161e1f6204</image>
+    <start>09:33AM</start>
+    <finish>11:00AM</finish>
+    <date>09 November 2026</date>
+  </channel>
+  <channel>
+    <name>CSPAN US</name>
+    <id>CSPAN.us</id>
+    <title>Q &amp; A</title>
+    <desc>Pulitzer Prize-winning photographer David Hume Kennerly, author of In the Room, discusses his six decades covering U.S. presidents and first ladies, world leaders, the Vietnam War, the 1971 Frazier-Ali fight and much more.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6Inh6a2ZVQTZJSEpQQk1zVHZGcHJmSWc9PSIsInZhbHVlIjoieVRybkVpNEsyT0xlZlFPdEk1TW9cL0pWd1p4UEFjS0djVnIzYkNDT21KMktndnpSc1NlK2M4MjZKVlpNcHBwd29iUXNcLzZoMkU0eGV0NFhYYnAyd01JYnFKbWtDeEVnZ05PeklaVjFQN0Y3a21cL1VocUhpR3dudWkxYlR2R1F1NjciLCJtYWMiOiJjYmM0YTA0NTZhYmM2N2UwZTg3ZjRmZTFkZjBjMzk4ZDkxMTRkNTNkZTgxMzc3MzIwODU2Yzk1ZmQ4NWU2M2RkIn0%3D&amp;signature=e9060cb8d80d2bf3758373ce4b7873743e2a8ea5d861a3d927c9008ba870f1e9</image>
+    <start>11:00AM</start>
+    <finish>12:00PM</finish>
+    <date>09 November 2026</date>
+  </channel>
+  <channel>
+    <name>CSPAN US</name>
+    <id>CSPAN.us</id>
+    <title>Live: Washington Journal</title>
+    <desc>A forum for leading journalists and public policymakers to discuss key events and legislation.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IldKVldKbWNWdXBuclBUbThveGo0RXc9PSIsInZhbHVlIjoieE1FMjFGMVY3QVNySXlqVVdicTM3YzBKb2pTNmczXC9UK2w1TmZBS2g4SFV2ckdcL3d2c2R6cEFuWEdCcjRoXC9qQWJDSFVEbmlBakFGV2lSRUpxcDE5M1FrakVQcGlcL3NvYWtXSFVycUhiK1lpMDBaZFJZaHpkUjJWc2xaWXMwSlA5IiwibWFjIjoiNWQ2ZWJkNDBlOWU5ZDUwMDRkNmQ5ZDcwNDQwNzcwN2VmZDA4YTIyZWI3OWIwZjE1ZTQ5ZThiYTYyOWVmMjhjZiJ9&amp;signature=3fc3b32b01510b3ab352093b94362aaec47a3544857041b7663d14c7eedea9c8</image>
+    <start>12:00PM</start>
+    <finish>03:00PM</finish>
+    <date>09 November 2026</date>
+  </channel>
+  <channel>
+    <name>CSPAN US</name>
+    <id>CSPAN.us</id>
+    <title>Live From The Nation's Capital</title>
+    <desc>Live coverage of Washington, DC events with hearings, briefings, and policy debates. Viewers see lawmakers, officials, and experts discuss policy and national issues, live with no commentary.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6ImNpTWpXaWh0djlXOVwvUjR6UUlUS0RBPT0iLCJ2YWx1ZSI6ImRCR01DUU1cL3VhMkNqWlJ2RTNxUVwvSktYSWg0cVBnU0pKSVRKdVpiUXhKUVZNVkUwVnd5RDhPOTkwSytmQU1qbFB5VGFUdmlsbzdsWGN2M1N1RVwvMGRBdVhYXC9LMDlFTUZcL1JXSVBZOHdIdHlibjl1V0RBWHVER1BqTWlFM2k5TGUiLCJtYWMiOiI0YjMyOGU2ZGM1MTg3Zjc5YTVlM2E1NWI3OGU4ODNlM2VkYTI3N2JkMjUxZmVlYzBmZDY5NDEzNmM4ZTVhY2E2In0%3D&amp;signature=f1b1dce0f49207db43194f7e3ce497eca5f9aa18401e58df2818ee560f145355</image>
+    <start>03:00PM</start>
+    <finish>05:00PM</finish>
+    <date>09 November 2026</date>
+  </channel>
+  <channel>
+    <name>CSPAN US</name>
+    <id>CSPAN.us</id>
+    <title>Live: U.S. House of Representatives</title>
+    <desc>Gavel-to-gavel coverage of the U.S. House of Representatives from the Capitol Building in Washington, D.C.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6Imtpa2dVbHJ6cUJPU3d1dmluMUF4cmc9PSIsInZhbHVlIjoibzRhMUdHSFpLZG9jYlIxc0F4Z01KT1ZjaTV2eThsd01rdGRXTldNTXpOVXdZUFwvVXQ3OUdhVDZ6Tm10bkxGM3NSNTZ1ZkRUZ1hib01GWGdYYlFIMXY4eXltY1drYkV0ZmNoUWduTUc5VXhRVXBxZ1FxYmo4WU9DXC9WOU5JMG5wYiIsIm1hYyI6Ijg5ZDkwOWJkZjk3OTE3YmI0ZDg4YjA3MGEzZGQ2YWNiYTNmMDk5NTA4YTJmN2QwY2RkZjBjOTY3MjhlMGI1NjIifQ%3D%3D&amp;signature=c9f5ff11a00c89f97c68d1685295abaa6080ec343455d34927d103aba42e5f59</image>
+    <start>05:00PM</start>
+    <finish>07:00PM</finish>
+    <date>09 November 2026</date>
+  </channel>
+  <channel>
+    <name>CSPAN US</name>
+    <id>CSPAN.us</id>
+    <title>Live: U.S. House of Representatives</title>
+    <desc>Gavel-to-gavel coverage of the U.S. House of Representatives from the Capitol Building in Washington, D.C.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IkdJZzVWWHFhZHg1XC9LaVYzeUliSm5BPT0iLCJ2YWx1ZSI6Imc4ZXdlN0l2WFdRQ1RLNlwvVDEzcXkrZ2ErR1FrZ1preFhaRklUXC9VcGhXbjFOaHcyR2VBMHlEZmc0ZzFkd2ZTeHZFcldkVHN2TUdoaTVOZ2szYkVrQWhObFJPMjA3VGRWcmVVVE5pbHRCQ2RSY0l6ZTJWbXQyU3h1Ukw3OUFZK2YiLCJtYWMiOiJmZjllZGMxODQ0ZDhkMWI0ZGQwOWI0ODc5ZmFkY2MyZGM1YWZjY2Q0YTIxOTI5NWE0ZWZkYjJjMzM3NzdhNTBiIn0%3D&amp;signature=da66d58dfc77226605fe0815ef3a4313670b17064da23874c7afeb8f9e74ea58</image>
+    <start>07:00PM</start>
+    <finish>09:00PM</finish>
+    <date>09 November 2026</date>
+  </channel>
+  <channel>
+    <name>CSPAN US</name>
+    <id>CSPAN.us</id>
+    <title>Live: U.S. House of Representatives</title>
+    <desc>Gavel-to-gavel coverage of the U.S. House of Representatives from the Capitol Building in Washington, D.C.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6ImF3UmdQak5nMDdKK3lPSGFxdUpCN3c9PSIsInZhbHVlIjoiY2ZvXC9kWllMOUY4YU1ZOWFBeFVPWXE0RWJXOGRQVkVYXC9uc3dzOXkyRjZDVldzcTFqd2pMMFRcL3l0MUozZkRtVllxWTdKYjYyRDJHb09DRWVRUEF3R2h4VGVHVExxRCttd1RhN3BGc1VVTTd5VUxJcVE0SDBCNkdUdTZCbmhIdzYiLCJtYWMiOiJjN2JlZjdmMzVmODhjMGI4OGU3NjkzOTRiY2VmZWU2MDAwMjViN2ZjOTRjZWU1ZTZmNWRmMWQyMGM0ZjYyYmJkIn0%3D&amp;signature=ea75b6b80bfb5d527d27533ebb6d389dc86b78b5fbb08c494fec37c1a2018766</image>
+    <start>09:00PM</start>
+    <finish>11:00PM</finish>
+    <date>09 November 2026</date>
+  </channel>
+  <channel>
+    <name>CSPAN US</name>
+    <id>CSPAN.us</id>
+    <title>Live: U.S. House of Representatives</title>
+    <desc>Gavel-to-gavel coverage of the U.S. House of Representatives from the Capitol Building in Washington, D.C.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6Ild1S2lEZmttOVlIdWZjS2xDeWliSnc9PSIsInZhbHVlIjoiM0hwTGdBT0ZBZlE0cjVQRUIraGJXdU5KSG1pZEtibTBHOWtDV1RiZ0FYYkllM3NsME1UQmZsaStJNXdYVDBmc1FZTE1rNHVSS2RIQUEzSFlWdVJoaVh3amJUalVXYU42TE5aRTFPOGVkMnM1ZmVpY3h3NWw0ZVNBSERHTU1SNGkiLCJtYWMiOiJkYWVmMjdlNTU0NDg5YTQwNDk1NzFkMzQ2NjU4N2ZkYzM5MDZjMGM4Mzk3ZWJkYjIxODVmYjYwNDIyZmYzNzM1In0%3D&amp;signature=9e675d523304904d30c70571eb0d0184b7a497924dc47250fa7388d781908ee5</image>
+    <start>11:00PM</start>
+    <finish>01:00AM</finish>
+    <date>09 November 2026</date>
+  </channel>
+  <channel>
+    <name>CSPAN US</name>
+    <id>CSPAN.us</id>
+    <title>Washington Journal Primetime</title>
+    <desc>A special evening edition of the Washington Journal examining the federal and state response to COVID-19.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6ImFmNVduQm9iS2xBSjdRWHMySVg5b2c9PSIsInZhbHVlIjoiUEtCVFQyemNPQkFwWEllQndHNlwvWERRTEcxbVFHTW12Z09OOXU5NDg4TjkyT1NEdGREQ1U2c1VNbEdmSEVTUkdLVFFCUlAyV1ZlVlZYQVRUR3FkMWVPeWRiV1wvMUh2RGNndzRxM25MbmFcL2p3YWZ1TFlMbGxRUnp1S2lPcjF2b20iLCJtYWMiOiI2NTY3Nzc5NzgxOTNkMmUwMjBlNmViZDdkNDE3Y2FmYmExMjQzNjgzODg4MDkyOGQ3OTZjZGJhNGYwM2ViMDBkIn0%3D&amp;signature=5d8a47795734f24d8ae7e012d74fb5e3dd9f7c4eb99a4afac6703ae5661c220e</image>
+    <start>01:00AM</start>
+    <finish>02:00AM</finish>
+    <date>10 November 2026</date>
+  </channel>
+  <channel>
+    <name>CSPAN US</name>
+    <id>CSPAN.us</id>
+    <title>C-SPAN Primetime</title>
+    <desc>The key events of the day, including speeches, briefings, policy debates and public forums making news and shaping policy; see events from the White House, Congress, Capitol Hill and around the country.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IlluXC9yTmt0VmF0ZG5vZnUwZGFkSFdBPT0iLCJ2YWx1ZSI6IlwvVU5vanY3RlBLMGlMaVdoYkIzeGNLeVladG45Nnduam1Gd21SUmppVE5QUDFpYlNrNGlTdHVvY1lNUjFFOU9cL1BENXc4emdJbVU0NUlzQko5dXg3SzlEaSs5Nm55OFZyamR5cHk4SFk2alwvNkxKckdTNElTM3NnMURwR1wvNkU0NCIsIm1hYyI6ImQyYWFhMzM0YTdmN2IxMzM4ZTFmY2RmNjYyNzczNDNkYmEzY2EyNzgzMmNlNTI2MzNjYzgxNjg4YTZkMGI0YjYifQ%3D%3D&amp;signature=e743c8f8dd6712c2489f6da910e57afebbd0a72da23985ed38e5f2e182b487de</image>
+    <start>02:00AM</start>
+    <finish>03:30AM</finish>
+    <date>10 November 2026</date>
+  </channel>
+  <channel>
+    <name>CSPAN US</name>
+    <id>CSPAN.us</id>
+    <title>C-SPAN Primetime</title>
+    <desc>The key events of the day, including speeches, briefings, policy debates and public forums making news and shaping policy; see events from the White House, Congress, Capitol Hill and around the country.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IjJ3VXFlb21STDE0OHNCUGFMYzJiNmc9PSIsInZhbHVlIjoicVBHS212T2ZxTFdaUUY4Y3RxWFBzT3QzYThhekZcLzFzWnlVNFZiNEFVcXlpQ005aHVkbThSc3ZvdGdFb3VRQm14ek5nUnpPU2JKU1ZTSWNGSnhOOHVDS1FHanVNMm5oM25zaGhKTjc2aWhwTHFRcFBcLzlhR1VCbHozSEFuZ3h4aSIsIm1hYyI6IjFiN2ZmMTJjMmFhZTQyNjQzZmE4YjA5MjI4NWQ2N2U3NzhiZmZiYjYxMjRlNjEyYzkyY2I3MjA0NjQwYjBhYWQifQ%3D%3D&amp;signature=57a7e53ed33c2395b601ae9f1e70e32a658f3813e5cdb66beb118f2dac311876</image>
+    <start>03:30AM</start>
+    <finish>05:00AM</finish>
+    <date>10 November 2026</date>
+  </channel>
+  <channel>
+    <name>CSPAN US</name>
+    <id>CSPAN.us</id>
+    <title>C-SPAN Primetime</title>
+    <desc>The key events of the day, including speeches, briefings, policy debates and public forums making news and shaping policy; see events from the White House, Congress, Capitol Hill and around the country.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6InVtV1ZCY0VpWVFiT1RnREhuUjQ2Tmc9PSIsInZhbHVlIjoiZFZmRkJCUXhRVkw1bkhpOXI1ZThXR2QxaWRKT3lOQTl0UlRnSklrSnpjWmpmZE5oWndFTUhqTlF6cTI5dmtQQkJYZFlQTUMwZENNR1hzVHl2MUZqbUZ4bVwvSHNYeTdNY1VOZ1ptQ0IxcmJaMEVQTTlSa2Z4SFJXS3g0bnVtUFlzIiwibWFjIjoiZjY2NDBmN2U3NWEzMGFlOWM1MmI1MWYzZGMyZGI3MzkzMDAxZmRlMjU1M2Q4NjRmN2VmNDM4MWNkODVjY2IxMSJ9&amp;signature=a2ffa2202dbeb866db908a79885e25f409975f68b8e318952d93eb45ed195f91</image>
+    <start>05:00AM</start>
+    <finish>07:00AM</finish>
+    <date>10 November 2026</date>
+  </channel>
+  <channel>
+    <name>CSPAN US</name>
+    <id>CSPAN.us</id>
+    <title>Public Affairs Events</title>
+    <desc>Public affairs events, congressional hearings, speeches, and interviews.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IlI0dEFWcVFwK2duWmxnWWN6Zk03dkE9PSIsInZhbHVlIjoicWRUZGY0R21KVncrK255UzlicE0ydjY4SmlnS3VHMDIrQTJ2NWtVY3RMM1wvZ1lick90TzMySDdjY2JwdDV4bXBCQlZRMVwvR1VuYzBFXC9jN1RKdmFld1pLeHZcL1pPQ1haM0oycTYzSFEraXNzcDJrV2NLY2FsQWdTcVA1RFl0RVdjIiwibWFjIjoiZDY0YTkwNjFlYzljNTMwMWUxMTIzMDE0ZDZkOTQ1MjM4NDA4Y2EyMGY1OTJlOTNhMmNlOWJlMjJiNzEwZDJlNiJ9&amp;signature=3ea3801ecdc11420252acc50095085cbd90f8ed6cb33fd2edbf24533b53dd6b8</image>
+    <start>07:00AM</start>
+    <finish>08:40AM</finish>
+    <date>10 November 2026</date>
+  </channel>
+  <channel>
+    <name>CSPAN US</name>
+    <id>CSPAN.us</id>
+    <title>Public Affairs Events</title>
+    <desc>Public affairs events, congressional hearings, speeches, and interviews.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IlZrRCs3ZnhJeENiYWMwdGNUWndLNWc9PSIsInZhbHVlIjoiR1NkbmV2YjNBYnc2S3BYVWlING5iSEYyXC8yVlhFWkdVWXcrNzduVVBZQ3J3TnBaK2NZMzlqV3NYTVwvbWVhcTFuaGNzMmxveDFwV0R4c1doaDlWYktGcE5VZVdjZlg4STVKSWdGQmNaRXFaTFNzWWw2NnN2dWJrYldmZ0d2NUlBQiIsIm1hYyI6ImU4NzQ5YmYwOTM1YmM0NGViMGVlYTU0OWZmNTdlZmEyYzYwM2VkY2Q0OWRhNmRhZmY2OTFmMjhmMTlmNGUwNzkifQ%3D%3D&amp;signature=b80998a8a2a997ec40f31d34b0befdb68f405dde0a7fdb5f231850e2545da90e</image>
+    <start>08:40AM</start>
+    <finish>10:20AM</finish>
+    <date>10 November 2026</date>
+  </channel>
+  <channel>
+    <name>CSPAN US</name>
+    <id>CSPAN.us</id>
+    <title>Public Affairs Events</title>
+    <desc>Public affairs events, congressional hearings, speeches, and interviews.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IkR0QlY2Mk9tem1TZmYwMzdMVlwvUVRnPT0iLCJ2YWx1ZSI6IjU0TzdcL2hVSmxyWDBIQ2pQRjJcL1JrVTB6ZlRVUXZMM3Nic0FHbENHVXd0Z3hPT3FyZjJmR3R3YzlJSTUxaDQyYjVtRGtvY2NIelVSQndIRzh0d2xPQkVGMWppV05uWEk0enFueWZvUXNvMVlXN2R4aGkydUFuOEdrQm9MbE1nSHciLCJtYWMiOiI1OWJiODZmZjMyNGU4Y2Y1MmMxZDc0MDIxYjRkY2JmMTI1YWFkZDU3NmMyNDIyNzYyMWU1MmRmZTRjMjcyZjg4In0%3D&amp;signature=c45a040897b4e9e132b64a3c388f4192dbb13f802b16fd8707de82b73084eda7</image>
+    <start>10:20AM</start>
+    <finish>12:00PM</finish>
+    <date>10 November 2026</date>
+  </channel>
+  <channel>
+    <name>CSPAN US</name>
+    <id>CSPAN.us</id>
+    <title>Live: Washington Journal</title>
+    <desc>Viewer calls are a highlight of the morning interview program, which also features journalists and policymakers discussing the news of the day and issues raised by the callers. The intent is to educate viewers about national issues.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IkwwXC91RHcwMXRMaHRpV29HdDlpOER3PT0iLCJ2YWx1ZSI6Ik9KOEcyejNJUFl1SFJnbVhPQ2ZuS1ZXNGhPOVF0eUl3eGpWbVFTOFJia2g0Q1FSTEhmcTJ1OXhCb0lLTk1NcDNKZnN2blVqOVQrY3M5UUNpXC8zeDNLZndGeERUdGdWdFUwekl3VFl4VzBBcFVXSHk1RkxRWXFhTERDSlM3alZzUiIsIm1hYyI6IjY5ZTdlNDg4MzU4MmUxZjczMTQ3NjIzMjJiMDQ0YWRlYjhhZjcxNWI1NzA1OGJjMmFhYWE0M2YwMmI5NTMxOTYifQ%3D%3D&amp;signature=696befffa65ba55f5c78c988b9cab0306f18b439e58b638f2406d795e9d039f7</image>
+    <start>12:00PM</start>
+    <finish>01:30PM</finish>
+    <date>10 November 2026</date>
+  </channel>
+  <channel>
+    <name>CSPAN US</name>
+    <id>CSPAN.us</id>
+    <title>Live: Washington Journal</title>
+    <desc>Viewer calls are a highlight of the morning interview program, which also features journalists and policymakers discussing the news of the day and issues raised by the callers. The intent is to educate viewers about national issues.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6ImlWSU9kZkJCeFN0VWk4S3JoV3MxMmc9PSIsInZhbHVlIjoiTEpzRzVOVTRkcjBhdzZDcmpwMlFKWXdpeFR0ZGVxSjFqeDFNa01MWnpzRUdqRGV2bE14TUMwanYxbFpGSWJpSjQ0dW8zNlQrRHhWYnZ5K05JbXA5dnZ0d29ZU0tMK3RRME9JSUtnSEtIR1cxYlpuWDNubEN4VGpZUG04U2F6VDciLCJtYWMiOiI2ZmVmNDFhZGMwYWYwMWE0MmQ5MTE3Nzc3YzdmYjY0MmYxMGQwYmRjNGYxM2U4MDYxMmRhNDQ2YTUzYjlkOThmIn0%3D&amp;signature=ed545e78a4bf6cdf730d291a41d058bffaeba366d32a494917e9495c4ea43abb</image>
+    <start>01:30PM</start>
+    <finish>03:00PM</finish>
+    <date>10 November 2026</date>
+  </channel>
+  <channel>
+    <name>CSPAN US</name>
+    <id>CSPAN.us</id>
+    <title>Live: U.S. House of Representatives</title>
+    <desc>Gavel-to-gavel coverage of the U.S. House of Representatives from the Capitol Building in Washington, D.C.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IkFzRENBV0d5XC9lVVZ5UlpYdTY3SUF3PT0iLCJ2YWx1ZSI6Ik53eDJCUWkxQjdPS0pvWnJMYjBJRHZjdWFtSG9YN1l1aSs0K3hWalJ4Zm9hbGNUbVpuS1VDN3BWb01UTDNkYWJcL2pkZVhldmVTUTRWcU1COVIreFErV1lVeGV2MTc0YnRJTXJnWERZYXE4Vk5BU0psYys4MjVKWGpueldCeTlTTSIsIm1hYyI6IjAwMWNkYmJmYmJhZmZjNWZlYjBiOGQ3YmNjMGRjNjljOTM4Y2VhODNjOWM1ZDNhMTg2YzgzZTI3NGE3YzQzZTUifQ%3D%3D&amp;signature=6ea149e144c141e4eb96262c71eb40c30674a3c25f336cdce76f9aaa4b0e0d09</image>
+    <start>03:00PM</start>
+    <finish>05:00PM</finish>
+    <date>10 November 2026</date>
+  </channel>
+  <channel>
+    <name>CSPAN US</name>
+    <id>CSPAN.us</id>
+    <title>Live: U.S. House of Representatives</title>
+    <desc>Gavel-to-gavel coverage of the U.S. House of Representatives from the Capitol Building in Washington, D.C.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IjJPaEdlSXZlTk5lYW5qNEg2elM3aUE9PSIsInZhbHVlIjoiT2EzQVBqXC9oR1pxY05aUkZieFNiXC9rQmprQU5qSEs0RTlyM25yOVhNV2xNUG5wcXFpS29BdnR1SVwvNkFVME92MTg3bklmTExSaytkdE54S2RoWHhGVEtlR3FiSHdQTDZkb3JXTFR5S1ZvXC9QZ0lzWUtqSnNYanFkVWszemRhbWxcLyIsIm1hYyI6IjQ0Mjg4NDM4MDYwY2QzMzI2N2RkMTE1Mzk3YThiZTNkM2U4NjQzMGQyMjc2NDI0YWRkZWY3NGU1ZjFlOTZlMTgifQ%3D%3D&amp;signature=7be5137bc1ab4fa681de61453327654610e271e63de5f8a1b65a621953ba4fd6</image>
+    <start>05:00PM</start>
+    <finish>07:00PM</finish>
+    <date>10 November 2026</date>
+  </channel>
+  <channel>
+    <name>CSPAN US</name>
+    <id>CSPAN.us</id>
+    <title>Live: U.S. House of Representatives</title>
+    <desc>Gavel-to-gavel coverage of the U.S. House of Representatives from the Capitol Building in Washington, D.C.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6ImZCWFlsamVabEIrMnY3cjhRblRsUWc9PSIsInZhbHVlIjoiUVhjanh4RGdvVUNUNzJmdktPT3NmRGVNaTdaZDZESnpRWVlSQmQzNHF2ckVyNDFERkNxSVRoTm1xWHp2aVhPck5MbnlEcDl0RFhQNkZTdHBySHZGY3JseWtpaFVDVDJwbDBCNUNcL05GMVFYVVNxZUVpTEpmMWNJdXNTek5tbEp4IiwibWFjIjoiZWY4ODdmYTU5ZjExZWIyNzk3Njk5MDA2NDU5YTQxZTMwMDAzMjk2YzAwMmNmYmYxNDhhZDZlZjc1MzRjMTdhMiJ9&amp;signature=68708ee718634842149dd3124676abedd5cad3b7d83d923f1eb5dc4657538c51</image>
+    <start>07:00PM</start>
+    <finish>09:00PM</finish>
+    <date>10 November 2026</date>
+  </channel>
+  <channel>
+    <name>CSPAN US</name>
+    <id>CSPAN.us</id>
+    <title>Live: U.S. House of Representatives</title>
+    <desc>Gavel-to-gavel coverage of the U.S. House of Representatives from the Capitol Building in Washington, D.C.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IlgyelduMTBXb0x6ZVFDQTJXaERwenc9PSIsInZhbHVlIjoiMnFiVkQxQWRZTDBjck5GZHpwSUYxakN3MWVWdlpZRXJqalAwS0dDVmo1SHJRT000RVFRYzBtakdOMWRBYXNRbGRFUVIrcDB4MEE0bGtTNjRqejVuYUQ0RUtrOFwvMWU0MkZ3QUFvVVZmU3FjZ3RGUTZQb1d3NUJBbDRGUDJLWjc1IiwibWFjIjoiZDBlN2Q5YzZmYzFiOGQ3MDU3Njc0NDkwOTQxNWU5ODQ1NjA5ZmM1NjZiMDVlNjc4MDZmZDk1ZTVlNTE1ZDk3MSJ9&amp;signature=069652f41aa208f56ffe2235f5b66e0cd794f60dfac25fa55d59887e57325434</image>
+    <start>09:00PM</start>
+    <finish>11:00PM</finish>
+    <date>10 November 2026</date>
+  </channel>
+  <channel>
+    <name>CSPAN US</name>
+    <id>CSPAN.us</id>
+    <title>Live: U.S. House of Representatives</title>
+    <desc>Gavel-to-gavel coverage of the U.S. House of Representatives from the Capitol Building in Washington, D.C.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6Inh1T1NaRXZTUTNpUnJmaUp1T0VmNHc9PSIsInZhbHVlIjoiNEt2WngzM29BWWJqclZHdjJpbTNhZlR2MmhFWUtvdXZEUWl4aTd6YnhYbVhIY0FUcEZwRll1b1Irck8yWStVdTZlaVViRnZldHZLQndKYUtDY2hCTURqNENHSHJwb3NRMkhYc2txUjJUbGVPS1JyYWQ0aFpVUk9DdXZ2NE9tRngiLCJtYWMiOiIwZTNiZTFmMmQ1NDYyMTg3ZDViYWQ0MDJjNjRhN2IwYjZmNDgwNmQ1YWNkZjEwNmRlZTQ2OTZmMzdiYzgxYjYyIn0%3D&amp;signature=04f579f15ea2c75afa4eb1545c4637c2608d8dd4e3eb9c4e06ffefaeb12ec05d</image>
+    <start>11:00PM</start>
+    <finish>01:00AM</finish>
+    <date>10 November 2026</date>
+  </channel>
+  <channel>
+    <name>CSPAN US</name>
+    <id>CSPAN.us</id>
+    <title>C-SPAN Primetime</title>
+    <desc>The key events of the day, including speeches, briefings, policy debates and public forums making news and shaping policy; see events from the White House, Congress, Capitol Hill and around the country.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IjFjRUZ2QkprVTRGazFIdjIwQlVrQXc9PSIsInZhbHVlIjoid2YrcktlVWRrd3B4NlI0cUkwV1pEWGFyZllTalVTcDd0d1VhTEV0OXhOR2c2UDBJQ0dnRUJlWkE5cHNiSDVLak9ZRGoyVEFxZURNMlFKMXhiOFdIUWhZdmI4eGJRdTV5eHoxcTVHOWVZQzlOcE5MSldmengwdWRJMFN6eWhBVzYiLCJtYWMiOiJjODkwNzFmZDc4MmU1NWJiN2JkMTIwNTQ1NjE2MWViNTgzZTEyOGIyMjVjMDM2YjdmZjZkNTcxMDJjZDNjY2NmIn0%3D&amp;signature=349dd77cd403718ce7472c973b9d511e7896d8d1efe0f799448e51d967654c85</image>
+    <start>01:00AM</start>
+    <finish>03:00AM</finish>
+    <date>11 November 2026</date>
+  </channel>
+  <channel>
+    <name>CSPAN US</name>
+    <id>CSPAN.us</id>
+    <title>C-SPAN Primetime</title>
+    <desc>The key events of the day, including speeches, briefings, policy debates and public forums making news and shaping policy; see events from the White House, Congress, Capitol Hill and around the country.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6Im00d3M5VlFJVDFvZ2Z3ZGxPYm5JeVE9PSIsInZhbHVlIjoiYzV2RkQ0MjRJTit4bTFTaHY1S09uREg2dlM5NHk0MDBSZ3A5RHQ4cTlmekVSZGtXdTNBSW1qdlRRdFZ6ZVZwNXhma0hsTTdwMHVMVWZGSVdudFpMWG14bnFxZ2w2UENXSTZlRFNHaHdha21YMmJPaG1nOWozUkp0TUpLVjBIczciLCJtYWMiOiJjNWU0Mjk1Y2JhZWRiZDhiMzQ4NTU2MDQwYmE4OTk4NDA2OWIzMzlkMmIyOWM1YjcxNzdkNGQzMzI4Y2I0MmYwIn0%3D&amp;signature=cf321b5f7b4d38b539e5d7b03dcbed68f4cea2f20479daef23ac66dde85c12ae</image>
+    <start>03:00AM</start>
+    <finish>05:00AM</finish>
+    <date>11 November 2026</date>
+  </channel>
+  <channel>
+    <name>CSPAN US</name>
+    <id>CSPAN.us</id>
+    <title>C-SPAN Primetime</title>
+    <desc>The key events of the day, including speeches, briefings, policy debates and public forums making news and shaping policy; see events from the White House, Congress, Capitol Hill and around the country.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IjVaZ3E4Ymo5cVwvNmc1YmVza1JOZVRBPT0iLCJ2YWx1ZSI6InhiUTJxQmlSZVFROHErUXFZd09cL0FYYkR2VkMxeTZaZ0U3TkdqTGhyM1wvV0ZjZXR3cGJWT3dleEZXbXh3d0xQNTg2UjVsK29jMU9FWEpDcmVtOW16YzlMcGNHcUE0TVwveTRzYTZWZ2F1K1VUYnJURTFISUthaU1PNGdmMmVQVXhhIiwibWFjIjoiZjY1YWI0ZThkYmY1OTNlYzIzYzU3ZDcwOGZmY2U0ODU0ODZhZTk3MWEyZDQwZTliZWMxYzljMDk2YTBhOTM4YiJ9&amp;signature=50678153af1b8d24b4aed28ce68e3f469b7c384cbc1024e7fbefb22de1abbd46</image>
+    <start>05:00AM</start>
+    <finish>07:00AM</finish>
+    <date>11 November 2026</date>
+  </channel>
+  <channel>
+    <name>CSPAN US</name>
+    <id>CSPAN.us</id>
+    <title>Public Affairs Events</title>
+    <desc>Public affairs events, congressional hearings, speeches, and interviews.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6ImlCUkFSZ25aZXQ4NjU4Z0pCSUJ1c3c9PSIsInZhbHVlIjoiTGl1SjhwcytXYVVCVnVNekhFb1pzQTNuVWJnZ0p5Wjd1REdIaXJUQjVIdEQwXC9vQWg1SEhSYXZjZUxLT2g4UVNQS1FiMnUrcTFidGc1MGRLWGhOeThSWmthRDJMRlZZOU52VFdBSHZYVXpiRGlxUFpPTDNHZ1NKZDdDSU9VdHp0IiwibWFjIjoiZjE1MzE2ZTI2ZWEyNjJiYWNmNmFkODc4NDE0MWRkMzkzOGVjMjYxN2UwZjY2NDQyZWVhYTY1YTllZTViYWNmMCJ9&amp;signature=95f783de4b647ec5daf70a5c51e8be92a087c66741f125939c44a961de561676</image>
+    <start>07:00AM</start>
+    <finish>08:40AM</finish>
+    <date>11 November 2026</date>
+  </channel>
+  <channel>
+    <name>CSPAN US</name>
+    <id>CSPAN.us</id>
+    <title>Public Affairs Events</title>
+    <desc>Public affairs events, congressional hearings, speeches, and interviews.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IlkxRCtKV3krOHI4WVd2endoR0dGa1E9PSIsInZhbHVlIjoib0libll1b09mZGpPVjkwY1RIQ0V5NEwxXC9UODFhWlptNThFSUJhZFdZMmx4OEJSRmlCK09iZTRXaWVuaFZvQm9XTmtOR2tqVGpXXC9JUllFUzVVcHZiRzBiXC9uWmlUNmJyQ3dHZVNvaWFRXC80SjVHQ1MxTVoxVm9qXC93Z2R2WHFCcyIsIm1hYyI6IjY4NmIwMjE5YTMzN2M0OGI1Y2M3YmYwZDU5NGU0MmVhNWEzYzA3M2ZmNzRlZmRiNjVkYzA0OTM2NTlhNDdjYTMifQ%3D%3D&amp;signature=c7cc702fa29e1b31e948524a24ef5133fea85fae2f51ea5b948c87347fb4756d</image>
+    <start>08:40AM</start>
+    <finish>10:20AM</finish>
+    <date>11 November 2026</date>
+  </channel>
+  <channel>
+    <name>CSPAN US</name>
+    <id>CSPAN.us</id>
+    <title>Public Affairs Events</title>
+    <desc>Public affairs events, congressional hearings, speeches, and interviews.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IlBTS3dMcXVxNzB4UmM4SFRcL1FGU0hnPT0iLCJ2YWx1ZSI6IkNnRFwvXC9XUHFIU0t2MzI4eTFEQ05VdVIydHFuY1dTbnpDck9aU3BPNDNiaUhVU2tEMU9VRHA2RHVMME9YZ2JESWFoNU1XUm5qbXkrMUNlYzVwVUtIeXJ6eFhIZVA4dHhhXC9qVnNYUHBxVVpiZHBPVmpcL0FidExRdHhHdHU1dlpCUyIsIm1hYyI6Ijg4ZTNiOTFlM2MzYTQwOGJlZDIxMDZhMTRkM2I2ZjJmZjA2YTZlNGFjZGU1MGI0NzIxYWI5ZDcxNGMyMzQ5YWIifQ%3D%3D&amp;signature=950d80e6274412d70ce129d0c07fd0aed13ab6a1f0ec9e446865dd9c98346430</image>
+    <start>10:20AM</start>
+    <finish>12:00PM</finish>
+    <date>11 November 2026</date>
+  </channel>
+  <channel>
+    <name>CSPAN US</name>
+    <id>CSPAN.us</id>
+    <title>Live: Washington Journal</title>
+    <desc>Viewer calls are a highlight of the morning interview program, which also features journalists and policymakers discussing the news of the day and issues raised by the callers. The intent is to educate viewers about national issues.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6InJleEtNQ09BaGtzOUlPK0htYUU3Z3c9PSIsInZhbHVlIjoieGExRnhkd3BwXC9XXC8xNDI0ZHhWZmNVekxYSHVmMHBsSGxrWGxIUjVTZ0RZbFJubFFJWE53N2sxa1hGMnJUS3BvdnJUMkJhekJ4N3lSWE1DSlZDT3BYSUNJVEF1MGJwWFBtZElsbjhlbkRpdHk1aDYxc3FWQmlrNTU4R2VnWVlQMiIsIm1hYyI6IjRiZjI1ZWU4YTZlNzMwYzlmNTkzZmMzMTQ1ZWFjMDJiZDdiYzg4MTA2OWRhMzU3OGM1ZmM1NjgyZDE0NjE0YTUifQ%3D%3D&amp;signature=bd9954775e954cd31b6ec539ee79d1e33d2984e56e1165c3a4178143e4bd4a5b</image>
+    <start>12:00PM</start>
+    <finish>01:30PM</finish>
+    <date>11 November 2026</date>
+  </channel>
+  <channel>
+    <name>CSPAN US</name>
+    <id>CSPAN.us</id>
+    <title>Live: Washington Journal</title>
+    <desc>Viewer calls are a highlight of the morning interview program, which also features journalists and policymakers discussing the news of the day and issues raised by the callers. The intent is to educate viewers about national issues.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6ImJCd0I5aTZ0dTdtZzdiK1RcL1cxWTd3PT0iLCJ2YWx1ZSI6IjkxSmdWa052cU9TdTNsM2Z1SVlwRGpUNkdBMkhLakFNaktmb1pXWkRkOURnbk5nSCtNWllmV1huRElibEZqZVphakhlM3FwbDd2R3hFWGpSOWtLcXQ3d0M4b1BSSFl1eXNuY0IyeHJGSlBsVlRnQmVcL01TN3lGOWJpUllDN2dVViIsIm1hYyI6IjI4MThlNDUwZWViZmU3NzRhYjliYzBkOGI3ZmI1ZTAxZGE5ODMxOGY2NTA0OGQwNzU3OWNlNGY1ZDlhMjQzMmYifQ%3D%3D&amp;signature=86e3525ea24e19878a2cb0eb1528eab263788b264b2ce2399c498870430c0c15</image>
+    <start>01:30PM</start>
+    <finish>03:00PM</finish>
+    <date>11 November 2026</date>
+  </channel>
+  <channel>
+    <name>CSPAN US</name>
+    <id>CSPAN.us</id>
+    <title>Live: U.S. House of Representatives</title>
+    <desc>Gavel-to-gavel coverage of the U.S. House of Representatives from the Capitol Building in Washington, D.C.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IkkxTEdOd2I2OWpNNDVrVTVDT1hldWc9PSIsInZhbHVlIjoia3hjSnF3TytQS0FpWVFLcXBMdXVNVmxZblRcL2lTRmZ6Z2ZtajBjRitQWHhzR3RmRGZqYndYNlhvRU11dGs4b29lRENkcU9QMXRHZEtEaHJaNzBVa2NPV3lDSEl2dG1IZGRuSmNOXC83c3dUUURTakhwK0xzMjNxWFZFYTVzMUt4MSIsIm1hYyI6IjhmMzA2NjQwYjYzODJiMTVlOTlhM2M1ZjVjNTNmOWM0NTFhNmI2YTUxNjcyZGVlMGQwYWU3MTQyMTdkZDlmNTkifQ%3D%3D&amp;signature=96ac62d05804c944b9001d21adfe7cbe1d6bd2807039fbbbc49a0dbad181762d</image>
+    <start>03:00PM</start>
+    <finish>05:00PM</finish>
+    <date>11 November 2026</date>
+  </channel>
+  <channel>
+    <name>CSPAN US</name>
+    <id>CSPAN.us</id>
+    <title>Live: U.S. House of Representatives</title>
+    <desc>Gavel-to-gavel coverage of the U.S. House of Representatives from the Capitol Building in Washington, D.C.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6Imt1NkVqN1g3aWNSelhYbzl4YmVjY3c9PSIsInZhbHVlIjoibHF4OTJvRXp3Q3IreW11R3dUc2JHMkVHa2xtUlBCbWI3ZjhlQTRITnJHdkZMNmUrMlFHQW5wQnQ5U2laanBCRldhSFRuRStDU2R2VEgrclNuajdYY2p3T1ljVXhXa1NqdEZTaVZKWFVnZE4wbURyd1dJbEFsaSsrdlFKNHlEZUQiLCJtYWMiOiIwYTE3YzBkNGFkZmNkZjU3OTVjYjI3NzI0ZWU4MDJlMWYzMGQ2NmRmMjcyOWI4ODA4Y2Q4MDI5YTQ0NDAxZGRlIn0%3D&amp;signature=e88bd90e6e4afa2092eb1b8d4cf1e8f2013a8d74d27c76bb793e35cfeaab325b</image>
+    <start>05:00PM</start>
+    <finish>07:00PM</finish>
+    <date>11 November 2026</date>
+  </channel>
+  <channel>
+    <name>CSPAN US</name>
+    <id>CSPAN.us</id>
+    <title>Live: U.S. House of Representatives</title>
+    <desc>Gavel-to-gavel coverage of the U.S. House of Representatives from the Capitol Building in Washington, D.C.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IlBoZ0M4bUFpZEJpQmtGU2FXY1R2TXc9PSIsInZhbHVlIjoiTFFWSk5LbmhXRk1yeVpsY243RlU1bjhmS3BQeFhzUUZOTG5oT2JMT1NVdDBcL2NSOHRPMnF2YkZScE1aTHlPZjllQzdpMmhQZWRHTWpIYnBWUHVJZmNoeUZBU3ozVzdnVzJubTN6enBhZmV5bGh3bnh2bmRhbU5kdXcxUk5uNVd4IiwibWFjIjoiYTgxYjFmNTQ4NDYxMGRkMDM4YTBjMGI1ZWJhNDAyYjc5NGNjZjMxNWM4NjEwZTgwM2Q5YzUwZTc0ZGMxOTM1OSJ9&amp;signature=eceb24362c9dd7adeadef9dcaa1fb759dc0ab9be6076b3012c6da3d8f0279fe0</image>
+    <start>07:00PM</start>
+    <finish>09:00PM</finish>
+    <date>11 November 2026</date>
+  </channel>
+  <channel>
+    <name>CSPAN US</name>
+    <id>CSPAN.us</id>
+    <title>Live: U.S. House of Representatives</title>
+    <desc>Gavel-to-gavel coverage of the U.S. House of Representatives from the Capitol Building in Washington, D.C.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6ImhoNFNLajNJK0poc1dTenp6UlZqRkE9PSIsInZhbHVlIjoiVTVSTzFPMkZ6SUVvYTRoUjFINTdFajFxM1QzbFEyQXhES0drXC9pSjNHWWxnMDVcL3JWUk5KRVFSamUwMFFuTDdJMUtsajZseFhYUHlDU3JhZVFqRnE5SG9ZRWZ2dWozR0RMQUlZTGxCZ2dlK1BTdExwaFY1VmVsaEUrY2NnTElyMCIsIm1hYyI6IjliZDU5ODcxZDQwODE0NWQ1ZGUxOGQ1NTY2ZDQ4ODg5YmQ5MzgyNTRlMTY1NWRkMTc0ODgyMjM1YjBmNzZjODYifQ%3D%3D&amp;signature=4639727669816c527b77b63810ee3489aed47623da21aec52fb140b8f984b600</image>
+    <start>09:00PM</start>
+    <finish>11:00PM</finish>
+    <date>11 November 2026</date>
+  </channel>
+  <channel>
+    <name>CSPAN US</name>
+    <id>CSPAN.us</id>
+    <title>Live: U.S. House of Representatives</title>
+    <desc>Gavel-to-gavel coverage of the U.S. House of Representatives from the Capitol Building in Washington, D.C.[(96057)] </desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IlhGSmtsYmZ4bjhLXC9JcklZVkpNZkR3PT0iLCJ2YWx1ZSI6IlwvUDFZZWVNNmtFaGdncXVmZVdITERPQ1ZcL3hIdXlwMUs0bnpKbDh1Kzh1eTJiS2ViNWFPQkh0UElsbEp4UHhvWnRXaUxncTg2d0NsckhqaWtsdHZFMnVQTWg0NEw4Wlg0MFBWZUxFYW5waitWaG1PT3dndVRzXC9DQ1ZEZTJGXC9PSSIsIm1hYyI6IjQwNzVlZWViMmJmNWU0ZGI5OTdmOTYxNDA3ZmZjNDRiMzI5ZmMwMzkyZTJlOTU3OGU4ODc0YjhkM2FkYjliZDYifQ%3D%3D&amp;signature=513e39e7245b1470fd2a5e90dbd6ebee41d98ec96c7193cfce7709bfd33e8989</image>
+    <start>11:00PM</start>
+    <finish>01:00AM</finish>
+    <date>11 November 2026</date>
+  </channel>
+</tv>

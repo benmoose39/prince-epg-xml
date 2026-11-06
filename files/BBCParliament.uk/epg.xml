@@ -1,2 +1,833 @@
 <?xml version="1.0" ?>
-<tv/>
+<tv>
+  <channel>
+    <name>BBC Parliament UK</name>
+    <id>BBCParliament.uk</id>
+    <title>Select Committees</title>
+    <desc>Recorded coverage of select committee proceedings.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6Ik03RHpTM0s1UEJOV29DZ3JwXC9UaDNBPT0iLCJ2YWx1ZSI6IlM1bmdUUWpKNFBSbHdaMWdzdkcweklrVW9YR0ZoaTV6REZ0VnF3a3VwUElxdHBtUDUrZ2w0N3dMVGpPbnFIVzRYbGc1NVRBcllmc2R6NjFyWWhjQkdiOUJBbUlxaHYxZFlYTGl3b1hnMjJwZG1rUlRCbnNqRHpqbjFXTWQ3YW5ZbVRPV0c0VlJkdURrMUE3NFwvVm9JS0E9PSIsIm1hYyI6ImYyZmI1MjIzNjc5YWQ5MGZmODk1MTNkMzhmNzkxNmQ3NDRhYTk4OThlOTA5YjFlYmVkZDdhZGMzYzkzMjM3MDQifQ%3D%3D&amp;signature=0a14b5de64c606bd72d88642e75be8f6a381c912d9a0ce1781fdd8a38885c34b</image>
+    <start>09:00AM</start>
+    <finish>02:00PM</finish>
+    <date>06 November 2026</date>
+  </channel>
+  <channel>
+    <name>BBC Parliament UK</name>
+    <id>BBCParliament.uk</id>
+    <title>House of Lords</title>
+    <desc>Highlights of proceedings in the House of Lords.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6InBIRXNQSHltOGhTZDdqSVFPcFhxRnc9PSIsInZhbHVlIjoiOFZFb3dXVkN2eXh5YlFIaFlwcVVoWDZYNDZNcVJIMmF6aUhwM3cyYlp1enJWVEQwZzQ1UjIyeHhoZlA2Y2ZCU015ejd1OFBPN3dhNXhRaE9TSUNKbXFYYzVHT0FybE9LY0NBRU5uNk5ZenVCZDlcL3lXdHcwWFU0M2Y0MGc5MzllIiwibWFjIjoiYTZjYWQwZjA5ZjdiM2MyZjgzZWVkMzdmYTVjNjRiNTUzZTc4MWIzNDM3MWYzZGQ3MmVlOGVmZWU3YjQyZjZmYiJ9&amp;signature=fae9c0c82e2b3b1accfbe813999504db7dbeccb21848f30db0fd9592b8df77ce</image>
+    <start>02:00PM</start>
+    <finish>06:00PM</finish>
+    <date>06 November 2026</date>
+  </channel>
+  <channel>
+    <name>BBC Parliament UK</name>
+    <id>BBCParliament.uk</id>
+    <title>Select Committees</title>
+    <desc>Recorded coverage of select committee proceedings.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6ImorWVZHZEFhR0d6bjBEalwvMWpzck9BPT0iLCJ2YWx1ZSI6IlpvVEx5RW01cjZjMGdwTDVcLzZaNTlcL2MxU1wvakJGS0RPUjdZSFlYSGdBcmdSNExZaXMrMEFSUENCSXk5RWMwXC9LakplVzk4Z0hUaDFrcWIybVpna3lSS3JvOHlCMVhOMDk3NUZmckM1aUhDZ3BHNmJsTnFoSm1uMWJuSHFGbGFYd29JZHVqcHJ1VlV2endHZE5xSmxXZ2c9PSIsIm1hYyI6IjUxNjYxYTI2NzlmYWU4MTMyYTJkOTY5ZmU2ZmM4NzdhNDU4YzIxMzQ0YmQ1NDdjMTI4OGQzY2U3ODk0MTY1M2IifQ%3D%3D&amp;signature=4a06ca3c366bc07de2ddd1f27feb4fd9f181f3c4eb7f1da7614f5a6e685acd79</image>
+    <start>06:00PM</start>
+    <finish>09:00PM</finish>
+    <date>06 November 2026</date>
+  </channel>
+  <channel>
+    <name>BBC Parliament UK</name>
+    <id>BBCParliament.uk</id>
+    <title>Scottish First Minister's Questions</title>
+    <desc>Questions in the Scottish Parliament from backbench MSPs to John Swinney, the first minister, on Tuesday 3 November.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IndiTWpncVNQTHNNbVVGWkZjK1o1akE9PSIsInZhbHVlIjoiUVA0TFp6VWx6NVdXMFY2alphQmJ2VnRLUitMd21PdFFHYlJmWHVhUExqNURkdDJoUXZ5RDlcL1d2MFBBNGd3cHdoejJSYU83RXpDUVFGV2NUTm02VXZsalJhMDVkRnhFT0RUS1Q1RjJcL1JHd3ZWeWhGK3NBZ0pcL2VTWU03NVd2b1wvcW5PajM0YzlZWG1XUWk2Mm9raTM4Zz09IiwibWFjIjoiNzVjM2NmZDVhNDBjOTgwNmRkMjRlM2IyMDUyZjRmNGRmZmE0MWVkM2MzNTYzNzNmODBhMzI4NWJlMWRjOTg4NSJ9&amp;signature=5d036e10f3e9c76a9da7172a4770b49e8529b30fdec73c5cc97d69f54c108f4c</image>
+    <start>09:00PM</start>
+    <finish>09:30PM</finish>
+    <date>06 November 2026</date>
+  </channel>
+  <channel>
+    <name>BBC Parliament UK</name>
+    <id>BBCParliament.uk</id>
+    <title>Scottish First Minister's Questions</title>
+    <desc>Questions in the Scottish Parliament from party leaders to John Swinney, the first minister, on Thursday 5 November.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6Im50UUFtb1NLbk5qTm5DK05aXC9EZWhBPT0iLCJ2YWx1ZSI6IlBBUlRNU2MwVU1vZlIyaHI4TFRTV3hMXC80dXM5dzJJbDU4QnByTVdcL05lUTVGdG9nQzl1WjFhMk5DNDJvV0RpTGlCQkZ4UGcycnRaYXpZXC9FNkFwekhLRmp0U3hBRWVLeXRoNDVEMldrWmx0U1d3R2Z5SHJJZkIxQ1VRNGZvQmYxb2xoQlZnekphcVBIeHJINDBISGQ3QT09IiwibWFjIjoiY2M5ZTQwY2Y0ZWY5NDVkMmMwNGNlMzAzZTkyMjVjZmM3MzhhMjdkMmM3YjA1OWI2NDg3Mjc3ZmVhZGY0YmJiMyJ9&amp;signature=4c6b87128279f625041ce27cf21076f5e32a4ce3ca57aead35f537e7336a3185</image>
+    <start>09:30PM</start>
+    <finish>10:00PM</finish>
+    <date>06 November 2026</date>
+  </channel>
+  <channel>
+    <name>BBC Parliament UK</name>
+    <id>BBCParliament.uk</id>
+    <title>Scottish Parliament</title>
+    <desc>Highlights from the Scottish Parliament.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IlV3R1wvRVZJbzRmMnM3YUFGNFVEY1Z3PT0iLCJ2YWx1ZSI6ImFPY2JjTEtjWVpxZU5RNGNIazQzT3dVSVVVWTg2eFpEdFwvWmhLMEZXQ2lockI5ZHV6aUhQTHlcLzNuM2ZLRjZNdEVYd211UXZ4ZUJNZmVUUHpaWVFtMXlmdkpEQTB1SUJVeDkwNW15YXJ1d3c1N2NBR1ZXK3p0eEJJd0pIaEhIUHR2R3dGXC96Z0JtN2FcL1J6eVAxdmhlYXc9PSIsIm1hYyI6IjJhMDQ1MWJiYjcxYzY2Yjc4NjNjMTNiZDViNzllYzdmNGNjY2MzMzlkY2M5YmJjZGRiOGIyZjUyMWE2NmIzYzQifQ%3D%3D&amp;signature=5c5bfe404bb68bc1e99f54816d9a8086d038289e319fcbe52d1307e00e4b48ed</image>
+    <start>10:00PM</start>
+    <finish>01:00AM</finish>
+    <date>06 November 2026</date>
+  </channel>
+  <channel>
+    <name>BBC Parliament UK</name>
+    <id>BBCParliament.uk</id>
+    <title>Welsh First Minister's Questions</title>
+    <desc>Questions in the Senedd, the Welsh Parliament, to the first minister Rhun ap Iorwerth, on Tuesday 3 November.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6InZ3eXB2ZHVQOHkyaUM3bjllWlRtbXc9PSIsInZhbHVlIjoiaFFObFd4ZTJZU3lMM05nSHdcL0NNaW9WQXZZSDA4Y1hKZDJFZ2FXQ2V3QjRaNnUxalNwOXFRWWR1QjZvYjlMQUoxZ29kV2FxTU5EWVZMU1pKaE16cEdqSm9TSlB1amx5NG9oOXN5MW5oMGFsbzZSZjRsSzd6TVNRR0FYWTV5VkpEYVBsajdPTlwvVEYyWUdvR0JxcFFzQlE9PSIsIm1hYyI6IjhiOWRlN2Y1MDAzMTVlNzRjNTYxOGI4ZTUxYjk4MWY2YjgwMTMzNzAzNzE2MTk4ZWE3ODQxMWM5Yzc1Y2Y2YjIifQ%3D%3D&amp;signature=d257ab6684d3af9452cbc2fa99c2440c262ee2dcfb0e762e897c772b71023311</image>
+    <start>01:00AM</start>
+    <finish>02:00AM</finish>
+    <date>07 November 2026</date>
+  </channel>
+  <channel>
+    <name>BBC Parliament UK</name>
+    <id>BBCParliament.uk</id>
+    <title>Senedd Cymru - Welsh Parliament</title>
+    <desc>Highlights from the Welsh Parliament.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IkdhdmVlaFZJSWJxaXRremdWOUM4ekE9PSIsInZhbHVlIjoiK2NqTzFhN1ZBQUp6RzVjWVZvZVloQWowNzJpTHlqdTVvcll5ZmVLY3RoS1wvM0JjT2NnM2gzdXdLRFR4WEc4c2oxM2pSTmk3QUlKZVBTVWtqRnd2aUo5NXBZUWF2QVNVc011MzJheG81WWVsUFhqUUtCZmFlb01PV3hDQXpodGJWWnUramFlTmc5cXhMV3laa1VGOUtzUT09IiwibWFjIjoiMDc4MzA1ZjA3ZTE0MzkwODkzMWJiN2IyNWQ4ZjEyOGZmZDMzOGFlZWVhMGE3MzA5NGIzYjE2Njc0YzUxMmQyMiJ9&amp;signature=50a6cead4ea3ddc393be89e2c9a1063948204fb61b7a3a398da83915f5e9a0f0</image>
+    <start>02:00AM</start>
+    <finish>04:30AM</finish>
+    <date>07 November 2026</date>
+  </channel>
+  <channel>
+    <name>BBC Parliament UK</name>
+    <id>BBCParliament.uk</id>
+    <title>Northern Ireland Assembly - Communities Questions</title>
+    <desc>Coverage of questions in the Northern Ireland Assembly in Stormont to the communities minister, Gordon Lyons, on Monday 2 November.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IjVSeXpLZ2d1YWJpMVYzZ3Jydnc5WWc9PSIsInZhbHVlIjoiVCtVd1BoQUJOMlBaaHZaYTh1d0NNdHMzcUd5dkloZ2tzK0NZSU9CdEJDNTU5M2FadVQ3YkVIeVRHQ1RqVk9HUFJIWmd5SmFwb3JrUzFaU3dHSk9oNUNcL0s5UmdGNHp5UERcL1JDTjlOSTAzQ0NQaHpCZ2tpSW1zdGFZOFpueElDcSIsIm1hYyI6IjFlZjViZGRmZjMzMjE0ZDhhMWVmZjlkOTRkOWMwY2M2ZjUyNjhkYTJlNDY4ZjZjODhjMjI3ZTQzNmQyMjcwOGMifQ%3D%3D&amp;signature=d7ff73af65ec3f42980f7bb488f132ebcb91c2df1db6d39d452b4ec11376e7f0</image>
+    <start>04:30AM</start>
+    <finish>05:15AM</finish>
+    <date>07 November 2026</date>
+  </channel>
+  <channel>
+    <name>BBC Parliament UK</name>
+    <id>BBCParliament.uk</id>
+    <title>Northern Ireland Assembly</title>
+    <desc>Highlights from the Northern Ireland Assembly.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IlpocDVmZzJaa0srelwvbXRvTWVwTlpRPT0iLCJ2YWx1ZSI6InU5cFwvRnFJdzg4cnNucms3VlwvR1wvQ0I4MU1OS2pnZ1pGeWlaM28rNENcL240WmhWdUhTbjdWQklBMVY3YlM3eHRMR2FhTWJWdGJ1VXVyUnRvSlFFS2NLVFQyY3cxZUw0ZGpHU0R2YitDamxrM3YwMGVzZEdGYUdkVEtNXC9YbVdcL3dpIiwibWFjIjoiOWJjZjk5ZjdjOWRiODU0Njc3YTZkOGEyMDFiY2I4ZDA2YzJjNWMxY2MyYjU3NTQ0Mzg5YzJkZmZhODllY2QyMyJ9&amp;signature=9b2c045921788c8e2d747559209118e18d1d2514f4efec58d3cd11ddb18f1729</image>
+    <start>05:15AM</start>
+    <finish>06:00AM</finish>
+    <date>07 November 2026</date>
+  </channel>
+  <channel>
+    <name>BBC Parliament UK</name>
+    <id>BBCParliament.uk</id>
+    <title>Westminster Hall</title>
+    <desc>House of Commons proceedings in Westminster Hall, from Tuesday 3 November.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IndQV1BiUUs2NmtlejV2dWFOenIwY0E9PSIsInZhbHVlIjoiUTBYZVp1RGRtb2xBZVltQ1wvTFltVlE5eEZHK2NqYUQxY1BQaUlaVzJUSkVkQ3l5bHBhWWFwZTJaRmtLdkpFaW5UVDV6NUpXRTVXc2ZnOU14ZHNHeDVudHJOQjZ3TWpJOWlFU0M5NFZrZXZlbVE0NmlsdTNwS2h2TE1DRVoyWUpqNU81TzVNb2htWG5XXC9GUDhJNnVpVFE9PSIsIm1hYyI6ImMxMjYyNDBkMmZhMWRlNDNhZDZjNmQzMTE3ZWY1OWNhNWVjZjVhN2JkNTVhZjJhMmQ3NzY1ZDJlZDM5Yjc1YTAifQ%3D%3D&amp;signature=07da50b31b140d63ce6c82ca5f15f2e152467b6ac386898f7aeb51f2faea0220</image>
+    <start>06:00AM</start>
+    <finish>11:00AM</finish>
+    <date>07 November 2026</date>
+  </channel>
+  <channel>
+    <name>BBC Parliament UK</name>
+    <id>BBCParliament.uk</id>
+    <title>Prime Minister's Questions</title>
+    <desc>Coverage of questions in the House of Commons to Louise Haigh, the first secretary of state, standing in for prime minister Andy Burnham, on Wednesday 4 November.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IlJlUDBrVUFaUnMxUEtQTnhDNmZTWUE9PSIsInZhbHVlIjoiZjgxTXRKXC9GYlhFVmpKWEJKdkhRdmVWUnhYV3JkTFJZSUJ5THFrTDdrUmcwWUllOFQyQnh3UzQ0XC9XT2ZERUVabGZvekFQYTRKMXF0bkVcL3VyQ0FKNlhDUEpuVk1LeGtEcTdIYXErd1JHaEdaMGhBZ2NGcUNXYnRFYWlVTjlJXC9NRzZraEpBaTJxUEZoNmxrNWlCWE5MQT09IiwibWFjIjoiNTYxYmY5Y2IwN2Q2MTdjMWEzZGE1NWIyOWE3YWI3NjE5YWQ0NjQ1MGNmZGJkZjhkYmY3ZDA0MjNlNzU4MzQ2OCJ9&amp;signature=92bf27739d62dc2693ee5e675c267454d43c82f4b89da0f5c770cf68f3ff2fa9</image>
+    <start>11:00AM</start>
+    <finish>11:35AM</finish>
+    <date>07 November 2026</date>
+  </channel>
+  <channel>
+    <name>BBC Parliament UK</name>
+    <id>BBCParliament.uk</id>
+    <title>Scottish First Minister's Questions</title>
+    <desc>Questions in the Scottish Parliament from backbench MSPs to John Swinney, the first minister, on Tuesday 3 November.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6Ind0Wk13SWF6amxpNVpTbStaa3JISVE9PSIsInZhbHVlIjoibjlzR3A5SzdmUnFqSUdSMlZ2bWhXckxyd1wvUktWXC9FaTdOSzY4K1N0RkZPdlNrSzRJck5FSjJaTUFYbENvcXFicFVQc2htcldRVTFLZkJBVEZUUHRcL21qVWhkaUhtNm5Tcm5sNDlhTjdHMmpoN0hHRWdYbFhWRUdUVmVGM0g2MEVMelZ2WGdkc2pCanZMSk54UU9CNE93PT0iLCJtYWMiOiI4OGY4Y2FlNzAzYmJjNDAxNDNkNjJmMDViNDFlZTQ1YjdkN2I3OGU2NzQ1NjVhNTljMTBiODc2MDZjZTczNGFkIn0%3D&amp;signature=70f11bb8580a531a41c9ebc782f1dda37cfb2516072a4ff2253a5ff3452f726f</image>
+    <start>11:35AM</start>
+    <finish>12:05PM</finish>
+    <date>07 November 2026</date>
+  </channel>
+  <channel>
+    <name>BBC Parliament UK</name>
+    <id>BBCParliament.uk</id>
+    <title>Scottish First Minister's Questions</title>
+    <desc>Questions in the Scottish Parliament from party leaders to John Swinney, the first minister, on Thursday 5 November.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6Ikl1M0FCRlwvRGRsUmxOT3J2NFpzNG9nPT0iLCJ2YWx1ZSI6IldkUitWZXQwSjMwXC90cVFTTVAwZVJtZWN4dDkzS1c3eVFlSGNkdmliTjdCMDUwRk9hR3RETk5weHJMMXBiSGZnMVpQblFJb1lLTDdwbFZlcldDZjQ5VlwvSmFWSnVoTnBQNWJZU3pUQXFTZEZpUEtLTUlvVDR6dHVsRlwvZ2lRWk5HbGU1aHlCRlZURXRLNnFJZ2NYSkNyZz09IiwibWFjIjoiMDc5OTYwZWJmOGE1MzZiMDBjMDgyZjc3MDY2NmM2MDNiY2U3NDYxOTNhNTNlYThhMzhkNzFhY2JkNmYyZTQ0YyJ9&amp;signature=07c7ceeae83860bf94f4dc6dd601a78fdc7c1fba3eda3d845343a6457752f8d2</image>
+    <start>12:05PM</start>
+    <finish>12:35PM</finish>
+    <date>07 November 2026</date>
+  </channel>
+  <channel>
+    <name>BBC Parliament UK</name>
+    <id>BBCParliament.uk</id>
+    <title>Welsh First Minister's Questions</title>
+    <desc>Questions in the Senedd, the Welsh Parliament, to the first minister Rhun ap Iorwerth, on Tuesday 3 November.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6InFadSs1OWREK2tISjV4Q3psRWIyemc9PSIsInZhbHVlIjoidk9VaWg5U2JBa0pZcWxpVVFKUEZiVWVpY01KZUoxQ3B0K25XUGYxSHBHaTlUMmxhYXU5ZUZ2Q0dQSkV3S0lTZEkyOFh4dDZ1NDNcL0JqYnNCb0NkSWNoV0J0a0pwVGRlbjBhNTNLWXR6dUFLZzB6WXhCb3pvQmdUUFBTZ0gxTTdjeHk3eDBsd29YXC9VNWl2U3M3T2Z6cHc9PSIsIm1hYyI6IjIxNjYzMTNmMTA3N2VlN2QxNDZlMDY5ZDliODJhNDQ5YzY4Zjk2YzIyNTY1YTU4OTA1MGI4ZTQ2ZTFhMTY0NjYifQ%3D%3D&amp;signature=a17eb316c6a321e0222e35ffd23af87452ae3e37900b31d898b64a5ee72ef4c8</image>
+    <start>12:35PM</start>
+    <finish>01:35PM</finish>
+    <date>07 November 2026</date>
+  </channel>
+  <channel>
+    <name>BBC Parliament UK</name>
+    <id>BBCParliament.uk</id>
+    <title>Northern Ireland Assembly - Communities Questions</title>
+    <desc>Coverage of questions in the Northern Ireland Assembly in Stormont to the communities minister, Gordon Lyons, on Monday 2 November.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6InFLZW1PREJ1WUl3ZE5DMWUwVWRmcGc9PSIsInZhbHVlIjoiSTdrcGtjMDN1bzJGbTZsNG50WGJjOHBhVWlNZCtMcmpVdVkxUHJZb1ZFRVpQK2pGNDhHQSt6XC96MGZHZmMzUWFYRWJiS0ZZRkV2RXYwWVUrbGlUOWowdW9LRytxOEczcDhyR2JqRFNUVk5ya2J3ZkRUR2hzWEdXWTJDT3NiZnZlIiwibWFjIjoiMTUwNGZlMmNmMTAwNjViM2QxY2E3ODcwMjNjMWM5MTdjMzFlY2Q3ZjM2ODkxOWE2MjUwOTJlZGNmM2YyMDg4NyJ9&amp;signature=1004a528faa9f9a0ab545c5c2da8dd23f7d2f590a504cda44321752f941d8333</image>
+    <start>01:35PM</start>
+    <finish>02:20PM</finish>
+    <date>07 November 2026</date>
+  </channel>
+  <channel>
+    <name>BBC Parliament UK</name>
+    <id>BBCParliament.uk</id>
+    <title>House of Commons</title>
+    <desc>Coverage of a statement in the House of Commons.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6InhlN291K1IrVDRUNDVtcUhUZ2g3VUE9PSIsInZhbHVlIjoicHgxdWFvT0s0UmhyY1dkc2grYXRERldCRFM5RG53WlRVM3NcL0E1N3k1QnA1WURSUjFBMUNacjVpNDFxZEtnMDB0dkpUUVwvQWRNd2ZVTUFLSjRTWVk4WGVqblRBWVlDWlwvYVhmK3htZnNJSjJwc093SFpVYit0cXVIdW84OEpOT2UiLCJtYWMiOiJiOGY2NTQ4MjkyYjRhOTVkNGQzM2ZkZmQ3YTBlMGU2ZDIwYmRkZjIxYzk4ZDBmYTA4OTMyODA2MzMyNDQ5ZTU0In0%3D&amp;signature=ee7e558d8a07ab04275bc91aaf593b8a6ffdac4e5c1d9f0f8fa74843db416261</image>
+    <start>02:20PM</start>
+    <finish>03:05PM</finish>
+    <date>07 November 2026</date>
+  </channel>
+  <channel>
+    <name>BBC Parliament UK</name>
+    <id>BBCParliament.uk</id>
+    <title>House of Lords</title>
+    <desc>Coverage of a debate in the House of Lords.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IitzRDVJZGdwemhWMFVcL2dyS0g1Mnh3PT0iLCJ2YWx1ZSI6InJWTUxUajRvQnNNTllNWUIxNlNNcVd0ZVJlTXQyOXBBakV6WlJ6bjRRSnY5R2VDbkY5Ulp5MlZUVjNKTXVOQ1wveVFKbFdob2tTOXdZV3FyQmxpMHJKSUpZb3pxdXBJOVlvOGVcLzRTMFJoT2ZMY1V4OGx3b0VGUFdCVU9mNGlCWTciLCJtYWMiOiI0YWE1YzA1YWRiMzQwNzMzZTczMDlkNGE2OWRhZjFiNjFjNmJhNzNjNTY3ZjhiYTU0NGM3YzA5MjUyZDVmNDYwIn0%3D&amp;signature=496eb4f155e260e1460b59591023f604e503a95bd99cebd6634f764fccbac554</image>
+    <start>03:05PM</start>
+    <finish>03:50PM</finish>
+    <date>07 November 2026</date>
+  </channel>
+  <channel>
+    <name>BBC Parliament UK</name>
+    <id>BBCParliament.uk</id>
+    <title>Scottish Parliament</title>
+    <desc>Coverage of a statement in the Scottish Parliament.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6Ing0NktvRjMrY2UwU2FseWUzdmxOcVE9PSIsInZhbHVlIjoiZ0NnMHBRMjdXZ2xxOElaNW91cDVyakJTQ0pWYVNQd1FGYUx3c2VEY0JwWVNCRjlNbmZQSWxUV3VpWjV6ZlwvVVF3STR4NVdsQ2E0WkRxR2JDMk02akM5c3hSTWJQbVhmZU5EVnhmXC9RZU8wTjYrc1RpK2dDUGFzODJVRXZDTDBNcjdwYWRoWEFsQnloQUN3cWxueWpsMUE9PSIsIm1hYyI6Ijc5MDIwYTU1YWNkYjUyYTBkOWVhMWFjMzQ0ODYzMTlmZDRjNWJhNzlhOWUxNTE3MWI3OWI5ODA2N2Q5YjM0MTcifQ%3D%3D&amp;signature=4d78a2d4f8cce12c094fbff98154740c07c4253947c50f93b32fb8ad07664a36</image>
+    <start>03:50PM</start>
+    <finish>04:35PM</finish>
+    <date>07 November 2026</date>
+  </channel>
+  <channel>
+    <name>BBC Parliament UK</name>
+    <id>BBCParliament.uk</id>
+    <title>Senedd Cymru - Welsh Parliament</title>
+    <desc>Coverage of a debate in the Welsh Parliament.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IitKeW1Wa1pCTDJqc2xDOEZmWUwzckE9PSIsInZhbHVlIjoiaWdEU3lpTDNUelUwZ0kyMzd3NzhBNThQXC96Uk9lWkRiVUdjVUpFZmZvbHR2cklQaURMM2N6bTRLdXVDK0E1eFFQeVhpWnRSUUI3RUEwbFV6WUtrQmJyMEJUU0h2bFdVOFJvTkEzWnM0a2xBaitnSjVveVNBMndRZk1SU0pIYnhKK0ZIS256Y0loTElRZThkdUdwSlBJQT09IiwibWFjIjoiMjNiZGY4MWU5ZmNmOTEyZDViZTc3MGJhZmZkYzMxMjQ5N2UwZTBmYzlhZDUwMjNkZDBhN2ZhNThiYWU3ZmEwZiJ9&amp;signature=74702e5401703e756924f3c7bad08ee816cff103bea9419a7bd50f510f36e100</image>
+    <start>04:35PM</start>
+    <finish>05:20PM</finish>
+    <date>07 November 2026</date>
+  </channel>
+  <channel>
+    <name>BBC Parliament UK</name>
+    <id>BBCParliament.uk</id>
+    <title>Northern Ireland Assembly</title>
+    <desc>Coverage of a statement in the Northern Ireland Assembly.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6ImgybWhUUGpHTCsxQ0ptWHZcL1NNcUZ3PT0iLCJ2YWx1ZSI6InFRQ0lVSGhuK2RvN09mUE13V29TREI1UndBZzU1Rzd2SWdyUXQ5aFlhbWVzMWtRcWhRTzY4SnJ0Qk1WWm8wQTArTWlOcFQwdlhmcEw1M2k2ZU12RTQ5djY0RWkrRXNiWm9WOVg5K21vRDNrYmJteWtpcXlkREMxNENCZ1F1Wm5FIiwibWFjIjoiMzg0M2FiYjI2ODU2NDc1MjcwYjU0MDhjZTBlNmJkYWMyOWEwYzg0MDMxMWJmNTIwYzljYjA5OTMzYWZmZjgwOCJ9&amp;signature=cb4873a8036848b437bc623988bef7cd0269306c49eb735b0108bb7dab038f8e</image>
+    <start>05:20PM</start>
+    <finish>06:00PM</finish>
+    <date>07 November 2026</date>
+  </channel>
+  <channel>
+    <name>BBC Parliament UK</name>
+    <id>BBCParliament.uk</id>
+    <title>Select Committees</title>
+    <desc>Recorded coverage of select committee proceedings.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6Imo0VWV1YUJxc0JwUzhFZGtCTXl5OFE9PSIsInZhbHVlIjoiWGJNWEhRMFQzRFFaUGRHb0dnUTg5SE42M3FsTEhWbGNTUzk5SUs2VExHSHA4eGh5eUxKYVZhczBJc2FXSDJSNURqY3FVSXVoampUTjM5RHQ3bE5CK0pwNnlGakpKdVlZU3BTV1lHWmJlMGZZVit1dWFrN256VEl1NnJvb3U5ZE43czh3SjdoYVJvaVN6WENLUFZ6UDNnPT0iLCJtYWMiOiIyNjQ5ZDVkZDFhMTU5NTYxZjcxNmY2MzJhMjkyODE1MmE3NzFmYzFkZDdhZWQ5ZTQwNzQxZDE0MWFkMDEwZTI5In0%3D&amp;signature=c45d3ecfac2d493fb0beff10747c4baae8b4ce4bb509c911f4201186fc7c6bea</image>
+    <start>06:00PM</start>
+    <finish>12:55AM</finish>
+    <date>07 November 2026</date>
+  </channel>
+  <channel>
+    <name>BBC Parliament UK</name>
+    <id>BBCParliament.uk</id>
+    <title>Prime Minister's Questions</title>
+    <desc>Coverage of questions in the House of Commons to Louise Haigh, the first secretary of state, standing in for prime minister Andy Burnham, on Wednesday 4 November.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6Im8zMWdQN2tqOUp6aUJDMHM5UnJZYWc9PSIsInZhbHVlIjoiSnBxSzZyQTVDVHEraVJYbzlsbmRqM21HTHpaMkxwTmRPd3lIXC9GRkx2Y1VCUUVMeFpDbTFqcjdVNGVZcjNjbjVSQXFEV0tyVzd6WlhKUEZPaUJsdGVhazliUndjZUdnNlRNN2I5WHlrdmVHY1BcL2RTWTdmVXQ4cklVT1dGZllpMmlPRHI0ZXRWdjczZUV2THVoVlFxd2c9PSIsIm1hYyI6IjM3ZWIxNTA5NDQ2MzkxNzkwNmFjN2JlYjQ0NzRkYjkyZmM3OWJkNWI5ZGVjOGZhMjYyODFmNTQzYzkyMmY3MGQifQ%3D%3D&amp;signature=7fbe175dcbf10a6dcd46fa57611f26573ce12cf190f13161aadb2f0a9d672114</image>
+    <start>12:55AM</start>
+    <finish>01:30AM</finish>
+    <date>08 November 2026</date>
+  </channel>
+  <channel>
+    <name>BBC Parliament UK</name>
+    <id>BBCParliament.uk</id>
+    <title>Scottish First Minister's Questions</title>
+    <desc>Questions in the Scottish Parliament from backbench MSPs to John Swinney, the first minister, on Tuesday 3 November.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6InkzRHZjbWJERXhjN3lcLzU0ZXpsaGpnPT0iLCJ2YWx1ZSI6IjF4V1wvYitPZU0rbGVkUk5UbFZSNEF2KzI3aWdhOXZwbVJyQ3R0Z09vem1NaVQ3dVZmZitaclJnS3plTTh3QW1sc2tLTEJHQzQzVEpJUVVcL09kdnN1aHdxTVduSHNcL1pUSjdXaEJmdWZCUW1FMWo4d0hMRGtZQlNiNm53Z3hIa0laTURiSW9CaVdxdHowRHZcL2N0cUNOaEE9PSIsIm1hYyI6IjMxOTdmYTJmODZlNDZhZDJmMTdjNDE5MWNhZjcwOTRjZGZkODEyOWJlNTMwMjU4OTE0ODE0OGNhY2YyMGE2ZmIifQ%3D%3D&amp;signature=9f208a78a6d72052f329bb5d42d639ba884fb70f47c936c1333ded94146b6678</image>
+    <start>01:30AM</start>
+    <finish>02:00AM</finish>
+    <date>08 November 2026</date>
+  </channel>
+  <channel>
+    <name>BBC Parliament UK</name>
+    <id>BBCParliament.uk</id>
+    <title>Scottish First Minister's Questions</title>
+    <desc>Questions in the Scottish Parliament from party leaders to John Swinney, the first minister, on Thursday 5 November.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IkJJUVF6OWx5bVEyMFYzeHF0TWdYT0E9PSIsInZhbHVlIjoicno2XC82Y3pHYmVJM0hzdUlIVGRDQm05MjNjaU5BaUxVQkMxd2ZrRkpvd0x2VGxXK3ExMHMrSllhNzVudjB5RXdCZE9FQXdDdXVPTUtXSGEyV1k2U0FzUDlvTHptRHhQVVFweUlDK1FnalR4cUthc0Y1TVRHSUtnY28zdm5DUlgzZitXTCtzWkh4YTZ0eVBOdXpndm5GZz09IiwibWFjIjoiMzczOTQ1Zjk4NGVhYjViM2EwNzc5NDBmZTk1ZGEzNDYxN2Y1ZTVmY2Q3Zjc5NGUxMDkyYWQ1MGNiOTllN2VmMCJ9&amp;signature=7500970725f23b8c45586b25232f68e7171b375f57ebe4e1c0d8998be3314858</image>
+    <start>02:00AM</start>
+    <finish>02:30AM</finish>
+    <date>08 November 2026</date>
+  </channel>
+  <channel>
+    <name>BBC Parliament UK</name>
+    <id>BBCParliament.uk</id>
+    <title>Welsh First Minister's Questions</title>
+    <desc>Questions in the Senedd, the Welsh Parliament, to the first minister Rhun ap Iorwerth, on Tuesday 3 November.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6ImdFU29wazRHTVZNa2ZXSFlGTmEzMUE9PSIsInZhbHVlIjoiam9CYzZLNDBvOGFkOTRSb0xKU0RadVdBM3lzdGdoWnNqOGV2Qjl2RHNxMDdOWUtJVlNjNjZyS2JFVXFxNUtTZDhMa2xFOWI2TkJHOGhUcEtjcGp1NDNHNXlhcTVZeFwvaW56QXREdlU0bGVNR01kbmtpUWxoQ3FzZ2E5VkMwUXRwNDEyVUhVYkpmWTZwektiTGlsamlNdz09IiwibWFjIjoiZTJiZmVlMjY2YjY0NzE4MDI3NTY3NDUyZDczNzAyYTdkNTk3Y2QyOWI0NjdlNDAzMDY3MTg0OGU4MzQyZTQzOCJ9&amp;signature=cf22c25f15f308b887552aeff30fdaba0b20e26f1cecd58614beb6fb8d05b810</image>
+    <start>02:30AM</start>
+    <finish>03:30AM</finish>
+    <date>08 November 2026</date>
+  </channel>
+  <channel>
+    <name>BBC Parliament UK</name>
+    <id>BBCParliament.uk</id>
+    <title>Housing, Communities and Local Government Questions</title>
+    <desc>Coverage of questions to Angela Rayner on Monday 2 November.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6Ik50ZkxFZnREN2VYQWJUUkhiaHlRNWc9PSIsInZhbHVlIjoiWXBRMXQwRE1FcVA0UElkNmM4MGl1U1pIblAyQmJHVEZtQXJ6UmNoa2xhTzh6dEZ6eVk5ZVZlaTJPSnN4M0VnYTBCYTV0VDZ3S1ByamdwSEpoWmV0UHBlNVo5RDVnRXkrVHJQMXJzK1hQVnc2cm5rckY1T3hUSXhjQmxocmJWXC9HOGk5U2tlbnRJKzhqb1dhY2dPUzhudz09IiwibWFjIjoiYzM5ODQ4MTY4MjM0ZTQxZjVmMzNlYWIxYTEzNWVmNjk5MjYxYWE3ODQyMzY3NDNiNGYwNDE0MWUzNWQzNDc3MiJ9&amp;signature=c8696ebe3ec3ec5a728f6057f4aa0529151287ea8dcb1bbc1b40d0db80483b92</image>
+    <start>03:30AM</start>
+    <finish>04:30AM</finish>
+    <date>08 November 2026</date>
+  </channel>
+  <channel>
+    <name>BBC Parliament UK</name>
+    <id>BBCParliament.uk</id>
+    <title>Treasury Questions</title>
+    <desc>Coverage of questions in the House of Commons to John Healey, the chancellor of the exchequer, and his team of ministers on Tuesday 3 November.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IlBVOE02TFNRb0t6RkVcL1BDdGk1YzBnPT0iLCJ2YWx1ZSI6ImF6alwvVjBocVNJN1h1K29UMU5sU0xvV2V4THVqQU4zT2RnTmVcLzV0MjZtU1BCZURcL0JUMHlQdUF1Rnp0WG1lV2xNZGRlbHYzNEp1bkR1c1VraDFqekthXC85Skl5Z1FzWitKdnBEYytiNWI1cUdQUDl5OU5xODREcVFGeXBwdlZKWHVScUlGN3VjTDVFekFYU3hnaUtCU0E9PSIsIm1hYyI6ImFlZjgzMzNjNmQwMzYxZTAzOWU4NTY0YTc3ZjM2ODU4OGUwNTMyYTlkY2Y1N2UyMDVmOGY0MWE0MTljMmVhYWIifQ%3D%3D&amp;signature=869cab0882d44833eda20eb71cd1e26fe3f0a7325357b6c5896847ac9a1a38bb</image>
+    <start>04:30AM</start>
+    <finish>05:30AM</finish>
+    <date>08 November 2026</date>
+  </channel>
+  <channel>
+    <name>BBC Parliament UK</name>
+    <id>BBCParliament.uk</id>
+    <title>Wales Office Questions</title>
+    <desc>Coverage of questions in the House of Commons to Stephen Kinnock, the Welsh secretary, and his team of ministers on Wednesday 4 November.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IkczRzQxSEo1d01KTDExbWNWNUI1aXc9PSIsInZhbHVlIjoiUHQ0WDBqSGRQSDNLOVlYT0JKN1wvUEcxK1RmekhVV05OXC9rTlwvMWFGNUFzNkJKNGk1THN6ZDRUWE1DMk5XRFNKQjhHb20wZUJCMFpTNmFTR2NNUmhQVHRmV05HMTRGeGdqWjJ1NFdjeThsWTA1YnRtVVBvU3VKN2tGczQyNzVoQVhNWHJCTXNsTjFCcHpEMlJsQWdhSCt3PT0iLCJtYWMiOiIwMDg1M2MwMDcwYzQ4YjEyMTFiOTViODM5NWJhNzBlNmFiZDk3YTA1YWVlYWQyOTM1MTY5MTI2MWE4ZmI3MzNmIn0%3D&amp;signature=dc46221daddf9937b777a7d6723a99e4ea68301eedd62a2545ba7f9ab81d3d39</image>
+    <start>05:30AM</start>
+    <finish>06:00AM</finish>
+    <date>08 November 2026</date>
+  </channel>
+  <channel>
+    <name>BBC Parliament UK</name>
+    <id>BBCParliament.uk</id>
+    <title>Westminster Hall</title>
+    <desc>House of Commons proceedings in Westminster Hall, from Wednesday 4 November.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IjRpcFZXam1lSjlJcHgwYTBKaU93dWc9PSIsInZhbHVlIjoiWnNZRGh6MkJFVmR0VXl5dCtkS0ZxN2JZaHkwK2ZvNGJobUk5alJwOW1CaUpcL2NubFJRa011THdCM1lJRWRTTjFPVmVZTmlyXC83UGkycTlzaWQ5TGJHUlhYYzhcL3ZiUE9mNU01TCtpY3haRHI1ejhpeElcLzdxZ21YTVhoOXFBanNrUmM5a3NlSzNERmVoeE16U1wvak5DcFE9PSIsIm1hYyI6ImEyNjZkNWI3NjIyNmFjMmMwOTY5MWYyNWFjMjEzZGNmZGNjMWE1OTVhMWFiZGFkZDQyNzYxMTRhN2U5OTc3MjkifQ%3D%3D&amp;signature=4e92f3f6cceb33e8b1593fa0e5d2e3aea8d73c4ec73c6f1404b81a61aea69f14</image>
+    <start>06:00AM</start>
+    <finish>11:00AM</finish>
+    <date>08 November 2026</date>
+  </channel>
+  <channel>
+    <name>BBC Parliament UK</name>
+    <id>BBCParliament.uk</id>
+    <title>Northern Ireland Assembly</title>
+    <desc>Coverage of a statement in the Northern Ireland Assembly.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6ImZTYysxbDVRMTlBZHRcL2wzSUh5VlFnPT0iLCJ2YWx1ZSI6IkhxaTdYOEdPSVYxeXk3MFR1Y3BcL2JCNXp3bGhSNzZESTlPeTZlQTR6VjBrQVJwVjc4dGlGdjA0aXNcL0FWcFd3WW5STjlFZlBBa1pIOEV3Zm9EYVNqZUNOUUZTa01pK2Jhbjk4SThtZlVpaU1xNzE2Q3NRbVRuREVtYWZmMVVUMitQVkpOMjhBSGdUdkVFYWJ1eFh4MWl3PT0iLCJtYWMiOiIyZGE3ODBlOGMwOTQ5NTZiMGIzNjljZDZkNjViYWFmZjE1ODk0YTZkMGNhZWU4M2Y4NzlkYzliYmM2MGUxMDY3In0%3D&amp;signature=d16bfcec8d8f78439b417802f3927208e36680e7e7c8babcb7aca8cea4b9e7b2</image>
+    <start>11:00AM</start>
+    <finish>11:40AM</finish>
+    <date>08 November 2026</date>
+  </channel>
+  <channel>
+    <name>BBC Parliament UK</name>
+    <id>BBCParliament.uk</id>
+    <title>Senedd Cymru - Welsh Parliament</title>
+    <desc>Coverage of a debate in the Welsh Parliament.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IlRpOEpDVVNta2RCMURNcWNra1huS3c9PSIsInZhbHVlIjoiVGQxY3RFT0ZmVHBPMXhFZzF2Tll5bXl4XC9DekVvY3ByZ1N5d1BnYW1sRUVxNWtEb2ZuMFVEbXVQUWF1SG1yNEF6OEN1Y1JYNVRGSUxNWGNUeDhWTlNOejl3aHZUMlZWTmw2VTRXMmR4Q1FGR3Z5bnFJTW1EaDdIV1VHVDF3MU8rT3hsVzBOYW5VNGdUaFhLVlwvWlo5Z2c9PSIsIm1hYyI6IjBmYjRiNmRiMTFkNGY0NWIzMWU1OTA3NjRkNzEyODNiMmRlMmE5YWE0OGZlYjk1MjAzMjI2ZDc5ZGQ1NzRjNmUifQ%3D%3D&amp;signature=a198811de419d8c5615972b3cf4611ce13fcecbe684f0c18df636ce763d4d997</image>
+    <start>11:40AM</start>
+    <finish>12:25PM</finish>
+    <date>08 November 2026</date>
+  </channel>
+  <channel>
+    <name>BBC Parliament UK</name>
+    <id>BBCParliament.uk</id>
+    <title>Scottish Parliament</title>
+    <desc>Coverage of a statement in the Scottish Parliament.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6Inc3dW1YcnR5c0pBamtmVXJBbml6K3c9PSIsInZhbHVlIjoianFaaTBtZjBFQldJUmlFMnhuVHhNRTdjNmR4UThkakxTK1llWmIzd0FDQzYzZW1kcUo2dFEweFp4OW1tdXlLSmNUZkgzRWdDV2VOeWFrRFZGMXBLcTBsMmVxNW5tRVlqOElzVjI3dTNxYytXQnVHUHBpdGZUbVBxVmpGVVdmWUl2TEpwMmZVT2VhRWZYc0kyOVVUdDBnPT0iLCJtYWMiOiI4N2IyNmM0ZTc0YWVjMDE2MTUyMWRhYzU1NzY4MDNmNTU1MTUxZDM0ZWUwYmRjMWJmOTY4ZjRjMmRmOTM0OGI3In0%3D&amp;signature=ffba755ba39dd9f60007e6d2fd8b0cad88354fe0887d3563fb99c7849b8cbc6c</image>
+    <start>12:25PM</start>
+    <finish>01:10PM</finish>
+    <date>08 November 2026</date>
+  </channel>
+  <channel>
+    <name>BBC Parliament UK</name>
+    <id>BBCParliament.uk</id>
+    <title>House of Lords</title>
+    <desc>Coverage of a debate in the House of Lords.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6Iko0SEUxZkhaeVRuNlFkNU5RXC95bHZ3PT0iLCJ2YWx1ZSI6IjlSUGJ3U1J6d1dyOU5mMXlFTHZxTDZlb0tGVVhSTGErbzN6emJtOG16clVYWVhNR25WRk9GZEtoZnNDQ0Q1RzY4TCtFZWFZaTJIejNXVTlCWDZSZFhsYTJ6aEFoejFUVWtDSW5ZeWVNR0tJdURcL1dDOU9yWkFPc1psOTg4VkMwNnpEckpCbVdqZFR2eXFndmtEVCt2UFE9PSIsIm1hYyI6IjkxOGMwYWQxZGVmZGFiZGMyOTA5NTEwNmUyZjNjYWUzOWEwNWQxNmQ4MjFlNmExYmM4Zjk0YjY0MzVjNmQzOTUifQ%3D%3D&amp;signature=45d43498a74b67f90e369ab2cb63086e18262e893132201012217f16b374c447</image>
+    <start>01:10PM</start>
+    <finish>01:55PM</finish>
+    <date>08 November 2026</date>
+  </channel>
+  <channel>
+    <name>BBC Parliament UK</name>
+    <id>BBCParliament.uk</id>
+    <title>House of Commons</title>
+    <desc>Coverage of a statement in the House of Commons.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IldMQjFcL0tEVWpWcmV2WTk1cmhEOXVRPT0iLCJ2YWx1ZSI6Ik9cL2ozVUtLbU9ZaVJ2YWwzSnk3XC9IaThWY2taOUVCZUhsdUl6UGhXMGJIRVNSbUt1UVA2bXc5OTUwNUphNk1QTTlOUjc3YzNkZ1d4R203ZjdYaVVLUFFVRitjZmtUZzg2Slc1Z1M3emtiRTJ4MkFaZkVDY1haQmZ3WmVxRWRUWGlBcGUwNHRvUW52dFpQNEZVbUJMNzBRPT0iLCJtYWMiOiJmMDkwMDBmYTgzNDg5ZDhmOTFjZDZiMGY3NTBmNDhhM2U2MjQyMDUwMjUwNWQwY2JiNTIwZWFmZGZiZDQ2MjczIn0%3D&amp;signature=be019f7c8997c78a6bce6539936c4ecea969305987a59bf41c4e296b4a8fbddf</image>
+    <start>01:55PM</start>
+    <finish>02:40PM</finish>
+    <date>08 November 2026</date>
+  </channel>
+  <channel>
+    <name>BBC Parliament UK</name>
+    <id>BBCParliament.uk</id>
+    <title>Prime Minister's Questions</title>
+    <desc>Coverage of questions in the House of Commons to Louise Haigh, the first secretary of state, standing in for prime minister Andy Burnham, on Wednesday 4 November.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IkhlbUxXZGV0WlhWRFVpbmJpZWcydFE9PSIsInZhbHVlIjoiWTBITUVoRWNzUGR2Q1VXTzlZVlpqclVPZkpOVm5Ha3RJaWd5Zk93cHVRWUdDRXJwb2FxK2xob0h0UmVwTmFYQnZDZWpweEgzWUFwOUg2MVYyNVh6MnRVR2hrN1wvQlEzcmlJeDVjVUQ4WlF1SGRFcENhUUpNTXZvZklhK3ZJc0xBTlZQMUZQOWN0T2lNdUx6cFRvUjlCZz09IiwibWFjIjoiZTdmN2U1YjllZmUyYzgwMjFkY2MzYTM2MzgxODBiMjhhZTQwNmU2NTU2OWM4NGM5YjA3ZjE5MzJlNTAzNGRmOCJ9&amp;signature=8560f7ada9fc787a0069827c8fa2b95a8129c1ecca1d2736c807f37e19668cc2</image>
+    <start>02:40PM</start>
+    <finish>03:15PM</finish>
+    <date>08 November 2026</date>
+  </channel>
+  <channel>
+    <name>BBC Parliament UK</name>
+    <id>BBCParliament.uk</id>
+    <title>Scottish First Minister's Questions</title>
+    <desc>Questions in the Scottish Parliament from backbench MSPs to John Swinney, the first minister, on Tuesday 3 November.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IjhWS0NaaEZHazVcL01Rckk2REdtRTNRPT0iLCJ2YWx1ZSI6ImpXWHpBRDVRc2p2VGRKTVhOSUFmVkREaHk2WkdVUCt3SHZNdldkQWkyR0JDOENnbHdqMVZBSW16WjBSWTAwMnlXTnh3eG9oQ0lCYTRqMW40Q2ZjRTBLQmRtTkN4Nmk1RWY2RTg2NVVVem1hSlpTNjdLSWxVUUlzajRUN3gwK3N6T3JLQmp6YmY5WnBRWlZxK25xT3NFdz09IiwibWFjIjoiOWFmNmYyOTg4N2M4Y2E4NmJkMjNkZGUyODMwZjE3YjIwNDMzYzE3OWI3YWFmZTFhOTYwMTcxMzRiMjNjNjViOSJ9&amp;signature=ef196a56cc13b41d794ceb04df09fece59fe4fc7056ada6d5b1a8a3ae6842fc2</image>
+    <start>03:15PM</start>
+    <finish>03:45PM</finish>
+    <date>08 November 2026</date>
+  </channel>
+  <channel>
+    <name>BBC Parliament UK</name>
+    <id>BBCParliament.uk</id>
+    <title>Scottish First Minister's Questions</title>
+    <desc>Questions in the Scottish Parliament from party leaders to John Swinney, the first minister, on Thursday 5 November.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6Im0yQ0F2VlBOTHE1a2I5dVBrQ003Znc9PSIsInZhbHVlIjoidkpCRGRoN3lSVk9CZksxOEZ1Y0lTY2ZLKzh3aDVuQVF3XC9jdHkxeDZHMG5uaWFYclJpNG1oaGk0Yk9jNGZ6dFNMUTFGV1pTbVQ5REwwMjFHZ1F3MUEwbnl4ZUxvb1VNNzBzNUhCcWxBTDA3VFdZMTd1RkRyRHpiNUVhNjVORVluM3M0YXZ1WnFveGZBZHM2cXZyTDdOdz09IiwibWFjIjoiOWVhNzllMzkyZjY2MTgzZTg2ZmViMDZhYmNiZDVhOGM5YzM0MTM2Njg1MTgxNzY5N2YxM2U0M2Q4NGE0NzI2OCJ9&amp;signature=b35e1415bb100a6b5491b5ce3ac80710473c65ae47ce92cfa5bffdb87c507c96</image>
+    <start>03:45PM</start>
+    <finish>04:15PM</finish>
+    <date>08 November 2026</date>
+  </channel>
+  <channel>
+    <name>BBC Parliament UK</name>
+    <id>BBCParliament.uk</id>
+    <title>Welsh First Minister's Questions</title>
+    <desc>Questions in the Senedd, the Welsh Parliament, to the first minister Rhun ap Iorwerth, on Tuesday 3 November.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IlhWazNLWVwveitGbDlrVEQxcldcLzNhdz09IiwidmFsdWUiOiJWbG10VjdiNXRGbEZPd29xcFwvXC9wY0xEQnIraXh3M3FHXC9NbXJaZkJsaFh4UGVpUnIxTTVSWDhEMWdBNHNxOG12eXVPbm0waVBNNnBWOXgrUzlOelcydmVySXl4VjNuMlR1UExldUREeGk4MTFvczdmbnFBYjUyYVA2a0NodXZ4MXJlYkgyUzBNa0IrRU1lUllzTElpQnc9PSIsIm1hYyI6IjU2OWUyYzlkYzBiMmY4OGU1Yjc0ODU3ODBlN2VhOGJjMzhlNTU0NGMyOTQzODAwM2UzODg2MjZkMTViNmQ0OGMifQ%3D%3D&amp;signature=b740ba9bed5a23cb85299223c4e05b9fecad59220499da5a2475270b73fc63b3</image>
+    <start>04:15PM</start>
+    <finish>05:15PM</finish>
+    <date>08 November 2026</date>
+  </channel>
+  <channel>
+    <name>BBC Parliament UK</name>
+    <id>BBCParliament.uk</id>
+    <title>Northern Ireland Assembly - Communities Questions</title>
+    <desc>Coverage of questions in the Northern Ireland Assembly in Stormont to the communities minister, Gordon Lyons, on Monday 2 November.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6Im9ZengzODAzSXdsaEp5UXZOY1czUkE9PSIsInZhbHVlIjoiWW14K3ZTZ1ZYeFJneFBuQ1FRRFMxRGtqTHJ6QzA4QnRWRGtBN2hpaGdLSkR6QnhVZnNMMzVVSlBiQndNQ0s1OEhnVkdqZnNKK2JRSElpeVBlXC9MN29xK1wvYm12ZmlDMWZidmUrRUVIWThSRlE2dFBzZkxlR0ZDM1B3dk45ZHRcL1J0QWZDQjNhOVpicytjSEMrc3JvUUR3PT0iLCJtYWMiOiJjMmU5NmY2MWU4MzVlYjUwNGQ3NWMxYzI0NmZmYmIxZjUzZDFlOWQwYTYyOWNkNWI1NmNiYWU1NjIzNTE1YjFmIn0%3D&amp;signature=9337f249ffe442aaa08dbf0c2693c6d38e57587fbec4352eab269e9a3a8ada2d</image>
+    <start>05:15PM</start>
+    <finish>06:00PM</finish>
+    <date>08 November 2026</date>
+  </channel>
+  <channel>
+    <name>BBC Parliament UK</name>
+    <id>BBCParliament.uk</id>
+    <title>Select Committees</title>
+    <desc>Recorded coverage of select committee proceedings.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6Im93N0NVNldtXC90dm5wb2R6SXoxaVpBPT0iLCJ2YWx1ZSI6Ik0xNWdrYTdFYTVibzVTWThYTEtnU3QxQ0pqM2tKK2ZXb1E4dngwa2VmRVBTOXBMWkNhTjVmQUhzSHc1MjJ3anE5WHlDUzk1Y3BLTklKaE1rZzBib3d6Uit0RHFsejVQWGZKZGJNalVhUTlVTHQrXC9rblZlRkJaNE1EMkVFZU9SaUtMZkZPM3dLeFFaKzFXN3R5WFRnaUE9PSIsIm1hYyI6ImZmZGI3ODg4ZGUwOGU3ODc2NDc2Y2QyODVhNGE2YjdjNWM0YWUzYjZhMmE1ZGRkY2MxNTUxOTY5ZDRhYTRmYWUifQ%3D%3D&amp;signature=e245cb2241182936ab20adeecdcf4cdc83402d425ebd7e64e5d8e5da2bfbb669</image>
+    <start>06:00PM</start>
+    <finish>12:55AM</finish>
+    <date>08 November 2026</date>
+  </channel>
+  <channel>
+    <name>BBC Parliament UK</name>
+    <id>BBCParliament.uk</id>
+    <title>Wales Office Questions</title>
+    <desc>Coverage of questions in the House of Commons to Stephen Kinnock, the Welsh secretary, and his team of ministers on Wednesday 4 November.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IklaNmkzTkFuN3ZYT1hUTUtoV2FxSkE9PSIsInZhbHVlIjoicCs2Rmphall4dzhmV0V0MjdMV2VndXdqbnFNZmY1TXF1OStTVTVFbXpNdVQ3ejUyZ01XaTVsZEhDbGFyTWlGUEtnYk04VnhaTER5UWY0dUdtU3UwUHcxcmwxcWw4YXhtTjdJM1JKeEFIZTlHbmNUa21EM3BPT2w1MFJUUjlKNFwvUDBkT3lCdThzNUs1a0NXTlJGZW5lZz09IiwibWFjIjoiZDZhMmI4NGFmMGNiOWFlZjdjZDQwOGNkYmJmN2U2OWUzZmQ2NDJiNzQ1NWRkOWE2Zjg5ZmE5YWY4OTgzYWI5NiJ9&amp;signature=e34b41200d687302051afc654c8a5a1bc450dc0caa1e4b398192e3d5e09e9cf1</image>
+    <start>12:55AM</start>
+    <finish>01:25AM</finish>
+    <date>09 November 2026</date>
+  </channel>
+  <channel>
+    <name>BBC Parliament UK</name>
+    <id>BBCParliament.uk</id>
+    <title>Treasury Questions</title>
+    <desc>Coverage of questions in the House of Commons to John Healey, the chancellor of the exchequer, and his team of ministers on Tuesday 3 November.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6InppaE1SU3c0NmhNUzRVYjByNnNBamc9PSIsInZhbHVlIjoiTjl0blFKZUxqOTVteGZ5ayt4SlJvdSs3S0hXcXJEYlRwOGdnMko3OTN1YWtMbzl0aFRjbnpnc1dSRisweUozNmZnTjRTRk02R3NQd0lCZmF1cHRIQ0J5Zks1dHRJOFN6aEFjRDRHU3VveFZwMHpVK1dNd0NYbjA1NDFyV0J4cWEwbnBZaE5JM1RweGhpWWgxNDNSaEVRPT0iLCJtYWMiOiIwMTFhY2Y0N2E1MDAzZmY5NjNkNjk4YWM2YTFjYmM1MWZkODc2ZGZhOGVhMDliNzMxZTI1NDc1NTE5MWU5NjhmIn0%3D&amp;signature=036788064066aa6602cdd05b21946db31545241cb22264d3212f72cb81c1f7b6</image>
+    <start>01:25AM</start>
+    <finish>02:25AM</finish>
+    <date>09 November 2026</date>
+  </channel>
+  <channel>
+    <name>BBC Parliament UK</name>
+    <id>BBCParliament.uk</id>
+    <title>Housing, Communities and Local Government Questions</title>
+    <desc>Coverage of questions to Angela Rayner on Monday 2 November.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6InByZWZJZTFUOWFhVkhNMUZ1amlXMGc9PSIsInZhbHVlIjoiYWFDTUdUWmNEV2syTlZZdmlaRzJaQUpDXC9uWjc2U0R2czJsM25UNE5vaytYeDhvZDhwSE12WkYrVTFhMmhvS2JwUmM0WWpvUTIycnRWUldPV1dYRFRPZXhUQWFhVVljdmxnMVZMeitVMXRUMUlPMUxvK2VoelZrSFZGNWErc01EcXJoQXNrWGh1clQxdVZwVHowRHN2UT09IiwibWFjIjoiMWI5MTYxZWVjNTViMDQwMDliMmFmY2QyMmE0YWNmNzAxMGM1NTZiYTFkMDA2MWRiZDBmNWVmMDU2OTM3ZWE1YyJ9&amp;signature=366cbc7eddc55342d0b51c699304d5525b6412bed92fa02443a03e79d879bb6f</image>
+    <start>02:25AM</start>
+    <finish>03:25AM</finish>
+    <date>09 November 2026</date>
+  </channel>
+  <channel>
+    <name>BBC Parliament UK</name>
+    <id>BBCParliament.uk</id>
+    <title>Prime Minister's Questions</title>
+    <desc>Coverage of questions in the House of Commons to Louise Haigh, the first secretary of state, standing in for prime minister Andy Burnham, on Wednesday 4 November.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6Im1EVVNjajNFRCtEekl6SWtRR1VYalE9PSIsInZhbHVlIjoiMEMxZHNyYzhLaHNsNER1aCtzNGZoZ094d0dac2dBV2E3bTlKXC9Vd3lCVHNlbW84UUl6K1RcL0l6RG9VS0FJSHBlVXJrZ21tNTlUR3JXWnFNQlNPNGMxR0xxOHVLc1ZRUDRiUVRSZVZxRktpcEU4N2VPR1hKaThreEVRVVdhcVdieVMxdjdDWk1mRGJYWjBWTU0relpxdEE9PSIsIm1hYyI6Ijc1NmIzNTM1NTU1ZjVlMWFjMzE2ZGFjNDJmYjQ2NDNiMjc5NTg1Njk0ZDM5NWU1OTFkOGRmNTRiNzcxNTkzYzcifQ%3D%3D&amp;signature=823347319179b7e1d615aaf54cbdad2d72494ceb6a82d8d739354bf05eefbefb</image>
+    <start>03:25AM</start>
+    <finish>04:00AM</finish>
+    <date>09 November 2026</date>
+  </channel>
+  <channel>
+    <name>BBC Parliament UK</name>
+    <id>BBCParliament.uk</id>
+    <title>Scottish First Minister's Questions</title>
+    <desc>Questions in the Scottish Parliament from backbench MSPs to John Swinney, the first minister, on Tuesday 3 November.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IlZSSnNkTEJHNzZ2V3prOGZ0dVM1bGc9PSIsInZhbHVlIjoiNjhLa1ByQm5rZWFVa3pMSko2b0tpRCsxUGpidEEybnNFd093T09DZUNvMUROYmh5WVlScDJodWF5Mm9sR0cwMGVQNkluS2FiRzhkbGZGZ1RBM2dZVEhoR0JsaXBtdVJteHBhM3RleVwvdDA4ZUh6dFVhK29wYkJRak9tVjNTYUVIS0x5MHl5cUpEak8zXC9lZmZGV1FxV2c9PSIsIm1hYyI6ImM4MTVjN2MzNDExYjBlMzIxNWI4NTMzODU2ZmRjNjYxNmFiNDYyMDA2NzNlMWQ1MDJjNjUyNjExYjE3N2EwZTQifQ%3D%3D&amp;signature=07c4abc6fbbc6a6abb81988e807626d6c99bcbb025c9d5da3bd71d2fb3937e93</image>
+    <start>04:00AM</start>
+    <finish>04:30AM</finish>
+    <date>09 November 2026</date>
+  </channel>
+  <channel>
+    <name>BBC Parliament UK</name>
+    <id>BBCParliament.uk</id>
+    <title>Scottish First Minister's Questions</title>
+    <desc>Questions in the Scottish Parliament from party leaders to John Swinney, the first minister, on Thursday 5 November.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IlNCNXIzOUt1Y2xKRFZLbnBEYU9jN2c9PSIsInZhbHVlIjoidThYNFwvdjNaekxtSEZQeFwvRmVSNXVlNk1wQVZYejZjdCtIanJ2K3h3dnFJSXBudVpzbHUrQ0xhOFhTS3lIdE1aNzlKUjVRK0FCQ29CXC9wdldEXC9ZNlIyc3R5Sk5wd3F5QnZDSWp6VGJaRGxBUEZzUEczQVZXXC8rYlhGaW16b29vVGhOajE4R2Y2dXhodXQ3MjNKcUtpenc9PSIsIm1hYyI6IjFkYjk1YTc5MTMyMzljZjFkNzYyZmI2MWIyZWNkNDMwZTY2OTBkNzk2Zjg4NjM5MWQ1ZDk5YzI3NTY3MjczZTIifQ%3D%3D&amp;signature=60e164e960a705539c76c24030d4a3f6b3aef93cef5f0aada6819afcf45085be</image>
+    <start>04:30AM</start>
+    <finish>05:00AM</finish>
+    <date>09 November 2026</date>
+  </channel>
+  <channel>
+    <name>BBC Parliament UK</name>
+    <id>BBCParliament.uk</id>
+    <title>Welsh First Minister's Questions</title>
+    <desc>Questions in the Senedd, the Welsh Parliament, to the first minister Rhun ap Iorwerth, on Tuesday 3 November.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IlBZTm95ZVlqeFF5Q3pvMkNEdlpPWWc9PSIsInZhbHVlIjoib0FLWXRtRWhiYUM4VXo1U2JFaThyamI1Z0tjT2dsZGtCemFFdEVlUmd2amZkaWRWb3BrTzVMVElZbEMzVkZEakoxUFh2NFZuUWVtZklyb2hFUzhzcEh6RG5XdTd4aDRrWVJyZnRkVU9FQzVscGdtSDlCcUpTNkt5djhnNTdpQ1NPZ2lQcktibVFcL0xsY1RaWlZyVDZsQT09IiwibWFjIjoiN2ZmM2Q4MjY3MzY0NjQ3ZjljYmJmMTZiNWEwNGVkZDI4ZDY5MjFmYjM5NDgzNzkzNGUxYWU4ZTk3ZWRhMjRlMyJ9&amp;signature=d4e56420607874f69ec0abc78719c40ec98ef2f2b3cbcfd5c73bfb5930e23de5</image>
+    <start>05:00AM</start>
+    <finish>06:00AM</finish>
+    <date>09 November 2026</date>
+  </channel>
+  <channel>
+    <name>BBC Parliament UK</name>
+    <id>BBCParliament.uk</id>
+    <title>Select Committees</title>
+    <desc>Recorded coverage of select committee proceedings.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IkZrTzVVWk5jeE5uWUtWMk1YcE9LV2c9PSIsInZhbHVlIjoidHZWWVpOMVI5NVQyZGcxbmdNSWU0YXQyS1hiZlk5Q3QyMWFRWVRXRFJGamlpYWR2WnM0WjZXNnByYTNFWkFUXC95T0VWNDlUNVwvKzY0XC9yYm5hNlBpYXNkVHg2R0Z0RWh6TFlOS2YxdzhtME1nN04rOGRHaWR4WUFQSWVkd0h4SEhLUHhBYmpQTlo5d1ZMSG9PeXdTQlJRPT0iLCJtYWMiOiIzOTk1OGRjMmZjNjJkNjkxNGM1OWFhNzQ4MDY5YzQ1NmNkN2RlN2ViNmJkMDEzMjI5ZmMxYmYxZWUwYzc1Y2JmIn0%3D&amp;signature=36f487f47c8634d54a564bb044b9e2ca7402d18d804833a61179a3d2461dba71</image>
+    <start>06:00AM</start>
+    <finish>08:40AM</finish>
+    <date>09 November 2026</date>
+  </channel>
+  <channel>
+    <name>BBC Parliament UK</name>
+    <id>BBCParliament.uk</id>
+    <title>Northern Ireland Assembly - Communities Questions</title>
+    <desc>Coverage of questions in the Northern Ireland Assembly in Stormont to the communities minister, Gordon Lyons, on Monday 2 November.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6InlXZjZ5VyttZEE3dnNXV3pvbEJYRHc9PSIsInZhbHVlIjoiUnEyeUVTaEhSamd3aitjS01XbTdhSU94dzNGUHptNFZydDBsQmRBQVh3alhnNnV3ck1GRUdtNWVuY0pSRWNPYUFZd3lJVUxFZ1A2WWQwS2FFd2dnQ2tRT3htcFpTRHhlTGtLR20rcTRRT2VodW1RcUllZ2tQWUI0UVwvYTlOOFR2dlZHcmJxSGl5T25xRFpmdU1nZVFcL1E9PSIsIm1hYyI6ImVmN2E1MjhhZjk5NTdlYWI0MTg3Zjg1ZWM1MDVjMzI1MDRjZGE5NDNmZDUwODQxYWViMzU1OGVmMGEyNTIxYjgifQ%3D%3D&amp;signature=b80bcd28f3b9293e2ea305bff86834a5094822aac675373b05dd6142105ff557</image>
+    <start>08:40AM</start>
+    <finish>09:25AM</finish>
+    <date>09 November 2026</date>
+  </channel>
+  <channel>
+    <name>BBC Parliament UK</name>
+    <id>BBCParliament.uk</id>
+    <title>Welsh First Minister's Questions</title>
+    <desc>Questions in the Senedd, the Welsh Parliament, to the first minister Rhun ap Iorwerth, on Tuesday 3 November.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6Ijcycm9YTzNXWjJxVno4REs0UUlUdHc9PSIsInZhbHVlIjoiQjZsKzFlQWlIOXpQTjBnTzB2em9vTEl5aFwvdVwvcWMySTdUd3FCRlpXR1RXQnRPRnIwaDF5TUJwZEJ4OFlEbVhaOWhTZ2g1UkYrSU93bUFkMnA3V2hDUmRFK1wvUDdIaVpTTFE5V1E1QmZSUnR3dUZHaFptNGlWdElBaU9pSE5kUzdpdllVU2hGQWhCM3dIQWpoS3VnSkNnPT0iLCJtYWMiOiJlNzJkOTk3M2ZjOTgzNzA0NTM1M2VkOTljOWI5NmMxYmIwZTJiMTEzYTkyZjA0ODEwOTE5M2MxNmU5OTljNWEyIn0%3D&amp;signature=5213d88fed32e3bc18c6c553709721fdf6aaabf7b53420a47d10b20ac09fb198</image>
+    <start>09:25AM</start>
+    <finish>10:25AM</finish>
+    <date>09 November 2026</date>
+  </channel>
+  <channel>
+    <name>BBC Parliament UK</name>
+    <id>BBCParliament.uk</id>
+    <title>Scottish First Minister's Questions</title>
+    <desc>Questions in the Scottish Parliament from backbench MSPs to John Swinney, the first minister, on Tuesday 3 November.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6InRrRGc0TkNhblwvYkNXbUFsU2pqb0tRPT0iLCJ2YWx1ZSI6Ijc3V1I4VUltUko5T1pYU0V2VEVEN1pjTGlENHFZUU5JSDFlcmRKckdTS0dnSU1rbklhYmFVR3h3Y01LMTNjZUFPeXdVRERqR0hoTXlQUFRON3RpVUdtK2R3WTNqN3ZQbEk4OCtBR3VndGV0K3QyUGJpMkxFbVBhU1hSbXhKck14SFwvOVwvRWpTR0hSWmZobXVrQVlVbkJnPT0iLCJtYWMiOiJjZmQzNGI3ZGI5ZmMxNjg5ZDE4NzQ0NmViZjUwNDQxYTQ5MDJkZGJjY2U1MWE4MGJkOTk3Mzg4ZWNmMDNiMzcwIn0%3D&amp;signature=bf07d8324736f1f810e60313fe79b0c36826c30ab9f65f843f10222aa9136c80</image>
+    <start>10:25AM</start>
+    <finish>10:55AM</finish>
+    <date>09 November 2026</date>
+  </channel>
+  <channel>
+    <name>BBC Parliament UK</name>
+    <id>BBCParliament.uk</id>
+    <title>Scottish First Minister's Questions</title>
+    <desc>Questions in the Scottish Parliament from party leaders to John Swinney, the first minister, on Thursday 5 November.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IjdZR1AyS3ltclA2QUhcL0xId0FYVU9RPT0iLCJ2YWx1ZSI6IklGTVRVbG9MZE9OTFM4anpKRjNuZFp2YjlcL1k3Rm1cL0pqZ3pQMkg2SFdMZ3d1MXh1b1g0cTVNRGRlNk04QnFUMDhuMUZnT3FUY1FoaVVtYTl2b0c0XC9yT3dXY0RcL3RBODgxSEF3Y3JpQmIwcVBQbU1NRm9HSlhWMGxFVENNNUxCWndcL1pjSTdDQzRnTkg2ckloQWhYczJRPT0iLCJtYWMiOiJiZmU3YmY2YmI5YjgxNjdhYWUyZTc4ZWM2NDYxODIyZjJiODExY2VlYTJhOTQxODhkMWI1MDk0YTc0MzM1OGU2In0%3D&amp;signature=8259d0f8a8198a361442b088df907c408a6a0e8666e9822881bf43d7afce79d2</image>
+    <start>10:55AM</start>
+    <finish>11:25AM</finish>
+    <date>09 November 2026</date>
+  </channel>
+  <channel>
+    <name>BBC Parliament UK</name>
+    <id>BBCParliament.uk</id>
+    <title>Prime Minister's Questions</title>
+    <desc>Coverage of questions in the House of Commons to Louise Haigh, the first secretary of state, standing in for prime minister Andy Burnham, on Wednesday 4 November.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IjVyVFdiclo4WUxpbWFsSWd1WUFOOXc9PSIsInZhbHVlIjoiaDlMR0dRNWw0YTQ2YjVBSTk5VUJLM0FTdTZNYVwvNk5Ub3dFWVJYZXhkTWx2amxTMVJkYlJKZXprUWZqUXFnVU85UXRzTzA4VEpJMjdrODIxWWpya3JBc2plbXU2MHU0VzFOc1c4bGJ0NUtGWWxjUWhVaFwvSWRqdms2cFhZbFNQOE1nVnNXNWJqNHFyY1J0MkNQVEg2XC93PT0iLCJtYWMiOiI4MzI1ZDg2NDBlZDg1NjViN2NlY2EwZDdlNDNhOGNhOTljYjZiZDUwMjE4Yzc4MDkxNjQ1ZWU4ZjcxNjkwNzg3In0%3D&amp;signature=eccac33239172409319a25279c6686bdd67bda084eb721d862f206b6537d995c</image>
+    <start>11:25AM</start>
+    <finish>12:00PM</finish>
+    <date>09 November 2026</date>
+  </channel>
+  <channel>
+    <name>BBC Parliament UK</name>
+    <id>BBCParliament.uk</id>
+    <title>Live Northern Ireland Assembly</title>
+    <desc>Coverage of proceedings in the Northern Ireland Assembly, including members' statements, on Monday 9 November.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6ImxDT0R3TXlMajdJM0h1K0prTkZuTFE9PSIsInZhbHVlIjoiVTFORXVKVWdBQzQ0MFpzazkydG81bXBuRUZMdlB2OTZMZHFTaFFqUTdGWHpxUU9XQWlqYTNiUWl1NkhDbGxSY3pneERnTTNMUzR0ZGExUkFEcW56ZWhJTlp3dEc0RjNpaUI3bHlielJKZDRTREkyNEZUVk9xTkRScFUzcEdBclNpRDhxRU50NHdOS1hMMXhFb0JZOXRBPT0iLCJtYWMiOiIzMTk5MTBlMjhiOGU2MWNiYTBkYTJkOGY3OThhZGM2MTFmNDZiMmJhMzAyOWQwNDg2Yjc2NDgyZGZlNzYxZTZlIn0%3D&amp;signature=d98b762d52c7e694927e65f44e7b6773ca889417f67b1b5db746f0b671159504</image>
+    <start>12:00PM</start>
+    <finish>02:00PM</finish>
+    <date>09 November 2026</date>
+  </channel>
+  <channel>
+    <name>BBC Parliament UK</name>
+    <id>BBCParliament.uk</id>
+    <title>Live Northern Ireland Assembly...</title>
+    <desc>- Executive Office Questions. Questions in Stormont to the Northern Ireland executive, with the deputy first minister, Emma Little-Pengelly, on Monday 9 November.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IndpcXl4MHlIZTd5SkNOZ3RKYUVkY1E9PSIsInZhbHVlIjoicjRoNFJOdEZRM3VxTCtLc0ZqRlFOK2RTU05jSGM4UGVuSEV1MXExSkcwOEN4K1M1N2dhSU1hNkY0OW9COVlIOVJKZGo3dmk5Nm1UYW03ZVBRR3pnZjN4VjA4b05VRDFZVk9wRDUxbW9VSWpnajN5OWRsN0xIdVdWM3RSRTlBcFRhaktZRjlOYnNYcjBNWXcxRVgxb1pRPT0iLCJtYWMiOiI1MTEyMzU0NDI5YjhlNTA1MWIzZWUyMjJjNzliMGI0MjI5NDIxYmMxZmE4YWU5NjgwZGE4YzNjMTk1Nzc5NzJjIn0%3D&amp;signature=90de6a1e7db12aa2a4f5cbf56ab7ce5cd5d1a88d7e9799ffe1ceff2792ef44c7</image>
+    <start>02:00PM</start>
+    <finish>02:30PM</finish>
+    <date>09 November 2026</date>
+  </channel>
+  <channel>
+    <name>BBC Parliament UK</name>
+    <id>BBCParliament.uk</id>
+    <title>Live Lords Questions</title>
+    <desc>Questions in the House of Lords to government ministers on Monday 9 November.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IjZLaXNPRllqbG1kdWlrKzBtZ3pYR1E9PSIsInZhbHVlIjoiR2dNeHpoYTUzK2V1ZmpJVUEwUktEY1VcL1hqU1wvXC9UU3ZUNENNXC9NQ0xrWjIrK2l2TmFNMThhSU1yekF1NFB1ZmNPbnFoQUwyTk9RbTgzYmw2S2JweWVFN2xicll2b21wZlBkUE1KNytuS1I3TEVNU1NiXC9ZM21qa3FFcjUrV0N5TmVBb09kT3I1Q3doYW5pVHFDdURqZ0E9PSIsIm1hYyI6IjAwZjA4MjBlYzQ5MDg4YjcwZjc0NWU0MDU5Zjc0Mjg1NzRhNTcwZjEzNmMzZDUxODRiYzRkYTM5ODE0M2EwYTcifQ%3D%3D&amp;signature=da2411d9dec5a78b1fdc19f92f6b623a26f9c94f98198cba9e6de27d8996ff03</image>
+    <start>02:30PM</start>
+    <finish>03:15PM</finish>
+    <date>09 November 2026</date>
+  </channel>
+  <channel>
+    <name>BBC Parliament UK</name>
+    <id>BBCParliament.uk</id>
+    <title>Live House of Lords</title>
+    <desc>Coverage of the day's proceedings in the House of Lords on Monday 9 November.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6InFIcEc0dmNKK1RpRFVYZDdcL1wvUTNTZz09IiwidmFsdWUiOiJhSFhwQ2F5N0o5eVB3SElFZnhWcm9YdXhLUENtbGg3UkJJN1BaZU93T3o0Uis5OWhheTFLUzd1ZXk2WlJUZFROZW1wZFl5TkUzQ3oxYTJjK0dJM25mOEFsSmJsMDRwdjc5MHh5eHNUV0NOVStiYTMzWkJMQnMxK2x6MnZleTJsZ2FPVkpsYXlFdyt6YXBkbkNmbU1TRnc9PSIsIm1hYyI6ImZhYTNiMjYwZWY2MGZlMTQ0MWE2MDNkNTMwNmMyNGM5YjVlM2I3MDY2MWY3YWRjMDBhZTVhYzMwZmFkMGQyZmUifQ%3D%3D&amp;signature=1476869a58e69daa53fb3951f19bce614d808b7cef5a4efcb4c35835bd990ade</image>
+    <start>03:15PM</start>
+    <finish>10:00PM</finish>
+    <date>09 November 2026</date>
+  </channel>
+  <channel>
+    <name>BBC Parliament UK</name>
+    <id>BBCParliament.uk</id>
+    <title>Northern Ireland Assembly -...</title>
+    <desc>Executive Office Questions. Questions in Stormont to the Northern Ireland executive, with the deputy first minister, Emma Little-Pengelly, on Monday 9 November.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6Ik9RTlJ3emlYY0lVT1JRQllJSVFuQmc9PSIsInZhbHVlIjoienNLcFd5ZHhwXC9MdWhHTUlYeHNjUStuQXFqdlwvZXBXN2dUS0I1eXIwbTdmWm9pRHVwVUVQckg3NlZxd2NZY3l2dkY0MFVHaTdBc0x2MXFma2g2NU5tNHlGRjRPeFRnUmI1ZFo0RlhIS3k0cVBtM2FtSUNjWXVycDhYdTh0d3E4TmtDMHRwb2YxdVwvQ1JBWXJJczRZUXpRPT0iLCJtYWMiOiI1NjI1ZjY5YTA2NTJmMWY1NGQ4OTk1ZDZlNTE4NWI5MzE4NDUzN2IyMTQ0Y2FkMjVhODJhYTVhNmQzMDdlOTg4In0%3D&amp;signature=9c459c4d8c310ecadd3b7cc52226556a51238a925f69294ba1dcb26e740a24d7</image>
+    <start>10:00PM</start>
+    <finish>10:45PM</finish>
+    <date>09 November 2026</date>
+  </channel>
+  <channel>
+    <name>BBC Parliament UK</name>
+    <id>BBCParliament.uk</id>
+    <title>Lords Questions</title>
+    <desc>Questions in the House of Lords to government ministers on Monday 9 November.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IlwvdHA0OThMMlFoSFhpSHVhZ1E0bnNBPT0iLCJ2YWx1ZSI6ImYrcWN4SWhDRnlCdmNTSGgzbXMwUkd1b0JQR2U2RXg2dFM5UDJkTFMrN1BVTDBtZ1VZeVlWRExTaVwvekJyQ0ZwZUhUTHJBcUk1b1oyYmw1RTRNZFJyWWdkeVR2bmtPQ1diZkVRQ1JGa1k3STlPNzg3MlJDZkd5THo5VWE3Nmo3WlA3Z3J3TnlzNEMwR2w4UnRnRkFXc2c9PSIsIm1hYyI6ImU4NzFhMzhkNDk2NzQ5M2JjYzEzYTI1MmMwMDE3YzkzNDczZWJmZDgzOGEwMDViYjhhY2YzY2U0ODBlZDdiZDQifQ%3D%3D&amp;signature=a9d2b11220d40e27b5eaa33ab135caea48395acb1c494fb2b8aab315bb91824e</image>
+    <start>10:45PM</start>
+    <finish>11:30PM</finish>
+    <date>09 November 2026</date>
+  </channel>
+  <channel>
+    <name>BBC Parliament UK</name>
+    <id>BBCParliament.uk</id>
+    <title>House of Lords</title>
+    <desc>Coverage of the day's proceedings in the House of Lords on Monday 9 November.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IlNWblhXdGRBOWFmdE1zSiswRnVIY0E9PSIsInZhbHVlIjoiSktuWnJJVXc3aHhRZkVyXC9VZXpYaGtkcFBWd0FhNzZtZGl5RTlFcVZxb1FsT09Ya1FWQXNwZ1E3Z1ZxdVgxXC9hYURuWmFVXC9Dclg1OVQrZlIwMDJnRXQ3UDZTd2wyRFdRdU1kcHg1a3JtRmRSb2VWd05OWnAxRWdodWc5UDdSWUVkUjNTODk5aGNqMUhzODE0Vk92QmVRPT0iLCJtYWMiOiI0MjdlYjQ2ZTkwNjM0Njg5Zjc3ZmYwMjcwMDFiZjY1MDY2MDUzNmUyMWM1MDkyNGQyOWMxMjUxYTExNWU3ZDViIn0%3D&amp;signature=c9b4167a6fa54ba40ecb23dc22e76d8a9524244df6dd102299ea318b8aa76ee6</image>
+    <start>11:30PM</start>
+    <finish>06:15AM</finish>
+    <date>09 November 2026</date>
+  </channel>
+  <channel>
+    <name>BBC Parliament UK</name>
+    <id>BBCParliament.uk</id>
+    <title>Lords Questions</title>
+    <desc>Questions in the House of Lords to government ministers on Monday 9 November.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IjhpZUwyaVJjWmdiQjBwOTRcLzhNUm13PT0iLCJ2YWx1ZSI6ImhUcllXSnZhS2RrZGZPZDNWQTBVQjQ3YUxzYjhcL2swS1RaUnNHSXJSUklXWERFVG00U254aGIyViszWnlGeVNaTUYrTHg4QmhDbmhiVE5peXFmZ05LZWNCOXg2WTlzWUJ2ZEpBK3ByVDhiUkMzKzIyYnFxRUplaHhjRlFWaWRPWmk1b0U3YVZ0UGpjN3pkbEh2NTNvUEE9PSIsIm1hYyI6IjNmMjYwMjMzM2NiNzgwNjE1MWNlNjE2YTExY2VkOTRjZDQ5YmEyYTg3ZTk0NTg0ZjhjODExN2EyM2E0OGJhMWUifQ%3D%3D&amp;signature=732887a11c92b78b2b40b996f9034a93d3e9bef74ba4f2e39a42c3c11201f3e3</image>
+    <start>06:15AM</start>
+    <finish>07:00AM</finish>
+    <date>10 November 2026</date>
+  </channel>
+  <channel>
+    <name>BBC Parliament UK</name>
+    <id>BBCParliament.uk</id>
+    <title>House of Lords</title>
+    <desc>Highlights of proceedings in the House of Lords on Monday 9 November.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IkV4RTJCUVwvNHNmWVhmZXpWa1JWY3JRPT0iLCJ2YWx1ZSI6Im1NWVFOOE42NzdhMDNtanQ3bjg3a2Yxcjl5T2J6eEExUjdSWkpBSnF6R3J5ZzlSTUcxbmJqNks5a0RRM3NzeUI1RndZQ2tIWm5oU3UzdmVKR0REWkJRemFFMkxFZ2lEaTBLSWV4QkRFY3Zra0lpKzNQeTNZdUFETERNZXJwbU84ZkRjcXdcL2h0UG5QQ1JsbzVoK0hQR1E9PSIsIm1hYyI6IjdjNDI0ZjQwZDdjYWJlODMyZDg5ZWIxNTY1NTJkZWM5ZTdiYmFmNWVkMDJmZjVmMGVmNDBjODk5NjQ5N2QzY2MifQ%3D%3D&amp;signature=5e1df03b7e6d61c548c30d85cd1b7ede92d0f3d27020a874815f376790e53378</image>
+    <start>07:00AM</start>
+    <finish>08:45AM</finish>
+    <date>10 November 2026</date>
+  </channel>
+  <channel>
+    <name>BBC Parliament UK</name>
+    <id>BBCParliament.uk</id>
+    <title>Northern Ireland Assembly -...</title>
+    <desc>Executive Office Questions. Questions in Stormont to the Northern Ireland executive, with the deputy first minister, Emma Little-Pengelly, on Monday 9 November.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6InVLbVJlWDBQWUN0Q0h0RmlxMHZaZkE9PSIsInZhbHVlIjoic2F1YWp3bFpZcTZVRmt4SlJ5YjhsYTUrUW1zcHlWUHdOVnJaeDJSZXJZVWFRZzFpZXhIVkpqdFhtSjZSbVA5WlFDMWVEMG1hdUtOQVlrSm9CcEVPSUhIMnlsTU52Nm0zaUNqVyt2b0NZU2taZzhaZ25tSzhzMm9NbmMyTW1zRG9aQ01abG1rc2FIQ2xZTmVEK2xta21BPT0iLCJtYWMiOiJmMjY3ZTUyZTdjN2M1YTYxODQ1YmNlZjFhNzliOTIyNjdhYTdhNGE4NmQyY2ExYWY4NDgwOTIxOTIwNzk1NzMwIn0%3D&amp;signature=5aebdd375fd6d2a8c6d334dc070a45d676d4bdb28035bd65abd5612d9803a798</image>
+    <start>08:45AM</start>
+    <finish>09:30AM</finish>
+    <date>10 November 2026</date>
+  </channel>
+  <channel>
+    <name>BBC Parliament UK</name>
+    <id>BBCParliament.uk</id>
+    <title>Live Select Committees</title>
+    <desc>Coverage of select committee proceedings on Tuesday 10 November.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6Ikg4eDI5N2l3OW5mbFJGNWNuRG1VNFE9PSIsInZhbHVlIjoidEtTbG5JTHdiQUxHcGtpT1lmaUY1U3ZIWnZ2dUVwZzYzaUkza0NcL09tbEgwNzNnd1wvSHNzYWxPTUttN2JUTE9GS1Q0c3JRSW9scjZNb3o4azR0TWo0WEtvcmI3TFZ2NWUrYTZrQ3JrdE92Sjd5OWRHcGhOcXo2dnZwZ2lEajJZWHBIVXJlZ3VndTVmY3R4N0VCMXpMa3c9PSIsIm1hYyI6IjdjZmRjMzA4MmY0YjM1NTI5MjdiZmI5ZGQyNWE1MTY5N2EwZDg5ZGMwODc3YjIwODgyYzk5YmMxZTc0OWYyMjUifQ%3D%3D&amp;signature=51a91e1c82f3a3a2196000e38fa129d9c21a3a59949e9cbe7ec0ad25884899fb</image>
+    <start>09:30AM</start>
+    <finish>11:30AM</finish>
+    <date>10 November 2026</date>
+  </channel>
+  <channel>
+    <name>BBC Parliament UK</name>
+    <id>BBCParliament.uk</id>
+    <title>Select Committees</title>
+    <desc>Recorded coverage of select committee proceedings.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IlJqUmtLZWVqK2loZ2tJb3FEU0JBXC93PT0iLCJ2YWx1ZSI6IlFYNEs3b2hQY2hRZExmSlJJXC82Z3pLZmpyYXlsMjU4MDlXU2d6Ym9BaHV5OVZHaWUxanc1NGR5U0xjSXVtb3g2WVVubzNcL1ZkZ21abzZNMzBZUG9GeFFWTXo1THd2dVZiR3BtdllMSDRUc1dcL2hhKzR1UnB3aXJHRktHZDB6YThGU0ZLeGxcL3YzaUJjUWtqSkFzWDMwMHc9PSIsIm1hYyI6Ijg5YWYzOWVmNjM0NzlmYzg1NzA3ODdjODRjYWJlZTA4OTRhZDFhMGU3NDQ4MTJlYmFhMzk4NmMzYjkzZjEyMTUifQ%3D%3D&amp;signature=34d38674fbfa9c28fda47041e01d305352966c6516deea858838e0e15ab9bf65</image>
+    <start>11:30AM</start>
+    <finish>01:30PM</finish>
+    <date>10 November 2026</date>
+  </channel>
+  <channel>
+    <name>BBC Parliament UK</name>
+    <id>BBCParliament.uk</id>
+    <title>Live Welsh First Minister's Questions</title>
+    <desc>Questions in the Senedd, the Welsh Parliament, to the first minister, Rhun ap Iorwerth, on Tuesday 10 November.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IlFLM1pzajF2a0M4b2Q5eDl3dFd5cVE9PSIsInZhbHVlIjoidmpuTDFWcWFpVmE1aU1PMUo4c3FqdEtGbHB5WFZSbjRCbmJwWWJSa0F2dnhRR3ZcL0VTQmtwcW1IV2c3RXRwSnRjMk1SZUh5WmZXSldlZEl5aG1DalwvS2NsVzFib3ZJVmhXV0NvWkUzMFZXNHFCVmFKblBQSngyOWtSMTBYWE5obzRKc2tnQWNvb3JOQXZ5RTM3T0VzU0E9PSIsIm1hYyI6IjQ5MGQ4ODFiODY5OTVjODBhMmU5YThjZWFjOWE4OWQ3MmJmNGY2ZThiM2E1YWNlNWM4N2JjNTg4OTA2NzEyYTYifQ%3D%3D&amp;signature=fd8e607eebb2dc60512599cf5c52b5bbf48d4754fd9f83dfc065968f2d00d6de</image>
+    <start>01:30PM</start>
+    <finish>02:30PM</finish>
+    <date>10 November 2026</date>
+  </channel>
+  <channel>
+    <name>BBC Parliament UK</name>
+    <id>BBCParliament.uk</id>
+    <title>Live Justice Questions</title>
+    <desc>Coverage of questions in the House of Commons to Alex Norris, the justice secretary, and his team of ministers on Tuesday 10 November.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IkFlSmJrRW9uZEJzd2tqVGE1N1k2TWc9PSIsInZhbHVlIjoicVJnZzhPYlwvUWNWMzNkR3NUS1V6N29IMklRdTRYdWZRQnNqdlVSaWJIR0lycUQyTVpxT1lNbVdKMUxGKyttTWR5NXBuT1wvb09Lbm9RdzhuR09IUktZaHc3UGhBcEh1Rk13Nm9qZ1wvZHpZdUZkU3VoRHo4ZWFHQ0RsTGdGOWdVR3psQ21OdmxyZ1J3cUQ0TjFYZE5qUERRPT0iLCJtYWMiOiIxMDk3YmRjZGQ2OGE1OGRlODVmYzY3MTkyOGRkZTc4MzIzMzg3NjAzNzFlYmE0NDZkNzdjNjQxOGQ5MDU4NDAyIn0%3D&amp;signature=71f2942f4f8734b52d4650d66ad5fd15d25448031f579ed1f9e4e18ff4952cc9</image>
+    <start>02:30PM</start>
+    <finish>03:30PM</finish>
+    <date>10 November 2026</date>
+  </channel>
+  <channel>
+    <name>BBC Parliament UK</name>
+    <id>BBCParliament.uk</id>
+    <title>Live House of Commons</title>
+    <desc>Coverage of the day's proceedings in the House of Commons on Tuesday 10 November.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IklESldyQm8xUXNiY1ZEYWJnK1ZSb2c9PSIsInZhbHVlIjoibjdiV1VnSjZMT0tKNTFcL3oyRldab2ZiemY0NTlnb05oY254SGhvY0tZQkhmbEJZMDNiZlh6WFlEeER0cXBxcFBDNkplYUdTbkxydVBOQzNJa3BnaG9TNXVqTGZpZStCaUV1RVNFTmNuaDNlMEJQbkJ2VGsyeFNUdmI5Q24zMURkeUZwSVBtMlJVdjYxNlNmK0Fidk04UT09IiwibWFjIjoiODY2NjQwYmFkNmIyMDFlZjNhYmYwYjY5NWQxNmI2ZGE4Nzk0YjFhYWIzZGViZDZiMmI3YWNmNGQyZTI5NmM2OSJ9&amp;signature=4a2ea345412d1c091b98f5e1f71ceab439ec284da6d14154cd142800379624ea</image>
+    <start>03:30PM</start>
+    <finish>10:30PM</finish>
+    <date>10 November 2026</date>
+  </channel>
+  <channel>
+    <name>BBC Parliament UK</name>
+    <id>BBCParliament.uk</id>
+    <title>Welsh First Minister's Questions</title>
+    <desc>Questions in the Senedd, the Welsh Parliament, to the first minister, Rhun ap Iorwerth, on Tuesday 10 November.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6ImNjYUsxOXJ1dWM2bEpmeUFYTFU2bVE9PSIsInZhbHVlIjoiMlJEeEp4R0dNdElTRVJLeDBvbVVIeThqWW9WRm1QbzRteDFwdlRCaXV4NGZ0MHlib3pFZ3pjUWJ6YWt6MjhqdGtHcVkwSVM5aWg3blhNbDlFU25iSG5QV0xpKzBlN24rNzhGZnpLOFdRMEU0cFY3ME5DcEFDdjBNaE5cLzQ2K21VcWJ1NkVKTk1ORmQ2dVNuOWhmek53UT09IiwibWFjIjoiYzQzYjA5ZDRlMWNjM2UxMDk5NWExNDgxZGY5MmFlMWZjZWFhMWRlZjhlNmM3ZTE5MDdmYjAxMTc0ZTE1ZDc4NyJ9&amp;signature=51d3bac04b1e6296c6f66a0e8611c5aec6cf05fe0f1ae8c9a294dc64e3564d3c</image>
+    <start>10:30PM</start>
+    <finish>11:30PM</finish>
+    <date>10 November 2026</date>
+  </channel>
+  <channel>
+    <name>BBC Parliament UK</name>
+    <id>BBCParliament.uk</id>
+    <title>Scottish First Minister's Questions</title>
+    <desc>Questions in the Scottish Parliament from backbench MSPs to John Swinney, the first minister, on Tuesday 10 November.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6InZsZ2FhWFlaOWtINEVFWjE2Y2dGNVE9PSIsInZhbHVlIjoidlNEMEM3azhERDl1SnBsNUJUMlNOenRsa0YxcTd2UEJGR0I0QjlMdm41Q2djcVpSOHl1XC9rZVN0SUFHMEh4NzNWZkVPQ1BOZEdncGw0cnVhM2NQXC9USEYzWTVqU01CZllYejhyXC9OTko4UWZSaVhycjdxMUs0NzR6RFpcL3hTd2dBbkJXTnA4cmtpMnljckdGTjFTUFY3QT09IiwibWFjIjoiOThlYTdlNGFjNzA3OWZkMjg1ODgyZTcyYjcyZGZlOWNlMjI0ZGYxYmNmMjgwYzU4Zjc5MWZjZTVlNDg3MzAwZSJ9&amp;signature=79d5cd1f635c2c335d7bb6743df8d1e6554289e93fa176e4e44a61fbb227c8bd</image>
+    <start>11:30PM</start>
+    <finish>12:00AM</finish>
+    <date>10 November 2026</date>
+  </channel>
+  <channel>
+    <name>BBC Parliament UK</name>
+    <id>BBCParliament.uk</id>
+    <title>Lords Questions</title>
+    <desc>Questions in the House of Lords to government ministers on Tuesday 10 November.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6InFZSUc4ekJOb25DS012OUN3K1FmNGc9PSIsInZhbHVlIjoiSVVCbG9QZWJoeFJFXC9KVmZCSFh5S3FiNlBLM2R2dWQ0SEJcLzNTWmhjdkErck5vcTljOHpMOFRZVzlLUFl1SjRjMmgzanFiWXNyYU0yZVF4bXAzSnE1czRnUGh4MlFoc1BpSURBRnMwT1VGSlBWbmMwZkFYWVBJcmk3MmZuK2hGY0ZcL09xOTFUd0gyUU5ZZVIzdzNCRVVBPT0iLCJtYWMiOiIwZjc3Y2Y5NGNlZWNiOWExNDFhMmI5Yzc4YzE5NDVjYjA4YjBiMTk3YzhmYTk2ODNlMzNiZGZjZjY3NjNkZDAyIn0%3D&amp;signature=155a8aa77784688d9e55ecc68d1163c9c3f0eca6866add162e43c5129cebcca2</image>
+    <start>12:00AM</start>
+    <finish>12:45AM</finish>
+    <date>11 November 2026</date>
+  </channel>
+  <channel>
+    <name>BBC Parliament UK</name>
+    <id>BBCParliament.uk</id>
+    <title>House of Lords</title>
+    <desc>Business in the House of Lords on Tuesday 10 November.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IkdYemg3a3NZd0VxaGxrN3pZRGdkYnc9PSIsInZhbHVlIjoiZXZKYVwvN2hlcFRJUzdUN1kwR3YyQzU5TEVsbUFLMGI4RTZtUWVnRk85UFMxYmx2MTVweHg1OXUzbHFTVURcL1Vydlwvb21HNkFTS25CdW5EV3ZySk4wcEJybnFNZEFwRzJLZXZRNjJrTHpVRERoRzhRNkRUZkM5Ujk0ZkR4VUg0SXBVcDdZNER1eGk4THB5elwvYUNDb1F2QT09IiwibWFjIjoiYTg4YjcwMjNkOTEwNmVlYTIxMDM1ZmVmYTkyYzhiMWQ2OWZhOGM2YzZjOWRlN2Y4NGM0NTI4MTk5MGQzNjNhZSJ9&amp;signature=a5086cdcc17f31e58efec31aa7a20f36b40699c6f8e37c9b8593ec3eebee3063</image>
+    <start>12:45AM</start>
+    <finish>07:00AM</finish>
+    <date>11 November 2026</date>
+  </channel>
+  <channel>
+    <name>BBC Parliament UK</name>
+    <id>BBCParliament.uk</id>
+    <title>Justice Questions</title>
+    <desc>Coverage of questions in the House of Commons to Alex Norris, the justice secretary, and his team of ministers on Tuesday 10 November.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IkdDa1FRK0JkU1RldjlhOUJxS281d2c9PSIsInZhbHVlIjoiTDZicnM5aVwvMHFzd2VwczZLQXBBNDJ5b1JHUmsrbFNcL1Q5c0t2b2NiYjFiY2pPS3oxMzJRN1BcLzVicnVCdkhlSm95ZEhydmZDUUZUXC9MNWFqZzY5U3JRVnAwb0ttVHN3NzVHWXJYYnZsYlBoeXJSb3FHZkdCZ0Y5YUdlNE01ak4za3RIbHp1MTg5eE9RMzBxRkx1bFFJUT09IiwibWFjIjoiYmI2ZjY1NjE0MjVkNjRlZmMwMjE5ZDljYjFhMTllMGM3NzEwMzNjMTk5OGQ1NzliMGZlYWQzYTgxMWY4YWM5NiJ9&amp;signature=505892e6e024c47c215989696954f8588934f497ff340c99a98e16a8d023ae6f</image>
+    <start>07:00AM</start>
+    <finish>08:00AM</finish>
+    <date>11 November 2026</date>
+  </channel>
+  <channel>
+    <name>BBC Parliament UK</name>
+    <id>BBCParliament.uk</id>
+    <title>House of Commons</title>
+    <desc>Highlights of proceedings in the House of Commons from Tuesday 10 November.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6Imlkd3VNWWpoNVluaU9CajdxWCtDM2c9PSIsInZhbHVlIjoiY2JYeVVacTRQY21XNG56eVwvaG9oRkhjOTU0eStwVjJ2N0cxT0xrbHU1RnhiU0pheVFNcFlvYm5EUGNLQUZXYmZVM1kzaUs4XC8xYWNKQllScll4cjI5bDQ4ZiswcXJqTHRucng2RGJ1eVZSelllcjZ4WVhrZWcrRlQ3NTRuUHhKcWV6c2RWYWhwK1JVSFwvaEZiK0Y3ajRnPT0iLCJtYWMiOiJiYTUwNDMyYmEyODBjMjZjOWM0NWVjYWIyYTE4OWYzNWRmOTE4ZDg3MTRhMWJhMWFhYzQzNWZiNDY5YzA1OGQxIn0%3D&amp;signature=9e8d310b1ed8aedbb9a4d183254ef4d8aa53051147f8c4888fcbe0c0d4026066</image>
+    <start>08:00AM</start>
+    <finish>09:30AM</finish>
+    <date>11 November 2026</date>
+  </channel>
+  <channel>
+    <name>BBC Parliament UK</name>
+    <id>BBCParliament.uk</id>
+    <title>Live Select Committees</title>
+    <desc>Coverage of select committee proceedings on Wednesday 11 November.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IlVMWDlONzBzbzJwM0V2NnB2U2xjN1E9PSIsInZhbHVlIjoiTHlaS3U1cEhyRXlNRkRURTNcL0NEM0tURlh2N1R6QXZMS2F4bG1WVW1XTThpNXNpNUo2UFhDNmpMRFwvUlZRRjB6TndnOTdiZUhIWjJzclViOHNjZFZoaHVIaEhrOFNBXC96Ym9NUGlLTUhyMXVpWkRQUGgwT3djVm9MN1J0cmFhM1pSU3pub2lWNms4dEczb1dkeVRBOThRPT0iLCJtYWMiOiIwMzE2ZThjM2I5NDU2NmFiNGE0YTQ3ZTk0NThlMGE5M2JjNjY0Y2ZmMDg1YWIzYTA5YmIyODQ3MmNhN2YwZjBhIn0%3D&amp;signature=5992fbec8eb87e680a6151447d49d362f7641a6f27cc8268e25a1e27709fcfc4</image>
+    <start>09:30AM</start>
+    <finish>11:30AM</finish>
+    <date>11 November 2026</date>
+  </channel>
+  <channel>
+    <name>BBC Parliament UK</name>
+    <id>BBCParliament.uk</id>
+    <title>Live Women and Equalities Questions</title>
+    <desc>Coverage of questions in the House of Commons to Bridget Phillipson, the women and equalities minister, and her team on Wednesday 11 November.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IktlK25xZUx0UnZuSFBUdHVQU1JZS1E9PSIsInZhbHVlIjoiNmdNVkhjMENmRG8xdEpKQ1hEbjFTeUx3VStJUzhyaHN6dktsQXlKY3BVMkoyTGVHcHFEZUcrU0ZcL2Z3TWJJdEZTdDdaNGhadFp1bzVTTDRsNkNQcmRoQ29qOXduRDdYVjh1TEh1Mkc5S3BVNDdOa3lDRzlsK0Z2cmZ1aUVDSllFSDE2MmMwT21MTnpBbmJ5bGdTcnQxQT09IiwibWFjIjoiYTNiYzliNzZiMjgzM2I5MThhMTk5YzM3YmJjNjc5M2FkZDE4Njk5NTk3YzJmMDFiMjBhNzg0Y2M5Nzk2ZmRlYSJ9&amp;signature=b19eb2ca01bf203899c54fc679b8b7c544eac5155bb7e67e6d6417096f69ab51</image>
+    <start>11:30AM</start>
+    <finish>12:00PM</finish>
+    <date>11 November 2026</date>
+  </channel>
+  <channel>
+    <name>BBC Parliament UK</name>
+    <id>BBCParliament.uk</id>
+    <title>Live Prime Minister's Questions</title>
+    <desc>Coverage of questions in the House of Commons to Andy Burnham, the prime minister, on Wednesday 11 November.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6InlNMEtyWlppeU5FMVJieFdnRVYzZFE9PSIsInZhbHVlIjoiem5aU3cxUmVsSUpLVENGdWJZRnIwblJFeGhCN0xtUEphK0FlekgyUmxaVGJic3lpSXZWVU14dHlvTFpBMXdDZEtLYzgyM01Sc3lhcUdOcHk5b3BoNlg3Vm9RVjR6ejFTTWJldTdXZVhRRjA4MGRGRFdYUEEya0oxaElHSURZaUUza0lVYTlKTCtPelVIeDdWcXpiMkdRPT0iLCJtYWMiOiI2OTk0YWUxYTBmNzNlNDgyYmM3Mjk2NTc0NTBiN2ZiMjlkMWIxNmIzOTVjNmE4NDg2ZTdkNWQ4N2VjNDZkMDRjIn0%3D&amp;signature=8a67ea32d43042c0b693d07684ec9185f2f95449bc6baf400ab88b89fdbaa3a0</image>
+    <start>12:00PM</start>
+    <finish>12:35PM</finish>
+    <date>11 November 2026</date>
+  </channel>
+  <channel>
+    <name>BBC Parliament UK</name>
+    <id>BBCParliament.uk</id>
+    <title>Live House of Commons</title>
+    <desc>Coverage of the day's proceedings in the House of Commons on Wednesday 11 November.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IlQ1SWo2V1N1c0lcL0M0ZnhRMWhmcUR3PT0iLCJ2YWx1ZSI6IjhUOHZoVEIyOWtQaUFldmkyTDZnd3BDdnpSVGtjK0ZyS1wvVE8xZ3g3ekV2bkFZak1RblkxT2pmTjNzMUJwR09nXC8yT01oQmVrZEIyRHBzbWV0K25MZnQ4c09mRlRJa2Nxd0lDREtLNXlwd0NySnlvOUNGS1dabHlaeHBMR3Z1a3U4OEJ1RUNySUxrNnJ4Rno5b25Wc1lnPT0iLCJtYWMiOiI4OTE1NDEzMzQ3OTczM2JhMWQ0M2JhOWJiNjIyNTI1MjQ3YTAyMzBiMDhlOWQ5Y2U3MmFhOGRjOTc1NmMxYzRjIn0%3D&amp;signature=96b3f56d14eced8563a3ebf2edff0c25d2ac173ea7e62a330c186aa4975970b3</image>
+    <start>12:35PM</start>
+    <finish>07:30PM</finish>
+    <date>11 November 2026</date>
+  </channel>
+  <channel>
+    <name>BBC Parliament UK</name>
+    <id>BBCParliament.uk</id>
+    <title>Live House of Lords</title>
+    <desc>Coverage of proceedings in the House of Lords on Wednesday 11 November.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6ImtIeGkzV1J2ak1zSXhoK2NFdDhCUFE9PSIsInZhbHVlIjoiZDJhU09rbEozSnJpTzZYa3E1Wkt1UERXWTJ0TmYzdnVNZVhKWDlyNHMwY1ZhMCtlWTZRK1dSbytuVkVicmNWdmVRdFExMGxObFppdzhuckVyNnltUCtMYlwvQXV5MytXdkhKOXpXaWNEQ3ZVNXBaVkR6blFQc3VIOVVYSXlvMWJVZWZnS0xuQ3V0VGVqN3dvWXR1MDdCQT09IiwibWFjIjoiZGFmNjA2OGU4YjZhY2JmMDgxYWQ4MGJmZTI3NWJhMjc5MzkxMjNiYzQwNDFiMTVmYjljYmUzZGFmYmQwZmJlMCJ9&amp;signature=d8363e3c1db094db8de1699278bf2d242e3f36fd77dcf50c716a6a1e2871a262</image>
+    <start>07:30PM</start>
+    <finish>10:00PM</finish>
+    <date>11 November 2026</date>
+  </channel>
+  <channel>
+    <name>BBC Parliament UK</name>
+    <id>BBCParliament.uk</id>
+    <title>Prime Minister's Questions</title>
+    <desc>Coverage of questions in the House of Commons to Andy Burnham, the prime minister, on Wednesday 11 November.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IkRzSGNFNTE0Z0xVRnRZMjExRWQ1cEE9PSIsInZhbHVlIjoiWjJ1cHRiZXhQcnFKeE5XWUdFSjhocWdkbnZ4azVra1ZrTklUbG5ndkRwVTV4M3ZNT05hSVlQQ2ZMc3lDcnBhQmx0VlNcLytCODE0bE13REdrb2ZkVmV2bW1lVXlLd1NYRnF3aGgwVXZHVlJaNUR5TkRReVN4QjFDYnRCM0c5TmZqYVBrdys2RFZIRVRTXC85eWxkVjRQM3c9PSIsIm1hYyI6IjRlNjkzZDEyNWVhYWE0OTkxYzk4ZjE4NWUzYjEwMzAzNzVmOGJkOGZhNTc1NTA2MDBiOGViZjE0NTNkOTk0MTYifQ%3D%3D&amp;signature=ab31f486a51d7392d9ee121f8db49272a2d8d028e588a7aead1101ee8d9ad569</image>
+    <start>10:00PM</start>
+    <finish>10:35PM</finish>
+    <date>11 November 2026</date>
+  </channel>
+  <channel>
+    <name>BBC Parliament UK</name>
+    <id>BBCParliament.uk</id>
+    <title>Lords Questions</title>
+    <desc>Questions in the House of Lords to government ministers on Wednesday 11 November.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IlpYS3AxT2RZdHhsNDJqME16Q2UzU3c9PSIsInZhbHVlIjoiUktCVVgyZUllZWhvYVlFdlwvN00rZnF0QlwvQW01b0hndG83Skp3RHVqaEpPclg4TEJNNjVQZERBbXJFK2dJb2JPSWh4cHRFUWh6ZzJvdGV6Y0tQOWtMNHdDVFNlQlN1OHBYTzVwclNaeCt3dHRhRXdvNVdXN0tWbzBObTJ4cFJrdEVBTHJWRFR5ZjMyY0ozT0VFaHFwUXc9PSIsIm1hYyI6IjQ3MGY3NTJiZWUzYTM3NmU3NGMzNTU1Mjc4ODYyMTAyZjEwZjkyZTUwOGZmNDUzMmRiN2VmNjFmZjllODlkYTIifQ%3D%3D&amp;signature=04aaebb34593b66bc4aab93357a6fd0bffb62cab612107abbad450e2f9c4c3ae</image>
+    <start>10:35PM</start>
+    <finish>11:20PM</finish>
+    <date>11 November 2026</date>
+  </channel>
+  <channel>
+    <name>BBC Parliament UK</name>
+    <id>BBCParliament.uk</id>
+    <title>House of Lords</title>
+    <desc>Business in the House of Lords on Wednesday 11 November.[(96057)] </desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IjFvNUE0djhcLzlQRU9CbVVFQTdKXC9lQT09IiwidmFsdWUiOiJnMEU3bkNyUjVEZjlsaGJDV2hpdytsaVp0bjhWMU9IWjJiNUwxTFwvRk1wR0FNbWdRWmc3RUJvaDBTT3RFd0NWKzJGT1BpRnhiTHRVNWNXYjJ0ajNkVVJpbUhzSk40c3RPRGF4YTJhSDMrNDdNT3pKMzN0ejdNTHFtU3dIY1NYM0NzXC93YldhS2xBS3c1UWwyV3BrQ1NUUT09IiwibWFjIjoiYjgyODk3ZGIyNDlhMDdmOWU1MjY1M2RiMmRhNjgxZTI4YmFjMzU4NmRlYjNjNDUxMTNlNzZkZTQ5YTY3ZWQyMiJ9&amp;signature=862c910bda8f819b4d9dad908754da17bfc5e9385d4272e5a18d96c999c98ffa</image>
+    <start>11:20PM</start>
+    <finish>07:00AM</finish>
+    <date>11 November 2026</date>
+  </channel>
+</tv>
