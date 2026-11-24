@@ -1,23 +1,925 @@
 <?xml version="1.0" ?>
 <tv>
   <channel>
-    <name>BBC One NL</name>
-    <id>BBCOne.nl</id>
-    <title>Scam Interceptors</title>
-    <desc>In this celebrity special, Denise van Outen joins the team as they fight back against the scammers targeting the UK. Joining presenters Rav Wilding, Nick Stapleton and reporter Harleen Nottay, Denise tracks down the scammers trading on her name to con people out of money and helps victims pick up the pieces after their brush with the criminals.</desc>
-    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IjNwdHh0SE5vMlM1M3dXTW83T0xBOVE9PSIsInZhbHVlIjoiUWlSV3BpdmdYVlppNjVYZStrU0d0Y1U4RzNmcVZ6c3lcL0VuR2tCUFQ3bVdEV2QwWlpZWVRzK2x0dCtWMzlVN1c5cHB5SFUyNzFGUWI4UjA1bmNBQjFGUjU3VGZidzlGVTl6ZmkwNGY4TGV4NUhrdHN6T0hyOGR6V2RONEV2djJaM3NrQXZwaFhyWHIzMlY2Y3UrRVNFWVhwNXp6aG5xcEhvZUlJVlpxcitVUXJLK0NPbXpoRWp0NlJyOEtvR29TeiIsIm1hYyI6IjU3MTM3MjQ1ODVkZDg1YWMxYWRlMDg1OGZjYzc5Mjg5MjY1ZTU4ZDBhNjhlM2U1MTY3OTczMmFjYzcwYThkYTYifQ%3D%3D&amp;signature=77da60386a228d825901d42946e0b279161769f2264eb4bdf8bfe8c8fb4d7f0f</image>
-    <start>02:00PM</start>
-    <finish>02:30PM</finish>
+    <name>ABC AU</name>
+    <id>ABC.au</id>
+    <title>ABC News At Noon</title>
+    <desc>The leading news at lunchtime. Melissa Mackay brings you the day's top stories and the latest news as it unfolds, with reporters in the community across Australia and around the world reporting on the issues that matter.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IjB6U3RScmg3amxZMnFZWXFaT0p3NkE9PSIsInZhbHVlIjoibkJCYVQ2V2pPZVpzM1BBak9Qa25rR2lHelFSTzhaYjVHamFWNk9cL2c5S3RRUncxYWIrbTVTUmFvUVhndnp0MFh0VGNlZFhMY0ZzRitOTVNHQ1VldEk3ZEpMTEhWaG1HNG40OW44VXhvV01mS0lqOFlhMFk4azFlQjJxSjBEK2pnVExOUVBjQ1JyRzE0VkRodUJiV0xudFIzZXEzeFlkblJpN3VsSEpWOG1WWT0iLCJtYWMiOiJkZmU4MzZjZDc5YjhkNDc2MTdlNDBhMjg5ZjMxZjM4NDQxZWM2NmI4ZmM5NWU2NzJiMzc3NTIzOTQyNTg5MTg5In0%3D&amp;signature=81c44fa32fac4665931ee169f1ae77c39894d03c478d0d83fdd8e5d7144cbaaa</image>
+    <start>01:00AM</start>
+    <finish>02:00AM</finish>
+    <date>24 November 2026</date>
+  </channel>
+  <channel>
+    <name>ABC Comedy AU</name>
+    <id>ABCComedy.au</id>
+    <title>ABC Kids Programs Resume At 4am</title>
+    <desc>ABC Kids programs resume at 4.00am.</desc>
+    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
+    <start>04:47PM</start>
+    <finish>08:30AM</finish>
     <date>23 November 2026</date>
   </channel>
   <channel>
-    <name>BBC Two NL</name>
-    <id>BBCTwo.nl</id>
-    <title>Bridge of Lies</title>
-    <desc>A team of family and friends, Amy, JP, Nic and Alan, take on the Bridge of Lies. One by one, they all face the Bridge, choosing who faces each crossing depending on the question category.</desc>
-    <image>https://epg.best/assets/program-icons?program=eyJpdiI6ImpOUE12UjhMc3NkTzIyZzVrOVF2Y2c9PSIsInZhbHVlIjoiZ2IxM1hLSkpWWk9IdFF4a3dlS3cwazlnWTFFTFlLK2FIZzJyYjhNTmlJZWZXSzNlZ25STEQ3a0RFMFJ3SUwwNlJvS2VXSWxSb3JTZnV0RHdhV3l4SnVSMUdKcWFYT1BSWjZFdTgxVEE1OXFNMmVhd2UyaUR2NVl5bFcyYVRQektRMVRRbEdRS25Fc2pDK0RhWVZcLzA4dEx3YzZ4QmlsNStiRWpuV1psWmlVbFNETTJYWm9HVmluZE1DVW5SQ1k5WCIsIm1hYyI6IjJlYzM2OTRkYThhYTExMjQ3ZmIyODg4YWMzOWZlNzE2NzFlYWZiODk2MTdjNjdkYzhkMTdiNTRmNTM4YWNiMTQifQ%3D%3D&amp;signature=c20a7f52e7180d4815354f5396718f6cbfa4235b36195862bc6301cc8b782bd3</image>
-    <start>01:45PM</start>
-    <finish>02:30PM</finish>
+    <name>ABC ME AU</name>
+    <id>ABCME.au</id>
+    <title>Spooks</title>
+    <desc>The conspirators gain an advantage and MI5 are pushed to the limit. Meanwhile Harry gets caught up in the action. Will his team help him out in time?</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IjJGb1B2bjRxQ0pSUkh5aFFzOHlaeWc9PSIsInZhbHVlIjoiSmRNbndUNk1FQ3lTd1VvcTFcL3NIYjNrSm1oeDRZZm1xVE1YS1p4M0RCOU9DZ0ZCXC9SdW1ycG9NbkVKN2dyTEJUcmg0ckFJXC9relI0RnVJY3FYazVpc0VIVVVDY2hXeDBLZ0tjNFczQ2ErNGRDV2xuZmlGRTZFM3pRdkdkQVpIdGQiLCJtYWMiOiI4NjJkZjM2ZTc3NGJhZDE4YTUwZWVmMTUwOWEwMWZhMzI0YmZjYmYzN2ZjZWNkZmNjNTEzZTMyMDZhY2NmNjZlIn0%3D&amp;signature=f3ddaee219940f65ed145c5d0e92e269e497e759e300f1924f53421268f030b7</image>
+    <start>01:15AM</start>
+    <finish>02:10AM</finish>
+    <date>24 November 2026</date>
+  </channel>
+  <channel>
+    <name>ABC News 24 AU</name>
+    <id>ABCNews24.au</id>
+    <title>ABC News At Noon</title>
+    <desc>The leading news at lunchtime. Melissa Mackay brings you the day's top stories and the latest news as it unfolds, with reporters in the community across Australia and around the world reporting on the issues that matter.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IkpwUkZIaGtTeUJxRWpiVVpMcUpQd0E9PSIsInZhbHVlIjoicFRTNndxVDgzaFV3dU9hVW82XC9SRXpPYTNjU2pMd0FQTGRHRlpUZXp5blJwWVwvdUVHUndzV0d6RFkzSmtEcFZ0WWdcL095Q1RuRkRXaEFZMng3OTV2M0luYlJSbjBnTmZ6N1F4NFhFZlhvdjY4RCs2NUZCS3JKZWJlK3hmcmc0cU84V3l3YWtybnozU2I4QXJsN2JmRWFKR2pIN21FR3N1UW5LdFZwNFFHa3k0PSIsIm1hYyI6ImM2ZDA3ZDA2NDI3NDBlNjk5NTM5NWI3ZWQ1MTE2ZGMyMzk5ZGQ1ODY1ZDc2NzdhMWNlNTdlYTI2NDNkYzgzNWUifQ%3D%3D&amp;signature=a519d1be4cbf59f861ecbda8ec25ed122f207d2a9d10ad0daafeb663656bba93</image>
+    <start>01:00AM</start>
+    <finish>02:00AM</finish>
+    <date>24 November 2026</date>
+  </channel>
+  <channel>
+    <name>Artv PT</name>
+    <id>Artv.pt</id>
+    <title>Informa??o N?o Disponibilizada Pelo Canal</title>
+    <desc></desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6Ik1BbTVMZTBiVytKT0NwaDNVRXRiNlE9PSIsInZhbHVlIjoiaXFRcXZOTFwvV0U1STd4Q0M1NUtmVWZzTkxyMFwvQmRYVGxsV1NCOFpIaGF5V2JTWitlUkdUN1MyZkhvM2lPMUVaUVUydThKNzNkRGNPTmNGNnVDTzlhdFBQdGJMYmN3MlpmdUFTWUl4M1lkMVVUOWdjVlwvXC9iMEErNE5LWk9qZFgxMzM2eTNqb0hWNFZ0XC93cG9GSmk3eHA3SHZqWkRjTXhRTkhhcDdYNGJYSUZYU3BPTU51d0hNTXczeXZOQTFNU0Qyb3RqMlwva3pnbUZWN0NYcXd4bEptVDBnMkxoZjZiSXAycmRYcEhrclJxSTI2dk9nbkZUNHcrZk81NFo0ZllyXC8iLCJtYWMiOiIwOTQ2Mzk2OTBjOTc3M2Y4YjU4NWQ5MGJkZjlmZWExOTc3ZWY5MWEwNzIyMDY0ZmM3NWJjZDIwMTc3NGQ0OGIzIn0%3D&amp;signature=74dd24806fea361306ef07b563ea969b2e143e8182413d145ca2b557c88b5e44</image>
+    <start>01:32AM</start>
+    <finish>07:32AM</finish>
+    <date>24 November 2026</date>
+  </channel>
+  <channel>
+    <name>Assemblee Nationale CA</name>
+    <id>AssembleeNationale.ca</id>
+    <title>Assembl?e nationale</title>
+    <desc>Diffusion de divers contenus selon l'activit? parlementaire.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IkxURWVCZDlGQWxETHhlMVJFZ1NxdHc9PSIsInZhbHVlIjoiVWMxcDJ4aUNPVm1iWXZRd0JZczl4WnRvQXh3dHhETTVoNG4ydTl5bkZtMlEyVmNkZHp6TjVFS0dXUTVSZEp6YThLUnZjejVpRUlmcXIrMjJFNHFhT25wZDdDVml6YlhYUmFqaU05VkVPOWc9IiwibWFjIjoiYTIyMGE5NGRlZjQwM2RmMjYwODI1NGZmMzZlMTYyMjc3MzI3ZWZlNDIxNjZlYTNhODIxOTdmNzFkNjg0MWFjNiJ9&amp;signature=ea46208ac8874b61e12397c139df54711e13f4f2e8f4bf8d48a436512b5936ad</image>
+    <start>01:00AM</start>
+    <finish>05:00AM</finish>
+    <date>24 November 2026</date>
+  </channel>
+  <channel>
+    <name>BBC Four UK</name>
+    <id>BBC4.uk</id>
+    <title>Scotland</title>
+    <desc>Archaeologist Dr Fraser Hunter looks back on three centuries of contact and conflict with Scotland's Roman invaders, a story of a superpower pitted against tribesmen and warlords.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IkJIY1pWSVBkTGFiOG9yR1FWWFdvanc9PSIsInZhbHVlIjoib0JXYlJlMXh6VlNKcmVrb3RZeFI4RTk3bmxaWjhFTEllSERxaFdtWlYyU2ZoYmVyTXhjbTJKTlpXWDl6XC9qTE9waG5EMkJPaEZBcFwvR0pJZkRRZG1RdkF4cGFOZVlRMmdXbkY4XC9xU1NjNGozU2NCS2M0b240V0VQVWt0d2FIYmQiLCJtYWMiOiJjOTFjZWM2MzBhNzI1NmM3MTU3Nzg3ODFkMTc0OTc2YzY3OWQ3MTViNDY5YTc1ZjViNjRkNDc5ODAxZWEzNjVlIn0%3D&amp;signature=4925c0e938d69e4c8cf6cff12d8b153fd4cd473cad7aa9ca9cb7ac2e7c8c4b80</image>
+    <start>01:35AM</start>
+    <finish>02:35AM</finish>
+    <date>24 November 2026</date>
+  </channel>
+  <channel>
+    <name>BBC News UK</name>
+    <id>BBCNews.uk</id>
+    <title>Talking Business</title>
+    <desc>Examining the business stories and economic trends that are re-shaping our world.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IncwU3NrRk9KSHp4MXlmTGhoZnpKV1E9PSIsInZhbHVlIjoiM1JvWEtnU1NHTDh2bDJcL1JlMW9pTFI4dVI3UlBNc0taQlwvc2QybFwvRkQ0OE9CbnMyR2ZoVVhOekNcL0h1NlwvY3NJOTdsTFVnUTQ1RktRWDdcL2U2RGFMSWczaU12Smw2ZlpCYmNETUpsbjJ0YmVXK1wvUDRqcWhScWFueFJya1I2b1lXNmpROTJLSEJPWnJTbE44YVM5XC8yY2c9PSIsIm1hYyI6ImFiNjc1NTUzZGM2N2FlM2VlMTYzOGMwNTQ2MzMxNDcwYWIzODcyZTkwNGJlYTY3NTk0MjE4OTVkMDdiN2QxNDgifQ%3D%3D&amp;signature=ad2738ba6c682110655000c889d923a2de96390468418ca85399fc2ee8993c91</image>
+    <start>01:30AM</start>
+    <finish>02:00AM</finish>
+    <date>24 November 2026</date>
+  </channel>
+  <channel>
+    <name>BBC One NL</name>
+    <id>BBCOne.nl</id>
+    <title>Talking Business</title>
+    <desc>Aaron Heslehurst interacts with experts on various business issues from all over the world and interviews them on the latest innovations in technology.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6ImV5dURXZGZMSnZ4S1BcL3g3aTlhdFhRPT0iLCJ2YWx1ZSI6IlpZWHUxcktadVVoR0piOGFFREo2TnhtWllJXC9xcEFGa2tFNXNjNmlmaCtmVEtwdzI4a0N3Rnc3NGppa3FjdDZ0b0F4b1ZnbXNJNmxNRnNvOW9tXC9jcjl3dlNxQXFQUmpYOFRUeWdvR0drXC9heENndDM4RytOKys4NFpUZmt2VnN3U0ZKdWM4WTZUSHFTU3lCRU5IQk9PaFNlKzY0YTdNdCtLcXkrNGpFbDE1MzZLNTRtdTFjajczU0kxbW53b01sRSIsIm1hYyI6IjEyZDdhMzVhMjdlOTk3NmVhNmQ3NTM2OTQzNGJkMGYwYWY5YWRmZTYxZjk0NDY5MmFjYzZkOWJmNDM3NzMxMDcifQ%3D%3D&amp;signature=925e7315dc90c93f1e5295f8fdb32c4b3173b7af0ecba7ad701e0af28517e779</image>
+    <start>01:30AM</start>
+    <finish>02:00AM</finish>
+    <date>24 November 2026</date>
+  </channel>
+  <channel>
+    <name>BBC Parliament UK</name>
+    <id>BBCParliament.uk</id>
+    <title>House of Lords</title>
+    <desc>Business in the House of Lords on Monday 23 November.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6Ik92a2ZaZ2ZIcUE4dHlVNXNKTEs3ZUE9PSIsInZhbHVlIjoiVkk3VmpLV1wvRlBLZVJLbTFXMFNvc1Rub1h3YStjWXRKSzJhYkMxaDNRb1J6bGtNVFBQTVZnWWc5QlF0aDA4TEJ3bzdtSmxUYVRuaVlLT3BOZ3dUV21ZZUgyb2RuTzI3ZjluNDQ0SnY3K1ZVV2FcL1A0aVNieVwvbFVGYjQwQ3lsdUwiLCJtYWMiOiI3MmRmYjc2ZTA5Y2ZlNTFkZDJjOTE2MDgzNjU3NzE1MzY5OGE3YjI4YmI0ZWUwNmI3YmUxYmZjYWJiZGRhMzU5In0%3D&amp;signature=66469157d4bdd27014c7ea5ba2d156cf4b2e86dbd94ab1e7f449a5e152cbac2a</image>
+    <start>12:00AM</start>
+    <finish>07:00AM</finish>
+    <date>24 November 2026</date>
+  </channel>
+  <channel>
+    <name>BFM Business Fr</name>
+    <id>BFMBusiness.fr</id>
+    <title>La librairie de l'?co</title>
+    <desc></desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IklmbE5qMHhzbHlhSG13QWlianpCQkE9PSIsInZhbHVlIjoidFZjNUpUTUw1cDB1ZE11XC9MUVhjcVZ0WG8rdEMwT0RyQUpKcnZhbXhTZmFvZGhWcHFsdjJJRE9TS0tBb1pPYnRXUDdFRmd6YWRocEtpTmRMTlwvNmwzNGZBSTgwaDhWZkRIb1U5SThwU0VYQk5kb0FSMU1yVXlmMlRPa2VnVDcrZyIsIm1hYyI6ImRhYzc0ZmEyNWY5ZjAwN2M3ZmM5MWVkMDM4ODAzNDliOTNjYzhhNWExODc2NjE5YTQyNTBhYjcyYjAxMTYxN2UifQ%3D%3D&amp;signature=69e14d1feca89832ead0d3f763c699d9d30db2e3fcf2e9592a042d905ce90231</image>
+    <start>01:30AM</start>
+    <finish>02:30AM</finish>
+    <date>24 November 2026</date>
+  </channel>
+  <channel>
+    <name>Bloomberg TV US</name>
+    <id>BloombergTV.us</id>
+    <title>Live: Bloomberg: The China Show</title>
+    <desc>Your definitive source for news and analysis on the world's second-biggest economy; from politics and policy to tech and trends, Yvonne Man and David Ingles give global investors unique insight, delivering in-depth discussions with the newsmakers who matter.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IlFyOUR0Y2E2ejNKTVdzaGpDZDdUaGc9PSIsInZhbHVlIjoicnVTYXZZQlZ1Y0F2blJueFRxQXR4SVRYVnRuU2h3VGw0WDU4Tmw0OUYrZ0RaU1JVYXIzTFNKOVg1REVCYWdiZVVNVytXQzFaMEpnYkxXdllmUlhjQlhoYk1BcmhQMmRFT1wvOTBMTzZqK3Q1MlFJcEhwMkJwZHRUZVZnaHp6N1AyIiwibWFjIjoiMTIwMmQwMWU1Y2Q2MTc5ZGYwODczOGJhNDc0ZTk2NDMxODcyNDhhZTA1ZGRkZTQwZjUzZmQ4YzQxOTRmMmQ2YiJ9&amp;signature=3a9825cbefad40d04d43b57372ca1ca507a361f23fbade54ba48e13cf8993e43</image>
+    <start>01:00AM</start>
+    <finish>03:00AM</finish>
+    <date>24 November 2026</date>
+  </channel>
+  <channel>
+    <name>CBBC UK</name>
+    <id>CBBC.uk</id>
+    <title>.programmes start at 7.00am</title>
+    <desc></desc>
+    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
+    <start>12:58AM</start>
+    <finish>05:30AM</finish>
+    <date>24 November 2026</date>
+  </channel>
+  <channel>
+    <name>CBC Toronto CA</name>
+    <id>CBC.ca</id>
+    <title>Murdoch Mysteries</title>
+    <desc>Constable Higgins questions his wonderful life when a careless mistake leads to the theft of everyone's Christmas wages.</desc>
+    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
+    <start>01:00AM</start>
+    <finish>02:00AM</finish>
+    <date>24 November 2026</date>
+  </channel>
+  <channel>
+    <name>CBC News CA</name>
+    <id>CBCNews.ca</id>
+    <title>Live: Hanomansing Live</title>
+    <desc>The latest breaking and developing news from across Canada, live from Vancouver.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IjBNejJLN3dZa1p2dHNRTW5rT2lEM2c9PSIsInZhbHVlIjoiOThjZUxsSTUzSTJCYzhJYzFvUmQwWnRRZVdhQkhtdDhyQVdLTlgySjdwY3ZYcFlINjRJT0tXaTlmSFVrajlGcmcyMUd3U1NLU1JuQk9WZ1Fzdm9hbWR6eEFjWUJJWjZGWW41WmRSNHFWTiszaGUyWW85WXlWZVZjUlhianlrWnMiLCJtYWMiOiIwMTNmZmE5YTM0NTkyNjg1NmYzOGNhODA2MTZhZjM3NGI5MWNmYzcxYjM5ZmNjMWVkMGU5NzY3Y2QyZjNmOTBmIn0%3D&amp;signature=389e2fb777c4b6c48c6a75d77f231a25e4274064fcdc2c27f5e0f7d7089bbaea</image>
+    <start>12:00AM</start>
+    <finish>02:00AM</finish>
+    <date>24 November 2026</date>
+  </channel>
+  <channel>
+    <name>CBC Ottawa CA</name>
+    <id>CBCOttawa.ca</id>
+    <title>Murdoch Mysteries</title>
+    <desc>Constable Higgins questions his wonderful life when a careless mistake leads to the theft of everyone's Christmas wages.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IjBCQUpXRFl4aHJybkZEZmhQRFlPa0E9PSIsInZhbHVlIjoiVGtReTcxc2xxN2o3a3EyN1NHSkxWdzU5T0lZVmpXWFl2NmhKRVZMUDVJSGVLa0NneWxWTnEyWVRFYmVEYlwvYU9tb3NoR21KNXZqa3hrb1FyUE1LZVlzTWkzMlJXMmtiNHMxMENtQmQ2WVd4MlZ5c2JzWFNrRnVjXC9HNEFZWFpuciIsIm1hYyI6IjQ0NTYwMjdlYzg2MWIwMTIwMmZmMWY5M2U3MDM1NTg0NTU0ZjIwNzAyZDA2MTZiZWZjNjFkYzg0MDU3MWUwZDAifQ%3D%3D&amp;signature=0858ee0936745c6e9b8530db11921e07872f1caadae766021b8dc2756ea28556</image>
+    <start>01:00AM</start>
+    <finish>02:00AM</finish>
+    <date>24 November 2026</date>
+  </channel>
+  <channel>
+    <name>CBC Vancouver CA</name>
+    <id>CBUT.ca</id>
+    <title>CBC Vancouver News</title>
+    <desc>The latest news and weather.</desc>
+    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
+    <start>01:00AM</start>
+    <finish>02:00AM</finish>
+    <date>24 November 2026</date>
+  </channel>
+  <channel>
+    <name>CBeebies UK</name>
+    <id>CBeebies.uk</id>
+    <title>..programmes start at 6.00am</title>
+    <desc></desc>
+    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
+    <start>12:58AM</start>
+    <finish>05:30AM</finish>
+    <date>24 November 2026</date>
+  </channel>
+  <channel>
+    <name>CBC Yellowknife CA</name>
+    <id>CFYK.ca</id>
+    <title>Family Feud Canada</title>
+    <desc>Two families compete to guess the most popular answers to family-friendly survey questions, with a Canadian twist.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IlAyUkVtY2NXSmZEWkpoa3R3M0JGQ1E9PSIsInZhbHVlIjoiV05MSEdzbkhkc250QU9MMlJ5QzZNNmZUaXQ1dkpoOFkrU1VKek1qMUk5T3k3blhpY001RHZYZGhXOVwvM2hNNitVaElDK1Z1VTB2VGhLS3JUK25wR0NuSElsdVEzWnZaRzB2dGkwRkZpT0wwPSIsIm1hYyI6Ijk2YjdmNmEyOTc5NjkzOTI0ZjQzZTdlZDEyZmY5MGQyYjA3ODgxZGExMjI5OTc4N2Q4MTA2MGU0YzAxZDQyMjUifQ%3D%3D&amp;signature=908acc52a196f334e638d755f8e5d93440a59e60ddfcae9adbaa2eaa6437f42a</image>
+    <start>01:30AM</start>
+    <finish>02:00AM</finish>
+    <date>24 November 2026</date>
+  </channel>
+  <channel>
+    <name>CGTN-Documentary En CN</name>
+    <id>CGTNDocu.cn</id>
+    <title>Pixel Collage</title>
+    <desc>A well-crafted collage of selected short documentaries telling stories about all aspects of China! People, technology, culture, and wildlife, all are showcased in Internet-friendly form.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IkI4d3IrTWdlRkNQV3VGOHFHXC9CQ3VRPT0iLCJ2YWx1ZSI6IkR5Q0pQWVBhcDgyd1h0N3VWTjYyQXJkS2Z6aVwvQzVjWERWSXdwdkF4VzE2OE5lWXNYZGJHMkduemQ0RkRpUWU3ZlB1cXN3YXVDczREemZkWmhxWmQyN3NSOUg1OXpGTnpcL0lYb2pQczJpNWpxT1NcL0JTcStwSGZWMHVGTzBQZ1wvYUpMNjRTQjJqZitIN0dHenI5WGRkZE9lQzFxWU9FcnA2VG5yRGVPbENRMWM9IiwibWFjIjoiNGVlMjgxMzYyY2EyYzZjOWE5YmE2YWM4N2YxNTg2NGI0YzY0NmM5NDZkZWRkNTcwYjE1MGZmMTY4NmQ5NzM0OCJ9&amp;signature=d27df0a7a1390fb6884509c79dda6ade8874c62ff14200f1c6eb7100ed3c4bf8</image>
+    <start>01:30AM</start>
+    <finish>02:00AM</finish>
+    <date>24 November 2026</date>
+  </channel>
+  <channel>
+    <name>CGTN French CN</name>
+    <id>CGTNFrench.cn</id>
+    <title>Panorama</title>
+    <desc></desc>
+    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
+    <start>01:00AM</start>
+    <finish>02:00AM</finish>
+    <date>24 November 2026</date>
+  </channel>
+  <channel>
+    <name>CNBC Awaaz IN</name>
+    <id>CNBCAwaaz.in</id>
+    <title>Morning Call</title>
+    <desc>The host presents news and updates on stocks and shares before the opening of the market and invites experts to suggest useful strategies for the day.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6ImJtaWl4Tzh3ZG5SSndmNjM1N2kwalE9PSIsInZhbHVlIjoidjhDTEMwazB2dk0zbkNNTmY3SkkwcysrWWJ4WFZcLzNySW9ENUM0ODNkbFBWQm9hSTNIdmZkVXh2OUZNS2xYR0xHb0dJUDN0Qlg2WnIyUENWM2VuWHYxYzVKaU1CZlYyVmVoOW5FWkszekZJPSIsIm1hYyI6IjYxYWYzMWFlY2YxOTdlMTI5ZGRhMWQ0ZmE4ZWI3NWYxYzIyODlkZjUzNzc0MTMyNWEwZGM0YTBjNTBjZTkwN2QifQ%3D%3D&amp;signature=06d17b4eb58d9a3a3aa27296703a04a4b81c38dd041d41ec5c072a7c9f85b61b</image>
+    <start>01:27AM</start>
+    <finish>01:57AM</finish>
+    <date>24 November 2026</date>
+  </channel>
+  <channel>
+    <name>CPAC Francais CA</name>
+    <id>CPAC.ca</id>
+    <title>? la une</title>
+    <desc>Couverture en profondeur consacr?e ? la politique et aux affaires publiques au Canada et ? l'?tranger.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IjlIMjc2XC9EOXpDMkdTMWdvR09FQm5nPT0iLCJ2YWx1ZSI6InVqbnA0MGplYUtiQlY4RjZwYTRFQnBqbmMzb08wQ2V6Q204d0VwTXF2MDUwZ0g5RE9SV3Z6ZzFFdmxtNUYrRXEzbFB4UnlaSGVTOGRMVjJ0M3RLZEZ6M2wzT3I3eEtzYWo5N25Id09jRWw4PSIsIm1hYyI6ImZkY2U3Mzc5ODA3MmMyNmE3NWQ1Zjk4NWIyZjA5ZGU1MmMzYzM0ZDNlMGU3ODFlY2UzODRlMGVkNDFlMTAyMDAifQ%3D%3D&amp;signature=d376b37d5391e091270193cca6c22346085d0a084d59f73cf3f0f8bb57ab1c1a</image>
+    <start>01:00AM</start>
+    <finish>03:00AM</finish>
+    <date>24 November 2026</date>
+  </channel>
+  <channel>
+    <name>CSPAN US</name>
+    <id>CSPAN.us</id>
+    <title>C-SPAN Primetime</title>
+    <desc>The key events of the day, including speeches, briefings, policy debates and public forums making news and shaping policy; see events from the White House, Congress, Capitol Hill and around the country.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IjBLY1l6aWU4REtmWit0QmFGM08rZ2c9PSIsInZhbHVlIjoiVlBLUlUyd3crNXFhcWlSY3BLYmE5VkFmSWVJSFhGczZOK0d5clVlZ2lGVkxFXC9TYTJ6RGs3VEVhWTUwRVAzQnBvZ1ExRU5oUWJTUGNYMGNra1dtakxRZkdmVFZsUjJBYTVLMndwTE9ydzB3UE9tcVU4TEtSWGRBakpLY0YyRSswIiwibWFjIjoiOTllOTE5OWNlZGU5Nzc1YjRjNDhlMjllNjFhMmQ0MWQ4MGZkNjNmMGI0ZGQxMGZkYWVhOWQzZTA0NDk0Y2IxMCJ9&amp;signature=817f21ba923d531d374d3d8906988df07edbfb8fe9362574206b965f1f88e974</image>
+    <start>01:00AM</start>
+    <finish>03:00AM</finish>
+    <date>24 November 2026</date>
+  </channel>
+  <channel>
+    <name>CSPAN 2 US</name>
+    <id>CSPAN2.us</id>
+    <title>Public Affairs Events</title>
+    <desc>Public affairs events, congressional hearings, speeches, and interviews.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6InJOZzZkeWpGazgxYU9EbURmdGd1cmc9PSIsInZhbHVlIjoic3Uxd1lOa1E0eWIrdnp1R2ZTQXRmbzFYenpQdUxZT3dWeFVRV2lyd0pnN21zV1M4ZlMraFVtUnNqYVdjOGQ0aXQxZm1mYWNIbndjcXBRb1B6c1ZDZmthbUVBMGRcL0Ezd3ZaUHl1MUIwR2JSV01PTHBFYXlvc3hVRzgxOVpBUVQ4IiwibWFjIjoiZGMwMDE3ZTFmOTg1YTRlNTg3MjZhNzQ1ZmFlNTE4ZmY0ZTdiMTc5ZTVjMmNjZmZmM2ZiZGFlMDQxNzE5ZmY5MyJ9&amp;signature=02d42cb52b7c51c7bec992c0b8e1f51fa20136ed7c9117dfa1dcd8e9f00279ea</image>
+    <start>01:24AM</start>
+    <finish>03:12AM</finish>
+    <date>24 November 2026</date>
+  </channel>
+  <channel>
+    <name>CSPAN 3 US</name>
+    <id>CSPAN3.us</id>
+    <title>Public Affairs Events</title>
+    <desc>Public affairs events, congressional hearings, speeches, and interviews.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6InJzQUxIWmNyK3RPT216cklZMWxCM0E9PSIsInZhbHVlIjoiNFdsTmQwUmM5ekpQSVdES0ZyVm9sSHU0RGtUSXU2eWZ4aHVRb0k3N2pDMkd0KytwdDRcLzZUYmo5QXVTY2hyRWNGSlFESXErajRucGZRbHFGZGJwM1lwZzFnY3ZEWHdrM3pFXC9HQmxhQzJtOXRKQU1wUEZCQ0E0azFyN3liUHQ5dSIsIm1hYyI6IjMyMjAyMDhjZjBhZTM1YmMyMTE4YWM0ZjBlNzUxOThjN2E5Y2EyNDE2NGMzODU4ODBjZTdiMmUwMGQwYjcyN2MifQ%3D%3D&amp;signature=71637696d9bbf6579a95ef147252b4a6617e3f51bf3f295bfb6c1195fff232d9</image>
+    <start>01:19AM</start>
+    <finish>03:09AM</finish>
+    <date>24 November 2026</date>
+  </channel>
+  <channel>
+    <name>Classica IT</name>
+    <id>Classica.it</id>
+    <title>Il lago dei cigni - V.Kovtun, cor</title>
+    <desc>Balletto in quattro atti \(1876\) su musica di Cajkovskij - con Natalia Matsak, Denys Nedak, Yaroslav Tkachuk - Kiev National Ballet - Kiev Opera Orchestra. - V.Kovtun, cor., da M.Petipa, L.Ivanov, A.Gorski \(Kiev, 2019\).</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6Im0xczFZTEp2T0ZGYXdyVjV4VVNJVWc9PSIsInZhbHVlIjoiWndHMTdPbmJDdEhQQ3Q4Q29yQTFJQXZJYnJxS1N0WnV6WWNHNlwvNjBuMXdGREY1QWNYbkFtc01iK0ZXYVwvNDBrTmVETFBYbDkyQmJmWURISENaQTV1d0JLanltQ0ZRakJDXC9NVEV0VFpxM3lTT2RuNDRvXC9NQStUQ3kyMlk0c09jaGFSWkVCdFdhSHZYQ1FrVU5TNDdMdVdZdzY0Y24xdXRFcEVoVlZUazByZkhrWWR2dlBBMElDajRzR1lBQlwvVVR6bUt6cCtIa29tT2Yxb3ZtdmxrMGNLQ1FNR0R5WWE1ZHJqTmd5Q0doOGJZPSIsIm1hYyI6ImRkYTQ4YjQ4M2VlNTA1MWZiNmVkNWEyOWM3YzQ4OTVhMjU1MzAyZWE2Nzg1MDY0ZmJiYWNjYTcxMjVlYTEyYzAifQ%3D%3D&amp;signature=43a1279bbe3599b79069c230cf08c812bae7d80bb3de358c339f50f216528749</image>
+    <start>01:30AM</start>
+    <finish>03:45AM</finish>
+    <date>24 November 2026</date>
+  </channel>
+  <channel>
+    <name>Comet US</name>
+    <id>Comet.us</id>
+    <title>Grimm</title>
+    <desc>The latest attack against Rosalee and Monroe makes Nick want to become a Grimm again more than ever; Viktor meets with Adalind, who is completely broken and wants help finding the baby.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IkhMeTYzYzdGcytaazQ0cHVPb0xyRkE9PSIsInZhbHVlIjoieDliYlo1U3FWM3hcL2tNbFo5U0FmczB0eU1cL2UySHZmZFwvRlZTRFFWQzFZR2pkQ0xsbnhPcTc4K2tlY2NUUGQyUHdZakZ4R1wvVERNWTZ4dWMxMnBYZ2M0ejBEUUordUVTWFBXSUZVbEdaU1VZZ3VNWkVcL2xxcnZDWHZ5b2Y3UWxMUyIsIm1hYyI6ImQzY2RlZjljNGYyZGJhNTUxM2FjZDAyZTMzODcyNDFhOGU5MDk1ODY1ZDViZjdiNGEyNWZjMzlmYjdhMzk0NzMifQ%3D%3D&amp;signature=688b9b0e34f22e39967b26afe7fe8e21a0ace65e398bdb25a6402fe0194f9f41</image>
+    <start>01:00AM</start>
+    <finish>02:00AM</finish>
+    <date>24 November 2026</date>
+  </channel>
+  <channel>
+    <name>Cooking Channel US</name>
+    <id>CookingChannel.us</id>
+    <title>Man v. Food</title>
+    <desc>Casey Webb's appetizing adventure lands him in Washington, D.C., for shepherd's pie at a political culinary institution, a Korean fried masterpiece and a challenge consisting of more than three pounds of burger and fries.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IklOOVJKQTYxRGdpT2hGUjlxdFlaREE9PSIsInZhbHVlIjoibVBRMFwvUk1Rc254K1BCZ3lJZDVtNHltMjBzOVpUWk1PclBPQTQzb2xLMjA3SWxoM2hPVVE0NlphVXRhVWUxTzNvQTVaTTgrY05lYkh5Wm1VMERQN2IrOE53VXIxSEJvUHpUUjgyWm53amJNZ2NzMGU3ZlE4dkJRYkhxYWRlNEhqIiwibWFjIjoiNTkzNjY3NmNjNzM1NGFjZjJlMmI4Nzk4ZTFiMTZlNzAxMGI2ZGRhOTcyMzRhYmJjMTliYTEzMWMxMzhiY2NlMSJ9&amp;signature=d139e979c185c26c8f6dabf2c9921153d6e3f05d67afa4487b28358b29fff238</image>
+    <start>01:30AM</start>
+    <finish>02:00AM</finish>
+    <date>24 November 2026</date>
+  </channel>
+  <channel>
+    <name>DD News IN</name>
+    <id>DDNews.in</id>
+    <title>Suprabhatam</title>
+    <desc>Provides a comprehensive insight into India's rich cultural heritage while offering practical guidance for a healthy lifestyle.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6Ik55T2ZSM0QyeDVrUDR4ZGpUNUFRQUE9PSIsInZhbHVlIjoiU0FYTjVCZVkzTlVYNndUOUE5ZU1hNG0yS3pYajh6b1FITmNsOHhFS0ZueEZ0eFlIWERlTDdQWHkxVFl0UVhiaFwvNGtjZlJKZEQzdXNZTUFTWE1EQnFJd3Y1Z1VPdTZ1WkFxdzNSZ2NCcXQ4PSIsIm1hYyI6IjdkMDQ4NzIwOGRjY2Y1ZjEzZDcyZWU3Y2UwZDg1MjIyODQ1YTU1ZmQwNWJmNjlhNGVmMzA3ZDc3M2I5N2I0OGIifQ%3D%3D&amp;signature=7cccf85331d66786a1ff79a8b92614ea00fa3e4616965125b1226c079ad47d90</image>
+    <start>01:30AM</start>
+    <finish>02:00AM</finish>
+    <date>24 November 2026</date>
+  </channel>
+  <channel>
+    <name>EWTN UK</name>
+    <id>EWTN.uk</id>
+    <title>The Best of The Journey Home</title>
+    <desc>Dan Teller's Jewish family held their traditions seriously. But his hunger to know God took him on a voyage of discovery, through Zen Buddhism and eventually to Catholicism through mystics like St.</desc>
+    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
+    <start>01:00AM</start>
+    <finish>02:00AM</finish>
+    <date>24 November 2026</date>
+  </channel>
+  <channel>
+    <name>EWTN ZA</name>
+    <id>EWTNAfricaAsia.za</id>
+    <title>Journey Home</title>
+    <desc>Dan Teller came from a Jewish family that took their tradition seriously. He talks to Marcus Grodi about how his hunger to know God took him through Zen Buddhism, and eventually to Catholicism through mystics like St. John of the Cross. (60 minutes).</desc>
+    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
+    <start>01:00AM</start>
+    <finish>02:00AM</finish>
+    <date>24 November 2026</date>
+  </channel>
+  <channel>
+    <name>EuroNews UK</name>
+    <id>EuroNews.uk</id>
+    <title>News</title>
+    <desc>The leading news stories of the moment.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6ImUzcVZaYkc3VWRUa28wQ3hkM3IzRFE9PSIsInZhbHVlIjoiTWgxVDJoTGI1MW9SRW9OY1p6bHhKK0FTeFwvZjNjMDVwTk5Fa29oVlpsb0NvQWkyc1ZidGpIZ1A2amVkeU9HWExVdnc1ZGZnRkJVWnVYTTZ5VXRjWE1VRUFsU3FMWlZZTzRPVVN4dDBubkxLSUd1aGU1d3hjdmxJdzBEZWZcLzZ6blZ6NVNNSU02TlwvTkw2QkU0dGR4Q3BnPT0iLCJtYWMiOiIxMjAyYjczOGI3ZGNjOGI0YWIwMmVlNmFhY2FmOTExMDcyZjg2YjMyNzNjZjdhN2MyMmQ2YjAyNTljOTI2ZjI0In0%3D&amp;signature=aa731b8498f952a53ece9cb49906057f3f64b78474d4aadc72666fe7a2116c56</image>
+    <start>01:42AM</start>
+    <finish>02:00AM</finish>
+    <date>24 November 2026</date>
+  </channel>
+  <channel>
+    <name>Euronews FR</name>
+    <id>Euronews.fr</id>
+    <title>News</title>
+    <desc>L'info internationale toutes les 15 minutes de 5h00 ? 10h00 CET et toutes les demi-heures le reste de la journ?e. euronews: un regard diff?rent sur l'actualit?.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6Ik1WZWc1TDZOeEM1S29iaXUyVzhiRWc9PSIsInZhbHVlIjoiRFNBSlRNV3pPRnpEcWErZUNhXC8yMldmQUNFOWJXdXU0MlBqQ0h5dHB5dENZY3VkeVlQSlBLOTZxZWtvVFdISU9LMFFOS1N3VytCd24xbzE0ZUVPZGlnSzZ0UThwZEgyUkFXa0swMTM3NlVuZTZmdktZY1wvVWdjUkxUV01kQ2F1Y2pBWlYxK0FhdUoxd1pRaDdLR2V2cjJlNnhnMU15MnhPbHNuQW84a011dEM3T241OHJnMXdFNDRuMmpYdURNWEFRUUIyVUk0UFRacHN6b29rYkJmRG5teU9leTJEQ29TaVE3OUR1XC9iSUZvQjk4TkxzTHFMYTlRU2U1ZkNpeVkzWm80MVpzZWhBc0UrK1NpMURseVBUbEs2UWJpbVhtV0JRSUdsQU1OTGg4WDA9IiwibWFjIjoiYThhOGY0MDM2YWM2YTk5ZTVkZTc2NmM3ZjFjOWM5ODIyYmMyZTgwMDIyM2JiNWY3MTY0ZGZjM2FhMDJiM2YzYSJ9&amp;signature=f1fa8e3de57d37f854365248ddc9ec0d27107756cc57a5b4fb4879181907b7c3</image>
+    <start>01:42AM</start>
+    <finish>02:00AM</finish>
+    <date>24 November 2026</date>
+  </channel>
+  <channel>
+    <name>Fox News US</name>
+    <id>FoxNews.us</id>
+    <title>Live: Jesse Watters Primetime</title>
+    <desc>Jesse Watters speaks with newsmakers from across the U.S. to present news with a clear and direct approach.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6Im1Hams0WjhGNEVLb3lBWW5IQkhITWc9PSIsInZhbHVlIjoiNlYxeFV5Z1FNc0FYVmVKVWhZWGhlejFVQzVxUFVlXC9ZV3k1bGpYR0Jjd2FMWGhQT2NNazNOdGszNjN5UVhBM1wvWHh5aDJWOURiVlVSRGtiQXhmd0xtQ0JudjZxeU9CN2hVSGs4NHZDUW5NZjNLNFJtZnFhOUNZeUhXMWM2cE8rUiIsIm1hYyI6ImY3NGE4YTNiZTM1MTUyNjJmOTE0NTRmNmI3NWUxZTM4MjIyNTMwYTMwOTA3OTYwNjA5YTQ5YzMzZTdiNTBjYzkifQ%3D%3D&amp;signature=9ce8bfa7268795b0f71a29051c96e364721d691a6ddc740a8687727c4e5856ad</image>
+    <start>01:00AM</start>
+    <finish>02:00AM</finish>
+    <date>24 November 2026</date>
+  </channel>
+  <channel>
+    <name>France 24 Fr</name>
+    <id>France24.fr</id>
+    <title>Focus</title>
+    <desc>Un tour du monde quotidien avec des reportages r?alis?s par plusieurs correspondants dans leur pays, sur les faits marquants de la semaine.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IlpVR2NPZ1U2TGt4R0F5VUREXC9uMmV3PT0iLCJ2YWx1ZSI6Imp0dUJ4Rit6MzFHOWNkWVFqbXNlV0ZCUkRGVk50Y005YTQ4N2Z1TzVEUnFHK1d4ckV4dXZjSTUzTWFaTW52WllTN2VyS3YxYkU1S0RRY3ZBd25VVEQrU2FGUGtGUENmWDdDendSM25CQUp5dEdkb2JFd09hZ2g1dGVJVmVXeTN6ZXJKWXJPa3NqUWd3OHFcL2pkcldtUWNjYUxPd0lDdDZIMFN6MU1tWUNGak0zME9CdTl2UERaNmZRSjE0Q2Q2cWsiLCJtYWMiOiIwN2ZkNDFiOTJmNjIzYTljZDAyMzk2ZGEyODU5NjA3Njg3OGE3MjJmMTE0NTFmZmNmNjM5YzEwZWEwZDJkNjM3In0%3D&amp;signature=9d5248a2b893c0920d1855da79607c7566d2c49a76991567afee11e9fb2c1158</image>
+    <start>01:51AM</start>
+    <finish>02:00AM</finish>
+    <date>24 November 2026</date>
+  </channel>
+  <channel>
+    <name>GauTV ZA</name>
+    <id>GauTV.za</id>
+    <title>My Selector</title>
+    <desc></desc>
+    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
+    <start>10:30PM</start>
+    <finish>04:00AM</finish>
     <date>23 November 2026</date>
+  </channel>
+  <channel>
+    <name>Gems TV UK</name>
+    <id>GemsTV.uk</id>
+    <title>Huge Jewellery Savings</title>
+    <desc>Discover the rich red beauty of Thai Ruby with this stunning bracelet. A captivating gemstone with timeless appeal, beautifully crafted to bring colour and elegance to your jewellery collection.</desc>
+    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
+    <start>01:00AM</start>
+    <finish>02:00AM</finish>
+    <date>24 November 2026</date>
+  </channel>
+  <channel>
+    <name>Global News BC1 CA</name>
+    <id>GlobalNewsBC1.ca</id>
+    <title>Global News Hour</title>
+    <desc>Evening news.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IklyQ3dYZ2hJZGF0SGlLS3pEemZ1TWc9PSIsInZhbHVlIjoiV1VTZlVudTZhVjIxa0N6aDRpMEpTNXd5aElkTFBiQlY5WlwvZzUxWW9rcnZxSTJLb1ZKcVBLXC93ZkFoQTRkcTRrb0FsRGpoNGtwSkNHb2pwYUUwS2w4RnFjbXpDSUFvK2ZLaGRacExVODlRSGMzWEllN1JjTWNLaDdVUTBnZmVGNSIsIm1hYyI6ImJiMTVkYmUxNWU2NjdlYWNlYmQyOGQ5MDllMWExYTMwNmJiMWMzZWE1ZjBlNDBkZDU0ODgzY2MzYzEzOGJhMDUifQ%3D%3D&amp;signature=85af7821bd4a8116e79d5ccdd16b01431e12c734fc7a5593befb0d61504e4ed1</image>
+    <start>12:59AM</start>
+    <finish>02:00AM</finish>
+    <date>24 November 2026</date>
+  </channel>
+  <channel>
+    <name>Gulli Fr</name>
+    <id>Gulli.fr</id>
+    <title>Programmation nuit</title>
+    <desc></desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6ImYzZE9qU0ZGYUJmVGRWWDFsQ1R4N2c9PSIsInZhbHVlIjoiU0RWTE5hMHduV0w3bHY2TzBPWGVuNGFoK1VpTXlNS05PVTA3dUpMbVhJZWp0R0h0Sk1YXC92V2crb1ZQSUhEZEs4aVZwVFh3R3o4TVo2cjRuMVY3SEdYM1B5SmE4Ull6RjFGNURNWEhVRG5UYkk4cmRyTUNSaHJlbjNJdEIwOHhxIiwibWFjIjoiNGY5ZGJiODkxYTFhYWI0ZDJmNzgwOWYxODQxNzMyZWI5YTExYmUxZDIyM2E2ZWFmNWVhZGM5OWY1Y2IxNTMxMiJ9&amp;signature=cdb49c493c7857c722723d0092d9b48dccbc134f16e32d031afaac6a1b76ec60</image>
+    <start>11:50PM</start>
+    <finish>02:20AM</finish>
+    <date>23 November 2026</date>
+  </channel>
+  <channel>
+    <name>HSN2 US</name>
+    <id>HSN2.us</id>
+    <title>Best of HSN2</title>
+    <desc>A collection of top-selling items.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6ImR2MG5CQ21STE1zeEFmMTN6dk5DYkE9PSIsInZhbHVlIjoiN05yTUVqeFJxZWx5akxyYTBXTlpGWEhPU1ZzVzlQeXBZNkdVdkFjSEpNd3BLbFJ5WFY2MUMzSDE1Wm92cFFNOWowaExqemNrZGpDXC9yMzBWcVJYaDZSV1hjS3REaDE4Y0tvYlZNanpcLzkzQmlrN1Bta1l3dXR0R1lhVGJpRWtDYSIsIm1hYyI6IjJhMWMxMTM5NTIyMzRkMTRhYzUyYzlhODRmYTBmN2FjNWU3YTllZWExMjliNzE3NzU3ZjEyYzMwNWZhOGU2ODgifQ%3D%3D&amp;signature=540f6e373062e0276a4a468008d83c808a387dce7b10eb781d2becdf33507b22</image>
+    <start>01:00AM</start>
+    <finish>02:00AM</finish>
+    <date>24 November 2026</date>
+  </channel>
+  <channel>
+    <name>Hír TV</name>
+    <id>HirTV.hu</id>
+    <title>Pal?ver hangol?</title>
+    <desc>Nincs le?r?s</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IlRtcjhiZlh1K1pidmlJeWtNT2dsakE9PSIsInZhbHVlIjoiaXZjV0diRWlZQ0ZVYXdsTDlKT3BFM1VvWHJhVUgwXC9vbW1tVEM3cnh4aVF4bWEwaUxKNldVdFc3b0pWVUZkdWMxTWNmV2Q5anptc1hqUm0wK09IK1IzMWdkMXBzNHZWYnRHQTdDM3RLMlRqWlJcL0lcL0lyMVBjUXI0UkVYclRoeDYiLCJtYWMiOiJiNmY5MTk5NGYwZDQxMGVlMWFkNmFkYzM4MzZlNjZkZDk1N2I0MjM1MjAwY2Y0MzllZjI0Mjg5ODY4Zjg2ZWZjIn0%3D&amp;signature=418df238aebd51ee7fcbb4d25263987478efeef21fee246673e1e0431499c34b</image>
+    <start>01:45AM</start>
+    <finish>02:00AM</finish>
+    <date>24 November 2026</date>
+  </channel>
+  <channel>
+    <name>ITV 1 UK</name>
+    <id>ITV1.uk</id>
+    <title>Shop on TV</title>
+    <desc>Teleshopping.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6InJzaHFKSXVENHdCK3E4QmIxbFNMdEE9PSIsInZhbHVlIjoiRUczNDdLVGlSTllnTG1Lb1VWT3JnakJqdUdxOVBtSFFFUzFOamRcL3lrNzlESjh5ZWN2UzVNWnNtRTVad2YrakNQQ3lhQ0hqQnlSMTN3MXR5V1RcL3NpZnliNEMyaHlna2c1VHM4VFh4NU5XWW50QkwwK2R4Y1BCczlZK1F4WnU0TUlyMlVHMTNFMkd0U3BCRWwzUWxiT2c9PSIsIm1hYyI6IjA3ZWUwZWVjNTViYTNhZGJhNzJhYTIwNDlhOWEwMmIyYTkyMDRlM2FhMDAwNmQxODAxMzM4NTNjZWM5NTBjN2QifQ%3D%3D&amp;signature=b74b3b34a71b16abfabc0796ab9cff1d64e0b3b2bd090185a6a1c920ba17e5a0</image>
+    <start>12:10AM</start>
+    <finish>03:00AM</finish>
+    <date>24 November 2026</date>
+  </channel>
+  <channel>
+    <name>Ictimai TV AZ</name>
+    <id>IctimaiTV.az</id>
+    <title>Az?rbaycan kinosu</title>
+    <desc></desc>
+    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
+    <start>12:30AM</start>
+    <finish>02:05AM</finish>
+    <date>24 November 2026</date>
+  </channel>
+  <channel>
+    <name>Kuriakos Tv PT</name>
+    <id>KuriakosTv.pt</id>
+    <title>Vidas Transformadas</title>
+    <desc>Programa baseado em testemunhos reais do que Deus est? a fazer na vida das pessoas.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IitudnVNSTlDZTJ4RDVSR2RUQ2tpc1E9PSIsInZhbHVlIjoiT3dKZXJrWEVNbzFCanlURjd3Wkprbm1TXC90b0tIVTQrc2s3cUk0NzVUelcyZms5RUwxMTA1R0NFcHdGVFEyTjRUT2tJNFNlXC9XbTR5b0lxVElRdktYZXoxajhYQzd5WHVmZU9BRUt2d3NZZ2lkTHFcL1JOaWVwdUFKSW1wVDlrRTQ5bGpCZ0JCK3dvbXZhTHdsY2kyVHgyVlpGeE16XC8xdUNFczF4YUpXZUVveW1BZDlmVHBJZTd5MG5SVG9YV0VGcVEyVGs3SDRLSlJMa0FDVGEzK3VlYXB5OUVDaUVBKzlURnRqZHN0WVJBZjhyMUJjXC83ZmZaMVpoTWpuaW1UMVRuIiwibWFjIjoiYmQ4Y2Q5NmU2Y2I0ZGQ2NDdiZTFmNTQ2YWRkMDgxYWQyNzdkYjk1YWZlMDNjZmMwZTQ2ZTFkMTUxZDYxODhlNiJ9&amp;signature=e8c39dcb7f227b9ec969d6f088bdfb9997985337712011d5064ce0376e40e1cc</image>
+    <start>01:30AM</start>
+    <finish>02:00AM</finish>
+    <date>24 November 2026</date>
+  </channel>
+  <channel>
+    <name>LCI Fr</name>
+    <id>LCI.fr</id>
+    <title>LCI Nuit</title>
+    <desc></desc>
+    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
+    <start>01:00AM</start>
+    <finish>04:00AM</finish>
+    <date>24 November 2026</date>
+  </channel>
+  <channel>
+    <name>L'Equipe 21 FR</name>
+    <id>LEquipe21.fr</id>
+    <title>Programmes de la nuit</title>
+    <desc>O? regarder Programmes de la nuit Prochaine diffusion 1 Le 24/11 ? 00:30 Voir en replay Pas de replay disponible Tout le programme TV en un clic sur le site officiel de T?l? 7 ! Venez visiter le store Suivez-nous Envelope Youtube Pinterest Tiktok Instagram Applications programme TV T?l? 7 Jours Le magazine Je m'abonne Newsletter T?l? 7 Inscrivez-vous pour recevoir les derni?res actus T?l? 7 Jours Je m'inscris Mentions l?gales et conditions g?n?rales d?utilisation Nous contacter Donn?es personnelles G?rer mes cookies Abonnement magazine L??quipe Mentions l?gales et conditions g?n?rales d?utilisation Nous contacter Donn?es personnelles G?rer mes cookies Abonnement magazine L??quipe Programme TV Films S?ries Sports Jeunesse Emissions Documentaires TNT Free Canal Orange Bouygues SFR TF1 France 2 Arte M6 Toutes les cha?nes Replay Les actus Cin?ma S?ries Streaming People T?l? Sport Musique L'art de vivre Jeux Mots fl?ch?s Mots fl?ch?s express Mots crois?s Sudoku Lettramot Netflix Koh-Lanta Jeux Concours Parc Ast?rix Vid?os Shopping L'horoscope MAXI</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6ImxoT2hncEVYVThENTFRRzFSYUhpWmc9PSIsInZhbHVlIjoiK3ZzQmFpT0NZVmFsWnFieUU3eHFJWU5mUGtqOHRyQlpVOUsrXC8wS3o0Nkk3RnhOTXZHMUo5RHB3Y1k2TStENE5DaUNLeUNkRGdvRGxKQWJyOTAwU3hubjdpYTUzQ0RFVHY4NGlWb0tZRmlkVkdxMUlGdWo4cGN4ZnFcL3drZzhQNkhISjJQeUF5ZUsxOHBCWXQrUW1LTUh4Z1B2d01NZnpxeENFQWhpaVk1N0s4UEFnN285bExiYmMzKzZYV2o0a2lcL1EzOEJ4NkRMaXJzWStTV0htK2M5aXI5UTVubDdiXC9NOHBUeHlVNXhDV1wvQ05yXC84MnE3amRpOUowUFV6V2dcLytDeTdUU0xPTDVRektaYlwvQlNqZWRuOE9HQTkzWmhmMk14bm1nWkcxbXhQND0iLCJtYWMiOiI4ODRlY2M5ZjE1NDE1YzdhYTg1MDBjZTVkMzE1YWZiOGJiNTFjYjI0MTkxNWJjYzljNmYwNGVjNWY3OGI2ZGI0In0%3D&amp;signature=e0eaa9f8242c8aab2ec8c2bc68ac5e047804b5dc284b866b57165a0e0d045690</image>
+    <start>11:30PM</start>
+    <finish>04:00AM</finish>
+    <date>23 November 2026</date>
+  </channel>
+  <channel>
+    <name>La Otra ES</name>
+    <id>LaOtra.es</id>
+    <title>100 Rifles</title>
+    <desc>El indio Jaqui Joe roba un banco para as? lograr el dinero que necesita para comprar armas para su pueblo.</desc>
+    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
+    <start>12:45AM</start>
+    <finish>02:35AM</finish>
+    <date>24 November 2026</date>
+  </channel>
+  <channel>
+    <name>Law &amp; Crime US</name>
+    <id>LawAndCrime.us</id>
+    <title>Police Pursuits by Law&amp;Crime</title>
+    <desc>A man on the run in Florida leads police on a wild car chase.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6Im5QSzdEbytIYVEzSmRVZkE3ZkVqc0E9PSIsInZhbHVlIjoiS1RGR3QyRCtuSnE3alR3cU00dkVkMmF5U3pXdGdRRzVVYU53a3FxTys1bklDNTBTanEyZVlHVkJUdE56dmNuQjRlQnMzV05jMnVnQXVKTGZPeU5ocm5QNE9oY3Jhb3RKV1dpN3o5WlgwSkRzWllZazJcL1ljWGdZV2JPRThxeEpcLyIsIm1hYyI6IjYwOTJjY2Q5NTQ2MzIyNzYxOGJjYjM5Y2Q5MTY5MTkwZjc0NDBhNDNiM2QyMGI0YWZlMTJmMzk4N2UxMTdhNDEifQ%3D%3D&amp;signature=9487d297f7be40fe952c35d9f5427a412d60c5e13c156fb338c56f738053dfde</image>
+    <start>01:00AM</start>
+    <finish>02:00AM</finish>
+    <date>24 November 2026</date>
+  </channel>
+  <channel>
+    <name>MBC 4 SA</name>
+    <id>MBC4.sa</id>
+    <title>No title available</title>
+    <desc></desc>
+    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
+    <start>01:35AM</start>
+    <finish>02:10AM</finish>
+    <date>24 November 2026</date>
+  </channel>
+  <channel>
+    <name>MBC Action SA</name>
+    <id>MBCAction.sa</id>
+    <title>?????? ?????? ??</title>
+    <desc></desc>
+    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
+    <start>01:30AM</start>
+    <finish>02:50AM</finish>
+    <date>24 November 2026</date>
+  </channel>
+  <channel>
+    <name>MBC Bollywood SA</name>
+    <id>MBCBollywood.sa</id>
+    <title>No title available</title>
+    <desc></desc>
+    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
+    <start>01:45AM</start>
+    <finish>02:30AM</finish>
+    <date>24 November 2026</date>
+  </channel>
+  <channel>
+    <name>MS NOW US</name>
+    <id>MSNBC.us</id>
+    <title>Live: All in With Chris Hayes</title>
+    <desc>Chris Hayes reports on some of the biggest news and political stories of the day with a commitment to in-depth reporting that seeks to hold the nation's leaders accountable for their actions.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6ImFmbTgrVXlab3ZaTUxOcVgzVkVaMUE9PSIsInZhbHVlIjoiZFBuZFwvVmxYUVFSM2JsWG43XC9vRTRoZzdGbXR4Y1FVUWpueFJcLzRoSXRLUndhM0FhaGhUdnlkWk55alUxWWdBSk42dlpYQ2I0ZFYyZTNMRExhQjJjUGxYbmc4RUh3RFhxVlNUc2F4U3YwV0YzTVV4TG03cURyelMrKzZpZkF6a0UiLCJtYWMiOiI4Yzk0NWIyZDg3ZjgxYWJjNzNkZThiZTVjNWEwNDRhMjU2Yjk0ZDhjOGNkNWMwOTY1N2VkMzE5N2E2NzhkMWY5In0%3D&amp;signature=0bdac5cd7c196d22347015edf3ac6cf9b96c6bec1eb8d5f44a0f064648b005bf</image>
+    <start>01:00AM</start>
+    <finish>02:00AM</finish>
+    <date>24 November 2026</date>
+  </channel>
+  <channel>
+    <name>Mama RU</name>
+    <id>Mama.ru</id>
+    <title>????? ???????</title>
+    <desc>?????????? ??? ????? ????????? ???????????? ????????? ?????????? ???? ????????????? ????????, ?????? ???????????????? ?????????????? ?????? ????????.
+?????? ???? ????????? ?????? ???????? ??????? ????? ???????? ?????? ?????????? ????? ????????? ??? ???? ???. ????? ?????? ?????????????? ??????? ??? ???????????????? ???????????? ??? ???????? ?????????? ????????????? ??????? ????? ??????????????? ??????? ??????????????? ??????? ????? ??????. ???????? ?????????? ?????? ???????? ?????????, ?????? ??? ????? ????????? ??????? ????????? ??????????. ??????????? ????????? ????????? ???? ??? ?????????? ??? ?????????. ????? ????????? ????? ??????? ????? ???????? ????? ?????, ?????, ?????, ?????, ?????, ???? ??????? ????????????! 
+??? ????????? ????????????? ????? ?????? ???????? ?????????? ??????????? ?????????????? ??? ????? ???3-? ???, ????????? ??????? ?????????? ??????????? ????.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IlpQM0pxbXVsVjFIOUZ4NTNJV1k3VFE9PSIsInZhbHVlIjoiUnJpcFZaeExSb2lqVlhIQnFzcElGd3h5XC9xbk1tWXdZWlh5dDdWMHZxa3l2SytZK3lBYW50U2ZMckVxZmdnUGE2OFUyTGR0WVpsMWNvTEJibVB6VnZJY0hEY3dodm1Zd1pSSUw5NWtzRkhCWXlOak11VjVPcFNOaHRcL2NtWEZ5bzJvQmxIR000dE5jVVJTRkdZb3pTSXdoVnRsQW9vclY0YXBRQ215U2VhZm89IiwibWFjIjoiMTZjZWE0OGI1ZjIxZDNmM2UzNDdlYzMxZmVmZTg1ZTkzZmJkZGE0MmUyOTRmNmExOGIyZGNjM2ZiZWVlM2MxYiJ9&amp;signature=186151eb9d1cb8ddc784ef3d23a90d3e40a6955f7d1ae4854638f9bc89175202</image>
+    <start>12:30AM</start>
+    <finish>02:00AM</finish>
+    <date>24 November 2026</date>
+  </channel>
+  <channel>
+    <name>Movies 24 UK</name>
+    <id>Movies24.uk</id>
+    <title>Sincerely Truly Christmas</title>
+    <desc>When a Christmas wish goes wrong and Christina starts hearing what gifts everyone wants, she learns that getting a one-hit wonder to make music again could make lots of people happy.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IlwvZW4rcG5WcDNsVWZ2RXRCRVRtaUl3PT0iLCJ2YWx1ZSI6IlEzSFZiVnNDM05kMHlJWVU1dTZXNnNzRHdGdE53UlF1VXFWN2ZTTVpVZGZrNWZnbG03Y1RLUUtEVXB2UzdFMWxQTUN0dW9WR0RnemxGaDE4KzVmS3lyVjNNMzVocmxOYUxBalVHVWF1VkNWRnRVY3dKcnBEQVdqS1hpQkdPamhjIiwibWFjIjoiYTk0YjZhMDYxMmJlYzY4MTFhZWQ4ODUwZjE4Y2NmNWZhNmE1ZDk2NmJiMWE4YWY5YWU5N2NkODEzYzk1NmViMiJ9&amp;signature=6200bee422e0ba95da42b6678263016a3ec33ecec5e22bc2f4076058b30f7e6f</image>
+    <start>01:00AM</start>
+    <finish>03:00AM</finish>
+    <date>24 November 2026</date>
+  </channel>
+  <channel>
+    <name>Newsmax US</name>
+    <id>Newsmax.us</id>
+    <title>Live: Finnerty</title>
+    <desc>Rob Finnerty gives straight talk on the biggest issues facing America and the world!</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IlhCNUtxVU9lTzVQQ3NkdW85T0p4WUE9PSIsInZhbHVlIjoiam4wcG1GVjkwOG1cL3h1bHJHcHF3b244MVk3XC9QXC9xellaUmlrY3o3ZlBCeFE5ajhsU0tYUjV6OHZYa0ZNSlpmNW9PT2I4bVBGbG55eUllQmYxQmg1N1psSHk2MWFcL0pTSUdJdTdXMUEyRHBTckxVbTlRUzFBTXhjUHJXVFBUS3d1IiwibWFjIjoiZjIyYTNiMmE5MTVkMzZiMTQxMTM2NzBlMTZmMzVkM2I0NmZlMDY4NDhkNmIwMWQ0Mjc1MzRkOTNhYjUzZWI4OCJ9&amp;signature=770c05c0b7340c47b00195e0d188ff1105fc00ec8ca958b9fec076e1c3116f43</image>
+    <start>01:00AM</start>
+    <finish>02:00AM</finish>
+    <date>24 November 2026</date>
+  </channel>
+  <channel>
+    <name>Nick Jr UK</name>
+    <id>NickJunior.uk</id>
+    <title>The Adventures of Paddington</title>
+    <desc>A superfood cake creates some super heroes in 'Paddington's Hero Squad', then in 'Paddington's Knightly Quest', Paddington wants to become a Knight; but needs to complete heroic quests.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IklBU0JkSWNMQmFEXC82TEFCdVlZczBBPT0iLCJ2YWx1ZSI6Imd1aU9teVwvTFl2ZzYwNjhQVkJwUmRsM3NkUUFERGdGTjdwM1Jwc24zd2ptS2tlXC82c2J0M2d0TDlTYWZiOERPT013NjRDazhcL2xxUVEyUDBydFRuNVRnZHg5a0ptSEU4cGFJOURrMXRwUEtSQXVUZmY3ME9BUUVTVUZoVytCUmVUIiwibWFjIjoiNGQ4NjBjOWQ5YjY4ZDRjNzJkMDgyODYxZTE5ZWE4MWNlZGRhZWEzYzEwZWMyNmQxOTQwZWQwMDM2MGYzOTYzNiJ9&amp;signature=a26260b251eb50bf3fc24b0e13dab44f54d1cabf4c44b762a0203f86bb500ffb</image>
+    <start>01:30AM</start>
+    <finish>02:00AM</finish>
+    <date>24 November 2026</date>
+  </channel>
+  <channel>
+    <name>Nickelodeon RO</name>
+    <id>Nickelodeon.ro</id>
+    <title>Familia Thunderman: sub acoperire</title>
+    <desc>Cu: Jack Griffo, Kira Kosarin, Maya Le Clark.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IkZvY0JBN2dNSk5MdU5VZHdtMFwvZ0FRPT0iLCJ2YWx1ZSI6Ijk1SFpzaEdpcXc1eHRHdG82bTl5VVJNVEthUXlqVE5cLzZrdEZTVU1pTCs1UkZYNmUxdXNDdCtqTnRrTzJcL2ZxVllSbFNpYmE0dWtNMFNYOFZ1QlwvTlNSM0tOYWdhVmZ3aGljcW9cL3g3Q3dCWkNQTkIrbnM5dWtZVmZ2YzJKOWdWRyIsIm1hYyI6IjAyOGFhZThlZjljN2VjNzBiMmVmZTgyOGZiYWEzOGM3Y2NjMDFkZjMwOWNjYTJjY2FhYzgxYzgyYTVmYzQyMzAifQ%3D%3D&amp;signature=9b37e2ca03491342ece2313ef6a088ebc00b1e813921c1cec44f061387c17d3d</image>
+    <start>01:45AM</start>
+    <finish>02:10AM</finish>
+    <date>24 November 2026</date>
+  </channel>
+  <channel>
+    <name>PopTV US</name>
+    <id>PopTV.us</id>
+    <title>Law &amp; Order</title>
+    <desc>Detectives find no shortage of possible suspects when a psychiatrist who treats disturbed teens is found shot to death in his office.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6InVPNml4bWRGbjE5S1E4ckRRRWZxVHc9PSIsInZhbHVlIjoiTmV0YTVPUUNrZnZoRXpEdVU2a281MllYZVRmMWR6VDZNc1ZnM0lCUHpNTjJJb2JBZWhadkhENE5sKzdBWEJXUWpoTXQzZ2lRSDNqSDJRQk1xWDZtcTJLT2lJQU1cL0wxZmJ5bTV5dEFraHQ2ZUR6MUVPcE5xRUd4ZnY5TEFNWE1zIiwibWFjIjoiYmU1NjM2YTYxNzg2MTE1ZGYxOWJiNTkxM2Y1MWQyZTU5ZGZhODgyZGMzMDU0YjNiNmNkMGMwM2U5ZTJjNjgxMCJ9&amp;signature=7eaca9c6c36bd439c67abac63084322c8964d4be47634d92721cbb4471b08799</image>
+    <start>01:00AM</start>
+    <finish>02:00AM</finish>
+    <date>24 November 2026</date>
+  </channel>
+  <channel>
+    <name>Porto Canal PT</name>
+    <id>Porto.pt</id>
+    <title>Pausa na programa??o</title>
+    <desc></desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IjY3Tnh1dzVwYW94QnF0bk5wVHd0NlE9PSIsInZhbHVlIjoiR09US0FnVlBEY1FZQUQyNnlnK2pkaUVBbWRoUFZDM0VyOTFZdDc3aWk3MmdVVFZLR2doTVhnT29LbjhmMzdUR0Nxck1SQkQ2Yis0YjhNVEVMVUZHSXVHajF4cFwvNFYzaGt3SUM5TkxhSTVBNER1eENtdnhvY0VJREJ2YmFaQWdPIiwibWFjIjoiMzUzMzcyMWM2MTliYjU2NWQyODMzOGQ2YzI4M2I4NmM0N2Y1MGE3MzQ3Njk3NjNjMzIwOTExMjQwMDE0ZjM1NiJ9&amp;signature=598e0b45c982c61b56ea45c52230b8397284a93257e5e5082dc3f633d3785972</image>
+    <start>12:00AM</start>
+    <finish>04:00AM</finish>
+    <date>24 November 2026</date>
+  </channel>
+  <channel>
+    <name>QVC UK</name>
+    <id>QVC.uk</id>
+    <title>Christmas Gifts with Abode</title>
+    <desc>Discover thoughtful Christmas gifts with Abode and find stylish touches to bring joy to someone's home this festive season.</desc>
+    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
+    <start>01:00AM</start>
+    <finish>02:00AM</finish>
+    <date>24 November 2026</date>
+  </channel>
+  <channel>
+    <name>QVC Beauty UK</name>
+    <id>QVCBeauty.uk</id>
+    <title>Best Of QVC Beauty</title>
+    <desc>All the highlights and star products.</desc>
+    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
+    <start>01:00AM</start>
+    <finish>02:00AM</finish>
+    <date>24 November 2026</date>
+  </channel>
+  <channel>
+    <name>QVC Style UK</name>
+    <id>QVCStyle.uk</id>
+    <title>Best of QVC Style</title>
+    <desc>Catch all the recent highlights from our sister channel with the Best of QVC Style.</desc>
+    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
+    <start>01:00AM</start>
+    <finish>02:00AM</finish>
+    <date>24 November 2026</date>
+  </channel>
+  <channel>
+    <name>RDI News CA</name>
+    <id>RDINews.ca</id>
+    <title>Les grands reportages</title>
+    <desc>Une histoire qui m?le politique, franc-ma?onnerie et services secrets. Une affaire compl?tement folle, qu'on pourrait croire issue d'une s?rie polici?re de fiction.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IkYyZ096SVYraUNDMGdXMjlxZFRhUFE9PSIsInZhbHVlIjoiYWYzMWpDT2VFUUxQdHo2RnYyYUJSVlp5aFQ3NllsV2FweEg0OXpWV0RXNndQMnF2TTVyUldSZ0hXalNhS1wvZlN2aHVjNHM4TFlwK0VZck4yVEVYZnd6R2ZNTWh3WkhGRVlXQjR1QkVENkNzPSIsIm1hYyI6IjBlZDAwZWJmYzVhMzJhNzMxODkzYmViYWViNzY0NTI3MjczOTlkZmFiNDNkOWMwZWQ0YmJhNTQ0MTNjNWU5MDUifQ%3D%3D&amp;signature=85453c5a529ccbf73afb7d4324c6efc36b61bcbd76583363e67a9cafd78f16cb</image>
+    <start>01:00AM</start>
+    <finish>02:00AM</finish>
+    <date>24 November 2026</date>
+  </channel>
+  <channel>
+    <name>RTE News Now IE</name>
+    <id>RTENewsNow.ie</id>
+    <title>EuroNews</title>
+    <desc>The latest International and European news.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6Ijdzb0dudXhLVWR2dlwvd3dmM1FzVzJnPT0iLCJ2YWx1ZSI6IkN1RTJpS29ocHd2OUhFVVNPd05xU21MVXQ5NHZZN1Qya1JrSnl0SlNXbjRBTURqc0JaK3RiZm5UZjRtWkVCcEh6a25xQXpOcmhCMGJmRTM3VnR6MmpYdEVyZkY0UzRBMzdmdmtvVlVkcmd6TUc4MTl3Nlk4M2ZKNzJlVjBTYWdKYlJYcWFpN2RpdE9jWDE0VmxYQ2FJUT09IiwibWFjIjoiNDUzZjZjYWJhZWQ5MTcwODk4NjA3ZDQzOTE2YWQ4NjBlNjYyMjQ3ZGIwMTBkOWEyYTEyZGJjOGM3M2NhZTQzMiJ9&amp;signature=aefc6938959cb0280b0e3164be834226bd2e2fcae9dfc8ff8f7d38a335c50f5d</image>
+    <start>11:25PM</start>
+    <finish>07:00AM</finish>
+    <date>23 November 2026</date>
+  </channel>
+  <channel>
+    <name>RTM CZ</name>
+    <id>RTM.cz</id>
+    <title>Blok po?ad?</title>
+    <desc>Region?ln? zpravodajstv?, publicistika, magaz?ny, besedy, z?jmov? a sout??n? po?ady dopln?n? o dokument?rn? tvorbu.</desc>
+    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
+    <start>01:00AM</start>
+    <finish>02:00AM</finish>
+    <date>24 November 2026</date>
+  </channel>
+  <channel>
+    <name>RTP Internacional PT</name>
+    <id>RTPInternacional.pt</id>
+    <title>Notu00edcias do Atlu00e2ntico</title>
+    <desc>A aproximau00e7u00e3o da diu00e1spora com origem nas regiu00f5es autu00f3nomas dos Au00e7ores e da Madeira, com os assuntos que marcam a atualidade destas ilhas.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IkJVbWRYT3dZTmZoYjdsNisrMFBScVE9PSIsInZhbHVlIjoibFZFSGk5UWpHYmJHaGZjVSs2SFwvSVwvVUdtRmlwZG00Q0F3cW9pWVltTkFrQ2E0QmpFR2JUR1JmUjJFdVk3ODg5MXhMSWluMHlLRk5rWVVqTHRPRHIxcmdNXC9jNmdFSGJmNjlIVzk1c3ArbGdjNTRiZ0pIbFNRSTlReUwxdWQzYmwiLCJtYWMiOiI2MDdjOTMzYzFjYWVhYWVmNDk0OTI4YTJhZWQ1OWQ4ZGM3NDVjMjVjM2M3ZjZjMDI2ZDA4YjM1N2FkYjMyMDg1In0%3D&amp;signature=4ebc07accea29fb471c532c457230735269b36fd8fff7d2a7e170c5c7b1606d6</image>
+    <start>01:00AM</start>
+    <finish>02:01AM</finish>
+    <date>24 November 2026</date>
+  </channel>
+  <channel>
+    <name>Rtp 1 PT</name>
+    <id>Rtp1.pt</id>
+    <title>Neg?cio Fechado</title>
+    <desc>\"Neg?cio Fechado\" explora o valor oculto de antiguidades e colecion?veis. Eduardo Alves Marques e T?nia Ribas de Oliveira desvendam a hist?ria e o valor de cada pe?a. Depois, os vendedores negociam com um painel de compradores, incluindo ?lvaro Roquette e Alexandra Carvalho, para obter o melhor pre?o. O programa cativa pela curiosidade das hist?rias e o suspense das negocia??es.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6ImdkdjNNamljMVVHMUF5eHBPQlR4Z1E9PSIsInZhbHVlIjoiajVER0JDQmNjNDVXN1VjRkNMNWxDK21tdDJGUWhUbWF4MERuMzYwbnNaVFMzMnpabThTSkcrVnBxQXFMdVwvVlVoYytwMzBCWldubFJPWXBwWUlEZWsxZ2pXQVF3MU12dG1Fck12Zk55bXpDY0ZyMHNmMGVFbUJWVmFId3dYM2R2IiwibWFjIjoiYzE3NTRjYzVkNDQ2YjAzOGU4ZGMwZDRlMTE0MzcyYjhmZmFkOGExYTU1MzAyNDMxNjZjMTkzZmYxYjNiYmFmZCJ9&amp;signature=52d441551c1c1995be975544511abd9603778dc814f9f711a6bbdf391714de7a</image>
+    <start>01:11AM</start>
+    <finish>02:06AM</finish>
+    <date>24 November 2026</date>
+  </channel>
+  <channel>
+    <name>Rtp 3 PT</name>
+    <id>Rtp3.pt</id>
+    <title>Tudo ? Economia</title>
+    <desc></desc>
+    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
+    <start>01:50AM</start>
+    <finish>02:40AM</finish>
+    <date>24 November 2026</date>
+  </channel>
+  <channel>
+    <name>Rtp Açores PT</name>
+    <id>RtpAcores.pt</id>
+    <title>Viagem a Portugal</title>
+    <desc></desc>
+    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
+    <start>01:39AM</start>
+    <finish>02:31AM</finish>
+    <date>24 November 2026</date>
+  </channel>
+  <channel>
+    <name>Rtp África PT</name>
+    <id>RtpAfrica.pt</id>
+    <title>Bem-vindos</title>
+    <desc>Esta semana, o programa explora diversos temas, desde a Dislexia e o Desporto, com Nuno Delgado e Isabel Henriques, at? ? hist?ria de Karina Pereira e a sua marca \"Salgados e Doces com Amor\". Selma Uamusse apresenta \"Da Minha Casa N?o Se V? a Escola\". O Padre Manuel Cust?dio Langane discute a f? na comunidade africana, e Ana Paula Tavares, Pr?mio Cam?es, tamb?m marca presen?a. Dina Mendes e Cremilda Medina asseguram os momentos musicais.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6Iis0N1oxQWU0TFFRUG95MjliMDluRGc9PSIsInZhbHVlIjoiaklIR2NzU0JsMlltNkF2MFdNZjI0MTIzaXBBRW4zUUNKdmdWWCtPb3JuZkk1N0RHekJTOG9rdm82anBIeEJpVDBYYmVZbnlcLzhmaXBGd2xrcnp3emxxSEhZRzA3WEJpY2FyV3R6WXM0UHhjWVNUXC9JTXlFUHpoUEk0clc0a2ZXU210enlXUlBWWk1LbHlyS0d5MTA5ZzRQd1EzSGt1SGc5OGFuRWxmcW16b3pYYTc0dWhsQzQ4ODR2aGJGQ1FkRllNQ2ZxMnY3YklKODdyQlRlYVR0alVKVE9kcnRaY0JRcTZVZ3lla2JtSklnbnBxa1Z1SmVFZDRcL0NSZzVTcTNuXC8iLCJtYWMiOiJlM2ZkNzY2NTVjOGE4MWJmYzhhNjdkMWE0MDdmMDhhYjM1NTIzNGJkNDJmZjhiMWY4Y2JlYjRlZWE2ZGE5NDc5In0%3D&amp;signature=676b8af572878e9f0792e8725ae171046939661f65f1716d6e11271224b6f00f</image>
+    <start>01:29AM</start>
+    <finish>03:26AM</finish>
+    <date>24 November 2026</date>
+  </channel>
+  <channel>
+    <name>Rtp Madeira PT</name>
+    <id>RtpMadeira.pt</id>
+    <title>RTP Not?cias (RTP Madeira)</title>
+    <desc></desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6ImViRVlkcUM5MWY5ODZQMVJ3Vng0Q3c9PSIsInZhbHVlIjoiMnQxU0U5OUNubkZuTm1qYmE0OUVzS0swdExlU0hlYjNlTXFkRFBZN3pLbEtabWpmSHA3MUYwV0NkbWZxUDFORXZ4VkpoSm1EN3l0OUt3V0NFMEtHc1wvN1I2U0NhemQyeFQrdEFlc1JJeTQ5dXJzM0VRclo0TEFPK0dld3ljMUhNcFwvUEM2TTRLb1RWYUNucHViMDRvVzNTOXg0dmJ3c1ZcLzM3VUtIajJ6a0NvOExwRktxd0hqOGxcL0ZlcnkwdzFoN1FPbUxNcnhwY3NJTVoyczR0VGxMbHptdlpQWnJUdHhkZ1M1SmZSY2ZUSmZKekk5d2pPMjVRMzgydERqeW0ramciLCJtYWMiOiJiOTQxOWVkODVkZDRmNTc5YzNlODA4NDUxZTc5NDdlYTU2NzgyNDQ5YjRmZjkwMWQ3OWE0ZjIxMGExMDQzNmU2In0%3D&amp;signature=5baec62d487f2545287b9f27ea382e6722de2ec537dc14ab506f499f91fa6caf</image>
+    <start>12:00AM</start>
+    <finish>06:30AM</finish>
+    <date>24 November 2026</date>
+  </channel>
+  <channel>
+    <name>S4C UK</name>
+    <id>S4C.uk</id>
+    <title>..programmes start at 6.00am</title>
+    <desc>programmes start at 6.00am.</desc>
+    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
+    <start>01:00AM</start>
+    <finish>06:00AM</finish>
+    <date>24 November 2026</date>
+  </channel>
+  <channel>
+    <name>SABC News ZA</name>
+    <id>SABCNews.za</id>
+    <title>The Late Edition</title>
+    <desc></desc>
+    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
+    <start>12:00AM</start>
+    <finish>02:00AM</finish>
+    <date>24 November 2026</date>
+  </channel>
+  <channel>
+    <name>SKY Racing AU</name>
+    <id>SKYRacing.au</id>
+    <title>Sky Racing 1 Race Day</title>
+    <desc>Thoroughbreds from Tamworth, Ararat, Wolverhampton, Mahoning Valley, Finger Lakes, Zia Park, Maronas, Gavea; Greyhound Racing from Gawler, Horsham, Geelong, Q1 Lakeside, Horsham Extra, Gosford, Hobart; Harness Racing from Menangle, Albion Park.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6ImV4b0R3N21mR2NITWtSV3RiNkl2U3c9PSIsInZhbHVlIjoiQmpYdGo5a2xcL0hJdVlESlwvWW9Fa0JHRUppVmkyeHgxZURCSGwrcGZOMVNCa2hkMnJ4S0hDOWdZdGRZZlZsdzZqVUdMdG40RW1qMGQ0MVwvOVRrc0laOVZCVGkwNUMzV25rSDUwTjM3XC9JNlMwXC9KNFdHOFpkaFJ0MGNDaTdBeG1UQjdVbnlXbWw3QVlPK2swUWtyS2kxUFBDZ0drT3RxOFFlQTd2bXVza1lMTEE9IiwibWFjIjoiZWRhYTE5MmY1NDk3Y2YwZDdjYTAwZDJjY2Y4ZWQyNWJjZWU0ZjdjMWE3MzEwZGIwY2E1ZGUwMWJhY2FhOGUyMSJ9&amp;signature=7fc4dd74d03a3c69f6968ebfc9d068cca3dfac03c322e320f88c66d1b86dfea8</image>
+    <start>01:00AM</start>
+    <finish>07:00AM</finish>
+    <date>24 November 2026</date>
+  </channel>
+  <channel>
+    <name>SKY Racing 2 AU</name>
+    <id>SKYRacing2.au</id>
+    <title>Sky Racing 2 Race Day</title>
+    <desc>Thoroughbreds from Urawa, Nagoya; Greyhound Racing from Geelong, Q1 Lakeside, Gosford, Yarmouth, Nottingham, Harlow; Harness Racing from Mohawk, Western Fair, Northfield Park, Yonkers.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6ImkyOWZpdDZTa1JOek1IcW9cL1A2dGpRPT0iLCJ2YWx1ZSI6Illwa2xWbXVQVmdpd0R2YlwvSmcyNUt2UENybUR3OXRHYjkydHk5YVwvbngrYkJSSHIxVVA1ZGFsSnAyWTZyZTNWb1NUbG4weWVncDFreCtPZ2g3UU9Udkcxb1k2YUtNc2ZST082U0dTUmNCMjgySEVIb1hDeFN5a0hNalZDVytVcnI0WnJWNGlaYjh3V25Ma0ZxREJSc041UnlzZWJ0c1JvcFwvTUpoQXJ5VkVwaz0iLCJtYWMiOiJhZjI2N2IwNDY1ZTQ0M2Y4YjZhYzUzNWQ2MmEwOWEwMWViOWNjYjcxMTZjMTcwZWFjYWYyN2MyNjc2NDBhZDlmIn0%3D&amp;signature=948b065f33ea6ae532ef322007d8e0458ca4be793467bc826728dadc5cdfbb5d</image>
+    <start>01:00AM</start>
+    <finish>07:00AM</finish>
+    <date>24 November 2026</date>
+  </channel>
+  <channel>
+    <name>Sky News UK</name>
+    <id>SkyNews.uk</id>
+    <title>Sky News</title>
+    <desc>A round up of all the latest news from the UK and around the world.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IkQwcEhUaEdLeTVQWlY3bmpmUHVVTGc9PSIsInZhbHVlIjoiK1N0VXFwMURLTXVUcDRYSjZYYlFFdjgrOWYzYXo5dnpaVmVZZDdrUlBZQVBqVGxyQ1lGcGs1UVY1dFFxZmpzVWZDdWxPelo5R1I5N0xuN3FmdjlOcVBUTjRzTXU4XC9HNTBpRmlEY3gwcHVNWml4UWo4Yzc0cnBpNHhwRUV1aWdMY0h3MG1kaEQ3Wlk3UGJJa0NOVmxYUT09IiwibWFjIjoiMTEwZmQzM2JhZDEzMTE3YmEzNDU4M2M2NGE5MTllOTZkNjNiNmI2ZjFlYmZkYmNiZDAwZWVkMzgwOGJlZmVkZiJ9&amp;signature=072422daaf09572558d9f02b16673b527cb5f4a2bfa8486ec4feb717e0c536c5</image>
+    <start>01:00AM</start>
+    <finish>02:00AM</finish>
+    <date>24 November 2026</date>
+  </channel>
+  <channel>
+    <name>TF 1 FR</name>
+    <id>TF1.fr</id>
+    <title>Programmes de nuit - TF1</title>
+    <desc>Programmes de nuit.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6ImQ1RG5lUGI3ZFwvQUUzMzBoT09SR1B3PT0iLCJ2YWx1ZSI6Ilc1Y3ZzVW5KaVRVTk9pT2x2Q3p5bjdBQTVhUlMxN0JkZkl1RXRRYlNkQ0Z0c3V6V1wvNTl4NWFOcUZVb2d6VG5mc3RhVmpHc0p2V1hNREgxVTI1cTFpYWJOMjlpTVV5aGdXWUFOVmhNbk9nOERwNkRHVkNjRzR3bGd6dmd0V1lLaSIsIm1hYyI6IjYxNGFlMTIwMjM5YjM4YjU5YzJiZTRjNDkxMjEzZTBmOWIzNzQ0NmE5ZTI4NjgzODUwOTBiZmQ3Mzk4YmE3ZDUifQ%3D%3D&amp;signature=871ac83af79855f9fa60a130547b7802bccf43a145db0604f78b2bee1d1a53d2</image>
+    <start>01:40AM</start>
+    <finish>04:50AM</finish>
+    <date>24 November 2026</date>
+  </channel>
+  <channel>
+    <name>TF1 Séries-Films Fr</name>
+    <id>TF1SeriesFilms.fr</id>
+    <title>Programmes de la nuit</title>
+    <desc>Retrouvez tous vos programmes de nuit.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IkRPXC9TNEhCSWpkQjYzNFhWcXVvXC84UT09IiwidmFsdWUiOiI1ZjRxdmJtdkdYVnh2WWVNWjhiSFZVSmhoR1wvVFwvTG9lVVhXSlU0WjV5VXRiVEs0S0hHZGlJZVZEUkhsVlFqK3lHZVFaeDdvaTBZSkd1R2NwVTR5Tmc3cG9wY3YzSDVNckhIV3hRXC9FUjB6RW1CQlh5MUtOSVwvdThhQm1tR3JwN1MiLCJtYWMiOiJkZTNhZDg0OTU2ZjhmYmZmZjRkN2E2ZGEzNDZjZTA2MDYzM2RmMzFmOTFlOGRmMTk0YzZmZGZjYWI2YWM5Zjc4In0%3D&amp;signature=9d9f1cf3f4c0962f6019b95dc96aa78f0d8e3bcca047d0131eda00145b05ed94</image>
+    <start>12:46AM</start>
+    <finish>05:25AM</finish>
+    <date>24 November 2026</date>
+  </channel>
+  <channel>
+    <name>TFX Fr</name>
+    <id>TFX.fr</id>
+    <title>Programmes de la nuit</title>
+    <desc>Retrouvez tous vos programmes de nuit.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6Ildmb01nS3VrVnRuNXdqbXlXczdpdFE9PSIsInZhbHVlIjoiekYxOWtGdDQ3YlRiUXZjRlEyQ2xZaGNXcG5kVVhNUXJcL1VuNENGQVg4TXV3UUJQVU9EM1RoZm1kSkhqOFwvWnk2ZVB2aGI2dFZ6c2h4clc2azZHaUhxdHlneHZEa1h2K2JTUWlPUWdkOEtUdFZcL28zYTREMno1VFpUMml3ZTlhOHAiLCJtYWMiOiI2ZDFkZjQ3ZmNkZDhhNDMxMTg4NDJiOWUyMzViMmRiOWQ2NWU1Y2U3Y2IzYjY1Mzk4NWFhNjkxZDRmZjU1NGU2In0%3D&amp;signature=b25f3b1e1cf4fcece7972eeeab45c8513c54c626b6344003024eec9d09dba205</image>
+    <start>12:45AM</start>
+    <finish>05:00AM</finish>
+    <date>24 November 2026</date>
+  </channel>
+  <channel>
+    <name>TG4 IE</name>
+    <id>TG4.ie</id>
+    <title>Call My Agent!</title>
+    <desc>T? a s?ith le d?anamh ag Camille ag cur in aghaidh Mathias faoi chearta scann?in a fh?il do leabhar.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IlA3eW9VU1ZPN3p2WjdNQWFNYWYxVEE9PSIsInZhbHVlIjoiYlkxVDJoNTJ3SmNkT0pnNFJcL0xkeE92VnI5YVczQ1lUcjFnNWRDckFpZUJvWm9KOWlXeFFtMzZsUTJxcFZ1cllaUmxoQnZrRjVNUDBpaVVRQVJ1NCtoZXNKMmFaOVFmZ3R0eERnVzIyMEh4Y3Y5cXFGYWRLR0dXbGN3YjJoVW9DNStzV3c5bUNLd0Q2VFdxSVlpV0xidz09IiwibWFjIjoiZjJmY2I1NDA1YWQxNjNlYmZhMmRkM2RjZmZiYTk3ZmIwNjhlOTc4MjgyYWJlZGQwYzM1ZTM5ZDRkZTlkNDdhYyJ9&amp;signature=a6cd05c7a9335f7daf9795d7c308b391827f7f327ad54ce60d4d0954c8d7fad1</image>
+    <start>01:15AM</start>
+    <finish>02:30AM</finish>
+    <date>24 November 2026</date>
+  </channel>
+  <channel>
+    <name>TRT Cocuk TR</name>
+    <id>TRTCocuk.tr</id>
+    <title>Maysa ve Bulut</title>
+    <desc>Y?r?k obas? olan Ak?aoba ve burada ya?ayan be? ailenin k?lt?rlerini, masallar?n?, ya?ant?lar?n?, geleneklerini Maysa ve Bulut'un g?z?yle ke?fe ??kal?m m?? Maysa k???k bir y?r?k k?z?. ?obanl?k yapan Bulut ise Maysa'n?n en yak?n arkada??. Bu iki arkada??n oyunlar, maceralar, t?rk?ler ve masallarla dolu ya?amlar? hem e?lendiriyor hem de y?r?klerin hayat? hakk?nda bilgi veriyor.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IkR2MUJnYUtXQkRNNmtKTWlRTWd2aWc9PSIsInZhbHVlIjoiRDhUMzZhOTJhWjVLNEhOXC9cL1BtV0psajhVaVRBVEl4MG9ZeVRzTXBKK2hwaTRCT3lGcVN4V2xma29LVFRrNG5kanRySlVtNVhTbnFJYnJ1aEtDa1JJeHFaQzFqcU1OXC9aZWRmQVVtT2w0VW9TTVJGUDlTNFFnVjVkazdLN05CYWQwWjZMME1IUCtaUFg5T05pNEU4MzZwc040SGVYQWVKRlVXM0dCS3NsM1NOeFVqRDFFVTVjZFMzbXdwVjVpVHdJb0J1aXVsOFdwOGU2OGdqOFdjTyt1UT09IiwibWFjIjoiZDczZGEzYTY4YzAzNjRiMDc3OTE1ZWFhMzE1YTI4NDUzNjIyODRmYTRiOWM4MjA3ZjgwNmQ3M2U4OWViOGM0MSJ9&amp;signature=e63710ec5ee5f514f247be4477c55e6b2fd890af2df611b2c87a36ec7aab56d7</image>
+    <start>01:35AM</start>
+    <finish>02:00AM</finish>
+    <date>24 November 2026</date>
+  </channel>
+  <channel>
+    <name>TVNZ 2 NZ</name>
+    <id>TV2.nz</id>
+    <title>Everyday Gourmet With Justine Schofield</title>
+    <desc>MasterChef Australia finalist Justine Schofield shares some of her favourite recipes in this cookery program aimed at ideas for the home cook.</desc>
+    <image>https://commons.wikimedia.org/wiki/File:Image_not_available.png</image>
+    <start>01:30AM</start>
+    <finish>02:00AM</finish>
+    <date>24 November 2026</date>
+  </channel>
+  <channel>
+    <name>TV 5 Monde F-Be-Ch Fr</name>
+    <id>TV5Monde.fr</id>
+    <title>Meurtres ?...</title>
+    <desc>Sous le d?me du vieux th??tre ?questre du ch?teau de Chantilly, le corps d'une jeune ?cuy?re est retrouv?. Elle a ?t? assassin?e et son meurtre fait penser ? une l?gende du ch?teau, celle de l'anneau magique de Louise.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6ImdibUxLSzljUnZKaDgrMHhHRTF5U3c9PSIsInZhbHVlIjoieFdvS3pYSzZ3cW1HcXVtdGtpaHkwSDdENTcrN2dkXC9WOXdtdVJUZlUxNGIyUUY0d2dXZ1lKelpLaHhQbTZIZFpsRTAyWUgwTEVFd0lzVE0rZFQ1Tjh6OFlBemNsZmFEejkxN21RM1h3K0pZSTRzT29DQkNUMkVnanZydjRWTmZiIiwibWFjIjoiZWRkZjIwMzRmNTUwMDhiZmI5MWMyY2M4MThjMjZiZjU3NGEzODVjYjgxYmU2MTMwOTg2OTRhNTZmMTI1ZjNkYiJ9&amp;signature=f575267c072dc006249d1edbba73b7a25860c0af39696b9efc513b5ee4e9e0a5</image>
+    <start>12:42AM</start>
+    <finish>02:13AM</finish>
+    <date>24 November 2026</date>
+  </channel>
+  <channel>
+    <name>TVA CA</name>
+    <id>TVA.ca</id>
+    <title>Les armes</title>
+    <desc>Savard, Ivan, Durand et Caron pr?parent le forage pour se brancher chez Selenar; Rose et Vanier se r?concilient avant son d?part et l'unit? JTF16 quitte pour leur mission d'extraction en Bi?lorussie.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6Ik45MkxTMVRQVU9NVW9SSys1V3BTTkE9PSIsInZhbHVlIjoiOStpT3F2Rmx2cnREbTlyWnBhTFlHZm85blBGVHZxeUZPQ0lNS29RNEt5S3FJUlBObkc0K0ttQTNScVlLOVJxSWNKeVZEaWdSaWFNQngwa0RNczh5SVJyWW9jRHRiUTlWamkyQ2lYR0k0Q3d6ZjB3a1wvQkVrYXI2NE95YytRTUNpIiwibWFjIjoiY2JhOWVjZmE3YWZkNGVlMWM4ZDRiZDFhNzEzOTAxZjg1MWFmZTUxYTg0NjFiNTEwNjg1ZmI4ZWJjM2E4YTk5OSJ9&amp;signature=153f9efa3b349fef195a2bd5dfc5b6ad66c19df9b8b1c7fbfd07555ccfcebe79</image>
+    <start>01:00AM</start>
+    <finish>02:00AM</finish>
+    <date>24 November 2026</date>
+  </channel>
+  <channel>
+    <name>Together TV UK</name>
+    <id>TogetherTV.uk</id>
+    <title>Real Thick Glasses</title>
+    <desc>Solomon Watkins' quirky take as he interviews Michael, owner of the world's most unique collection of Really Thick Glasses. Funded and supported by Together TV and Cat Flap Media.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IjRYRXlZVlJvaExaTmtWTFdwNCtLNFE9PSIsInZhbHVlIjoiQXpOMDNlbXFjV0pPUUdMWHZZM1FpaXVmZUdTQnZOdXgwa2xha21QNjhcLyt0cGhtbmNHMnNmcWQ2T0RxVllsZ0xcL0p4MnRaSDNyc21GTURRNXhXVTV2U2dISjZFUEVSV2dXdEZrU1lQZGt1VlN0WU43MGpRdGc2SUNyWmNjaUVpaG1GNVAydzlldnZUeHBCQ2ZuTVpaZ3c9PSIsIm1hYyI6IjdkNTYxNmYyZmI0MTE4NGNlNDMwNTNlODY3MTU2NWQ1OWJkZWM0YWNiYmRmNTk1NjI0MTZlYTNkZDI0MDllNjkifQ%3D%3D&amp;signature=4a5513cc4f3114801ac581dd7c813a7ee137380129e7aa7fb314fabf0e75c074</image>
+    <start>01:45AM</start>
+    <finish>02:00AM</finish>
+    <date>24 November 2026</date>
+  </channel>
+  <channel>
+    <name>CW Boston US</name>
+    <id>WLVI.us</id>
+    <title>Private Eyes West Coast</title>
+    <desc>Will's audition for a rebooted paranormal reality series is derailed by a chilling on-set accident; strange incidents have piled up, sparking rumors of a haunting.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IkxhemFzZFRBXC9yQXlIU3B0d0l6T01nPT0iLCJ2YWx1ZSI6IjdpQmloQm8rVlVRcjNnWHh0YXFBSmhTZHhjRHU5UkdWVjNXdkxJUnlWbjlkRGlSZXRFeUhDR2lSOEFjSzJvNDdqelZsQVYzSzVYQ2tFUFJHc3FYaFBcLzh1dzZRaDhzY093UnkrQVo1anp3V1VpdnJWTm1wVVRpMlNxamN2QWZVcyIsIm1hYyI6ImZiNGY1MTdkZjVkMDc1YTE0NWJmMGYzMTc4ZjI0NjgyYzUzM2MyZjRhODMzZTE1YzFjZjg1OTEyMTQxNjk3NTYifQ%3D%3D&amp;signature=a7cf9caff6394ff5bf6e941177a1cae7dec2a67328daf5d4b1935405bbc8c84b</image>
+    <start>01:00AM</start>
+    <finish>02:00AM</finish>
+    <date>24 November 2026</date>
+  </channel>
+  <channel>
+    <name>Detroit PBS US</name>
+    <id>WTVS.us</id>
+    <title>Antiques Roadshow</title>
+    <desc>Matt Groening artwork; Charles Loloma bracelets; Evel Knievel's leathers.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IkF3bW9MYUJxaWlZUUZXS0JaT2JaYWc9PSIsInZhbHVlIjoiK09sZlpiYzY4T2hsMFA5b0htSGZ4VXRhcUZmVGk1ZG8yWVQycFNQeGxMUWJkYVhBYVhlc1o0WkVyUkE5RDFPNjZiM2pDZDJNN1M2YmVwd3BhTytjZGp0cVBqTG05MmNCam5UdFk1Wjd1dlpWcnRVRllPbnlVVEZOUEVRdVpyQTMiLCJtYWMiOiJmMDdmZjA1YmIxMzg5NTZmZTk0MGQyOTVlNzFkYmI3MjhhYjA0NjY1ZTE1NmE5OWZmNjdhMzAzZjIyM2RhNDNjIn0%3D&amp;signature=3f112c79c618b2b98eaf663a3e2a31608ce3f9f85b23483441f63f8eb378602b</image>
+    <start>01:00AM</start>
+    <finish>02:00AM</finish>
+    <date>24 November 2026</date>
+  </channel>
+  <channel>
+    <name>Weather Channel US</name>
+    <id>WeatherChannel.us</id>
+    <title>Weather Unfiltered</title>
+    <desc>Uncensored take on weather and storms from an expert trio as unpredictable as nature itself.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6InlQSXQ5WG1vOGs2Q1lnU2xmZHM5K2c9PSIsInZhbHVlIjoiQXVuZnZGXC9NRjQ4RjZwTVBlTlZWc1o3MkFGdWRiUlFYckZvRWNkM3d3NDlwRDB5OFBjcnRFUWJBWHZYdWh2T0U4ZGtWNmJQK1RUY3Y5Z1dTY0t0RXNteEpEdk5BdEhTN25ZaXpQcWdyTUIrblo3NzZXSDRiaHRlbUc3WE5KR1RMIiwibWFjIjoiOTdjNWE2MmE0NjQ5ZTBkNTZiZDc4MTRlMWFkZjU0NzI5MmJmOTY3OWQ5Y2U1MDY2ZTllNmI1NjEyMGZhNjYxZCJ9&amp;signature=f3130430e3e0b00fc6f25d5f7f36000d6ce7453cadefa685baa4abd73bfdda61</image>
+    <start>01:00AM</start>
+    <finish>02:00AM</finish>
+    <date>24 November 2026</date>
+  </channel>
+  <channel>
+    <name>Weather Nation US</name>
+    <id>WeatherNation.us</id>
+    <title>Top Weather News, Regional Forecasts, Live Severe Coverage, and Local Weather</title>
+    <desc>Live top weather news, severe weather coverage, regional forecasts, and a look at your local weather every hour on the 7's. Get more local weather, sooner!</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6IlZYTWc0XC91S1RnTGdZVk5iN1pjXC9CZz09IiwidmFsdWUiOiI3V28xN21tK3hmSFR1VVRQWXRVa1JtTmhFaDFIVWhXMTVMM3J5eTFBc3F2dUd4TXo3OE9MbzNERlRGekpFSjdCUm4ybkxBbFBwQklkdWRmTERxVWFcL1FHcEVlUmtXK3JcL29tTXBUMlVKTEZubCs4eUdSRDNsa3ZLQTRITnZ2UEZ5IiwibWFjIjoiYzUwN2Q0ZDUzZDk0ODE3MmVjNmYyNWJhMjFlZjYyOGY5N2Q3ZjAxNzRkZThkMGU2MmJmMTg2ODFlZjQzZjYxZSJ9&amp;signature=1125822c5d7b3bf61d85d3cd3f13af3f2e5dcf7aa78579cf277e47538702f1a0</image>
+    <start>01:00AM</start>
+    <finish>03:00AM</finish>
+    <date>24 November 2026</date>
+  </channel>
+  <channel>
+    <name>Z Living US</name>
+    <id>ZLiving.us</id>
+    <title>Silk Stalkings</title>
+    <desc>Chris and Rita get down and dirty investigating the deaths of local mud queens.</desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6InFLVHVsQjByMW5OTHNyVXFMM2FiaUE9PSIsInZhbHVlIjoiOWRsUXJIcmc1XC93UG9KdngyVk1EXC9FOTRLaTRVc0Q2c0dZbGZkNHorRXFKeW84OWRKcmNBc2hSUHIrblkzc2wzdU1aOTZ6WXJCVnhwT2NibDY5ODVidWxudm1GVU1HRklGQ2szaEgzcjI4bTBOcHpuSURwTFZmcU80RW5QQWFUeSIsIm1hYyI6IjdhYzMzMjEwODA1OTk1ZGY0ZWRhYmY2MDE5MmMzNzZjM2Q1ZGUwNzQyZTU0N2U5YjI5MDk2YTgyNmE4Y2QzZjIifQ%3D%3D&amp;signature=4c165afe13aed42093ae9e4884c9c288e2b15c522999a05b30e449db2e287b20</image>
+    <start>01:00AM</start>
+    <finish>02:00AM</finish>
+    <date>24 November 2026</date>
+  </channel>
+  <channel>
+    <name>Happy RS</name>
+    <id>happytv.rs</id>
+    <title>Provodad?ija</title>
+    <desc></desc>
+    <image>https://epg.best/assets/program-icons?program=eyJpdiI6Iks2WFVyZVFIRHZOV1Nhb2t1Z3RYXC9BPT0iLCJ2YWx1ZSI6Inp1YmEyUUxIUUtubVp0YWl5WXdyOVRMejl6cnRnWG5VXC82V2x2RjVDaHJzVE1LbFg0N2Y0K0Y1d2Z4MERGKzNcLzRIMHZrZVM3cmdyQUk4YlRwZFRLN1hcL1A3cUk0OUhaWUR5NllcL1ZSQUVjU0hMNVwvNXZVOXdJaE51T1J2cHJTTCsiLCJtYWMiOiI1MGUxOTBlYzEzNmFhZTBlYjAwYzk4OWM2M2IzOTBhMTQyYmFmM2JlN2FlYTQ4ODQ1MjE3NjFiN2YxOGYyODA0In0%3D&amp;signature=e8501ca3fbd5fd27bef98555490468d9a057abada1a8b1e3106d83b7acd4a89e</image>
+    <start>01:15AM</start>
+    <finish>02:00AM</finish>
+    <date>24 November 2026</date>
   </channel>
 </tv>
